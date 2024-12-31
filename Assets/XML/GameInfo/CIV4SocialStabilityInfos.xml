@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!-- MOD - START - Population Metrics -->
+<CIV4SocialStabilityInfos xmlns="x-schema:CIV4GameInfoSchema.xml">
+	<SocialStabilityInfos>
+		<SocialStabilityInfo>
+			<Type>SOCIALSTABILITY_STABLE</Type>
+			<Description>TXT_KEY_SOCIALSTABILITY_STABLE</Description>
+			<iMaxThreshold>600</iMaxThreshold>
+			<ColorType>COLOR_POSITIVE_TEXT</ColorType>
+		</SocialStabilityInfo>
+		<SocialStabilityInfo>
+			<Type>SOCIALSTABILITY_UNSATISFIED</Type>
+			<Description>TXT_KEY_SOCIALSTABILITY_UNSATISFIED</Description>
+			<iMaxThreshold>750</iMaxThreshold>
+			<ColorType>COLOR_WARNING_TEXT</ColorType>
+		</SocialStabilityInfo>
+		<SocialStabilityInfo>
+			<Type>SOCIALSTABILITY_MINOR_REVOLT</Type>
+			<Description>TXT_KEY_SOCIALSTABILITY_MINOR_REVOLT</Description>
+			<iMaxThreshold>900</iMaxThreshold>
+			<ColorType>COLOR_WARNING_TEXT</ColorType>
+		</SocialStabilityInfo>
+		<SocialStabilityInfo>
+			<Type>SOCIALSTABILITY_MAJOR_REVOLT</Type>
+			<Description>TXT_KEY_SOCIALSTABILITY_MAJOR_REVOLT</Description>
+			<iMaxThreshold>1000</iMaxThreshold>
+			<ColorType>COLOR_NEGATIVE_TEXT</ColorType>
+		</SocialStabilityInfo>
+	</SocialStabilityInfos>
+</CIV4SocialStabilityInfos>
+<!-- MOD - END - Population Metrics -->

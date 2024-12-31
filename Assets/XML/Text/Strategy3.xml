@@ -1,0 +1,2209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Strategy -->
+<!-- UNITINFO - STRATEGY -->
+<!-- Technologies should be colored COLOR_TECH_TEXT (example: [COLOR_TECH_TEXT]Bronze Working[COLOR_REVERT]) -->
+<!-- Unit should be colored COLOR_UNIT_TEXT (example: [COLOR_UNIT_TEXT]Archers[COLOR_REVERT]) -->
+<!-- Buildings should be colored COLOR_BUILDING_TEXT (example: [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]) -->
+<!-- Projects should be colored COLOR_PROJECT_TEXT (example: [COLOR_PROJECT_TEXT]SS Engine[COLOR_REVERT]) -->
+<!-- Anything else official (that should be capitalized) should be colored COLOR_HIGHLIGHT_TEXT (example: [COLOR_HIGHLIGHT_TEXT]Trade Mission[COLOR_HIGHLIGHT_TEXT] or [COLOR_HIGHLIGHT_TEXT]Islam[COLOR_HIGHLIGHT_TEXT]) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_TRIBAL_UNION_STRATEGY</Tag>
+		<English>The most basic of government civics, to be abandoned at the earliest convenience.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HERMITAGE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]National Art Gallery[COLOR_REVERT] doubles its city's cultural output and increases its chances of generating a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT].</English>
+		<German>Die [COLOR_BUILDING_TEXT]Eremitage[COLOR_REVERT] verdoppelt den kulturellen Aussto&#223; einer Stadt. Au&#223;erdem erh&#246;ht es die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en K&#252;nstler[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_AUTOCRACY_STRATEGY</Tag>
+		<English>A government civic that focuses on maintaining a large empire and military. In RI, this encompasses all forms of absolute monarchy, as opposed to Monarchy civic that represents monarchies where the monarch's power is checked.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MONARCHY_STRATEGY</Tag>
+		<English>A government civic that focuses on maintaining a large empire and economic growth. In RI, this encompasses all forms of limited monarchy, as opposed to Autocracy civic that represents monarchies where the monarch's power is unchecked. Examples include feudal, elective or constitutional monarchies.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_OLIGARCHY_STRATEGY</Tag>
+		<English>A government civic focused on running an overextended empire, sacrificing some military and economic aspects. In RI, this encompasses all instances where a civilization is historically represented by many independent entities - collections of city states, confederacies and leagues.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_REPUBLIC_STRATEGY</Tag>
+		<English>A government civic focused on effectively running smaller empires, both economically and militarily. In RI, this encompasses all forms of early governments not ruled as monarchies - be it Greek-style direct democracies, Venice-style merchant republics, or early federations.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DEMOCRACY_STRATEGY</Tag>
+		<English>Provides happiness to your larger cities and later on allows between a federal or a centralist constitution.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DICTATORSHIP_STRATEGY</Tag>
+		<English>Well-suited for modern warfare. The power is in the hands of the military.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FEDERALISM_STRATEGY</Tag>
+		<English>Lower upkeep costs make this civic well-suited for larger empires; note a significant bonus to GP generation.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_RULEOFFEAR_STRATEGY</Tag>
+		<English>Unlike most initial civics, this one can be useful throughout the entire span of the game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_TRADITION_STRATEGY</Tag>
+		<English>No outstanding bonuses, but able to complement other civics well due to its multi-faceted nature.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CIVIL_SERVICE_STRATEGY</Tag>
+		<English>The non-military production of your cities is improved.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ARISTOCRACY_STRATEGY</Tag>
+		<English>You might have known this one as "Vassalage" in vanilla Civ 4.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PLUTOCRACY_STRATEGY</Tag>
+		<English>Trade and industry are the keys of their power.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_COLLECTIVISM_STRATEGY</Tag>
+		<English>The State and its Army are everywhere. The Big Brother is watching you!</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SOCIAL_JUSTICE_STRATEGY</Tag>
+		<English>Emphasises culture with +100% culture output and unlimited artists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SLAVERY_STRATEGY</Tag>
+		<English>Additional commerce from mines and plantations and a new commercial building, at a cost of revolt risk.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SERFDOM_STRATEGY</Tag>
+		<English>Additional commerce and food from farms and a new production building, at a cost of revolt risk.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CASTE_SYSTEM_STRATEGY</Tag>
+		<English>More production and happiness in the cities that share your religion, at a cost of slower GP birth rate.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FREE_COMMONERS_STRATEGY</Tag>
+		<English>Faster improvement construction and town growth.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PROLETARIAT_STRATEGY</Tag>
+		<English>Halfway from Serfdom to Labor Union, this civic no longer has serf rebellions, and settlements grow faster.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FORCED_LABOR_STRATEGY</Tag>
+		<English>These modern slaves boost your production and improvement construction rate.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_LABOR_UNION_STRATEGY</Tag>
+		<English>Provides happiness to those who have it and unhappiness to those who don't.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PASTORAL_NOMADISM_STRATEGY</Tag>
+		<English>Raising of livestock will boost the yields of your pastures, but lower the yield of your farms.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_GUILD_STRATEGY</Tag>
+		<English>Earn extra gold from certain improvements. Allows construction of the Guild Halls.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MERCHANT_PRINCES_STRATEGY</Tag>
+		<English>Gives each city one more trade route and allows you to construct Great Arsenal wonder.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PROTECTIONISM_STRATEGY</Tag>
+		<English>Protect your economy with Import Tariffs and restrictive Quotas.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FREE_MARKET_STRATEGY</Tag>
+		<English>Extra trade routes in each city; better trade income.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PLANNED_ECONOMY_STRATEGY</Tag>
+		<English>Carry out a total control over the economy.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WELFARE_STATE_STRATEGY</Tag>
+		<English>Provides lots of health, happiness but avoid wars!</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ANIMISM_STRATEGY</Tag>
+		<English>Extra health and production from jungle tiles, at the cost of not being able to run a religion or construct pagan temples.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CIVIL_RELIGION_STRATEGY</Tag>
+		<English>With a State Religion, boost your production and espionage capacities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MONASTICISM_STRATEGY</Tag>
+		<English>Allow missionaries without monasteries and boosts your culture.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MILITANCY_STRATEGY</Tag>
+		<English>In the name of God, quickly build a strong army and burn the infidels.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CULT_OF_PERSONNALITY_STRATEGY</Tag>
+		<English>Love the charismatic leader! He works for you!</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SCIENTIFIC_MANAGEMENT_STRATEGY</Tag>
+		<English>Selected workers and standardized methods increase your production.</English>
+		<German>Selected workers and standardized methods increase your production.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SOCIAL_GUARANTEES_STRATEGY</Tag>
+		<English>Basic educational and healthcare rights for everyone.</English>
+		<German>Basic educational and healthcare rights for everyone.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_AGRICULTURAL_SUBSIDIES_STRATEGY</Tag>
+		<English>Increase your food production and work speed.</English>
+		<German>Increase your food production and work speed.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_DUALISM_STRATEGY</Tag>
+		<English>The first one to research this tech founds [COLOR_HIGHLIGHT_TEXT]Zoroastrianism[COLOR_REVERT]. It also leads to [COLOR_TECH_TEXT]Priesthood[COLOR_REVERT].</English>
+		<German>Der Erste, der diese Technologie erkundet, gr&#252;ndet die Religion [COLOR_HIGHLIGHT_TEXT]Zoroastrianismus[COLOR_REVERT].  Sie f&#252;hrt auch zum [COLOR_TECH_TEXT]Priestertum[COLOR_REVERT].</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CODE_OF_LAWS_STRATEGY</Tag>
+		<English>It enables the [COLOR_HIGHLIGHT_TEXT]Caste System[COLOR_REVERT] civic and allows construction of [COLOR_BUILDING_TEXT]Courthouses[COLOR_REVERT] and the [COLOR_BUILDING_TEXT]Chichen Itza[COLOR_REVERT] wonder.</English>
+		<German>Dieser erm&#246;glicht die Staatsform [COLOR_HIGHLIGHT_TEXT]Kastensystem[COLOR_REVERT] und erm&#246;glicht Ihnen den Bau von [COLOR_BUILDING_TEXT]Gerichtsgeb&#228;uden[COLOR_REVERT] und des Wunders von [COLOR_BUILDING_TEXT]Chichen Itza[COLOR_REVERT].</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ASTRONOMY_STRATEGY</Tag>
+		<English>[COLOR_TECH_TEXT]Astronomy[COLOR_REVERT] allows the [COLOR_UNIT_TEXT]Galleon[COLOR_REVERT] and [COLOR_UNIT_TEXT]Frigate[COLOR_REVERT] (with [COLOR_TECH_TEXT]Chemistry[COLOR_REVERT]) naval units. It enables trading on the ocean and lets you build [COLOR_BUILDING_TEXT]Observatories[COLOR_REVERT].</English>
+		<German>Die [COLOR_TECH_TEXT]Astronomie[COLOR_REVERT] erm&#246;glicht den Bau der [COLOR_UNIT_TEXT]Galeone[COLOR_REVERT] und der [COLOR_UNIT_TEXT]Fregatte[COLOR_REVERT] (wenn Sie die [COLOR_TECH_TEXT]Chemie[COLOR_REVERT] bereits erforscht haben). Sie zentriert die Weltkarte und erm&#246;glicht den Seehandel und den Bau von [COLOR_BUILDING_TEXT]Observatorien[COLOR_REVERT].</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_RAILROAD_STRATEGY</Tag>
+		<English>[COLOR_TECH_TEXT]Railroad[COLOR_REVERT] allows construction of [COLOR_UNIT_TEXT]Machine Gun[COLOR_REVERT] units and obsoletes the [COLOR_BUILDING_TEXT]Colossus[COLOR_REVERT] wonder. Most importantly, with [COLOR_HIGHLIGHT_TEXT]Coal[COLOR_REVERT] it allows your workers to upgrade your [COLOR_HIGHLIGHT_TEXT]Roads[COLOR_REVERT] to [COLOR_HIGHLIGHT_TEXT]Railroads[COLOR_REVERT], vastly increasing your units' movement.</English>
+		<German>Die [COLOR_TECH_TEXT]Eisenbahn[COLOR_REVERT] erm&#246;glicht den Bau von [COLOR_UNIT_TEXT]Maschinengewehren[COLOR_REVERT] und macht das [COLOR_BUILDING_TEXT]Koloss[COLOR_REVERT]-Wunder &#252;berfl&#252;ssig. Haben Sie die [COLOR_HIGHLIGHT_TEXT]Kohle[COLOR_REVERT] bereits entdeckt, k&#246;nnen Ihre Bautrupps Ihre [COLOR_HIGHLIGHT_TEXT]Stra&#223;en[COLOR_REVERT] und [COLOR_HIGHLIGHT_TEXT]Schienenwege[COLOR_REVERT] verbessern, um den Bewegungswert Ihrer Einheiten deutlich zu erh&#246;hen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HARBOR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Harbor[COLOR_REVERT] provides an additional trade route to the city.</English>
+		<German>Ein [COLOR_BUILDING_TEXT]Hafen[COLOR_REVERT] erh&#246;ht das Handelseinkommen einer Stadt und erschlie&#223;t die resourcen [COLOR_HIGHLIGHT_TEXT]Fisch[COLOR_REVERT]. Diese wirken sich wiederum positiv auf die Gesundheit Ihrer Bev&#246;lkerung aus.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GROCER_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] increases a city's commerce, health and food. It also further increases the city's health with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Citrus[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Hemp[COLOR_REVERT],  or [COLOR_HIGHLIGHT_TEXT]Bananas[COLOR_REVERT].</English>
+		<German>Ein [COLOR_BUILDING_TEXT]Kr&#228;mer[COLOR_REVERT] steigert den Wohlstand einer Stadt. Dar&#252;ber hinaus erh&#246;ht der Zugriff auf verschiedene resourcen die Zufriedenheit der Bev&#246;lkerung. F&#252;r den Bau einer [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT] ist ebenfalls ein [COLOR_BUILDING_TEXT]Kr&#228;mer[COLOR_REVERT] erforderlich.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ZOROASTRIAN_TEMPLE_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Temples[COLOR_REVERT] increase a city's happiness and culture. They are especially useful for expanding your civilization's borders during the early game.</English>
+		<German>[COLOR_BUILDING_TEXT]Tempel[COLOR_REVERT] steigern die Zufriedenheit und Kultur einer Stadt. Sie eignen sich hervorragend, um Ihre Zivilisation bereits in der Fr&#252;hphase des Spiels zu vergr&#246;&#223;ern.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ZOROASTRIAN_MONASTERY_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Monasteries[COLOR_REVERT] allow you to create [COLOR_UNIT_TEXT]Magi[COLOR_REVERT], who can spread the faith in other cities. They also provide culture and a slight boost to research.</English>
+		<German>[COLOR_BUILDING_TEXT]Kl&#246;ster[COLOR_REVERT] erm&#246;glichen die Ausbildung von [COLOR_UNIT_TEXT]Missionaren[COLOR_REVERT]. Diese verk&#252;nden in anderen St&#228;dten Ihren Glauben, steigern den kulturellen Wert und beschleunigen die Forschung.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ZOROASTRIAN_CATHEDRAL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Zoroastrian Fire Temple[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Zoroastrian Cathedral[COLOR_REVERT]) greatly increases a city's cultural output. It makes a city's citizens happy (if [COLOR_HIGHLIGHT_TEXT]Zoroastrianism[COLOR_REVERT] is the state religion).</English>
+		<German>Der [COLOR_BUILDING_TEXT]Zoroastrische Feuertempell[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Zoroastrische Kathedrale[COLOR_REVERT]) erh&#246;ht den kulturellen Aussto&#223; einer Stadt deutlich. Ist der [COLOR_HIGHLIGHT_TEXT]Zoroastrismus[COLOR_REVERT] in einer Stadt Staatsreligion, steigt die Zufriedenheit der Bev&#246;lkerung.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ZOROASTRIAN_SHRINE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Adur Burzen-Mihr[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Zoroastrian Shrine[COLOR_REVERT]) produces one gold each turn for every city in the world that practises [COLOR_HIGHLIGHT_TEXT]Zoroastrianism[COLOR_REVERT]. It also spreads [COLOR_HIGHLIGHT_TEXT]Zoroastrianism[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German>Der [COLOR_BUILDING_TEXT]Adur Burzen-Mihr[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Zorostrianischer Schrein[COLOR_REVERT]) produziert in allen St&#228;dten, die den [COLOR_HIGHLIGHT_TEXT]Zoroastrismus[COLOR_REVERT] praktizieren, 1 Gold/Runde. Au&#223;erdem verbreitet er den [COLOR_HIGHLIGHT_TEXT]Zoroastrismus[COLOR_REVERT] in aller Welt und erh&#246;ht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en Propheten[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BROADWAY_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Broadway[COLOR_REVERT] provides your civilization with five [COLOR_HIGHLIGHT_TEXT]Hit Musicals[COLOR_REVERT] resources (which provide happiness). It increases the odds that its city will generate a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT].</English>
+		<German>Durch den Bau des [COLOR_BUILDING_TEXT]Broadways[COLOR_REVERT] erh&#228;lt Ihre Zivilisation f&#252;nf [COLOR_HIGHLIGHT_TEXT]Musicals[COLOR_REVERT] zur Steigerung der Zufriedenheit Ihrer Bev&#246;lkerung. Dar&#252;ber hinaus erh&#246;hen sich die Chancen der Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en K&#252;nstler[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ROCKNROLL_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Rock-n-Roll[COLOR_REVERT] provides your civilization with five [COLOR_HIGHLIGHT_TEXT]Hit Singles[COLOR_REVERT] resources (which provide happiness). It increases the odds that its city will create a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT].</English>
+		<German>Durch die Entwicklung des [COLOR_BUILDING_TEXT]Rock 'n Roll[COLOR_REVERT] erh&#228;lt Ihre Zivilisation f&#252;nf [COLOR_HIGHLIGHT_TEXT]Hitsingles[COLOR_REVERT] zur Steigerung der Zufriedenheit Ihrer Bev&#246;lkerung. Dar&#252;ber hinaus erh&#246;hen sich die Chancen der Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en K&#252;nstler[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLLYWOOD_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Hollywood[COLOR_REVERT] provides your civilization with five [COLOR_HIGHLIGHT_TEXT]Hit Movies[COLOR_REVERT] resources (which provide happiness). It increases the odds that its city will generate a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT].</English>
+		<German>[COLOR_BUILDING_TEXT]Hollywood[COLOR_REVERT] versorgt Ihre Zivilisation mit f&#252;nf [COLOR_HIGHLIGHT_TEXT]Filmhits[COLOR_REVERT] zur Steigerung der Zufriedenheit Ihrer Bev&#246;lkerung. Dar&#252;ber hinaus erh&#246;hen sich die Chancen der Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en K&#252;nstler[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PSILO_STRATEGY</Tag>
+		<English>Plutonium Nuclear Silo is built automatically in each city after building a Fusion Plant. Plutonium Nuclear Silo can build [COLOR_HIGHLIGHT_TEXT]ICBM_P[COLOR_REVERT]. </English>
+		<German>Plutoniumraketensilos werden automatisch in jeder Stadt errichtet, wenn ein Fusionskraftwerk errichtet wurde.  Plutoniumraketensilos k&#246;nnen [COLOR_HIGHLIGHT_TEXT]ICBM_P[COLOR_REVERT] bauen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANH_STRATEGY</Tag>
+		<English>Provides a free [COLOR_UNIT_TEXT]Nuclear Silo[COLOR_REVERT] in all of your cities and enables all eligible players to build nukes.</English>
+		<English>Provides a free [COLOR_UNIT_TEXT]Nuclear Silo[COLOR_REVERT] in all of your cities.</English>
+		<German>Erm&#246;glicht das  [COLOR_UNIT_TEXT]Atomforschungslabor[COLOR_REVERT] f&#252;r Ihre Zivilisation.</German>
+		<English>Provides a free [COLOR_UNIT_TEXT]Nuclear Silo[COLOR_REVERT] in all of your cities.</English>
+		<English>Provides a free [COLOR_UNIT_TEXT]Nuclear Silo[COLOR_REVERT] in all of your cities.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAUSOLEUM_STRATEGY</Tag>
+		<English>The Mausoleum makes your Golden Ages last longer.</English>
+		<German>Bauen Sie das Mausoleum!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PAGAN_TEMPLE_STRATEGY</Tag>
+		<English>Until the birth of the Great Religions, Pagan Temples provide varied small bonuses. Linked to some civics and wonders, more bonuses are available.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TSUKIJI_STRATEGY</Tag>
+		<English>Build this wonder to get a unique Tuna Fish bonus resource to increase health in your empire!</English>
+		<German>Erbauen Sie dieses Wunder um einen einzigartigen Thunfischbonus zu erlangen, und die Gesundheit in Ihrem Imperium zu verbessern.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WRITING_STRATEGY</Tag>
+		<English>[COLOR_TECH_TEXT]Writing[COLOR_REVERT] allows you to sign [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT] trading agreements with other civilizations, which also boost your scientific research if your neighbor posses knowledge you don't have... But be careful, it also works the other way around!</English>
+		<German>Die [COLOR_TECH_TEXT]Schrift[COLOR_REVERT] erlaubt Ihnen [COLOR_HIGHLIGHT_TEXT]Offene Grenzen[COLOR_REVERT] Handelsabkommen mit anderen Zivilisationen, die auch Ihre wissenschaftliche Forschung beschleunigen, wenn Ihr Nachbar &#252;ber Wissen verf&#252;gt,  welches Sie noch nicht haben... Vorsicht: Dies geht auch in die andere Richtung!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ALPHABET_STRATEGY</Tag>
+		<English>[COLOR_TECH_TEXT]Alphabet[COLOR_REVERT] enables you to construct [COLOR_BUILDING_TEXT]Libraries[COLOR_REVERT], which boost research.</English>
+		<German>Das [COLOR_TECH_TEXT]Alphabet[COLOR_REVERT] erm&#246;glicht den Bau von [COLOR_BUILDING_TEXT]Bibliotheken[COLOR_REVERT], die Ihre Forschung anhebt, und Ihren St&#228;dten erlaubt [COLOR_HIGHLIGHT_TEXT]Forschung[COLOR_REVERT] zu bauen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CIVIL_SERVICE_STRATEGY</Tag>
+		<English>This tech allows you to build powerful [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] units (with [COLOR_TECH_TEXT]Horseback Riding[COLOR_REVERT]). [COLOR_TECH_TEXT]Civil Service[COLOR_REVERT] enables also the [COLOR_HIGHLIGHT_TEXT]Bureaucracy[COLOR_REVERT] civic and allows you to build [COLOR_UNIT_TEXT]Macemen[COLOR_REVERT] (with [COLOR_TECH_TEXT]Machinery[COLOR_REVERT]). Further, it lets your workers spread [COLOR_HIGHLIGHT_TEXT]Irrigation[COLOR_REVERT].</English>
+		<German>Diese Technologie erlaubt die Erschaffung von [COLOR_UNIT_TEXT]Rittern[COLOR_REVERT]  (mit [COLOR_TECH_TEXT]Reiten[COLOR_REVERT]). [COLOR_TECH_TEXT]Civil Service[COLOR_REVERT] erlaubt auch die  [COLOR_HIGHLIGHT_TEXT]B&#252;rokratie[COLOR_REVERT] und gestattet die Errichtung von [COLOR_UNIT_TEXT]Streikolbenk&#228;mpfer[COLOR_REVERT] (mit [COLOR_TECH_TEXT]Machinenbau[COLOR_REVERT]).</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_GUILDS_STRATEGY</Tag>
+		<English>This tech allows you to build the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] city improvement. It increases production from all workshops by 1.</English>
+		<German>Diese Technologie erm&#246;glicht den Bau einer Modernisierung ([COLOR_BUILDING_TEXT]Kr&#228;mer[COLOR_REVERT]). Dar&#252;ber hinaus steigt die Produktion aller Werkst&#228;tten um 1.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GUTENBERG_STRATEGY</Tag>
+		<English>This is the first print press machinery, use it to produce books for your own use and also for export!</English>
+		<German>Dies ist die erste Druckmachine, benutzen Sie sie um B&#252;cher f&#252;r sie und den Export zu produzieren!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GONDESHAPUR_STRATEGY</Tag>
+		<English>Build this wonder to get a boost in science, global health and reduce epidemic chance.</English>
+		<German>Bauen Sie dieses Wunder um einen Forschungsschub , Gesundheit und Wissenschaftler zu erlangen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ASKLEPIEION_STRATEGY</Tag>
+		<English>Build this wonder to get a boost in science, global health and reduce epidemic chance.</English>
+		<German>Bauen Sie dieses Wunder um einen Forschungsschub , Gesundheit und Wissenschaftler zu erlangen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARTOFWAR_STRATEGY</Tag>
+		<English>Provides +2 additional experience to all new units.</English>
+		<German>M&#246;chten Sie einen Krieg f&#252;hren, sollten Sie die Kunst der Kriegsf&#252;hrung verstehen. Milit&#228;rische Erfahrung ist der Schl&#252;ssel.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOUVRE_STRATEGY</Tag>
+		<English>Build this to get a great boost in culture.</English>
+		<German>Erbauen Sie dieses Wunder um einen Kulturanstieg zu erlangen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEMPEROPER_STRATEGY</Tag>
+		<English>Build this to get a great boost in culture.</English>
+		<German>Erbauen Sie dieses Wunder um einen Kulturanstieg zu erlangen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARAVANHOUSE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Caravan House[COLOR_REVERT] increases income from trade routes and raises commerce output from various improvements.</English>
+		<German>The [COLOR_BUILDING_TEXT]Caravan House[COLOR_REVERT] increases income from trade roads as well as raising gold input from various improvements.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARAVANHOUSE_TRANS_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Caravansarai[COLOR_REVERT] increases income from trade routes and raises commerce output from various improvements; in addition, Transoxiana gains +1 free specialist per Silk Road Trading Town in the radius of the city with a Caravanserai.</English>
+		<German>The [COLOR_BUILDING_TEXT]Caravan House[COLOR_REVERT] increases income from trade roads as well as raising gold input from various improvements.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARAVANHOUSE_PERSIA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Caravanserai[COLOR_REVERT] increases income from trade routes and raises commerce output from various improvements.</English>
+		<German>The [COLOR_BUILDING_TEXT]Caravanserai[COLOR_REVERT] increases income from trade routes and raises commerce output from various improvements.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIVE_FACTORY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Native Factory[COLOR_REVERT] increases income from trade routes and raises commerce output from various improvements. It also provides one more commerce yield per river title.</English>
+		<German>The [COLOR_BUILDING_TEXT]Native Factory[COLOR_REVERT] increases income from trade roads as well as raising gold input from various improvements. It also provides one more gold yield per river title.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRADING_POST_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Trading post[COLOR_REVERT] increases income from foreign trade routes and provides happiness from sugar, coffee and tobacco.</English>
+		<German>The [COLOR_BUILDING_TEXT]Trading post[COLOR_REVERT] increases income from foreign trade roads and provides happiness from sugar, coffee and tobacco.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PALISSADES_STRATEGY</Tag>
+		<English>This building provides defense to units within its city, and sets the framework for a stone wall later on.</English>
+		<German>Die Palisaden sch&#252;tzen Ihre Einheiten etwas gegen feindliche Angriffe, und bilden die Basis f&#252;r sp&#228;tere Stadtmauern.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WELL_STRATEGY</Tag>
+		<English>This building provides a health bonus and epidemic chance reduction.</English>
+		<German>Brunnen liefern Trinkwasser und verbessern damit die Gesundheit Ihrer B&#252;rger.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WATERWORKS_STRATEGY</Tag>
+		<English>This expensive building provides a large health bonus.</English>
+		<German>Brunnen liefern Trinkwasser und verbessern damit die Gesundheit Ihrer B&#252;rger.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROPAGANDA_STRATEGY</Tag>
+		<English>This building depends on Cult of Personality, lowers war exhaustion and raises military unit production.</English>
+		<German>H&#246;rt die Nachricht Euerer Regierung... Sie verk&#252;ndet Gro&#223;es!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FEUDALISM_STRATEGY</Tag>
+		<English>[COLOR_TECH_TEXT]Feudalism[COLOR_REVERT] allows production of [COLOR_UNIT_TEXT]Men-at-Arms[COLOR_REVERT] and all other unique Man-at-Arms units (with [COLOR_TECH_TEXT]Metal Casting[COLOR_REVERT]) and also Mali's mounted [COLOR_UNIT_TEXT]Tuareg[COLOR_REVERT] unit.</English>
+		<German>[COLOR_TECH_TEXT]Feudalismus[COLOR_REVERT] erlaubt das Aufstellen von [COLOR_UNIT_TEXT]Streitkolbenk&#228;mpfern[COLOR_REVERT]   (mit [COLOR_TECH_TEXT]Eisenverarbeitung[COLOR_REVERT]) und Mali's  [COLOR_UNIT_TEXT]Tuareg[COLOR_REVERT] . Es gestattet auch die Staatsformen  [COLOR_HIGHLIGHT_TEXT]Vassalentum[COLOR_REVERT] und [COLOR_HIGHLIGHT_TEXT]Leibeigenschaft[COLOR_REVERT].</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_STRATEGY</Tag>
+		<English>Great Temples can be constructed by Great Prophets and provide a wide variety of bonuses depending on the religion.</English>
+		<German>A sacred and famous Temple for a Holy Man.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WEAPON_SMITHING_STRATEGY</Tag>
+		<English>Improve your armies! Make yourself some bronze weapons!</English>
+		<German>Improve your armies ! Build bronze weapons !</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WEAVING_STRATEGY</Tag>
+		<English>The first local industries: a way to earn money...</English>
+		<German>The first local industries: a way to earn money...</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_COMMERCE_CODE_STRATEGY</Tag>
+		<English>Allows more trade, and thus more gold!</English>
+		<German>Allow more trade, so more gold !</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROCESS_LOCAL_CRAFTS_STRATEGY</Tag>
+		<English>Turns city production into small amounts of gold and research (at a much worse ratio than later specialized processes).</English>
+		<German>Boost your local commerce !</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GRAND_ARSENAL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Grand Arsenal[COLOR_REVERT] is a powerful tool to build a strong navy in a short time.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_JET_PROPULSION_STRATEGY</Tag>
+		<English>Faster is better! Build a fast and strong air force.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MODERN_AERIAL_WARFARE_STRATEGY</Tag>
+		<English>Rules the sky, hit the ground... You will win your wars!</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_COMBINED_ARMS_STRATEGY</Tag>
+		<English>Diversity is a weapon. Use it well and you will win.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SYNTHETIC_OIL_PLANT_STRATEGY</Tag>
+		<English>Produces fuel from coal.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NAVAL_WORKSHOP_STRATEGY</Tag>
+		<English>Produces Naval Supplies. Naval Supplies allow you to build sailing ships faster.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FEUDAL_LAND_TENURE_STRATEGY</Tag>
+		<English>Provides a defence bonus and +1 happiness to Castles when running Monarchy and Feudal Aristocracy.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENLIGHTENED_ABSOLUTISM_STRATEGY</Tag>
+		<English>Provides +1 culture to Theaters and Operas, and +1 happiness to Schools and Universities when running Despotism and Free Religion.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONSTITUTIONAL_MONARCHY_STRATEGY</Tag>
+		<English>Provides major global health, happiness, culture, GP and GG bonus, as well as a +25% to all commerce in the capital when running Monarchy and Representation.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_MAUSOLEUM_ZOROASTRIAN_STRATEGY</Tag>
+		<English>Provides a Blessed promotion to units constructed in the city, and a global bonus to certain specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_BAMYAN_STATUE_STRATEGY</Tag>
+		<English>Provides a Blessed promotion to units constructed in the city, and a global bonus to certain specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_SCHOOL_OF_CONFUCIUS_STRATEGY</Tag>
+		<English>Provides a Blessed promotion to units constructed in the city, and a global bonus to certain specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_ARC_OF_THE_COVENANT_STRATEGY</Tag>
+		<English>Provides a Blessed promotion to units constructed in the city, and a global bonus to certain specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_VIJAY_STAMBHA_STRATEGY</Tag>
+		<English>Provides a Blessed promotion to units constructed in the city, and a global bonus to certain specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_ST_PETER_CATHEDRAL_STRATEGY</Tag>
+		<English>Provides a Blessed promotion to units constructed in the city, and a global bonus to certain specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPHINX_STRATEGY</Tag>
+		<English>The Great Sphinx increases the happiness of your cities owning a Kemet Temple.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARTER_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Warehouse[COLOR_REVERT] is the first building that can be used to assign Craftsmen.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUMPY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Humpy[COLOR_REVERT], the Aboriginal replacement for the [COLOR_BUILDING_TEXT]Warehouse[COLOR_REVERT], offers health, epidemic and production bonuses. Never obsolete.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TIPI_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Tipi[COLOR_REVERT], the Sioux replacement for the [COLOR_BUILDING_TEXT]Warehouse[COLOR_REVERT], offers health, healing and production bonuses. Never obsolete.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BORA_RING_STRATEGY</Tag>
+		<English>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which provides a strong culture boost, at a lower cost. Never obsolete.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SACRED_POLE_STRATEGY</Tag>
+		<English>The Apache replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Sacred Pole[COLOR_REVERT], which provides a culture boost and increases your recon units war capacities. Never obsolete.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WAR_EAGLE_POLE_STRATEGY</Tag>
+		<English>The Algonquin replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]War Eagle Pole[COLOR_REVERT], which provides a culture boost and increases your military prodution. Never obsolete.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NORTH_TOTEM_STRATEGY</Tag>
+		<English>The Haida-Inuit replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]North Totem[COLOR_REVERT], which provides a culture boost and gives "Arctic Combat I" free promo. Never obsolete.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TOTEM_POLE_STRATEGY</Tag>
+		<English>The Cherokee replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Totem Pole[COLOR_REVERT], which provides a culture boost and increases your melee units war capacities. Never obsolete.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPIRIT_POLE_STRATEGY</Tag>
+		<English>The Iroquois replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Spirit Pole[COLOR_REVERT], which provides a culture boost and gives "River Combat" free promo. Never obsolete.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DRYER_STRATEGY</Tag>
+		<English>The Apache replace the [COLOR_BUILDING_TEXT]Smokehouse[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Smoke Signals[COLOR_REVERT], which provides additional city defense.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STORYTELLER_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Storyteller[COLOR_REVERT] provides a small bonus in research.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELDER_HUT_STRATEGY</Tag>
+		<English>The Cherokee replaces the [COLOR_BUILDING_TEXT]Storyteller[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Elder's Hut[COLOR_REVERT], which provides both a small bonus in research and increases the city's global research. Never obsolete.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LONGHOUSE_STRATEGY</Tag>
+		<English>The Iroquois replace the [COLOR_BUILDING_TEXT]Barrack[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Longhouse[COLOR_REVERT], which provides the usual barrack bonuses and an increased defense bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]City Square[COLOR_REVERT] provides a 10% boost to culture and commerce outputs.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCK_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Fishing Dock[COLOR_REVERT] increases the food harvested from water tiles.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FISHERY_STRATEGY</Tag>
+		<English>The Austronesians replace the [COLOR_BUILDING_TEXT]Fishing Dock[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fishery[COLOR_REVERT], which provides twice the usual Dock bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE_HAIDA_INUIT_STRATEGY</Tag>
+		<English>The Haida-Inuit replace the [COLOR_BUILDING_TEXT]City Square[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Inuksuk[COLOR_REVERT], which provides the usual City Square bonus and an extra food yield to camps and fishing boats.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TOLL_HOUSE_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Toll House[COLOR_REVERT] provides +15% gold.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAX_FARMING_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Tax Office[COLOR_REVERT] provides +25% gold.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TOLLS_STRATEGY</Tag>
+		<English>Generate income by taxing the roads.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_AGRICULTURAL_MACHINES_STRATEGY</Tag>
+		<English>More machines, more food!</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ROADBUILDING_STRATEGY</Tag>
+		<English>Build [COLOR_HIGHLIGHT_TEXT]Roads[COLOR_REVERT] or [COLOR_HIGHLIGHT_TEXT]Paved Roads[COLOR_REVERT]. Efficient roads will improve your economy, a well as culture and religion spreading, and will allow your armies to move faster.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STABLE_NATIVE_NORTH_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Horse Pasture[COLOR_REVERT] is the native equivalent of the [COLOR_BUILDING_TEXT]Stable[COLOR_REVERT] and allows them to produce [COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT] in their cities. It can only be built by native civilizations. - adapted from Colonization.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MARAE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Marae[COLOR_REVERT], the Polynesian replacement for the [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT], offers bonus culture.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNGARY_HERO_SQUARE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Heroes' Square[COLOR_REVERT] is the Hungarian replacement for the [COLOR_BUILDING_TEXT]Triumphal Arch [COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNGARY_VEGVAR_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Vegvars[COLOR_REVERT] replace [COLOR_BUILDING_TEXT]castles[COLOR_REVERT]; they provide additional experience to recon and ranged mounted units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STABLE_HUN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Hunic Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Stable[COLOR_REVERT]; it gives one free health and a large bonus to mounted light units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BABYLON_GARDEN_2_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Garden[COLOR_REVERT], the Babylonian replacement for the [COLOR_BUILDING_TEXT]City Square[COLOR_REVERT], provides one bonus health in addition to the usual happiness bonus. It also gives a bonus to epidemic chance.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TUPI_ALTAR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Cannibal Altar[COLOR_REVERT], the Tupi replacement for the [COLOR_BUILDING_TEXT]Pagan Temple[COLOR_REVERT], provides one free xp to melee unit in addition to the usual culture bonus. It also gives one more food.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNTER_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Hunter's Cabin[COLOR_REVERT] provides one free xp to recon units and one food. Its bonuses are active only under Subsistence Economy civic.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNTER_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Hunter's Camp[COLOR_REVERT], the Tupi replacement for the [COLOR_BUILDING_TEXT]Hunter's Cabin[COLOR_REVERT], provides one more hammer in addition to the usual bonuses. Its bonuses are active only under decentralization civic.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARAWAK_CONUCOS_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Conucos[COLOR_REVERT] is the Arawak replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]. As an earthen mound, it is much cheaper to produce. It also provides one happiness with corn.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARAWAK_BATEY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Batey[COLOR_REVERT] is the Arawak replacement for the [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT]. As an earthen structure, it is much cheaper to produce. It also provides some maintenance bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PATAGONIAN_YAGHANSUA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Yaghansua[COLOR_REVERT] is the Patagonian replacement for the [COLOR_BUILDING_TEXT]Dock[COLOR_REVERT]. It provides a small commerce bonus. Whale hunting also provides some food resources.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_POTTERY_SHOP_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Potter's Workshop[COLOR_REVERT] provides +1 gold and gives a small bonus versus epidemics.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NUBIAN_POTTER_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Nubian Potter[COLOR_REVERT] is the Nubian replacement for the [COLOR_BUILDING_TEXT]Potter's shop[COLOR_REVERT]. It increases the epidemic bonus and gives a small culture bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ETHIOPIAN_STELE_2_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Stele[COLOR_REVERT], the Ethiopian replacement for the [COLOR_BUILDING_TEXT]Pagan Temple[COLOR_REVERT], provides a major bonus to Culture output in your city and XP to Archery units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_JEWEL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Jeweler[COLOR_REVERT] provides a commerce bonus to Precious Mines as well as a happiness bonus with gold, silver and gems.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAILOR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Tailor[COLOR_REVERT] provides a happiness bonus with Silk and Fur resources.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARPET_WORKSHOP_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Carpet Workshop[COLOR_REVERT] provides a happiness bonus with Silk and Fur resources.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ETHIOPIAN_JEWELLERY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Haymanot Jeweler[COLOR_REVERT], the Ethiopian replacement for the [COLOR_BUILDING_TEXT]Jeweler[COLOR_REVERT], provides a major bonus to Culture output in your city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BANTU_STRONGHOLD_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Rammed Earth Stronghold[COLOR_REVERT], the Bantu replacement for the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT], can be built earlier than a [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT] and at a reduced cost. No tech is required but walls. It also provides a strong Culture bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BERBER_FOGGARA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Foggara[COLOR_REVERT], the Berber unique building, replaces the [COLOR_BUILDING_TEXT]Public Well[COLOR_REVERT]. It provides the same health bonus as the later Aqueduct, and also provides a small food bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AQUEDUCT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Aqueduct[COLOR_REVERT] improves a city's health, reduces epidemic chances and is required to build the [COLOR_BUILDING_TEXT]Baths[COLOR_REVERT].</English>
+		<German>Das [COLOR_BUILDING_TEXT]Aqu&#228;dukt[COLOR_REVERT] verbessert die Gesundheit einer Stadt. Gleichzeitig ist es die Voraussetzung f&#252;r den Bau der [COLOR_BUILDING_TEXT]H&#228;ngenden G&#228;rten[COLOR_REVERT]. Errichten Sie [COLOR_BUILDING_TEXT]Aqu&#228;dukte[COLOR_REVERT], wenn Sie eine Stadt vergr&#246;&#223;ern m&#246;chten oder die Bev&#246;lkerung danach verlangt.</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MILITARY_AIRPORT_STRATEGY</Tag>
+		<English>A city with an [COLOR_BUILDING_TEXT]Airbase[COLOR_REVERT] can airlift one unit per turn to any of your other cities. [COLOR_UNIT_TEXT]Helicopters[COLOR_REVERT] receive 2 free xp.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AIRPORT_2_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Airports[COLOR_REVERT] add an additional trade route, as well as raise the commerce from trade routes and also add unhealthiness in cities. It is required to build Seaside Resorts.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARSENAL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Arsenal[COLOR_REVERT] grants one free XP to gunpowder units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARSENAL_ROME_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Arsenale[COLOR_REVERT] grants two free XP to gunpowder and recon units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TANK_FACTORY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Armament industry[COLOR_REVERT] grants two free XP to siege and armoured units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARTILLERY_YARD_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Artillery yard[COLOR_REVERT] produces Artillery.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Automobile Company[COLOR_REVERT] produces Motor Vehicles resource.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Pharmaceutical Company[COLOR_REVERT] produces Pharmaceuticals resource.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Major film studio[COLOR_REVERT] produces Movies resource.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLAST_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Blast furnace[COLOR_REVERT] provides a strong production bonus with copper,coal and iron, provides a free Craftsman and an additional Craftsman slot. It also adds unhealthiness in cities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCK_POLYNESIA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Pearl Harbor[COLOR_REVERT] is the Polynesian replacement for the [COLOR_BUILDING_TEXT]Dock[COLOR_REVERT]. It provides a small production bonus, as well as one happy face with Pearls.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PALACE_MINOR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Tribe's Hall[COLOR_REVERT] is the minor replacement for the [COLOR_BUILDING_TEXT]Palace[COLOR_REVERT]. It provides the free building Elder's Council.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINOR_COUNCIL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Elder's council[COLOR_REVERT] grants a large maintenance bonus in exchange of a large penalty in research and gold income.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PORCELAIN_WORKSHOP_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Porcelain Workshop[COLOR_REVERT] is the Chinese replacement for the [COLOR_BUILDING_TEXT]Glasswork[COLOR_REVERT]. It produces Glassware resource (used in-game to represent porcelainware as well).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ISRAELI_FORT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Judean Fortress[COLOR_REVERT], the Israeli replacement for the [COLOR_BUILDING_TEXT]Walls[COLOR_REVERT], boosts both science and culture beyond the normal levels.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNTER_SIBERIA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Hunter's Grounds[COLOR_REVERT], the Siberian replacement for the [COLOR_BUILDING_TEXT]Hunter's Cabin[COLOR_REVERT] provides one free XP to recon units, one more food and two more hammers. Unlike the [COLOR_BUILDING_TEXT]Hunter's Cabin[COLOR_REVERT], its bonuses are always active.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAVERN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Tavern[COLOR_REVERT] provides +1 happiness with wine and alcohol and an espionage point.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAVERN_JAPAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Geisha House[COLOR_REVERT] provides +1 happiness with wine and alcohol and an espionage point.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BEERHALL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Beer hall[COLOR_REVERT], the Celtic replacement for the [COLOR_BUILDING_TEXT]Tavern[COLOR_REVERT] provides one free XP to melee units and one more happy face with wheat, in addition to the Tavern bonuses.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CELTIC_DUN_2_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Dun[COLOR_REVERT], the Celtic replacement for [COLOR_BUILDING_TEXT]Walls[COLOR_REVERT] increases the city's defenses against pre gunpowder units, and costs less to build.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STONECUTTER_STRATEGY</Tag>
+		<English>With two Limestone, the [COLOR_BUILDING_TEXT]Stonecutter[COLOR_REVERT] provides one Masonry Material and a Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BRICKWORK_STRATEGY</Tag>
+		<English>With two Coal, the [COLOR_BUILDING_TEXT]Brick Kiln[COLOR_REVERT] provides one Masonry Material and a Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CEMENT_STRATEGY</Tag>
+		<English>With coal and limestone, the [COLOR_BUILDING_TEXT]Cement Factory[COLOR_REVERT] provides one Cement, one Masonry Material and a Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BRONZEFORGE_STRATEGY</Tag>
+		<English>With Copper, the [COLOR_BUILDING_TEXT]Bronze Smith[COLOR_REVERT] provides one Bronze resource and a medium production bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CANNED_FOOD_FACTORY_STRATEGY</Tag>
+		<English>With either Fish, Crab, Cattle or Corn, the [COLOR_BUILDING_TEXT]Canned Food[COLOR_REVERT] provides one Canned Food resource and one Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHEMICAL_PLANT_STRATEGY</Tag>
+		<English>With Sulfur, Oil and Coal, the [COLOR_BUILDING_TEXT]Chemical Plant[COLOR_REVERT] provides one plastic resource and Engineer and Craftsman slots.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CLINIC_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Clinic[COLOR_REVERT] provides +3 health and also decreases the epidemic chance.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PERSIAN_APOTHECARY_2_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Apothecary[COLOR_REVERT] additionally provides +10% gold and also provides +1 happiness with Tobacco.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITY_CLOCK_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Clock Tower[COLOR_REVERT] increases various outputs of several other buildings, and as such is best constructed in a city that already has them.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONSUMER_INDUSTRY_STRATEGY</Tag>
+		<English>With Electric Gear and Plastic, the [COLOR_BUILDING_TEXT]Consumer Industry[COLOR_REVERT] provides one Household Appliances resource, one free Craftsman and one Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TEXTILE_MILL_STRATEGY</Tag>
+		<English>With either Sheep (wool) or Cotton, the [COLOR_BUILDING_TEXT]Textile Mill[COLOR_REVERT] provides one Fabric resource, a small commerce bonus, one free Craftsman and a Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CLOTHING_STRATEGY</Tag>
+		<English>With Fabric and Dye, the [COLOR_BUILDING_TEXT]Clothing Factory[COLOR_REVERT] provides one Clothes resource, a small commerce bonus, one free Craftsman and a Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SYNTHETIC_DYE_STRATEGY</Tag>
+		<English>With Coal and Oil, the [COLOR_BUILDING_TEXT]Synthetic Dye Plant[COLOR_REVERT] provides one Dye resource, a commerce bonus and a Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELECTRIC_GEAR_FACTORY_STRATEGY</Tag>
+		<English>With Copper, the [COLOR_BUILDING_TEXT]Electric Gear Factory[COLOR_REVERT] provides one Electric Gear resource, a small commerce bonus and one Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELECTRONICS_FACILITY_STRATEGY</Tag>
+		<English>With Gold and Electric Gear, the [COLOR_BUILDING_TEXT]Electronics Facility[COLOR_REVERT] provides two Microchip resources and boosts your research by 15%.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENRICHMENT_FACILITY_STRATEGY</Tag>
+		<English>With Uranium, the [COLOR_BUILDING_TEXT]Enrichment Facility[COLOR_REVERT] provides one Nuclear Fuel resource and boosts your research by 5%.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FASHION_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Designer Outlet[COLOR_REVERT] provides +1 happiness with [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT] and raises your commerce income by 5%.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FERTILIZER_FACTORY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Fertilizer Factory[COLOR_REVERT] increases the food or commerce output of many improvements.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_POWDER_MILL_STRATEGY</Tag>
+		<English>With Sulfur, the [COLOR_BUILDING_TEXT]Powder Mill[COLOR_REVERT] provides one Black Powder resource and one Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FIREARMS_FACTORY_STRATEGY</Tag>
+		<English>With Steel, the [COLOR_BUILDING_TEXT]Firearms Factory[COLOR_REVERT] provides one Firearms resource and one Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FIREARMS_FACTORY2_STRATEGY</Tag>
+		<English>With Steel, the [COLOR_BUILDING_TEXT]War Factory[COLOR_REVERT] provides one Semi-Automatic Firearms resource and one Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FIREARMS_FACTORY3_STRATEGY</Tag>
+		<English>With Steel, the [COLOR_BUILDING_TEXT]Arms Manufacturer[COLOR_REVERT] provides one Assault Rifles resource and one Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FURNITURE_FACTORY_STRATEGY</Tag>
+		<English>With Prime Timber and Fabric, the [COLOR_BUILDING_TEXT]Furniture Factory[COLOR_REVERT] provides one Furniture resource, +5% commerce and one Craftsman slot.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GAS_PLANT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Gas Plant[COLOR_REVERT] provides clean power to the city and allow the built of the [COLOR_BUILDING_TEXT]GazProm[COLOR_REVERT] wonder.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GLASSWORK_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Glasswork[COLOR_REVERT] produces Glassware resource.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GHALL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Guild Hall[COLOR_REVERT] provides a production bonus to your Cottages and a slot for one Craftsman.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALAMUT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Fortress Alamut[COLOR_REVERT] boosts your espionage capacities, gives one free Spy and allows you to turn two citizens into Spies.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ISHTAR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Ishtar Gate[COLOR_REVERT] raises the city defense and gives +2 espionage to all [COLOR_BUILDING_TEXT]Walls[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LEONARDO_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Leonardo Workshop[COLOR_REVERT] gives +1 culture to all Engineers and scientists in all your cities and +1 production and research to all workshops in your empire.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KGB_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Lubyanka (KGB)[COLOR_REVERT] reduces your war weariness and raises it for your opponents. It also raises your espionage by 25% in all cities and gives you some defense against foreign spies.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_5_YEARS_PLAN1_STRATEGY</Tag>
+		<English>With the [COLOR_BUILDING_TEXT]5 Year Plan[COLOR_REVERT], hurry production costs are divided by two.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BIGBEN_STRATEGY</Tag>
+		<English>Under Parliamentarism, the [COLOR_BUILDING_TEXT]Big Ben[COLOR_REVERT] gives +1 happiness in all your cities and a small GP birth rate boost. It also gives +1 culture to all [COLOR_BUILDING_TEXT]Clock Towers[COLOR_REVERT]. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_QUANTUM_THEORY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Quantum Theory[COLOR_REVERT] provides one free scientist and a research bonus. It also gives +1 research to all [COLOR_BUILDING_TEXT]Universities[COLOR_REVERT] and [COLOR_BUILDING_TEXT]Laboratories[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EIFFEL_TOWER_2_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Eiffel Tower[COLOR_REVERT] provides a large culture bonus in that city, +2 relations with all other civilizations, and a bonus to culture for all Engineers. Its city has an improved chance of generating a [COLOR_UNIT_TEXT]Great Engineer[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EVOLUTION_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Theory of Evolution[COLOR_REVERT] provides a free technology. It also gives +1 research to all Priests and +2 research to all Scientists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLETCHLEY_PARK_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Betchley Park[COLOR_REVERT] boosts both your espionage defense and your espionage capacities. It gives +1 espionage to [COLOR_BUILDING_TEXT]Universities[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FUSIONPLANT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]ITER[COLOR_REVERT] provides power in all your cities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHEOMSEONDAE_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Cheomseondae[COLOR_REVERT] boosts your research by 5 points and provides +2 research per scientist in this city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CRYSTAL_PALACE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Crystal Palace[COLOR_REVERT] provides two free Steel resources and an +1 production to [COLOR_BUILDING_TEXT]Steel Mills[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COPERNICUS_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Copernicus' Observatory[COLOR_REVERT] grants a bonus to research and a +1 research to [COLOR_BUILDING_TEXT]Observatories[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DASKAPITAL_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Das Kapital[COLOR_REVERT] enables all Economy civics. It also provides +1 gold per merchant.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GAZPROM_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]GazProm[COLOR_REVERT] provides two Natural Gas resources and boosts your Gas income.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HANSA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Hanseatic League[COLOR_REVERT] provides one free trade route in all coastal cities, boosts trade income and gives +2 commerce to each Fair.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRADING_COMPANY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Trading Company[COLOR_REVERT] provides a small commerce bonus with 15 resources, a foreign trade bonus and one gold to harbors.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WOMAN_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Universal Suffrage[COLOR_REVERT] reduces the war weariness by 25% and raises Golden Age length by 25%.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TUPI_CAMP_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Hunter's Camp[COLOR_REVERT], the Tupi replacement for the  [COLOR_BUILDING_TEXT]Hunter's Cabin[COLOR_REVERT] provides one more hammer, in addition to the Hunter's Cabin bonuses.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TARIFF_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Import Tariff[COLOR_REVERT] reduces the foreign trade route income. It also produces some gold yield income and happiness with Clothes and Naval Supply resources. It can only be built by a [COLOR_UNIT_TEXT]Tax Collector[COLOR_REVERT] and under Mercantilism civic.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INDUSTRIAL_SHIPYARD_STRATEGY</Tag>
+		<English>With the [COLOR_BUILDING_TEXT]Industrial Shipyard[COLOR_REVERT], modern navies can be built quickly. It is also needed to build the [COLOR_BUILDING_TEXT]Eirik Raude[COLOR_REVERT] wonder.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELECTRIC_SUBSTATION_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Electric Substation[COLOR_REVERT] provides power to your city and its industry. Craftsman will receive +1 production and your city +1 happy face. It needs to be powered to function.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Agronomy Station[COLOR_REVERT] raises the food kept in the city and gives +1 commerce or food to certain agricultural terrain improvements.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AGRICULTURAL_DEPOT_STRATEGY</Tag>
+		<English>With Fuel and Power, the [COLOR_BUILDING_TEXT]Agricultural Depot[COLOR_REVERT] raises the food production at the cost of one health.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IRONWORKS_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Foundry[COLOR_REVERT] raises your production with all metal resources and provides +1 free Craftsman and 2 Craftsman slots. It is also need to build the [COLOR_BUILDING_TEXT]Eiffel Tower[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELEPHANT_STABLE_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Large Stable[COLOR_REVERT] is needed to train [COLOR_UNIT_TEXT]War Elephants[COLOR_REVERT]. It also provides some healing bonuses to mounted units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANOR_STRATEGY</Tag>
+		<English>Under Serfdom, a [COLOR_BUILDING_TEXT]Manor[COLOR_REVERT] provides a small production income as well as a commerce bonus to farm and food related improvements. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FAZENDA_STRATEGY</Tag>
+		<English>Unlike regular Manor, a [COLOR_BUILDING_TEXT]Fazenda[COLOR_REVERT] requires Slavery civic and provides a food bonus to Slave Farms and a commerce bonus to all types of Plantations. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HACIENDA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Hacienda[COLOR_REVERT] is the Mexican National Building. It gives a small cultural bonus and a maintenance bonus in addition to the manor bonus. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WORKSHOP_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Workshop[COLOR_REVERT] provides a small boost to the Craftsman specialist production and a Craftsman slot. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANUFACTORY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Manufactory[COLOR_REVERT] provides a small boost to the Craftsman specialist production and 2 Craftsman slots. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRANSIT_STRATEGY</Tag>
+		<English>To reduce fossil fuel pollution, build a [COLOR_BUILDING_TEXT]Mass Transit System[COLOR_REVERT]. With fuel and coal, it provides some health to the city. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAYOR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Mayor's Office[COLOR_REVERT] reduces the maintenance cost in the city, as well as providing some happiness under democratic civics. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CAGE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Mob Justice[COLOR_REVERT] provides a quick solution to most problems. At the cost of a great loss of culture, +1 happiness is available.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DIOCESE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Monastic Order[COLOR_REVERT] provides some healing bonus to land units, one more experience to melee units, a small bonus in culture and improves the effectiveness of farms and wineries, at the cost of some maintenance. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OIL_REFINERY_STRATEGY</Tag>
+		<English>With Oil, the [COLOR_BUILDING_TEXT]Oil Refinery[COLOR_REVERT] provides one Fuel resource, improves Oil Wells and small commerce bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OPERA_STRATEGY</Tag>
+		<English>An [COLOR_BUILDING_TEXT]Opera[COLOR_REVERT] boosts your city culture and gives +1 happiness with Hit Singles and/or Hit Musicals.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REAPER_STRATEGY</Tag>
+		<English>Not a building, but a visual cue for an ongoing epidemic.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PATENT_BUREAU_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]National Patent Office[COLOR_REVERT] boosts your research and gold income, and improves the research output of Scientists and Engineers.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RAILSTATION_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Railway Station[COLOR_REVERT] provides a free trade route and icreases your trade route income.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RETAIL_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Retail Store[COLOR_REVERT] provides a large amount of health and happiness bonuses with various resources.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ROCKET_ASSEMBLY_PLANT_STRATEGY</Tag>
+		<English>With Aluminium and Iron, the [COLOR_BUILDING_TEXT]Rocket Assembly Plant[COLOR_REVERT] provides one Rockets and Missiles resource and a small commerce bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DISTILLERY_STRATEGY</Tag>
+		<English>With Sugar, the [COLOR_BUILDING_TEXT]Distillery[COLOR_REVERT] provides one Alcohol resource.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCHOOL_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]School[COLOR_REVERT] slightly boosts your research and GP points.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCHOOL_AZTEC_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Calmecac[COLOR_REVERT] is a unique Aztec school that, in addition to usual bonuses, provides +2 XP to melee and recon units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SHIPYARD_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Shipyard[COLOR_REVERT] improves naval unit production and provides more food from water tiles.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SAKURA_GARDENS_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Sakura Garden[COLOR_REVERT] is the Japanese replacement for the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT]. It provides culture and happiness in addition to the usual bonuses.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COLOSSEUM_JAPAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Dohyo[COLOR_REVERT] is the Japanese replacement for the [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]. It provides the same bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BANYA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Banya[COLOR_REVERT] is the Russian replacement for the [COLOR_BUILDING_TEXT]Bath[COLOR_REVERT]. It doesn't require an Aqueduct to be built, is never obsolete and is very cheap (half a bath cost). It also provides a small culture bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_BUILDING_SAUNA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Sauna[COLOR_REVERT] is the Finnish replacement for the [COLOR_BUILDING_TEXT]Bath[COLOR_REVERT]. It doesn't require an Aqueduct to be built, is never obsolete and is very cheap. It also provides a happiness bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CATTLE_RANCH_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Ranch[COLOR_REVERT] is the American replacement for the [COLOR_BUILDING_TEXT]Smokehouse[COLOR_REVERT]. It gives +2 XP and a small healing bonus to recon and ranged mounted units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SMOKEHOUSE_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Smokehouses[COLOR_REVERT] stock food to help increase a city's growth rate. They add health if your city have access to [COLOR_HIGHLIGHT_TEXT]Deer[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Cattle[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Sheep[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Pigs[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INDIAN_MAUSOLEUM_2_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Mausoleums[COLOR_REVERT], the Indian replacement for the [COLOR_BUILDING_TEXT]Clock Tower[COLOR_REVERT], provides a small culture bonus and allow you turn one citizen into an Engineer. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AGRICULTURAL_SUBSIDIES_STRATEGY</Tag>
+		<English>Under Planned Economy, [COLOR_BUILDING_TEXT]Collective Farming[COLOR_REVERT] provides +2 food and -1 production per Unemployed Citizen, as well as +1 food and -1 production per Craftsman and allows faster improvement construction.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DESAL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Desalinization Plant[COLOR_REVERT] provides a fresh water source to the city and a free Salt resource..</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EIRIC_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Eiric Raude[COLOR_REVERT] provides one free Oil and +1 production per water tile.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINISTRY_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Ministries[COLOR_REVERT] provide free buildings, depending on their respective domain.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENTIFIC_MANAGEMENT_STRATEGY</Tag>
+		<English>Under Working Class, [COLOR_BUILDING_TEXT]Scientific Management[COLOR_REVERT] boosts the bonuses of some specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOCIAL_GUARANTEES_STRATEGY</Tag>
+		<English>Under Labor Union, [COLOR_BUILDING_TEXT]Social Guarantees[COLOR_REVERT] boost the bonuses of some specialists and provides one more health and happiness. Meanwhile, it costs many money and raises the war weariness malus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OXFORD_UNIVERSITY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]National University[COLOR_REVERT] greatly increases the scientific output of its city. It also allows you to change three citizens into Scientists and increases its city's chance of generating a [COLOR_UNIT_TEXT]Great Scientist[COLOR_REVERT]. Scientists also receive +1 research bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WEAVER_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Weaver's Shop[COLOR_REVERT] provides an early gold income.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BATH_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Bath House[COLOR_REVERT] provides a health bonus and reduces the epidemic chance in the city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PRINTING_PRESS_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Print Shop[COLOR_REVERT] gives a culture and commerce bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NEWSPAPER_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Newspaper[COLOR_REVERT] gives an increased culture and commerce bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TVSTATION_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]TV Station[COLOR_REVERT] gives a large culture and commerce bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_PLANT_STRATEGY</Tag>
+		<English>The costly [COLOR_BUILDING_TEXT]Solar Plant[COLOR_REVERT] provides Power to the city and no unhealth.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SLAVE_MARKET_STRATEGY</Tag>
+		<English>Under Slavery, the [COLOR_BUILDING_TEXT]Slave Market[COLOR_REVERT] provides a bonus to various improvements around the city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARCHERY_RANGE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Archery Range[COLOR_REVERT] provides 2 XP to all Archer units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CINEMA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Cinema[COLOR_REVERT] provides a small gold income, reduces the war weariness and gives +1 happiness with Hit Movies.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INTENSIVE_FARMING_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Intensive Farming[COLOR_REVERT] boosts your food production by 10% and another 10% with power.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NSILO_STRATEGY</Tag>
+		<English>Build the [COLOR_BUILDING_TEXT]Nuclear Silo[COLOR_REVERT] to produce [COLOR_UNIT_TEXT]ICBM[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARPENTER_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Carpenter[COLOR_REVERT] is the most basic of the industrial buildings. It boosts your production early in game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SAWMILL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Sawmill[COLOR_REVERT] is the most basic of the industrial buildings. It boosts your production early in game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SIEGE_WORKSHOP_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Siege Workshop[COLOR_REVERT] provides 2 XP to all Siege units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STEELWORK_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Steel Mill[COLOR_REVERT] outputs one Steel resource from Iron and Coal.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALUM_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Alumina Refinery[COLOR_REVERT] outputs one Aluminum resource from Bauxite and Coal.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARC_DE_TRIOMPHE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Arc de Triomphe[COLOR_REVERT] is the French replacement of the [COLOR_BUILDING_TEXT]Mt. Rushmore[COLOR_REVERT]</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BRANDEBURG_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Brandeburg Gate[COLOR_REVERT] is the German replacement for the [COLOR_BUILDING_TEXT]Mt. Rushmore[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_TEMPLE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Solar Temple[COLOR_REVERT] increases a city's happiness and culture. It is especially useful for expanding your civilization's borders during the early game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_TEMPLE_ATENISM_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Temple of Aten[COLOR_REVERT] increases a city's happiness and culture. It is especially useful for expanding your civilization's borders during the early game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_TEMPLE_MEDITERRANEAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Sol Invictus Temple[COLOR_REVERT] increases a city's happiness and culture. It is especially useful for expanding your civilization's borders during the early game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_TEMPLE_JAPAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Amaterasu Temple[COLOR_REVERT] increases a city's happiness and culture. It is especially useful for expanding your civilization's borders during the early game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_CATHEDRAL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Solar Cult Great Temple[COLOR_REVERT] greatly increases a city's happiness and culture. It is especially useful for expanding your civilization's borders during the early game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_CATHEDRAL_ATENISM_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Large Temple of Aten[COLOR_REVERT] greatly increases a city's happiness and culture. It is especially useful for expanding your civilization's borders during the early game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_CATHEDRAL_MEDITERRANEAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Aedes[COLOR_REVERT] greatly increases a city's happiness and culture. It is especially useful for expanding your civilization's borders during the early game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_CATHEDRAL_JAPAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Amaterasu Great Temple[COLOR_REVERT] greatly increases a city's happiness and culture. It is especially useful for expanding your civilization's borders during the early game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_MONASTERY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Solar Cult Monastery[COLOR_REVERT] allow the production of [COLOR_UNIT_TEXT]Sun God Speaker[COLOR_REVERT] and provides a small culture bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_MONASTERY_ATENISM_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Necropolis[COLOR_REVERT] allow the production of [COLOR_UNIT_TEXT]Aten Missionaries[COLOR_REVERT] and provides a small culture bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_MONASTERY_MEDITERRANEAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Basilica[COLOR_REVERT] allow the production of [COLOR_UNIT_TEXT]Pontifex[COLOR_REVERT] and provides a small culture bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_MONASTERY_JAPAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Honden[COLOR_REVERT] allow the production of [COLOR_UNIT_TEXT]Kannushi[COLOR_REVERT] and provides a small culture bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_SHRINE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Pyramid of the Sun[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Solar Cult Shrine[COLOR_REVERT]) produces five gold each turn. It also spreads [COLOR_HIGHLIGHT_TEXT]Solar Cult[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_SHRINE_ATENISM_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]The Great Temple of the Aten[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Solar Cult Shrine[COLOR_REVERT]) produces five gold each turn. It also spreads [COLOR_HIGHLIGHT_TEXT]Solar Cult[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_SHRINE_MEDITERRANEAN_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]The Pantheon[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Solar Cult Shrine[COLOR_REVERT]) produces five gold each turn. It also spreads [COLOR_HIGHLIGHT_TEXT]Solar Cult[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_SHRINE_JAPAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Atsuta Shrine[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Solar Cult Shrine[COLOR_REVERT]) produces five gold each turn. It also spreads [COLOR_HIGHLIGHT_TEXT]Solar Cult[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_JEWISH_SHRINE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Temple of Solomon[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Jewish Shrine[COLOR_REVERT]) produces five gold each turn. It also spreads [COLOR_HIGHLIGHT_TEXT]Judaism[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German>[COLOR_BUILDING_TEXT]Salomons Tempel[COLOR_REVERT] ([COLOR_BUILDING_TEXT]J&#252;discher Schrein[COLOR_REVERT]) produziert in allen St&#228;dten, die das [COLOR_HIGHLIGHT_TEXT]Judentum[COLOR_REVERT] praktizieren, 1 Gold/Runde. Au&#223;erdem verbreitet er das [COLOR_HIGHLIGHT_TEXT]Judentum[COLOR_REVERT] in aller Welt und erh&#246;ht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en Propheten[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHRISTIAN_SHRINE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Christian Shrine[COLOR_REVERT]) produces five gold each turn. It also spreads [COLOR_HIGHLIGHT_TEXT]Christianity[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German>Die [COLOR_BUILDING_TEXT]Geburtskirche[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Christlicher Schrein[COLOR_REVERT]) produziert in allen St&#228;dten, die das [COLOR_HIGHLIGHT_TEXT]Christentum[COLOR_REVERT] praktizieren, 1 Gold/Runde. Au&#223;erdem verbreitet sie das [COLOR_HIGHLIGHT_TEXT]Christentum[COLOR_REVERT] in aller Welt und erh&#246;ht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en Propheten[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ISLAMIC_SHRINE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Masjid al-Haram[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Islamic Shrine[COLOR_REVERT]) produces five gold each turn. It also spreads [COLOR_HIGHLIGHT_TEXT]Islam[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German>Der [COLOR_BUILDING_TEXT]Masjid al-Haram[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Islamischer Schrein[COLOR_REVERT]) produziert in allen St&#228;dten, die den [COLOR_HIGHLIGHT_TEXT]Islam[COLOR_REVERT] praktizieren, 1 Gold/Runde. Au&#223;erdem verbreitet er den [COLOR_HIGHLIGHT_TEXT]Islam[COLOR_REVERT] in aller Welt und erh&#246;ht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en Propheten[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HINDU_SHRINE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Kashi Vishwanath[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Hindu Shrine[COLOR_REVERT]) produces five gold each turn. It also spreads [COLOR_HIGHLIGHT_TEXT]Hinduism[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German>Der [COLOR_BUILDING_TEXT]Kashi Vishwanath[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Hindu-Schrein[COLOR_REVERT]) produziert in allen St&#228;dten, die den [COLOR_HIGHLIGHT_TEXT]Hinduismus[COLOR_REVERT] praktizieren, 1 Gold/Runde. Au&#223;erdem verbreitet er den [COLOR_HIGHLIGHT_TEXT]Hinduismus[COLOR_REVERT] in aller Welt und erh&#246;ht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en Propheten[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BUDDHIST_SHRINE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Mahabodhi[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Buddhist Shrine[COLOR_REVERT]) produces five gold each turn. It also spreads [COLOR_HIGHLIGHT_TEXT]Buddhism[COLOR_REVERT] throughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German>Der [COLOR_BUILDING_TEXT]Mahabodhi[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Buddhistischer Schrein[COLOR_REVERT]) produziert in allen St&#228;dten, die den [COLOR_HIGHLIGHT_TEXT]Buddhismus[COLOR_REVERT] praktizieren, 1 Gold/Runde. Au&#223;erdem verbreitet er den [COLOR_HIGHLIGHT_TEXT]Buddhismus[COLOR_REVERT] in aller Welt und erh&#246;ht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en Propheten[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAOIST_SHRINE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Dai Miao[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Taoist Shrine[COLOR_REVERT]) produces five gold each turn. It also spreads [COLOR_HIGHLIGHT_TEXT]Taoism[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
+		<German>Der [COLOR_BUILDING_TEXT]Dai Miao[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Taoistischer Schrein[COLOR_REVERT]) produziert in allen St&#228;dten, die den [COLOR_HIGHLIGHT_TEXT]Taoismus[COLOR_REVERT] praktizieren, 1 Gold/Runde. Au&#223;erdem verbreitet er den [COLOR_HIGHLIGHT_TEXT]Taoismus[COLOR_REVERT] in aller Welt und erh&#246;ht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en Propheten[COLOR_REVERT] hervorzubringen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_SOLAR_CULT_STRATEGY</Tag>
+		<English>Provides a Blessed promotion to units constructed in the city, and a global bonus to certain specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_CAMP_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Barbarian camp[COLOR_REVERT] is a barbarian unique building available on the world map only. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOCAL_STRATEGY</Tag>
+		<English>Newborn nations are notoriously good at getting important resources from [COLOR_BUILDING_TEXT]local[COLOR_REVERT] sources. This ability is available for new civilizations formed either by [COLOR_HIGHLIGHT_TEXT]settling barbarians[COLOR_REVERT] or by breaking away in a [COLOR_HIGHLIGHT_TEXT]revolution[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORTHODOX_TEMPLE_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Orthodox Churches[COLOR_REVERT] increase a city's happiness and gold income. They are especially useful for expanding your civilization's borders during the early game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORTHODOX_MONASTERY_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Orthodox Monasteries[COLOR_REVERT] allow you to create [COLOR_UNIT_TEXT]Orthodox Missionaries[COLOR_REVERT], who can spread the faith in other cities. They also provide culture and a slight boost to research.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORTHODOX_CATHEDRAL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Orthodox Cathedral[COLOR_REVERT] greatly increases a city's cultural output. It makes a city's citizens happy if [COLOR_HIGHLIGHT_TEXT]Orthodoxy[COLOR_REVERT] is the state religion.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_ORTHODOX_MOUNT_ATHOS_STRATEGY</Tag>
+		<English>Provides a Blessed promotion to units constructed in the city, and a global bonus to certain specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INDIAN_SRENI_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Sreni[COLOR_REVERT], the Indian replacement for the [COLOR_BUILDING_TEXT]Caravan House[COLOR_REVERT], provides an increased commerce yield as well as some food storage capacities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LIBRARY_ARMENIA_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Scriptorium[COLOR_REVERT], the Armenian replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT], provides the usual library bonus and a strong culture bonus. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TEMPLAR_HOUSE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Military Order House[COLOR_REVERT], the European replacement for the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT], provides a small gold income as well as some healing capabilities and free experience to land units. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARONY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Baronial Fief[COLOR_REVERT], the European replacement for the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT], provides a small gold income as well as some production bonus and free experience to land units. </English>
+		<German> Not translated. </German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_BUILDING_FORTIFIED_MISSION_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Fortified Mission[COLOR_REVERT], the Texan replacement for the [COLOR_BUILDING_TEXT]Fortification[COLOR_REVERT], provides free experience to gunpowder units, culture and a happiness bonus to all cities on the same landmass. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FORTIFICATION_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Fortification[COLOR_REVERT] provides some healing capacities to all land units. It also allows the construction of entrenched artilleries to defend the city. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOUK_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Souq[COLOR_REVERT] is the flavor replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT] in the Muslim world.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BAZAAR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Bazaar[COLOR_REVERT] is the flavor replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT] in the Persian world.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANSABDAR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Mansabdar[COLOR_REVERT], the Mughal replacement for the [COLOR_BUILDING_TEXT]Arsenal[COLOR_REVERT], provides one more XP to all land units and an increased military production (10%). Its cost is also lower than that of an [COLOR_BUILDING_TEXT]Arsenal[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARTHAGE_COTHON_STRATEGY_2</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Cothon[COLOR_REVERT], the Carthaginian replacement for the [COLOR_BUILDING_TEXT]Harbor[COLOR_REVERT], increases trade income and costs 25% less. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RIVER_PORT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]River Dock[COLOR_REVERT] provides one trade route. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HARBOR_DRAVIDIAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Payanam[COLOR_REVERT], the Dravidian replacement for the [COLOR_BUILDING_TEXT]Harbor[COLOR_REVERT], increases foreign trade income and the healing rate of naval units. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARRACKS_DRAVIDIAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Nadapu[COLOR_REVERT], the Dravidian replacement for the [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT], grants two free XP to naval units as well as the usual [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT] bonus. On the other hand, its cost is a bit higher.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NUCLEAR_RESEARCH_FACILITY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Nuclear Research Facility[COLOR_REVERT] provides a strong research bonus and allows further developments in the fields of Nuclear Power and Nuclear Weapons.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NUCLEAR_EXPERTISE_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Nuclear Expertise[COLOR_REVERT] allows further developments in the fields of Nuclear Power and Nuclear Weapons.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STATUE_OF_ZEUS_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Statue of Zeus[COLOR_REVERT] provides a strong culture bonus to the city as well as a free Pagan Temple in all cities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OLMEC_HEAD_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Olmec Colossal Head[COLOR_REVERT] provides a strong culture bonus to the city as well as a free Pagan Temple in all cities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BUDDHA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Seated Buddha Statue[COLOR_REVERT] provides a strong culture bonus to the city as well as a free Pagan Temple in all cities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BUDDHA_JAPAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Daibutsu[COLOR_REVERT] provides a strong culture bonus to the city as well as a free Pagan Temple in all cities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GANESH_STATUE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Statue of Ganesh[COLOR_REVERT] provides a strong culture bonus to the city as well as a free Pagan Temple in all cities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NORTH_GOD_STATUE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Statue of Odin[COLOR_REVERT] provides a strong culture bonus to the city as well as a free Pagan Temple in all cities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHINESE_PROVINCIAL_GOVERNMENT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Provincial Government[COLOR_REVERT], the Chinese replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT], provides various small bonuses and allows more specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCENARIO_BALANCE_STRATEGY</Tag>
+		<English>These "buildings" are only used in scenarios for balancing reasons.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COMMUNITIES_STRATEGY</Tag>
+		<English>These [COLOR_HIGHLIGHT_TEXT]Religious Community[COLOR_REVERT] buildings are only available under [COLOR_HIGHLIGHT_TEXT]Free Religion[COLOR_REVERT] civic. They give a small bonus in your cities, depending on the beliefs of their citizens.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_PHARMACY_BOTANY_STRATEGY</Tag>
+		<English>Herbs and plants: use them wisely, they can heal.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ALGEBRA_GEOMETRY_STRATEGY</Tag>
+		<English>The basics of modern mathematics.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SENATE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Senate[COLOR_REVERT] boosts your culture and GP rate, and gives +1 happiness in you capital city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PARLIAMENT_STRATEGY</Tag>
+		<English>A choice between a federalist or a centralist [COLOR_BUILDING_TEXT]Constitution[COLOR_REVERT] is a powerful way to tailor the effects of your Democracy civic.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FEDERAL_PARLIAMENT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Federal Parliament[COLOR_REVERT] and boosts your culture and GP rate.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SACERDOTAL_PALACE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Sacerdotal Palace[COLOR_REVERT] boosts your culture and your Priest specialists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NORIA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Noria[COLOR_REVERT] is the Arabian replacement of the [COLOR_BUILDING_TEXT]Aqueduct[COLOR_REVERT]. It provides a boost in food production and allows one Engineer.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONCERT_HALL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Concert Hall[COLOR_REVERT] is the Austrian replacement of the [COLOR_BUILDING_TEXT]Opera[COLOR_REVERT]. It provides +1 happiness in the city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CASTLE_HALYCH_VOLHYNIA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Stronghold[COLOR_REVERT] is the Lithuanian replacement of the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT]. It allows one Engineer, boosts the GP rate and the trade route income.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARSENAL_UKRAINE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Cossack Polk[COLOR_REVERT] is the Ukrainian replacement of the [COLOR_BUILDING_TEXT]Arsenal[COLOR_REVERT]. It provides a maintenance bonus and two more XP to mounted units. Its cost is also greatly reduced with [COLOR_HIGHLIGHT_TEXT]Timber[COLOR_REVERT] resource.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_THE_MOTHERLAND_CALLS_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]The Motherland Calls[COLOR_REVERT] is a defensive wonder that summons units to defend the nation immediately when war is declared upon and provides unlimited conscription capacity.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAGNA_CARTA_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Magna Carta[COLOR_REVERT] provides a commerce bonus to Castles and a direct espionage bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOHENJO_DARO_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Great Bath of Mohenjo-Daro[COLOR_REVERT] provides bonus health, a food bonus to Public Wells and a food bonus to Slash and Burn farms.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NAZCA_LINES_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Nazca Lines[COLOR_REVERT] provides +1 food to Farm improvements.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SHIPYARD_PONTUS_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Pontus Shipyard[COLOR_REVERT] provides a strong bonus to Sailing ship production. This building is also available earlier than the classic Shipyard.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LABOR_CAMP_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Labor Camp[COLOR_REVERT] provides a production bonus, -1 unhappiness and lowers the war weariness at the cost of one health and a epidemic malus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IMPERIAL_CULT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Imperial Cult[COLOR_REVERT] provides +1 happiness to the city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EDICT_PILLAR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Edict Pillar[COLOR_REVERT] is the Indian subcontinent replacement for the [COLOR_BUILDING_TEXT]Imperial Cult[COLOR_REVERT]. It also provides +1 happiness to the city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BIXI_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Bixi[COLOR_REVERT] is the Chinese replacement for the [COLOR_BUILDING_TEXT]Imperial Cult[COLOR_REVERT]. It also provides +1 happiness to the city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORKHON_STELE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Orkhon Stele[COLOR_REVERT] is the Turkish and Transoxian replacement for the [COLOR_BUILDING_TEXT]Imperial Cult[COLOR_REVERT]. It also provides +1 happiness to the city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOCAL_AUTONOMY_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Local Autonomy[COLOR_REVERT] provides +1 happiness to the city at the cost of military production.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITY_STATE_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]City State[COLOR_REVERT] provides +1 happiness and boosts your commerce in that city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NOBLE_REPUBLIC_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Noble Republic[COLOR_REVERT] provides +1 happiness to the Courthouse and boosts the culture bonus of the Castle.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MERCHANT_REPUBLIC_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Merchant Republic[COLOR_REVERT] provides one free trade route and boosts your local water tile commerce.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANDATE_OF_HEAVEN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Mandate of Heaven[COLOR_REVERT] provides +1 happiness in all cities and +25% golden age length.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOCAL_BUREAUCRACY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Local Bureaucracy[COLOR_REVERT] provides a small maintenance bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CENTRAL_BUREAUCRACY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Cental Bureaucracy[COLOR_REVERT] provides +1 global health and a culture bonus per specialist.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAIWAN_MILITARY_COLONY_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Military Colony[COLOR_REVERT] is the Taiwanese National Building. It provides a small boost in food production and +1 health.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_VENICE_CUSTOM_HOUSE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Merchant House[COLOR_REVERT] is the Venetian National Building. It raises the foreign trade income and allows two merchants.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OBSERVATORY_TRANSOXIANA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Timurid Observatory[COLOR_REVERT] is the Transoxian National Building. It is available earlier, boosts the research and culture and allows two scientists.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEALTH_RESORT_STRATEGY</Tag>
+		<English>Build the [COLOR_BUILDING_TEXT]Health Resort[COLOR_REVERT] to provide a continental +1 health bonus. It also provides a free scientist for each[COLOR_HIGHLIGHT_TEXT] Hot Springs Park [COLOR_REVERT] in your city radius and increases the chance that a Great Scientist might appear in your city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INCA_TAMBO_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Tambo[COLOR_REVERT] is the Incan National Building. It provides the Tavern bonus and an additional XP bonus to Recon units, a health bonus and some land unit healing bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEASIDE_RESORT_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Seaside resort[COLOR_REVERT] provides a strong commerce bonus at the cost of one health.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE_TARTAR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Sabantuy[COLOR_REVERT] is the Tatar National Building. It provides the City Square bonus and an additional XP bonus to Charge Mounted and Ranged Mounted units, a health bonus with Horse resource, an increased culture bonus and some Charge Mounted and Ranged Mounted unit healing bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SMOKEHOUSE_BARBARIAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Tribal Meat House[COLOR_REVERT] is a Barbarian National Building. It provides a food bonus and +1 health.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COLOSSEUM_BARBARIAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Tribal Games[COLOR_REVERT] provides +1 happiness at low cost.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GRANARY_BARBARIAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Tribal Granary[COLOR_REVERT] is a Barbarian National Building. It provides a food bonus and one health.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRIBE_WAREHOUSE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Tribal Warehouse[COLOR_REVERT] is a Barbarian National Building. It provides many bonuses: from food production to healing capacities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LIGHTHOUSE_BARBARIAN_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Pirate Cove[COLOR_REVERT] is a Barbarian National Building. It provides a free promo "Piracy" and +1 commerce to water tiles.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_BUILDING_1_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Weaponsmith[COLOR_REVERT] raises the base strength of Melee, Archer and Recon units by +1. Can only be built by Barbarians.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_BUILDING_2_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Horse Breeding[COLOR_REVERT] raises the base strength of Chareg Mounted and Ranged Mounted units by +1.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_BUILDING_3_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Warrior Hall[COLOR_REVERT] produces two Melee units at a time.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GLOBE_THEATRE_2_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] removes all unhappiness from the city in which it is built. It increases the chance of generating a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT]. It grants a culture bonus to all [COLOR_BUILDING_TEXT]Theatres[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_STOCK_EXCHANGE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]National Stock Exchange[COLOR_REVERT] boosts gold output and increases its chances of generating a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT]. Each Merchant in this city produces two more gold.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WALL_STREET_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Wall Street[COLOR_REVERT] boosts gold output and increases its chances of generating a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT]. Each Merchant in this city produces two more gold.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]National Epic[COLOR_REVERT] greatly increases the birth rate of [COLOR_HIGHLIGHT_TEXT]Great People[COLOR_REVERT], particularly [COLOR_UNIT_TEXT]Great Artists[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COURTHOUSE_ROME_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Basilicas[COLOR_REVERT] reduce Roman city maintenance costs and are required to build the [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE_ROME_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Forum[COLOR_REVERT] provides additional commerce compared to regular [COLOR_BUILDING_TEXT]City Square[COLOR_REVERT]</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE_GREECE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Agora[COLOR_REVERT] provides an additional research bonus compared to regular [COLOR_BUILDING_TEXT]City Square[COLOR_REVERT]</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREEK_ODEON_2_STRATEGY</Tag>
+		<English>An [COLOR_BUILDING_TEXT]Odeon[COLOR_REVERT] increases a city's culture and increases the happiness output from using the culture slider. An[COLOR_BUILDING_TEXT]Odeon[COLOR_REVERT] also provides culture and is required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BYZANTINE_HIPPODROME_2_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Hippodrome[COLOR_REVERT] provides +1 happiness and additional happiness from using the culture slider.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARRACKS_ROME_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Castra[COLOR_REVERT] grant XP to Melee and Recon troops built in their cities and provide a variety of bonuses to different buildings.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAVERN_GREECE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Gymnasium[COLOR_REVERT] grants bonus to Spy and Scientist specialists, as well as some bonuses to the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT] and [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]. It allows one Spy in this city. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_VIKING_TRADING_POST_2_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Longphort[COLOR_REVERT] grants free promotion Navigation I to naval units built in this city. It also improves the food output of work boats.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MALI_MINT_2_STRATEGY</Tag>
+		<English>Compared to the [COLOR_BUILDING_TEXT]Jeweller[COLOR_REVERT] it replaces, the [COLOR_BUILDING_TEXT]Mint[COLOR_REVERT] provides additional happiness with gold, additional health with salt, and further improves precious mines and salt pits.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_ALL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Art Era National Wonders[COLOR_REVERT] provide a global culture bonus and allow the construction of era-appropriate [COLOR_HIGHLIGHT_TEXT]Great Works[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_ALL_STRATEGY</Tag>
+		<English>Each [COLOR_BUILDING_TEXT]Great Work[COLOR_REVERT] provides a large culture bonus as well as a specific bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_ALL_STRATEGY</Tag>
+		<English>Each [COLOR_BUILDING_TEXT]Science Work[COLOR_REVERT] provides a large research bonus as well as a specific bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STADIUM_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] provides +1 health and happiness.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STADIUM_MAYA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Football Stadium[COLOR_REVERT] provides +1 health and +3 happiness.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONSTABLE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Constable[COLOR_REVERT] provides an espionage bonus under Feudal Aristocracy civic.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FORTIFIED_KEEP_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Fortified Keep[COLOR_REVERT] raises your defense under Feudal Aristocracy civic.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HERALDIC_CHAMBER_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Heraldic Chamber[COLOR_REVERT] provides a small culture bonus under Feudal Aristocracy civic.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRADE_FAIR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Trade Fair[COLOR_REVERT] provides a free trade route, improves trade route commerce yields and gives +1 commerce to Towns.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MEDICAL_PROJECT_STRATEGY</Tag>
+		<English>Medical projects provide global health bonuses and/or reduce epidemic chances</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CDC_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Center for Disease Control[COLOR_REVERT] provides a global health bonus. It allows one Scientist in this city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUMAN_GENOME_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Human Genome Project[COLOR_REVERT] provides a global health bonus and a small boost to research. It allows two Scientists in this city.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BAYER_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Bayer AG[COLOR_REVERT] provides 3 Pharmaceuticals as well as a small research bonus to hospitals.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FORD_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Ford Motor Company[COLOR_REVERT] provides 3 Cars as well as a small production bonus to Mass Transit.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_EFFECT_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game. This "building" is generated by a doctrine and only exists to provide upgrades for units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_FLAMING_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Rite of Passage provides unique upgrades to recon units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_IMPERIAL_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Imperial Glory provides unique upgrades to melee units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_ARTOFWAR_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Art of War provides +1 to both rural and urban logistics.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_ATTRITION_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+War of Attrition provides unique upgrades to mounted units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_COASTAL_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Coastal Raiding provides unique upgrades to naval and melee units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_HOLYWAR_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Holy War provides unique upgrades to melee units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_CHIVALRY_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Chivalry provides unique upgrades to mounted units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_GREEKFIRE_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Greek Fire provides unique upgrades to naval units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_MARKSMAN_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Trained Archers provides unique upgrades to archery units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_MANOUEVER_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Manoeuvre Warfare provides unique upgrades to gunpowder units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_PATRIOTIC_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Patriotic War provides unique upgrades to gunpowder and mounted units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_SEAMANSHIP_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Superior Seamanship provides unique upgrades to naval units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_ENGINEER_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Engineer Corps provides unique upgrades to siege units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_TRENCH_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Trench War provides unique upgrades to gunpowder units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_BLITZKRIEG_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Blitzkrieg provides unique upgrades to armoured units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_MASS_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Mass Production, uniquely, does not provide any promotions, but rather makes upgrades cheaper for all mechanical units, and speeds up their production.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_ARTILLERY_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Artillery Schools provide unique upgrades to siege units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_SPECOPS_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Spec Ops provides passive bonuses to gunpowder and recon units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_PROJECTION_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Power Projection provides unique upgrades to naval units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_GUERILLA_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Guerilla Tactics provides unique upgrades to gunpowder and recon units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCTRINE_NAPALM_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Doctrines[COLOR_REVERT] are founded by Great Generals. Most of them provide certain unit types with unique upgrade lines. Every [COLOR_BUILDING_TEXT]Doctrine[COLOR_REVERT] can only be founded once per game.
+Napalm Strikes provide unique bonuses to helicopter units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SUBJUGATION_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Provisional Government[COLOR_REVERT] means that a city experiences no separatism for 25 turns after it is conquered or acquired by any other means.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENTHUSIASM_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Solidarity[COLOR_REVERT] means that a city of a newly settled barbarain civilization experiences no separatism for 50 turns and a large bonus to its yields.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UNREST_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Unrest[COLOR_REVERT] means that a city is close to an open revolt against its owner.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RIOTS_STRATEGY</Tag>
+		<English>When [COLOR_BUILDING_TEXT]Riots[COLOR_REVERT] are happening in a city, it has a higher separatism and lower production levels. Riots will only go away if you manage to drop separatism to 0%.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_BRIBE_STRATEGY</Tag>
+		<English>The rebel leaders have been [COLOR_BUILDING_TEXT]bribed[COLOR_REVERT] to put a check on the rebellion. Separatism is decreased for 50 turns.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_REPLACE_STRATEGY</Tag>
+		<English>The governor of this province has been [COLOR_BUILDING_TEXT]replaced[COLOR_REVERT] with a less strict one. Separatism is decreased for 50 turns, but production and taxation suffer.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_HARSH_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]harsh treatment[COLOR_REVERT] of local populace inspired fear. Separatism is decreased for 50 turns, at a cost of population loss and unhappiness. Requires Autocracy or Dictatorship to enact.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_SERMON_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]sermon[COLOR_REVERT] appealed to the loyalty of local faithful. Separatism is decreased for 50 turns. Requires Theocracy to enact.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_TAX_STRATEGY</Tag>
+		<English>The city has received a [COLOR_BUILDING_TEXT]tax break[COLOR_REVERT]. Separatism is decreased for 50 turns, and so is the gold revenue. Requires Monarchy, Theocracy or Democracy to enact.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_MARTIAL_STRATEGY</Tag>
+		<English>A harsh [COLOR_BUILDING_TEXT]curfew[COLOR_REVERT] is in place in this city. Separatism is decreased for 50 turns, but productivity suffers. Requires Dictatorship to enact.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_ARRESTS_STRATEGY</Tag>
+		<English>A series of political [COLOR_BUILDING_TEXT]arrests[COLOR_REVERT] has decapitated local separatist rebels. Separatism is decreased for 50 turns. Requires Lubyanka wonder to enact.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_PROPAGANDA_STRATEGY</Tag>
+		<English>A major [COLOR_BUILDING_TEXT]propaganda[COLOR_REVERT] campaign has been conducted in the city. Separatism is decreased for 50 turns. Requires Dictatorship or Democracy to enact.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_AUTONOMY_STRATEGY</Tag>
+		<English>The region has been granted a broad [COLOR_BUILDING_TEXT]autonomy[COLOR_REVERT]. Separatism is decreased for 50 turns, at a price of minor productivity and revenue loss. Requires Democracy to enact.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KREMLIN_EFFECT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Kremlin[COLOR_REVERT] lowers maintenance of all cities by -10% through the [COLOR_BUILDING_TEXT]Voivodship[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MIT'A_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Mit'a[COLOR_REVERT] provides a free craftsman and +1 food.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COURT_STRATEGY</Tag>
+		<English>Unlike other civilizations' [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT], the Ethiopian [COLOR_BUILDING_TEXT]Wandering Capital[COLOR_REVERT] can be freely relocated to other cities once built.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ZULU_IKHANDA_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Ikhandas[COLOR_REVERT], the Zulu replacements for [COLOR_BUILDING_TEXT]Baracks[COLOR_REVERT], grant experience points to troops built in their cities and generate +1 food.</English>
+		<German>Die [COLOR_BUILDING_TEXT]Ikhandas[COLOR_REVERT] der Zulu ersetzen die [COLOR_BUILDING_TEXT]Kasernen[COLOR_REVERT]. Sie gew&#228;hren den in der Stadt ausgebildeten Truppen zus&#228;tzliche Erfahrungspunkte und reduzieren die st&#228;dtischen Unterhaltskosten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARGEBAM_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Arg-e Bam[COLOR_REVERT] increases the urban logistics by 2 and provides a major defensive bonus.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCK_FILIPINO_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Pearl Diver[COLOR_REVERT] provides additional commerce to fishing boats and +1 happiness with pearls.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GLADIATOR_SCHOOL_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Gladiator School[COLOR_REVERT] provides +1 happiness, a gold bonus and experience to melee and recon units, but doubles the chance of [COLOR_NEGATIVE_TEXT]slave revolts[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BREAD_AND_CIRCUSES_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Bread and Circuses[COLOR_REVERT] provides a temporary bonus of +2 happiness, +4 culture and +2 food for 25 turns.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCOTLAND_YARD_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Police Headquarters[COLOR_REVERT] provides a +100%% bonus to Espionage output.</English>
+		<German>[COLOR_BUILDING_TEXT]Polizeipräsidium[COLOR_REVERT] gew&#228;hrt einen +100%% Bonus auf Spionageleistungen.</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOGISTICS_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Logistics Hub[COLOR_REVERT] combines benefits of [COLOR_BUILDING_TEXT]Railroad Station[COLOR_REVERT] and [COLOR_BUILDING_TEXT]Retail Store[COLOR_REVERT] and further boosts trade route commerce.</English>
+		<German> Not translated. </German>
+	</TEXT>		
+</Civ4GameText>

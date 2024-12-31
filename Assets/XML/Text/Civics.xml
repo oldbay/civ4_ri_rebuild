@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - RI Civics for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- BEGIN: GOVERNMENT_CIVIC -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_TRIBAL_UNION</Tag>
+		<English>Tribal Union</English>
+		<German>
+			<Text>Stammesrecht</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_AUTOCRACY</Tag>
+		<English>Autocracy</English>
+		<German>
+			<Text>Autokratie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_OLIGARCHY</Tag>
+		<English>Confederation</English>
+		<German>
+			<Text>Staatenbund</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_REPUBLIC</Tag>
+		<English>Republic</English>
+		<German>
+			<Text>Republik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_HEREDITARY_RULE</Tag>
+		<English>Monarchy</English>
+		<German>
+			<Text>Monarchie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DEMOCRACY</Tag>
+		<English>Democracy</English>
+		<German>
+			<Text>Demokratie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DICTATORSHIP</Tag>
+		<English>Dictatorship</English>
+		<German>
+			<Text>Diktatur</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FEDERALISM</Tag>
+		<English>Federalism</English>
+		<German>
+			<Text>F&#246;deralismus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END: GOVERNMENT_CIVIC -->
+	<!-- BEGIN: LEGAL_CIVIC -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_RULEOFFEAR</Tag>
+		<English>Rule of Fear</English>
+		<German>
+			<Text>Schreckensherrschaft</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_TRADITION</Tag>
+		<English>Traditional Custom</English>
+		<German>
+			<Text>Traditionelle Sitten</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CIVIL_SERVICE</Tag>
+		<English>Civil Service</English>
+		<German>
+			<Text>&#214;ffentlicher Dienst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ARISTOCRACY</Tag>
+		<English>Feudal Aristocracy</English>
+		<German>
+			<Text>Aristokratie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PLUTOCRACY</Tag>
+		<English>Plutocracy</English>
+		<German>
+			<Text>Plutokratie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_NATIONHOOD</Tag>
+		<English>Nation State</English>
+		<German>Nationalstaat</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_COLLECTIVISM</Tag>
+		<English>Collectivism</English>
+		<German>
+			<Text>Kollektivismus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SOCIAL_JUSTICE</Tag>
+		<English>Inclusivity</English>
+		<German>
+			<Text>Inklusivit&#228;t</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END: LEGAL_CIVIC -->
+	<!-- BEGIN: LABOR_CIVIC -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FREE_COMMONERS</Tag>
+		<English>Free Commoners</English>
+		<German>
+			<Text>Freies Volk</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PROLETARIAT</Tag>
+		<English>Working Class</English>
+		<German>
+			<Text>Proletariat</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FORCED_LABOR</Tag>
+		<English>Forced Labor</English>
+		<German>
+			<Text>Zwangsarbeit</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_LABOR_UNION</Tag>
+		<English>Labor Union</English>
+		<German>
+			<Text>Syndikat</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END: LABOR_CIVIC -->
+	<!-- BEGIN: ECONOMY_CIVIC -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DECENTRALIZATION</Tag>
+		<English>Subsistence Economy</English>
+		<German>
+			<Text>Agrarwirtschaft</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PASTORAL_NOMADISM</Tag>
+		<English>Pastoral Nomadism</English>
+		<German>
+			<Text>Pastoraler Nomadismus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_GUILD</Tag>
+		<English>Craft Guilds</English>
+		<German>
+			<Text>Zunftwesen</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MERCHANT_PRINCES</Tag>
+		<English>Merchant Families</English>
+		<German>
+			<Text>Handelsfamilien</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PROTECTIONISM</Tag>
+		<English>Protectionism</English>
+		<German>
+			<Text>Protektionismus</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PLANNED_ECONOMY</Tag>
+		<English>Planned Economy</English>
+		<German>
+			<Text>Planwirtschaft</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WELFARE_STATE</Tag>
+		<English>Welfare State</English>
+		<German>
+			<Text>Wohlfahrtsstaat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END: ECONOMY_CIVIC -->
+	<!-- BEGIN: RELIGION_CIVIC -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ANIMISM</Tag>
+		<English>Animism</English>
+		<German>
+			<Text>Animismus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CIVIL_RELIGION</Tag>
+		<English>Civil Religion</English>
+		<German>
+			<Text>Zivilreligion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MONASTICISM</Tag>
+		<English>Monasticism</English>
+		<German>
+			<Text>M&#246;nchtum</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MILITANCY</Tag>
+		<English>Militancy</English>
+		<German>
+			<Text>Militanz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CULT_OF_PERSONNALITY</Tag>
+		<English>Cult of Personality</English>
+		<German>
+			<Text>Personenkult</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END: RELIGION_CIVIC -->
+	<!-- MOD - START - Wonder production cost modifier -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WONDER_PRODUCTION_MODIFIER</Tag>
+		<English>[ICON_BULLET]%D1%% production cost for World Wonders</English>
+		<German>[ICON_BULLET]%D1%% Produktionskosten f&#252;r Weltwunder</German>
+	</TEXT>
+	<!-- MOD - END - Wonder production cost modifier -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_NO_RELIGION_HAPPINESS</Tag>
+		<English>[ICON_BULLET]No %D1_Change%F2_HappyOrUn in Cities with State [ICON_RELIGION]</English>
+		<German>[ICON_BULLET]Kein %D1_Change%F2_HappyOrUn in St&#228;dten mit der Staatsreligion [ICON_RELIGION]</German>
+	</TEXT>	
+</Civ4GameText>

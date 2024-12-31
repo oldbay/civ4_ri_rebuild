@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Strategy -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_FAV_RELIGION</Tag>
+		<English>Favorite Religion</English>
+		<German>Bevorzugte Religion</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_FAVORITE_RELIGION</Tag>
+		<English>%D1: "You have wisely chosen your Religion."</English>
+		<German>%D1: "Ihr habt Eure Religion weise gewählt.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DENIAL_FAVORITE_RELIGION</Tag>
+		<English>"We never give up our faith!"</English>
+		<German>"Wir werden unseren Glauben niemals aufgeben!"</German>
+	</TEXT>
+</Civ4GameText>

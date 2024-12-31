@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	Enhanced Cultural Decay
+	Originally by Bhruic
+  Enhanced by The Lopez
+  Adapted for Realism by Mexico
+  Converted to BUG module by Josh Sjoding and Mexico
+-->
+<mod id="EnhancedCulturalDecay"
+	 module="EnhancedCulturalDecay"
+	 name="Enhanced Cultural Decay" 
+	 author="Bhruic, The Lopez" 
+	 version="1.0" 
+	 date="11/21/2009">
+
+	<options id="EnhancedCulturalDecay" file="Enhanced Cultural Decay.ini">
+		<section id="General">
+			<option id="EnableCultureShock" key="Enable Culture Shock" type="boolean" default="True"/>
+			<option id="EnableCultureDecay" key="Enable Culture Decay" type="boolean" default="True"/>
+			<option id="CultureDecayAmount" key="Culture Decay Amount" type="float" default="0.02"/>
+		</section>
+	</options>
+		
+	<event type="CityBuilt" function="onCityBuilt"/>
+	<event type="CityDoTurn" function="onCityDoTurn"/>
+	<event type="CityLost" function="onCityLost"/>
+	<event type="EndGameTurn" function="onEndGameTurn"/>
+
+</mod>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Routes -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_TRACK</Tag>
+		<English>Make a Path</English>
+		<French>Make a Path</French>
+		<German>Weg bauen</German>
+		<Italian>Make a Path</Italian>
+		<Spanish>Make a Path</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ROUTE_TRACK</Tag>
+		<English>Cart Path</English>
+		<French>Cart Path</French>
+		<German>Karrenweg</German>
+		<Italian>Cart Path</Italian>
+		<Spanish>Cart Path</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PAVED</Tag>
+		<English>Build a Paved Road</English>
+		<French>Build a Paved Road</French>
+		<German>Gepflasterte Stra&#223;e bauen</German>
+		<Italian>Build a Paved Road</Italian>
+		<Spanish>Build a Paved Road</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ROUTE_PAVED</Tag>
+		<English>Paved Road</English>
+		<French>Paved Road</French>
+		<German>Gepflasterte Stra&#223;e</German>
+		<Italian>Paved Road</Italian>
+		<Spanish>Paved Road</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_HIGHWAY</Tag>
+		<English>Build an Autobahn</English>
+		<French>Build an Autobahn</French>
+		<German>Autobahn bauen</German>
+		<Italian>Build an Autobahn</Italian>
+		<Spanish>Build an Autobahn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ROUTE_HIGHWAY</Tag>
+		<English>Autobahn</English>
+		<French>Autobahn</French>
+		<German>Autobahn</German>
+		<Italian>Autobahn</Italian>
+		<Spanish>Autobahn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_RAILROAD_ELECTRIC</Tag>
+		<English>Build a Highway</English>
+		<French>Build an Electric Railroad</French>
+		<German>Highway bauen</German>
+		<Italian>Build an Electric Railroad</Italian>
+		<Spanish>Build an Electric Railroad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ROUTE_RAILROAD_ELECTRIC</Tag>
+		<English>Highway</English>
+		<French>Electric Railroad</French>
+		<German>Highway</German>
+		<Italian>Electric Railroad</Italian>
+		<Spanish>Electric Railroad</Spanish>
+	</TEXT>
+</Civ4GameText>

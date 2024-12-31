@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <!-- BEGIN: UNITCLASS_ARCHER -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_BARBARIAN</Tag>
+    <English>Archer (Savage)</English>
+    <German>
+      <Text>Wilder Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_HAIDA_INUIT</Tag>
+    <English>Archer (Inuit Bowman)</English>
+    <German>
+      <Text>Inuit-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_LITHUANIA</Tag>
+    <English>Archer (Baltic)</English>
+    <German>
+      <Text>Baltischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_FILIPINO</Tag>
+    <English>Archer (Ilongot)</English>
+    <German>
+      <Text>Ilongot-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT> 
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_POLYNESIA</Tag>
+    <English>Archer (Melanesian)</English>
+    <German>
+      <Text>Melanesischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_ARMENIA</Tag>
+    <English>Archer (Azaku Netadzik)</English>
+    <German>
+      <Text>Azaku Netadzik</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_ISRAEL</Tag>
+    <English>Archer (Judean)</English>
+    <German>
+      <Text>Jud&#228;ischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_MAYA</Tag>
+    <English>Archer (Mayapan)</English>
+    <German>
+      <Text>Mayapanischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_SIBERIA</Tag>
+    <English>Archer (Ayat)</English>
+    <German>
+      <Text>Sibirischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_ETHIOPIA</Tag>
+    <English>Archer (Axumite)</English>
+    <German>
+      <Text>Aksumitischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_BABYLON</Tag>
+    <English>Archer (Akkadian)</English>
+    <German>
+      <Text>Akkadischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_KHMER</Tag>
+    <English>Archer (Khmer Loeu)</English>
+    <German>
+      <Text>Khmer Loeu-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_AUSTRONESIA</Tag>
+    <English>Archer (Sunda)</English>
+    <German>
+      <Text>Sundanesischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_TUPI</Tag>
+    <English>Archer (Amazonian)</English>
+    <German>
+      <Text>Amazonas-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_ARAWAK</Tag>
+    <English>Archer (Taino)</English>
+    <German>
+      <Text>Ta&#237;no-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_PATAGONIA</Tag>
+    <English>Archer (Tehuelche)</English>
+    <German>
+      <Text>Tehuelche-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_NATIVE_NORTH</Tag>
+    <English>Archer (Tribal)</English>
+    <German>
+      <Text>Stammesbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_ALGONQUIN</Tag>
+    <English>Archer (Micmacs)</English>
+    <German>
+      <Text>Mi'kmaq-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_APACHE</Tag>
+    <English>Archer (Jicarilla)</English>
+    <German>
+      <Text>Jicarilla-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_CHEROKEE</Tag>
+    <English>Archer (Anikawi)</English>
+    <German>
+      <Text>AniKawi-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_ABORIGINE</Tag>
+    <English>Archer (Oceanian)</English>
+    <German>
+      <Text>Ozeanischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_BANTU</Tag>
+    <English>Archer (Luba)</English>
+    <German>
+      <Text>Baluba-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_MALI</Tag>
+    <English>Archer (Manden)</English>
+    <German>
+      <Text>Manden-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_ZULU</Tag>
+    <English>Archer (Xhosa)</English>
+    <German>
+      <Text>Xhosa-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_SPAIN</Tag>
+    <English>Archer (Celtiberian)</English>
+    <German>
+      <Text>Keltiberischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_PORTUGAL</Tag>
+    <English>Archer (Lusitanian)</English>
+    <German>
+      <Text>Lusitanischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_INCAN</Tag>
+    <English>Archer (Andean)</English>
+    <German>
+      <Text>Anden-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_GREECE</Tag>
+    <English>Archer (Toxotes)</English>
+    <German>
+      <Text>Toxotes-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_ROMAN</Tag>
+    <English>Archer (Polybian Sagittarii)</English>
+    <German>
+      <Text>Polybischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_POLAND</Tag>
+    <English>Archer (Lucznik)</English>
+    <German>
+      <Text>Polnischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_FRANCE</Tag>
+    <English>Archer (Frankish)</English>
+    <German>
+      <Text>Fr&#228;nkischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_ENGLAND</Tag>
+    <English>Archer (Ceorl)</English>
+    <German>
+      <Text>Ceorl-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_GERMAN</Tag>
+    <English>Archer (Germanic)</English>
+    <German>
+      <Text>Germanischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_VIKING</Tag>
+    <English>Archer (Nordic)</English>
+    <German>
+      <Text>Nordischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_JAPAN</Tag>
+    <English>Archer (Jomon)</English>
+    <German>
+      <Text>Jomon-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_RUSSIAN_ARCHER</Tag>
+    <English>Archer (Slavic)</English>
+    <German>
+      <Text>Slawischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_PERSIAN</Tag>
+    <English>Archer (Thanvabara)</English>
+    <German>
+      <Text>Thanvabara</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_PONTUS</Tag>
+    <English>Archer (Laz)</English>
+    <German>
+      <Text>Lasischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_MONGOL</Tag>
+    <English>Archer (Steppe)</English>
+    <German>
+      <Text>Steppenbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_HUN</Tag>
+    <English>Archer (Nomadic)</English>
+    <German>
+      <Text>Nomadischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_OTTOMAN</Tag>
+    <English>Archer (Turkic)</English>
+    <German>
+      <Text>T&#252;rkischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_INDIAN_ARCHER</Tag>
+    <English>Archer (Patiyodha)</English>
+    <German>
+      <Text>Indischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_DRAVIDIAN</Tag>
+    <English>Archer (Tamil Patiyodha)</English>
+    <German>
+      <Text>Dravidischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_CELTIC</Tag>
+    <English>Archer (Sotaroas)</English>
+    <German>
+      <Text>Sotaroas</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_DUTCH</Tag>
+    <English>Archer (Belgae Sotaroas)</English>
+    <German>
+      <Text>Belgae-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_EGYPTIAN</Tag>
+    <English>Archer (Nile)</English>
+    <German>
+      <Text>Nilbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_NUBIA</Tag>
+    <English>Archer (Kermanite)</English>
+    <German>
+      <Text>Nubischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_BERBER</Tag>
+    <English>Archer (Garamantian)</English>
+    <German>
+      <Text>Garamantischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_ARABIA</Tag>
+    <English>Archer (Semitic)</English>
+    <German>
+      <Text>Semitischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CHOSON_ARCHER</Tag>
+    <English>Archer (Samhan)</English>
+    <German>
+      <Text>Samhan-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CHINESE_ARCHER</Tag>
+    <English>Archer (Chinese)</English>
+    <German>
+      <Text>Asiatischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_NATIVE_ARCHER</Tag>
+    <English>Archer (Tlahhuitolli)</English>
+    <German>
+      <Text>Tlahhuitolli-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARCHER_CARTHAGE</Tag>
+    <English>Archer (Libyan)</English>
+    <German>
+      <Text>Lybischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_ARCHER -->
+ <!-- BEGIN: UNITCLASS_COMPOSITE_BOWMAN -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN</Tag>
+    <English>Composite Bowman</English>
+    <German>
+      <Text>Kompositbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_AFRICAN</Tag>
+    <English>Composite Bowman (African)</English>
+    <German>
+      <Text>Afrikanischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_FILIPINO</Tag>
+    <English>Composite Bowman (Sambal)</English>
+    <German>
+      <Text>Sambal-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>  
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_WESTERN</Tag>
+    <English>Composite Bowman (Western)</English>
+    <German>
+      <Text>Western-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_LITHUANIA</Tag>
+    <English>Composite Bowman (Baltic)</English>
+    <German>
+      <Text>Baltischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_ARABIA</Tag>
+    <English>Composite Bowman (Bedouin)</English>
+    <German>
+      <Text>Beduinischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_ARMENIA</Tag>
+    <English>Composite Bowman (Cilician)</English>
+    <German>
+      <Text>Kilikischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_AUSTRONESIA</Tag>
+    <English>Composite Bowman (Srivijayan)</English>
+    <German>
+      <Text>Srivijayanischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_AZTEC</Tag>
+    <English>Composite Bowman (Yaomitl)</English>
+    <German>
+      <Text>Yaomitl-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_BERBER</Tag>
+    <English>Composite Bowman (Numidian)</English>
+    <German>
+      <Text>Numidischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_CARTHAGE</Tag>
+    <English>Composite Bowman (Libyan)</English>
+    <German>
+      <Text>Karthagischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_CHINA</Tag>
+    <English>Composite Bowman (Sanguo)</English>
+    <German>
+      <Text>Sanguozhi-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_DRAVIDIA</Tag>
+    <English>Composite Bowman (Tamil)</English>
+    <German>
+      <Text>Tamilischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_EGYPT</Tag>
+    <English>Composite Bowman (Nile)</English>
+    <German>
+      <Text>&#196;gyptischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_ENGLAND</Tag>
+    <English>Composite Bowman (Anglo-Saxon)</English>
+    <German>
+      <Text>Kompositbogensch&#252;tze (England)</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_ETHIOPIA</Tag>
+    <English>Composite Bowman (Axumite)</English>
+    <German>
+      <Text>&#196;thiopischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_FRANCE</Tag>
+    <English>Composite Bowman (Frankish)</English>
+    <German>
+      <Text>Fr&#228;nkischer Kompositogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_GERMANY</Tag>
+    <English>Composite Bowman (Saxon)</English>
+    <German>
+      <Text>Germanischer Kompositbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_GREECE</Tag>
+    <English>Composite Bowman (Psiloi)</English>
+    <German>
+      <Text>Psiloi</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_INCA</Tag>
+    <English>Composite Bowman (Antisuyu)</English>
+    <German>
+      <Text>Anti Suyu-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_INDIA</Tag>
+    <English>Composite Bowman (Rajput)</English>
+    <German>
+      <Text>Rajputischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_JAPAN</Tag>
+    <English>Composite Bowman (Hankyu)</English>
+    <German>
+      <Text>Hankyu-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_KOREA</Tag>
+    <English>Composite Bowman (Gakgung)</English>
+    <German>
+      <Text>Gak Gung-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_MALI</Tag>
+    <English>Composite Bowman (Bambara)</English>
+    <German>
+      <Text>Bambarischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_PERSIA</Tag>
+    <English>Composite Bowman (Kamandaran)</English>
+    <German>
+      <Text>Sassanidischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_ROME</Tag>
+    <English>Composite Bowman (Auxilia)</English>
+    <German>
+      <Text>Auxiliarbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_RUSSIA</Tag>
+    <English>Composite Bowman (Rus)</English>
+    <German>
+      <Text>Russischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_SPAIN</Tag>
+    <English>Composite Bowman (Asturian)</English>
+    <German>
+      <Text>Asturischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_TRANSOXIANA</Tag>
+    <English>Composite Bowman (Sogdian)</English>
+    <German>
+      <Text>Sogdischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_OTTOMAN</Tag>
+    <English>Composite Bowman (Seljuk)</English>
+    <German>
+      <Text>Seldschukischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_VIKING</Tag>
+    <English>Composite Bowman (Nordic)</English>
+    <German>
+      <Text>Wikingischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_ZULU</Tag>
+    <English>Composite Bowman (Xhosa)</English>
+    <German>
+      <Text>Zulunesischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_BABYLON</Tag>
+    <English>Composite Bowman (Abbasid)</English>
+    <German>
+      <Text>Abbasidischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_VOLHYNIA</Tag>
+    <English>Composite Bowman (Ruthenian)</English>
+    <German>
+      <Text>Ruthenischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_MUGHAL</Tag>
+    <English>Composite Bowman (Mughal)</English>
+    <German>
+      <Text>Mogulischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_TARTAR</Tag>
+    <English>Composite Bowman (Bulgar)</English>
+    <German>
+      <Text>Tatarischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_HUN</Tag>
+    <English>Composite Bowman (Nomadic)</English>
+    <German>
+      <Text>Nomadischer Kompositbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_HUNGARY</Tag>
+    <English>Composite Bowman (Onogur)</English>
+    <German>
+      <Text>Onogurischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_KHMER</Tag>
+    <English>Composite Bowman (Khmer Loeu)</English>
+    <German>
+      <Text>Khmer LoeuKompositbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_MAYA</Tag>
+    <English>Composite Bowman (Aguatecan)</English>
+    <German>
+      <Text>Aguateca-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_SIBERIA</Tag>
+    <English>Composite Bowman (Kyrgyz)</English>
+    <German>
+      <Text>Kirgisistanischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_BARBARIAN</Tag>
+    <English>Composite Bowman (Savage)</English>
+    <German>
+      <Text>Brutaler Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END: UNITCLASS_COMPOSITE_BOWMAN -->
+   <!-- BEGIN: UNITCLASS_LONGBOWMAN -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_AUSTRONESIA</Tag>
+    <English>Longbowman (Majapahit)</English>
+    <German>
+      <Text>Majapahit-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_FILIPINO</Tag>
+    <English>Longbowman (Maharlika)</English>
+    <German>
+      <Text>Maharlika-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_ABORIGINE</Tag>
+    <English>Longbowman (Oceanian)</English>
+    <German>
+      <Text>Ozeanischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_AZTEC</Tag>
+    <English>Longbowman (Cuextecatl)</English>
+    <German>
+      <Text>Cuextecatl</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_BARBARIAN</Tag>
+    <English>Longbowman (Outlaw)</English>
+    <German>
+      <Text>Barbarischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_ISRAEL</Tag>
+    <English>Composite Bowman (Hasmonean)</English>
+    <German>
+      <Text>Jud&#228;ischer Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_NUBIA</Tag>
+    <English>Longbowman (Makurian)</English>
+    <German>
+      <Text>Makuria-Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_ETHIOPIA</Tag>
+    <English>Longbowman (Abyssinian)</English>
+    <German>
+      <Text>Abessinischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_HUNGARY</Tag>
+    <English>Longbowman (Magyar)</English>
+    <German>
+      <Text>Magyarischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_DUTCH</Tag>
+    <English>Longbowman (Lotharingian)</English>
+    <German>
+      <Text>Lothringischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_POLYNESIA</Tag>
+    <English>Longbowman (Melanesian)</English>
+    <German>
+      <Text>Melanesischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_NATIVE_SOUTH</Tag>
+    <English>Longbowman (Native)</English>
+    <German>
+      <Text>Indigener Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_NATIVE_NORTH</Tag>
+    <English>Longbowman (Tribal)</English>
+    <German>
+      <Text>Stammeslangbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_ALGONQUIN</Tag>
+    <English>Longbowman (Abenaki)</English>
+    <German>
+      <Text>Abenakischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_APACHE</Tag>
+    <English>Longbowman (Jicarilla)</English>
+    <German>
+      <Text>Jicarilla-Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_IROQUOIS</Tag>
+    <English>Longbowman (Mohawk)</English>
+    <German>
+      <Text>Mohaw-kLangbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_SIOUX</Tag>
+    <English>Longbowman (Nakota)</English>
+    <German>
+      <Text>Dakota-Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_BANTU</Tag>
+    <English>Longbowman (Swahili)</English>
+    <German>
+      <Text>Swahili-Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_POLAND</Tag>
+    <English>Longbowman (Lucznik Wyborowy)</English>
+    <German>
+      <Text>Polnischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_CELT</Tag>
+    <English>Longbowman (Gaelic)</English>
+    <German>
+      <Text>G&#228;lischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_VIKING</Tag>
+    <English>Longbowman (Nordic)</English>
+    <German>
+      <Text>Nordischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_FRANCE</Tag>
+    <English>Longbowman (Garrison Archer)</English>
+    <German>
+      <Text>Garnison-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_KOREA</Tag>
+    <English>Longbowman (Myeonggung)</English>
+    <German>
+      <Text>Koreanischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_GERMAN</Tag>
+    <English>Longbowman (Longbowman)</English>
+    <German>
+      <Text>Germanischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_RUSSIA</Tag>
+    <English>Longbowman (Strelok)</English>
+    <German>
+      <Text>Russischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_UKRAINE_VOLHYNIA</Tag>
+    <English>Longbowman (Ruthenian)</English>
+    <German>
+      <Text>Ruthenischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_OTTOMAN</Tag>
+    <English>Longbowman (Ottoman)</English>
+    <German>
+      <Text>Osmanischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_MUGHAL</Tag>
+    <English>Longbowman (Mughal)</English>
+    <German>
+      <Text>Mugalischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_CARTHAGE</Tag>
+    <English>Longbowman (Hafsid)</English>
+    <German>
+      <Text>Hafsidischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_BERBER</Tag>
+    <English>Longbowman (Marinid)</English>
+    <German>
+      <Text>Merinidischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_INDIA</Tag>
+    <English>Longbowman (Rajput)</English>
+    <German>
+      <Text>Rajputischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_DRAVIDIAN</Tag>
+    <English>Longbowman (Vijayanagara)</English>
+    <German>
+      <Text>Vijayanagara-Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_PERSIAN</Tag>
+    <English>Longbowman (Ghaznavid)</English>
+    <German>
+      <Text>Ghaznawidischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SPANISH_LONGBOWMAN</Tag>
+    <English>Longbowman (Iberian)</English>
+    <German>
+      <Text>Iberischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_PORTUGAL</Tag>
+    <English>Longbowman (Lusitanian)</English>
+    <German>
+      <Text>Lusitanischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ENGLISH_LONGBOWMAN</Tag>
+    <English>Longbowman (Welsh)</English>
+    <German>
+      <Text>Walisischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_ROMAN</Tag>
+    <English>Longbowman (Sagittarii)</English>
+    <German>
+      <Text>Sagittarii</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_CHINA</Tag>
+    <English>Longbowman (Yuan)</English>
+    <German>
+      <Text>Yuan-Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_MONGOL</Tag>
+    <English>Longbowman (Steppe)</English>
+    <German>
+      <Text>Steppenlangbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_TARTAR</Tag>
+    <English>Longbowman (Tatar)</English>
+    <German>
+      <Text>Tatarischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_TRANSOXIANA</Tag>
+    <English>Longbowman (Timurid)</English>
+    <German>
+      <Text>Timuridischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_EGYPT</Tag>
+    <English>Longbowman (Mamluk)</English>
+    <German>
+      <Text>Mamlukischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_ARABIA</Tag>
+    <English>Longbowman (Desert)</English>
+    <German>
+      <Text>W&#252;sten-Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SAMURAI_LONGBOWMAN</Tag>
+    <English>Longbowman (Yumi Samurai)</English>
+    <German>
+      <Text>Kyudo-Sch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_AFRICAN_LONGBOWMAN</Tag>
+    <English>Longbowman (Xhosa)</English>
+    <German>
+      <Text>Afrikanischer Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_MALI</Tag>
+    <English>Longbowman (Fulani)</English>
+    <German>
+      <Text>Fulani-Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_INCA</Tag>
+    <English>Longbowman (Antisuyu)</English>
+    <German>
+      <Text>Antisuyu-Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_LONGBOWMAN_MAYA</Tag>
+    <English>Longbowman (Aguatecan)</English>
+    <German>
+      <Text>Aguateca-Langbogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_LONGBOWMAN -->
+  <!-- BEGIN: UNITCLASS_EARLY_CROSSBOWMAN -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_EARLY_CROSSBOWMAN</Tag>
+    <English>Early Crossbowman</English>
+    <German>
+      <Text>Fr&#252;her Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_EARLY_CROSSBOWMAN_GREECE</Tag>
+    <English>Early Crossbowman (Gastraphetes)</English>
+    <German>
+      <Text>Gastraphetes-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_EARLY_CROSSBOWMAN_SOUTH_CHINA</Tag>
+    <English>Early Crossbowman (Sanguo)</English>
+    <German>
+      <Text>Sanguo-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END: UNITCLASS_EARLY_CROSSBOWMAN -->
+  <!-- BEGIN: UNITCLASS_CROSSBOWMAN -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_AUSTRONESIA</Tag>
+    <English>Crossbowman (Malaccan)</English>
+    <German>
+      <Text>Malakka-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_FILIPINO</Tag>
+    <English>Crossbowman (Tagalog)</English>
+    <German>
+      <Text>Tagalog-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>  
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_VIKING</Tag>
+    <English>Crossbowman (Nordic)</English>
+    <German>
+      <Text>Nordischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_AZTEC</Tag>
+    <English>Crossbowman (Mico Tlahuitolli)</English>
+    <German>
+      <Text>Tlahuitolli-Sch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_ISRAEL</Tag>
+    <English>Crossbowman (Judean)</English>
+    <German>
+      <Text>Jud&#228;ischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_ETHIOPIA</Tag>
+    <English>Crossbowman (Abyssinian)</English>
+    <German>
+      <Text>Abessinischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_MAYA</Tag>
+    <English>Crossbowman (Aguatecan)</English>
+    <German>
+      <Text>Aguateca-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_HUNGARY</Tag>
+    <English>Crossbowman (Magyar)</English>
+    <German>
+      <Text>Magyarischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_KHMER</Tag>
+    <English>Crossbowman (Khmer Loeu)</English>
+    <German>
+      <Text>Khmer Loeu-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_DUTCH</Tag>
+    <English>Crossbowman (Lotharingian)</English>
+    <German>
+      <Text>Lotharingianischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_SPAIN</Tag>
+    <English>Crossbowman (Ballestero)</English>
+    <German>
+      <Text>Spanischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_PORTUGAL</Tag>
+    <English>Crossbowman (Besteiro)</English>
+    <German>
+      <Text>Portugisischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_POLAND</Tag>
+    <English>Crossbowman (Kusznik)</English>
+    <German>
+      <Text>Polnischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_PERSIA</Tag>
+    <English>Crossbowman (Samanid)</English>
+    <German>
+      <Text>Samanidischr Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_RUSSIA</Tag>
+    <English>Crossbowman (Samostrel Militia)</English>
+    <German>
+      <Text>Russischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_UKRAINE_VOLHYNIA</Tag>
+    <English>Crossbowman (Ruthenian)</English>
+    <German>
+      <Text>Ruthenischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_HALYCH_VOLHYNIA</Tag>
+    <English>Crossbowman (Baltic)</English>
+    <German>
+      <Text>Baltischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_ENGLAND</Tag>
+    <English>Crossbowman (Anglo-Norman)</English>
+    <German>
+      <Text>Anglonormannischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_CELT</Tag>
+    <English>Crossbowman (Pictish)</English>
+    <German>
+      <Text>Pictischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_KOREA</Tag>
+    <English>Crossbowman (Choson)</English>
+    <German>
+      <Text>Joseon-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_GREECE</Tag>
+    <English>Crossbowman (Tzangrophoros)</English>
+    <German>
+      <Text>Griechischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GENOESE_CROSSBOWMAN</Tag>
+    <English>Crossbowman (Genoese)</English>
+    <German>
+      <Text>Genua-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_ARMENIA</Tag>
+    <English>Crossbowman (Sergeant)</English>
+    <German>
+      <Text>Armenischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_GERMAN</Tag>
+    <English>Crossbowman (Armbrustsch&#252;tze)</English>
+    <German>
+      <Text>Germanischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_INCAN</Tag>
+    <English>Crossbowman (Andean)</English>
+    <German>
+      <Text>Anden-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_ARABIA</Tag>
+    <English>Crossbowman (Qaws Ferengi)</English>
+    <German>
+      <Text>Qaws Ferengi-Sch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_VENICE</Tag>
+    <English>Crossbowman (Arsenalotti)</English>
+    <German>
+      <Text>Arsenalotti Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_BABYLON</Tag>
+    <English>Crossbowman (Abbassid)</English>
+    <German>
+      <Text>Abbasidischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_MONGOL</Tag>
+    <English>Crossbowman (Steppe)</English>
+    <German>
+      <Text>Mongolischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_TARTAR</Tag>
+    <English>Crossbowman (Tatar)</English>
+    <German>
+      <Text>Tatarischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_TRANSOXIANA</Tag>
+    <English>Crossbowman (Timurid)</English>
+    <German>
+      <Text>Timuridischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_HUN</Tag>
+    <English>Crossbowman (Nomadic)</English>
+    <German>
+      <Text>Nomadischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_OTTOMAN</Tag>
+    <English>Crossbowman (Ottoman)</English>
+    <German>
+      <Text>Osmanischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_MUGHAL</Tag>
+    <English>Crossbowman (Mughal)</English>
+    <German>
+      <Text>Mugalischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_ZULU</Tag>
+    <English>Crossbowman (Xhosa)</English>
+    <German>
+      <Text>Xhosa-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_CARTHAGE</Tag>
+    <English>Crossbowman (Hafsid)</English>
+    <German>
+      <Text>Hafsidischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_BERBER</Tag>
+    <English>Crossbowman (Marinid)</English>
+    <German>
+      <Text>Merinidischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_MALI</Tag>
+    <English>Crossbowman (Songhai)</English>
+    <German>
+      <Text>Songhai-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_EGYPT</Tag>
+    <English>Crossbowman (Marine)</English>
+    <German>
+      <Text>&#196;gyptischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_NUBIA</Tag>
+    <English>Crossbowman (Makurian)</English>
+    <German>
+      <Text>Makuria-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_INDIA</Tag>
+    <English>Crossbowman (Rajput)</English>
+    <German>
+      <Text>Rajputischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_DRAVIDIAN</Tag>
+    <English>Crossbowman (Chola)</English>
+    <German>
+      <Text>Chola-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_JAP_CROSSBOWMAN</Tag>
+    <English>Crossbowman (Ashigaru)</English>
+    <German>
+      <Text>Ashigaru-Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CROSSBOWMAN_CHINA</Tag>
+    <English>Crossbowman (Chinese)</English>
+    <German>
+      <Text>Asiatischer Armbrustsch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_CROSSBOWMAN -->
+</Civ4GameText>

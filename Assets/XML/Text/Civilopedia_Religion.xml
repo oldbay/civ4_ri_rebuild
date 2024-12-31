@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civic and Religion Infos -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_BUDDHISM_PEDIA</Tag>
+		<English>Missionary:[PARAGRAPH:1][LINK=ACARIYA]Acariya[\LINK]*
+Buildings:
+[TAB]Pha  That  Luang (Great Temple)
+[TAB]Buddhism Stupa (Cathedral)
+[TAB]Buddhism monastary
+[TAB]Buddhism temple
+[TAB]Buddhism community
+[TAB]Mahabodhi (Shrine)*
+[TAB]Bamyan Buddha Statues (Holy Place)[PARAGRAPH:1]
+Spread: slow [PARAGRAPH]
+*Missionaries can be build without a special building under Monasticism civic and the Shrine doesn't requre a state religion.[PARAGRAPH]
+Buddhism is one of the world's major religions, with more that 350 million followers. Buddhism originated in India and has since spread throughout the subcontinent and into central and southeast Asia. [PARAGRAPH:2]Buddhism follows the teachings of Siddhartha Gautama, the Buddha. Gautama lived from 620 to 540 BC. The Buddha ("enlightened one") sought to teach his followers to search for "Dharma," the truth. By doing so, they too would become enlightened and thus achieve "Nirvana," the perfect peace that would free one's soul from the unending cycle of death and rebirth that all men suffer. [PARAGRAPH:2]Three major schools of Buddhism survive today. Vajrayana believes that people can "speed up" enlightenment through "tantric" techniques such as yoga, mantras (chants), and various other rituals. Theravada and Mahayana are sutric schools that believe that one achieves enlightenment primarily through study of the Budda's teachings.
+		</English>
+		<German>Buddhism</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_CHRISTIANITY_PEDIA</Tag>
+		<English>Missionary:[PARAGRAPH:1]Missionary*
+Buildings:
+[TAB]Mont St. Michel (Great Temple)
+[TAB]Christian Cathedral
+[TAB]Christian monastary
+[TAB]Christian temple
+[TAB]Christian community
+[TAB]The Church of Nativity (Shrine)*
+[TAB]St. Peter's Cathedral (Holy Place)[PARAGRAPH:1]
+Spread: fast [PARAGRAPH]
+*Missionaries can be build without a special building under Monasticism civic and the Shrine doesn't requre a state religion.[PARAGRAPH]
+Christianity is the world's largest religion. It is the dominant religion in Europe, North, Central and South America, and has made significant inroads in all other parts of the world. Christianity is based upon the teachings of Jesus Christ, whom Christians believe to have been the "son of God made flesh," brought to the world to teach men the way of salvation. Jesus lived from approximately 6 BC to 30 AD. [PARAGRAPH:2]Jesus' life and teachings are recorded in the New Testament. Born of the Virgin Mary, a Jew, the Christ lived and taught in and around present-day Palestine and Israel. According to the New Testament, he performed many miracles during his lifetime, and he taught men how to cleanse themselves from sin and thus achieve eternal happiness after death. Jesus was betrayed and crucified, but he rose from death after three days and ascended into heaven. [PARAGRAPH:2]After Christ's death, Christianity spread throughout the eastern Mediterranean. The Romans tried unsuccessfully to suppress it, but eventually they adopted Christianity as the state religion. With the might of Rome behind it, Christianity spread rapidly through the known world. When the Roman Empire fell, Christianity broke into two branches. Since then it has continued to fragment, with a number of the branches quite hostile to others. Today, the major Christian branches include Roman Catholicism, Protestantism, Orthodox Christianity, and Mormonism.
+		</English>
+		<German>Christian</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_HINDUISM_PEDIA</Tag>
+		<English>Missionary:[PARAGRAPH:1]Swami*
+Buildings:
+[TAB]Kamakhya Temple (Great Temple)
+[TAB]Hindu Mandir (Cathedral)
+[TAB]Hindu monastary
+[TAB]Hindu temple
+[TAB]Hindu community
+[TAB]The Kashi Vishwanath (Shrine)*
+[TAB]Vijay Stambha (holy place) [PARAGRAPH:1]
+Spread: slow [PARAGRAPH]
+*Missionaries can be build without a special building under Monasticism civic and the Shrine doesn't requre a state religion.[PARAGRAPH]
+Hinduism is considered to be the oldest religion still in practice. Its roots can be traced back to the Rig-Veda, a collection of over 1000 religious hymns written about 3500 years ago in Sanskrit. Today Hinduism has approximately one billion followers, most concentrated in the Indian subcontinent. [PARAGRAPH:2]Hinduism believes that man needs to strive for self-realization in order to once again become part of the Ultimate Reality, which is God. All things are God - each man suffers only because he has forgotten that. Until he remembers, his soul remains in bondage, and he must suffer the eternal cycle of death and rebirth into this world. [PARAGRAPH:2]Perhaps the most interesting part of Hindu thought is that there is no one true path to self-realization. Any kind of spiritual practice followed with faith and love will lead one to this enlightenment. Hindus have a rich pantheon of deities, all of whom are but a different aspect of the one God. Many contemporary Hindus believe in a Holy Trinity, consisting of Brahma the Creator, Vishnu the Preserver, and Shiva the Destroyer - all are equal, all are faces of the One. Other Hindus have different interpretations, some citing one god as God and others as subordinates. [PARAGRAPH:2]Despite these differences, there is little conflict between the various schools of thought. For, as Krishna, avatar of Vishnu, said, "Whatever deity or form a devotee worships, I make his faith steady." 
+		</English>
+		<German>Hindu</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_ISLAM_PEDIA</Tag>
+		<English>Missionary:[PARAGRAPH:1]Imam*
+Buildings:
+[TAB]Kaaba (Great Temple)
+[TAB]Mosque (Cathedral)
+[TAB]Islamic monastary
+[TAB]Islamic temple
+[TAB]Islamic community
+[TAB]The Masjid Al-Haram (Shrine)*
+[TAB]The Spiral Minaret (holy place)[PARAGRAPH:1]
+Spread: fast[PARAGRAPH]
+*Missionaries can be build without a special building under Monasticism civic and the Shrine doesn't requre a state religion.[PARAGRAPH]
+Islam unique feature: If an Islamic civ captures a city, it automatically gets Islam spread to it, until the industrial era. [PARAGRAPH:1]
+"Islam" means "the submission to God." It is the world's second largest religion. Most adherents can be found in the Middle East, Asia and Africa, but Islam has a strong presence in Europe as well. Muslims - followers of Islam - believe that there is only one God ("Allah" in Arabic), and that over the years he has revealed his desires to a number of great prophets: Adam, Abraham, Moses, Jesus, and Muhammad. The last and greatest of prophets, Muhammad has written down God's direct words in the Koran, which is the only true guide to a holy life. [PARAGRAPH:2]Muhammad was born in the city of Mecca (which is now part of Saudi Arabia). He lived from 570 to 632. He began life as a merchant, but during his 40th year he experienced a series of visions from God, who commanded him to memorize the verses that would later make up the Koran. Muhammad revealed his visions to others and he gained followers. He and his followers were reviled and attacked by those who did not believe, but they were following the path that God had set for them and emerged triumphant, eventually unifying all of Arabia under one rule. After Muhammad's death, his words spread throughout the Middle East and far beyond. [PARAGRAPH:2]Since Muhammad, Islam has broken into a number of branches, the three most prominent being the Sunni, Shi'ite and Kharijite. These schools disagree on the correct succession of authority after Muhammad's death - a matter of great religious and political importance to Islam. [PARAGRAPH:2]All Muslims believe in the "Five Pillars of Islam," which state that one must do the following to achieve salvation: acknowledge that there is no god but God, and Muhammad is his Prophet; pray daily to God at the five established times; give a portion of one's wealth to the poor; fast from dawn to dusk during the month of Ramadan; and make a pilgrimage to Mecca during the holy month of Dhul Hijjah.
+		</English>
+		<German>Islam</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_JUDAISM_PEDIA</Tag>
+		<English>Missionary:[PARAGRAPH:1]Rabbi*
+Buildings:
+[TAB]Qumran (Great Temple)
+[TAB]Jewish Great Synagogue (Cathedral)
+[TAB]Jewish monastary
+[TAB]Jewish Synagogue (Temple)
+[TAB]Jewish community
+[TAB]The Temple of Solomon (Shrine)*
+[TAB]Ark of Covenant (holy place)[PARAGRAPH:1]
+Spread: slow [PARAGRAPH]
+*Missionaries can be build without a special building under Monasticism civic and the Shrine doesn't requre a state religion.[PARAGRAPH]
+Born perhaps 4000 years ago, Judaism is one of the oldest religious traditions practiced today, the first known religion to embrace monotheism and one of the most influential in history. Born in the "cradle of religions," the Middle East, Judaism provided the foundations for Christianity and Islam, two other "Abrahamic" religions. [PARAGRAPH:2]Judaism is the religion of the Jews, originally a Semitic tribe that lived in an area of the Middle East roughly centered on the ancient city of Jerusalem. Over time their central beliefs were written down in the Bible (Old Testament), which contains the history of the Jews, as well as the words of prophets and kings. Most importantly, the Bible teaches the children of Israel how to live according to God's wishes. [PARAGRAPH:2]These are the central beliefs of Judaism. There is only one God and you must not worship any other gods before Him. God is all powerful, all knowing, and eternal. Each man prays to God directly, without the need for an intermediary. People can atone for sins through words and deeds. God has chosen the Jewish people to be in a covenant with Him, and some day God will send a Messiah to bring all of the chosen people back to Israel and usher in an era of peace and prosperity to the Earth. [PARAGRAPH:2]Judaism is a remarkably strong and resilient faith. Throughout history the Jews have been oppressed and enslaved by a series of conquerors. They have been taken from their homeland and scattered across Europe, Africa and Asia. They have been the targets of a program of unbelievably brutal genocide. But throughout it all, the Jews have remained faithful to their religion and their God. 		
+		</English>
+		<German>Jewish</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_ORTHODOXY_PEDIA</Tag>
+		<English>Missionary:[PARAGRAPH:1]Orthodox missionary*
+Buildings:
+[TAB]Hagia Sophia (Great Temple)
+[TAB]Orthodox Cathedral
+[TAB]Orthodox monastary
+[TAB]Orthodox Temple
+[TAB]Orthodox community
+[TAB](Shrine) NO - crusade's scenario religion
+[TAB]Mount Athos (holy place)[PARAGRAPH:1]
+Spread: slow [PARAGRAPH]
+*Others missionaries can be build under monasticism.[PARAGRAPH]
+The word orthodox, from Greek orthos ("right", "true", "straight") + doxa ("opinion" or "belief", related to dokein, "to think"), is generally used to mean the adherence to accepted norms, more specifically to creeds, especially in religion.[PARAGRAPH:2]The term did not exist in the sense in which it is now used prior to the advent of the State church of the Roman Empire. Orthodoxy is opposed to heterodoxy ("other teaching"), heresy and schism. People who deviate from orthodoxy by professing a doctrine considered to be false are most often called heretics or radicals, while those who deviate from orthodoxy by removing themselves from the perceived body of believers are called schismatics. The distinction in terminology pertains to the subject matter; if one is addressing corporate unity, the emphasis may be on schism; if one is addressing doctrinal coherence, the emphasis may be on heresy. [PARAGRAPH:2]Apostasy, for example, is a violation of orthodoxy that takes the form of abandonment of the faith, a concept largely unknown before the adoption of Christianity as the state religion of Rome on February 27, 380 by Theodosius I, see also First seven Ecumenical Councils and State church of the Roman Empire. A lighter deviation from orthodoxy than heresy is commonly called error, in the sense of not being grave enough to cause total estrangement, while yet seriously affecting communion. Sometimes error is also used to cover both full heresies and minor errors.[PARAGRAPH:2]In classical Christian usage, the term orthodox refers to a set of doctrines which gained prominence in the 4th century AD. The Roman Emperor Constantine I initiated a series of ecumenical councils to try to standardize what was by then, not a necessarily homogeneous religion in terms of theology. The most significant of these early debates was that between the Homoousian doctrine of Athanasius and Eustathius (Trinitarianism) and the Heteroousian doctrine of Arius and Eusebius (Arianism). The Homoousian doctrine gradually won out in the Roman Church and came to be referred to as orthodoxy in most Christian contexts, since this became the viewpoint of the majority (although, of course, many non-Trinitarian Christians still object to this terminology). Following the Great Schism, both the Western and Eastern churches continued to consider themselves uniquely orthodox and catholic. Over time the Western church gradually identified itself more with the "Catholic" label and Westerners gradually associated the "Orthodox" label more with the Eastern church (in some other languages the "Catholic" label is not necessarily identified with the Western church). In addition to the Eastern Orthodox Church, there also exists a separate Oriental Orthodox communion, as well as other smaller communions that are commonly associated with the "Orthodox" label.[PARAGRAPH:2]The Eastern Orthodox Church uses the original form of the Nicene Creed created at the First Council of Constantinople in 381, in contrast to the Roman Catholic church, which uses the Nicene creed with the addition of the phrase 'and the Son' (Filioque clause). This change is one of many causes for the Great Schism formalized in 1054 by simultaneous proclamations of "Anathema" from the leadership of the Orthodox Churches in the East and the Bishop of Rome (Pope) in the West. This emphasis on the use of the original "creed" is shared today by all Eastern Orthodox Christians.[PARAGRAPH:2]The biggest difference, however, is Orthodoxy's "understanding of the Papal ministry within the Church." For their part, the Roman and Eastern Catholic Churches do not consider the Eastern Orthodox Church to be schismatic and heretical, only "defective" for not accepting the universal jurisdiction of the See of Rome. At the same time, Rome's document Dominus Iesus calls Orthodox Churches "true particular churches": "an unusual use of 'true' referring to any but the Catholic Church." Needless to say, Rome recognizes that Orthodoxy has valid sacraments and full apostolic succession. Recent declarations between the two churches have also brought the two churches even closer together. For example, a joint commission of Orthodox and Catholic theologians agreed that the Pope is "protos among the patriarchs,", or at any rate would be if the Orthodox and Catholic churches were reunited. But disagreements about the extent of his authority continue, and the Orthodox firmly reject papal infallibility.- Wikipedia
+		</English>
+		<German>Orthodoxy</German>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_RELIGION_ZOROASTRIANISM_PEDIA</Tag>
+		<English>Missionary:[PARAGRAPH:1]Magi*
+Buildings:
+[TAB]Adur Farnbag (Great Temple)
+[TAB]Zoroastrian Fire Temple (Cathedral)
+[TAB]Zoroastrian monastary
+[TAB]Zoroastrian Temple
+[TAB]Zoroastrian community
+[TAB]Adur Burzen-Mihr (Shrine)*
+[TAB]Hall of Hundred Columns (holy place)[PARAGRAPH:1]
+Spread: slow [PARAGRAPH]
+*Missionaries can be build without a special building under Monasticism civic and the Shrine doesn't requre a state religion.[PARAGRAPH]
+[TAB]Zoroastrianism or Mazdaism is known as one of the world's oldest monotheistic religions. It was once the official religion of Sassanid Persia and played an important role in Achaemenid times.  The prophet Zarathushtra, commonly known in the West as Zoroaster, lived in Persia no earlier than 1700 BCE and no later than 600 BCE, although Plato believed that Zoroaster lived some 6000 years previous to himself. Zoroastrianism is uniquely important in the history of religion because of its formative links to both Western Abrahamic and Eastern Dharmic religious traditions.  Zoroaster's writings suggest a metaphysical dualism, but devotional monotheism, requiring adherence to Ahura Mazda. Many modern scholars believe that Zoroastrianism had a large influence on Judaism, Mithraism, Manichaeism, and Christianity because of Persia's connections to the Roman Empire and because of its earlier control over Israel under rulers such as Cyrus II the Great, Darius the Great and Xerxes I.  [PARAGRAPH:2]When the Sassanid dynasty came into power in Iran in 228 CE, they aggressively promoted their Zoroastrian religion. During periods when the Sassanids captured provinces held by the Romans, they often built fire temples there. During periods of Sassanid suzernity over Armenia, the Persians made attempts to promote the religion there as well.  By the 6th century, Zoroastrianism had spread to northern China via the Silk Road, gaining official status in a number of Chinese states. Zoroastrian temples still remained in Kaifeng and Zhenjiang as late as the 1130s, but by the 13th century the religion had faded from prominence in China.  [PARAGRAPH:2]In the 7th century, the Sassanid dynasty was conquered by Muslim Arabs. Zoroastrianism, which was once dominant in a region stretching from Anatolia to Persian Gulf and Central Asia, did not have a powerful foreign champion as Christianity did in the Byzantine Empire, and so steadily lost influence and adherents in Iran under Muslim rule.  Iranian Zoroastrians fled to India in large numbers, where they were offered refuge on condition that they abstain from missionary activities and marry only in their community. Although these strictures are centuries old, Parsis of the 21st century still do not accept converts and are endogamous.   Zoroastrians in Iran are still persecuted by that nation's theocratic rulers, but even today one can find Zoroastrian communities living and practicing their faith there, such as in the province of Yazd, Kerman and Tehran.
+		</English>
+		<German>Zoroastrianism</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_SOLAR_CULT_PEDIA</Tag>
+		<English>Missionary:[PARAGRAPH:1]Sun God Speaker/High Priest of Aten/Pontifex/Kannushi*
+Buildings:
+[TAB](Great Temple) Sol Invictus Great Temple / Plataform of Eagles and Jaguars / Temple of Karnak / Ise Great Shrine
+[TAB](Cathedral) Sol Invictus Aedes / Solar Cult Great Temple / Atenist Great Temple / Amaterasu Great Temple
+[TAB](Monastary) Sol Invictus Basilica / Solar Cult Monastary / Atenist Necropolis / Amaterasu Honden
+[TAB](Temple) Sol Invictus Temple / Solar Cult Temple / Atenist Temple / Amaterasu Temple
+[TAB](community) Sol Invictus Community / Solar Cult Community / Atenist community / Amaterasu Community
+[TAB](Shrine)* The Pantheon / Pyramid of Sun / Amarna Temple / Atsuta Shrine
+[TAB](holy place) Trajan's Column /Pyramid of Moon / Valley of the Kings / Himeji Castle[PARAGRAPH:1]
+Spread: slow [PARAGRAPH]
+*Missionaries can be build without a special building under Monasticism civic and the Shrine doesn't requre a state religion.[PARAGRAPH]
+In R:I Solar Cult religion takes different characteristics depending on which civilization emerges. So, if you play with a Mediterranean, Middle Eastern/North African or Oriental civilization, your buildings and units will look different, but will functionally stay the same.[PARAGRAPH]
+[TAB]MESOAMERICAN SOLAR CULT[PARAGRAPH:1]The shared traits in Mesoamerican mythology are characterized by their common basis as a religion that although in many Mesoamerican groups developed into complex polytheistic religious systems, retained some shamanistic elements.[PARAGRAPH:2]The great breadth of the Mesoamerican pantheon of deities is due to the incorporation of ideological and religious elements from the first primitive religion of Fire, Earth, Water and Nature. Astral divinities (the sun, stars, constellations, and Venus) were adopted, and represented in anthropomorphic, zoomorphic, and anthropozoomorphic sculptures, and in day-to-day objects. [PARAGRAPH:2]The qualities of these gods and their attributes changed with the passage of time and with cultural influences from other Mesoamerican groups. The gods are at once three different cosmic entities, and at the same time just one. An important characteristic of Mesoamerican religion was the dualism among the divine entities. The gods represented the confrontation between opposite poles: the positive, exemplified by light, the masculine, force, war, the sun, etc.; and the negative, exemplified by darkness, the feminine, repose, peace, the moon, etc.The xoloitzcuintle is one of the naguales of the god Quetzalcoatl. In this form, it helps the dead cross the Chicnahuapan, a river that separates the world of the living from the dead.[PARAGRAPH:2]The typical Mesoamerican cosmology sees the world as separated into a day world governed by the sun and an underworld to which the dying sun goes at night to be reborn again the following morning, and united by a Ceiba tree (Yaxche' in Mayan). The geographic vision is also tied to these concepts and the cardinal points as well as certain geographical features in nature are linked to different parts of this cosmovision. For example caves are extremely important geographical features as are mountains and cenotes (natural wells), because they are seen as connecting the upper and the nether worlds. The influence of this cosmovision on most mesoamerican societies was so strong as to be crucial in cityplanning and architecture. - Wikipedia
+[PARAGRAPH:1]SOL INVICTUS[PARAGRAPH:1]Sol Invictus ("Invincible Sun") was the official sun god of the later Roman Empire. In 274 the Roman emperor Aurelian made it an official cult alongside the traditional Roman cults. The god was favored by emperors after Aurelian and appeared on their coins until Constantine. [PARAGRAPH:1]Emperor Probus, circa 280, used in a coin a image of Sol Invictus riding a quadriga, with legend SOLI INVICTO. In this coin the Emperor wears a radiated solar crown, worn also by the god. [PARAGRAPH:1]The last inscription referring to Sol Invictus dates to 387 AD and there were enough devotees in the 5th century that Augustine found it necessary to preach against them. [PARAGRAPH:1]It is commonly claimed that the date of December 25th for Christmas was selected in order to correspond with the Roman festival of Dies Natalis Solis Invicti, or "Birthday of Sol Invictus" but Pope Benedict XVI has argued that the December 25 date was determined simply by calculating nine months after March 25, regarded as the day of Jesus' conception (the Feast of the Annunciation). [PARAGRAPH:1]Invictus (unconquered) was an epithet used for various Roman divinities in the Roman Empire. In the Roman Calendar of the early empire these include Jupiter Invictus and Mars Invictus. It was in use from the late Republic and throughout the Imperial period for a range of deities, such as Hercules, Apollo and Silvanus, and was therefore a well-established form when applied to Mithras by Roman devotees from the 2nd century onwards. [PARAGRAPH:1]It has a clear association with solar deities and solar monism; as such, it became the preferred epithet of Rome's traditional Sol and the novel, short-lived Roman state cult to Elagabalus, an Emesan solar deity who headed Rome's official pantheon under his namesake emperor.
+[PARAGRAPH:1]ATENISM[PARAGRAPH:1]The Aten - the god of Atenism - first appears in texts dating to the 12th dynasty of Egypt, in the Story of Sinuhe. Here during the Middle Kingdom, the Aten "as the sun disk...was merely one aspect of the sun god Re." The Aten, hence, was a relatively obscure sun god; without the Atenist period, it would barely have figured in Egyptian history. Initially, Akhenaten presented Aten to the Egyptian people as a variant of the familiar supreme deity Amun-Ra (itself the result of an earlier rise to prominence of the cult of Amun, resulting in Amun becoming merged with the sun god Ra), in an attempt to put his ideas in a familiar religious context. Aten is the name given to the solar disc, whereas the full title of Akhenaten's god was Ra-Horus, who rejoices in the horizon in his name of the light which is in the sun disc.
+[PARAGRAPH:1]AMATERASU[PARAGRAPH:1]Amaterasu is a part of the Japanese myth cycle and also a major deity of the Shinto religion. She is seen as the goddess of the sun, but also of the universe. The name Amaterasu derived from Amateru means "shining in heaven". The meaning of her whole name, Amaterasu-&#333;mikami, is "the great august kami (god) who shines in the heaven". Amaterasu appears to be the Japanese expression of a historical pan-Asiatic solar goddess. Several similarities have been noticed between the Japanese solar goddess and the Korean solar goddess Hae-nim, particularly in regards to shamanistic worship, using the same symbols and practices. Another possible expression is the Chinese Xihe. Though historically probably venerated highly, only in Japan did this deity find continuous worship as a central figure, as elsewhere several other religious movements such as Buddhism and Taoism discouraged the veneration of solar goddesses. The worship of Amaterasu to the exclusion of other kami has been described as "the cult of the sun".
+		</English>
+		<German>Solar Cult</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_TAOISM_PEDIA</Tag>
+		<English>Missionary:[PARAGRAPH:1]Sage*
+Buildings:
+[TAB]Temple of Heaven (Great Temple)
+[TAB]Taoist Pagoda (Cathedral)
+[TAB]Taoist monastary
+[TAB]Taoist temple
+[TAB]Taoist community
+[TAB]The Dai Miao (Shrine)*
+[TAB]The school of Confucius (holy place)[PARAGRAPH:1]
+Spread: slow [PARAGRAPH]
+*Missionaries can be build without a special building under Monasticism civic and the Shrine doesn't requre a state religion.[PARAGRAPH]
+When discussing "Taoism," one must be careful to distinguish between the philosophy of Tao and the religion of Tao. The philosophy of Tao came first. According to tradition, the philosopher Lao-Tsu lived in the 4th Century BC. He wrote the "Tao Te Ching," which can be roughly translated as "The Book of the Way and its Virtue." [PARAGRAPH:2]The Tao Te Ching is written in verse. It is extremely subtle and difficult to understand. Many scholars have spent years trying to interpret it. The book can be (very primitively and probably inaccurately) summarized as follows. The "Tao" is what exists before everything else. It is formless, and from it all things are formed. Man must aspire to simplicity; only by discarding the useless trappings of culture and civilization can man return to his original state of emptiness - Tao - when all is possible. According to Lao-Tsu, "the sage has no heart of his own" - no intentions, no preconceptions, and no agenda. [PARAGRAPH:2]The religion of Taoism is based upon worship of Lao-Tsu as a deity. According to Taoist religious tradition, in 142 AD Lao-Tsu appeared to Zhang Daoling, a hermit, and told him that the world was coming to an end, and those who followed Lao-Tsu would go on to another, better life. Further, Lao-Tsu's followers would have access to the celestial powers that control the fate of mankind. Zhang preached Lao-Tsu's words and gained many converts.[PARAGRAPH:2]Over time, Taoism split into a number of schools. Some believed that they could change the world through talismans, alchemy, and magical spells. Some sought to achieve immortality through a Buddhist-like enlightenment. A variety of gods from Chinese folklore and Buddhist tradition were incorporated into the religion.[PARAGRAPH:2]Taoism spread widely throughout China, and it was the official state religion for a thousand years, until the end of the Qing Dynasty in 1911. The Communists virtually eradicated the religion in China during the Cultural Revolution (1960-76), when many of the temples were destroyed and the monks and priests sent to "reeducation" camps. In the 1980s China restored some religious tolerance, and Taoist temples are slowly being rebuilt and repaired. [PARAGRAPH:2]It is believed that many Chinese still practice Taoism in some form, despite the government's restrictions. Taoism is also practiced by some 31 million people outside of China, the largest group being in Taiwan. Its influence can be felt world-wide in the practices of acupuncture, herbalism, feng shui, and martial arts. 
+		</English>
+		<German>Taoism</German>
+	</TEXT>	
+</Civ4GameText>

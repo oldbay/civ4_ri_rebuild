@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <!-- BEGIN: UNITCLASS_SCOUT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_ABORIGINE</Tag>
+		<English>Scout (Aborigine)</English>
+		<German>
+			<Text>Aborigine-Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_AFRICA</Tag>
+		<English>Scout (African)</English>
+		<German>
+			<Text>Afrikanischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_FILIPINO</Tag>
+		<English>Scout (Aeta)</English>
+		<German>
+			<Text>Aeta-Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_APACHE</Tag>
+		<English>Scout (Tracker)</English>
+		<German>
+			<Text>F&#228;hrtenleser</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_ARABIAN</Tag>
+		<English>Scout (Semitic)</English>
+		<German>
+			<Text>Semitischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_ASIAN</Tag>
+		<English>Scout (Asian)</English>
+		<German>
+			<Text>Asiatischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_AUSTRONESIA</Tag>
+		<English>Scout (Langkasuka)</English>
+		<German>
+			<Text>Langkasuka-Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_AZTEC</Tag>
+		<English>Scout (Proto-Nahuatl)</English>
+		<German>
+			<Text>Nahuatl-Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_BARBARIAN</Tag>
+		<English>Scout (Primitives)</English>
+		<German>
+			<Text>Primitivling</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_CELTIC</Tag>
+		<English>Scout (Imannae)</English>
+		<German>
+			<Text>Imannae</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_DUTCH</Tag>
+		<English>Scout (Belgae Imannae)</English>
+		<German>
+			<Text>Belgae Imannae</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_EGYPTIAN</Tag>
+		<English>Scout (Kemet)</English>
+		<German>
+			<Text>Kemet-Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_ETHIOPIA</Tag>
+		<English>Scout (Axumite)</English>
+		<German>
+			<Text>Aksumitischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_GERMAN</Tag>
+		<English>Scout (Western)</English>
+		<German>
+			<Text>Westlicher Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_HUN</Tag>
+		<English>Scout (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_HUNGARY</Tag>
+		<English>Scout (Onogur)</English>
+		<German>
+			<Text>Onogur-Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_INCA</Tag>
+		<English>Scout (Chavín)</English>
+		<German>
+			<Text>Quechua-Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_INDIAN</Tag>
+		<English>Scout (Indian)</English>
+		<German>
+			<Text>Indianischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_MAYA</Tag>
+		<English>Scout (Mayapan)</English>
+		<German>
+			<Text>Mayapanischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_MONGOL</Tag>
+		<English>Scout (Steppe)</English>
+		<German>
+			<Text>Steppensp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_NATIVE_NORTH</Tag>
+		<English>Scout (Pathfinder)</English>
+		<German>
+			<Text>Stammessp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_NATIVE_SOUTH</Tag>
+		<English>Scout (Native)</English>
+		<German>
+			<Text>Indigener Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_NORDIC</Tag>
+		<English>Scout (Nordic)</English>
+		<German>
+			<Text>Nordischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_ROME</Tag>
+		<English>Scout (Greco-Roman)</English>
+		<German>
+			<Text>Griechisch-r&#246;mischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_SIBERIA</Tag>
+		<English>Scout (Uralo-Siberian)</English>
+		<German>
+			<Text>Proto-Siberischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_SLAVIC</Tag>
+		<English>Scout (Slavic)</English>
+		<German>
+			<Text>Slawischer Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_TUPI</Tag>
+		<English>Scout (Tupi)</English>
+		<German>
+			<Text>Tupi-Sp&#228;her</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_SCOUT -->
+  <!-- BEGIN: UNITCLASS_SKIRMISHER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER</Tag>
+		<English>Skirmisher</English>
+		<German>
+			<Text>J&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MALI_SKIRMISHER</Tag>
+		<English>Skirmisher (Horon)</English>
+		<German>
+			<Text>Mandinka Speerwerfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_ABORIGINE</Tag>
+		<English>Skirmisher (Spearthrower)</English>
+		<German>
+			<Text>Ozeanischer Speerwerfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_FILIPINO</Tag>
+		<English>Skirmisher (Ilongot)</English>
+		<German>
+			<Text>Ilongot-Speerwerfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_AFRICAN</Tag>
+		<English>Skirmisher (Cushitic)</English>
+		<German>
+			<Text>Afrikanischer J&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_APACHE</Tag>
+		<English>Skirmisher (Ghost Tracker)</English>
+		<German>
+			<Text>Geister-F&#228;hrtenfinder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_ARABIAN</Tag>
+		<English>Skirmisher (Semitic)</English>
+		<German>
+			<Text>Semitischer Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_ARAWAK</Tag>
+		<English>Skirmisher (Taino Hunter)</English>
+		<German>
+			<Text>Taino-J&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_ARMENIA</Tag>
+		<English>Skirmisher (Nizakahar)</English>
+		<German>
+			<Text>Kaukasischer Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_ASIAN</Tag>
+		<English>Skirmisher (Asian)</English>
+		<German>
+			<Text>Asiatischer Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_AUSTRONESIA</Tag>
+		<English>Skirmisher (Orang Laut)</English>
+		<German>
+			<Text>Orang Laut-Pl&#228;nkler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_AZTEC</Tag>
+		<English>Skirmisher (Atl-Atl)</English>
+		<German>
+			<Text>Atlatl-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_BANTU</Tag>
+		<English>Skirmisher (Luba Hunter)</English>
+		<German>
+			<Text>Luba-J&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_BARBARIAN</Tag>
+		<English>Skirmisher (Hunter)</English>
+		<German>
+			<Text>J&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_BERBER</Tag>
+		<English>Skirmisher (Numidian)</English>
+		<German>
+			<Text>Numidischer Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_CELTIC</Tag>
+		<English>Skirmisher (Balroae)</English>
+		<German>
+			<Text>Balroae</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_CHEROKEE</Tag>
+		<English>Skirmisher (Forest Spirit Tracker)</English>
+		<German>
+			<Text>Wald-F&#228;hrtenfinder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_DUTCH</Tag>
+		<English>Skirmisher (Belgae Balroae)</English>
+		<German>
+			<Text>Belgae Balroae</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_EGYPTIAN</Tag>
+		<English>Skirmisher (Javelin Thrower)</English>
+		<German>
+			<Text>&#196;gyptischer Speerwerfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_ENGLAND</Tag>
+		<English>Skirmisher (Gebur)</English>
+		<German>
+			<Text>Gebur-Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_GREECE</Tag>
+		<English>Skirmisher (Peltast)</English>
+		<German>
+			<Text>Peltast</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_HAIDA_INUIT</Tag>
+		<English>Skirmisher (North Tracker)</English>
+		<German>
+			<Text>Nordischer F&#228;hrtenfinder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_INCA</Tag>
+		<English>Skirmisher (Quechua Slinger)</English>
+		<German>
+			<Text>Quechua-Schleuderer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_INDIAN</Tag>
+		<English>Skirmisher (Harappan)</English>
+		<German>
+			<Text>Harappa-Pl&#228;nkler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_ISRAEL</Tag>
+		<English>Skirmisher (Judean)</English>
+		<German>
+			<Text>Jud&#228;ischer Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_MAYA</Tag>
+		<English>Skirmisher (Maya Hunter)</English>
+		<German>
+			<Text>Mayapanischer J&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_NATIVE_NORTH</Tag>
+		<English>Skirmisher (Spirit Tracker)</English>
+		<German>
+			<Text>Seelen-F&#228;hrtenfinder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_NORDIC</Tag>
+		<English>Skirmisher (Nordic)</English>
+		<German>
+			<Text>Nordischer Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_PATAGONIA</Tag>
+		<English>Skirmisher (Tehuelche)</English>
+		<German>
+			<Text>Patagonischer J&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_PERSIAN</Tag>
+		<English>Skirmisher (Gund-i Palta)</English>
+		<German>
+			<Text>Gund-i Palta</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_POLAND</Tag>
+		<English>Skirmisher (Harcownik)</English>
+		<German>
+			<Text>Polnischer Pl&#228;nkler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_POLYNESIA</Tag>
+		<English>Skirmisher (Melanesian)</English>
+		<German>
+			<Text>Melanesischer J&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_PONTUS</Tag>
+		<English>Skirmisher (Colchian Hillmen)</English>
+		<German>
+			<Text>Kolchis-H&#252;gelpl&#228;nkler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_PORTUGAL</Tag>
+		<English>Skirmisher (Lusitani)</English>
+		<German>
+			<Text>Lusitanischer Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_ROME</Tag>
+		<English>Skirmisher (Velite)</English>
+		<German>
+			<Text>Veles</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_RUSSIA</Tag>
+		<English>Skirmisher (Zastrelschik)</English>
+		<German>
+			<Text>Russischer Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_SIBERIA</Tag>
+		<English>Skirmisher (Tagar)</English>
+		<German>
+			<Text>Tagar-Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_SPAIN</Tag>
+		<English>Skirmisher (Balearic Slingers)</English>
+		<German>
+			<Text>Balearischer Schleuderer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_STEPPE</Tag>
+		<English>Skirmisher (Steppe)</English>
+		<German>
+			<Text>Steppenpl&#228;nkler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_TRANSOXIANA</Tag>
+		<English>Skirmisher (Bactrian)</English>
+		<German>
+			<Text>Baktrischer Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_TUPI</Tag>
+		<English>Skirmisher (Cannibal Hunter)</English>
+		<German>
+			<Text>Kannibale</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_WESTERN</Tag>
+		<English>Skirmisher (Western)</English>
+		<German>
+			<Text>Western-Scharm&#252;tzler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_ZULU</Tag>
+		<English>Skirmisher (Veldt Huntsman)</English>
+		<German>
+			<Text>Stammesj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_SKIRMISHER -->
+  <!-- BEGIN: UNITCLASS_EXPLORER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_AFRICAN</Tag>
+		<English>Explorer (African)</English>
+		<German>
+			<Text>Afrikanischer Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_ARMENIA</Tag>
+		<English>Explorer (Caucasus)</English>
+		<German>
+			<Text>Hochland-Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_ASIAN</Tag>
+		<English>Explorer (Asian)</English>
+		<German>
+			<Text>Asiatischer Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_AUSTRONESIA</Tag>
+		<English>Explorer (Southeast Asia)</English>
+		<German>
+			<Text>Mataram-Erkunder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_HUNGARY</Tag>
+		<English>Explorer (Magyar)</English>
+		<German>
+			<Text>Ungarischer Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_INCA</Tag>
+		<English>Explorer (Hanau Epe)</English>
+		<German>
+			<Text>Hanau Epe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_INDIA</Tag>
+		<English>Explorer (Hindustani)</English>
+		<German>
+			<Text>Hindustan Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_MAYA</Tag>
+		<English>Explorer (Aguatecan)</English>
+		<German>
+			<Text>Aguateca-Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_MESO_AMERICA</Tag>
+		<English>Explorer (Mesoamerican)</English>
+		<German>
+			<Text>Mesoamerikanischer Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_MIDDLE_EAST</Tag>
+		<English>Explorer (Mideastern)</English>
+		<German>
+			<Text>Mittel&#246;stlicher Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_NORTH</Tag>
+		<English>Explorer (Western)</English>
+		<German>
+			<Text>Western-Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_RUSSIAN</Tag>
+		<English>Explorer (Siberian Cossack)</English>
+		<German>
+			<Text>Siberischer Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_SPAIN</Tag>
+		<English>Explorer (Rodelero)</English>
+		<German>
+			<Text>Spanischer Entdecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_EXPLORER -->
+  <!-- BEGIN: UNITCLASS_LIGHT_INFANTRY -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY</Tag>
+		<English>Light Infantry</English>
+		<German>
+			<Text>Leichter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_GERMAN</Tag>
+		<English>Light Infantry (Jaeger)</English>
+		<German>
+			<Text>Jäger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_FILIPINO</Tag>
+		<English>Light Infantry (Tagalog)</English>
+		<German>
+			<Text>Tagalog-Jäger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_AFRO_MIDDLE_EAST</Tag>
+		<English>Light Infantry (Jezailchi)</English>
+		<German>
+			<Text>Jezail-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_AMERICA</Tag>
+		<English>Light Infantry (Rifle Regiment)</English>
+		<German>
+			<Text>Sch&#252;tzenregiment</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_ARMENIA</Tag>
+		<English>Light Infantry (Fedayee)</English>
+		<German>
+			<Text>Fedayi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_ASIA</Tag>
+		<English>Light Infantry (Asian)</English>
+		<German>
+			<Text>Asiatischer leichter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_AUSTRONESIA</Tag>
+		<English>Light Infantry (Javanese)</English>
+		<German>
+			<Text>Javanischer leichter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_ENGLAND</Tag>
+		<English>Light Infantry (Greenjacket)</English>
+		<German>
+			<Text>Greenjacket</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_ETHIOPIA</Tag>
+		<English>Light Infantry (Neftenya)</English>
+		<German>
+			<Text>Neftenya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_FRANCE</Tag>
+		<English>Light Infantry (Voltigeur)</English>
+		<German>
+			<Text>Voltigeur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_GERMANY</Tag>
+		<English>Light Infantry (L&#252;tzowsches Freikorps)</English>
+		<German>
+			<Text>L&#252;tzowscher Freikorp</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_GREECE</Tag>
+		<English>Light Infantry (Evzones)</English>
+		<German>
+			<Text>Evzone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_HUNGARY</Tag>
+		<English>Light Infantry (Pandur)</English>
+		<German>
+			<Text>Pandur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_INDIA</Tag>
+		<English>Light Infantry (Maratha)</English>
+		<German>
+			<Text>Maratha-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_MAYA</Tag>
+		<English>Light Infantry (Cruzob)</English>
+		<German>
+			<Text>Cruzob-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_JAPAN</Tag>
+		<English>Light Infantry (Kiheitai)</English>
+		<German>
+			<Text>Kiheitai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_MALI</Tag>
+		<English>Light Infantry (Wassoulou Sofa)</English>
+		<German>
+			<Text>Wassoulou-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_PERSIA</Tag>
+		<English>Light Infantry (Jazayerchi)</English>
+		<German>
+			<Text>Jazayerchi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_PORTUGAL</Tag>
+		<English>Light Infantry (Ca&#231;ador)</English>
+		<German>
+			<Text>Ca&#231;ador-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_SOUTH_AMERICA</Tag>
+		<English>Light Infantry (Emboscador)</English>
+		<German>
+			<Text>S&#252;damerikanischer leichter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_SPAIN</Tag>
+		<English>Light Infantry (Cazador)</English>
+		<German>
+			<Text>Cazador</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_TRANSOXIANA</Tag>
+		<English>Light Infantry (Pashtun Jezzailchi)</English>
+		<German>
+			<Text>Jezail-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_TURKEY</Tag>
+		<English>Light Infantry (Bosnian Panduk)</English>
+		<German>
+			<Text>Bosnische Panduk</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_UKRAINE_VOLHYNIA</Tag>
+		<English>Light Infantry (Plastun)</English>
+		<German>
+			<Text>Plastun-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_ZULU</Tag>
+		<English>Light Infantry (Xhosa Ambusher)</English>
+		<German>
+			<Text>Xhosa-Hinterhalt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_LIGHT_INFANTRY -->
+  <!-- BEGIN: UNITCLASS_LIGHT_INFANTRY_WW1 -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1</Tag>
+		<English>Mountain Infantry</English>
+		<German>
+			<Text>Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_AFRICA</Tag>
+		<English>Mountain Infantry (African)</English>
+		<German>
+			<Text>Afrikanischer Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_ARMENIA</Tag>
+		<English>Mountain Infantry (Caucasus)</English>
+		<German>
+			<Text>Kaukasischer Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_ASIA</Tag>
+		<English>Mountain Infantry (Asian)</English>
+		<German>
+			<Text>Asiatischer Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_FRANCE</Tag>
+		<English>Mountain Infantry (Chasseurs Alpins - WW1)</English>
+		<German>
+			<Text>Franz&#246;sischer Alpenj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_GERMANY</Tag>
+		<English>Mountain Infantry (Alpenkorps - WW1)</English>
+		<German>
+			<Text>Deutscher Alpenj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_GREECE</Tag>
+		<English>Mountain Infantry (Evzone - WW1)</English>
+		<German>
+			<Text>Evzone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_INDIA</Tag>
+		<English>Mountain Infantry (Gurkhas - WW1)</English>
+		<German>
+			<Text>Gurkha-Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_MIDDLE_EAST</Tag>
+		<English>Mountain Infantry (Middle East)</English>
+		<German>
+			<Text>Mittel&#246;stlicher Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_POLAND</Tag>
+		<English>Mountain Infantry (Podhale Rifles - WW1)</English>
+		<German>
+			<Text>Podhale-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_ROME</Tag>
+		<English>Mountain Infantry (Alpini - WW1)</English>
+		<German>
+			<Text>Alpini</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_RUSSIA</Tag>
+		<English>Mountain Infantry (Jaeger Guards)</English>
+		<German>
+			<Text>Russischer Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_TRANSOXIANA</Tag>
+		<English>Mountain Infantry (Pashtun Lashkar)</English>
+		<German>
+			<Text>Paschtunischer Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_LIGHT_INFANTRY_WW1 -->
+  <!-- BEGIN: UNITCLASS_LIGHT_INFANTRY_WW2 -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2</Tag>
+		<English>Mountain Rangers</English>
+		<German>
+			<Text>Elite-Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_AFRICA</Tag>
+		<English>Mountain Rangers (African)</English>
+		<German>
+			<Text>Afrikanischer Elite-Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_AMERICA</Tag>
+		<English>Mountain Rangers (Mountain Light Infantry)</English>
+		<German>
+			<Text>Amerikanischer Elite-Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_ARMENIA</Tag>
+		<English>Mountain Rangers (Caucasus)</English>
+		<German>
+			<Text>Kaukasischer Elite-Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_FRANCE</Tag>
+		<English>Mountain Rangers (Chasseurs Alpins - WW2)</English>
+		<German>
+			<Text>Franz&#246;sischer Elite-Alpenj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_GERMAN</Tag>
+		<English>Mountain Rangers (Gebirgsj&#228;ger)</English>
+		<German>
+			<Text>Deutscher Elite-Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_GREECE</Tag>
+		<English>Mountain Rangers (Evzone - WW2)</English>
+		<German>
+			<Text>Elite-Evzone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_INDIA</Tag>
+		<English>Mountain Rangers (Gurkhas - WW2)</English>
+		<German>
+			<Text>Elite-Gurkhas-Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_MIDDLE_EAST</Tag>
+		<English>Mountain Rangers (Mideast)</English>
+		<German>
+			<Text>Mittel&#246;stlicher Elite-Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_POLAND</Tag>
+		<English>Mountain Rangers (Podhale Rifles - WW2)</English>
+		<German>
+			<Text>Elite-Podhale-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_ROME</Tag>
+		<English>Mountain Rangers (Alpini - WW2)</English>
+		<German>
+			<Text>Elite-Alpini</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_RUSSIA</Tag>
+		<English>Mountain Rangers (Gornye Strelki)</English>
+		<German>
+			<Text>Russischer Elite-Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_TRANSOXIANA</Tag>
+		<English>Mountain Rangers (Pashtun Commando)</English>
+		<German>
+			<Text>Paschtunischer Elite-Gebirgsj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_LIGHT_INFANTRY_WW2 -->
+  <!-- BEGIN: UNITCLASS_COMMANDO -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO</Tag>
+		<English>Special Forces</English>
+		<German>
+			<Text>Spezialeinheit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_BRAZIL</Tag>
+		<English>Special Forces (C Op Esp)</English>
+		<German>
+			<Text>Strategische Mobile Einsatzkr&#228;fte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_ENGLAND</Tag>
+		<English>Special Forces (Special Air Service)</English>
+		<German>
+			<Text>SAS-Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_FRANCE</Tag>
+		<English>Special Forces (RPIMa)</English>
+		<German>
+			<Text>Heeres-Sondereinsatzkr&#228;fte-Brigadist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_GERMAN</Tag>
+		<English>Special Forces (KSK)</English>
+		<German>
+			<Text>KSK-Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_INDIA</Tag>
+		<English>Special Forces (Garud Commando Force)</English>
+		<German>
+			<Text>Indischer Para-Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_ISRAEL</Tag>
+		<English>Special Forces (Sayeret)</English>
+		<German>
+			<Text>Tsahal-Spezialeinheit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_MIDDLE_EAST</Tag>
+		<English>Special Forces (Mideast)</English>
+		<German>
+			<Text>Mittel&#246;stliche Spezialeinheit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_ROME</Tag>
+		<English>Special Forces (Col Moschin)</English>
+		<German>
+			<Text>Soldat des 9. Fallschirmj&#228;ger-Sturmregiment Col Moschin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_RUSSIA</Tag>
+		<English>Special Forces (Spetsnaz VDV)</English>
+		<German>
+			<Text>WDW-Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_SOUTH_AMERICA</Tag>
+		<English>Special Forces (Latin American)</English>
+		<German>
+			<Text>Jagdkampf-Brigadist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_UKRAINE</Tag>
+		<English>Special Forces (Airmobile Force)</English>
+		<German>
+			<Text>DShV-Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_COMMANDO -->
+</Civ4GameText>

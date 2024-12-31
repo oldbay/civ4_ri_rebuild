@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Strategy -->
+<!-- UNITINFO - STRATEGY -->
+<!-- Technologies should be colored COLOR_TECH_TEXT (example: [COLOR_TECH_TEXT]Bronze Working[COLOR_REVERT]) -->
+<!-- Unit should be colored COLOR_UNIT_TEXT (example: [COLOR_UNIT_TEXT]Archers[COLOR_REVERT]) -->
+<!-- Buildings should be colored COLOR_BUILDING_TEXT (example: [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]) -->
+<!-- Projects should be colored COLOR_PROJECT_TEXT (example: [COLOR_PROJECT_TEXT]SS Engine[COLOR_REVERT]) -->
+<!-- Anything else official (that should be capitalized) should be colored COLOR_HIGHLIGHT_TEXT (example: [COLOR_HIGHLIGHT_TEXT]Trade Mission[COLOR_HIGHLIGHT_TEXT] or [COLOR_HIGHLIGHT_TEXT]Islam[COLOR_HIGHLIGHT_TEXT]) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZOROASTRIAN_MISSIONARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Zoroastrianism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German>Setzen Sie diesen Missionar ein, um in verb&#252;ndeten oder feindlichen St&#228;dten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) den [COLOR_HIGHLIGHT_TEXT]Zoroastrismus[COLOR_REVERT] zu verbreiten. Haben Sie den [COLOR_BUILDING_TEXT]Adur Burzen-Mihr[COLOR_REVERT], erh&#246;hen sich dadurch Ihre Einnahmen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AFRICAN_WARRIOR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this melee combat unit for quick, early defense for your cities or as escorts for your defenseless [COLOR_UNIT_TEXT]Settlers[COLOR_REVERT]. This unit is cheap to produce but weak so you will want to make better units as soon as you are able.</English>
+		<German>Mit dieser Nahkampfeinheit k&#246;nnen Sie in der Fr&#252;hphase des Spiels St&#228;dte oder schutzlose [COLOR_UNIT_TEXT]Siedler[COLOR_REVERT] verteidigen. Die Einheit ist preiswert, aber &#228;u&#223;erst schwach. Bilden Sie daher schnellstm&#246;glich bessere Einheiten aus.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_RUSSIA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]KA50[COLOR_REVERT] helicopter units are the most powerful ones of their type. Very fast and lethal against armoured units and submarines. The limitation of only one pilot results in much less withdrawal capability.</English>
+		<German>KA50 Hubschrauber sind die st&#228;rksten dieses Typs. Sehr schnell und t&#246;dlich gegen gepanzerte Einheiten und Unterseeboote.  Tie Begrenzung auf nur einen Piloten f&#252;hrt zu einer niedrigeren R&#252;ckzugsm&#246;glichkeit.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUNSHIP_EAST_BLOC_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This helicopter unit is very fast and quite lethal against armoured units and submarines. They are slower than default Gunships but have better combat stats and can carry up to two foot soldiers.</English>
+		<German>Diese Hubschrauber sind sehr schnell und t&#246;dlich gegen gepanzerte Einheiten und Unterseebooten. Sie sind langsamer als Kampfhubschrauber, haben aber bessere Kampfwerte und k&#246;nnen bis zu zwei Fu&#223;einheiten aufnehmen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HELI_TRANSPORT_TANK_EAST_BLOC_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Mi-26[COLOR_REVERT] was the first helicopter to operate with an eight-blade rotor. It is the heaviest and most powerful helicopter in production. It can carry up to 8 foot soldiers by higher speeds than the Chinook.</English>
+		<German>Der Mi-26 war der erste Hubschrauber mit einem 8-Blatt-Rotor. Er ist der st&#228;rkste und schwerste Hubschrauber, der produziert wird. Er kann bis zu acht Einheiten transportieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HELI_TRANSPORT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Chinook[COLOR_REVERT] transport helicopters can transport up to 6 foot soldiers or 2 tanks/artillery. Depending on the type they are best camouflaged in Jungle/Forest or in the desert.</English>
+		<German>Chinook-Transport-Hubschrauber k&#246;nnen bis zu sechs Fu&#223;einheiten oder 2 motorisierte Einheiten transportieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_FRANCE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Mirage 2000[COLOR_REVERT] have greater range than regular [COLOR_UNIT_TEXT]Fighters[COLOR_REVERT], and they are superior at intercepting but have a lesser combat rate against enemy aircraft. However more range, higher bombardment and anti-ship missiles makes this unit an excellent one at a lower cost. This plane cannot be carried on an aircraft carrier. </English>
+		<German>[COLOR_UNIT_TEXT]Mirage 2000[COLOR_REVERT] haben eine gr&#246;&#223;ere Reichweite als normale [COLOR_UNIT_TEXT]J&#228;ger[COLOR_REVERT], und sind beim Abfangen &#252;berlegen, haben aber einen geringeren Kampfwert gegen feindliche Flugzeuge. Diese Einheit kann nicht auf Flugzeugtr&#228;ger geladen werden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DIASPORA_MERCHANT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build [COLOR_UNIT_TEXT]Diaspora Merchants[COLOR_REVERT] to earn extra profit.</English>
+		<German>Bilden Sie [COLOR_UNIT_TEXT]Spione[COLOR_REVERT] aus, um feindliche Gebiete zu erkunden. Sie k&#239;&#191;&#189;nen weiterhin Pl&#239;&#191;&#189;e stehlen und damit alle St&#239;&#191;&#189;te aufdecken.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DASTUR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Sacrifice the [COLOR_UNIT_TEXT]Dastur[COLOR_REVERT] to increase the culture (+150 points) of the city.</English>
+		<German>Opfere den [COLOR_UNIT_TEXT]Dastur[COLOR_REVERT], um die Kultur einer Stadt (+80 Punkte) zu erh&#239;&#191;&#189;en.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHI_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Sacrifice the [COLOR_UNIT_TEXT]Chi Savant[COLOR_REVERT] to build the Feng Shui Academy (+1 health and happiness).</English>
+		<German>Opfere den [COLOR_UNIT_TEXT]Chi Gelehrten[COLOR_REVERT], um die Feng Shui Akademie zu errichten (+1 Gesundheit und Zufriedenheit).</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GURU_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Guru[COLOR_REVERT] can hurry the production in a city by half of his production cost. Use him on small cities for faster production.</English>
+		<German>Der [COLOR_UNIT_TEXT]Guru[COLOR_REVERT] beschleunigt die Produktionn mit der H&#239;&#191;&#189;fte seiner Produktionskosten. Benutze ihn in kleinen St&#239;&#191;&#189;ten um dort die Produktion zu beschleunigen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUJAHID_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This is a slower version of an Improved Horseman but with collateral damage and a pair of free promotions. It can be only built under Islam. Recommended promotions: raider, flanking, combat.</English>
+		<German>Not translated</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ANSAR_WARRIOR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Ansar Warrior[COLOR_REVERT] is the Arabian replacement of the [COLOR_UNIT_TEXT]Mujahid[COLOR_REVERT]. Its cost is a bit lower.</English>
+		<German>Not translated</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CRUSADER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Crusaders[COLOR_REVERT] require the Christianity state relgion and Militancy civic. They always start with Holy War doctrine.</English>
+		<German>Die [COLOR_UNIT_TEXT]Kreuzfahrer[COLOR_REVERT] erfordern die Staatsreligion "Christentum" und die Staatsreligion "Militanz". Sie beginnen immer mit der Doktrin des Heiligen Krieges.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Early Tank[COLOR_REVERT] is the first armoured unit in the game. It is strong against gunpowder units but slow and not a real match against the cavalry.</English>
+		<German>Der [COLOR_UNIT_TEXT]Early Tank[COLOR_REVERT] ist die erste gepanzerte Einheit im Spiel. Besonders effektiv gegen Schie&#223;pulver-Einheiten aber noch anf&#228;llig gegen&#252;ber der Kavallerie.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_AMERICA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Mark VIII Liberty[COLOR_REVERT] is the first armoured unit in the game. It is strong against gunpowder units but slow and not a real match against the cavalry.</English>
+		<German>Der [COLOR_UNIT_TEXT]T1 Cunningham[COLOR_REVERT] ist die erste gepanzerte Einheit im Spiel. Besonders effektiv gegen Schie&#223;pulver-Einheiten aber noch anf&#228;llig gegen&#252;ber der Kavallerie.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_ROME_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Fiat 2000[COLOR_REVERT] is the first armoured unit in the game. It is strong against gunpowder units but slow and not a real match against the cavalry.</English>
+		<German>Der [COLOR_UNIT_TEXT]Fiat 2000[COLOR_REVERT] ist die erste gepanzerte Einheit im Spiel. Besonders effektiv gegen Schie&#223;pulver-Einheiten aber noch anf&#228;llig gegen&#252;ber der Kavallerie.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_MARKV_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]MarkV[COLOR_REVERT] is the first armoured unit in the game. It is strong against gunpowder units but slow and not a real match against the cavalry.</English>
+		<German>Der [COLOR_UNIT_TEXT]MarkV Panzer[COLOR_REVERT] ist die erste gepanzerte Einheit im Spiel. Besonders effektiv gegen Schie&#223;pulver-Einheiten aber noch anf&#228;llig gegen&#252;ber der Kavallerie.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Biplane[COLOR_REVERT] is the first aircraft in the game. Not very strong but useful for scouting missions (and yes, some flavour units are technically monoplanes or triplanes).</English>
+		<German>Der [COLOR_UNIT_TEXT]Doppeldecker[COLOR_REVERT] ist das erste Flugzeug im Spiel. Nicht besonders stark aber gut f&#252;r Aufkl&#228;rungsmissionen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Warband[COLOR_REVERT] is a cheap unit that can be built with food.</English>
+		<German>The [COLOR_UNIT_TEXT]Shortswordsman[COLOR_REVERT] is a cheap unit that can be built with food.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build the [COLOR_UNIT_TEXT]Anti-Tank Infantry[COLOR_REVERT] to counter armoured units but give it a guard against infantry.</English>
+		<German>Bauen Sie den [COLOR_UNIT_TEXT]Panzerfaustsch&#252;tzen[COLOR_REVERT] um ihn gegen gepanzerte Einheiten einzusetzen. Gegen Infanterie ben&#246;tigt er jedoch einen Geleitschutz.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AEGIS_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build the [COLOR_UNIT_TEXT]AEGIS Cruiser[COLOR_REVERT] to explore the oceans and to protect your cities against air bombardment.</English>
+		<German>Bauen Sie den [COLOR_UNIT_TEXT]AEGIS Kreuzer[COLOR_REVERT] um die Weltmeere zu erforschen und Ihre St&#228;dte gegen Luftbombardierungen zu sch&#252;tzen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Ship of the Line[COLOR_REVERT] is a stronger version of the frigate.</English>
+		<German>Das [COLOR_UNIT_TEXT]Linienschiff[COLOR_REVERT] ist eine st&#228;rkere Variante der Fregatte.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PRIVATEER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Privateer[COLOR_REVERT] is a mid-game naval unit that bears no marking of nationality. This allows you to harass your foes without the need to declare war. Their number is limited to 12 per game.</English>
+		<German>Der [COLOR_UNIT_TEXT]Freibeuter[COLOR_REVERT] kann nicht zerst&#246;rt werden, sie ergeben sich wenn sie den Kampf verlieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TREBUCHET_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this siege unit to help your troops attack cities. Use direct attacks carefully. Recommended promotions: siege bombardment, combat.</English>
+		<German>Benutze das [COLOR_UNIT_TEXT]Trebuchet[COLOR_REVERT] um St&#228;dte zu bombardieren oder die Stadtverteidiger zu schw&#228;chen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Strike Fighter[COLOR_REVERT] has no damage limit against ground units but is weak against other airplanes.</English>
+		<German>Der [COLOR_UNIT_TEXT]Jagdbomber[COLOR_REVERT] besitzt kein Schadenslimit gegen Bodentruppen ist aber daf&#252;r schwach gegen andere Flugzeuge.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this charge mounted unit to strengthen your army in the field and to give your troops powerful mobility aid. Recommended promotions: flanking, combat.</English>
+		<German>Der [COLOR_UNIT_TEXT]Kataphrakt[COLOR_REVERT] ist eine antike Kavallerie. Schneller als andere Einheiten in der Epoche aber daf&#252;r teuer.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Special Forces[COLOR_REVERT] combine the best aspects of recon and gunpowder units, and are able to paradrop.</English>
+		<German>Mit dem [COLOR_UNIT_TEXT]Kommando[COLOR_REVERT] erscheint eine neue Generation der Infanterie auf dem Schlachtfeld. Schneller, st&#228;rker und eine Herausforderung f&#252;r jeden Gegner.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Early Bomber[COLOR_REVERT] is the first unit capable of aerial bombardment. It has a short range and is vulnerable to interception.</English>
+		<German>Der [COLOR_UNIT_TEXT]Zeppelin[COLOR_REVERT] ist ein Luftschiff das St&#228;dte bombardieren kann.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_WORLD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Zeppelin[COLOR_REVERT] is an airship that can bombard cities. It is extremely vulnerable to interception, but has far greater range than all contemporary airplanes.</English>
+		<German>Der [COLOR_UNIT_TEXT]Zeppelin[COLOR_REVERT] ist ein Luftschiff das St&#228;dte bombardieren kann.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this remove a random non-state religion from a city. This prevents line of sight from opponents and reduces income from the religion's holy city building, if it exists. This will upset civs that run the removed religion.</English>
+		<German>Setzen Sie diesen Missionar ein, um in verb&#252;ndeten oder feindlichen St&#228;dten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) das [COLOR_HIGHLIGHT_TEXT]Christentum[COLOR_REVERT] zu verbreiten. Haben Sie die [COLOR_BUILDING_TEXT]Geburtskirche[COLOR_REVERT], erh&#246;hen sich dadurch Ihre Einnahmen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ASSASSIN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Send your assassins to strike at the heart of your enemies; hit them where they live, where they work, and where they sleep.</English>
+		<German>Senden Sie Ihre Attent&#228;ter aus um das Herz Ihrer Feinde zu treffen; Treffen Sie sie, wo sie leben, wo sie arbeiten und wo sie schlafen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFORMANT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build an [COLOR_UNIT_TEXT]Informant[COLOR_REVERT] to explore enemy territory and investigate cities.</English>
+		<German>Baut einen [COLOR_UNIT_TEXT]Informanten[COLOR_REVERT]  um feindliches Gebiet zu erkunden, und St&#228;dte zu erforschen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_AMERICA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Modern, tandem-seat, armoured and damage-resistant combat helicopter; is required to continue flying for 30 minutes after being hit by 12.7 mm bullets coming from anywhere in the lower hemisphere plus 20o; also survives 23 mm hits in many parts.</English>
+		<German>Moderner, zweisitziger, gepanzerter und Schadensresistenter Kampfhubschrauber.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]An [COLOR_UNIT_TEXT]armoured Car[COLOR_REVERT] is an early and mobile armoured unit, coming to replace light cavalry on the battlefield.</English>
+		<German>Das gepanzerte Fahrzeug ist eine Transporteinheit und bringt Einheiten schneller zu oder hinter feindlichen Linien.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Light tanks trade some firepower for a better mobility.</English>
+		<German>Achtung! Panzer!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IS2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]An awesome tank for your army!</English>
+		<German>Ein gewaltiger Panzer f&#252;r Ihre Streitmacht!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BUDDHIST_SIDDHA_JAPAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Japanese variety of Buddhist unique unit has a formidable combat power in addition to healing.</English>
+		<German>Heiler, M&#246;nch und Krieger in einer Person!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_AZTEC_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this unit to counter melee units outside cities including slave revolts and to give your troops powerful recon aid. Recommended promotions: forward observers, camouflage, guerilla, woodsman.</English>
+		<German>Suited to expel invaders or a guerilla warfare...</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The first ocean-going merchant ship.</English>
+		<German>The first ocean going merchant ship...</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]War Galley is the most powerful warship you are able to build before gunpowder era.</English>
+		<German>Be the King of seas!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_ENGLAND_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]A strong and well protected merchant vessel.</English>
+		<German>A strong and well protected merchant vessel</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_PRIVATEER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Stronger than a Frigate, but weaker than a Ship of the Line. Can only be built when running Protectionism.</English>
+		<German>Stronger than a Frigate, but weaker than a Ship of the Line. The perfect privateer !</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CRUISER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]A capital ship that is faster and cheaper, but not as powerful as a Battleship.</English>
+		<German>The work horse of the seas.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CORVETTE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The cheapest and fastest military vessel of its generation.</English>
+		<German>Escort your convoys and hunt the subs...</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUNBOAT_AMERICA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]A fast and cheap vessels that is not recommended to engage capital ships in combat.</English>
+		<German>By all means, evade a naval blockade !</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ECM_DESTROYER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The ultimate in destroyer line, this ship has formidable anti-submarine and anti-air capabilities.</English>
+		<German>The guardian of your fleets.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_CORVETTE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The ultimate small ship. The most nimble vessel out there, but at a high price.</English>
+		<German>The top of the small ships. Very efficient but costly !</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Main Battle Tanks no longer need to choose between mobility and firepower, and thus they represent a definitive step up over both light and medium tanks.</English>
+		<German>Heaver armoured Tanks with HEAT ammunition to destroy the enemy's medium tanks.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this fast charge mounted unit to counter enemy raiders and scouts and to give your troops powerful mobility aid. Recommended promotions: flanking, blitz, speed.</English>
+		<German>Light Cavalry: useful as skirmisher, scout and raider.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSEMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this fast charge mounted unit to counter enemy raiders and scouts and to give your troops powerful mobility aid. Recommended promotions: flanking, blitz, speed.</English>
+		<German>Light Cavalry: useful as skirmisher, scout and raider.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]A powerful coastal warship unmatched until frigates arrive.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BIOLOGICAL_WARFARE_MISSILE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Biological Warfare Missiles[COLOR_REVERT] can attack enemy units in the field, causing collateral damage.  They receive a bonus against any unit that has exposed personnel.</English>
+		<German>[COLOR_UNIT_TEXT]Biologische Sprengk&#246;pfe[COLOR_REVERT] erm&#246;glichen Angriffe auf feindliche Einheiten auf offenem Gel&#228;nde.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Hussars[COLOR_REVERT] and [COLOR_UNIT_TEXT]Lancers[COLOR_REVERT] are the best light horse units. They receive a strong attack bonus against heavy cavalry.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_APACHE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Redsleeves[COLOR_REVERT] can be devastating opponents. They receive a strong bonus against both heavy and light cavalries.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Levy[COLOR_REVERT] is a cheap unit. It receives no special bonuses but can be built with food.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_POLYNESIA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This melee unit (the Polynesian replacement for the [COLOR_UNIT_TEXT]Levy[COLOR_REVERT]) is an excellent amphibious assault unit, with a small bonus against melee units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_POLYNESIA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This naval unit (the Polynesian replacement for the [COLOR_UNIT_TEXT]Galley[COLOR_REVERT]) is an excellent primitive ship. Fast, the ship can carry up to two units and receive "Sentry I" free promo.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NETHERLANDS_OOSTINDIEVAARDER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This impressive naval unit (the Dutch replacement for the [COLOR_UNIT_TEXT]Merchantman[COLOR_REVERT]) is the most powerful transport ship available until the introduction of the Paddlewheler.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORAGER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Forager[COLOR_REVERT] is the most primitive worker. He can only build the Hunter and Gatherer Camps.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Sloop[COLOR_REVERT] is a fast ship well-suited for patrol roles, but weaker than bigger vessels.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP_MIDDLE_EAST_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Xebec[COLOR_REVERT], the Mediterranean replacement for the [COLOR_UNIT_TEXT]Sloop[COLOR_REVERT] receives a free First Strike chance.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BARBARIAN_FORT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Tribal Fort[COLOR_REVERT] is an immobile barbarian and minor unit pre-placed on the world map to defend passes, gaps, cities and other strategic points. It can match nearly all pre-gunpowder units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HELI_TRANSPORT_EAST_BLOC_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Mil Mi-8[COLOR_REVERT] is a cheap multirole helicopter. A bit less powerful than its counterparts, its main advantage is to be able to act as a support gunship too.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_BIG_BERTHA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Big Bertha[COLOR_REVERT] is a unique costly heavy howitzer. Despite a short range and a lack of manoeuvrability, Big Bertha is the perfect siege weapon: even the strongest fortifications will be doomed by the impressive shells.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HELEPOLIS_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Helepolis[COLOR_REVERT] is a unique Siege Tower. It is extremely powerful when attacking cities directly but bring catapults to weaken cities' defences. Recommended promotions: city raider, guerilla, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_BOMBARD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this siege unit to help your troops attack cities and to weaken enemy units with improved ranged bombardment. Recommended promotions: siege bombardment, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_TANK_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Super Heavy Tank[COLOR_REVERT] is a unique unit. No contemporary tank can compete with it in a duel despite some real weaknesses, such as its very low speed and an incredible weight than forbids crossing most brigdes.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_TANK_ENGLAND_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Tortoise (A39)[COLOR_REVERT] is a unique English super heavy tank. No contemporary tank can compete with it in a duel despite some real weaknesses, such as its very low speed and an incredible weight than forbids crossing most brigdes.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_TANK_FRANCE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Char 2C[COLOR_REVERT] is a unique French super heavy tank. No contemporary tank can compete with it in a duel despite some real weaknesses, such as its very low speed and an incredible weight than forbids crossing most brigdes.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SANTA_ANNA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]armoured carrack "Santa Anna"[COLOR_REVERT] is a unique carrack. An impressive firepower and terrific armor make her the perfect shallow water carrack as well as a privateer hunter and a ground support ship.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SANTA_ANNA_JAPAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]"Nihon Maru"[COLOR_REVERT] is a unique O-atakebune. An impressive firepower and terrific armor make her the perfect shallow water ship as well as a privateer hunter and a ground support ship.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SANTA_ANNA_CHINA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Treasure Ship[COLOR_REVERT] is a unique heavy junk. An impressive firepower and terrific armor make her the perfect shallow water ship as well as a privateer hunter and a ground support ship.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AMERICA_USMC_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]US Marine Corps[COLOR_REVERT] is a line of American National Units. Reflecting the unique structure of Marine Corps within the US military, it provides the Americans with units from WW1 era to modern day.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AMERICA_ALLIED_NATIVES_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Army Indian Scouts[COLOR_REVERT] is an American National Unit. Used wisely, this recon unit can be devastating ! It receives for free the promos "Camouflage" and "River Combat".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AMERICA_GATLING_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Gatling Gun[COLOR_REVERT] is an American National Unit. An early form of machine gun, it offers unmatched defensive support in its era. It receives for free the promos "Drill II" and "Pacification III".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARABS_MOBILE_GUARD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Fursan[COLOR_REVERT] is an Arab National Unit. A very mobile assault unit, it receives for free the promo "Mobility".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARABS_IRREGULAR_BEDOUIN_CAVALRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Irregular Cavalry[COLOR_REVERT] is an Arab National Unit. They are the desert skirmishers, raiders and scouts and receives for free the promos "Flanking I" and "Desert Combat II".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AZTEC_EAGLE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Eagle Warrior[COLOR_REVERT] is an Aztec National Unit. A strong hand-to-hand warrior, it receives for free the promos "Combat I" and "Hit and run".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BABYLON_BOWMAN_2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Bowman[COLOR_REVERT] is a Babylonian National Unit. This early archery unit receives major bonuses against melee units and while fighting in flood plains and deserts. It receives for free the promos "Desert Combat I" and "Shock I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BANTU_UNIQUE_ARCHER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Maasai Moran[COLOR_REVERT] is a quick and powerful raider. Able to strike deep into enemy territory, it receives the free promos "Raider" and "Commando".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BERBER_BARBARY_CORSAIR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Barbary Corsair[COLOR_REVERT] is a powerful Berber sloop like ship. It receives strong attack bonuses, as well as the free promos "Sentry" and "Leadership".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BERBER_FARFANES_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Farfanes[COLOR_REVERT] is a powerful assault unit. It receives strong attack bonuses, as well as the free promos "Mercenary" and "Leadership".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BLACK_GUARD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Farfanes[COLOR_REVERT] upgrade to the [COLOR_UNIT_TEXT]Black Guard[COLOR_REVERT]. It is not particularly strong compared to regular Line Infantry, but gets "Leadership" and "Pacification II" promos.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARTHAGE_BARBARY_PIRATE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Barbary Pirate[COLOR_REVERT] is a powerful city raider. It receives a strong city attack bonus, as well as the free promo "Amphibious".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CELT_FIANNA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Fianna[COLOR_REVERT] are the perfect forest fighters. It receives the free promos "Woodsman II" and "Woodsman III".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CELT_GAESATAE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Gaesatae[COLOR_REVERT] are dangerous offensive melee warriors, able to take out enemy melee units from stacks in field. They receive the free promos "Guerilla I" and "Shock".</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOUTH_CHINA_FIRE_LANCER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Firelancer[COLOR_REVERT] is the first gunpowder unit of the world. The direct ancestor of the modern-day firearms and artillery. It receives the free promos "City Raider I" and "City Garrison I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRON_PAGODA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Iron Pagoda Cavalry[COLOR_REVERT] is not only a powerful charge cavalry unit, but the only mounted unit that gets terrain defensive bonuses as well. It receives the free promos "Cover I" and "Flanking I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EGYPT_GALATIAN_MERCENARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Galatikoi Kleruchoi[COLOR_REVERT] is a powerful melee unit, that can outmatch even the heaviest infantries. It receives the free promos "Mercenary" and "Shock". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EGYPT_SHERDEN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Sherden Guard[COLOR_REVERT] is an attack-oriented melee unit that is especially adapt at taking enemy chariots out. It receives the free promos "Mercenary" and "Shock". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ENGLAND_MOW_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Man'o'War[COLOR_REVERT] is the master of the seas! It receives the free promos "Sailor Training" and "Drill I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ENGLAND_ROYAL_MARINES_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Assaulting cities and landing on foreign lands are their duties. The [COLOR_UNIT_TEXT]Royal Marines[COLOR_REVERT] receive the free promos "Amphibious" and "Urban Combat II".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRANCE_FOREIGN_LEGION_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Foreign Legion[COLOR_REVERT] is a French National Unit. It receives the free promos "Lead by Warlord" and "March".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRANCE_CAROLINGEAN_PALADIN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Carolingean Paladin[COLOR_REVERT] is a French National Unit. It receives the free promos "Combat I" and "Flanking I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GERMAN_FLAMETHROWER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Cleaning a pillbox? The [COLOR_UNIT_TEXT]Flammenwerfer[COLOR_REVERT] is your solution! It receives the free promos "Pinch I" and "City Raider I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GERMAN_DOPPELSOLDNER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The most powerful mercenaries of their time. The [COLOR_UNIT_TEXT]Doppelsoldner[COLOR_REVERT] receives the free promos "Mercenary" and "Shock".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUN_TARKAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Tarkan[COLOR_REVERT] is a powerful raider that can strike deep into enemy territories. It receives the free promos "Commando" and "Raider".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUNGARY_HUSZAR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Huszar[COLOR_REVERT] is an excellent recon unit capable of scouting and attacking deep inside the enemy lines. It receives for free the promos "Commando" and "Sentry".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INCA_CANARI_GUARD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Canari Guard[COLOR_REVERT] is an Incan National Unit. It receives for free the promos "Drill II" and "Hit and run".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INCA_CHASQUI_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Chasqui[COLOR_REVERT] is an Incan National Unit, great for both scouting and boosting productivity in cities. It receives for free the promos "Hit-and-run" and "March".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INDIA_WAR_ELEPHANT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Howdah[COLOR_REVERT] is an Indian War Elephant that needs no [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT] and no [COLOR_BUILDING_TEXT]Large Stable[COLOR_REVERT] to be built.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INDIA_SRENI_WARRIOR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Sreni Pattya Yoddaha[COLOR_REVERT] is a powerful mercenary that needs no resources. It receives for free the promos "Mercenary" and "Cover I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUGHAL_SIEGE_ELEPHANT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Siege Howdah[COLOR_REVERT] is a Mughal National Unit. It receives for free the promos "Land Tactics" and "City Raider I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ISRAEL_ZEALOT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Zealot[COLOR_REVERT] is a strong, cheap and quickly built defensive unit. It receives for free the promotions "City Garrison I" and "City Garrison IV".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JAPAN_KENSEI_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Kensei[COLOR_REVERT] is one of the best melee units. It receives for free the promotion "Blitz".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JAPAN_WOKOU_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Wokou[COLOR_REVERT] is a powerful pirate. It receives for free the promotions "City Raider I" and "Amphibious".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KHMER_BALLISTA_ELEPHANT_2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This powerful mounted unit([COLOR_UNIT_TEXT]Ballita Elephant[COLOR_REVERT]) will attack Mounted units in stack, before other units, meaning its major bonus against mounted bonus will never go waste.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOREA_KOBUKSON_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Kobukson[COLOR_REVERT] is a powerful coastal ship. It receives for free the promotions "Combat I" and "Drill I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HWARANG_KOREA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Hwarang[COLOR_REVERT] is a powerful archer unit. It receives for free the promotions "Patrols I" and "Drill IV".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MALI_TUAREG_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Tuareg Camel Rider[COLOR_REVERT] is a Sahelian National Unit. It receives for free the promos "Desert Combat I" and "Desert Combat II".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAYA_HOLKAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Holkan[COLOR_REVERT] is the first Mayan National Unit.It receives for free the promos "Pacification I" and "Woodsman III".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAYA_HORNET_THROWERS_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Hornet Throwers[COLOR_REVERT] is the second Mayan National Unit.It receives for free the promos "Drill II" and "Hit-and-run".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MONGOL_TREBUCHET_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Mobile Trebuchet[COLOR_REVERT] is a Mongol National Unit. It receives for free the promos "Engineer Corps" and "Siege Engineering III".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUBIA_MEDJAY_ARCHER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Medjay[COLOR_REVERT] is a powerful archer. It receives the free promos "City Garrison I" and "Drill I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_OTTOMAN_TIMARIOT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Timariot[COLOR_REVERT] is an Turkish National Unit. It receives for free the promos "Raider" and "Flanking I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PERSIA_IMMORTAL_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Immortals[COLOR_REVERT] is a Persian National Unit. It receives for free the promos "March" and "Combat I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PERSIA_ARMOURED_WAR_ELEPHANT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Elephantes Kataphraktoi[COLOR_REVERT] is a Persian National Unit. It receives for free the promo "Cover".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ROME_SWISS_GUARD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Swiss Guard[COLOR_REVERT] is a strong Roman defensive unit. It receives for free the promos "City Garrison I" and "City Garrison IV".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_POLAND_WINGED_HUSSAR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Winged Hussar[COLOR_REVERT] is a strong Polish mounted unit. It receives for free the promos "Flanking I" and "Pinch I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RUSSIA_KATYUSHA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Katyusha[COLOR_REVERT] is a powerful Russian siege unit. It receives for free the promos "Siege Bombardment I" and "Siege Bombardment II".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RUSSIA_GULYAY_GOROD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Gulyay Gorod[COLOR_REVERT] is a Russian mobile fortress. It receives for free the promos "Siege Bombardment I" and "City Raider I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RUSSIA_SMERCH_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]BM-30 Smerch[COLOR_REVERT] is a powerful Russian siege unit. It receives for free the promos "Siege Bombardment I" and "Siege Bombardment II".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SIBERIAN_CHIEFTAIN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Siberian Chieftain[COLOR_REVERT] is a Siberian National Unit. It receives for free the promos "City Raider I" and "Leadership".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPAIN_TERCIO_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Spanish [COLOR_UNIT_TEXT]Tercio[COLOR_REVERT] combines the strength of Musketman and Pikeman. Excellent unit vs mounted units and also to some extend vs. Melee. It receives for free the promos "Formation I" and "Drill IV". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_VIKING_KAROLIN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Carolean[COLOR_REVERT] is a Scandinavian National Unit. It receives for free the promos "Drill I" and "Pinch I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_VIKING_ARCHIPELAGO_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Skargardsflottan[COLOR_REVERT] is a Scandinavian National Unit. It receives for free the promos "Gunboat", "Drill II" and "Expert Pilot".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Irregulars[COLOR_REVERT] is a cheap and easy to build unit as it doesn't need any resources.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_AMERICA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Minuteman[COLOR_REVERT] is an American Unit. It receives for free the promos "Land Tactics" and "Drill II".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Conscript[COLOR_REVERT] is a cheap and easy to build modern like infantry unit as it doesn't need any resources.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARAMILITARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Paramilitary[COLOR_REVERT] is a cheap and no resource needed unit. It's the most modern of this line.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ROME_BALLISTA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Ballista[COLOR_REVERT] is a strong Roman artillery unit. It receives for free the promos "Pacification I" and "Land Tactics".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this ranged mounted unit to slaughter enemy armies without archery or gunpowder units and to give your troops a powerful recon aid. Recommended promotions: flanking, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this charge mounted unit to strengthen your army in the field, counter enemy light cavalry and to give your troops powerful mobility aid. Recommended promotions: flanking, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RAM_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this siege unit to help your troops attack cities. Use direct attacks carefully. Recommended promotions: siege bombardment, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOREAN_HWACHA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Unlike the [COLOR_UNIT_TEXT]Trebuchet[COLOR_REVERT], the [COLOR_UNIT_TEXT]Hwacha[COLOR_REVERT] can be a very effective field artillery.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build [COLOR_UNIT_TEXT]Bombard[COLOR_REVERT] to help your troops attack cities and to weaken enemy units with ranged bombardment. Recommended promotions: siege bombardment, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build [COLOR_UNIT_TEXT]Cannon[COLOR_REVERT] to help your troops attack cities and to weaken enemy units with ranged bombardment. Recommended promotions: siege bombardment, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Line Infantry[COLOR_REVERT] (or Fusilier) is the first modern infantry unit and the workhorse of all armies.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_ENGLAND_2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Redcoat[COLOR_REVERT], the English replacement of the Line Infantry, gets bonuses against all kinds of mounted units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Shock Troops[COLOR_REVERT] gets bonuses against other infantry units as well as artillery.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Even dismounted, the [COLOR_UNIT_TEXT]Foot Knight[COLOR_REVERT] stays an impressive opponent. He is the best infantry you can have until gunpowder.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The Militia is a backbone of an early game military until bronze working. With proper promotions this unit can do many tasks ranging from border protection to city assaults.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT] is the first modern heavy cavalry using gunpowder. Very effective against outdated units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SIDDHA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Siddha Monk[COLOR_REVERT] is the Buddhist special unit.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKIRMISHER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this unit to counter melee units outside cities including slave revolts and to give your troops powerful recon aid. Recommended promotions: forward observers, camouflage, guerilla, woodsman.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLAVE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Slave[COLOR_REVERT] is a low efficiency worker that can also be used to speed up your construction.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPANISH_CONQUISTADOR_2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Conquistador[COLOR_REVERT] is a very powerful Spanish National Unit. Opponent's low tech units aren't able to resist, even walled in cities. It receives for free the promos "Sentry I" and "March". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_MISSIONARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Solar Cult[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_MISSIONARY_ATENISM_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Solar Cult[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_MISSIONARY_MEDITERRANEAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Solar Cult (Sol Invictus)[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PERSIA_ZHAYEDAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Zhayedan[COLOR_REVERT] is an elite Persian offensive heavy cavalry. It receives for free the promos "Combat I" and "March". Ancient [COLOR_UNIT_TEXT]Immortals[COLOR_REVERT] can be upgraded to [COLOR_UNIT_TEXT]Zhayedan[COLOR_REVERT]. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Tactical Bomber[COLOR_REVERT] cannot bombard improvements and routes, and has shorter range than [COLOR_UNIT_TEXT]Strategic Bomber[COLOR_REVERT], but can attack two times per turn.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Tactical Jet Bomber[COLOR_REVERT] cannot bombard improvements and routes, and has shorter range than [COLOR_UNIT_TEXT]Strategic Jet Bomber[COLOR_REVERT], but can attack two times per turn.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Attack Aircraft[COLOR_REVERT] is a bomber aircraft with an intended primary role of tactical bombing - attacking tactical targets, such as enemy's troops and military equipment, at relatively close ranges.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UCAV_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]UCAV[COLOR_REVERT] is a modern cost-effective solution for close air support. While it lacks the range and evasion of an advanced bomber, it is much cheaper to build and maintain, and excellent as a tactical bomber.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORTHODOX_MISSIONARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Orthodoxy[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JEWISH_MISSIONARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Judaism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German>Setzen Sie diesen Missionar ein, um in verb&#252;ndeten oder feindlichen St&#228;dten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) das [COLOR_HIGHLIGHT_TEXT]Christentum[COLOR_REVERT] zu verbreiten. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHRISTIAN_MISSIONARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Christianity[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). </English>
+		<German>Verbreitet den christlichen Glauben. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ISLAMIC_MISSIONARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Islam[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). </English>
+		<German>Setzen Sie diesen Missionar ein, um in verb&#252;ndeten oder feindlichen St&#228;dten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) den [COLOR_HIGHLIGHT_TEXT]Islam[COLOR_REVERT] zu verbreiten. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HINDU_MISSIONARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Hinduism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). </English>
+		<German>Setzen Sie diesen Missionar ein, um in verb&#252;ndeten oder feindlichen St&#228;dten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) den [COLOR_HIGHLIGHT_TEXT]Hinduismus[COLOR_REVERT] zu verbreiten. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BUDDHIST_MISSIONARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Buddhism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). </English>
+		<German>Setzen Sie diesen Missionar ein, um in verb&#252;ndeten oder feindlichen St&#228;dten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) den [COLOR_HIGHLIGHT_TEXT]Buddhismus[COLOR_REVERT] zu verbreiten. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TAOIST_MISSIONARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Taoism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). </English>
+		<German>Setzen Sie diesen Missionar ein, um in verb&#252;ndeten oder feindlichen St&#228;dten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) den [COLOR_HIGHLIGHT_TEXT]Taoismus[COLOR_REVERT] zu verbreiten. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORTHODOX_BANNER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The main goal of the [COLOR_HIGHLIGHT_TEXT]Khorugv Bearer[COLOR_REVERT] is to boost the friendly armies by displaying the power of God.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_VIKING_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]LK II (Strv m/21)[COLOR_REVERT] is the first Viking armoured unit in the game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_FT17_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Renault FT-17[COLOR_REVERT] is a French built armoured unit. Used by various countries, it is one of the most famous WW1 tanks.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_GERMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]A7V[COLOR_REVERT] is the first German armoured unit in the game.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_FRANCE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]St Chamond[COLOR_REVERT] is a French heavy early tank. It can be compared to a tracked land vessel.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_RUSSIA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]T-18[COLOR_REVERT] is a Russian early tank built soon after WW1.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The main purpose of the [COLOR_UNIT_TEXT]Light Infantry[COLOR_REVERT] is to harass the heavier troops and siege units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW1_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Mountain Infantry (WW1)[COLOR_REVERT] is a powerful specialized unit, excelling in rough terrains.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_INFANTRY_WW2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Mountain Infantry (WW2)[COLOR_REVERT] is a powerful specialized unit, excelling in rough terrains.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_VIKING_BESERKER_STRATEGY_2</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Berserker[COLOR_REVERT] is a powerful Viking National Unit. It starts with the free promo "Amphibious" and is especially strong against melee and mounted units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMENIA_HEAVY_COMPANION_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Zrahakir Aspet[COLOR_REVERT] is a powerful Armenian National Unit. It starts with the free promos "Shock" and "Tactics".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMENIA_NAKHARAR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Nakharar's[COLOR_REVERT] stats are otherwise identical to Armenian knights, but the unit provides Inspiration aid, like [COLOR_UNIT_TEXT]Zrahakir Aspet[COLOR_REVERT] that upgrades to it.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_TEMPLAR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Knight Templar[COLOR_REVERT] is a powerful European National Unit. It starts with the free promo "Shock" and "Combat I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REALM_KNIGHT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Realm Host[COLOR_REVERT] is a powerful European National Unit. It starts with the free promo "Shock" and "Combat I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_HOSPITALIER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Knight Hospitaller[COLOR_REVERT] is a powerful European National Unit. It starts with the free promo "Combat I" and "Medic I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHIVALRIC_KNIGHT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Chivalric Knight[COLOR_REVERT] is a powerful European National Unit. It starts with the free promo "Combat I" and "Formation I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORTIFICATION_BOMBARD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Fortress Mortar[COLOR_REVERT] provides a strong static city defense as well as some bombardement capacities against besiegers.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORTIFICATION_CANNON_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Fortress Battery[COLOR_REVERT] provides a strong static city defense as well as some bombardement capacities against besiegers.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORTIFICATION_ARTILLERY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Emplaced Artillery[COLOR_REVERT] provides a strong static city defense as well as some bombardement capacities against besiegers.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORTIFICATION_HEAVY_ARTILLERY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Emplaced Heavy Battery[COLOR_REVERT] provides a strong static city defense as well as some bombardement capacities against besiegers.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DRAVIDIAN_ROMAN_MERCENARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Roman Mercenary[COLOR_REVERT] is a powerful Dravidian National Unit. It receives for free the promos "Mercenary" and "Shock". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DRAVIDIAN_ROCKET_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Mysorean Rocket[COLOR_REVERT] is a powerful Dravidian National Unit. It receives for free the promos "Drill II" and "Pinch". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_APACHE_RAIDERS_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Apache Raiders[COLOR_REVERT] is a powerful Apache National Unit. It can quickly be built thanks to food production and receives for free the promos "Camouflage" and "Drill II". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHEROKEE_RAIDERS_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Cherokee Raiders[COLOR_REVERT] is a powerful Cherokee National Unit. It can quickly be built thanks to food production and receives for free the promos "Forward Observers" and "River Combat". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SIOUX_RAIDERS_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Sioux Raiders[COLOR_REVERT] is a powerful Sioux National Unit. It can quickly be built thanks to food production and receives for free the promos "Camouflage" and "Loose Formation". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DRAVIDIAN_AAIVU_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Aaivu[COLOR_REVERT] is a powerful Dravidian National Unit. It receives for free the promos "Combat I" and "Amphibious". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KATARA_WARRIOR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Katara Warrior[COLOR_REVERT] is a unique Indian and Dravidian unit. It can be built only if Hinduism is the State Religion and with an Hindu Temple. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Government Official[COLOR_REVERT] is a powerful unit that can quickly build various key buildings in your cities. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CELTIC_CLANSMEN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Highland Clansmen[COLOR_REVERT]are a unique Celtic National Unit. It receives for free the promos "Shock I" and "Guerilla I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_DRAVIDIAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Dharani[COLOR_REVERT] is a flavor Dravidian [COLOR_UNIT_TEXT]War Galley[COLOR_REVERT]. She is able to deliver two FS before engaging combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Cog[COLOR_REVERT] is a medium size transport vessel mostly used during the middle age. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_BARBARIAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The unique barbarian [COLOR_UNIT_TEXT]Cog[COLOR_REVERT] is able to enter ocean tiles, unlike its regular counterparts. </English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_DRAVIDIAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Patri[COLOR_REVERT] is a flavor Dravidian [COLOR_UNIT_TEXT]Cog[COLOR_REVERT]. This vessel can carry more load and is also lightly armored. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INDIA_PATA_WARRIOR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Patta Warrior[COLOR_REVERT] is a powerful Indian National Unit. It receives for free promos "Combat I" and "Formation I". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_THE_HORDE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]The Horde[COLOR_REVERT] is a powerful Barbarian unit that can only be created by an event. Protect your cities, [COLOR_UNIT_TEXT]The Horde[COLOR_REVERT] likes razing them! </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PORTUGAL_BANDEIRANTES_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Bandeirantes[COLOR_REVERT] is a powerful Brazilian National Unit. It receives for free the promos "Hit and Run" and "Sentry I" and can also act as a settler. </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PORTUGAL_MARINES_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Regiment of the Navy[COLOR_REVERT] is a powerful Portuguese National Unit. It receives for free the promos "City Raider II" and "Amphibious". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EGYPT_SAQALIBA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Saqaliba[COLOR_REVERT] is a Egyptian melee unit that can outmatch most of the heaviest infantries. It receives free promos "Mercenary" and "Shock". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZULU_SANGOMA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Sangoma[COLOR_REVERT] is a powerful Zulu National Unit. It receives free promos "Medic I" and "March". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZULU_IMPI_STRATEGY_2</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Impi[COLOR_REVERT] is a powerful Zulu National Unit. It receives free promos "Tactics" and "Hit and run". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MONGOL_NAFFATUN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Naffatun[COLOR_REVERT] is a powerful Mongol early [COLOR_UNIT_TEXT]Grenadier[COLOR_REVERT]. It receives free promos "Shock" and "Formation". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_POLAND_LISOWCZYK_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Lisowczyk[COLOR_REVERT] is a Polish National Unit. It ignores civilization borders and receives free promos "Leadership" and "Raider". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREECE_HYAPIST_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Hypaspistai[COLOR_REVERT] are a Greek National Unit. It receives free promotion "Shock I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREEK_PHALANX_2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Homoioi[COLOR_REVERT] are a Greek National Unit. It receives free promotion "Land Tactics". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREECE_VESTIARITAI_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Vasilika Tagmata[COLOR_REVERT] is a Greek National Unit. It receives free promotion "Combat I". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREECE_VARANGIAN_GUARD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Varangian Guard[COLOR_REVERT] is a Greek National Unit. It receives free promotion "Shock I". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRONCLAD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Ironclad[COLOR_REVERT] is very slow and comparatively cheap, but powerful. It can bombard enemy city fortifications but traverses ocean spaces very slowly.</English>
+		<German>[COLOR_UNIT_TEXT]Panzerschiffe[COLOR_REVERT] sind langsam, aber &#228;u&#223;erst kampfstark. Sie nehmen K&#252;stenst&#228;dte unter Beschuss, k&#246;nnen aber nicht auf das offene Meer ausweichen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHINA_TREASURE_SHIP_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Treasure Ship[COLOR_REVERT] is a Chinese National Unit. It receives free promotions "Sentry I" and "Flanking I". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TAIWAN_IRON_TROOP_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Iron Troop[COLOR_REVERT] is a Taiwanese National Unit. It receives free promotions "Mercenary" and "Combat I". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHINA_CHOKONU_2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This powerful archery unit gets collateral damage and strong bonus versus melee and light cavalry units. It also receives the free promotions "Drill II" and "City Garrison IV". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMENIA_URARTU_GUARD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Urartu Royal Guard[COLOR_REVERT] is an Armenian National Unit. It receives free promotions "Combat I" and "Shock I". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ETHIOPIA_MEHAL_SEFARI_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Mehal Sefari[COLOR_REVERT] is an Ethiopian National Unit. It receives free promotions "Pinch I" and "City Garrison IV". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ETHIOPIA_KEBUR_ZABAGNA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Kebur Zabagna[COLOR_REVERT] is an Ethiopian National Unit. It receives free promotions "Pinch I" and "City Garrison IV". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MALI_AMAZON_DAHOMEY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Dahomey Amazons[COLOR_REVERT] are a Sahelian National Unit. It receives free promotions "Suppressive Fire" and "Hit and run". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JEWISH_REPRESENTATIVE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread [COLOR_HIGHLIGHT_TEXT]Judaism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHRISTIAN_REPRESENTATIVE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread [COLOR_HIGHLIGHT_TEXT]Christianity[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORTHODOX_REPRESENTATIVE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread [COLOR_HIGHLIGHT_TEXT]Orthodox Christianity[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ISLAMIC_REPRESENTATIVE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread [COLOR_HIGHLIGHT_TEXT]Islam[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HINDU_REPRESENTATIVE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread [COLOR_HIGHLIGHT_TEXT]Hinduism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BUDDHIST_REPRESENTATIVE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread [COLOR_HIGHLIGHT_TEXT]Buddhism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZOROASTRIAN_REPRESENTATIVE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread [COLOR_HIGHLIGHT_TEXT]Zoroastrianism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TAOIST_REPRESENTATIVE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread [COLOR_HIGHLIGHT_TEXT]Taoism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_REPRESENTATIVE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread the [COLOR_HIGHLIGHT_TEXT]Solar Cult[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_REPRESENTATIVE_ATENISM_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread [COLOR_HIGHLIGHT_TEXT]Atenism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_REPRESENTATIVE_MEDITERRANEAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use this Representative to actively spread the cult of [COLOR_HIGHLIGHT_TEXT]Sol Invictus[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]).</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AUSTRIA_GRENZER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Grenzer[COLOR_REVERT] is an Austrian National Unit. It receives the free promotions "Hit and run" and "Drill IV". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TEXAS_VOLUNTEERS_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Texan Volunteers[COLOR_REVERT] are a Texan National Unit. It receives the free promotions "City Garrison IV" and "Drill II". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TEXAS_RANGER_MOUNTED_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Texas Rangers[COLOR_REVERT] is a Texan National Unit. It receives the free promotions "Blitz" and "Tactics". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UKRAINE_SERDYUK_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Serdyuk[COLOR_REVERT] is a Ukrainian National Unit. It receives the free promotions "Mercenary" and "Combat I". </English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Grand Battery[COLOR_REVERT] raises the standard of the siege units.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_LIGHT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Light Artillery[COLOR_REVERT] is the first mass produced gun that can easily accompany an army on the march.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HEAVY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Heavy Artillery[COLOR_REVERT] is a typical late 19th century - earlier 20th century siege gun.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Self-propelled artillery[COLOR_REVERT] is the artillery piece designed to be used by infantry formations in field.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HEAVY_WW2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Howitzer[COLOR_REVERT] is a typical 20th century siege gun.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PONTUS_THORAKITAI_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Thorakitai[COLOR_REVERT] is a Pontus National Unit. It receives for free the promotion "Loose Formation".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_VILLISTAS_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Llaneros[COLOR_REVERT] is a Gran Colombian National unit. It has the free promos "Formation" and "Commando".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HALYCH_VOLHYNIA_KINGS_RETINUE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Ducal Retinue[COLOR_REVERT] is a Lithuanian National unit. It has the free promos "Combat I" and "Flanking I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUNGARY_FEKETE_SEREG_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Fekete Sereg[COLOR_REVERT] is a Hungarian National unit. It has the free promos "Mercenary" and "Leadership".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FINLAND_SISSI_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Sissi[COLOR_REVERT] is a powerful Finnish National unit. It has the free promos "Sentry I" and "March".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ETHIOPIAN_OROMO_WARRIOR_2_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Oromo Warrior[COLOR_REVERT] is a powerful Ethiopian National unit. It has the free promos "Drill II" and "Drill III".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOUTH_CHINA_PEN_HUO_QI_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Pen Huo Qi[COLOR_REVERT] is a powerful, but costly, South Chinese National unit. It has the free promos "Land Tactics" and "Shock I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_VENICE_GALLIOT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]War Galleass[COLOR_REVERT] is a powerful Venetian National unit. It provides the free promos "Combat I" and "Flanking I" and can sail in rival territories.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRANSOXIANA_BACTRIAN_RIDER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Bactrian Rider[COLOR_REVERT] is the early Transoxian National unit. It has the free promos "Formation I" and "Shock I".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRANSOXIANA_TURKOMAN_RAIDER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Turkoman Raider[COLOR_REVERT] is the late Transoxian National unit. It has the free promos "Commando" and "Raider".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BARBARIAN_MODERN_GRENADIER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Urban Fighter[COLOR_REVERT] is a Barbarian National Unit.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BARBARIAN_REBEL_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Guerrillero[COLOR_REVERT] is a Barbarian National Unit.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_BARBARIAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_BUILDING_TEXT]Buccaneer[COLOR_REVERT] is one of the numerous plagues of the sea.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AUSTRONESIA_OUTRIGGER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Outrigger[COLOR_REVERT] is a typical Austronesian primitive ship. It receives for free the promos "Sentry I" and "Flanking I" and is available very early.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AUSTRONESIA_PEPPER_FUSILIER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Prajurit Wirobrojo[COLOR_REVERT] is an Austronesian National Unit. It receives for free the promos "Pinch I" and "Patriotism".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMPOSITE_BOWMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this improved archery unit to defend cities and to counter ranged mounted units. With proper promotions it is also good against recon units. Recommended promotions: drill, city garrison, patrols.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_AMERICA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Since America has a separate dedicated Marine unit lineup, this unit represents a US Army assault / fire support team instead and has a different set of bonuses compared to default units of the class.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this melee unit with high power to counter other melee units as it gets a bonus against them. Recommended promotions: shock, cover, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this melee unit when you want to attack cities. Recommended promotions: city raider, guerilla, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this melee unit when you want to attack cities. Recommended promotions: city raider, guerilla, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this melee unit to counter charge mounted units, to contest enemy melee units and to protect your recon units from archers' counterattacks. Recommended promotions: formation, shock, cover.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this melee unit with high power to counter charge mounted units and to defend cities. Recommended promotions: formation, city garrison, shock.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this unit to attack enemies in the field. Since it's gunpowder-based many promotions won't work against it. Recommended promotions: combat, patrols, guerilla.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARCHER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this early archery unit to defend cities and choke points. Recommended promotions: drill, city garrison, patrols.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LONGBOWMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this archery unit with high power to defend cities and to protect your army against ranged mounted units. Recommended promotions: drill, patrols, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_CROSSBOWMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this archery unit to defend cities, to protect your army against mounted units and to slaughter unprotected melee units. Recommended promotions: shock, guerilla, patrols.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CROSSBOWMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this archery unit to defend cities, to protect your army against mounted units and to slaughter unprotected melee units. Recommended promotions: shock, guerilla, patrols.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this early charge mounted unit to weaken enemy troops with collateral damage and to give your troops powerful mobility aid. Recommended promotions: flanking, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this ranged mounted unit to attack charge mounted and melee units in the field and to give your troops powerful recon aid. Recommended promotions: flanking, patrols, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this charge mounted unit to strengthen your army in the field and to give your troops powerful mobility aid. Recommended promotions: flanking, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this unique charge mounted unit to counter other charge mounted units, to strengthen your army in the field and to give your troops powerful mobility aid. Protect them against foot archers and horse archers. Recommended promotions: flanking, combat.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CATAPULT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this siege unit to help your troops attack cities. It cannot do much harm in direct combat, but can bring down city defenses and provide useful aid.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this recon unit when you want to explore new territory fast; it gets better results from Tribal Villages. Recommended promotions: forward observers, hit and run.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this recon unit to strengthen your army in the field and to give your troops a powerful recon aid. Recommended promotions: forward observers, camouflage, guerilla, woodsman.</English>
+		<German> Not translated. </German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAK_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build this first land anti-air unit to provide your armies with some anti-air protection.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOREIGN_MUSKETMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]These units are functionally identical to default [COLOR_UNIT_TEXT]arquebusier[COLOR_REVERT], and can be built by a country that has acquired black powder resource, but doesn't have the prerequisite tech yet. They are limited in number.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOREIGN_RIFLEMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]These units are functionally identical to default [COLOR_UNIT_TEXT]riflemen[COLOR_REVERT], and can be built by a country that has acquired firearms resource, but doesn't have the prerequisite tech yet. They are limited in number.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOREIGN_INFANTRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]These units are functionally identical to default [COLOR_UNIT_TEXT]infantry[COLOR_REVERT], and can be built by a country that has acquired semi-automatic firearms resource, but doesn't have the prerequisite tech yet. They are limited in number.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOREIGN_MODERN_INFANTRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]These units are functionally identical to default [COLOR_UNIT_TEXT]modern infantry[COLOR_REVERT], and can be built by a country that has acquired assault rifles resource, but doesn't have the prerequisite tech yet. They are limited in number.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Medium tanks[COLOR_REVERT] offer excellent striking power, but are less mobile than their light counterparts.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JOMSVIKING_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Jomsvikings[COLOR_REVERT] have excellent offensive capabilities, and are able to challenge other melee units outside cities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FILIPINO_KALINGA_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Kalinga[COLOR_REVERT] can move quickly through difficult terrain and are devastating against other recon units.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Sailboat[COLOR_REVERT] is the first seafaring vessel, capable of carrying units onboard.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Galley[COLOR_REVERT] is the first purpose-built military vessel.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_PROPHET_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Great Prophets[COLOR_REVERT] allow you to immediately construct a religious [COLOR_BUILDING_TEXT]Shrine[COLOR_REVERT] and certain other religious wonders.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_ARTIST_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Great Artists[COLOR_REVERT] can create a [COLOR_HIGHLIGHT_TEXT]Great Work of Art[COLOR_REVERT] which provides an excellent culture output and another minor effect.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_SCIENTIST_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Great Scientists[COLOR_REVERT] can build an [COLOR_BUILDING_TEXT]Academy[COLOR_REVERT], which greatly increases a city's research, or a [COLOR_BUILDING_TEXT]Great Work of Science[COLOR_REVERT], providing even more research advantages, but eventually going obsolete.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_MERCHANT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Great Merchants[COLOR_REVERT] can complete a [COLOR_HIGHLIGHT_TEXT]Trade Mission[COLOR_REVERT] in a foreign city which generates a lot of gold. Try to complete it in really far away cities. Alternatively, late in game they can be used to create [COLOR_BUILDING_TEXT]Enterprises[COLOR_REVERT], providing certain resources that are otherwise hard to come by.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_ENGINEER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Great Engineers[COLOR_REVERT] can instantly complete a city's active production. Late in game, a Great Engineer can create a [COLOR_BUILDING_TEXT]Nuclear Research Facility[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECH_INFANTRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Unlike earlier motorized infantry, this unit is not only more mobile than its non-mechanized counterpart, but is also stronger in combat</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Higher mobility allows this unit to keep up with faster units in the field or quickly reinforce key positions.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This modern unit is best suited for defending cities and holding key positions.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRANSPORT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]While late-game naval [COLOR_UNIT_TEXT]Transport[COLOR_REVERT] units may have different sizes and speeds, they are all able to cross ocean tiles and are extremely vulnerable to planes and modern warships.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ICEBREAKER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Nuclear Icebreaker[COLOR_REVERT] can traverse sea ice and break it within the civilization borders for other ships to follow.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BLACKBIRD_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]SR-71 Blackbird[COLOR_REVERT] is a long-range unarmed recon aircraft that is almost impossible to intercept.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MORTAR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Mortar[COLOR_REVERT] is a modern siege unit that does not require any resources to build; it is normally outclassed by other siege units when you have resources to construct them.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GLADIATOR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Famous Gladiators[COLOR_REVERT] can establish [COLOR_BUILDING_TEXT]Gladiator Schools[COLOR_REVERT] in your cities.</English>
+		<German> Not translated. </German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARABIA_CAMELARCHER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Camel Archers[COLOR_REVERT] do not require horses to be built.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_SPAIN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This small and fast ship can explore oceans and rival territory. Unlike [COLOR_UNIT_TEXT]Carracks[COLOR_REVERT], [COLOR_UNIT_TEXT]Caravels[COLOR_REVERT] can transport one regular unit.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This small and fast ship can explore oceans and rival territory. [COLOR_UNIT_TEXT]Carracks[COLOR_REVERT] can transport one special unit - [COLOR_UNIT_TEXT]Scout[COLOR_REVERT], [COLOR_UNIT_TEXT]Explorer[COLOR_REVERT], [COLOR_UNIT_TEXT]Spy[COLOR_REVERT], [COLOR_UNIT_TEXT]Missionary[COLOR_REVERT], or [COLOR_UNIT_TEXT]Great Person[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARRIER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Carriers[COLOR_REVERT] are moderately-powerful naval units in themselves, but their primary ability is to carry up to three [COLOR_UNIT_TEXT]Fighters[COLOR_REVERT]. These fighters can defend the stack against enemy aircraft, they can scout terrain, and they can attack enemy units and cities.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is particularly effective in open terrain and can withdraw from combat. It receives a bonus when attacking and is particularly effective against siege units but receives no terrain bonuses when defending.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Submarines[COLOR_REVERT] are invisible to most units. They can explore rival territory and can carry special units, but are vulnerable to enemy [COLOR_UNIT_TEXT]Destroyers[COLOR_REVERT] and other subs.</English>
+		<German> Not translated. </German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_BOMBER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Advanced Bombers[COLOR_REVERT] have very high range, evasion and are extremely expensive.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Advanced Fighters[COLOR_REVERT] have the best range, interception and evasion of all the fighter units.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Advanced Gunships[COLOR_REVERT] are the best combat helicopters available, quick and exceptionally powerful against armored units.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_SAM_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Advanced SAM[COLOR_REVERT] is the most effective land-based anti-air unit in the game. Use it to intercept enemy planes or pluck those pesky [COLOR_UNIT_TEXT]Gunships[COLOR_REVERT] from the sky.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Air Superiority Fighters[COLOR_REVERT] are stronger, have better evasion and interception than the [COLOR_UNIT_TEXT]Multirole Combat Aircraft[COLOR_REVERT], but have shorter range and cannot conduct air strikes.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Multirole Combat Aircraft[COLOR_REVERT] can perform airstrikes and have longer range, but are worse than [COLOR_UNIT_TEXT]Air Superiority Fighters[COLOR_REVERT] at air combat and interception.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build the [COLOR_UNIT_TEXT]Anti-Tank Missile[COLOR_REVERT] to counter armoured units but give it a guard against infantry.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BATTLESHIP_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]All the ships from [COLOR_UNIT_TEXT]Ship of the Line[COLOR_REVERT] to [COLOR_UNIT_TEXT]Battleship[COLOR_REVERT] are the strongest naval units of their respective eras.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Attack Submarine[COLOR_REVERT] is the ultimate defense against [COLOR_UNIT_TEXT]Submarines[COLOR_REVERT]. While unable to carry missiles, it does receive a significant bonus against enemy [COLOR_UNIT_TEXT]Submarines[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUCLEAR_SUBMARINE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Ballistic Submarine[COLOR_REVERT] can carry and launch [COLOR_UNIT_TEXT]Guided Missiles[COLOR_REVERT] or even [COLOR_UNIT_TEXT]Tactical Nukes[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DESTROYER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]All the ships from [COLOR_UNIT_TEXT]Escort[COLOR_REVERT] to [COLOR_UNIT_TEXT]Modern Destroyer[COLOR_REVERT] are valuable support units that can detect submarines and intercept aircraft.</English>
+		<German> Not translated. </German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Fighter[COLOR_REVERT] units can attack enemy air units and can scout enemy terrain. They are very useful when stationed on [COLOR_UNIT_TEXT]Carrier[COLOR_REVERT] units.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Frigate[COLOR_REVERT] offers a good compromise between speed and power, and will likely be your workhorse unit when protecting your sea lanes.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Grenadiers[COLOR_REVERT] are excellent gunpowder-era attack units.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUIDED_MISSILE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Reach out and crush someone with the [COLOR_UNIT_TEXT]Guided Missile[COLOR_REVERT], which provides a high-powered punch to any single tile within its range.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUNSHIP_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Gunships[COLOR_REVERT] are quick and powerful against armored units.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ICBM_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]ICBMs[COLOR_REVERT] can nuke enemy cities, causing a great deal of damage to buildings, units, and nearby terrain.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ICBM_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]ICBMs[COLOR_REVERT] can nuke enemy cities, causing a great deal of damage to buildings, units, and nearby terrain.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]This is the strongest gunpowder unit. It moves faster than the other infantry units, has some interception power and can withdraw from combat.  It starts with the [COLOR_HIGHLIGHT_TEXT]March[COLOR_REVERT] promotion</English>
+		<German> Not translated. </German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AZTEC_JAGUAR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Jaguar Warrior[COLOR_REVERT] is an Aztec National Unit. A strong hand-to-hand warrior, it receives for free the promos "Woodsman I" and "Shock".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_OTTOMAN_JANISSARY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Janissary[COLOR_REVERT] is a Turkish National Unit. It receives for free the promos "Drill I" and "Drill II".</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Jet Fighter[COLOR_REVERT] units are a direct upgrade to [COLOR_UNIT_TEXT]Fighters[COLOR_REVERT] and are better at all tasks.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Machine Guns[COLOR_REVERT] are powerful defensive weapons, especially against enemy gunpowder units. These units cannot initiate attacks, making them most useful when defending cities or stacks in field.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Marines[COLOR_REVERT] start with Amphibious promotion and can quickly disembark from ships, making them indispensible in naval invasions.</English>
+		<German> Not translated. </German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Mobile Artillery[COLOR_REVERT] is the ultimate artillery unit, with the best combination of power, range and mobility.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_SAM_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Mobile SAM[COLOR_REVERT] is a good way to protect a stack from airstrikes and [COLOR_UNIT_TEXT]Gunships[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Modern MBT[COLOR_REVERT] is the ultimate evolution of armored units.</English>
+		<German> Not translated. </German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARTHAGE_NUMIDIAN_CAVALRY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Numidian Cavalry[COLOR_REVERT] is an effective light cavalry unit that can hold its own against melee units but especially deadly against recon units and ranged cavalry. It receives for free the promos "Flanking I" and "Patrols I".</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Paratrooper[COLOR_REVERT] is a late-game gunpowder unit that is able to [COLOR_HIGHLIGHT_TEXT]Paradrop[COLOR_REVERT] into any visible tile unoccupied by enemy units within its range. Watch for enemy aircraft, as Paratroopers on a Paradrop mission can be intercepted.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Rifled Cannons[COLOR_REVERT] are an effective all-purpose unit to attack cities and to weaken enemy units with ranged bombardment.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Riflemen[COLOR_REVERT] upgrade from [COLOR_UNIT_TEXT]Line Infantry[COLOR_REVERT] and are a good all-purpose infantry unit with a slight defensive focus.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Build [COLOR_UNIT_TEXT]Settlers[COLOR_REVERT] to expand your empire with new cities.</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ANIMAL_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Animals[COLOR_REVERT] do not enter civilizations' borders but pose a threat to exploring units and especially to unprotected [COLOR_UNIT_TEXT]Settlers[COLOR_REVERT] and [COLOR_UNIT_TEXT]Workers[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRONCLAD_FRIGATE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The arrival of oceangoing [COLOR_UNIT_TEXT]Steam Frigates[COLOR_REVERT] spells doom to the sailing-era ships.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Strategic Bombers[COLOR_REVERT] are capable of wide variety of bombing missions, but are vulnerable to interception.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB][COLOR_UNIT_TEXT]Supersonic Fighter[COLOR_REVERT] units are a further upgrade to [COLOR_UNIT_TEXT]Jet Fighters[COLOR_REVERT] and are better at all tasks.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TACTICAL_NUKE_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]These short-range Nukes can evade enemy [COLOR_PROJECT_TEXT]SDIs[COLOR_REVERT] more easily than longer range [COLOR_UNIT_TEXT]ICBMs[COLOR_REVERT].</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EGYPT_WARCHARIOT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]War Chariot[COLOR_REVERT] is a hard-hitting early cavalry unit. It receives for free the promos "Flanking I" and "Desert Combat II".</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]War Elephant[COLOR_REVERT] is a slow but powerful unit that debuff enemy cavalry.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]The [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT] is the first military unit, available to all civilizations.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORK_BOAT_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Unarmed vessels that can create fishing boats, whaling boats, and (in late game) oil rigs. [COLOR_UNIT_TEXT]Work Boats[COLOR_REVERT] cannot explore or enter Ocean and unexplored spaces.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_STRATEGY</Tag>
+		<English>[NEWLINE][TAB]Use [COLOR_UNIT_TEXT]Workers[COLOR_REVERT] to improve the land around your cities and build roads that help establish trade routes.</English>
+		<German> Not translated. </German>
+	</TEXT>	
+</Civ4GameText>

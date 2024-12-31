@@ -1,0 +1,6215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_APOLLO_PROGRAM</Tag>
+		<English>Lunar Landing</English>
+		<German>
+			<Text>Mondlandung</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IRONWORKS</Tag>
+		<English>Foundry</English>
+		<German>
+			<Text>Gießerei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COLOSSEUM</Tag>
+		<English>Arena</English>
+		<German>
+			<Text>Arena</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_MANHATTAN_PROJECT</Tag>
+		<English>First Nuclear Test</English>
+		<German>
+			<Text>Erster Atombombentest</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OXFORD_UNIVERSITY</Tag>
+		<English>National University</English>
+		<German>
+			<Text>Nationaluniversit&#228;t</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OXFORD_UNIVERSITY_HUNGARY</Tag>
+		<English>Hungarian Academy of Sciences</English>
+		<German>
+			<Text>Ungarische Akademie der Wissenschaften</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_JEWISH_TEMPLE</Tag>
+		<English>Jewish Synagogue</English>
+		<German>
+			<Text>J&#252;discher Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_JEWISH_CATHEDRAL</Tag>
+		<English>Jewish Great Synagogue</English>
+		<German>
+			<Text>J&#252;dische Synagoge</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ZOROASTRIAN_TEMPLE</Tag>
+		<English>Zoroastrian Temple</English>
+		<German>
+			<Text>Zoroastrischer Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ZOROASTRIAN_MONASTERY</Tag>
+		<English>Zoroastrian Monastery</English>
+		<German>
+			<Text>Zoroastrisches Kloster</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ZOROASTRIAN_CATHEDRAL</Tag>
+		<English>Zoroastrian Fire Temple</English>
+		<German>
+			<Text>Zoroastrischer Feuertempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ZOROASTRIAN_SHRINE</Tag>
+		<English>Adur Burzen-Mihr</English>
+		<German>
+			<Text>Adur Burzen-Mihr</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NSILO</Tag>
+		<English>Nuclear Silo</English>
+		<German>
+			<Text>Raketensilo</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PSILO</Tag>
+		<English>Plutonium Nuclear Silo</English>
+		<German>
+			<Text>Plutonium-Raketensilo</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANH</Tag>
+		<English>Manhattan Project</English>
+		<German>
+			<Text>Manhattan-Projekt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WOMAN</Tag>
+		<English>Universal Suffrage</English>
+		<German>
+			<Text>Allgemeines Wahlrecht</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EVOLUTION</Tag>
+		<English>Theory of Evolution</English>
+		<German>
+			<Text>Evolutionstheorie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COPERNICUS</Tag>
+		<English>Uraniborg</English>
+		<German>
+			<Text>Uraniborg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARTOFWAR</Tag>
+		<English>Doctrine - Art of War</English>
+		<German>
+			<Text>Doktrin - Die Kunst des Krieges</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARGEBAM</Tag>
+		<English>Arg-e Bam</English>
+		<German>
+			<Text>Arg-e Bam</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LEONARDO</Tag>
+		<English>Leonardo's Workshop</English>
+		<German>
+			<Text>Leonardos Werkstatt</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAUSOLEUM</Tag>
+		<English>Tomb of Mausollos</English>
+		<German>
+			<Text>Mausoleum von Halikarnassos</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EIRIC</Tag>
+		<English>Petronius</English>
+		<German>
+			<Text>Petronius</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACADEMY_FENGSHUI</Tag>
+		<English>Feng Shui Academy</English>
+		<German>
+			<Text>Feng Shui Akademie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRANSIT</Tag>
+		<English>Mass Transit System</English>
+		<German>
+			<Text>&#214;fentliches Verkehrssystem</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TSUKIJI</Tag>
+		<English>Tsukiji Fish Market</English>
+		<German>
+			<Text>Tsukiji-Fischmarkt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GUTENBERG</Tag>
+		<English>Printing House</English>
+		<German>
+			<Text>Druckerei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STEELWORK</Tag>
+		<English>Steel Mill</English>
+		<German>
+			<Text>Stahlwerk</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALUM</Tag>
+		<English>Alumina Refinery</English>
+		<German>
+			<Text>Aluminiumoxid-Raffinerie</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_PLANT</Tag>
+		<English>Solar Plant</English>
+		<German>
+			<Text>Solarkraftwerk</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACADEMY_EXCHANGE</Tag>
+		<English>Tech Transfer</English>
+		<German>
+			<Text>Technologieaustausch</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EGYPTIAN_TEMPLE</Tag>
+		<English>Khemet Temple</English>
+		<German>
+			<Text>Khemet-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ROMAN_TEMPLE</Tag>
+		<English>Augurs Temple</English>
+		<German>
+			<Text>Augustus-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREEK_TEMPLE</Tag>
+		<English>Temenos</English>
+		<German>
+			<Text>Temenos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREEK_TEMPLE_2</Tag>
+		<English>Temenos 2</English>
+		<German>
+			<Text>Temenos 2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREEK_TEMPLE_3</Tag>
+		<English>Temenos 3</English>
+		<German>
+			<Text>Temenos 3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREEK_TEMPLE_4</Tag>
+		<English>Temenos 4</English>
+		<German>
+			<Text>Temenos 4</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREEK_TEMPLE_5</Tag>
+		<English>Temenos 5</English>
+		<German>
+			<Text>Temenos 5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREEK_TEMPLE_6</Tag>
+		<English>Temenos 6</English>
+		<German>
+			<Text>Temenos 6</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHINA_TEMPLE</Tag>
+		<English>Ancestor Shrine</English>
+		<German>
+			<Text>Ahnenschrein</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARC_DE_TRIOMPHE</Tag>
+		<English>Arc de Triomphe</English>
+		<German>
+			<Text>Triumphbogen des Sterns</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BRANDEBURG</Tag>
+		<English>Brandenburg Gate</English>
+		<German>
+			<Text>Brandenburger Tor</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BABYLON_TEMPLE</Tag>
+		<English>Ziggurat of Marduk</English>
+		<German>
+			<Text>Etemenanki</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIVE_TEMPLE</Tag>
+		<English>Animist</English>
+		<German>
+			<Text>Animist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INCA_PAGAN_TEMPLE</Tag>
+		<English>Inti Temple</English>
+		<German>
+			<Text>Coricancha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MESO_PAGAN_TEMPLE</Tag>
+		<English>Teocalli</English>
+		<German>
+			<Text>Teocalli</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PAGAN_TEMPLE_MAYA</Tag>
+		<English>Step Pyramid</English>
+		<German>
+			<Text>Stufenpyramide</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PAGAN_TEMPLE_LITHUANIA</Tag>
+		<English>Aukuras</English>
+		<German>
+			<Text>Aukuras</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SHINTO_TEMPLE</Tag>
+		<English>Shinto Hokora</English>
+		<German>
+			<Text>Shinto Hokora</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AFRICAN_TEMPLE</Tag>
+		<English>African Temple</English>
+		<German>
+			<Text>Afrikanischer Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CELTIC_TEMPLE</Tag>
+		<English>Nemeton</English>
+		<German>
+			<Text>Nemeton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GERMAN_TEMPLE</Tag>
+		<English>Horgr</English>
+		<German>
+			<Text>H&#246;rgr</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KOREA_TEMPLE</Tag>
+		<English>Singyo</English>
+		<German>
+			<Text>Singyo-ji-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MALI_TEMPLE</Tag>
+		<English>Vodun Temple</English>
+		<German>
+			<Text>Vodun-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TENT_TEMPLE</Tag>
+		<English>Shaman Yurt</English>
+		<German>
+			<Text>Schamanen-Jurte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TURKISH_TEMPLE</Tag>
+		<English>Balbal</English>
+		<German>
+			<Text>Balbal-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INDIA_TEMPLE</Tag>
+		<English>Vedic Temple</English>
+		<German>
+			<Text>Vedischer Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PERSIAN_TEMPLE</Tag>
+		<English>Mazdayasni</English>
+		<German>
+			<Text>Mazdayasni-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRANSOXIANA_TEMPLE</Tag>
+		<English>Tengri Temple</English>
+		<German>
+			<Text>Tengri-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_VIKING_TEMPLE</Tag>
+		<English>Hof</English>
+		<German>
+			<Text>Hof</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FINLAND_TEMPLE</Tag>
+		<English>Hiisi</English>
+		<German>
+			<Text>Hiisi-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPAIN_TEMPLE</Tag>
+		<English>Celtiber Temple</English>
+		<German>
+			<Text>Keltiberischer Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PAGAN_TEMPLE</Tag>
+		<English>Pagan Temple</English>
+		<German>
+			<Text>Pagan-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARABIAN_PAGAN_TEMPLE</Tag>
+		<English>Hubal Temple</English>
+		<German>
+			<Text>Hubal-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARMENIA_PAGAN_TEMPLE</Tag>
+		<English>Hetan Temple</English>
+		<German>
+			<Text>Hetan-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUSTRONESIA_PAGAN_TEMPLE</Tag>
+		<English>Punden Berundak</English>
+		<German>
+			<Text>Pundenterrassen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STATUE_OF_ZEUS</Tag>
+		<English>Statue of Zeus</English>
+		<German>
+			<Text>Zeus-Statue des Phidias</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OLMEC_HEAD</Tag>
+		<English>Olmec Colossal Head</English>
+		<German>
+			<Text>Olmekische Kolossalk&#246;pfe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_THEATRE_OF_DIONYSUS</Tag>
+		<English>Theatre of Dionysus</English>
+		<German>
+			<Text>Dionysostheater</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TANK_FACTORY</Tag>
+		<English>Armament Industry</English>
+		<German>
+			<Text>Panzerfabrik</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOUVRE</Tag>
+		<English>Le Louvre</English>
+		<German>
+			<Text>Louvre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEMPEROPER</Tag>
+		<English>Semperoper</English>
+		<German>
+			<Text>Semperoper</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRADING_COMPANY</Tag>
+		<English>Trading Company</English>
+		<German>
+			<Text>Handelsgesellschaft</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARAVANHOUSE</Tag>
+		<English>Caravan House</English>
+		<German>
+			<Text>Karawanenhaus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARAVANHOUSE_TRANS</Tag>
+		<English>Caravanserai</English>
+		<German>
+			<Text>Karawanserei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARAVANHOUSE_PERSIA</Tag>
+		<English>Karvansaray</English>
+		<German>
+			<Text>Karvansaray</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIVE_FACTORY</Tag>
+		<English>Native Factory</English>
+		<German>
+			<Text>Einheimische Fabrik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PALISSADES</Tag>
+		<English>Palisade</English>
+		<German>
+			<Text>Palisaden</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WELL</Tag>
+		<English>Public Well</English>
+		<German>
+			<Text>Brunnen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARPENTER</Tag>
+		<English>Carpenter</English>
+		<German>
+			<Text>Zimmerei</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SAWMILL</Tag>
+		<English>Sawmill</English>
+		<German>
+			<Text>S&#228;gewerk</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARCHERY_RANGE</Tag>
+		<English>Archery Range</English>
+		<German>
+			<Text>Bogensch&#252;tzenschie&#223;stand</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PERSIAN_PALACE</Tag>
+		<English>Palace</English>
+		<German>
+			<Text>Ktesiphon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GERMAN_PALACE</Tag>
+		<English>Palace</English>
+		<German>
+			<Text>Reichstag</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SIEGE_WORKSHOP</Tag>
+		<English>Siege Workshop</English>
+		<German>
+			<Text>Belagerungswaffenwerkstatt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KONSERTHUSET</Tag>
+		<English>Konserthuset</English>
+		<German>
+			<Text>Konserthuset</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OPERA</Tag>
+		<English>Opera</English>
+		<German>
+			<Text>Oper</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AMERICAN_PALACE</Tag>
+		<English>Palace</English>
+		<German>
+			<Text>Das Wei&#223;e Haus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONSTABLE</Tag>
+		<English>Constable</English>
+		<German>
+			<Text>Constable</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FORTIFIED_KEEP</Tag>
+		<English>Fortified Keep</English>
+		<German>
+			<Text>Befestigte Burg</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HERALDIC_CHAMBER</Tag>
+		<English>Heraldic Chamber</English>
+		<German>
+			<Text>Heraldische Kammer</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CASTLEMIDEAST</Tag>
+		<English>Kasbah</English>
+		<German>
+			<Text>Kasbah</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CASTLEEUROPA</Tag>
+		<English>European Castle</English>
+		<German>
+			<Text>Europ&#228;isches Schloss</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CASTLE_INCA</Tag>
+		<English>Pucara</English>
+		<German>
+			<Text>Pucar&#225;</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CASTLE_GREECE</Tag>
+		<English>Acropolis</English>
+		<German>
+			<Text>Akropolis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCALA</Tag>
+		<English>Teatro alla Scala</English>
+		<German>
+			<Text>Teatro alla Scala</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GLOBE_THEATRE_JAPAN</Tag>
+		<English>Minami-za</English>
+		<German>
+			<Text>Minami-za</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CINEMA</Tag>
+		<English>Cinema</English>
+		<German>
+			<Text>Kino</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROPAGANDA</Tag>
+		<English>Propaganda Tower</English>
+		<German>
+			<Text>Propagandaturm</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PRINTING_PRESS</Tag>
+		<English>Print Shop</English>
+		<German>
+			<Text>Druckerei</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NEWSPAPER</Tag>
+		<English>Newspaper</English>
+		<German>
+			<Text>Zeitungsverlag</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TVSTATION</Tag>
+		<English>TV Station</English>
+		<German>
+			<Text>Fernsehstation</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELEPHANT_STABLE</Tag>
+		<English>Large Stable</English>
+		<German>
+			<Text>Gro&#223;er Stall</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ROYALALBERTHALL</Tag>
+		<English>Royal Albert Hall</English>
+		<German>
+			<Text>Royal Albert Hall</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NYLIBRARY</Tag>
+		<English>N.Y Public Library</English>
+		<German>
+			<Text>New York Public Library</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GOETHEANUM</Tag>
+		<English>Goetheanum</English>
+		<German>
+			<Text>Goetheanum</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_ZIMBABWE</Tag>
+		<English>Great Zimbabwe</English>
+		<German>
+			<Text>Gro&#223;-Simbabwe</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MACCHU_PICCHU</Tag>
+		<English>Macchu Picchu</English>
+		<German>
+			<Text>Macchu Picchu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MUSEO_DEL_PRADO</Tag>
+		<English>Museo del Prado</English>
+		<German>
+			<Text>Museo del Prado</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PORCELAIN_POWER</Tag>
+		<English>Porcelain Tower</English>
+		<German>
+			<Text>Porzellan-Turm von Nanjing</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHAPULTEPEC</Tag>
+		<English>Chapultepec Castle</English>
+		<German>
+			<Text>Schloss Chapultepec</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TOKYO_NATIONAL_MUSEUM</Tag>
+		<English>Tokyo National Museum</English>
+		<German>
+			<Text>Nationalmuseum Tokio</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALKHAZNEH</Tag>
+		<English>Al Khazneh</English>
+		<German>
+			<Text>Khazne al-Firaun</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOLE_ANTONELLIANA</Tag>
+		<English>Mole Antonelliana</English>
+		<German>
+			<Text>Mole Antonelliana</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KOREA_FOLK_MUSEUM</Tag>
+		<English>National Folk Museum</English>
+		<German>
+			<Text>National Folk Museum of Korea</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SLAVE_MARKET</Tag>
+		<English>Slave Market</English>
+		<German>
+			<Text>Sklavenmarkt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_THERMALBAD_ATRIUM</Tag>
+		<English>Thermae</English>
+		<German>
+			<Text>Therme</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_THERMALBAD_GIEBEL</Tag>
+		<English>Balaneia</English>
+		<German>
+			<Text>Balaneia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SENTO</Tag>
+		<English>Sento</English>
+		<German>
+			<Text>Sento</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BATH_AFRIKA</Tag>
+		<English>African Bath</English>
+		<German>
+			<Text>Afrikanisches Badehaus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BATH_BERBER</Tag>
+		<English>Berber Bath</English>
+		<German>
+			<Text>Berberisches Badehaus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BATH_EUROPE</Tag>
+		<English>Bath House</English>
+		<German>
+			<Text>Badehaus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BATH_ORIENT</Tag>
+		<English>Middle-East Bath</English>
+		<German>
+			<Text>Mittel&#246;stliches Badehaus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BATH_SOUTH_AMERIKA</Tag>
+		<English>Temazcal</English>
+		<German>
+			<Text>Temazcal</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BUDDHA</Tag>
+		<English>Seated Buddha Statue</English>
+		<German>
+			<Text>Sitzender Buddha aus Gandhara</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BUDDHA_JAPAN</Tag>
+		<English>Daibutsu</English>
+		<German>
+			<Text>Daibutsu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ABUSIMBEL</Tag>
+		<English>Abu Simbel Temples</English>
+		<German>
+			<Text>Tempel von Abu Simbel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_XIAN</Tag>
+		<English>Terracotta Army</English>
+		<German>
+			<Text>Mausoleum Qin Shihuangdis</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ULANBATAAR_OPERA</Tag>
+		<English>Ulaanbataar State Opera</English>
+		<German>
+			<Text>Nationales akademisches Theater der Mongolei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOSQUE_OF_KAIROUAN</Tag>
+		<English>Mosque of Kairouan</English>
+		<German>
+			<Text>Zentralmoschee Kairouan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_5_YEARS_PLAN1</Tag>
+		<English>Five-Year Plan</English>
+		<German>
+			<Text>5-Jahres-Plan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_5_YEARS_PLAN2</Tag>
+		<English>Five-Year Plan</English>
+		<German>
+			<Text>5-Jahres-Plan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FUSIONPLANT</Tag>
+		<English>ITER</English>
+		<German>
+			<Text>ITER</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLUE_MOSQUE</Tag>
+		<English>Sultanahmet Camii</English>
+		<German>
+			<Text>Sultan-Ahmed-Moschee</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCOTLAND_YARD</Tag>
+		<English>Police Headquarters</English>
+		<German>
+			<Text>Polizeipr&#228;sidium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITY_CLOCK</Tag>
+		<English>Clock Tower</English>
+		<German>
+			<Text>Turmuhr</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GAS_PLANT</Tag>
+		<English>Gas Plant</English>
+		<German>
+			<Text>Gaskraftwerk</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STORYTELLER</Tag>
+		<English>Storyteller Circle</English>
+		<German>
+			<Text>Geschichtenerz&#228;hlerh&#252;tte</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELDER_HUT</Tag>
+		<English>Elder's Hut</English>
+		<German>
+			<Text>&#196;ltestenh&#252;tte</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARSENAL</Tag>
+		<English>Arsenal</English>
+		<German>
+			<Text>Arsenal</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAIWAN_MILITARY_COLONY</Tag>
+		<English>Military Colony</English>
+		<German>
+			<Text>Milit&#228;rkolonie</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GLASSWORK</Tag>
+		<English>Glasswork</English>
+		<German>
+			<Text>Glaserei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GAZPROM</Tag>
+		<English>GazProm</English>
+		<German>
+			<Text>Gazprom</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DIOCESE</Tag>
+		<English>Monastic Order</English>
+		<German>
+			<Text>M&#246;nchsorden</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CLINIC</Tag>
+		<English>Clinic</English>
+		<German>
+			<Text>Klinik</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLETCHLEY_PARK</Tag>
+		<English>Bletchley Park</English>
+		<German>
+			<Text>Bletchley Park</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAYOR</Tag>
+		<English>Mayor's Office</English>
+		<German>
+			<Text>B&#252;rgermeisteramt</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEJMIK</Tag>
+		<English>Sejmik</English>
+		<German>
+			<Text>Sejmik</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BRONZEFORGE</Tag>
+		<English>Bronze Smith</English>
+		<German>
+			<Text>Bronzeschmiede</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_POTTERY_SHOP</Tag>
+		<English>Potter's Workshop</English>
+		<German>
+			<Text>T&#246;pferei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARTER</Tag>
+		<English>Warehouse</English>
+		<German>
+			<Text>Lagerschuppen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TIPI</Tag>
+		<English>Tipi</English>
+		<German>
+			<Text>Tipi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNTER</Tag>
+		<English>Hunter's Cabin</English>
+		<German>
+			<Text>J&#228;gerh&#252;tte</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNTER_SIBERIA</Tag>
+		<English>Hunter's Grounds</English>
+		<German>
+			<Text>Jagdh&#252;tte</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SMOKEHOUSE</Tag>
+		<English>Smokehouse</English>
+		<German>
+			<Text>R&#228;ucherei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CAGE</Tag>
+		<English>Mob Justice</English>
+		<German>
+			<Text>Lynchjustiz</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_QUANTUM_THEORY</Tag>
+		<English>Quantum Theory</English>
+		<German>
+			<Text>Quantentheorie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FACTORY</Tag>
+		<English>Machine Tools Factory</English>
+		<German>
+			<Text>Werkzeugmaschinenfabrik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WORKSHOP</Tag>
+		<English>Workshop</English>
+		<German>
+			<Text>Werkstatt</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANUFACTORY</Tag>
+		<English>Manufactory</English>
+		<German>
+			<Text>Fabrik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FURNITURE_FACTORY</Tag>
+		<English>Furniture Factory</English>
+		<German>
+			<Text>M&#246;belfabrik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CANNED_FOOD_FACTORY</Tag>
+		<English>Canned Food Factory</English>
+		<German>
+			<Text>Konservenfabrik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_POWDER_MILL</Tag>
+		<English>Powder Mill</English>
+		<German>
+			<Text>Pulverm&#252;hle</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FIREARMS_FACTORY</Tag>
+		<English>Firearms Factory</English>
+		<German>
+			<Text>Feuerwaffenfabrik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FIREARMS_FACTORY2</Tag>
+		<English>War Factory</English>
+		<German>
+			<Text>Kriegsfabrik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FIREARMS_FACTORY3</Tag>
+		<English>Arms Manufacturer</English>
+		<German>
+			<Text>Waffenhersteller</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARTILLERY_YARD</Tag>
+		<English>Artillery Yard</English>
+		<German>
+			<Text>Artilleriemontagewerk</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FERTILIZER_FACTORY</Tag>
+		<English>Fertilizer Factory</English>
+		<German>
+			<Text>D&#252;ngemittelfabrik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OIL_REFINERY</Tag>
+		<English>Oil Refinery</English>
+		<German>
+			<Text>&#214;lraffinerie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELECTRIC_GEAR_FACTORY</Tag>
+		<English>Electric Gear Factory</English>
+		<German>
+			<Text>Zahnradfabrik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENRICHMENT_FACILITY</Tag>
+		<English>Enrichment Facility</English>
+		<German>
+			<Text>Urananreicherungsanlage</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHEMICAL_PLANT</Tag>
+		<English>Chemical Plant</English>
+		<German>
+			<Text>Chemiefabrik</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELECTRONICS_FACILITY</Tag>
+		<English>Electronics Facility</English>
+		<German>
+			<Text>Elektronikwerk</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONSUMER_INDUSTRY</Tag>
+		<English>Consumer Industry</English>
+		<German>
+			<Text>Konsumg&#252;terfabrik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ROCKET_ASSEMBLY_PLANT</Tag>
+		<English>Rocket Assembly Plant</English>
+		<German>
+			<Text>Raketenmontagewerk</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TEXTILE_MILL1</Tag>
+		<English>Woollen Mill</English>
+		<German>
+			<Text>Wollm&#252;hle</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TEXTILE_MILL2</Tag>
+		<English>Cotton Mill</English>
+		<German>
+			<Text>Baumwollm&#252;hle</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RETAIL</Tag>
+		<English>Retail Store</English>
+		<German>
+			<Text>Gesch&#228;ft</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE</Tag>
+		<English>Agronomy Station</English>
+		<German>
+			<Text>Landwirtschaftliche Genossenschaft</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PATENT_BUREAU</Tag>
+		<English>National Patent Office</English>
+		<German>
+			<Text>Patentamt</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SHIPYARD</Tag>
+		<English>Shipyard</English>
+		<German>
+			<Text>Werft</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INDUSTRIAL_SHIPYARD</Tag>
+		<English>Industrial Shipyard</English>
+		<German>
+			<Text>Mechanische Werft</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELECTRIC_SUBSTATION</Tag>
+		<English>Electric Substation</English>
+		<German>
+			<Text>Umspannwerk</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE</Tag>
+		<English>City Square</English>
+		<German>
+			<Text>Stadtplatz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE_EGYPT</Tag>
+		<English>Egyptian City Square</English>
+		<German>
+			<Text>&#196;gyptischer Stadtplatz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FASHION</Tag>
+		<English>Designer Outlet</English>
+		<German>
+			<Text>Modegesch&#228;ft</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_JEWEL</Tag>
+		<English>Jeweler</English>
+		<German>
+			<Text>Juweliergesch&#228;ft</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAILOR</Tag>
+		<English>Tailor</English>
+		<German>
+			<Text>Schneiderei</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARPET_WORKSHOP</Tag>
+		<English>Carpet Workshop</English>
+		<German>
+			<Text>Teppichwerkstatt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DISTILLERY</Tag>
+		<English>Rum Distillery</English>
+		<German>
+			<Text>Rumbrennerei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DISTILLERY2</Tag>
+		<English>Brandy Distillery</English>
+		<German>
+			<Text>Weinbrandbrennerei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DISTILLERY3</Tag>
+		<English>Vodka Distillery</English>
+		<German>
+			<Text>Wodkabrennerei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANOR</Tag>
+		<English>Manor</English>
+		<German>
+			<Text>Gutshof</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FAZENDA</Tag>
+		<English>Fazenda</English>
+		<German>
+			<Text>Fazenda</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HACIENDA</Tag>
+		<English>Hacienda</English>
+		<German>
+			<Text>Hazienda</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STABLE_NATIVE_NORTH</Tag>
+		<English>Natural Pasture</English>
+		<German>
+			<Text>Nat&#252;rliche Weide</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AB_ANBAR</Tag>
+		<English>Ab Anbar</English>
+		<German>
+			<Text>Ab Anbar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MILITARY_AIRPORT</Tag>
+		<English>Airbase</English>
+		<German>
+			<Text>Luftwaffenst&#252;tzpunkt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GHALL</Tag>
+		<English>Guild Hall</English>
+		<German>
+			<Text>Zunfthaus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DASKAPITAL</Tag>
+		<English>Das Kapital</English>
+		<German>
+			<Text>Das Kapital</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRADE_FAIR</Tag>
+		<English>Trade Fair</English>
+		<German>
+			<Text>Messe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RAILSTATION</Tag>
+		<English>Railway Station</English>
+		<German>
+			<Text>Bahnhof</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MONT_ST_MICHEL</Tag>
+		<English>Mont Saint Michel</English>
+		<German>
+			<Text>Le Mont-Saint-Michel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLAST</Tag>
+		<English>Blast Furnace</English>
+		<German>
+			<Text>Hochofen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCHOOL</Tag>
+		<English>School</English>
+		<German>
+			<Text>Schule</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCHOOL_AZTEC</Tag>
+		<English>Calmecac</English>
+		<German>
+			<Text>Calmecac</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>										  
+		<Tag>TXT_KEY_BUILDING_MINMETRIC</Tag>
+		<English>Metric System</English>
+		<German>
+			<Text>Metrisches Einheitensystem</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MIN_PUBLIC_FINANCE</Tag>
+		<English>Ministry of Public Finance</English>
+		<German>
+			<Text>Bundesfinanzministerium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINTOURISM</Tag>
+		<English>Ministry of Tourism</English>
+		<German>
+			<Text>Tourismusministerium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINDEFENCE</Tag>
+		<English>Ministry of Defence</English>
+		<German>
+			<Text>Verteidigungsministerium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINAGRICULTURE</Tag>
+		<English>Ministry of Agriculture</English>
+		<German>
+			<Text>Landwirtschaftsministerium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINFINANCE</Tag>
+		<English>Ministry of Finance</English>
+		<German>
+			<Text>Finanzministerium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINTRADE</Tag>
+		<English>Ministry of Trade</English>
+		<German>
+			<Text>Handelsministerium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINCULTURE</Tag>
+		<English>Ministry of Culture</English>
+		<German>
+			<Text>Kultusministerium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINADMIRALTY</Tag>
+		<English>Admiralty</English>
+		<German>
+			<Text>Admiralit&#228;t</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINEDUCATION</Tag>
+		<English>Ministry of Education</English>
+		<German>
+			<Text>Bildungsministerium</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINSCIENCES</Tag>
+		<English>Ministry of Sciences and Technologies</English>
+		<German>
+			<Text>Ministerium f&#252;r Wissenschaft und Technologie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINHEALTHCARE</Tag>
+		<English>Ministry of Healthcare</English>
+		<German>
+			<Text>Gesundheitsministerium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINLABOR</Tag>
+		<English>Ministry of Labor</English>
+		<German>
+			<Text>Arbeitsministerium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINREGIONS</Tag>
+		<English>Ministry of Regional Development</English>
+		<German>
+			<Text>Ministerium f&#252;r Regionalentwicklung</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINJUSTICE</Tag>
+		<English>Ministry of Justice</English>
+		<German>
+			<Text>Justizministerium</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COLOSSEUM1</Tag>
+		<English>Colosseum</English>
+		<German>
+			<Text>Kolosseum</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HANSA</Tag>
+		<English>Hanseatic League</English>
+		<German>
+			<Text>Hanse</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BIGBEN</Tag>
+		<English>Big Ben</English>
+		<German>
+			<Text>Big Ben</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENTIFIC_MANAGEMENT</Tag>
+		<English>Limited Liability Law</English>
+		<German>
+			<Text>Gesetz zur Beschr&#228;nkten Haftung</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOCIAL_GUARANTEES</Tag>
+		<English>Social Guarantees</English>
+		<German>
+      <Text>Soziale Sicherheit</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AGRICULTURAL_SUBSIDIES</Tag>
+		<English>Collective Farming</English>
+		<German>
+			<Text>Agrarsubventionen</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCK</Tag>
+		<English>Fishing Docks</English>
+		<German>
+			<Text>Angelsteg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_ZOROASTRIAN</Tag>
+		<English>Adur Farnbag</English>
+		<German>
+			<Text>Adur Farnbag</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_ISLAM</Tag>
+		<English>Kaaba</English>
+		<German>
+			<Text>Kaaba</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_ISLAM2</Tag>
+		<English>Haram esh-Sharif</English>
+		<German>
+			<Text>Haram esh-Sharif</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_HINDU</Tag>
+		<English>Kamakhya Temple</English>
+		<German>
+			<Text>Kamakhya-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_BUDDHIST</Tag>
+		<English>Pha That Luang</English>
+		<German>
+			<Text>Pha That Luang</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_TAOIST</Tag>
+		<English>Temple of Heaven</English>
+		<German>
+			<Text>Himmelstempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_JEWISH</Tag>
+		<English>Qumran</English>
+		<German>
+			<Text>Qumran</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_CHRISTIAN</Tag>
+		<English>Mont St. Michel</English>
+		<German>
+			<Text>Le Mont-Saint-Michel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_ORTHODOX_MOUNT_ATHOS</Tag>
+		<English>Mount Athos</English>
+		<German>
+			<Text>Athos</Text>
+			<Gender>Neuter</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RABBINIC_SCHOOL</Tag>
+		<English>Yeshiva</English>
+		<German>
+			<Text>Jeschiwa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PERUN_TEMPLE</Tag>
+		<English>Perun Sanctuary</English>
+		<German>
+			<Text>Perun-Heiligtum</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DESAL</Tag>
+		<English>Desalination Plant</English>
+		<German>
+			<Text>Meerwasserentsalzungsanlage</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WEAVER</Tag>
+		<English>Weaver's Shop</English>
+		<German>
+			<Text>Weberei</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHEOMSEONDAE</Tag>
+		<English>Cheomseongdae</English>
+		<German>
+			<Text>Cheomseongdae-Observatorium</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TARIFF</Tag>
+		<English>Import Tariffs</English>
+		<German>
+			<Text>Zollgeb&#228;ude</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GRAND_ARSENAL</Tag>
+		<English>Grand Arsenal</English>
+		<German>
+			<Text>Gro&#223;es Arsenal</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CRYSTAL_PALACE</Tag>
+		<English>Crystal Palace</English>
+		<German>
+			<Text>Kristallpalast</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SYNTHETIC_OIL_PLANT</Tag>
+		<English>Synthetic Oil Plant</English>
+		<German>
+			<Text>Leunawerke</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NAVAL_WORKSHOP</Tag>
+		<English>Naval Workshop</English>
+		<German>
+			<Text>Flottenzubeh&#246;rmanufaktur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FEUDAL_LAND_TENURE</Tag>
+		<English>Feudal Land Tenure</English>
+		<German>
+			<Text>Gutsherrschaft</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENLIGHTENED_ABSOLUTISM</Tag>
+		<English>Enlightened Absolutism</English>
+		<German>
+			<Text>Aufgekl&#228;rter Absolutismus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONSTITUTIONAL_MONARCHY</Tag>
+		<English>Constitutional Monarchy</English>
+		<German>
+			<Text>Konstitutionelle Monarchie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GONDESHAPUR</Tag>
+		<English>Gondeshapur</English>
+		<German>
+			<Text>Akademie von Gundischapur</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ASKLEPIEION</Tag>
+		<English>Asklepieion</English>
+		<German>
+			<Text>Asklepieion</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_SHRINE_MEDITERRANEAN</Tag>
+		<English>The Pantheon</English>
+		<German>
+			<Text>Pantheon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_BAMYAN_STATUE</Tag>
+		<English>Bamyan Buddha Statues</English>
+		<German>
+			<Text>Buddha-Statuen von Bamiyan</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_SCHOOL_OF_CONFUCIUS</Tag>
+		<English>Jixia Academy</English>
+		<German>
+			<Text>Jixia-Akademie</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_ARC_OF_THE_COVENANT</Tag>
+		<English>Ark of the Covenant</English>
+		<German>
+			<Text>Bundeslade</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_VIJAY_STAMBHA</Tag>
+		<English>Vijay Stambha</English>
+		<German>
+			<Text>Vijaya Stambha</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_ST_PETER_CATHEDRAL</Tag>
+		<English>St. Peter's Cathedral</English>
+		<German>
+			<Text>Petersdom</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPHINX</Tag>
+		<English>Sphinx</English>
+		<German>
+			<Text>Sphinx</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUMPY</Tag>
+		<English>Humpy</English>
+		<German>
+			<Text>Humpy</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BORA_RING</Tag>
+		<English>Bora Ring</English>
+		<German>Boraplatz</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NORTH_TOTEM</Tag>
+		<English>North Totem</English>
+		<German>Inuksuk</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WAR_EAGLE_POLE</Tag>
+		<English>War Eagle Pole</English>
+		<German>Algonquin-Totempfahl</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SACRED_POLE</Tag>
+		<English>Sacred Pole</English>
+		<German>Apache-Totempfahl</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TOTEM_POLE</Tag>
+		<English>Totem Pole</English>
+		<German>Cherokee-Totempfahl</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPIRIT_POLE</Tag>
+		<English>Spirit Pole</English>
+		<German>Irokesen-Totempfahl</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DRYER</Tag>
+		<English>Smoke Signals</English>
+		<German>Rauchzeichen-Lagerplatz</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LONGHOUSE</Tag>
+		<English>Longhouse</English>
+		<German>Langhaus</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FISHERY</Tag>
+		<English>Fishery</English>
+		<German>Angelplatz</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TOLL_HOUSE</Tag>
+		<English>Toll House</English>
+		<German>Mautstation</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAX_FARMING</Tag>
+		<English>Tax Office</English>
+		<German>Finanzamt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MARAE</Tag>
+		<English>Marae</English>
+		<German>Marae</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNGARY_HERO_SQUARE</Tag>
+		<English>Heroes' Square</English>
+		<German>Heldenplatz</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNGARY_VEGVAR</Tag>
+		<English>Vegvar</English>
+		<German>Grenzburg</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STABLE_HUN</Tag>
+		<English>Hunnic Stable</English>
+		<German>Hunnischer Stall</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIVE_ALTAR</Tag>
+		<English>Native Altar</English>
+		<German>Einheimischer Altar</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ABORIGINES_TEMPLE</Tag>
+		<English>Aborigine Shrine</English>
+		<German>Aborigine-Schrein</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TUPI_CAMP</Tag>
+		<English>Hunter's Camp</English>
+		<German>J&#228;gerlager</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARAWAK_CONUCOS</Tag>
+		<English>Conucos</English>
+		<German>Conuco</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARAWAK_BATEY</Tag>
+		<English>Batey</English>
+		<German>Batey</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PATAGONIAN_YAGHANSUA</Tag>
+		<English>Yaghansua</English>
+		<German>Y&#225;mana-Angelplatz</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NUBIAN_TEMPLE</Tag>
+		<English>Meroitic Necropolis</English>
+		<German>Nubische Pyramide</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NUBIAN_POTTER</Tag>
+		<English>Nubian Potter</English>
+		<German>Nubische T&#246;pferei</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ETHIOPIAN_JEWELLERY</Tag>
+		<English>Haymanot Jeweler</English>
+		<German>Haymanot-Juweliergesch&#228;ft</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BANTU_STRONGHOLD</Tag>
+		<English>Rammed Earth Stronghold</English>
+		<German>Stampflehm-Festung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BERBER_FOGGARA</Tag>
+		<English>Foggara</English>
+		<German>Qanat</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCK_POLYNESIA</Tag>
+		<English>Pearl Harbor</English>
+		<German>Pearl Harbor</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GRANARY_BARBARIAN</Tag>
+		<English>Tribal Granary</English>
+		<German>Stammeskornspeicher</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SMOKEHOUSE_BARBARIAN</Tag>
+		<English>Tribal Meat House</English>
+		<German>Stammesfleischhaus</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COLOSSEUM_BARBARIAN</Tag>
+		<English>Tribal Games</English>
+		<German>Stammesarena</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LIGHTHOUSE_BARBARIAN</Tag>
+		<English>Pirate Cove</English>
+		<German>Piratenbucht</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PALACE_MINOR</Tag>
+		<English>Tribal Hall</English>
+		<German>Stammeshalle</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINOR_COUNCIL</Tag>
+		<English>Elders' Council</English>
+		<German>&#196;ltestenrat</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PORCELAIN_WORKSHOP</Tag>
+		<English>Porcelain Workshop</English>
+		<German>Porzellanwerkstatt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STONECUTTER</Tag>
+		<English>Stonecutter</English>
+		<German>Steinmetzbetrieb</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BRICKWORK</Tag>
+		<English>Brick Kiln</English>
+		<German>Ziegelofen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CEMENT</Tag>
+		<English>Cement Factory</English>
+		<German>Zementfabrik</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WALLS_ISRAEL</Tag>
+		<English>Fortress</English>
+		<German>Masada</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ISRAELI_FORT</Tag>
+		<English>Judean Fortress</English>
+		<German>Hyrcania</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAVERN</Tag>
+		<English>Tavern</English>
+		<German>Taverne</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAVERN_JAPAN</Tag>
+		<English>Geisha House</English>
+		<German>Geisha-Haus</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BEERHALL</Tag>
+		<English>Beer Hall</English>
+		<German>Bierhalle</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAVERN_BARBARIAN</Tag>
+		<English>Feast Hall</English>
+		<German>Festsaal</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALAMUT</Tag>
+		<English>Fortress Alamut</English>
+		<German>Alamut</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ISHTAR</Tag>
+		<English>Ishtar Gate</English>
+		<German>Ischtar-Tor</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KGB</Tag>
+		<English>Lubyanka</English>
+		<German>Lubjanka</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SAKURA_GARDENS</Tag>
+		<English>Sakura Garden</English>
+		<German>Sakura-Garten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COLOSSEUM_JAPAN</Tag>
+		<English>Dohyo</English>
+		<German>Dohyo</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STADIUM</Tag>
+		<English>Stadium</English>
+		<German>Stadion</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STADIUM_AMERICA</Tag>
+		<English>Baseball Stadium</English>
+		<German>Baseball-Stadion</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STADIUM_MAYA</Tag>
+		<English>Football Stadium</English>
+		<German>Ballspielplatz</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BANYA</Tag>
+		<English>Banya</English>
+		<German>Banja</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SAUNA</Tag>
+		<English>Sauna</English>
+		<German>Sauna</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CATTLE_RANCH</Tag>
+		<English>Ranch</English>
+		<German>Ranch</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_TEMPLE</Tag>
+		<English>Solar Cult Temple</English>
+		<German>
+			<Text>Sonnenkulttempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_TEMPLE_ATENISM</Tag>
+		<English>Atenist Temple</English>
+		<German>
+			<Text>Atenistischer Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_TEMPLE_JAPAN</Tag>
+		<English>Amaterasu Temple</English>
+		<German>
+			<Text>Amaterasu-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_CATHEDRAL</Tag>
+		<English>Solar Cult Great Temple</English>
+		<German>
+			<Text>Gro&#223;er Sonnenkulttempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_CATHEDRAL_ATENISM</Tag>
+		<English>Atenist Great Temple</English>
+		<German>
+			<Text>Gro&#223;er atenistischer Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_CATHEDRAL_JAPAN</Tag>
+		<English>Amaterasu Ichinomiya</English>
+		<German>
+			<Text>Ichi-no-miya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_MONASTERY</Tag>
+		<English>Solar Cult Monastery</English>
+		<German>
+			<Text>Sonnenkultkloster</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_MONASTERY_ATENISM</Tag>
+		<English>Atenist Necropolis</English>
+		<German>
+			<Text>Atenistische Nekropole</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_MONASTERY_JAPAN</Tag>
+		<English>Amaterasu Honden</English>
+		<German>
+			<Text>Honden</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_SHRINE</Tag>
+		<English>Pyramid of the Sun</English>
+		<German>
+			<Text>Sonnenpyramide</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_SHRINE_ATENISM</Tag>
+		<English>Amarna Temple</English>
+		<German>
+			<Text>Amarna-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_SHRINE_JAPAN</Tag>
+		<English>Atsuta Shrine</English>
+		<German>
+			<Text>Atsuta-jingu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_SOLAR_CULT</Tag>
+		<English>Platform of the Eagles and the Jaguars</English>
+		<German>
+			<Text>Plattform der Adler und Jaguare</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_SOLAR_CULT_ATENISM</Tag>
+		<English>Temple of Karnak</English>
+		<German>
+			<Text>Karnak-Tempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_SOLAR_CULT_JAPAN</Tag>
+		<English>Ise Grand Shrine</English>
+		<German>
+			<Text>Ise-jingu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_SOLAR_CULT</Tag>
+		<English>Pyramid of the Moon</English>
+		<German>
+			<Text>Mondpyramide</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_SOLAR_CULT_ATENISM</Tag>
+		<English>Valley of the Kings</English>
+		<German>
+			<Text>Tal der K&#246;nige</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_SOLAR_CULT_JAPAN</Tag>
+		<English>Himeji Castle</English>
+		<German>
+			<Text>Burg Himeji</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_CAMP</Tag>
+		<English>Barbarian Camp</English>
+		<German>
+			<Text>Barbarenlager</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOCAL_BRONZE</Tag>
+		<English>Local Copper Sources</English>
+		<German>
+			<Text>Lokale Kupferquellen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOCAL_HORSES</Tag>
+		<English>Local Horse Breeders</English>
+		<German>
+			<Text>Lokale Pferdezüchter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOCAL_IRON</Tag>
+		<English>Local Iron Mines</English>
+		<German>
+			<Text>Lokale Eisenminen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOCAL_COAL</Tag>
+		<English>Local Coal Mines</English>
+		<German>
+			<Text>Lokale Kohlebergwerke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOCAL_SULFUR</Tag>
+		<English>Local Sulfur Sources</English>
+		<German>
+			<Text>Lokale Schwefelquellen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORTHODOX_MONASTERY</Tag>
+		<English>Orthodox Monastery</English>
+		<German>
+			<Text>Orthodoxes Kloster</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORTHODOX_TEMPLE</Tag>
+		<English>Orthodox Church</English>
+		<German>
+			<Text>Orthodoxe Kirche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORTHODOX_CATHEDRAL</Tag>
+		<English>Orthodox Cathedral</English>
+		<German>
+			<Text>Orthodoxe Kathedrale</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INDIAN_SRENI</Tag>
+		<English>Sreni</English>
+		<German>
+			<Text>Sreni-Haus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LIBRARY_ARMENIA</Tag>
+		<English>Scriptorium</English>
+		<German>
+			<Text>Skriptorium</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LIBRARY_BARBARIAN</Tag>
+		<English>Foreign Knowledge</English>
+		<German>
+			<Text>Wissenshalle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TEMPLAR_HOUSE</Tag>
+		<English>Military Order House</English>
+		<German>
+			<Text>Milit&#228;risches Ordenshaus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARONY</Tag>
+		<English>Baronial Fief</English>
+		<German>
+			<Text>Baronat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FORTIFICATION</Tag>
+		<English>Fortification</English>
+		<German>
+			<Text>Befestigung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FORTIFIED_MISSION</Tag>
+		<English>Fortified Mission</English>
+		<German>
+			<Text>Texanisches Fort</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HARBOR_DRAVIDIAN</Tag>
+		<English>Payanam</English>
+		<German>
+			<Text>Payanam</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RIVER_PORT</Tag>
+		<English>River Dock</English>
+		<German>
+			<Text>Flusssteg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARRACKS_DRAVIDIAN</Tag>
+		<English>Nadapu</English>
+		<German>
+			<Text>Nadapu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOUK</Tag>
+		<English>Souq</English>
+		<German>
+			<Text>Souq</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BAZAAR</Tag>
+		<English>Bazaar</English>
+		<German>
+			<Text>Basar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AGRA_FORT</Tag>
+		<English>Agra Fort</English>
+		<German>
+			<Text>Rotes Fort</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANSABDAR</Tag>
+		<English>Mansabdar</English>
+		<German>
+			<Text>Mansab-Waffenkammer</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SUPERMARKET_ASIA</Tag>
+		<English>Grocery Store</English>
+		<German>
+			<Text>Lebensmittelgesch&#228;ft</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BELEM_TOWER</Tag>
+		<English>Belem Tower</English>
+		<German>
+			<Text>Turm von Bel&#233;m</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_VIKING</Tag>
+		<English>The Eddas</English>
+		<German>
+			<Text>Edda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_TRANSOXIANA</Tag>
+		<English>Epic of Manas</English>
+		<German>
+			<Text>Manas-Epos</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_MONGOL</Tag>
+		<English>Epic of King Gesar</English>
+		<German>
+			<Text>Gesar-Epos</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_KOREA</Tag>
+		<English>Gyuwon Sahwa</English>
+		<German>
+			<Text>Gyuwon Sahwa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_PERSIA</Tag>
+		<English>Rubaiyat of Omar Khayyam</English>
+		<German>
+			<Text>Die Rubaiyats von Omar Khayyam</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_SOUTH_CHINA</Tag>
+		<English>Water Margin</English>
+		<German>
+			<Text>Die R&#228;uber vom Liang-Schan-Moor</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_ENGLAND</Tag>
+		<English>Beowulf</English>
+		<German>
+			<Text>Beowulf</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_CELT</Tag>
+		<English>The Brus</English>
+		<German>
+			<Text>The Brus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_FRANCE</Tag>
+		<English>Song of Roland</English>
+		<German>
+			<Text>Rolandslied</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_GERMANY</Tag>
+		<English>Niebelungenlied</English>
+		<German>
+			<Text>Niebelungenlied</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_RUSSIA</Tag>
+		<English>Tale of Igor's Campaign</English>
+		<German>
+			<Text>Igorlied</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_POLAND</Tag>
+		<English>Ogniem i Mieczem</English>
+		<German>
+			<Text>Mit Feuer und Schwert</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_HUNGARY</Tag>
+		<English>Toldi Trilogy</English>
+		<German>
+			<Text>Toldi-Trilogie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_ARMENIA</Tag>
+		<English>Sasna Dzer</English>
+		<German>
+			<Text>Sasna Dzer</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_BABYLON</Tag>
+		<English>Epic of Gilgamesh</English>
+		<German>
+			<Text>Gilgamesch-Epos</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_EGYPT</Tag>
+		<English>Sirat al-Zahir Baibars</English>
+		<German>
+			<Text>Sirat al-Zahir Baibars</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_MALI</Tag>
+		<English>Epic of Sundiata</English>
+		<German>
+			<Text>Sundiata-Epos</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_INDIA</Tag>
+		<English>Mahabharata</English>
+		<German>
+			<Text>Mahabharata</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_AUSTRONESIA</Tag>
+		<English>Kakawin Ramayana</English>
+		<German>
+			<Text>Kakawin Ramayana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_JAPAN</Tag>
+		<English>Heike Monogatari</English>
+		<German>
+			<Text>Heike Monogatari</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_ROME</Tag>
+		<English>Aeneid</English>
+		<German>
+			<Text>Aeneis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_GREECE</Tag>
+		<English>Iliad</English>
+		<German>
+			<Text>Ilias</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_SPAIN</Tag>
+		<English>Cantar de Mio Cid</English>
+		<German>
+			<Text>Cantar de Mio Cid</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_CHINA</Tag>
+		<English>Romance of the Three Kingdoms</English>
+		<German>
+			<Text>Die Geschichte der Drei Reiche</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_AMERICA</Tag>
+		<English>Moby-Dick</English>
+		<German>
+			<Text>Moby-Dick</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_ZULU</Tag>
+		<English>Emperor Shaka the Great</English>
+		<German>
+			<Text>Emperor Shaka the Great</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_MAYA</Tag>
+		<English>Popol Vuh</English>
+		<German>
+			<Text>Popol Vuh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_PONTUS</Tag>
+		<English>Digenes Akritas</English>
+		<German>
+			<Text>Digenis Akritas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEROIC_EPIC_TURK</Tag>
+		<English>Osman's Dream</English>
+		<German>
+			<Text>Osman's Dream</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_ENGLAND</Tag>
+		<English>Paradise Lost</English>
+		<German>
+			<Text>Paradise Lost</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_TRANSOXIANA</Tag>
+		<English>Nasreddin</English>
+		<German>
+			<Text>Nasreddin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_GERMAN</Tag>
+		<English>Faust</English>
+		<German>
+			<Text>Faust. Eine Trag&#246;die.</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_MALI</Tag>
+		<English>Tarikh al-Sudan</English>
+		<German>
+			<Text>Tarikh al-Sudan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_SOUTH_CHINA</Tag>
+		<English>Journey to the West</English>
+		<German>
+			<Text>Die Reise nach Westen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_CELT</Tag>
+		<English>Book of Taliesin</English>
+		<German>
+			<Text>Llyfr Taliesin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_TURK</Tag>
+		<English>Book of Dede Korkut</English>
+		<German>
+			<Text>Dede Korkut</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_INDIA</Tag>
+		<English>Ramayana</English>
+		<German>
+			<Text>Ramayana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_AUSTRONESIA</Tag>
+		<English>Kakawin Sutasoma</English>
+		<German>
+			<Text>Kakawin Sutasoma</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_JAPAN</Tag>
+		<English>Genji Monogatari</English>
+		<German>
+			<Text>Genji Monogatari</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_ROME</Tag>
+		<English>Divine Comedy</English>
+		<German>
+			<Text>G&#246;ttliche Kom&#246;die</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_GREECE</Tag>
+		<English>Odyssey</English>
+		<German>
+			<Text>Odyssey</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_POLAND</Tag>
+		<English>Pan Tadeusz</English>
+		<German>
+			<Text>Pan Tadeusz</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_HUNGARY</Tag>
+		<English>Gesta Hungarorum</English>
+		<German>
+			<Text>Gesta Hungarorum</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_FRANCE</Tag>
+		<English>Les Miserables</English>
+		<German>
+			<Text>Die Elenden</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_RUSSIA</Tag>
+		<English>War and Peace</English>
+		<German>
+			<Text>Krieg und Frieden</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_SPAIN</Tag>
+		<English>Don Quixote</English>
+		<German>
+			<Text>Don Quijote</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_VIKING</Tag>
+		<English>Gesta Danorum</English>
+		<German>
+			<Text>Gesta Danorum</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_FINLAND</Tag>
+		<English>Kalevala</English>
+		<German>
+			<Text>Kalevala</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_AMERICA</Tag>
+		<English>Grapes of Wrath</English>
+		<German>
+			<Text>Fr&#252;chte des Zorns</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_ETHIOPIA</Tag>
+		<English>Kebra Nagast</English>
+		<German>
+			<Text>Kebra Nagast</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_DRAVIDIAN</Tag>
+		<English>Five Great Epics</English>
+		<German>
+			<Text>F&#252;nf gro&#223;e Epen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_KHMER</Tag>
+		<English>Reamker</English>
+		<German>
+			<Text>Reamker</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_KOREA</Tag>
+		<English>Samguk Yusa</English>
+		<German>
+			<Text>Samguk Yusa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_ARABIA</Tag>
+		<English>Sirat Bani Hilal</English>
+		<German>
+			<Text>Sirat Bani Hilal</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_EGYPT</Tag>
+		<English>Story of Sinuhe</English>
+		<German>
+			<Text>Die Geschichte von Sinuhe</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_MONGOL</Tag>
+		<English>Secret History of the Mongols</English>
+		<German>
+			<Text>Die Geheime Geschichte der Mongolen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_PORTUGAL</Tag>
+		<English>Os Lusiadas</English>
+		<German>
+			<Text>Die Lusiaden</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_CHINA</Tag>
+		<English>Dream of the Red Chamber</English>
+		<German>
+			<Text>Der Traum der Roten Kammer</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_MAYA</Tag>
+		<English>Annals of the Cakchiquels</English>
+		<German>
+			<Text>Annalen der Cakchiquel</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MT_RUSHMORE_PORTUGAL</Tag>
+		<English>Padrao dos Descobrimentos</English>
+		<German>
+			<Text>Padr&#227;o dos Descobrimentos</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NUCLEAR_RESEARCH_FACILITY</Tag>
+		<English>Nuclear Research Facility</English>
+		<German>
+			<Text>Kernforschungsanlage</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NUCLEAR_EXPERTISE</Tag>
+		<English>Nuclear Expertise</English>
+		<German>
+			<Text>Nuklearwissen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GANESH_STATUE</Tag>
+		<English>Statue of Ganesh</English>
+		<German>
+			<Text>Ganesha-Statue</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NORTH_GOD_STATUE</Tag>
+		<English>Statue of Odin</English>
+		<German>
+			<Text>Odin-Statue</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHINESE_PROVINCIAL_GOVERNMENT</Tag>
+		<English>Provincial Government</English>
+		<German>
+			<Text>Landesregierung</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MUSEUM</Tag>
+		<English>National Art Gallery</English>
+		<German>
+			<Text>Nationale Kunstgalerie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HERMITAGE_GOL_GUMBAZ</Tag>
+		<English>Charminar</English>
+		<German>
+			<Text>Charminar</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_NERF</Tag>
+		<English>Scenario balancing: Reduced Military Production</English>
+		<German>
+			<Text>Ausgleichsszenario - Reduzierte Milit&#228;rproduktion</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CRUSADES_MONGOLS</Tag>
+		<English>Scenario balancing: the Steppes</English>
+		<German>
+			<Text>Ausgleichsszenario - Die Steppen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CRUSADES_EGYPT</Tag>
+		<English>Scenario balancing: Minor Kingdom</English>
+		<German>
+			<Text>Ausgleichsszenario</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DELUGE_OTTOMAN</Tag>
+		<English>Scenario balancing - Egypt Eyalet</English>
+		<German>
+			<Text>Ausgleichsszenario - &#196;gyptisches Ey&#226;let</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DELUGE_HABSBURG</Tag>
+		<English>Scenario balancing - Habsburg Colonial Empire</English>
+		<German>
+			<Text>Ausgleichsszenario - Habsburger Kolonialreich</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DELUGE_RUSSIA</Tag>
+		<English>Scenario balancing - Riches of the Urals</English>
+		<German>
+			<Text>Ausgleichsszenario - Reicht&#252;mer des Urals</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DELUGE_SWEDEN</Tag>
+		<English>Scenario balancing - Swedish Steel</English>
+		<German>
+			<Text>Ausgleichsszenario - Schwedischer Stahl</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DELUGE_PRUSSIA</Tag>
+		<English>Scenario balancing - General War Commissariat</English>
+		<German>
+			<Text>Ausgleichsszenario - Generalkriegskommissariat</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DELUGE_POLAND</Tag>
+		<English>Scenario balancing - Golden Liberty</English>
+		<German>
+			<Text>Ausgleichsszenario - Goldene Freiheit</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DELUGE_COSSACK</Tag>
+		<English>Scenario balancing - the Sich</English>
+		<German>
+			<Text>Ausgleichsszenario - Die Sitsch</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DELUGE_KNIGHTS</Tag>
+		<English>Scenario balancing - Order of St. John</English>
+		<German>
+			<Text>Ausgleichsszenario - Order of Saint John</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DELUGE_BARBAROSSA</Tag>
+		<English>Scenario balancing - Barbary Corsairs</English>
+		<German>
+			<Text>Ausgleichsszenario - Barbaresken-Korsaren</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DELUGE_VENICE</Tag>
+		<English>Scenario balancing - Mediterranean Trade</English>
+		<German>
+			<Text>Ausgleichsszenario - Mittelmeerhandel</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_MAUSOLEUM_ZOROASTRIAN</Tag>
+		<English>Hall of Hundred Columns</English>
+		<German>
+			<Text>Hundert-S&#228;ulen-Saal</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MT_RUSHMORE_PERSIA</Tag>
+		<English>Tomb of Cyrus</English>
+		<German>
+			<Text>Grabmal des Kyros</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_PERSIA</Tag>
+		<English>Shah Name</English>
+		<German>
+			<Text>Schahname</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_TEMPLE_MEDITERRANEAN</Tag>
+		<English>Sol Invictus Temple</English>
+		<German>
+			<Text>Tempel des Sol Invictus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_CATHEDRAL_MEDITERRANEAN</Tag>
+		<English>Sol Invictus Aedes</English>
+		<German>
+			<Text>Aedes des Sol Invictus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_MONASTERY_MEDITERRANEAN</Tag>
+		<English>Sol Invictus Basilica</English>
+		<German>
+			<Text>Basilika des Sol Invictus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_PLACE_SOLAR_CULT_MEDITERRANEAN</Tag>
+		<English>Trajan's Column</English>
+		<German>
+			<Text>Trajanss&#228;ule</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_SOLAR_CULT_MEDITERRANEAN</Tag>
+		<English>Sol Invictus Great Temple</English>
+		<German>
+			<Text>Gro&#223;er Tempel des Sol Invictus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_COMMUNITIES</Tag>
+		<English>Solar Cult Community</English>
+		<German>
+			<Text>Gemeinde des Sonnenkults</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT><TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_COMMUNITIES_ATENISM</Tag>
+		<English>Atenist Community</English>
+		<German>
+			<Text>Atenistische Gemeinde</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_COMMUNITIES_MEDITERRANEAN</Tag>
+		<English>Sol Invictus Community</English>
+		<German>
+			<Text>Gemeinde des Sol Invictus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOLAR_CULT_COMMUNITIES_JAPAN</Tag>
+		<English>Amaterasu Community</English>
+		<German>
+			<Text>Gemeinde des Amaterasu</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAOIST_COMMUNITIES</Tag>
+		<English>Taoist Community</English>
+		<German>
+			<Text>Taoistische Gemeinde</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_JEWISH_COMMUNITIES</Tag>
+		<English>Jewish Community</English>
+		<German>
+			<Text>J&#252;dische Gemeinde</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHRISTIAN_COMMUNITIES</Tag>
+		<English>Christian Community</English>
+		<German>
+			<Text>Christliche Gemeinde</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORTHODOX_COMMUNITIES</Tag>
+		<English>Orthodox Community</English>
+		<German>
+			<Text>Orthodoxe Gemeinde</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ISLAMIC_COMMUNITIES</Tag>
+		<English>Islamic Community</English>
+		<German>
+			<Text>Islamistische Gemeinde</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HINDU_COMMUNITIES</Tag>
+		<English>Hindu Community</English>
+		<German>
+			<Text>Hinduistische Gemeinde</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BUDDHIST_COMMUNITIES</Tag>
+		<English>Buddhist Community</English>
+		<German>
+			<Text>Buddhistische Gemeinde</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ZOROASTRIAN_COMMUNITIES</Tag>
+		<English>Zoroastrian Community</English>
+		<German>
+			<Text>Zoroastrische Gemeinde</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AGRICULTURAL_DEPOT</Tag>
+		<English>Agricultural Machine Depot</English>
+		<German>
+			<Text>Landwirtschaftsmaschinenlager</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SENATE</Tag>
+		<English>Senate</English>
+		<German>
+			<Text>Senat</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PARLIAMENT</Tag>
+		<English>Centralist Constitution</English>
+		<German>
+			<Text>Zentralistische Konstitution</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FEDERAL_PARLIAMENT</Tag>
+		<English>Federalist Constitution</English>
+		<German>
+			<Text>Bundeskonstitution</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SACERDOTAL_PALACE</Tag>
+		<English>Sacerdotal Palace</English>
+		<German>
+			<Text>Priesterpalast</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ISLAMIC_MONASTERY_2</Tag>
+		<English>Madrassa</English>
+		<German>
+			<Text>Madrasa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NORIA</Tag>
+		<English>Noria</English>
+		<German>
+			<Text>Noria</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONCERT_HALL</Tag>
+		<English>Concert Hall</English>
+		<German>
+			<Text>Konzerthalle</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CASTLE_HALYCH_VOLHYNIA</Tag>
+		<English>Stronghold</English>
+		<German>
+			<Text>Hochburg</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARSENAL_UKRAINE</Tag>
+		<English>Cossack Polk</English>
+		<German>
+			<Text>Kosakenkaserne</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_THE_MOTHERLAND_CALLS</Tag>
+		<English>Motherland Calls</English>
+		<German>
+			<Text>Mutter-Heimat-Statue</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAGNA_CARTA</Tag>
+		<English>Magna Carta</English>
+		<German>
+			<Text>Magna Carta</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOHENJO_DARO</Tag>
+		<English>Great Bath of Mohenjo-Daro</English>
+		<German>
+			<Text>Gro&#223;es Bad von Mohenjo-Daro</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NAZCA_LINES</Tag>
+		<English>Nazca Lines</English>
+		<German>
+			<Text>Nazca-Linien</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SHIPYARD_PONTUS</Tag>
+		<English>Pontus Shipyard</English>
+		<German>
+			<Text>Pontische Werft</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LABOR_CAMP</Tag>
+		<English>Labor Camp</English>
+		<German>
+			<Text>Arbeitslager</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IMPERIAL_CULT</Tag>
+		<English>Imperial Cult</English>
+		<German>
+			<Text>Kaiserkultstatue</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORKHON_STELE</Tag>
+		<English>Orkhon Stele</English>
+		<German>
+			<Text>Kul-Tigin-Monument</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EDICT_PILLAR</Tag>
+		<English>Edict Pillar</English>
+		<German>
+			<Text>Eiserne S&#228;ule</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BIXI</Tag>
+		<English>Bixi</English>
+		<German>
+			<Text>Bixi-Skulptur</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOCAL_AUTONOMY</Tag>
+		<English>Local Autonomy</English>
+		<German>
+			<Text>Kommunale Selbstverwaltung</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITY_STATE</Tag>
+		<English>City State</English>
+		<German>
+			<Text>Stadtstaat</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NOBLE_REPUBLIC</Tag>
+		<English>Noble Republic</English>
+		<German>
+			<Text>Kaufmannsrepublik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MERCHANT_REPUBLIC</Tag>
+		<English>Merchant Republic</English>
+		<German>
+			<Text>Handelsrepublik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANDATE_OF_HEAVEN</Tag>
+		<English>Mandate of Heaven</English>
+		<German>
+			<Text>Mandat des Himmels</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOCAL_BUREAUCRACY</Tag>
+		<English>Local Bureaucracy</English>
+		<German>
+			<Text>Lokale B&#252;rokratie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CENTRAL_BUREAUCRACY</Tag>
+		<English>Central Bureaucracy</English>
+		<German>
+			<Text>Zentrale B&#252;rokratie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_VENICE_CUSTOM_HOUSE</Tag>
+		<English>Merchant House</English>
+		<German>
+			<Text>Kaufmannshaus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OVOO</Tag>
+		<English>Ovoo</English>
+		<German>
+			<Text>Obo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OBSERVATORY_TRANSOXIANA</Tag>
+		<English>Timurid Observatory</English>
+		<German>
+			<Text>Ulug Begs Observatorium</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEALTH_RESORT</Tag>
+		<English>Health Resort</English>
+		<German>
+			<Text>Kurhaus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INCA_TAMBO</Tag>
+		<English>Tambo</English>
+		<German>
+			<Text>Tambo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEASIDE_RESORT</Tag>
+		<English>Seaside Resort</English>
+		<German>
+			<Text>Seebad</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE_TARTAR</Tag>
+		<English>Sabantuy</English>
+		<German>
+			<Text>Sabantuy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRIBE_WAREHOUSE</Tag>
+		<English>Tribal Warehouse</English>
+		<German>
+			<Text>Stammes-Lagerhaus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_BUILDING_1</Tag>
+		<English>Weaponsmith</English>
+		<German>
+			<Text>Waffenschmiede</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_BUILDING_2</Tag>
+		<English>Horse Breeding</English>
+		<German>
+			<Text>Pferdezuchtgehege</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_BUILDING_3</Tag>
+		<English>Warrior Hall</English>
+		<German>
+			<Text>Kriegerhalle</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_STOCK_EXCHANGE</Tag>
+		<English>National Stock Exchange</English>
+		<German>
+			<Text>Nationale Wertpapierb&#246;rse</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARTHAGE_TEMPLE</Tag>
+		<English>Baal Temple</English>
+		<German>
+			<Text>Baaltempel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MONUMENT_CARTHAGE</Tag>
+		<English>Baal Stele</English>
+		<German>
+			<Text>Baal-Stele</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MONUMENT_MESO_AMERICA</Tag>
+		<English>Meso American Stele</English>
+		<German>
+			<Text>Mesoamerikanische Stele</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MONUMENT_GREECE</Tag>
+		<English>Greek Statue</English>
+		<German>
+			<Text>Griechische Statue</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COURTHOUSE_ROME</Tag>
+		<English>Basilica</English>
+		<German>
+			<Text>Basilika</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE_ROME</Tag>
+		<English>Forum</English>
+		<German>
+			<Text>Forum</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE_GREECE</Tag>
+		<English>Agora</English>
+		<German>
+			<Text>Agora</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARRACKS_ROME</Tag>
+		<English>Castrum</English>
+		<German>
+			<Text>Kastell</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARSENAL_ROME</Tag>
+		<English>Arsenale</English>
+		<German>
+			<Text>R&#246;mische Waffenkammer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAVERN_GREECE</Tag>
+		<English>Gymnasium</English>
+		<German>
+			<Text>Gymnasium</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_VIKING_TRADING_POST_2</Tag>
+		<English>Longphort</English>
+		<German>
+			<Text>Longphort</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRADING_POST</Tag>
+		<English>Trading Post</English>
+		<German>
+			<Text>Handelsposten</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYSQUARE_HAIDA_INUIT</Tag>
+		<English>Inuksuk</English>
+		<German>
+			<Text>Inuksuk</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STABLE_OTTOMAN</Tag>
+		<English>Ekibi</English>
+		<German>
+			<Text>Ekibi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HERMITAGE_AUSTRONESIA</Tag>
+		<English>Borobudur</English>
+		<German>
+			<Text>Borobudur</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- ART ERAS - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_CLASSICAL</Tag>
+		<English>Classical Art</English>
+		<German>
+			<Text>Klassische Kunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_MEDIEVAL</Tag>
+		<English>Medieval Art</English>
+		<German>
+			<Text>Mittelalterliche Kunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_RENAISSANCE</Tag>
+		<English>Renaissance Art</English>
+		<German>
+			<Text>Renaissance-Kunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_BAROQUE</Tag>
+		<English>Baroque Art</English>
+		<German>
+			<Text>Barockische Kunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_ROMANTICISM</Tag>
+		<English>Romantic Art</English>
+		<German>
+			<Text>Romantische Kunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_REALISM</Tag>
+		<English>Realist Art</English>
+		<German>
+			<Text>Realistische Kunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_IMPRESSIONISM</Tag>
+		<English>Impressionist Art</English>
+		<German>
+			<Text>Impressionistische Kunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_POSTIMPRESSIONISM</Tag>
+		<English>Postimpressionist Art</English>
+		<German>
+			<Text>Post-Impressionistische Kunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_MASS</Tag>
+		<English>Mass Art</English>
+		<German>
+			<Text>Massenkunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ART_CONTEMPORARY</Tag>
+		<English>Contemporary Art</English>
+		<German>
+			<Text>Zeitgen&#246;ssische Kunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- ART ERAS - END -->
+	<!-- GREAT WORKS ART - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_AGAMEMNON</Tag>
+		<English>Mask of Agamemnon</English>
+		<German>
+			<Text>Goldmaske des Agamemnon</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_CYRUS_CYLINDER</Tag>
+		<English>Cyrus Cylinder</English>
+		<German>
+			<Text>Kyros-Zylinder</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_NEFERTITI_BUST</Tag>
+		<English>Nefertiti Bust</English>
+		<German>
+			<Text>B&#252;ste der Nofretete</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_ROCK_ART</Tag>
+		<English>San Rock Art Paintings</English>
+		<German>
+			<Text>San-Felsmalereien</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_GATE_OF_THE_SUN</Tag>
+		<English>Gate of the Sun</English>
+		<German>
+			<Text>Tor der Sonne</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_AJANTA_CAVES</Tag>
+		<English>Ajanta Caves Frescoes</English>
+		<German>
+			<Text>Ajanta-H&#246;hlen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_SHIVA_NATARAJA</Tag>
+		<English>Nataraja</English>
+		<German>
+			<Text>Nataraja-Darstellung</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_DISCOBOLUS</Tag>
+		<English>Discobolus</English>
+		<German>
+			<Text>Diskobolos</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_ALONG_THE_RIVER</Tag>
+		<English>Along the River</English>
+		<German>
+			<Text>Along the River</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_WAYANG</Tag>
+		<English>Wayang</English>
+		<German>
+			<Text>Wayang</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_BOOK_OF_KELLS</Tag>
+		<English>Book of Kells</English>
+		<German>
+			<Text>Book of Kells</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_BLUE_QURAN</Tag>
+		<English>Blue Qur'an</English>
+		<German>
+			<Text>Blauer Koran</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_KACHKAR</Tag>
+		<English>Kachkar</English>
+		<German>
+			<Text>Chatschkar</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_LUCK</Tag>
+		<English>Luck of Edenhall</English>
+		<German>
+			<Text>Das Gl&#252;ck von Edenhall</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_ONE_THOUSAND_ONE_NIGHT</Tag>
+		<English>One Thousand and One Nights</English>
+		<German>
+			<Text>Tausendundeine Nacht</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_STATUE_DAVID</Tag>
+		<English>Statue of David</English>
+		<German>
+			<Text>David-Statue</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_TEA_CEREMONY</Tag>
+		<English>Tea Ceremony</English>
+		<German>
+			<Text>Teezeremonie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_MELANCHOLIA</Tag>
+		<English>Melancolia I</English>
+		<German>
+			<Text>Melancolia I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_CODEX_BORGIA</Tag>
+		<English>Codex Borgia</English>
+		<German>
+			<Text>Codex Borgia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_VOYNICH_MANUSCRIPT</Tag>
+		<English>Voynich Manuscript</English>
+		<German>
+			<Text>Voynich-Manuskript</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_BRANDENBURG_CONCERTOS</Tag>
+		<English>The Night Watch</English>
+		<German>
+			<Text>Die Nachtwache</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_HAMLET</Tag>
+		<English>Hamlet</English>
+		<German>
+			<Text>Hamlet</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_BREDA</Tag>
+		<English>Surrender of Breda</English>
+		<German>
+			<Text>Die &#220;bergabe von Breda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_KOH_I_NOOR</Tag>
+		<English>Koh-i-Noor</English>
+		<German>
+			<Text>Koh-i-Noor</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_STRADIVARI</Tag>
+		<English>Stradivari Workshop</English>
+		<German>
+			<Text>Stradivari-Violinen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_FUJI</Tag>
+		<English>Thirty-six Views of Mount Fuji</English>
+		<German>
+			<Text>36 Ansichten des Berges Fuji</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_LIBERTY</Tag>
+		<English>Liberty Leading the People</English>
+		<German>
+			<Text>Die Freiheit f&#252;hrt das Volk</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_NIBELUNGEN</Tag>
+		<English>Der Ring des Nibelungen</English>
+		<German>
+			<Text>Der Ring des Nibelungen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_ANCIENT_MARINER</Tag>
+		<English>The Rime of the Ancient Mariner</English>
+		<German>
+			<Text>The Rime of the Ancient Mariner</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_QUO_VADIS</Tag>
+		<English>Quo Vadis</English>
+		<German>
+			<Text>Quo Vadis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_CRIME_AND_PUNISHMENT</Tag>
+		<English>Crime and Punishment</English>
+		<German>
+			<Text>Schuld und S&#252;hne</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_AMERICAN_GOTHIC</Tag>
+		<English>American Gothic</English>
+		<German>
+			<Text>American Gothic</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_HOMBRE</Tag>
+		<English>El Hombre en la Encrucijada</English>
+		<German>
+			<Text>El hombre en la encrucijada</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_TOSCA</Tag>
+		<English>Tosca</English>
+		<German>
+			<Text>Tosca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_RASHOMON</Tag>
+		<English>In a Grove</English>
+		<German>
+			<Text>Im Dickicht</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_ST_LAZARE</Tag>
+		<English>Saint Lazare Train Station</English>
+		<German>
+			<Text>Gare Saint-Lazare</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_DEATH_AND_LIFE</Tag>
+		<English>Death and Life</English>
+		<German>
+			<Text>Tod und Leben</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_THE_THINKER</Tag>
+		<English>The Thinker</English>
+		<German>
+			<Text>Der Denker</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_MORT</Tag>
+		<English>La Mort du Fossoyeur</English>
+		<German>
+			<Text>Der Tod des Totengr&#228;bers</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_SONATAS</Tag>
+		<English>Dragonfly-Woman Brooch</English>
+		<German>
+			<Text>Sonatenzyklus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_BLACK_SQUARE</Tag>
+		<English>Black Square</English>
+		<German>
+			<Text>Das Schwarze Quadrat</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_MOULIN_ROUGE</Tag>
+		<English>Moulin Rouge</English>
+		<German>
+			<Text>Moulin Rouge</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_GUERNICA</Tag>
+		<English>Guernica</English>
+		<German>
+			<Text>Guernica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_SCREAM</Tag>
+		<English>The Scream</English>
+		<German>
+			<Text>Der Schrei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_PERSISTENCE</Tag>
+		<English>Persistence of Memory</English>
+		<German>
+			<Text>Die Best&#228;ndigkeit der Erinnerung</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_POTEMKIN</Tag>
+		<English>Battleship Potemkin</English>
+		<German>
+			<Text>Panzerkreuzer Potemkin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_DOCTOR_WHO</Tag>
+		<English>Doctor Who</English>
+		<German>
+			<Text>Doctor Who</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_SEVEN_SAMURAI</Tag>
+		<English>Seven Samurai</English>
+		<German>
+			<Text>Die sieben Samurai</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_MICKEY_MOUSE</Tag>
+		<English>Mickey Mouse</English>
+		<German>
+			<Text>Micky Maus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_REGGAE</Tag>
+		<English>Reggae</English>
+		<German>
+			<Text>Reggae</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_STAR_WARS</Tag>
+		<English>Star Wars</English>
+		<German>
+			<Text>Star Wars</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_TANK_MAN</Tag>
+		<English>Tank Man</English>
+		<German>
+			<Text>Tank Man</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_MY_NAME_IS_RED</Tag>
+		<English>One Hundred Years of Solitude</English>
+		<German>
+			<Text>Hundert Jahre Einsamkeit</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_THE_WALL</Tag>
+		<English>The Wall</English>
+		<German>
+			<Text>The Wall</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_WORK_MINECRAFT</Tag>
+		<English>Minecraft</English>
+		<German>
+			<Text>Minecraft</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- GREAT WORKS ART - END -->
+	<!-- SCIENCE ANCIENT CLASSICAL - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_PHYSICS</Tag>
+		<English>Physica</English>
+		<German>
+			<Text>Physica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_NINE_CHAPTERS</Tag>
+		<English>Nine Chapters on the Mathematical Art</English>
+		<German>
+			<Text>Neun Kapitel der Rechenkunst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_DE_MATERIA_MEDICA</Tag>
+		<English>De Materia Medica</English>
+		<German>
+			<Text>De materia medica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_ELEMENTS</Tag>
+		<English>Elements</English>
+		<German>
+			<Text>Elemente</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_ALMAGEST</Tag>
+		<English>Almagest</English>
+		<German>
+			<Text>Almagest</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_PLANTARUM</Tag>
+		<English>Historia Plantarum</English>
+		<German>
+			<Text>Historia Plantarum</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- SCIENCE ANCIENT CLASSICAL - END -->
+	<!-- SCIENCE MEDIEVAL - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_CANON_MEDICINE</Tag>
+		<English>Canon of Medicine</English>
+		<German>
+			<Text>Kanon der Medizin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_ARYABHATIYA</Tag>
+		<English>Aryabhatiya</English>
+		<German>
+			<Text>Aryabhatiya</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_COMPLETION_BALANCING</Tag>
+		<English>Compendious Book on Calculation by Completion and Balancing</English>
+		<German>
+			<Text>Das kurzgefasste Buch &#252;ber die Rechenverfahren durch Erg&#228;nzen und Ausgleicheng</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_MUQADDIMAH</Tag>
+		<English>Muqaddimah</English>
+		<German>
+			<Text>Muqaddimah</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_BAHRIYE</Tag>
+		<English>Kitab-i Bahriye</English>
+		<German>
+			<Text>Segelhandbuch</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_NABAT</Tag>
+		<English>Kitab-al Nabat</English>
+		<German>
+			<Text>Das Buch der Pflanzen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- SCIENCE MEDIEVAL - END -->
+	<!-- SCIENCE RENAISSANCE - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_TWO_NEW_SCIENCES</Tag>
+		<English>Two New Sciences</English>
+		<German>
+			<Text>Zwei Neue Wissenszweige</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_REVOLUTION</Tag>
+		<English>On the Revolutions of Heavenly Spheres</English>
+		<German>
+			<Text>On the Revolutions of Heavenly Spheres</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_PRINCIPIA</Tag>
+		<English>Principia</English>
+		<German>
+			<Text>Philosophiae Naturalis Principia Mathematica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_HUMAN_BODY</Tag>
+		<English>On the Fabric of the Human Body</English>
+		<German>
+			<Text>On the fabric of the human body</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_ENCYCLOPEDIE</Tag>
+		<English>Encyclop&#233;die</English>
+		<German>
+			<Text>Encyclop&#233;die</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_CHEMIST</Tag>
+		<English>The Sceptical Chymist</English>
+		<German>
+			<Text>The Sceptical Chymist</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- SCIENCE RENAISSANCE - END -->
+	<!-- SCIENCE INDUSTRIAL EARLY - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_DIFFERENCE_ENGINE</Tag>
+		<English>Difference Engine</English>
+		<German>
+			<Text>Differenzmaschine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_PERIODIC</Tag>
+		<English>Periodic table</English>
+		<German>
+			<Text>Periodensystem</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_ORIGIN_SPECIES</Tag>
+		<English>On the Origin of Species</English>
+		<German>
+			<Text>Die Entstehung der Arten</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_HYBRIDIZATION</Tag>
+		<English>Experiments on Plant Hybridization</English>
+		<German>
+			<Text>Experiments on Plant Hybridization</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_KOSMOS</Tag>
+		<English>Kosmos</English>
+		<German>
+			<Text>Kosmos</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_GEOMETRY</Tag>
+		<English>Non-Euclidean Geometry</English>
+		<German>
+			<Text>Nichteuklidische Geometrie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- SCIENCE INDUSTRIAL EARLY - END -->
+	<!-- SCIENCE INDUSTRIAL LATE - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_RELATIVITY</Tag>
+		<English>Relativity: The Special and the General Theory</English>
+		<German>
+			<Text>&#220;ber die spezielle und die allgemeine Relativit&#228;tstheorie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_QUANTUM</Tag>
+		<English>Quantum Theory</English>
+		<German>
+			<Text>Quantenmechanik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_RADIOACTIVITY</Tag>
+		<English>Radioactivity</English>
+		<German>
+			<Text>Handbook of Radioactivity Analysis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_BIG_BANG</Tag>
+		<English>Big Bang Theory</English>
+		<German>
+			<Text>Urknalltheorie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_PSYCHOANALYSIS</Tag>
+		<English>The Interpretation of Dreams</English>
+		<German>
+			<Text>Die Traumdeutung</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_XRAYS</Tag>
+		<English>X-Rays</English>
+		<German>
+			<Text>R&#246;ntgenstrahlung</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- SCIENCE INDUSTRIAL LATE - END -->
+	<!-- SCIENCE MODERN - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_SUPERCONDUCTIVITY</Tag>
+		<English>High-temperature Superconductivity</English>
+		<German>
+			<Text>Hochtemperatursupraleiter</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_CLONING</Tag>
+		<English>Animal Cloning</English>
+		<German>
+			<Text>Tierklone</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_STANDARD_MODEL</Tag>
+		<English>Standard Model</English>
+		<German>
+			<Text>Standardmodell</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_CYBERNETICS</Tag>
+		<English>Cybernetics: Or Control and Communication in the Animal and the Machine</English>
+		<German>
+			<Text>Kybernetik - Regelung und Nachrichten&#252;bertragung im Lebewesen und in der Maschine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_FULLERENE</Tag>
+		<English>Fullerene</English>
+		<German>
+			<Text>Fullerene</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCIENCE_SCI_REVOLUTION</Tag>
+		<English>The Structure of Scientific Revolutions</English>
+		<German>
+			<Text>Die Struktur wissenschaftlicher Revolutionen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- SCIENCE MODERN - END -->
+	<!-- MEDICAL PROJECTS - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GERM_THEORY</Tag>
+		<English>Germ Theory</English>
+		<German>
+			<Text>Keimtheorie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANATOMIC_ATLAS</Tag>
+		<English>Anatomic Atlas</English>
+		<German>
+			<Text>Atlas of Anatomy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANTISEPTICS</Tag>
+		<English>Antisepsis</English>
+		<German>
+			<Text>Antiseptikum</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANAESTHESIA</Tag>
+		<English>Anaesthesia</English>
+		<German>
+			<Text>An&#228;sthesie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SMALLPOX_VACCINE</Tag>
+		<English>Smallpox Vaccine</English>
+		<German>
+			<Text>Pockenimpfstoff</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANTIMALARIAL_DRUGS</Tag>
+		<English>Antimalarial Drugs</English>
+		<German>
+			<Text>Antimalariamittel</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLOOD_TRANSFUSIONS</Tag>
+		<English>Blood Transfusions</English>
+		<German>
+			<Text>Bluttransfusionen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_VITAMINS</Tag>
+		<English>Vitamins</English>
+		<German>
+			<Text>Vitamine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANTIBIOTICS</Tag>
+		<English>Antibiotics</English>
+		<German>
+			<Text>Antibiotika</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_POLIO_VACCINE</Tag>
+		<English>Polio Vaccine</English>
+		<German>
+			<Text>Polioimpfstoff</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ONCOLOGY</Tag>
+		<English>Cancer Research Society</English>
+		<German>
+			<Text>Krebsforschung Organisation</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_THERAPEUTIC_ANTIBODIES</Tag>
+		<English>Therapeutic Antibodies</English>
+		<German>
+			<Text>Therapeutische Antik&#246;rper</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EBM</Tag>
+		<English>Evidence-Based Medicine</English>
+		<German>
+			<Text>Evidenzbasierte Medizin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CDC</Tag>
+		<English>Center for Disease Control</English>
+		<German>
+			<Text>Zentrum f&#252;r Krankheitskontrolle</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUMAN_GENOME</Tag>
+		<English>Human Genome Project</English>
+		<German>
+			<Text>Humangenomprojekt</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- MEDICAL PROJECTS - END -->
+	<!-- AUTOMOBILE COMPANY - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY</Tag>
+		<English>Automobile Company</English>
+		<German>
+			<Text>Automobilwerk</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_AMERICA</Tag>
+		<English>General Motors</English>
+		<German>
+			<Text>General Motors</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_CHINA</Tag>
+		<English>BYD</English>
+		<German>
+			<Text>BYD</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_ENGLAND</Tag>
+		<English>Vauxhall</English>
+		<German>
+			<Text>Vauxhall Motors</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_FRANCE</Tag>
+		<English>Citro&#235;n</English>
+		<German>
+			<Text>Citro&#235;n</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_GERMANY</Tag>
+		<English>Volkswagen</English>
+		<German>
+			<Text>Volkswagen</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_INDIA</Tag>
+		<English>Tata Motors</English>
+		<German>
+			<Text>Tata Motors</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_JAPAN</Tag>
+		<English>Toyota</English>
+		<German>
+			<Text>Toyota</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_KOREA</Tag>
+		<English>Hyundai</English>
+		<German>
+			<Text>Hyundai Motor </Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_PERSIA</Tag>
+		<English>Khodro Kaveer</English>
+		<German>
+			<Text>Khodro Kaveer</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_ROME</Tag>
+		<English>Fiat S.p.a.</English>
+		<German>
+			<Text>Fiat S.p.A.</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_RUSSIA</Tag>
+		<English>AvtoVAZ</English>
+		<German>
+			<Text>AwtoWAS</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_SPAIN</Tag>
+		<English>SEAT</English>
+		<German>
+			<Text>SEAT</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AUTOMOBILE_COMPANY_VIKING</Tag>
+		<English>Volvo</English>
+		<German>
+			<Text>Volvo</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- AUTOMOBILE COMPANY - END -->
+	<!-- PHARMACEUTICAL COMPANY - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY</Tag>
+		<English>Pharmaceutical Company</English>
+		<German>
+			<Text>Pharma-Konzern</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_AMERICA</Tag>
+		<English>Pfizer</English>
+		<German>
+			<Text>Pfizer</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_ARABIA</Tag>
+		<English>Spimaco</English>
+		<German>
+			<Text>Spimaco</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_AUSTRONESIA</Tag>
+		<English>Combiphar</English>
+		<German>
+			<Text>PT. Combiphar</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_CELT</Tag>
+		<English>Actavis</English>
+		<German>
+			<Text>Actavis</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_CHINA</Tag>
+		<English>Sinopharm</English>
+		<German>
+			<Text>Sinopharm Group</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_ENGLAND</Tag>
+		<English>GlaxoSmithKline</English>
+		<German>
+			<Text>GlaxoSmithKline</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_FRANCE</Tag>
+		<English>Sanofi</English>
+		<German>
+			<Text>Sanofi</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_GERMANY</Tag>
+		<English>Merck</English>
+		<German>
+			<Text>Merck KGaA</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_GREECE</Tag>
+		<English>Elpen</English>
+		<German>
+			<Text>Elpen Pharma</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_HUNGARY</Tag>
+		<English>Gedeon Richter</English>
+		<German>
+			<Text>Gedeon Richter</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_INCA</Tag>
+		<English>Inti SA</English>
+		<German>
+			<Text>INTI S.A.</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_INDIA</Tag>
+		<English>Sun Pharmaceuticals</English>
+		<German>
+			<Text>Sun Pharmaceutical</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_JAPAN</Tag>
+		<English>Takeda</English>
+		<German>
+			<Text>Takeda Pharmaceutical</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_KOREA</Tag>
+		<English>Dong-A</English>
+		<German>
+			<Text>Dong-A Pharmaceutical</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_OTTOMAN</Tag>
+		<English>Abdi Ibrahim</English>
+		<German>
+			<Text>Abdi Ibrahim</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_POLAND</Tag>
+		<English>Polpharma</English>
+		<German>
+			<Text>Polpharma</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_ROME</Tag>
+		<English>Menarini</English>
+		<German>
+			<Text>Menarini</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_RUSSIA</Tag>
+		<English>Pharmstandard</English>
+		<German>
+			<Text>Pharmstandard</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_SPAIN</Tag>
+		<English>Almirall</English>
+		<German>
+			<Text>Almirall</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_VIKING</Tag>
+		<English>Novo Nordisk</English>
+		<German>
+			<Text>Novo Nordisk</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PHARMA_COMPANY_ISRAEL</Tag>
+		<English>Teva</English>
+		<German>
+			<Text>Teva</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- PHARMACEUTICAL COMPANY - END -->
+	<!-- CINEMA COMPANY - START -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY</Tag>
+		<English>Major film studio</English>
+		<German>
+			<Text>Major-Studio</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_AMERICA</Tag>
+		<English>XX Century Fox</English>
+		<German>
+			<Text>20th Century Fox</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_ARMENIA</Tag>
+		<English>Armenfilm</English>
+		<German>
+			<Text>Armenfilm</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_AUSTRONESIA</Tag>
+		<English>Rapi Films</English>
+		<German>
+			<Text>Rapi Films</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_AZTEC</Tag>
+		<English>Estudios Churubusco</English>
+		<German>
+			<Text>Estudios Churubusco Azteca</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_CELT</Tag>
+		<English>Ardmore Studios</English>
+		<German>
+			<Text>Ardmore Studios</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_CHINA</Tag>
+		<English>Beijing Enlight Pictures</English>
+		<German>
+			<Text>Beijing Enlight Pictures</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_DRAVIDIA</Tag>
+		<English>AVM Productions</English>
+		<German>
+			<Text>AVM Productions</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_ENGLAND</Tag>
+		<English>Pinewood Studios</English>
+		<German>
+			<Text>Pinewood Studios</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_FRANCE</Tag>
+		<English>Gaumont</English>
+		<German>
+			<Text>Gaumont</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_GERMANY</Tag>
+		<English>UFA</English>
+		<German>
+			<Text>UFA</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_GREECE</Tag>
+		<English>Finos Film</English>
+		<German>
+			<Text>Finos Film</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_INDIA</Tag>
+		<English>R.K. Films</English>
+		<German>
+			<Text>R.K. Films</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_JAPAN</Tag>
+		<English>Daiei Film</English>
+		<German>
+			<Text>Daiei Film</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_MONGOL</Tag>
+		<English>Mongol Kino</English>
+		<German>
+			<Text>Mongol Kino</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_OTTOMAN</Tag>
+		<English>Erler Film</English>
+		<German>
+			<Text>Erler Film</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_ROME</Tag>
+		<English>Titanus</English>
+		<German>
+			<Text>Titanus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_RUSSIA</Tag>
+		<English>Mosfilm</English>
+		<German>
+			<Text>Mosfilm</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_SOUTH_CHINA</Tag>
+		<English>Shaw Brothers</English>
+		<German>
+			<Text>Shaw Brothers</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_SPAIN</Tag>
+		<English>El Deseo</English>
+		<German>
+			<Text>El Deseo</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOVIE_COMPANY_VIKING</Tag>
+		<English>AB Svensk Filmindustri</English>
+		<German>
+			<Text>Svensk Filmindustri</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- CINEMA COMPANY - END -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BAYER</Tag>
+		<English>Bayer AG</English>
+		<German>
+			<Text>Bayer AG</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FORD</Tag>
+		<English>Ford Motor Company</English>
+		<German>
+			<Text>Ford</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WATERWORKS</Tag>
+		<English>Waterworks</English>
+		<German>
+			<Text>Wasserwerk</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CLOTHING</Tag>
+		<English>Clothing Factory</English>
+		<German>
+			<Text>Kleiderfabrik</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SYNTHETIC_DYE</Tag>
+		<English>Synthetic Dye Plant</English>
+		<German>
+			<Text>Synthetische F&#228;rberpflanze</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SUBJUGATION</Tag>
+		<English>Provisional Government</English>
+		<German>
+			<Text>Provisorische Regierung</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENTHUSIASM</Tag>
+		<English>Solidarity</English>
+		<German>
+			<Text>Solidarit&#228;t</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UNREST</Tag>
+		<English>Unrest</English>
+		<German>
+			<Text>Unruhe</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RIOTS</Tag>
+		<English>Riots</English>
+		<German>
+			<Text>Aufstand</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEPARATISM_EFFECT</Tag>
+		<English>Reactions to Separatism</English>
+		<German>
+			<Text>Reaktionen auf den Separatismus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_BRIBE</Tag>
+		<English>Rebel Leaders Bribed</English>
+		<German>
+			<Text>Rebellenf&#252;hrer Bestochen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_REPLACE</Tag>
+		<English>Lenient Governor</English>
+		<German>
+			<Text>Nachsichtiger Gouverneur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_HARSH</Tag>
+		<English>Harsh Treatment</English>
+		<German>
+			<Text>Raue Behandlung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_SERMON</Tag>
+		<English>Faithful Mobilized</English>
+		<German>
+			<Text>Gl&#228;ubigen Mobilisiert</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_TAX</Tag>
+		<English>Tax Break</English>
+		<German>
+			<Text>Steuerverg&#252;nstigungen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_MARTIAL</Tag>
+		<English>Curfew</English>
+		<German>
+			<Text>Ausgangssperre</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_ARRESTS</Tag>
+		<English>Political Persecution</English>
+		<German>
+			<Text>Politische Verfolgung</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_PROPAGANDA</Tag>
+		<English>Propaganda Campaign</English>
+		<German>
+			<Text>Propagandakampagne</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EFFECT_AUTONOMY</Tag>
+		<English>Wide Autonomy</English>
+		<German>
+			<Text>Gro&#223;e Autonomie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KREMLIN_EFFECT</Tag>
+		<English>Uyezd Voivodship</English>
+		<German>
+			<Text>Woiwodschaft</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACADEMY</Tag>
+		<English>National Academy</English>
+		<German>
+			<Text>Nationale Akademie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MIT'A</Tag>
+		<English>Mit'a</English>
+		<German>
+			<Text>Mit'a</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COURT</Tag>
+		<English>Wandering Capital</English>
+		<German>
+			<Text>Wandernde Hauptstadt</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCK_FILIPINO</Tag>
+		<English>Pearl Diver</English>
+		<German>
+			<Text>Perlentaucher</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GLADIATOR_SCHOOL</Tag>
+		<English>Gladiator School</English>
+		<German>
+			<Text>Gladiatorenschule</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BREAD_AND_CIRCUSES</Tag>
+		<English>Bread and Circuses</English>
+		<German>
+			<Text>Brot und Zirkusse</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LOGISTICS</Tag>
+		<English>Logistics Hub</English>
+		<German>
+			<Text>Logistikzentrum</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>		
+</Civ4GameText>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAN_REMOVE_NON_STATE_RELIGIONS</Tag>
+		<English>[ICON_BULLET]Can remove non-state religions</English>
+		<German>[ICON_BULLET]Kann Religionen, die nicht Staatsreligion sind, entfernen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_FAILED_TO_REMOVE_RELIGION</Tag>
+		<English>Your %s1_UnitName has failed to remove %F2_RelIcon from %s3_CityName!!!</English>
+		<German>Ihr %s1_UnitName konnte %F2_RelIcon nicht aus %s3_CityName entfernen!!!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_REMOVED_RELIGION</Tag>
+		<English>Your %s1_UnitName removed %F2_RelIcon from %s3_CityName!!!</English>
+		<German>Ihr %s1_UnitName hat %F2_RelIcon aus %s3_CityName vertrieben!!!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_REMOVE_RELIGION_HELP</Tag>
+		<English>This order will consume the [COLOR_UNIT_TEXT]Inquisitor[COLOR_REVERT] unit but removes a religion from the target city.</English>
+		<German>Dieser Befehl wird die Einheit [COLOR_UNIT_TEXT]Inquisitor[COLOR_REVERT] auflösen, aber die ausgewählte Religion aus der Stadt entfernen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_REMOVE_RELIGION</Tag>
+		<English>Remove Religion</English>
+		<German>Entferne Religion</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MEMORY_REMOVED_RELIGION_FROM_CITY</Tag>
+		<English>"You removed a religion from one of our cities"</English>
+		<German>"Sie haben eine Religion aus einer Ihrer Städte vertrieben"</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MEMORY_REMOVED_STATE_RELIGION</Tag>
+		<English>"You removed our state religion from a city"</English>
+		<German>"Sie haben Ihre Staatsreligion aus einer Stadt vertrieben"</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JEWISH_INQUISITOR</Tag>
+		<English>Jewish Inquisitor</English>
+		<German>
+			<Text>Inquisitor (jüdisch)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHRISTIAN_INQUISITOR</Tag>
+		<English>Christian Inquisitor</English>
+		<German>
+			<Text>Inquisitor (christlich)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ISLAMIC_INQUISITOR</Tag>
+		<English>Islamic Inquisitor</English>
+		<German>
+			<Text>Inquisitor (islamisch)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HINDU_INQUISITOR</Tag>
+		<English>Hindu Inquisitor</English>
+		<German>
+			<Text>Inquisitor (hinduistisch)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BUDDHIST_INQUISITOR</Tag>
+		<English>Buddhist Inquisitor</English>
+		<German>
+			<Text>Inquisitor (buddhistisch)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONFUCIAN_INQUISITOR</Tag>
+		<English>Confucian Inquisitor</English>
+		<German>
+			<Text>Inquisitor (konfuzianisch)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TAOIST_INQUISITOR</Tag>
+		<English>Taoist Inquisitor</English>
+		<German>
+			<Text>Inquisitor (taoistisch)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+</Civ4GameText>

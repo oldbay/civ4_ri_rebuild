@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	Slavery and Rebellion By Mexico
+	Originally by Mexico
+  Converted to BUG module by Josh Sjoding
+-->
+<mod id="SlaveryRebellion" 
+	 name="Slavery and Rebellion Mod" 
+	 author="Mexico" 
+	 version="1.0" 
+	 date="11/21/2009">
+
+  <event type="cityDoTurn" module="SlaveryRebellion" function="onCityDoTurn"/>
+  <event type="combatResult" module="SlaveryRebellion" function="onCombatResult"/>
+  <event type="EndPlayerTurn" module="SlaveryRebellion" function="onEndPlayerTurn"/>
+	
+</mod>

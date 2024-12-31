@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_DOM_BRIAN_BORU_RI_Planet_Generator</Tag>
+		<English>In Planet Generator the sun rises on the year 4000 BC. Since time immemorial, the [CT_CIV_ADJ] people have lived a nomadic life. After years of wandering, they are ready to settle down ann found your first city. [CT_NAME], your people have vested absolute power in you, trusting that you can build a Civilization to stand the test of time in Realism: Invictus!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_BRIAN_BORU_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		The British Isles: a tangled web of old rivalries, with a measure of outside threats as well. Scotland, Eire, England, Gwynedd - whoever you choose, you will have enough knives pointed at your back. Due to the fact that Mappa Mundi this scenario is based upon was made in England, this is the most detailed and upscaled region of the map. A fun self-imposed challenge for the Irish player is to try retracing the voyage of St. Brendan and find the Garden of Eden (yes, it is possible if you have carracks and are sufficiently determined!)</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_DOM_BRIAN_BORU</Tag>
+		<English>The sun rises on the year 4000 BC. Since time immemorial, the [CT_CIV_ADJ] people have lived a nomadic life. After years of wandering, they are ready to settle down ann found your first city. [CT_NAME], your people have vested absolute power in you, trusting that you can build a Civilization to stand the test of time in Realism: Invictus!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_BIRGER_JARL_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Scandinavia and Rus: Scandinavian kingdoms are in a rare position that basically allows them to freely choose their own targets. They are relatively large, and their natural isolation ensures that there are no immediate threats to them. Kievan Rus is experiencing its historical golden age at the start, and if it manages to eliminate the immediate threats (first of all the Cumans), it has a good shot at winning.</English>
+	</TEXT>	
+	<TEXT>	
+		<Tag>TXT_DOM_LLYWELYN_THE_GREAT_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		The British Isles: a tangled web of old rivalries, with a measure of outside threats as well. Scotland, Eire, England, Gwynedd - whoever you choose, you will have enough knives pointed at your back. Due to the fact that Mappa Mundi this scenario is based upon was made in England, this is the most detailed and upscaled region of the map. A fun self-imposed challenge for the Irish player is to try retracing the voyage of St. Brendan and find the Garden of Eden (yes, it is possible if you have carracks and are sufficiently determined!)</English>
+	</TEXT>			
+	<TEXT>
+		<Tag>TXT_DOM_ALFONSO_X_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		The Iberian Peninsula: Reconquista is just starting. The kingdoms of Castille, Leon, Galicia and Aragon (represented by a single civ) and soon-to-be-kingdom of Portugal have a clear goal ahead of them: reclaim Iberia. Conversely, as Almoravids you will start very powerful, but you'll have to deal with invading armies of various Christian entities. A fun self-imposed challenge when playing Spain is to colonize America by the end of the scenario.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_ROBERT_THE_BRUCE_RI Crusades</Tag>
+		<English>The British Isles: a tangled web of old rivalries, with a measure of outside threats as well. Scotland, Eire, England, Gwynedd - whoever you choose, you will have enough knives pointed at your back. Due to the fact that Mappa Mundi this scenario is based upon was made in England, this is the most detailed and upscaled region of the map. A fun self-imposed challenge for the Irish player is to try retracing the voyage of St. Brendan and find the Garden of Eden (yes, it is possible if you have carracks and are sufficiently determined!).</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_EDWARD_LONGSHANKS_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		The British Isles: a tangled web of old rivalries, with a measure of outside threats as well. Scotland, Eire, England, Gwynedd - whoever you choose, you will have enough knives pointed at your back. Due to the fact that Mappa Mundi this scenario is based upon was made in England, this is the most detailed and upscaled region of the map. A fun self-imposed challenge for the Irish player is to try retracing the voyage of St. Brendan and find the Garden of Eden (yes, it is possible if you have carracks and are sufficiently determined!).</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_PHILIP_II_AUGUSTUS_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		France: the second powerful player in Europe. Seek opportunities wherever they arise - participate in the Reconquista, subjugate England, meddle in Germany or Italy, or even go on a private crusade. You will probably have to bring down one or more of the major players who threaten your hegemony.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_ELEANOR_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		France: the second powerful player in Europe. Seek opportunities wherever they arise - participate in the Reconquista, subjugate England, meddle in Germany or Italy, or even go on a private crusade. You will probably have to bring down one or more of the major players who threaten your hegemony.</English>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_DOM_CHARLES_FLANDERS_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		France: the second powerful player in Europe. Seek opportunities wherever they arise - participate in the Reconquista, subjugate England, meddle in Germany or Italy, or even go on a private crusade. You will probably have to bring down one or more of the major players who threaten your hegemony.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_FERRY_III_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		France: the second powerful player in Europe. Seek opportunities wherever they arise - participate in the Reconquista, subjugate England, meddle in Germany or Italy, or even go on a private crusade. You will probably have to bring down one or more of the major players who threaten your hegemony.</English>
+	</TEXT>			
+	<TEXT>
+		<Tag>TXT_DOM_FRIEDRICH_HOHENSTAUFEN_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Holy Roman Empire: just as in Byzantine case, you start near the top, and your position is central, presenting you with opportunities and threats wherever you turn. Keep in mind that you will likely need to bring down both Byzantines and France to feel safe. A good idea would be reining in the popes as soon as possible.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_ENRICO_DANDOLO_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Italy: a very crowded place; you'd do good to gain more ground elsewhere. Look around for wars you could join to steal a town or two.</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_DOM_POPE_URBAN_II_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Papacy: as a Pope, you are the leader of Christian faith, but you have a very powerful enemy - the Holy Roman Empire. Try to keep safe from them and seek to strengthen your position.</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_DOM_GENOA_CITY_COUNCIL_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Italy: a very crowded place; you'd do good to gain more ground elsewhere. Look around for wars you could join to steal a town or two.</English>
+	</TEXT>			
+	<TEXT>
+		<Tag>TXT_DOM_JOHN_II_KOMNENOS_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Byzantine Empire: due to the efforts of Alexios Komnenos, the empire has somewhat recovered from a disastrous defeat from Seljuks in 1071. Not a lot of ground has been regained since, but the Empire is now in a good shape to start reclaiming what has been lost. You start with excellent territory and are #1 in score, so basically all you have to do to win is keep this up. This won't be a walk in the park, though, as you will not find any lasting friends anywhere, and your enemies are among the most powerful there are.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_ROGER_II_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Byzantine Empire: due to the efforts of Alexios Komnenos, the empire has somewhat recovered from a disastrous defeat from Seljuks in 1071. Not a lot of ground has been regained since, but the Empire is now in a good shape to start reclaiming what has been lost. You start with excellent territory and are #1 in score, so basically all you have to do to win is keep this up. This won't be a walk in the park, though, as you will not find any lasting friends anywhere, and your enemies are among the most powerful there are.</English>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_DOM_ANDRONICUS_CONTOSTEPHANUS_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Byzantine Empire: due to the efforts of Alexios Komnenos, the empire has somewhat recovered from a disastrous defeat from Seljuks in 1071. Not a lot of ground has been regained since, but the Empire is now in a good shape to start reclaiming what has been lost. You start with excellent territory and are #1 in score, so basically all you have to do to win is keep this up. This won't be a walk in the park, though, as you will not find any lasting friends anywhere, and your enemies are among the most powerful there are.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_THEODORE_GABRAS_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Byzantine Empire: due to the efforts of Alexios Komnenos, the empire has somewhat recovered from a disastrous defeat from Seljuks in 1071. Not a lot of ground has been regained since, but the Empire is now in a good shape to start reclaiming what has been lost. You start with excellent territory and are #1 in score, so basically all you have to do to win is keep this up. This won't be a walk in the park, though, as you will not find any lasting friends anywhere, and your enemies are among the most powerful there are.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_EUMATHIOS_PHILOKALES_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Byzantine Empire: due to the efforts of Alexios Komnenos, the empire has somewhat recovered from a disastrous defeat from Seljuks in 1071. Not a lot of ground has been regained since, but the Empire is now in a good shape to start reclaiming what has been lost. You start with excellent territory and are #1 in score, so basically all you have to do to win is keep this up. This won't be a walk in the park, though, as you will not find any lasting friends anywhere, and your enemies are among the most powerful there are.</English>
+	</TEXT>			
+	<TEXT>
+		<Tag>TXT_DOM_BALDWIN_I_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Crusader kingdoms: Kingdom of Jerusalem and Principality of Antioch are both facing a grim situation. They are threatened from all sides, and there is hardly anyone willing and able to provide them meaningful help. Still, they start with formidable armies, and what some see as threats can become an opportunity if you'll be able to topple the Fatimids, the Seljuks or maybe even the Eastern Roman Empire. Armenian Cilicia can also be considered a crusader state, and it is able to provide even more challenge as its starting position is even more dangerous.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_DAVID_IV_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Crusader kingdoms: Kingdom of Jerusalem and Principality of Antioch are both facing a grim situation. They are threatened from all sides, and there is hardly anyone willing and able to provide them meaningful help. Still, they start with formidable armies, and what some see as threats can become an opportunity if you'll be able to topple the Fatimids, the Seljuks or maybe even the Eastern Roman Empire. Armenian Cilicia can also be considered a crusader state, and it is able to provide even more challenge as its starting position is even more dangerous.</English>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_DOM_SALADIN_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Muslim Middle east: the Fatimids and the Seljuks are the two major powers in the region. The Fatimids are probably the easiest overall civ to win with, as their position is relatively safer than that of the other "big boys" of the scenario. It is quite possible that you'll be able to win just by defending your borders and building up peacefully. If you are playing the Seljuks, beware - the Mongols will likely come after you in the second half of the scenario. There is also a number of smaller Muslim states in the region for those who want more challenge.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_MUHAMMAD_OF_GHOR_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Muslim Middle east: the Fatimids and the Seljuks are the two major powers in the region. The Fatimids are probably the easiest overall civ to win with, as their position is relatively safer than that of the other "big boys" of the scenario. It is quite possible that you'll be able to win just by defending your borders and building up peacefully. If you are playing the Seljuks, beware - the Mongols will likely come after you in the second half of the scenario. There is also a number of smaller Muslim states in the region for those who want more challenge.</English>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_DOM_YUSUF_IBN_TASHFIN_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Muslim Middle east: the Fatimids and the Seljuks are the two major powers in the region. The Fatimids are probably the easiest overall civ to win with, as their position is relatively safer than that of the other "big boys" of the scenario. It is quite possible that you'll be able to win just by defending your borders and building up peacefully. If you are playing the Seljuks, beware - the Mongols will likely come after you in the second half of the scenario. There is also a number of smaller Muslim states in the region for those who want more challenge.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_MALIK_SHAH_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Muslim Middle east: the Fatimids and the Seljuks are the two major powers in the region. The Fatimids are probably the easiest overall civ to win with, as their position is relatively safer than that of the other "big boys" of the scenario. It is quite possible that you'll be able to win just by defending your borders and building up peacefully. If you are playing the Seljuks, beware - the Mongols will likely come after you in the second half of the scenario. There is also a number of smaller Muslim states in the region for those who want more challenge.</English>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_DOM_SHARIF_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Muslim Middle east: the Fatimids and the Seljuks are the two major powers in the region. The Fatimids are probably the easiest overall civ to win with, as their position is relatively safer than that of the other "big boys" of the scenario. It is quite possible that you'll be able to win just by defending your borders and building up peacefully. If you are playing the Seljuks, beware - the Mongols will likely come after you in the second half of the scenario. There is also a number of smaller Muslim states in the region for those who want more challenge.</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_DOM_KILIJ_ARSLAN_II_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Muslim Middle east: the Fatimids and the Seljuks are the two major powers in the region. The Fatimids are probably the easiest overall civ to win with, as their position is relatively safer than that of the other "big boys" of the scenario. It is quite possible that you'll be able to win just by defending your borders and building up peacefully. If you are playing the Seljuks, beware - the Mongols will likely come after you in the second half of the scenario. There is also a number of smaller Muslim states in the region for those who want more challenge.</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_DOM_MAHMUD_GHAZNI_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Muslim Middle east: the Fatimids and the Seljuks are the two major powers in the region. The Fatimids are probably the easiest overall civ to win with, as their position is relatively safer than that of the other "big boys" of the scenario. It is quite possible that you'll be able to win just by defending your borders and building up peacefully. If you are playing the Seljuks, beware - the Mongols will likely come after you in the second half of the scenario. There is also a number of smaller Muslim states in the region for those who want more challenge.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_TOGHTEKIN_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Muslim Middle east: the Fatimids and the Seljuks are the two major powers in the region. The Fatimids are probably the easiest overall civ to win with, as their position is relatively safer than that of the other "big boys" of the scenario. It is quite possible that you'll be able to win just by defending your borders and building up peacefully. If you are playing the Seljuks, beware - the Mongols will likely come after you in the second half of the scenario. There is also a number of smaller Muslim states in the region for those who want more challenge.</English>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_DOM_THOROS_II_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Muslim Middle east: the Fatimids and the Seljuks are the two major powers in the region. The Fatimids are probably the easiest overall civ to win with, as their position is relatively safer than that of the other "big boys" of the scenario. It is quite possible that you'll be able to win just by defending your borders and building up peacefully. If you are playing the Seljuks, beware - the Mongols will likely come after you in the second half of the scenario. There is also a number of smaller Muslim states in the region for those who want more challenge.</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_DOM_STEFAN_NEMANJA_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Eastern Europe: Poland and Hungary are both stuck between two larger neighbors. It is probably not wise to engage them one-on-one, but if you wait for the right opportunity, such is when they are engaged on other fronts, you may well claim your share and become a major power.</English>
+	</TEXT>			
+	<TEXT>
+		<Tag>TXT_DOM_LEOPOLD_VI_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Eastern Europe: Poland and Hungary are both stuck between two larger neighbors. It is probably not wise to engage them one-on-one, but if you wait for the right opportunity, such is when they are engaged on other fronts, you may well claim your share and become a major power.</English>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_DOM_BOLESLAW_III_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Eastern Europe: Poland and Hungary are both stuck between two larger neighbors. It is probably not wise to engage them one-on-one, but if you wait for the right opportunity, such is when they are engaged on other fronts, you may well claim your share and become a major power.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_BOHEMOND_I_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Crusader kingdoms: Kingdom of Jerusalem and Principality of Antioch are both facing a grim situation. They are threatened from all sides, and there is hardly anyone willing and able to provide them meaningful help. Still, they start with formidable armies, and what some see as threats can become an opportunity if you'll be able to topple the Fatimids, the Seljuks or maybe even the Eastern Roman Empire. Armenian Cilicia can also be considered a crusader state, and it is able to provide even more challenge as its starting position is even more dangerous.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_SIGURD_THE_CRUSADER_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Scandinavia and Rus: Scandinavian kingdoms are in a rare position that basically allows them to freely choose their own targets. They are relatively large, and their natural isolation ensures that there are no immediate threats to them. Kievan Rus is experiencing its historical golden age at the start, and if it manages to eliminate the immediate threats (first of all the Cumans), it has a good shot at winning.</English>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_DOM_VLADIMIR_II_MONOMAKH_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Scandinavia and Rus: Scandinavian kingdoms are in a rare position that basically allows them to freely choose their own targets. They are relatively large, and their natural isolation ensures that there are no immediate threats to them. Kievan Rus is experiencing its historical golden age at the start, and if it manages to eliminate the immediate threats (first of all the Cumans), it has a good shot at winning.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_SUNDIATA_KEITA_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Africa: Makuria and Ethiopia in the East both challenge Fatimid supremacy in the region. If either of them triumphs, they could become a new dominant power on the continent. Mali's relatively isolated position is both their asset and disadvantage - the ability to expand freely can be the key to winning, but at the same time, measures should be taken to establish trade contacts with Europe and Asia.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_PRITHVIRAJ_CHAUHAN_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Indian peninsula: India is on the brink of Islamic invasion. Ghurids are ready to carve themselves a sultanate out of Rajput territory. Further south, Chola empire is seeking to expand its influence. Whichever side you choose, the fight will be brutal, but the rewards will be great.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_DAOZONG_LIAO_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Far east: Mongols dominate this region. While China is currently split in two, whichever side you choose your most significant problem will still be the Mongol hordes. Japan is living through one of the calmer periods in its history, and its geographic location protects it from Mongol invasion better than other civs in the area. The Mongols should be treated more as a force of nature than as a regular civ; try to use them to your advantage, preying on civs they hit, grabbing a city or two. Due to starting close to Mongols, civs in this area are among the hardest to play.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_MINAMOTO_NO_YORITOMO_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Far east: Mongols dominate this region. While China is currently split in two, whichever side you choose your most significant problem will still be the Mongol hordes. Japan is living through one of the calmer periods in its history, and its geographic location protects it from Mongol invasion better than other civs in the area. The Mongols should be treated more as a force of nature than as a regular civ; try to use them to your advantage, preying on civs they hit, grabbing a city or two. Due to starting close to Mongols, civs in this area are among the hardest to play.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_SEJONG_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Far east: Mongols dominate this region. While China is currently split in two, whichever side you choose your most significant problem will still be the Mongol hordes. Japan is living through one of the calmer periods in its history, and its geographic location protects it from Mongol invasion better than other civs in the area. The Mongols should be treated more as a force of nature than as a regular civ; try to use them to your advantage, preying on civs they hit, grabbing a city or two. Due to starting close to Mongols, civs in this area are among the hardest to play.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_SONG_HUIZONG_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Far east: Mongols dominate this region. While China is currently split in two, whichever side you choose your most significant problem will still be the Mongol hordes. Japan is living through one of the calmer periods in its history, and its geographic location protects it from Mongol invasion better than other civs in the area. The Mongols should be treated more as a force of nature than as a regular civ; try to use them to your advantage, preying on civs they hit, grabbing a city or two. Due to starting close to Mongols, civs in this area are among the hardest to play.</English>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_DOM_SHAKA_RI Crusades</Tag>
+		<English>Welcome to the Crusades scenario! 
+		
+		If this is your first time playing, remember that the map is based on a medieval Mappa Mundi, and as such, it is not a very accurate representation of Earth. If you find it confusing, keep in mind that in many medieval maps, the North was on the left side, not up!
+		
+		Africa: Makuria and Ethiopia in the East both challenge Fatimid supremacy in the region. If either of them triumphs, they could become a new dominant power on the continent. Mali's relatively isolated position is both their asset and disadvantage - the ability to expand freely can be the key to winning, but at the same time, measures should be taken to establish trade contacts with Europe and Asia.</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_DOM_FREDERICK_III_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Denmark-Norway: you are mostly a spectator to the troubles in Central Europe, but your relatively large, safe and well-developed territory allows you an opportunity to become something more, if this is what you desire...</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_KARL_X_GUSTAV_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Sweden: Thirty Years War has left you with a large and modern army, and some possessions around the Baltic. Could this be a jumpstart to forming Swedish Empire that will dominate the region? Remember that your starting territories are rather poor (even if Sweden proper is well-developed), and your initial advantage will start to fade if you don't move quickly.</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_DOM_FREDERICK_WILLIAM_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Brandenburg-Prussia: in the land of sprawling empires, you are a shining beacon of efficiency - small, well-developed, with powerful armies. You will likely keep ahead in tech as well - so why don't you try carving an empire of your own out of Central Europe?</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_DOM_IMPERIAL_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_DOM_JOHN_GEORGE_II_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_FERDINAND_MARIA_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_FERDINAND_III_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Austria: you start with a well-developed core territory and a big vassal, but Ottomans will likely be a source of major trouble for you. Are you prepared to deal with their invading armies?</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_FRANCESCO_MOLIN_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Venice: your heyday is already gone, as what remains of your trading empire is threatened by the Ottomans, whom you start at war with. Yet, Venice is still a rich commercial hub, and your fleet is still formidable. Do you have what it takes to make a comeback?</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_POPE_INNOCENT_X_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_JUAN_JOSE_DE_AUSTRIA_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_MEHMED_IV_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Ottomans: knocking at Vienna's gate, you are an empire in its prime. With the largest territory, lots of vassals and a safe hinterland, this is probably the easiest start in the Deluge. But bear in mind that due to your size, the Western powers will likely out-tech you in the long run.
+</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_VASILE_LUPU_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_MATEI_BASARAB_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_GEORGE_II_RAKOCZY_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_FRAN_DIVO_GUNDULIC_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_JOHN_SOBIESKI_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Poland-Lithuania: you start at the peak of your power, but your central position surrounded by powerful competitors on most sides means you need to prepare to fight to keep your lead. Your country is religiously divided between Catholic and Orthodox, and you also have the breakaway Cossacks to deal with. I'd say your hands are going to be rather full the next 80 years or so...</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_BOHDAN_KHMELNYTSKY_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Zaporozhian Host: you are definitely not a minor power, but your start is probably the most challenging one. Not only do you start at war with a major power, but even after that, you will likely find no friends among your neighbors. But pick your fights wisely, and you may yet rise to greatness!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_ISLAM_III_GIRAY_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_ALEXIS_I_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Russia: you enjoy the second largest territory in this scenario at the start. The problem is, it is very undeveloped, and your economy is in shambles. It is probably a wise idea to build up a little before trying to expand, but keep in mind that your sprawling lands put you at a disadvantage when it comes to catching up in tech.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_NICOLAS_COTONER_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_BARBAROSSA_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_DOM_KORNILY_RI Deluge</Tag>
+		<English>Welcome to the Deluge scenario! It depicts the events unfolding in Europe from the start of Khmelnytsky Uprising in Poland-Lithuania to the end of the Great Northern War. Major powers clash over who will come to dominate the region in the future, as challenges and opportunities arise at each step. 
+		
+		Minor nation: a minor nation in Central Europe at this time may find itself surrounded by emerging Great Powers, with little opportunity to stand up to them. Still, a skilled and lucky player may find his minor nation rise to glory yet!</English>
+	</TEXT>
+</Civ4GameText>

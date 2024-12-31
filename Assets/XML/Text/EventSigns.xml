@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+  DAS: Text for landmark/sign captioning for random events
+  - The tag names for the descriptions are based on the <type> of the events in CIV4EventInfos.xml
+  - Example: The caption corresponding to the event with <type>EVENT_SALTPETER_1</type>
+  -  in that file will be the entry here with tag TXT_KEY_SIGN_EVENT_SALTPETER_1
+  - Non-English ranslations may be inaccurate as they came from guesses and babelfish.
+  -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_FORMAT_OVERVIEW</Tag>
+		<!-- s1: Food string, s2: Prod string, s3: Comm string, s4: Descriptive string -->
+		<!-- Note there will be some extra spaces added between these strings -->
+		<English>%s1%s2%s3 (%s4)</English>
+		<German>%s1%s2%s3 (%s4)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_FORMAT_FOOD</Tag>
+		<English>%D1 F</English>
+		<German>%D1 N</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_FORMAT_PROD</Tag>
+		<English>%D1 P</English>
+		<German>%D1 P</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_FORMAT_COMM</Tag>
+		<English>%D1 C</English>
+		<German>%D1 G</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_HORTICULTURE_1</Tag>
+		<English>medicine</English>
+		<German>Medizin</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_HORTICULTURE_2</Tag>
+		<English>medicine</English>
+		<German>Medizin</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_PARROTS_1</Tag>
+		<English>parrots</English>
+		<German>Papageien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_JADE_1</Tag>
+		<English>jade</English>
+		<German>Jade</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_BLACK_PEARLS_1</Tag>
+		<English>black pearls</English>
+		<German>schwarze Perlen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_SALTPETER_1</Tag>
+		<English>saltpeter</English>
+		<German>Salpeter</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_CLUNKER_COAL_1</Tag>
+		<English>impurities</English>
+		<German>Verunreinigungen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_SOUR_CRUDE_1</Tag>
+		<English>impurities</English>
+		<German>Verunreinigungen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_TRUFFLES_1</Tag>
+		<English>truffles</English>
+		<German>Trüffel</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_SEA_TURTLES_1</Tag>
+		<English>sea turtles</English>
+		<German>Meeresschildkröten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_TIN_1</Tag>
+		<English>Tin</English>
+		<German>Zinn</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_PRAIRIE_DOGS_1</Tag>
+		<English>prairie dogs</English>
+		<German>Präriehunde</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_APPLESEED_1</Tag>
+		<English>apple trees</English>
+		<German>Apfelbäume</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_FORTY_THIEVES_1</Tag>
+		<English>local legend</English>
+		<German>örtliche Legende</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_WATERS_OF_LIFE_1</Tag>
+		<English>Waters of Life</English>
+		<German>Wasser des Lebens</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_GREAT_BEAST_1</Tag>
+		<English>great beast</English>
+		<German>riesiges Tier</German>
+	</TEXT>
+<!-- K-Mod -->
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_VOLCANO_1</Tag>
+		<English>volcanic ash</English>
+		<German>Vulkanasche</German>
+	</TEXT>
+	<!-- New Event Texts - START- Hian the Frog - 28/08/11 -->
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_CLAY_1</Tag>
+		<English>clay</English>
+		<German>Ton</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_TUSK_1</Tag>
+		<English>narwhal tusk</English>
+		<German>Narwal Stoßzahn</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SIGN_EVENT_PEAT_1</Tag>
+		<English>peat</English>
+		<German>Torf</German>
+	</TEXT>
+	<!-- New Event Texts- END- Hian the Frog - 28/08/11 -->
+</Civ4GameText>

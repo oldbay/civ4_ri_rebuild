@@ -1,0 +1,2485 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <!-- BEGIN: UNITCLASS_CHARIOT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_AFRICAN</Tag>
+		<English>Chariot (African)</English>
+		<German>
+			<Text>Afrikanischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_FILIPINO</Tag>
+		<English>Chariot (Gadding)</English>
+		<German>
+			<Text>Gadding Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_ARABIAN</Tag>
+		<English>Chariot (Bedouin)</English>
+		<German>
+			<Text>Beduinischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_ARMENIA</Tag>
+		<English>Chariot (Urartu)</English>
+		<German>
+			<Text>Urart&#228;ischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_ASIAN</Tag>
+		<English>Chariot (Wu Zhan Che)</English>
+		<German>
+			<Text>Dongwu Che</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_AUSTRONESIA</Tag>
+		<English>Chariot (Proto-Austronesian)</English>
+		<German>
+			<Text>Proto-Austronesischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_AZTEC</Tag>
+		<English>Chariot (Aztec)</English>
+		<German>
+			<Text>Aztekischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_BABYLON</Tag>
+		<English>Chariot (Old Babylonian)</English>
+		<German>
+			<Text>Pal&#228;obabylonischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_BANTU</Tag>
+		<English>Chariot (Luba)</English>
+		<German>
+			<Text>Luba-Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_BERBER</Tag>
+		<English>Chariot (Garamantian)</English>
+		<German>
+			<Text>Garamanten-Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_CELTIC</Tag>
+		<English>Chariot (Cidainh)</English>
+		<German>
+			<Text>Cidainh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_CHINA</Tag>
+		<English>Chariot (Han Zhan Che)</English>
+		<German>
+			<Text>Han-Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_DRAVIDIAN</Tag>
+		<English>Chariot (Tamil Ratha)</English>
+		<German>
+			<Text>Tamilischer Ratha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_DUTCH</Tag>
+		<English>Chariot (Belgae Cidainh)</English>
+		<German>
+			<Text>Belgae Cidainh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_EGYPT</Tag>
+		<English>Chariot (Two-Man)</English>
+		<German>
+			<Text>Hethitische Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_ETHIOPIA</Tag>
+		<English>Chariot (Axumite)</English>
+		<German>
+			<Text>Aksumitischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_FRANCE</Tag>
+		<English>Chariot (Karros)</English>
+		<German>
+			<Text>Karros</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_GERMAN</Tag>
+		<English>Chariot (War Wagon)</English>
+		<German>
+			<Text>Germanischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_HUN</Tag>
+		<English>Chariot (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_HUNGARY</Tag>
+		<English>Chariot (Onogur)</English>
+		<German>
+			<Text>Onogur-Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_INCAN</Tag>
+		<English>Chariot (Andean)</English>
+		<German>
+			<Text>Anden-Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_INDIA</Tag>
+		<English>Chariot (Ratha)</English>
+		<German>
+			<Text>Ratha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_ISRAEL</Tag>
+		<English>Chariot (Judean)</English>
+		<German>
+			<Text>Jud&#228;ischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_JAPAN</Tag>
+		<English>Chariot (Heisha)</English>
+		<German>
+			<Text>Japanischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_KHMER</Tag>
+		<English>Chariot (Khmer Surin)</English>
+		<German>
+			<Text>Surin-Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_KOREA</Tag>
+		<English>Chariot (Gojoseon)</English>
+		<German>
+			<Text>Go-Joseon-Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_MAYA</Tag>
+		<English>Chariot (Mayapan)</English>
+		<German>
+			<Text>Mayapanischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_MONGOL</Tag>
+		<English>Chariot (Xiongnu)</English>
+		<German>
+			<Text>Xiongnu-Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_NUBIA</Tag>
+		<English>Chariot (Kermanite)</English>
+		<German>
+			<Text>Nubischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_OTTOMAN</Tag>
+		<English>Chariot (Turkoman)</English>
+		<German>
+			<Text>Turkmenischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_PERSIA</Tag>
+		<English>Chariot (Arabe Nezam)</English>
+		<German>
+			<Text>Ar&#226;be Nez&#226;m</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_POLAND</Tag>
+		<English>Chariot (Rydwan)</English>
+		<German>
+			<Text>Polnischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_PORTUGAL</Tag>
+		<English>Chariot (Lusitani)</English>
+		<German>
+			<Text>Lusitanischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_ROME</Tag>
+		<English>Chariot (Currus)</English>
+		<German>
+			<Text>R&#246;mischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_RUSSIA</Tag>
+		<English>Chariot (Scythian)</English>
+		<German>
+			<Text>Skythischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_SPAIN</Tag>
+		<English>Chariot (Iberian Cidainh)</English>
+		<German>
+			<Text>Iberischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_TARTAR</Tag>
+		<English>Chariot (Bulgar)</English>
+		<German>
+			<Text>Tatarischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_TRANSOXIANA</Tag>
+		<English>Chariot (Sogdian)</English>
+		<German>
+			<Text>Sogdischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARIOT_VIKING</Tag>
+		<English>Chariot (Nordic)</English>
+		<German>
+			<Text>Nordischer Streitwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_CHARIOT -->
+  <!-- BEGIN: UNITCLASS_CATAPHRACT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_AMERICA</Tag>
+		<English>Cataphract (Mounted Warrior)</English>
+		<German>
+			<Text>Berittener Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_FILIPINO</Tag>
+		<English>Cataphract (Visayan)</English>
+		<German>
+			<Text>Visayas-Kataphrakt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_ARAB</Tag>
+		<English>Cataphract (Asawira)</English>
+		<German>
+			<Text>Asawira</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_ARMENIA</Tag>
+		<English>Cataphract (Aspet Hetselazor)</English>
+		<German>
+			<Text>Kaukasischer gepanzerter Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_AUSTRIA</Tag>
+		<English>Cataphract (Eisenritter)</English>
+		<German>
+			<Text>Eisenritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_AUSTRONESIA</Tag>
+		<English>Cataphract (Medang Heavy Horseman)</English>
+		<German>
+			<Text>Gepanzerter Mataram-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_AZTEC</Tag>
+		<English>Cataphract (Otomitl)</English>
+		<German>
+			<Text>Otomitl</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_BABYLON</Tag>
+		<English>Cataphract (Lakhmid)</English>
+		<German>
+			<Text>Lachmidischer Kataphrakt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_BANTU</Tag>
+		<English>Cataphract (Swahili Horseman)</English>
+		<German>
+			<Text>Swahili-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_BARBARIAN</Tag>
+		<English>Cataphract (Nomad Raider)</English>
+		<German>
+			<Text>Nomadischer R&#228;uber</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_BERBER</Tag>
+		<English>Cataphract (Numidian)</English>
+		<German>
+			<Text>Numidischer gepanzerter Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_CARTHAGE</Tag>
+		<English>Cataphract (Sacred Band)</English>
+		<German>
+			<Text>Heilige Schar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_CELT</Tag>
+		<English>Cataphract (Brihentin)</English>
+		<German>
+			<Text>Brihentin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_CHINA</Tag>
+		<English>Cataphract (Tang)</English>
+		<German>
+			<Text>Gepanzerter Tang-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_DEFAULT</Tag>
+		<English>Cataphract</English>
+		<German>
+			<Text>Kataphrakt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_DRAVIDIAN</Tag>
+		<English>Cataphract (Tamil)</English>
+		<German>
+			<Text>Tamilischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_EGYPT</Tag>
+		<English>Cataphract (Ptolemaic)</English>
+		<German>
+			<Text>Ptolem&#228;ischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_ENGLAND</Tag>
+		<English>Cataphract (Norman Cavalry)</English>
+		<German>
+			<Text>Normannischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_ETHIOPIA</Tag>
+		<English>Cataphract (Axumite)</English>
+		<German>
+			<Text>Abessinischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_FINLAND</Tag>
+		<English>Cataphract (Kven Heavy Rider)</English>
+		<German>
+			<Text>Gepanzerter Kven-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_FRANCE</Tag>
+		<English>Cataphract (Frankish Cavalry)</English>
+		<German>
+			<Text>Fr&#228;nkischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_GERMAN</Tag>
+		<English>Cataphract (Knappe)</English>
+		<German>
+			<Text>Knappe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_GREECE</Tag>
+		<English>Cataphract (Hetairoi)</English>
+		<German>
+			<Text>Hetairos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_HUN</Tag>
+		<English>Cataphract (Nomadic)</English>
+		<German>
+			<Text>Nomadischer gepanzerter Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_INCA</Tag>
+		<English>Cataphract (Mounted Huaminca)</English>
+		<German>
+			<Text>Berittener Huaminca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_INDIA</Tag>
+		<English>Cataphract (Mauryan Cavalry)</English>
+		<German>
+			<Text>Maurya-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_ISRAEL</Tag>
+		<English>Cataphract (Sebastenos)</English>
+		<German>
+			<Text>Jud&#228;ischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_JAPAN</Tag>
+		<English>Cataphract (Kofun Heavy Rider)</English>
+		<German>
+			<Text>Gepanzerter Kofun-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_KHMER</Tag>
+		<English>Cataphract (Khmer Krom)</English>
+		<German>
+			<Text>Khmer Krom-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_LITHUANIA</Tag>
+		<English>Cataphract (Leiciai)</English>
+		<German>
+			<Text>Leiciai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_MALI</Tag>
+		<English>Cataphract (Soninke Rider)</English>
+		<German>
+			<Text>Soninke-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_MAYA</Tag>
+		<English>Cataphract (Aguatecan)</English>
+		<German>
+			<Text>Aguateca-Lanzentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_MONGOL</Tag>
+		<English>Cataphract (Steppe Heavy Rider)</English>
+		<German>
+			<Text>Gepanzerter Steppenreiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_NUBIA</Tag>
+		<English>Cataphract (Meroitic Heavy Rider)</English>
+		<German>
+			<Text>Meroitischer gepanzerter Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_OTTOMAN</Tag>
+		<English>Cataphract (Ghulam)</English>
+		<German>
+			<Text>Ghulam-Lanzenreiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_PERSIA</Tag>
+		<English>Cataphract (Aratibara Asabari)</English>
+		<German>
+			<Text>Aratibara Asabari</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_POLAND</Tag>
+		<English>Cataphract (Vitez)</English>
+		<German>
+			<Text>Vitez</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_PONTUS</Tag>
+		<English>Cataphract (Cappadocian)</English>
+		<German>
+			<Text>Kappadokischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_PORTUGAL</Tag>
+		<English>Cataphract (Suevic Rider)</English>
+		<German>
+			<Text>Suebischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_ROME</Tag>
+		<English>Cataphract (Roman)</English>
+		<German>
+			<Text>R&#246;mischer Kataphrakt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_RUSSIA</Tag>
+		<English>Cataphract (Druzhina)</English>
+		<German>
+			<Text>Druschina</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_SPAIN</Tag>
+		<English>Cataphract (Escudero)</English>
+		<German>
+			<Text>Spanischer Edelknecht</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_TRANSOXIANA</Tag>
+		<English>Cataphract (Parthian)</English>
+		<German>
+			<Text>Parthischer Kataphrakt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_UKRAINE_VOLHYNIA</Tag>
+		<English>Cataphract (Ruthenian Druzhina)</English>
+		<German>
+			<Text>Ruthenischer Druschina</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_VIKING</Tag>
+		<English>Cataphract (Ryttare)</English>
+		<German>
+			<Text>Ryttare</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_COMPANION_ZULU</Tag>
+		<English>Cataphract (Xhosa Rider)</English>
+		<German>
+			<Text>Xhosa-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_CATAPHRACT -->
+  <!-- BEGIN: UNITCLASS_KNIGHT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_ARMENIA</Tag>
+		<English>Knight (Cilician)</English>
+		<German>
+			<Text>Kilikischer Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MONGOL_KESHIK</Tag>
+		<English>Knight (Keshik)</English>
+		<German>
+			<Text>Keshik-Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_AUSTRONESIA</Tag>
+		<English>Knight (Mounted Datuk)</English>
+		<German>
+			<Text>Berittener Datuk</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_AZTEC</Tag>
+		<English>Knight (Mounted Quauhtin)</English>
+		<German>
+			<Text>Berittener Quauhtin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_BABYLON</Tag>
+		<English>Knight (Abbasid Ghulam)</English>
+		<German>
+			<Text>Abbasid Ghulam</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_FILIPINO</Tag>
+		<English>Knight (Moro Heavy Cavalry)</English>
+		<German>
+			<Text>Schwere Moro-Kavallerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_BERBER</Tag>
+		<English>Knight (Marinid Heavy Cavalry)</English>
+		<German>
+			<Text>Marinidischer gepanzerter Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_CARTHAGE</Tag>
+		<English>Knight (Hafsid Heavy Cavalry)</English>
+		<German>
+			<Text>Hafsidischer gepanzerter Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_CELT</Tag>
+		<English>Knight (Celtic)</English>
+		<German>
+			<Text>Keltischer Adliger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_CHINA</Tag>
+		<English>Knight (Jin Heavy Rider)</English>
+		<German>
+			<Text>Gepanzerter Jin-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_DRAVIDIAN</Tag>
+		<English>Knight (Vijayanagara Kshatriya)</English>
+		<German>
+			<Text>Berittener Vijayanagara-Kshatriya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_DUTCH</Tag>
+		<English>Knight (Burgundian)</English>
+		<German>
+			<Text>Burgundischer Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_EGYPT</Tag>
+		<English>Knight (Mamluk Rider)</English>
+		<German>
+			<Text>Mamlukischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_ENGLAND</Tag>
+		<English>Knight (Norman)</English>
+		<German>
+			<Text>Normannischer Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_ETHIOPIA</Tag>
+		<English>Knight (Abyssinian)</English>
+		<German>
+			<Text>Abessinischer gepanzerter Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_FRANCE</Tag>
+		<English>Knight (Chevalier Banneret)</English>
+		<German>
+			<Text>Banneret</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_GERMAN</Tag>
+		<English>Knight (Ritter)</English>
+		<German>
+			<Text>Deutscher Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_GREECE</Tag>
+		<English>Knight (Late Kataphraktoi)</English>
+		<German>
+			<Text>Kataphraktos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_HUN</Tag>
+		<English>Knight (Nomadic Noble Cavalry)</English>
+		<German>
+			<Text>Nomadischer Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_HUNGARY</Tag>
+		<English>Knight (P&#225;nc&#233;los lovag)</English>
+		<German>
+			<Text>Ungarischer Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_INCA</Tag>
+		<English>Knight (Mounted Curaca)</English>
+		<German>
+			<Text>Berittener Kuraka</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_INDIA</Tag>
+		<English>Knight (Kshatriya)</English>
+		<German>
+			<Text>Berittener Kshatriya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_ISRAEL</Tag>
+		<English>Knight (Khazar Heavy Cavalry)</English>
+		<German>
+			<Text>Khazar Schwere Kavallerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_AMERICA</Tag>
+		<English>Knight (American)</English>
+		<German>
+			<Text>Berittener gepanzerter Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_ARABIA</Tag>
+		<English>Knight (Faris)</English>
+		<German>
+			<Text>Arabischer Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_JAPAN</Tag>
+		<English>Knight (Kiba Gundan)</English>
+		<German>
+			<Text>Kiba Gundan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_KHMER</Tag>
+		<English>Knight (Khmer Krom)</English>
+		<German>
+			<Text>Gepanzerter Khmer Krom-Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_MAYA</Tag>
+		<English>Knight (Quiriguan Cavalry)</English>
+		<German>
+			<Text>Quirigu&#225;-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_MUGHAL</Tag>
+		<English>Knight (Mughal Heavy Cavalry)</English>
+		<German>
+			<Text>Mughalischer gepanzerter Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_NUBIA</Tag>
+		<English>Knight (Makurian)</English>
+		<German>
+			<Text>Makuria-Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_POLAND</Tag>
+		<English>Knight (Rycerz)</English>
+		<German>
+			<Text>Polnischer Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_PORTUGAL</Tag>
+		<English>Knight (Fidalgo-Cavaleiro)</English>
+		<German>
+			<Text>Portugiesischer Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_TARTAR</Tag>
+		<English>Knight (Nokhor)</English>
+		<German>
+			<Text>Nokhor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_TRANSOXIANA</Tag>
+		<English>Knight (Timurid Noble Cavalry)</English>
+		<German>
+			<Text>Timuridischer adliger Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_VENICE</Tag>
+		<English>Knight (Lanze Spezzate)</English>
+		<German>
+			<Text>Lanze Spezzate</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_KOREA</Tag>
+		<English>Knight (Masang Geom)</English>
+		<German>
+			<Text>Masang Ssanggeom</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_LITHUANIA</Tag>
+		<English>Knight (Slekta)</English>
+		<German>
+			<Text>Slekta</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_MALI</Tag>
+		<English>Knight (Farima)</English>
+		<German>
+			<Text>Farima</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_OTTOMAN</Tag>
+		<English>Knight (Sipahi)</English>
+		<German>
+			<Text>Sipahi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_PERSIA</Tag>
+		<English>Knight (Saware Nezam)</English>
+		<German>
+			<Text>Saw&#226;re Nez&#226;m</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_ROMAN</Tag>
+		<English>Knight (Cavalieri Addobbati)</English>
+		<German>
+			<Text>Cavalieri Addobbati</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_RUSSIA</Tag>
+		<English>Knight (Boyar Cavalry)</English>
+		<German>
+			<Text>Russischer Bojar-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_SOUTH_CHINA</Tag>
+		<English>Knight (Song Heavy Rider)</English>
+		<German>
+			<Text>Gepanzerter Song-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_SPAIN</Tag>
+		<English>Knight (Hidalgos)</English>
+		<German>
+			<Text>Hidalgo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_UKRAINE_VOLHYNIA</Tag>
+		<English>Knight (Ruthenian)</English>
+		<German>
+			<Text>Ruthenischer Bojar-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_VIKING</Tag>
+		<English>Knight (Swedish)</English>
+		<German>
+			<Text>Riddare</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KNIGHT_ZULU</Tag>
+		<English>Knight (Fasimba)</English>
+		<German>
+			<Text>Fasimba-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_KNIGHT -->
+  <!-- BEGIN: UNITCLASS_CUIRASSIER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER</Tag>
+		<English>Cuirassier</English>
+		<German>
+			<Text>K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_ARAB</Tag>
+		<English>Cuirassier (Bedouin)</English>
+		<German>
+			<Text>Beduinischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_FILIPINO</Tag>
+		<English>Cuirassier (Moro)</English>
+		<German>
+			<Text>Beduinischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_ARMENIA</Tag>
+		<English>Cuirassier (Caucassian)</English>
+		<German>
+			<Text>Kaukasischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_AUSTRIA</Tag>
+		<English>Cuirassier (Austrian)</English>
+		<German>
+			<Text>&#214;sterreichischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_AUSTRONESIA</Tag>
+		<English>Cuirassier (Mataram)</English>
+		<German>
+			<Text>Mataram-K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_AZTEC</Tag>
+		<English>Cuirassier (Mexican)</English>
+		<German>
+			<Text>Aztekischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_BERBER</Tag>
+		<English>Cuirassier (Moorish)</English>
+		<German>
+			<Text>Maurischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_CELT</Tag>
+		<English>Cuirassier (Scottish)</English>
+		<German>
+			<Text>Schottischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_CHINA</Tag>
+		<English>Cuirassier (Ming)</English>
+		<German>
+			<Text>Ming-K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_DRAVIDIAN</Tag>
+		<English>Cuirassier (Travancore Cavalry)</English>
+		<German>
+			<Text>Travancore-K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_DUTCH</Tag>
+		<English>Cuirassier (Dutch)</English>
+		<German>
+			<Text>Niederl&#228;ndischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_EGYPT</Tag>
+		<English>Cuirassier (Mamluk)</English>
+		<German>
+			<Text>Mamlukischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_ENGLAND</Tag>
+		<English>Cuirassier (Household Cavalry)</English>
+		<German>
+			<Text>Household-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_ETHIOPIA</Tag>
+		<English>Cuirassier (Abyssinian)</English>
+		<German>
+			<Text>Abessinischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_FRANCE</Tag>
+		<English>Cuirassier (French)</English>
+		<German>
+			<Text>Franz&#246;sischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_GERMAN</Tag>
+		<English>Cuirassier (Prussian)</English>
+		<German>
+			<Text>Deutscher K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_GREECE</Tag>
+		<English>Cuirassier (Loricatus)</English>
+		<German>
+			<Text>Griechischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_HUNGARY</Tag>
+		<English>Cuirassier (Vertes Katona)</English>
+		<German>
+			<Text>Ungarischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_INCA</Tag>
+		<English>Cuirassier (Mesoamerican)</English>
+		<German>
+			<Text>Mesoamerikanischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_INDIA</Tag>
+		<English>Cuirassier (Maratha)</English>
+		<German>
+			<Text>Maratha-K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_ISRAEL</Tag>
+		<English>Cuirassier (Judean)</English>
+		<German>
+			<Text>Jud&#228;ischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_JAPAN</Tag>
+		<English>Cuirassier (Kiba Teppou)</English>
+		<German>
+			<Text>Japanischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_KHMER</Tag>
+		<English>Cuirassier (Cambodian)</English>
+		<German>
+			<Text>Kambodschanischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_KOREA</Tag>
+		<English>Cuirassier (Choson)</English>
+		<German>
+			<Text>Joseon-K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_MALI</Tag>
+		<English>Cuirassier (Mandekalu)</English>
+		<German>
+			<Text>Mandekalu K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_MAYA</Tag>
+		<English>Cuirassier (Aguatecan)</English>
+		<German>
+			<Text>Aguateca-K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_MIDEAST</Tag>
+		<English>Cuirassier (Middle Eastern)</English>
+		<German>
+			<Text>Mittel&#246;stlicher K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_MONGOL</Tag>
+		<English>Cuirassier (Steppe)</English>
+		<German>
+			<Text>Steppenk&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_MUGHAL</Tag>
+		<English>Cuirassier (Mughal)</English>
+		<German>
+			<Text>Mughalischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_OTTOMAN</Tag>
+		<English>Cuirassier (Ulufeci Sipahi)</English>
+		<German>
+			<Text>Sipahi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_POLAND</Tag>
+		<English>Cuirassier (Reiter)</English>
+		<German>
+			<Text>Polnischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_PORTUGAL</Tag>
+		<English>Cuirassier (Portuguese)</English>
+		<German>
+			<Text>Portugiesischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_ROME</Tag>
+		<English>Cuirassier (Condotta Cavalry)</English>
+		<German>
+			<Text>Condottiere-K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_RUSSIA</Tag>
+		<English>Cuirassier (Cavalry Guard)</English>
+		<German>
+			<Text>Russischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_SPAIN</Tag>
+		<English>Cuirassier (Spanish)</English>
+		<German>
+			<Text>Spanischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_TRANSOXIANA</Tag>
+		<English>Cuirassier (Uzbek Rider)</English>
+		<German>
+			<Text>Usbekischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_UKRAINE_VOLHYNIA</Tag>
+		<English>Cuirassier (Bunchuzhny Tovarysch)</English>
+		<German>
+			<Text>Bunchuzhny Tovarysch</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_US</Tag>
+		<English>Cuirassier (Continental Army Dragoons)</English>
+		<German>
+			<Text>Dragoner der Kontinentalarmee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_VIKING</Tag>
+		<English>Cuirassier (Swedish)</English>
+		<German>
+			<Text>Skandinavischer K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER_ZULU</Tag>
+		<English>Cuirassier (Basotho)</English>
+		<German>
+			<Text>Basotho-K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_CUIRASSIER -->
+  <!-- BEGIN: UNITCLASS_CAVALRY -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_AMERICA</Tag>
+		<English>Cavalry (US)</English>
+		<German>
+			<Text>US-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RUSSIA_COSSACK</Tag>
+		<English>Cavalry (Cossack)</English>
+		<German>
+			<Text>Kosaken-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_ARAB</Tag>
+		<English>Cavalry (Arab)</English>
+		<German>
+			<Text>Arabischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_ARMENIA</Tag>
+		<English>Cavalry (Armenian)</English>
+		<German>
+			<Text>Armenischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_AUSTRONESIA</Tag>
+		<English>Cavalry (Aceh)</English>
+		<German>
+			<Text>Aceh-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_BERBER</Tag>
+		<English>Cavalry (Moorish)</English>
+		<German>
+			<Text>Maurischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_BRAZIL</Tag>
+		<English>Cavalry (Line)</English>
+		<German>
+			<Text>Liniekavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_CELT</Tag>
+		<English>Cavalry (Irish)</English>
+		<German>
+			<Text>Irischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_CHINA</Tag>
+		<English>Cavalry (Banner)</English>
+		<German>
+			<Text>Bannerkavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_DRAVIDIAN</Tag>
+		<English>Cavalry (Madras Sowar)</English>
+		<German>
+			<Text>Madras-Sowar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_DUTCH</Tag>
+		<English>Cavalry (Dutch)</English>
+		<German>
+			<Text>Niederl&#228;ndischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_EGYPT</Tag>
+		<English>Cavalry (Mamluk)</English>
+		<German>
+			<Text>Mamlukischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_ENGLAND</Tag>
+		<English>Cavalry (Colonial)</English>
+		<German>
+			<Text>Kolonialkavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_ETHIOPIA</Tag>
+		<English>Cavalry (Ras)</English>
+		<German>
+			<Text>Ras-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_FRANCE</Tag>
+		<English>Cavalry (Dragoon)</English>
+		<German>
+			<Text>Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_GERMAN</Tag>
+		<English>Cavalry (Prussian)</English>
+		<German>
+			<Text>Deutscher Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_GREECE</Tag>
+		<English>Cavalry (Hippikon)</English>
+		<German>
+			<Text>Hippikon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_HUNGARY</Tag>
+		<English>Cavalry (Lovass&#225;g)</English>
+		<German>
+			<Text>Ungarischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_INCA</Tag>
+		<English>Cavalry (Peruvian)</English>
+		<German>
+			<Text>Peruanischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_INDIA</Tag>
+		<English>Cavalry (Sowar)</English>
+		<German>
+			<Text>Indischer Sowar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_JAPAN</Tag>
+		<English>Cavalry (IJA)</English>
+		<German>
+			<Text>Kavallerist der Kaiserlich Japanischen Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_KHMER</Tag>
+		<English>Cavalry (Cambodian)</English>
+		<German>
+			<Text>Kambodschanischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_KOREA</Tag>
+		<English>Cavalry (Donghak)</English>
+		<German>
+			<Text>Donghak-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_LA_PLATA</Tag>
+		<English>Cavalry (Argentinian)</English>
+		<German>
+			<Text>Argentinischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_MALI</Tag>
+		<English>Cavalry (Toucouleur)</English>
+		<German>
+			<Text>Tukulor-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_MONGOL</Tag>
+		<English>Cavalry (Steppe)</English>
+		<German>
+			<Text>Steppenkavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_OTTOMAN</Tag>
+		<English>Cavalry (Nizamiye)</English>
+		<German>
+			<Text>Osmanischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_PERSIA</Tag>
+		<English>Cavalry (Qajar)</English>
+		<German>
+			<Text>Kadscharischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_POLAND</Tag>
+		<English>Cavalry (Polish)</English>
+		<German>
+			<Text>Polnischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_PORTUGAL</Tag>
+		<English>Cavalry (Drag&#227;o)</English>
+		<German>
+			<Text>Portugiesischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_ROME</Tag>
+		<English>Cavalry (Sardinia-Piedmont)</English>
+		<German>
+			<Text>R&#246;mischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_SPAIN</Tag>
+		<English>Cavalry (Drag&#243;n)</English>
+		<German>
+			<Text>Spanischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_TRANSOXIANA</Tag>
+		<English>Cavalry (Khivan)</English>
+		<German>
+			<Text>Khiva-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_UKRAINE_VOLHYNIA</Tag>
+		<English>Cavalry (Kuban Cossack)</English>
+		<German>
+			<Text>Kuban-Kosak</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_VIKING</Tag>
+		<English>Cavalry (Swedish)</English>
+		<German>
+			<Text>Nordischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAVALRY_ZULU</Tag>
+		<English>Cavalry (Basotho)</English>
+		<German>
+			<Text>Basotho-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_CAVALRY -->
+  <!-- BEGIN: UNITCLASS_MODERN_CAVALRY -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY</Tag>
+		<English>Modern Cavalry</English>
+		<German>
+			<Text>Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_AFRICAN</Tag>
+		<English>Modern Cavalry (African)</English>
+		<German>
+			<Text>Afrikanischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_FILIPINO</Tag>
+		<English>Modern Cavalry (Filipino)</English>
+		<German>
+			<Text>Philippinische Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_ARAB</Tag>
+		<English>Modern Cavalry (Arab)</English>
+		<German>
+			<Text>Arabischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_AMERICA</Tag>
+		<English>Modern Cavalry (Rough Riders)</English>
+		<German>
+			<Text>Amerikanisher Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_ARMENIA</Tag>
+		<English>Modern Cavalry (Mountain)</English>
+		<German>
+			<Text>Bergdragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_AUSTRIA</Tag>
+		<English>Modern Cavalry (K.u.K)</English>
+		<German>
+			<Text>K.u.k.-Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_HUNGARY</Tag>
+		<English>Modern Cavalry (Nemzeti Hadsereg)</English>
+		<German>
+			<Text>Honved-Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_CARTHAGE</Tag>
+		<English>Modern Cavalry (Maghrebi Spahi)</English>
+		<German>
+			<Text>Maghreb-Sipahi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_CHINA</Tag>
+		<English>Modern Cavalry (Beiyang)</English>
+		<German>
+			<Text>Beiyang Cavalerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_DRAVIDIAN</Tag>
+		<English>Modern Cavalry (Madras)</English>
+		<German>
+			<Text>Madras-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_ENGLAND</Tag>
+		<English>Modern Cavalry (Commonwealth)</English>
+		<German>
+			<Text>Commonwealth-Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_FINLAND</Tag>
+		<English>Modern Cavalry (Suomi Dragoner)</English>
+		<German>
+			<Text>Finnischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_FRANCE</Tag>
+		<English>Modern Cavalry (Mounted Infantry)</English>
+		<German>
+			<Text>Franz&#246;sischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_GERMANY</Tag>
+		<English>Modern Cavalry (Ulanen)</English>
+		<German>
+			<Text>Ulan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_INCA</Tag>
+		<English>Modern Cavalry (Peruvian)</English>
+		<German>
+			<Text>Peruanischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_INDIA</Tag>
+		<English>Modern Cavalry (Bengali)</English>
+		<German>
+			<Text>Bengalischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_JAPAN</Tag>
+		<English>Modern Cavalry (IJA)</English>
+		<German>
+			<Text>Dragoner der Kaiserlich Japanischen Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_MALI</Tag>
+		<English>Modern Cavalry (Senegalese)</English>
+		<German>
+			<Text>Senegalischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_MONGOL</Tag>
+		<English>Modern Cavalry (Asiatic)</English>
+		<German>
+			<Text>Asiatischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_OTTOMAN</Tag>
+		<English>Modern Cavalry (Nizamiye)</English>
+		<German>
+			<Text>Osmanischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_PERSIA</Tag>
+		<English>Modern Cavalry (Pahlavid)</English>
+		<German>
+			<Text>Pahlavi-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_POLAND</Tag>
+		<English>Modern Cavalry (Polish)</English>
+		<German>
+			<Text>Polnischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_ROME</Tag>
+		<English>Modern Cavalry (Regia Cavalleria)</English>
+		<German>
+			<Text>Corazzieri</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_RUSSIA</Tag>
+		<English>Modern Cavalry (Cossack)</English>
+		<German>
+			<Text>Russischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_SPAIN</Tag>
+		<English>Modern Cavalry (Caballeria Pesada)</English>
+		<German>
+			<Text>Spanischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_TRANSOXIANA</Tag>
+		<English>Modern Cavalry (Turkestani)</English>
+		<German>
+			<Text>Turkistanischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_UKRAINE</Tag>
+		<English>Modern Cavalry (Kuban Cossack)</English>
+		<German>
+			<Text>Ukrainischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_CAVALRY_VIKING</Tag>
+		<English>Modern Cavalry (Swedish)</English>
+		<German>
+			<Text>Nordischer Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_MODERN_CAVALRY -->
+    <!-- BEGIN:   UNITCLASS_MEDIUM_CAVALRY -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY</Tag>
+		<English>Medium Cavalry</English>
+		<German>
+			<Text>Mittlerer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_AUSTRONESIA</Tag>
+		<English>Medium Cavalry (Mataram)</English>
+		<German>
+			<Text>Mataram-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_BARBARIAN</Tag>
+		<English>Medium Cavalry (Heavy Raider)</English>
+		<German>
+			<Text>Nomadischer gepanzerter R&#228;uber</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_CELT</Tag>
+		<English>Medium Cavalry (Hobelar)</English>
+		<German>
+			<Text>Hobelar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_CHINA</Tag>
+		<English>Medium Cavalry (Tang)</English>
+		<German>
+			<Text>Han-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_ENGLAND</Tag>
+		<English>Medium Cavalry (Yeoman)</English>
+		<German>
+			<Text>Yeoman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_FRANCE</Tag>
+		<English>Medium Cavalry (Capetian)</English>
+		<German>
+			<Text>Kapetinger-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_GREECE</Tag>
+		<English>Medium Cavalry (Kavallarioi)</English>
+		<German>
+			<Text>Griechischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_INCA</Tag>
+		<English>Medium Cavalry (Andean)</English>
+		<German>
+			<Text>Anden-Lanzentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_INDIA</Tag>
+		<English>Medium Cavalry (Rajput)</English>
+		<German>
+			<Text>Rajputischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_POLAND</Tag>
+		<English>Medium Cavalry (Towarzysz Pancerny)</English>
+		<German>
+			<Text>Polnischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_ROME</Tag>
+		<English>Medium Cavalry (Cavalieri)</English>
+		<German>
+			<Text>R&#246;mischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_RUSSIA</Tag>
+		<English>Medium Cavalry (Landed Army)</English>
+		<German>
+			<Text>Russischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_CAVALRY_UKRAINE_VOLHYNIA</Tag>
+		<English>Medium Cavalry (Ruthenian)</English>
+		<German>
+			<Text>Ruthenian Pomestya Cavalry</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+    <!-- END:   UNITCLASS_MEDIUM_CAVALRY -->
+	<!-- BEGIN:   UNITCLASS_WAR_ELEPHANT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_AFRICA_SAVANNA</Tag>
+		<English>War Elephant (Savannah)</English>
+		<German>
+			<Text>Savannenkriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_ARABIA</Tag>
+		<English>War Elephant (Arabian)</English>
+		<German>
+			<Text>Arabischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_AUSTRONESIA</Tag>
+		<English>War Elephant (Srivijayan)</English>
+		<German>
+			<Text>Srivijaya-Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_AZTEC</Tag>
+		<English>War Elephant (Native)</English>
+		<German>
+			<Text>Aztekischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_BLACK_AFRICAN</Tag>
+		<English>War Elephant (African)</English>
+		<German>
+			<Text>Afrikanischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_CARTHAGE</Tag>
+		<English>War Elephant (North African)</English>
+		<German>
+			<Text>Afrikanischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_CHINA</Tag>
+		<English>War Elephant (Asian)</English>
+		<German>
+			<Text>Asiatischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_DRAVIDIA</Tag>
+		<English>War Elephant (Tamil Howdah)</English>
+		<German>
+			<Text>Tamilischer Howdah</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_EGYPT</Tag>
+		<English>War Elephant (Egypt)</English>
+		<German>
+			<Text>&#196;gyptischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_EUROPE</Tag>
+		<English>War Elephant (Nordic)</English>
+		<German>
+			<Text>Europ&#228;ischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_GREECE</Tag>
+		<English>War Elephant (Epirote)</English>
+		<German>
+			<Text>Epirus-Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_HUN</Tag>
+		<English>War Elephant (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_HUNGARY</Tag>
+		<English>War Elephant (Magyar)</English>
+		<German>
+			<Text>Ungarischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_INDIA</Tag>
+		<English>War Elephant (Gupta Howdah)</English>
+		<German>
+			<Text>Gupta-Howdah</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_JAPAN</Tag>
+		<English>War Elephant (Japan)</English>
+		<German>
+			<Text>Japanischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_KHMER</Tag>
+		<English>War Elephant (Khmer)</English>
+		<German>
+			<Text>Khmer-Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_MESO</Tag>
+		<English>War Elephant (Peruvian)</English>
+		<German>
+			<Text>Peruanischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_MONGOL</Tag>
+		<English>War Elephant (Steppe)</English>
+		<German>
+			<Text>Steppenkriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_OTTOMAN</Tag>
+		<English>War Elephant (Savas Fili)</English>
+		<German>
+			<Text>Osmanischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_PERSIA</Tag>
+		<English>War Elephant (Sassanid)</English>
+		<German>
+			<Text>Sassanidischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_ELEPHANT_ROME</Tag>
+		<English>War Elephant (Elephas Bellorum)</English>
+		<German>
+			<Text>R&#246;mischer Kriegselefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<!-- END:   UNITCLASS_WAR_ELEPHANT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOUNTED_WARRIOR</Tag>
+		<English>Mounted Savage</English>
+		<German>
+			<Text>Berittener Wilder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+</Civ4GameText>

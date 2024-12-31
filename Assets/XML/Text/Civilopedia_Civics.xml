@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civic and Religion Infos -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- BEGIN: GOVERNMENT_CIVIC -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_TRIBAL_UNION_PEDIA</Tag>
+		<English>[TAB] A tribe is viewed, historically or developmentally, as a social group existing before the development of, or outside of, states. Many anthropologists used the term tribal society to refer to societies organized largely on the basis of kinship, especially corporate descent groups (see clan and kinship).
+Some theorists hold that tribes represent a stage in social evolution intermediate between bands and states. Other theorists argue that tribes developed after, and must be understood in terms of their relationship to, states. (Wikipedia)</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_AUTOCRACY_PEDIA</Tag>
+		<English>[TAB] An autocracy is a system of government in which a supreme political power is concentrated in the hands of one person, whose decisions are subject to neither external legal restraints nor regularized mechanisms of popular control.
+Autocracy is any form of government in which one person is the supreme power within the state. It is derived from the Greek "self" and "rule", and may be translated as "one who rules by himself". It is distinct from oligarchy ("rule by the few") and democracy ("rule by the people"). Like "despot", "tyrant", "strongman" and "dictator", "autocrat" has become a loaded word with a negative value judgment in contemporary English usage.
+[TAB] In RI, this civic covers all forms of absolute monarchy.</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_OLIGARCHY_PEDIA</Tag>
+		<English>[TAB] A confederation (also known as a confederacy or league) is a union of sovereign groups or states united for purposes of common action. Usually created by a treaty, confederations of states tend to be established for dealing with critical issues, such as defense, foreign relations, internal trade or currency, with the general government being required to provide support for all its members. 
+[TAB] In RI, this civic covers instances where a civilization is historically represented by many independent entities - collections of city states, confederacies and leagues of smaller entities that can individually be ruled as monarchies or republics.</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_REPUBLIC_PEDIA</Tag>
+		<English>[TAB] A republic is a form of government in which the government is officially apportioned to the control of the people and thus a "public matter" (Latin: res publica) and where offices of state are subsequently directly or indirectly elected or appointed. In modern times, a common simplified definition of a republic is a government where the head of state is not a monarch. The word republic is derived from the Latin phrase res publica, which can be translated as "the public affair", and often used to describe a state using this form of government.
+[TAB] In RI, this civic covers all forms of early governance that aren't in essence monarchies - ancient direct democracies, merchant or peasant republics, even collections of separate states where integration has advanced to a level of federation (usually when its most powerful member holds a disproportionate level of influence).</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MONARCHY_PEDIA</Tag>
+		<English>[TAB] A monarchy is a form of government in which a person, the monarch, is head of state until death or abdication. The legitimation and governing power of the monarch may vary from purely symbolic (crowned republic), to restricted (constitutional monarchy), to fully autocratic (absolute monarchy), combining executive, legislative and judicial power.
+[TAB]In most cases, the succession of monarchies is hereditary, but there are also elective and self-proclaimed monarchies, often building dynastic periods. Aristocrats, though not inherent to monarchies, often serve as the pool of persons to draw the monarch from and fill the constituting institutions (e.g. diet and court), giving many monarchies oligarchic elements.
+[TAB]In RI, this civic is distinct from Autocracy by some form of check on the absolute power of the monarch, be it feudal contract (and powerful nobles that come with it), constitution or any other constraint.</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DEMOCRACY_PEDIA</Tag>
+		<English>[TAB] Democracy is an egalitarian form of government in which all the citizens of a nation together determine public policy, the laws and the actions of their state, requiring that all citizens (meeting certain qualifications) have an equal opportunity to express their opinion. In practise, "democracy" is the extent to which a given system approximates this ideal, and a given political system is referred to as "a democracy" if it allows a certain approximation to ideal democracy. Although no country has ever granted all its citizens (i.e. including minors) the vote, most countries today hold regular elections based on egalitarian principles, at least in theory. Elements considered essential to democracy include freedom of political expression, freedom of speech, and freedom of the press, so that citizens are adequately informed and able to vote according to their own best interests as they see them. (Wikipedia)</English>
+		<German>[TAB] Not translated (Wikipedia)  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DICTATORSHIP_PEDIA</Tag>
+		<English>[TAB] A dictatorship is a form of government which is characterized by a leader or a group of leaders which holds governmental powers with few to no limitations on them.[1] The leader of a dictatorship is called a dictator. Politics in a dictatorship take place between the dictator, the inner circle, and the opposition, which may be peaceful or violent. Dictatorships can be formed by a military coup that overthrows the previous government through force or by a self-coup in which elected leaders make their rule permanent. Dictatorships frequently hold elections in order to establish their legitimacy or provide incentives to members of the ruling party, but these elections are not competitive for the opposition. Stability in a dictatorship is maintained through coercion, which involves the restriction of access to information, the tracking of the political opposition, and acts of violence. Strong opposition groups can result in the collapse of a dictatorship through a coup or a revolution. (Wikipedia)</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FEDERALISM_PEDIA</Tag>
+		<English>[TAB] Political federalism is a political philosophy in which a group of members are bound together with a governing representative head. The term federalism is also used to describe a system of the government in which sovereignty is constitutionally divided between a central governing authority and constituent political units (like states or provinces). Federalism is the system in which the power to govern is shared between the national and state governments, creating what is often called a federation. (Wikipedia)</English>
+		<German>[TAB] Not translated (Wikipedia)  </German>
+	</TEXT>
+	<!-- END: GOVERNMENT_CIVIC -->
+	<!-- BEGIN: LEGAL_CIVIC -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_RULEOFFEAR_PEDIA</Tag>
+		<English>[TAB] (Wikipedia)</English>
+		<German>[TAB] (Wikipedia)  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_TRADITION_PEDIA</Tag>
+		<English>[TAB] A tradition is a belief or behavior passed down within a group or society with symbolic meaning or special significance with origins in the past. Traditions can persist and evolve for thousands of years-the word "tradition" itself derives from the Latin tradere or traderer literally meaning to transmit, to hand over, to give for safekeeping. While it is commonly assumed that traditions have ancient history, many traditions have been invented on purpose, whether that be political or cultural, over short periods of time. (Wikipedia)</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CIVIL_SERVICE_PEDIA</Tag>
+		<English>[TAB] The term civil service has two different meanings: A branch of governmental service in which individuals are employed on the basis of professional merit as proven by competitive examinations, and the body of employees in any government agency other than the military.
+		The origin of the civil service can be traced back to Imperial examination founded in Imperial China. The Imperial exam based on merit was designed to select the best administrative officials for the state's bureaucracy. This system had a huge influence on both society and culture in Imperial China and was directly responsible for the creation of a class of scholar-bureaucrats irrespective of their family pedigree.
+From the time of the Han Dynasty (206 BC to AD 220) until the implementation of the imperial examination system, most appointments in the imperial bureaucracy were based on recommendations from prominent aristocrats and local officials whilst recommended individuals were predominantly of aristocratic rank. Emperor Wu of Han started an early form of the imperial examinations, transitioning from inheritance and patronage to merit, in which local officials would select candidates to take part in an examination of the Confucian classics. The system reached its apogee during the Song dynasty.
+The Chinese civil-service system gave the Chinese empire stability for more than 2,000 years and provided one of the major outlets for social mobility in Chinese society.
+The modern examination system for selecting civil service staff also indirectly evolved from the imperial one. This system was admired and then borrowed by European countries from the 16th century onward, and is now the model for most countries around the world.
+ (Wikipedia)</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ARISTOCRACY_PEDIA</Tag>
+		<English>[TAB] Aristocracy is a hereditary form of government, where rule is established through an internal struggle over who has the most status and influence over society and internal relations. Power is maintained by a hereditary elite, from a caste, class, family (or even some individuals). Aristocracies have most often been hereditary plutocracies (see below), with a belief in their own superiority. Aristocracies often include a monarch who although a member of the aristocracy rules over the aristocracy as well as the rest of society. Aristocracy can also refer to the highest class in society even if they do not rule directly. They are usually under the leaders of the country in the ladder of status.(Wikipedia)</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PLUTOCRACY_PEDIA</Tag>
+		<English>[TAB] Plutocracy (from Ancient Greek ploutos, meaning "wealth", and kratos, meaning "power, rule") is rule by the wealthy, or power provided by wealth. (Wikipedia)</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_NATIONHOOD_PEDIA</Tag>
+		<English>[TAB]A "nation" is a group of people sharing some kind of common identity. Nations may be united by language, custom, history, or religion (or any combination of them). [PARAGRAPH:2]Sharing languages, customs, histories and so forth provides strength to a nation - the sense of identity and commonality reduces internal strife, civil and religious wars, and so forth. Unfortunately, citizens with different languages, customs, and backgrounds may be looked upon with suspicion, distrust, and contempt, promoting unhappiness and unrest from the minority and limiting their ability to fully contribute to the society. Free Nationalist promotion is given to all units within own borders to defend the motherland!</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_COLLECTIVISM_PEDIA</Tag>
+		<English>[TAB]Collectivism is any other philosophic, political, religious, economic, or social outlook that emphasizes the interdependence of every human being. Collectivism is a basic cultural element that exists as the reverse of individualism in human nature (in the same way high context culture exists as the reverse of low context culture), and stresses the priority of group goals over individual goals and the importance of cohesion within social groups (such as an "in-group", in what specific context it is defined). Collectivists usually focus on community, society, or nation. It is used and has been used as an element in many different and diverse types of government and political, economic and educational philosophies throughout history. Most societies contain elements of both collectivism and individualism. There are those who suggest that collectivism places the group before the individual, and that individualism places the individual before the group. The contrast being between individual rights and collective interest.
+		In political economy, horizontal-collectivism is often associated with the economic theories of socialism, which call for some form of co-operative or collective ownership of the means of production and collective decision-making or worker's self-management within economic enterprises. - wikipedia</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SOCIAL_JUSTICE_PEDIA</Tag>
+		<English>[TAB] The practice or policy of providing equal access to opportunities and resources for people who might otherwise be excluded or marginalized, such as those having physical or mental disabilities or belonging to other minority groups. (Oxford Dictionary)</English>
+		<German>[TAB] Not translated (Wikipedia)</German>
+	</TEXT>
+	<!-- END: LEGAL_CIVIC -->
+	<!-- BEGIN: LABOR_CIVIC -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FREE_COMMONERS_PEDIA</Tag>
+		<English>[TAB] The terms common people, the masses, or commoners denote a broad social division referring to regular people who are members of neither the nobility or the priesthood. Following the rise of the middle class in the 18th-19th centuries, this division is now of mainly historical interest. Since the 20th century the term "common people" has been used in a more general sense to refer to typical members of society in contrast to highly privileged (in either wealth or influence). Adapted from Wikipedia</English>
+		<German>[TAB] Not translated</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PROLETARIAT_PEDIA</Tag>
+		<English>[TAB] The proletariat (from Latin proletarius, a citizen of the lowest class) is a term used to identify a lower social class, usually the working class; a member of such a class is proletarian. Originally it was identified as those people who had no wealth other than their children.</English>
+		<German>[TAB] Not translated</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FORCED_LABOR_PEDIA</Tag>
+		<English>[TAB] Unfree labour (or unfree labor in American English) is a generic or collective term for those work relations, especially in modern or early modern history, in which people are employed against their will by the threat of destitution, detention, violence (including death), lawful compulsion, or other extreme hardship to themselves or to members of their families.
+Many of these forms of work may be covered by the term forced labour, although the latter term tends to imply forms based on violence. Unfree labour includes all forms of slavery, and related institutions (e.g. debt slavery, serfdom, corv&#233;e and labour camps).</English>
+		<German>[TAB] Not translated</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_LABOR_UNION_PEDIA</Tag>
+		<English>[TAB] A Trade Union (Labor union) ... is a continuous association of wage-earners for the purpose of maintaining or improving the conditions of their employment.
+Over the last three hundred years, trade unions have developed into a number of forms, influenced by differing political and economic regimes. The immediate objectives and activities of trade unions vary, but may include:
+    * Provision of benefits to members: Early trade unions, like Friendly Societies, often provided a range of benefits to insure members against unemployment, ill health, old age and funeral expenses. In many developed countries, these functions have been assumed by the state; however, the provision of professional training, legal advice, and representation for members is still an important benefit of trade union membership.
+    * Collective bargaining: Where trade unions are able to operate openly and are recognised by employers, they may negotiate with employers over wages and working conditions.
+    * Industrial action: Trade unions may organize strikes or resistance to lockouts in furtherance of particular goals.
+    * Political activity: Trade unions may promote legislation favorable to the interests of their members or workers as a whole. To this end they may pursue campaigns, undertake lobbying, or financially support individual candidates or parties (such as the Labour Party in Britain) for public office.
+</English>
+		<German>[TAB] Not translated</German>
+	</TEXT>
+	<!-- END: LABOR_CIVIC -->
+	<!-- BEGIN: ECONOMY_CIVIC -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PASTORAL_NOMADISM_PEDIA</Tag>
+		<English>[TAB] Pastoralism is the branch of agriculture concerned with the raising of livestock. It is animal husbandry: the care, tending and use of animals such as camels, goats, cattle, yaks, llamas, and sheep. "Pastoralism" generally has a mobile aspect, moving the herds in search of fresh pasture and water (in contrast to pastoral farming, in which non-nomadic farmers grow crops and improve pastures for their livestock).
+Pastoralism is a successful strategy to support a population on less productive land, and adapts well to the environment. For example, in savannas, pastoralists and their animals gather when rain water is abundant and the pasture is rich, then scatter during the drying of the savanna.
+Pastoralists often use their herds to affect their environment. Grazing herds on savannas can ensure the biodiversity of the savannas and prevent them from evolving into scrubland. Pastoralists may also use fire to make ecosystems more suitable for their food animals. For instance, the Turkana people of northwest Kenya use fire to prevent the invasion of the savanna by woody plant species. Biomass of the domesticated and wild animals was increased by a higher quality of grass.</English>
+		<German>[TAB] Not translated</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_GUILD_PEDIA</Tag>
+		<English>[TAB] A guild is an association of craftspeople in a particular trade. The earliest guilds are believed to have been formed in India circa 2000 B.C., and though they are not as commonplace as they were a few centuries ago, many guilds continue to flourish around the world today.
+In pre-industrial cities, craftsmen tended to form associations based on their trades. Usually the founders were free independent master craftsmen. The earliest craftsmen's organizations are purported to have been formed in India during the Veda-period from 2000 - 500 B.C.
+During the Indian Gupta-period (300 - 600 A.D.) the craftmen's associations were known as shreni. Greek organizations in Ptolemaic Egypt were called koinon. Starting from their third century B.C. origins the Roman collegia spread with the extension of the Empire. The Chinese hanghui probably existed already during the Han Dynasty (206 B.C. - 220 A.D.), but certainly they were present in the Sui Dynasty (589 - 618). Roman craftsmen's organizations continued to develop in Italy of the Middle Ages under the name ars. In Germany they are first mentioned in the tenth century. The German name is Zunft (plural Z&#252;nfte). M&#233;tiers in France and craft gilds in England emerged in the twelfth century. Craft organizations (senf, sinf) stemmed from the tenth century in Iran, and were seen to spread also in Arabia and Turkish regions under the name futuwwah or f&#252;t&#252;vvet. 900 the carvers of Benin are said to have founded their own organization. In the neighbouring tribes of Yoruba and Nupe the organizations were given the names egbe and efak&#243;.</English>
+		<German>[TAB] Not translated</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MERCHANT_PRINCES_PEDIA</Tag>
+		<English>[TAB] During the late Middle Ages, Italy was positioned in the middle of many important trading routes between the Near East and the rest of Western Europe. With increased travel and trade between east and west, pioneered by sea traders such as Marco polo, Italy developed a thriving commercial sector.
+By the end of the 14th century, the city of Florence, in Italy's central-north, had established itself as the heart of the European wool industry. Wealthy textile merchants, such as the Medici family were the profiteers of this fruitful industry. Along with other wealthy families, they began investing their money in the banking sector to increase the profit they were gaining from trading. Before long, Florence had also become the centre of European finance.
+These merchants (or traders) became the new 'rich' class, gradually taking power and prestige away from the nobility (or the land-owning upper class). Within this class of merchants, wealth was commonly held within families.</English>
+		<German>[TAB] Not translated</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PROTECTIONISM_PEDIA</Tag>
+		<English>[TAB] Protectionism is the economic policy of restraining trade between states through methods such as tariffs on imported goods, restrictive quotas, and a variety of other government regulations designed to allow (according to proponents) "fair competition" between imports and goods and services produced domestically.
+This policy contrasts with free trade, where government barriers to trade are kept to a minimum. In recent years, it has become closely aligned with anti-globalization. The term is mostly used in the context of economics, where protectionism refers to policies or doctrines which protect businesses and workers within a country by restricting or regulating trade with foreign nations.</English>
+		<German>[TAB] Not translated</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PLANNED_ECONOMY_PEDIA</Tag>
+		<English>[TAB] A planned economy is an economic system in which decisions regarding production and investment are embodied in a plan formulated by a central authority, usually by a government agency. The justification for central planning is that the consolidation of economic resources can allow for the economy to take advantage of more perfect information when making decisions regarding investment and production. In an entirely centralized economy, a universal survey of human needs and consumer wants is required before a comprehensive plan for production can be formulated. The state would require the power to allocate the workforce, for setting production values and for overseeing the distribution system of the economy. The most extensive form of a planned economy is referred to as a command economy, centrally planned economy, or command and control economy.</English>
+		<German>[TAB] Not translated</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WELFARE_STATE_PEDIA</Tag>
+		<English>[TAB] An early version of the welfare state appeared in China during the Song Dynasty in the 11th century. Prime Minister Wang Anshi believed that the state was responsible for providing its citizens the essentials for a decent living standard. Accordingly, under his direction the state initiated agricultural loans to relieve the farming peasants. He appointed boards to regulate wages and plan pensions for the aged and unemployed. These reforms were known as the "new laws," New Policies, or xin fa.
+Modern welfare states developed through a gradual process beginning in the late 19th century and continuing through the 20th. They differed from previous schemes of poverty relief due to their relatively universal coverage. The development of social insurance in Germany under Bismarck was particularly influential. Some schemes, like those in Scandinavia, were based largely in the development of autonomous, mutualist provision of benefits. Others were founded on state provision. The term was not, however, applied to all states offering social protection. The sociologist T.H. Marshall identified the welfare state as a distinctive combination of democracy, welfare and capitalism.
+Examples of early welfare states in the modern world are Sweden (Folkhemmet), Germany, the Netherlands, and New Zealand in the 1930s. Germany is generally held to be the first social welfare state. Changed attitudes in reaction to the Great Depression were instrumental in the move to the welfare state in many countries, a harbinger of new times where "cradle-to-grave" services became a reality after the poverty of the Depression. During the Great Depression, it was seen as an alternative "middle way" between communism and fascism. In the period following the Second World War, many countries in Europe moved from partial or selective provision of social services to relatively comprehensive coverage of the population.
+The activities of present-day welfare states extend to the provision of both cash welfare benefits (such as old-age pensions or unemployment benefits) and in-kind welfare services (such as health or childcare services). Through these provisions, welfare states can affect the distribution of wellbeing and personal autonomy among their citizens, as well as influencing how their citizens consume and how they spend their time.
+After the discovery and inflow of the oil revenue, Saudi Arabia, Kuwait, and United Arab Emirates all became welfare states. However, the services are strictly for citizens and these countries do not accept immigrants; even those born in these countries do not qualify for citizenship unless they are of the parentage belonging to their respective countries.
+The beginning of the modern welfare state was in 1911 when David Lloyd George suggested everyone in work should pay national insurance contribution for unemployment and health benefits from work.
+In 1942, the 'Social Insurance and Allied Services' was created by Sir William Beveridge in order to aid those who were in need of help, or in poverty. Beverage worked as a volunteer for the poor, and set up national insurance. He stated that 'All people of working age should pay a weekly national insurance contribution. In return, benefits would be paid to people who were sick, unemployed, retired or widowed.' The basic assumptions of the report were the National Health Service, which provided free health care to the UK. The Universal Child Benefit was a scheme to to give child benefits, which encouraged people to have children so they could afford to keep them alive and not for them to starve to death. This was particularly useful after the second world war, where the population in England declined, so encouragement for new babies was encouraged, which sparked the baby boom. The impact of the report was huge and 600,000 copies were made. He recommended to the government that they should find ways of tackling the five giants, being Want, Disease, Ignorance, Squalor and Idleness. He argued to cure these problems, the government should provide adequate income to people, adequate health care, adequate education, adequate housing and adequate employment. Before 1939, health care had to be paid for, this was done through a vast network of friendly societies, trade unions and other insurance companies which counted the vast majority of the UK working population as members. These friendly societies provided insurance for sickness, unemployment and invalidity, therefore providing people with an income when they were unable to work. But because of the 1942 Berveridge Report, in 5th July 1948, the National Insurance Act, National Assistance Act and National Health Service Act came into force, thus this is the day that the modern UK welfare state was founded. - Wikipedia</English>
+		<German>[TAB] Not translated</German>
+	</TEXT>
+	<!-- END: ECONOMY_CIVIC -->
+	<!-- BEGIN: RELIGION_CIVIC -->
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ANIMISM_PEDIA</Tag>
+		<English>[TAB] Animism (from Latin anima, "breath, spirit, life") is the religious belief that objects, places and creatures all possess a distinct spiritual essence. Potentially, animism perceives all things - animals, plants, rocks, rivers, weather systems, human handiwork and perhaps even words - as animated and alive. Animism is the world's oldest religion, "Animism predates any form of organized religion and is said to contain the oldest spiritual and supernatural perspective in the world. It dates back to the Paleolithic Age, to a time when... humans roamed the plains hunting and gathering, and communing with the Spirit of Nature."
+Animism is used in the anthropology of religion as a term for the belief system of many indigenous peoples, especially in contrast to the relatively more recent development of organised religions. Although each culture has its own different mythologies and rituals, "animism" is said to describe the most common, foundational thread of indigenous peoples' "spiritual" or "supernatural" perspectives. The animistic perspective is so widely held and inherent to most indigenous peoples that they often do not even have a word in their languages that corresponds to "animism" (or even "religion"); the term is an anthropological construct. 
+Animism encompasses the beliefs that all material phenomena have agency, that there exists no hard and fast distinction between the spiritual and physical (or material) world and that soul or spirit or sentience exists not only in humans, but also in other animals, plants, rocks, geographic features such as mountains or rivers or other entities of the natural environment, including thunder, wind and shadows. Animism thus rejects Cartesian dualism. Animism may further attribute souls to abstract concepts such as words, true names or metaphors in mythology.- Wikipedia</English>
+		<German>[TAB] Not translated.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CIVIL_RELIGION_PEDIA</Tag>
+		<English>[TAB] The intended meaning of the term civil religion often varies according to whether one is a sociologist of religion or a professional political commentator. The following discussion includes both perspectives followed by a brief history of the concept.
+		In the sociology of religion, civil religion is the folk religion of a nation or a political culture.
+Civil religion stands somewhat above folk religion in its social and political status, since by definition it suffuses an entire society, or at least a segment of a society; and is often practiced by leaders within that society. On the other hand, it is somewhat less than an establishment of religion, since established churches have official clergy and a relatively fixed and formal relationship with the government that establishes them. Civil religion is usually practiced by political leaders who are laypeople and whose leadership is not specifically spiritual.
+Such civil religion encompasses such things as:
+    * the invocation of God in political speeches and public monuments;
+    * the quotation of religious texts on public occasions by political leaders;
+    * the veneration of past political leaders;
+    * the use of the lives of these leaders to teach moral ideals;
+    * the veneration of veterans and casualties of a nation's wars;
+    * religious gatherings called by political leaders;
+    * the use of religious symbols on public buildings;
+    * the use of public buildings for worship;
+    * founding myths and other national myths
+and similar religious or quasi-religious practices. - Wikipedia</English>
+		<German>[TAB] Not translated.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MONASTICISM_PEDIA</Tag>
+		<English>[TAB] Monasticism (from Greek monachos, derived from Greek monos, alone) is a religious way of life characterized by the practice of renouncing worldly pursuits to fully devote one's self to spiritual work. The origin of the word is from Ancient Greek, and the idea originally related to Christian monks.
+In the Christian tradition, males pursuing a monastic life are usually called monks or brethren (brothers), and if females nuns or sisters. Both monks and nuns may also be called monastics. Some other religions also include what could be described as "monastic" elements, most notably Buddhism, but also Hinduism and Jainism, though the expressions differ considerably. - Wikipedia</English>
+		<German>[TAB] Not translated.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MILITANCY_PEDIA</Tag>
+		<English>[TAB]In the name of God, quickly build a strong army and burn the infidels.[PARAGRAPH:2]The word militant, which is both an adjective and a noun, essentially means "to be open to using violence to achieve an end". It comes from the 15th Century Latin "militare" meaning "to serve as a soldier". The related modern concept of the militia as a defensive organization against invaders grew out of the Anglo-Saxon "fyrd". In times of crisis, the militiaman left his civilian duties and became a soldier until the emergency was over, when he returned to his civilian occupation and life.
+However, the current meaning of militant does not have to (and in fact usually does not) refer to a registered soldier; it can be anyone at all who subscribes, either in whole or in part, to the idea of using violence to achieve some larger objective, usually political or religious. For example, when one is referred to as a "militant religious activist," the term militant is meant there to contrast with a pacifist religious activist whose religious principles do not allow him or her to use violence to achieve any end.</English>
+		<German>[TAB] Not translated.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CULT_OF_PERSONNALITY_PEDIA</Tag>
+		<English>[TAB]A cult of personality arises when an individual uses mass media, propaganda, or other methods, to create an idealized and heroic public image, often through unquestioning flattery and praise. Cults of personality are usually associated with dictatorships. Sociologist Max Weber developed a tripartite classification of authority; the cult of personality holds parallels with what Weber defined as "charismatic authority". A cult of personality is similar to hero worship, except that it is established by mass media and propaganda.
+		</English>
+		<German>[TAB] Not translated.</German>
+	</TEXT>
+</Civ4GameText>

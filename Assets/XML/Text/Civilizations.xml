@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ABORIGINES_DESC</Tag>
+		<English>Oceanian Tribes</English>
+		<French/>
+		<German>Ozeanische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_ABORIGINES_DESC</Tag>
+		<English>Oceania</English>
+		<French/>
+		<German>Ozeanien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ABORIGINES_ADJECTIVE</Tag>
+		<English>Oceanian</English>
+		<French/>
+		<German>Ozeanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ABORIGINES_PEDIA</Tag>
+		<English>Oceania (sometimes Oceanica) is a geographical, often geopolitical, region consisting of numerous lands mostly islands in the Pacific Ocean and vicinity. The term Oceania was coined in 1831 by French explorer Dumont d'Urville. The term is used today in many languages to denote a continent comprising Australia and approximate Pacific islands, and is one of eight terrestrial ecozones.
+The boundaries of Oceania are defined in a number of ways. Most definitions recognize parts of Australasia such as Australia, New Zealand, and New Guinea, and all or part of the Malay Archipelago as being parts of Oceania. Ethnologically, the islands that are included in Oceania are divided into the subregions of Melanesia, Micronesia, and Polynesia. - wikipedia</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ALGONQUIN_DESC</Tag>
+		<English>Algonquin Tribes</English>
+		<French/>
+		<German>Algonquin-Stamm</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_ALGONQUIN_DESC</Tag>
+		<English>Algonquin</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ALGONQUIN_ADJECTIVE</Tag>
+		<English>Algonquin</English>
+		<French/>
+		<German>Algonquin</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ALGONQUIN_PEDIA</Tag>
+		<English>[TAB]The Algonquins (also spelled Algonkins) are aboriginal/First Nations inhabitants of North America who speak the Algonquin language, a divergent dialect of the Ojibwe language, which is part of the Algonquian language family.
+		The much larger heterogeneous group of Algonquian-speaking peoples, who stretch from Virginia  to the Rocky Mountains and north to Hudson Bay, was named after the tribe.
+Most Algonquins, however, live in Quebec. The nine Algonquin bands in that province and one in Ontario have a combined population of about 11,000. - Wikipedia</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_APACHE_DESC</Tag>
+		<English>Apache Tribes</English>
+		<French/>
+		<German>Apache-Stamm</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_APACHE_DESC</Tag>
+		<English>Apache</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_APACHE_ADJECTIVE</Tag>
+		<English>Apache</English>
+		<French/>
+		<German>Apache</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_APACHE_PEDIA</Tag>
+		<English>[TAB]Natives of the inhospitable southwestern United States and northern Mexico, the Apache were nomadic people who built their society on a balance of commerce and raids. Thanks in part to their nomadic lifestyle and harsh homeland, the Apache were considered among the most formidable mounted warriors of the southwest. The name Apache itself came from a Zuni native word meaning "enemy." [PARAGRAPH:2]The Spanish were the first to encounter the Apache when Francisco de Coronado, the Spanish conquistador who combed the American Southwest in the 16th century, met and traded with them. Relations between the Apache and the colonists remained relatively benign until the 19th century, when Mexico declared its independence from Spain. In the 1830s, seeking to gain control of the Southwest, the Mexican government began offering a reward for the scalps of the Apache. [PARAGRAPH:2]The violence that followed led many Apache, normally a series of independent tribes, to unite under the leadership of Mangas Coloradas. Coloradas' war against the Mexicans would continue for almost a decade before the United States, declaring war in 1846, defeated Mexico and laid claim to their territories. Coloradas agreed to sign a treaty with the Americans in return for self-sovereignty, but it did not last. The discovery of a wealth of minerals in Apache territory brought white settlers flocking to their lands. Seeing them as trespassers, the Apache led raids against the American settlers. In response, the US military sent forth troops to make war on the Apache. The ensuing conflict, which became known as the Apache Wars, continued for roughly ten years. [PARAGRAPH:2]During this time, Mangas Coloradas, as well as the Apache leader Cochise and the medicine man Geronimo, led guerilla forces against the Americans. The decade of war took its toll on the Apache - Coloradas was captured and executed during a treaty negotiation in 1863 and Cochise too was captured. To help stem the tide of violence, the American government authorized the creation of a reservation in San Carlos, Arizona, where the Apache could live separated from the white settlers. At first the Apache agreed to live on the territory, but found the restricting life on the reservation little to their liking. Geronimo along with numerous others escaped from the reservation on multiple occasions to wreak havoc on American encampments. During his final escape in 1886, nearly 6000 soldiers and volunteers were mobilized to try and recapture the Apache leader. [PARAGRAPH:2]After the surrender of Geronimo later that year, there was a great demand among the white settlers that the Apache be relocated, as it was clear the reservation could not hold them. Bowing to their constituents' demands, the American government scattered the Apache to the four winds. Some were moved east to Oklahoma. Geromino and his followers were imprisoned in Florida and not allowed to return to their home territory until 1914. Today, most modern Apache still live in the same region as their ancestors - Arizona and New Mexico, with many still living on their original reservation at San Carlos.</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARAWAK_DESC</Tag>
+		<English>Arawak Tribes</English>
+		<German>Arawak-Stamm</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_ARAWAK_DESC</Tag>
+		<English>Arawaks</English>
+		<German>Arawak</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARAWAK_ADJECTIVE</Tag>
+		<English>Arawak</English>
+		<German>
+			<Text>Arawak</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARAWAK_PEDIA</Tag>
+		<English>[TAB]The Arawaks were one of the most prominent societies of the Caribbean at the time of the New World's discovery and were the first natives encountered by Columbus. Originating in South America (where there remain a few scattered settlements of Arawak to this day), the Arawaks migrated to the Caribbean islands, where they established settlements from the Lesser Antilles to Cuba. They are thought to have arrived in the Caribbean around 500 BC, but in large part were obliterated from the Lesser Antilles by their sworn foes the Carib, who also hailed from northern South America and for whom the Caribbean Sea was named. [PARAGRAPH:2]The Arawak migration across the vast Caribbean was possible thanks in large part to their expert abilities as navigators. Arawak boat-builders were capable of creating massive canoes, the largest of which could carry roughly 150 souls. These served the Arawaks well in their primary activity - trade. Arawak canoes could often be found cruising between islands, heavy with trade goods, including gold, wood carvings, trained parrots and other luxuries, along with basic food stuffs, pottery, or fishing nets. [PARAGRAPH:2]Our earliest records of Arawak society come from Columbus himself. Upon setting down at Hispanola, Columbus was impressed by the gentle nature of the Arawaks, who seemed more awed than threatened by his sailors. When Columbus' ship, the Santa Maria, ran aground of the coast of the island, a cacique (Arawak leader) named Guacanagari sheltered Columbus and his men, giving them gifts of gold and other fineries. [PARAGRAPH:2]The ease of Arawak life would not long survive the arrival of the Europeans: in fact, a convergence of events nearly wiped them from the Caribbean. After seeing that there was gold to be had in this new land, the Spaniards began employing the docile natives as slave labor. At the same time, the Carib began a renewed effort to remove the Arawaks from their homes in the southern Caribbean. And all the while, European diseases began to creep through the population. Between these three factors, the Arawak population was nearly obliterated within a decade. [PARAGRAPH:2]As the first people to meet westerners, the Arawaks left an indelible mark on the European conquerors. The hammock was among the innovations first presented to western society by the Arawaks and the space-saving resting place would become an important part of naval fleets until the twentieth century. As well, the cooking method known as barbecuing, where pieces of meat are left to simmer over low heat for hours on end, was first performed before western eyes by the Arawaks. </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_DESC</Tag>
+		<English>Armenian Empire</English>
+		<German>Armenisches Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_SHORT_DESC</Tag>
+		<English>Armenia</English>
+		<German>Armenien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_ADJECTIVE</Tag>
+		<English>Armenian</English>
+		<German>
+			<Text>Armenisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_PEDIA</Tag>
+		<English>[TAB]Armenia has been populated since prehistoric times, and has been proposed as the site of the Biblical Garden of Eden. Armenia lies in the highlands surrounding the Biblical mountains of Ararat, upon which, as tradition states, Noah's Ark came to rest after the flood. [PARAGRAPH:1]Around 600 BC, the Kingdom of Armenia was established under the Orontid Dynasty, which existed under several local dynasties till AD 428. The kingdom reached its height between 95 - 66 BC under Tigranes the Great, becoming one of the most powerful kingdoms of its time. Throughout its history, the kingdom of Armenia enjoyed periods of independence intermitted with periods of autonomy subject to contemporary empires. Armenia's strategic location between two continents has subjected it to invasions by many peoples, including the Assyrians, Greeks, Romans, Byzantines, Arabs, Mongols, Persians, Ottoman Turks and Russians.[PARAGRAPH:1]In 301, Armenia became the first country in the world to adopt Christianity as its official state religion, while a number of Christian communities have been established in Armenia since 40 AD There had been various pagan communities before Christianity, but they were converted by an influx of Christian missionaries.[PARAGRAPH:1]After the fall of the Armenian kingdom in 428, most of Armenia was incorporated as a marzpanate within the Sassanid Empire. After the marzpanate period, Armenia emerged as an autonomous principality within the Arabic Empire, reuniting Armenian lands previously taken by the Byzantine Empire as well. The principality was ruled by the Prince of Armenia, recognized by the Caliph and the Byzantine Emperor. The Principality of Armenia lasted till 884, when it regained its independence from the weakened Arabic Empire.[PARAGRAPH:1]The reemerged Armenian kingdom was ruled by the Bagratuni dynasty, and lasted till 1045. In time, several areas of the Bagratid Armenia separated as independent kingdoms and principalities such as the Kingdom of Vaspurakan ruled by the House of Artsruni, while still recognizing the supremacy of the Bagratid kings.[PARAGRAPH:1]In 1045, the Byzantine Empire conquered Bagratid Armenia. Soon, the other Armenian states fell under Byzantine control as well. The Byzantine rule was short lived, as in 1071 Seljuk Turks defeated the Byzantines and conquered Armenia at the Battle of Manzikert, establishing the Seljuk Empire. To escape death or servitude at the hands of those who had assassinated his relative, Gagik II, King of Ani, an Armenian named Roupen with some of his countrymen went into the gorges of the Taurus Mountains and then into Tarsus of Cilicia. Here the Byzantine governor of the place gave them shelter where the Armenian Kingdom of Cilicia was eventually established.[PARAGRAPH:1]In 1230s Mongol Ilkhanate conquered the Zakaryan Principality, as well as the rest of Armenia. The Mongolian invasions were soon followed by those of other Central Asian tribes, which continued from 1200s till 1400s. After incessant invasions, each bringing destruction to the country, Armenia in time became weakened. During the 16th century, the Ottoman Empire and Safavid Persia divided Armenia among themselves.[PARAGRAPH:1]From 1604 Abbas I of Persia implemented a "scorched earth" policy in the region to protect his north-western frontier against any invading Ottoman forces, a policy which involved the forced resettlement of many Armenians from their homelands. The Russian Empire later incorporated Eastern Armenia (consisting of the Erivan and Karabakh khanates within Persia) in 1813 and 1828. Under Ottoman rule, the Armenians were granted considerable autonomy within their own enclaves and lived in relative harmony with other groups in the empire (including the ruling Turks). However, as Christians under a strict Muslim social system, Armenians faced pervasive discrimination. When they began pushing for more rights within the Ottoman Empire, Sultan 'Abdu'l-Hamid II, in response, organised state-sponsored massacres against the Armenians between 1894 and 1896, resulting in an estimated death toll of 80,000 to 300,000 people. The Hamidian massacres, as they came to be known, gave Hamid international infamy as the "Red Sultan" or "Bloody Sultan". [PARAGRAPH:1]Armenia was annexed by Bolshevist Russia and along with Georgia and Azerbaijan, it was incorporated into the Soviet Union as part of the Transcaucasian SFSR (TSFSR) on 4 March 1922. With this annexation, the Treaty of Alexandropol was superseded by the Turkish-Soviet Treaty of Kars. In the agreement, Turkey allowed the Soviet Union to assume control over Adjara with the port city of Batumi in return for sovereignty over the cities of Kars, Ardahan, and Igdir, all of which were part of Russian Armenia. The TSFSR existed from 1922 to 1936, when it was divided up into three separate entities (Armenian SSR, Azerbaijan SSR, and Georgian SSR). Armenians enjoyed a period of relative stability under Soviet rule. They received medicine, food, and other provisions from Moscow, and communist rule proved to be a soothing balm in contrast to the turbulent final years of the Ottoman Empire. The situation was difficult for the church, which struggled under Soviet rule. After the death of Vladimir Lenin, Joseph Stalin took the reins of power and began an era of renewed fear and terror for Armenians. As with various other ethnic groups who lived in the Soviet Union during Stalin's Great Purge, tens of thousands of Armenians were either executed or deported. Armenia was spared the devastation and destruction that wrought most of the western Soviet Union during the Great Patriotic War of World War II. The Nazis never reached the South Caucasus, which they intended to do in order to capture the oil fields in Azerbaijan. Still, Armenia played a valuable role in aiding the allies both through industry and agriculture. An estimated 500,000 Armenians, out of a population of 1.4 million, were mobilised. 175,000 of these men died in the war. [PARAGRAPH:1]On 23 August 1990, Armenia declared independence, becoming the first non-Baltic republic to secede from the Soviet Union. When, in 1991, the Soviet Union was dissolved, Armenia's independence was officially recognized. However, the initial post-Soviet years were marred by economic difficulties as well as the break-out of a full-scale armed confrontation between the Karabakh Armenians and Azerbaijan. The economic problems had their roots early in the Karabakh conflict when the Azerbaijani Popular Front managed to pressure the Azerbaijan SSR to instigate a railway and air blockade against Armenia. This move effectively crippled Armenia's economy as 85% of its cargo and goods arrived through rail traffic. In 1993, Turkey joined the blockade against Armenia in support of Azerbaijan. The Karabakh war ended after a Russian-brokered cease-fire was put in place in 1994. The war was a success for the Karabakh Armenian forces who managed to secure 14% of Azerbaijan's internationally recognised territory including Nagorno-Karabakh itself. Since then, Armenia and Azerbaijan have held peace talks, mediated by the Organisation for Security and Co-operation in Europe (OSCE). The status over Karabakh has yet to be determined. The economies of both countries have been hurt in the absence of a complete resolution and Armenia's borders with Turkey and Azerbaijan remain closed. By the time both Azerbaijan and Armenia had finally agreed to a ceasefire in 1994, an estimated 30,000 people had been killed and over a million had been displaced. [PARAGRAPH:1]As it enters the 21st century, Armenia faces many hardships. Still, it has managed to make some improvements. It has made a full switch to a market economy and as of 2009, is the 31st most economically free nation in the world. Its relations with Europe, the Middle East, and the Commonwealth of Independent States have allowed Armenia to increase trade. Gas, oil, and other supplies come through two vital routes: Iran and Georgia. Armenia maintains cordial relations with both countries.</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRIA_DESC</Tag>
+		<English>Austrian Empire</English>
+		<German>&#214;sterreich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRIA_SHORT_DESC</Tag>
+		<English>Austria</English>
+		<German>&#214;sterreich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRIA_ADJECTIVE</Tag>
+		<English>Austrian</English>
+		<German>&#214;sterreichisch</German>
+	</TEXT>
+	<TEXT><Tag>TXT_KEY_CIV_AUSTRIA_PEDIA</Tag>
+		<English>[TAB]The territory of Austria originally known as the Celtic kingdom of Noricum, was a long time ally of Rome. It was occupied rather than conquered by the Romans during the reign of Augustus and made the province Noricum in 16 BC. Later it was conquered by Huns, Rugii, Lombards, Ostrogoths, Bavarii, Avars (until c. 800), and Franks (in that order). Finally, after 48 years of Hungarian rule (907 to 955), the core territory of Austria was awarded to Leopold of Babenberg in 976. Being part of the Holy Roman Empire the Babenbergs ruled and expanded Austria from the 10th century to the 13th century.[PARAGRAPH:2]After Duke Frederick II died in 1246 and left no successor, the German King Rudolf I of Habsburg gave the lands to his sons marking the beginning of the line of the Habsburgs, who continued to govern Austria until the 20th century.[PARAGRAPH:2]With the short exception of Charles VII Albert of Bavaria, Austrian Habsburgs held the position of German Emperor beginning in 1438 with Albert II of Habsburg until the end of the Holy Roman Empire. During the 14th and 15th century Austria continued to expand its territory until it reached the position of a European superpower at the end of the 15th century until the end of the Habsburg monarchy in 1918.[PARAGRAPH:2]Just two years before the abolition of the Holy Roman Empire in 1806, in 1804 the Empire of Austria was founded, which was transformed in 1867 into the double-monarchy Austria-Hungary. The empire was split into several independent states in 1918, after the defeat of the Central Powers in World War I, with most of the German-speaking parts becoming a republic. Between 1918 and 1919 it was officially known as the Republic of German Austria. After the Entente powers forbade German Austria to unite with Germany, they also forbade the name, and then it was changed to simply Republic of Austria. The democratic republic lasted until 1933 when the chancellor Engelbert Dollfuss established an autocratic regime oriented towards Italian fascism.[PARAGRAPH:2]Austria became part of Germany in 1938 through the Anschluss and remained under Nazi rule until the end of World War II. After the defeat of the Axis Powers, the Allies occupied Austria until 1955, when the country became a fully independent republic under the condition that it would remain neutral. Austria also became a member of the UN in the same year. After the collapse of communism in Eastern Europe, Austria became increasingly involved in European affairs, and in 1995, Austria joined the European Union, and the Euro monetary system in 1999.</English>
+		<German>[TAB]The territory of Austria originally known as the Celtic kingdom of Noricum, was a long time ally of Rome. It was occupied rather than conquered by the Romans during the reign of Augustus and made the province Noricum in 16 BC. Later it was conquered by Huns, Rugii, Lombards, Ostrogoths, Bavarii, Avars (until c. 800), and Franks (in that order). Finally, after 48 years of Hungarian rule (907 to 955), the core territory of Austria was awarded to Leopold of Babenberg in 976. Being part of the Holy Roman Empire the Babenbergs ruled and expanded Austria from the 10th century to the 13th century.[PARAGRAPH:2]After Duke Frederick II died in 1246 and left no successor, the German King Rudolf I of Habsburg gave the lands to his sons marking the beginning of the line of the Habsburgs, who continued to govern Austria until the 20th century.[PARAGRAPH:2]With the short exception of Charles VII Albert of Bavaria, Austrian Habsburgs held the position of German Emperor beginning in 1438 with Albert II of Habsburg until the end of the Holy Roman Empire. During the 14th and 15th century Austria continued to expand its territory until it reached the position of a European superpower at the end of the 15th century until the end of the Habsburg monarchy in 1918.[PARAGRAPH:2]Just two years before the abolition of the Holy Roman Empire in 1806, in 1804 the Empire of Austria was founded, which was transformed in 1867 into the double-monarchy Austria-Hungary. The empire was split into several independent states in 1918, after the defeat of the Central Powers in World War I, with most of the German-speaking parts becoming a republic. Between 1918 and 1919 it was officially known as the Republic of German Austria. After the Entente powers forbade German Austria to unite with Germany, they also forbade the name, and then it was changed to simply Republic of Austria. The democratic republic lasted until 1933 when the chancellor Engelbert Dollfuss established an autocratic regime oriented towards Italian fascism.[PARAGRAPH:2]Austria became part of Germany in 1938 through the Anschluss and remained under Nazi rule until the end of World War II. After the defeat of the Axis Powers, the Allies occupied Austria until 1955, when the country became a fully independent republic under the condition that it would remain neutral. Austria also became a member of the UN in the same year. After the collapse of communism in Eastern Europe, Austria became increasingly involved in European affairs, and in 1995, Austria joined the European Union, and the Euro monetary system in 1999.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_DESC</Tag>
+		<English>Austronesian Empire</English>
+		<German>Austronesisches Reich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_SHORT_DESC</Tag>
+		<English>Austronesia</English>
+		<German>Austronesien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_ADJECTIVE</Tag>
+		<English>Austronesian</English>
+		<German>Austronesisch</German>
+	</TEXT>
+	<TEXT><Tag>TXT_KEY_CIV_AUSTRONESIA_PEDIA</Tag>
+		<English>[TAB]Austronesia, in historical terms, refers to the homeland of the peoples who speak Austronesian languages, including Malay, Filipino, Indonesian, Maori, Malagasy, native Hawaiian, the Fijian language and around a thousand other languages. The Austronesian homeland is thought by linguists to have been prehistoric Taiwan.
+		The name Austronesia comes from the Latin australis "southern" plus the Greek nesos "island".
+However, in contemporary terminology, the word Austronesia pertains to the regions where Austronesian languages are spoken. Austronesia then covers almost half of the globe, although mostly ocean and oceanic islands, starting from Madagascar to the west until Easter Island, to the east. Austronesia as a region has three traditional divisions: Taiwan (Formosa), the Maritime Southeast Asia, and Austronesian Oceania (Micronesia, Melanesia, and Polynesia).</English>
+		<German>[TAB]Austronesia, in historical terms, refers to the homeland of the peoples who speak Austronesian languages, including Malay, Filipino, Indonesian, Maori, Malagasy, native Hawaiian, the Fijian language and around a thousand other languages. The Austronesian homeland is thought by linguists to have been prehistoric Taiwan.
+		The name Austronesia comes from the Latin australis "southern" plus the Greek nesos "island".
+However, in contemporary terminology, the word Austronesia pertains to the regions where Austronesian languages are spoken. Austronesia then covers almost half of the globe, although mostly ocean and oceanic islands, starting from Madagascar to the west until Easter Island, to the east. Austronesia as a region has three traditional divisions: Taiwan (Formosa), the Maritime Southeast Asia, and Austronesian Oceania (Micronesia, Melanesia, and Polynesia).</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BABYLON_DESC</Tag>
+		<English>Mesopotamian Empire</English>
+		<French/>
+		<German>Mesopotamisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_BABYLON_DESC</Tag>
+		<English>Mesopotamia</English>
+		<French/>
+		<German>Mesopotamien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BABYLON_ADJECTIVE</Tag>
+		<English>Mesopotamian</English>
+		<French/>
+		<German>Mesopotamisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BABYLON_PEDIA</Tag>
+		<English>Mesopotamia is a historical region of Western Asia situated within the Tigris-Euphrates river system, in the northern part of the Fertile Crescent, in modern days roughly corresponding to most of Iraq, Kuwait, the eastern parts of Syria, Southeastern Turkey, and regions along the Turkish-Syrian and Iran-Iraq borders.
+The Sumerians and Akkadians (including Assyrians and Babylonians) dominated Mesopotamia from the beginning of written history (c. 3100 BC) to the fall of Babylon in 539 BC, when it was conquered by the Achaemenid Empire. It fell to Alexander the Great in 332 BC, and after his death, it became part of the Greek Seleucid Empire.
+Around 150 BC, Mesopotamia was under the control of the Parthian Empire. Mesopotamia became a battleground between the Romans and Parthians, with western parts of Mesopotamia coming under ephemeral Roman control. In AD 226, the eastern regions of Mesopotamia fell to the Sassanid Persians. The division of Mesopotamia between Roman (Byzantine from AD 395) and Sassanid Empires lasted until the 7th century Muslim conquest of Persia of the Sasanian Empire and Muslim conquest of the Levant from Byzantines. A number of primarily neo-Assyrian and Christian native Mesopotamian states existed between the 1st century BC and 3rd century AD, including Adiabene, Osroene, and Hatra.
+Mesopotamia is the site of the earliest developments of the Neolithic Revolution from around 10,000 BC. It has been identified as having "inspired some of the most important developments in human history, including the invention of the wheel, the planting of the first cereal crops and the development of cursive script, mathematics, astronomy and agriculture". - wikipedia</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BANTU_DESC</Tag>
+		<English>Bantu Empires</English>
+		<German>Bantu-Reiche</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BANTU_SHORT_DESC</Tag>
+		<English>Bantu</English>
+		<German>Bantu</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BANTU_ADJECTIVE</Tag>
+		<English>Bantu</English>
+		<German>
+			<Text>Bantuisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BANTU_PEDIA</Tag>
+		<English>[TAB]The history of Africa begins with the first emergence of Homo sapiens in East Africa, continuing into the present as a patchwork of diverse and politically developing nation states.
+The history of Africa has been a challenge for researchers in the field of African studies due to the scarcity of written sources in large parts of Sub-Saharan Africa. Scholarly techniques such as the recording of oral history, historical linguistics, archaeology and genetics have been crucial.
+Around 1000 BCE, Bantu migrants had reached the Great Lakes of East Africa. Halfway through the first millennium BCE, the Bantu had also settled as far south as what is now Angola. The Bantu languages form a large category of African languages. Bantu also is used as a general label for 300-600 ethnic groups in Africa of speakers of Bantu languages, distributed from Cameroon  east across Central Africa and Eastern Africa to Southern Africa. They form about 1/3 of Africa's total population of 1 billion. (approximately 335,000,000).
+The Bantu family is fragmented into hundreds of individual groups, none of them larger than a few million people (the largest being the Zulu with some 10 million). Swahili is a Bantu language with less than a million native speakers but of super-regional importance as tens of millions are fluent second language speakers.
+Some Bantu Empires:
+[TAB]Swahili Coast:
+Historically, the Swahili people could be found as far north as northern Kenya, and as far south as the Ruvuma River in Mozambique. Arab geographers referred to the Swahili coast as the land of the zanj (blacks). Although once believed to be the descendants of Persian colonists, the ancient Swahili are now recognized by most historians, historical linguists, and archaeologists as a Bantu people who had sustained and important interactions with Muslim merchants, beginning in the late seventh and early eighth centuries CE. Medieval Swahili kingdoms are known to have had island trade ports, described by Greek historians as "metropolises", and to have established regular trade routes with the Islamic world and Asia. Famous African trade ports such as Mombasa, Zanzibar, and Kilwa were known to Chinese sailors under Zheng He and medieval Islamic geographers such as the Berber traveller Abu Abdullah ibn Battuta. The main Swahili exports were ivory, slaves, and gold. They traded with Arabia, India, Persia, and China.
+The Portuguese arrived in 1498. On a mission to economically control and Christianize the Swahili coast, the Portuguese attacked Kilwa first in 1505 and other cities later. Due to Swahili resistance, the Portuguese attempt at establishing commercial control was never successful. By the late 1600s, Portuguese authority on the Swahili coast began to diminish. With the help of Omani Arabs, by 1729 the Portuguese presence had been removed. The Swahili coast eventually became part of the Sultinate of Oman. Trade recovered, but it did not regain the levels of the past. 
+[TAB]Kitara and Bunyoro
+By 1000 CE, numerous states had arisen on the Lake Plateau among the Great Lakes of East Africa. Cattle herding, cereal growing, and banana cultivation were the economic mainstays of these states. The Ntusi and Bigo earthworks are representative of one of the first states, the Bunyoro kingdom, which oral tradition stipulates was part of the Empire of Kitara that dominated the whole lakes region. A Luo ethnic elite, from the Bito clan, ruled over the Bantu-speaking Nyoro people. The society was essentially Nyoro in its culture, based on the evidence from pottery, settlement patterns, and economic specialization.
+The Bito clan claimed legitimacy by being descended from the Bachwezi clan, who were said to have ruled the Empire of Kitara. However, very little is known about Kitara; some scholars even question its historical existence. Most founding leaders of the various polities in the lake region seem to have claimed descent from the Bachwezi.
+(...) - Wikipedia </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_DESC</Tag>
+		<English>Berber Empire</English>
+		<German>Berber-Reiche</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_SHORT_DESC</Tag>
+		<English>Berbers</English>
+		<German>Berber</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_ADJECTIVE</Tag>
+		<English>Berber</English>
+		<German>
+			<Text>Berberisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_PEDIA</Tag>
+		<English>[TAB]Berbers are the indigenous peoples  of North Africa west of the Nile Valley. They are discontinuously distributed from the Atlantic to the Siwa oasis, in Egypt, and from the Mediterranean to the Niger River. Historically they spoke various Berber languages, which together form a branch of the Afro-Asiatic language family. Today many of them speak Darija and also French in the Maghreb, due to the French colonization of the Maghreb, and especially Spanish in Morocco. Today most Berber-speaking people live in Morocco, Algeria, Libya and Tunisia.
+Many Berbers call themselves some variant of the word Imazighen (singular: Amazigh), possibly meaning "free people" or "free and noble men"(the word has probably an ancient parallel in the Roman name for some of the Berbers, "Mazices").
+The best known of the ancient Berbers were the Roman author Apuleius, Saint Augustine of Hippo, and the Roman general Lusius Quietus, who was instrumental in defeating the major Jewish revolt of 115-117. Famous Berbers of the Middle Ages included Tariq ibn Ziyad, a general who conquered Hispania; Abbas Ibn Firnas, a prolific inventor and early pioneer in aviation; Ibn Battuta, a medieval explorer who traveled the longest known distances in pre-modern times; and Estevanico, an early explorer of the Americas. Well-known modern Berbers include Zinedine Zidane, a French-born international football star. - Wikipedia </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHEROKEE_DESC</Tag>
+		<English>Cherokee Tribes</English>
+		<French/>
+		<German>Cherokee-St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_CHEROKEE_DESC</Tag>
+		<English>Cherokee</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHEROKEE_ADJECTIVE</Tag>
+		<English>Cherokee</English>
+		<French/>
+		<German>Cherokee</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHEROKEE_PEDIA</Tag>
+		<English>[TAB]The Cherokee (ah-ni-yv-wi-ya in Cherokee) are a people native to North America who at the time of European contact in the 16th century inhabited what is now the eastern and southeastern United States before most were forcefully moved to the Ozark Plateau. They were one of the tribes referred to as the Five Civilized Tribes.[PARAGRAPH:1]Beginning at about the time of the American Revolutionary War (late 1700s), divisions over continued accommodation of encroachments by white settlers, despite repeated violations of previous treaties, caused some Cherokee to begin to leave the Cherokee Nation. These early dissidents would eventually move across the Mississippi River to areas that would later become the states of Arkansas and Missouri. Their settlements were established on the St. Francis and the White Rivers by 1800. Eventually, there were such large numbers of Cherokees in these areas the US Government established a Cherokee Reservation located in Arkansas, with boundaries from north of the Arkansas River up to the southern bank of the White River. Many of these dissidents became known as the Chickamauga. Led by Chief Dragging Canoe, the Chickamauga made alliances with the Shawnee and engaged in raids against colonial settlements. Other Cherokee leaders who lived in Arkansas were The Bowl, Sequoyah, Spring Frog and The Dutch.[PARAGRAPH:1]Once the Cherokees reached Indian Territory (now Oklahoma), tensions ran high and the suspension of the Cherokee Blood Law was ignored. On June 22, 1839, after the adjournment of a tribal meeting, some of the prominent signers of the Treaty of New Echota were assassinated, including the drafter of the Blood Law, Major Ridge, along with John Ridge and Elias Boudinot. This started 15 years of civil war amongst the Cherokees. One of the notable survivors was Stand Watie, who became a Confederate general during the American Civil War. The Cherokees were one of the five "civilized tribes" that concluded treaties with, and were recognized by, the Confederate States of America.[PARAGRAPH:1]In 1848 a group of Cherokee set out on an expedition to California looking for new settlement lands. The expedition followed the Arkansas River upstream to Rocky Mountains in present-day Colorado, then followed the base of mountains northward into present-day Wyoming before turning westward. The route become known as the Cherokee Trail. The group, which undertook gold prospecting in California, returned along the same route the following year, noticing placer gold deposits in tributaries of the South Platte. The discovery went unnoticed for a decade, but eventually became one of the primary sources of the Colorado Gold Rush of 1859.[PARAGRAPH:1]Other Cherokees in western North Carolina served as part of Thomas' Legion, a unit of approximately 1,100 men of both Cherokee and white origin, fighting primarily in Virginia, where their battle record was outstanding. Thomas' Legion was the last Confederate unit to surrender in North Carolina, at Waynesville, North Carolina on May 9, 1865.</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAVIDIAN_DESC</Tag>
+		<English>Dravidian Empire</English>
+		<German>Dravidisches Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAVIDIAN_SHORT_DESC</Tag>
+		<English>Dravida</English>
+		<German>Draviden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAVIDIAN_ADJECTIVE</Tag>
+		<English>Dravidian</English>
+		<German>
+			<Text>Dravidisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAVIDIAN_PEDIA</Tag>
+		<English>[TAB] Dravidian peoples also Dravidians is a term used to refer to the diverse groups of people who natively speak languages belonging to the Dravidian language family. Populations of speakers are found mostly in southern India. Other Dravidian people are found in parts of central India, Sri Lanka, Bangladesh and Pakistan. The most populous Dravidian peoples (30-70 million each) are the Telugus, Tamils, Kannadigas and the Malayalis. Smaller Dravidian communities with 1-5 million speakers are the Tuluvas, Gonds and Brahui.
+South India is the area encompassing India's states of Andhra Pradesh, Karnataka, Kerala and Tamil Nadu as well as the union territories of Lakshadweep and Puducherry, occupying 19.31% of India's area. The region is also known as Dravida as is used in the National anthem.
+South India lies in the peninsular Deccan Plateau and is bounded by the Arabian Sea in the west, the Indian Ocean in the south and the Bay of Bengal in the east. The geography of the region is diverse, encompassing two mountain ranges, the Western and Eastern Ghats, and a plateau heartland. The Godavari, Krishna, Tungabhadra and Kaveri rivers are important non-perennial sources of water.
+A majority of Indians from the southern region speak one of the Dravidian languages: Kannada, Malayalam, Tamil, Telugu, Tulu, and Kodava. During its history, a number of dynastic kingdoms ruled over parts of South India whose invasions across southern and southeastern Asia impacted the history and cultures of modern sovereign states such as Sri Lanka, Singapore, the Philippines, Indonesia, Thailand and Malaysia. The region was colonised by Britain and gradually incorporated into the British Empire.		</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EUROPEAN_THE_CRUSADES_DESC</Tag>
+		<English>Crusader Kingdom</English>
+		<German>Kreuzfahrerstaaten</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EUROPEAN_THE_CRUSADES_SHORT_DESC</Tag>
+		<English>Crusaders</English>
+		<German>Kreuzfahrer</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EUROPEAN_THE_CRUSADES_ADJECTIVE</Tag>
+		<English>Crusader</English>
+		<German>
+			<Text>Kreuzfahrer</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EUROPEAN_DESC</Tag>
+		<English>European Minor Kingdom</English>
+		<German>Europ&#228;ische kleine K&#246;nigreiche</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EUROPEAN_SHORT_DESC</Tag>
+		<English>Minors</English>
+		<German>Kleine K&#246;nigreiche</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EUROPEAN_ADJECTIVE</Tag>
+		<English>Minor</English>
+		<German>Kleine K&#246;nigreiche
+			<Text>Minor</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EUROPEAN_THE_CRUSADES_PEDIA</Tag>
+		<English>[TAB] This civilization isn't playable and represents a large group of counties, dukedoms or Kingdoms of Europe from the Middle age. Among them, you can find some Crusader States or some Holy Roman Empire dukedoms or counties. </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FINLAND_DESC</Tag>
+		<English>Finnish Empire</English>
+		<German>Finnisches Reich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FINLAND_SHORT_DESC</Tag>
+		<English>Finland</English>
+		<German>Finnland</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FINLAND_ADJECTIVE</Tag>
+		<English>Finnish</English>
+		<German>Finnisch</German>
+	</TEXT>
+	<TEXT><Tag>TXT_KEY_CIV_FINLAND_PEDIA</Tag>
+		<English>[TAB]Finland, officially the Republic of Finland, is a Nordic country situated in the Fennoscandian region of Northern Europe. It is bordered by Sweden in the west, Norway in the north and Russia in the east, while Estonia lies to its south across the Gulf of Finland.
+Around 5.4 million people reside in Finland, with the majority concentrated in the southern region. It is the eighth largest country in Europe in terms of area and the most sparsely populated country in the European Union. Finland is a parliamentary republic with a central government based in Helsinki and local governments in 336 municipalities. A total of about one million residents live in the Greater Helsinki area (which includes Helsinki, Espoo, Kauniainen and Vantaa), and a third of the country's GDP is produced there. Other larger cities include Tampere, Turku, Oulu, Jyv&#228;skyl&#228;, Lahti and Kuopio.
+Finland was historically a part of Sweden from the 12th to 19th century, and from 1809-1917 was an autonomous Grand Duchy within the Russian Empire. The Finnish Declaration of Independence from Russia in 1917 was followed by a civil war in which the leftist side was defeated with German support. Finland fought World War II as essentially three separate conflicts: the Winter War (1939-1940), the Continuation War (1941-1944), and the Lapland War (1944-1945). Finland joined the United Nations in 1955, the OECD in 1969, the European Union in 1995, and the eurozone at its inception in 1999.
+Finland was a relative latecomer to industrialisation, remaining a largely agrarian country until the 1950s. Thereafter, economic development was rapid. Finland built an extensive welfare state and balanced between the East and the West in global economics and politics. With the best educational system in Europe, Finland has recently ranked as one of the world's most peaceful, competitive and livable countries. - Wikipedia</English>
+		<German>[TAB]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HAIDA_INUIT_DESC</Tag>
+		<English>Haida-Inuit Tribes</English>
+		<German>Haida-Inuit-St&#228;mme</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_HAIDA_INUIT_DESC</Tag>
+		<English>Haida-Inuit</English>
+		<German>Haida-Inuit</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HAIDA_INUIT_ADJECTIVE</Tag>
+		<English>Haida-Inuit</English>
+		<German>Haida-Inuit</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HAIDA_INUIT_PEDIA</Tag>
+		<English>[TAB]The Haida are an Indigenous nation of the Northwest Coast of North America. The Haida territories comprise the archipelago of the Queen Charlotte Islands, known in the Haida language as Haida Gwaii ("land of the Haida") and the southern half of Prince of Wales Island in the southernmost Alaska Panhandle, which is the home of a subgroup called the Kaigani Haida.[PARAGRAPH:2][TAB]Inuit (plural; the singular Inuk means "man" or "person") is a general term for a group of culturally similar indigenous peoples inhabiting the Arctic regions of Canada, Greenland, and Alaska. The Inuit language is grouped under Eskimo-Aleut languages.
+The Inuit people live throughout most of the Canadian Arctic and subarctic: in the territory of Nunavut ("our land"); the northern third of Quebec, in an area called Nunavik ("place to live"); the coastal region of Labrador, in an area called Nunatsiavut ("our beautiful land"); in various parts of the Northwest Territories, mainly on the coast of the Arctic Ocean and formerly in the Yukon. Collectively these areas are known as Inuit Nunaat. In the US, Alaskan Inupiat live on the North Slope of Alaska and the Seward Peninsula. Greenland's Kalaallit are citizens of Denmark.</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HALYCH_VOLHYNIA_DESC</Tag>
+		<English>Lithuanian Empire</English>
+		<German>Litauisches Reich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HALYCH_VOLHYNIA_SHORT_DESC</Tag>
+		<English>Lithuania</English>
+		<German>Litauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HALYCH_VOLHYNIA_ADJECTIVE</Tag>
+		<English>Lithuanian</English>
+		<German>Litauisch</German>
+	</TEXT>
+	<TEXT><Tag>TXT_KEY_CIV_HALYCH_VOLHYNIA_PEDIA</Tag>
+		<English>[TAB]For centuries, the southeastern shores of the Baltic Sea were inhabited by various Baltic tribes. In the 1230s, the Lithuanian lands were united by Mindaugas and the Kingdom of Lithuania was created on 6 July 1253. After his assassination in 1263, pagan Lithuania was a target of the Christian crusades of the Teutonic Knights and the Livonian Order. Despite the devastating century-long struggle with the Orders, the Grand Duchy of Lithuania expanded rapidly, overtaking former Ruthenian principalities of Kievan Rus'. During the 14th century, the Grand Duchy of Lithuania was the largest country in Europe; present-day Lithuania, Belarus, Ukraine, and parts of Poland and Russia were the territories of the Grand Duchy. With the Lublin Union of 1569, Lithuania and Poland formed a voluntary two-state personal union, the Polish-Lithuanian Commonwealth. The Commonwealth lasted more than two centuries, until neighbouring countries systematically dismantled it from 1772 to 1795, with the Russian Empire annexing most of Lithuania's territory.
+As World War I neared its end, Lithuania's Act of Independence was signed on 16 February 1918, declaring the founding of the modern Republic of Lithuania. In the midst of the Second World War, Lithuania was first occupied by the Soviet Union and then by Nazi Germany. As World War II neared its end and the Germans retreated, the Soviet Union reoccupied Lithuania. On 11 March 1990, a year before the formal dissolution of the Soviet Union, Lithuania became the first Baltic state to declare itself independent, resulting in the restoration of an independent State of Lithuania. - Wikipedia</English>
+		<German>[TAB]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUN_DESC</Tag>
+		<English>Hunnic Empire</English>
+		<German>Hunnisches Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUN_SHORT_DESC</Tag>
+		<English>Hunnia</English>
+		<German>Hunnien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUN_ADJECTIVE</Tag>
+		<English>Hunnic</English>
+		<German>
+			<Text>Hunnisch:hunnischen:hunnische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUN_PEDIA</Tag>
+		<English>[TAB]The Hunnic Empire stretched from the steppes of Central Asia into modern Germany, and from the Black Sea to the Baltic Sea.[PARAGRAPH:1]The Huns were an early confederation of Central Asian equestrian nomads or semi-nomads, with a Turkic core of aristocracy. Some of these Eurasian tribes moved into Europe in the 4th and 5th centuries, most famously under Attila the Hun. Huns remaining in Asia are recorded by neighboring peoples to the south, east, and west as having occupied Central Asia roughly from the 4th century to the 6th century, with some surviving in the Caucasus until the early 8th century.[PARAGRAPH:1]Modern genetic and ethnogenesis scholarship contrasts with traditional theories based on Chinese records, archaeology, linguistics and other indirect evidence. These older theories contain various elements: that the name "Hun" first described a nomadic ruling group of warriors whose ethnic origins were in Central Asia, and was most likely in present day Mongolia; that possibly they were related to, or part of, the Xiongnu; that the Xiongnu were defeated by the Chinese Han Empire; and that this is why they left Mongolia and moved west, eventually invading Europe 200 years later. Indirect evidence includes the transmission of grip laths for composite bows from Central Asia to the west. This narrative is ingrained in western (and eastern) historiography, but the evidence is often indirect or ambiguous. The Huns left practically no written records. There is no record of what happened between the time they left China and arrived in Europe 150 years later. The last mention of the northern Xiongnu was their defeat by the Chinese in 151 at the lake of Barkol, after which they fled to the western steppe at Kangju, Chinese records between the 3rd and 4th century suggest that a small tribe called Yueban, remnants of northern Xiongnu, was distributed about the steppe of Kazakhstan. One recent line of reasoning favors a political and cultural link between the Huns and the Xiongnu. The Central Asian sources of the 4th century translate "Huns" as "Xiongnu", and "Xiongnu" as "Huns"; also, Xiongnu and Hunnic cauldrons are virtually identical, and were buried on the same spots (river banks) in Hungary and in the Ordos.[PARAGRAPH:1]There is a theory, the turkic theory, that claims that the Huns may be of Turkic (or pre-Proto-Turkic) origin. This school of thought emerged when Joseph de Guignes in the 18th century identified the Huns with the Xiongnu or (H)siung-nu. It is supported by O. Maenchen-Helfen on the basis of his linguistic studies. English scholar Peter Heather called the Huns "the first group of Turkic, as opposed to Iranian, nomads to have intruded into Europe". Turkish researcher Kemal Cemal bolsters this assertion by showing similarities in words and names in Turkic and Hunnic languages, and similarities in systems of governance of Hunnic and Turkic tribes. Hungarian historian Gyula Nemeth also supports this view. Uyghur historian Turghun Almas has suggested a link between the Huns and the Uyghurs, a Turkic speaking people who reside in Xinjiang, China.[PARAGRAPH:1]However, the Huns appeared in Europe in the 4th century, apparently from Central Asia. They first appeared north of the Black Sea, forcing a large number of Goths to seek refuge in the Roman Empire; later, the Huns appeared west of the Carpathians in Pannonia, probably sometime between 400 and 410, perhaps triggering the massive migration of Germanic tribes westward across the Rhine in December 406.[PARAGRAPH:1]The establishment of the 5th century Hunnic Empire marks a historically early instance of horseback migration. Under the leadership of Attila the Hun, the Huns achieved hegemony over several rivals by using the composite bow, their highly maneuverable hit-and-run tactics with their horsemanship, and a well-organized system of taxation. Supplementing their wealth by plundering wealthy Roman cities to the south, the Huns maintained the loyalties of a number of tributary tribes.[PARAGRAPH:1]Attila's Huns incorporated groups of unrelated tributary peoples. In Europe, Alans, Gepids, Scirii, Rugians, Sarmatians and Gothic tribes all united under the Hun by Ardaric's coalition at the Battle of Nedao in 454, at modern day Nedava.[PARAGRAPH:1]Many nations have tried to assert themselves as ethnic or cultural successors to the Huns. For instance, the Nominalia of the Bulgarian khans may indicate that they believed themselves to have been descended from Attila. The Bulgars certainly were part of the Hun tribal alliance for some time, and some have hypothesized that the Chuvash language (which is believed to have descended from the Bulgar language) is the closest surviving relative of the Hunnic language. The Magyars (Hungarians) also have laid claims to Hunnic heritage. Because the Huns who invaded Europe represented a loose coalition of various peoples, it is possible that Magyars were part of it. Until the early 20th century, many Hungarian historians believed that the Sz&#233;kely people were the descendants of the Huns. In 2005, a group of about 2,500 Hungarians petitioned the government for recognition of minority status as direct descendants of Attila. The bid failed, but gained some publicity for the group, which formed in the early 1990s and appears to represent a special Hun(garian)-centric brand of mysticism. The self-proclaimed Huns are not known to possess any distinctly Hunnic culture or language beyond what would be available from historical and modern-mystical Hungarian sources.[PARAGRAPH:1]While it is clear that the Huns left descendants all over Eastern Europe, the disintegration of the Hun Empire meant they never regained their lost glory. One reason was that the Huns never fully established the mechanisms of a state, such as bureaucracy and taxes, unlike the Magyars or Golden Horde. Once disorganized, the Huns were absorbed by more organized polities. </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_DESC</Tag>
+		<English>Hungarian Empire</English>
+		<German>Ungarisches Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_SHORT_DESC</Tag>
+		<English>Hungary</English>
+		<German>Ungarn</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_ADJECTIVE</Tag>
+		<English>Hungarian</English>
+		<German>Ungarisch</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_PEDIA</Tag>
+		<English>[TAB]In the time of the Roman Empire, the Romans called the region Pannonia (west from the Danube river). After Rome fell the Migration Period brought on many invaders. First came the Huns, who built up a powerful empire under Attila. The name "Hungary" may be influenced by the name of the Hun people, although it probably comes from the name of a later, 7th century state called Onogur (or possibly from the name of the city Ungvar, which was possibly the first major city the magyars occupied). After the Hunnish rule faded, Germanic tribes Lombards and Gepids ruled in Pannonia for about 100 years, during which the Slavic tribes also began migrating south. In the 560s, these were supplanted by the Avars who would maintain their supremacy of the land for over two centuries. The Franks under Charlemagne from the west and the Bulgars from the southeast finally managed to overthrow the Avars in the early 9th century. Soon after, the Franks retreated, and the Slavonic kingdom of Great Moravia and the Balaton Principality controlled much of Pannonia until the end of the century. Finally, the Magyars migrated to Hungary in the late 9th century.[PARAGRAPH:2]Tradition holds that the Country of the Magyars (Hungary) was founded by Arpad, who led the Magyars into the Pannonian plains after 895. The Kingdom of Hungary was established in 1000 by King St. Stephen I. Initially the history of Hungary was developed in a triangle with that of Poland and Bohemia, with the many liaisons with Popes and Emperors of the Holy Roman Empire. Hungary was partially demolished with a great loss of life in 1241-1242 by Mongol (Tartar) armies of Batu Khan.[PARAGRAPH:2]Gradually Hungary under the rule of the dynasty of the Arpads turned into an independent kingdom which formed a distinct Central European culture with ties to greater West European civilisation. Ruled by the Angevins since 1308, the Kingdom of Hungary briefly extended its control over Wallachia and Moldavia. The non-dynastic king Matthias Corvinus, son of John Hunyadi, ruled the Kingdom of Hungary from 1458 to 1490. He strengthened Hungary and its government. Under his rule, Hungary (notably the northern parts, some of which are in Slovakia today) became an important artistic and cultural centre of Europe during the Renaissance. Hungarian culture influenced others, for example the Polish-Lithuanian Commonwealth. Together with Polish and Czech lands, Hungary formed the Visegrad group of countries. Today an alliance of the same name exists again with the Czech Republic, Slovakia and Poland.[PARAGRAPH:2]Hungarian independence ended with the Ottoman conquest at the beginning of the 16th century; the parts of Hungary that were not conquered by the Ottomans were annexed by Austria (the rulers of which were Hungarian kings at the same time) in the West, and became the independent Principality of Transylvania in the East, where thus Hungarian statedom was preserved. After 150 years, Austria and her Christian allies retook also the territory of today's Hungary by the end of the 17th century from the Islamic Ottoman Empire.[PARAGRAPH:2]After the final retreat of the Turks, struggle began between the Hungarian nation and the Habsburg kings for the protection of noblemen's rights (thus guarding the autonomy of Hungary). The fight against Austrian absolutism resulted in the unsuccessful popular freedom fight led by a Transylvanian nobleman, Ferenc II Rakoczi, between 1704 and 1711. The revolution and war of 1848?1849 eliminated serfdom and secured civil rights. The Austrians were finally able to prevail only with Russian help.[PARAGRAPH:2]Thanks to the victories against Austria by the French-Italian coalition (the Battle of Solferino, 1859) and Prussia (Battle of Koniggratz, 1866), Hungary would eventually, in 1867, manage to become an autonomous part of the Austro-Hungarian Empire. Having achieved this, the Hungarian government took an effort to nationally unify the kingdom by Magyarisation of the various other nationalities. This lasted until the end of World War I, when the Austro-Hungarian empire collapsed. On November 16, 1918, an independent Hungarian Republic was proclaimed.[PARAGRAPH:2]In March 1919 the communists took power, and in April, Bela Kun proclaimed the Hungarian Soviet Republic. This government, like its predecessor, proved to be short lived; after some initial military successes against the Czechoslovak army, the Romanians attacked to prevent a campaign in Transylvania. By August more than half of present-day Hungary, including Budapest, was placed under Romanian occupation, which lasted until November. Rightist military forces, led by the former Austro-Hungarian Admiral Miklos Horthy, entered Budapest in the wake of the Romanian army's departure and filled the vacuum of state power. In January 1920, elections were held for a unicameral assembly, and Admiral Horthy was subsequently elected Regent, thereby formally restoring Hungary to a kingdom, although there were no more Kings of Hungary, despite attempts by the former Habsburg king to return to power. Horthy continued to rule with autocratic powers until 1944.[PARAGRAPH:2]In June 1920, the Treaty of Trianon was signed, fixing Hungary's borders. Compared with the pre-war Kingdom, the size and population of this new Hungary were reduced by about two-thirds; about one-third of the Magyar population became minorities in the neighbouring countries. Therefore, Hungarian politics and culture of the interwar period were saturated with irredentism and revisionism (the restoration of 19th century "greater Hungary" by whatever means necessary).[PARAGRAPH:2]Horthy made an alliance with Nazi Germany in the 1930s, in the hope of revising the territorial losses that had followed World War I. The alliance did lead to some territories being given to Hungary in the two Vienna Awards. Hungary then assisted the German occupation of the Kingdom of Yugoslavia, occupying the Banat right afterwards, and finally entered World War II in 1941, fighting primarily against the Soviet Union. In October 1944, Hitler replaced Horthy with the Hungarian Nazi collaborator Ferenc Szalasi and his Arrow Cross Party in order to avert Hungary's defection to the Allied side, which were constantly threatened since the Allied invasion of Italy.[PARAGRAPH:2]Hungary passed a series of anti-Semitic laws throughot the 1920s and thirties, and some massacres of Jews by Hungarian forces took place in the early part of the Second World War, but Hungary initially resisted large scale deportation of its Jewish population. Ultimately, however, during the German occupation, the Arrow Cross Party and government authorities participated fully in the Holocaust: in May and June of 1944, Hungarian police deported nearly 440,000 Jews in more than 145 trains, mostly to Auschwitz. Ultimately, over 533,000 Jews in Hungary were killed during the Holocaust, as well as several tens of thousands of Roma.[PARAGRAPH:2]Following the fall of Nazi Germany, Hungary became part of the Soviet area of influence and was appropriated into a communist state following a short period of democracy in 1946?1947. After 1948 Communist leader Matyas Rakosi established a Stalinist rule in the country, which was barely bearable for the war-torn country. This led to the 1956 Hungarian Revolution and an announced withdrawal from the Warsaw Pact which were met with a massive military intervention by the Soviet Union. From the 1960s on to the late 1980s Hungary enjoyed a distinguished status of "the happiest barrack" within the Eastern bloc, under the rule of late controversial communist leader Janos Kadar, who exercised autocratic rule during this period. In the late 1980s, Hungary led the movement to dissolve the Warsaw Pact and shifted toward multiparty democracy and a market-oriented economy. Following the collapse of the Soviet Union in 1991, Hungary developed closer ties with Western Europe, joined NATO in 1999 and the European Union on May 1, 2004. - Varietas Delectat Mod.</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DESC</Tag>
+		<English>Hindi Empire</English>
+		<German>
+			<Text>Indisches Reich:Indische Reich:Indischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_SHORT_DESC</Tag>
+		<English>India</English>
+		<German>
+			<Text>Indien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_ADJECTIVE</Tag>
+		<English>Hindi</English>
+		<German>
+			<Text>Indisch:indischen:indische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_IROQUOIS_DESC</Tag>
+		<English>Iroquois Tribes</English>
+		<French/>
+		<German>Irokesen-St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_IROQUOIS_DESC</Tag>
+		<English>Iroquois</English>
+		<French/>
+		<German>Irokesen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_IROQUOIS_ADJECTIVE</Tag>
+		<English>Iroquois</English>
+		<French/>
+		<German>Irokesisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_IROQUOIS_PEDIA</Tag>
+		<English>[TAB]The Iroquois, also known as the Haudenosaunee or the "People of the Longhouse", are an indigenous people of North America. In the 16th century or earlier, the Iroquois came together in an association known as the Iroquois League, or the "League of Peace and Power". The original Iroquois League was often known as the Five Nations, and comprised the Mohawk, Oneida, Onondaga, Cayuga, and Seneca nations. After the Tuscarora nation joined the League in the 18th century, the Iroquois have often been known as the Six Nations. The League is embodied in the Grand Council, an assembly of fifty hereditary sachems.
+When Europeans first arrived in North America, the Iroquois were based in what is now the northeastern United States, primarily in what is referred to today as upstate New York. Today, Iroquois live primarily in the United States and Canada.
+The Iroquois League has often also been known as the Iroquois Confederacy, but some modern scholars now make a distinction between the League and the Confederacy. According to this interpretation, the Iroquois League refers to the ceremonial and cultural institution embodied in the Grand Council, while the Iroquois Confederacy was the decentralized political and diplomatic entity that emerged in response to European colonization. The League still exists, but the Confederacy was shattered by the defeat of the British and allied Iroquois nations in the American Revolutionary War. - Wikipedia.</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ISRAEL_DESC</Tag>
+		<English>Israeli Empire</English>
+		<German>Israelisches Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ISRAEL_SHORT_DESC</Tag>
+		<English>Israel</English>
+		<German>Israel</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ISRAEL_ADJECTIVE</Tag>
+		<English>Israeli</English>
+		<German>
+			<Text>Israelisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ISRAEL_PEDIA</Tag>
+		<English>[TAB]In the Book of Genesis, Abraham's grandson is Jacob, whose name is changed to Israel and has twelve sons who father twelve tribes known as the "children of Israel". Judah is the fourth of Israel's sons.
+Evidence of a Jewish presence in the region between the Jordan River and the Mediterranean Sea dates back over 3,000 years, to the formation of the religion and people. The name "Jews" derives from their origin in the Kingdom of Judah, an area from which the Jewish people have been repeatedly dispersed and repopulated over their history.
+The Israelites are generally thought to have entered Canaan from Sumer as early as 2000 BCE. After a long period of exile in Egypt (approximately 1750-1250 BCE), the Israelites returned to Canaan, warred with many indigenous tribes, and finally developed an independent kingdom around 1020 BCE. The Hebrew Bible describes constant warfare with many tribes, including the Philistines, whose capital was Gaza, and a single temple in Jerusalem. Around 950 BCE, the kingdom split into a southern Kingdom of Judah and a northern Kingdom of Israel.
+Biblical and Assyrian records describe how the Kingdom of Israel was destroyed by Assyrian king Tiglath-Pileser III around 720 BCE and its people sent into exile, becoming the Lost Tribes of Israel. The Samaritans claim to be descended from survivors of this destruction. The Philistine kingdom was also destroyed.
+The Bible describes how a later Assyrian King, Sennacherib, tried and failed to conquer Judah (Assyrian records say he punished them and left). Assyria was eventually conquered by Babylon in 612 BCE.
+In 586 BCE King Nebuchadnezzar II of Babylon conquered the Kingdom of Judah and exiled the population to Babylon. According to the Bible, also destroyed Solomon's Temple.
+In 538 BCE Cyrus the Great of Persia conquered Babylon and issued a proclamation granting subjugated nations (including the people of Judah) their freedom. The Bible describes how 50,000 Judeans, led by Zerubabel returned and rebuilt the temple. A second group of 5000, led by Ezra and Nehemiah, returned to Judea in 456 BCE. According to the Bible, non-Jews tried to prevent the return and wrote to Cyrus.
+In 333 BCE Alexander the Great defeated Persia and conquered Judea and sometime thereafter, the first translation of the Hebrew Bible (the Septuagint) was begun in Alexandria. After Alexander's death, his generals fought over the territory he had conquered. Israel became the frontier between the Seleucid Empire and Ptolemaic Egypt, eventually becoming part of the Seleucid Empire.
+In the second century, Antiochus IV Epiphanes (ruler of the Seleucid Empire) tried to eradicate Judaism in favor of Hellenistic religion leading to the 174-135 BCE Maccabean Revolt led by Judas Maccabeus (celebrated as the Jewish festival of Hanukkah). The Books of the Maccabees documented the uprising and the end of Greek rule.
+The Hasmonean dynasty of priest-kings ruled Israel with the Pharisees, Saducees and Essenes as the principal social movements. As part of their struggle against Hellenistic civilization, the Pharisees established what may have been the world's first national male (religious) education and literacy program, based around meeting houses. This led to Rabbinical Judaism. Justice was administered by the Sanhedrin, whose leader was known as the Nasi. The Nasi's religious authority gradually superseded that of the Temple's high priest (under the Hasmoneans this was the king).
+In 125 BCE the Hasmonean King John Hyrcanus subjugated Edom and forcibly converted the population to Judaism. This is the only known case of forced conversion to Judaism. 
+... read Wikipedia...- Wikipedia </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MEXICO_DESC</Tag>
+		<English>Gran Colombian Empire</English>
+		<German>Gran Kolumbianische Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MEXICO_SHORT_DESC</Tag>
+		<English>Gran Colombia</English>
+		<German>Gran Colombia</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MEXICO_ADJECTIVE</Tag>
+		<English>Colombian</English>
+		<German>
+			<Text>Kolumbianisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MEXICO_PEDIA</Tag>
+		<English>[TAB] Gran Colombia is the name historians use to refer to the state that encompassed much of northern South America and part of southern Central America from 1819 to 1831. The state included the territories of present-day Colombia, Ecuador, Panama and Venezuela, and parts of northern Peru, western Guyana and northwestern Brazil. The term Gran Colombia is used historiographically to distinguish it from the current Republic of Colombia, which is also the official name of the former state.
+At the time of its creation, Gran Colombia was the most prestigious country in Spanish America. John Quincy Adams, then Secretary of State and future president of the United States, claimed it to be one of the most powerful nations on the planet. This prestige, added to the figure of Bolívar, attracted to the nation unionist ideas of independence movements in Cuba, the Dominican Republic and Puerto Rico, which sought to form an associated state with the republic. - Wikipedia		</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BRAZIL_DESC</Tag>
+		<English>Brazilian Empire</English>
+		<German>Brasilianisches Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BRAZIL_SHORT_DESC</Tag>
+		<English>Brazil</English>
+		<German>Brasilien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BRAZIL_ADJECTIVE</Tag>
+		<English>Brazilian</English>
+		<German>
+			<Text>Brasilianisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BRAZIL_PEDIA</Tag>
+		<English>[TAB] Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. At 8.5 million square kilometers (3.2 million square miles) and with over 208 million people, Brazil is the world's fifth-largest country by area and the sixth most populous. Its capital is Brasília, and its most populated city is São Paulo. The federation is composed of the union of the 26 states, the Federal District, and the 5,570 municipalities. It is the largest country to have Portuguese as an official language and the only one in the Americas; it is also one of the most multicultural and ethnically diverse nations, due to over a century of mass immigration from around the world.
+Bounded by the Atlantic Ocean on the east, Brazil has a coastline of 7,491 kilometers (4,655 mi). It borders all other countries in South America except Ecuador and Chile and covers 47.3% of the continent's land area. Its Amazon River basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected habitats. This unique environmental heritage makes Brazil one of 17 megadiverse countries, and is the subject of significant global interest and debate regarding deforestation and environmental protection.
+Brazil was inhabited by numerous tribal nations prior to the landing in 1500 of explorer Pedro Álvares Cabral, who claimed the area for the Portuguese Empire. Brazil remained a Portuguese colony until 1808, when the capital of the empire was transferred from Lisbon to Rio de Janeiro. In 1815, the colony was elevated to the rank of kingdom upon the formation of the United Kingdom of Portugal, Brazil and the Algarves. Independence was achieved in 1822 with the creation of the Empire of Brazil, a unitary state governed under a constitutional monarchy and a parliamentary system. The ratification of the first constitution in 1824 led to the formation of a bicameral legislature, now called the National Congress. The country became a presidential republic in 1889 following a military coup d'état. An authoritarian military junta came to power in 1964 and ruled until 1985, after which civilian governance resumed. Brazil's current constitution, formulated in 1988, defines it as a democratic federal republic. Due to its rich culture and history, the country ranks thirteenth in the world by number of UNESCO World Heritage Sites. - Wikipedia		</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MINOR_PEDIA</Tag>
+		<English>A minor nation.... alone in a dangerous world !</English>
+		<French/>
+		<German>Ein kleines Volk ... alleine ... in einer gef&#228;rlichen Welt!</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MUGHAL_DESC</Tag>
+		<English>Mughal Empire</English>
+		<German>Mogulreich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MUGHAL_SHORT_DESC</Tag>
+		<English>Mughalistan</English>
+		<German>Mogulreich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MUGHAL_ADJECTIVE</Tag>
+		<English>Mughal</English>
+		<German>
+			<Text>Mogulisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MUGHAL_PEDIA</Tag>
+		<English>[TAB] The Mughal Empire was an imperial power from the Indian Subcontinent. The Mughal emperors were descendants of the Timurids. It began in 1526, at the height of their power in the late 17th and early 18th centuries, they controlled most of the Indian Subcontinent-extending from Bengal in the east to Balochistan in the west, Kashmir in the north to the Kaveri basin in the south. Its population at that time has been estimated as between 110 and 150 million, over a territory of more than 3.2 million square kilometres (1.2 million square miles).
+The "classic period" of the empire started in 1556 with the accession of Jalaluddin Mohammad Akbar, better known as Akbar the Great. Under the rule of Akbar the Great, India enjoyed much cultural and economic progress as well as religious harmony. The Mughals also forged a strategic alliance with several Hindu Rajput kingdoms. However, some Rajput kings, such as Maha Rana Pratap, continued to pose significant threat to Mughal dominance of northwestern India. Additionally, regional states in southern and northeastern India, such as the Ahom Kingdom of Assam, successfully resisted Mughal subjugation. The reign of Shah Jahan, the fifth emperor, was the golden age of Mughal architecture. He erected many splendid monuments, the most famous of which is the legendary Taj Mahal at Agra as well as Pearl Mosque, the Red Fort, Jama Masjid (Mosque) and Lahore Fort. The reign of Aurangzeb saw the enforcement of strict Muslim fundamentalism which caused rebellions among the Sikhs and Hindus.
+By early 1700s, the Sikh Misl and the Hindu Maratha Empire had emerged as formidable foes of the Mughals. Following the death of Aurangzeb in 1707, the empire started its gradual decline, although the dynasty continued for another 150 years. During the classic period, the empire was marked by a highly centralized administration connecting the different regions. All the significant monuments of the Mughals, their most visible legacy, with brilliant literary, artistic, and architectural results.
+Following 1725, the empire began to disintegrate, weakened by wars of succession, agrarian crises fueling local revolts, the growth of religious intolerance, the rise of the Maratha, Durrani, as well as Sikh empires and finally British colonialism. The last Emperor, Bahadur Shah II, whose rule was restricted to the city of Delhi, was imprisoned and exiled by the British after the Indian Rebellion of 1857.		</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NUBIA_DESC</Tag>
+		<English>Nubian Empire</English>
+		<German>Nubisches Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NUBIA_SHORT_DESC</Tag>
+		<English>Nubia</English>
+		<German>Nubien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NUBIA_ADJECTIVE</Tag>
+		<English>Nubian</English>
+		<German>
+			<Text>Nubisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NUBIA_PEDIA</Tag>
+		<English>[TAB]Nubia is the homeland of one of Africa's earliest black civilizations, with a history which can be traced from 5000 B.C. onward through Nubian monuments and artifacts as well as written records from Egypt and Rome. Ancient Egyptian portraits depicted the Nubians as having very dark skin, and were often shown with golden hooped earrings and with braided or extended hair. In antiquity, Nubia was a land of great natural wealth, of gold mines, ebony, ivory and incense which was always prized by her neighbors.
+In 2300 BC, Nubia was first mentioned in Old Kingdom Egyptian accounts of trade missions. From Aswan, right above the First Cataract, southern limit of Egyptian control at the time, Egyptians imported gold, incense, ebony, ivory, and exotic animals from tropical Africa through Nubia. (...)
+[PARAGRAPH:2] During the Egyptian Middle Kingdom (c. 2040-1640 BC), Egypt began expanding into Nubia to gain more control over the trade routes in Northern Nubia and direct access to trade with Southern Nubia. They erected a chain of forts down the Nile below the Second Cataract. These garrisons seemed to have peaceful relations with the local Nubian people but little interaction during the period. (...)
+[PARAGRAPH:3] Around AD 350  the area was invaded by the Ethiopian  kingdom of Aksum and the kingdom collapsed. Eventually three smaller kingdoms replaced it: northernmost was Nobatia  between the first and second cataract of the Nile River, with its capital at Pachoras (modern day Faras); in the middle was Makuria, with its capital at Old Dongola; and southernmost was Alodia, with its capital at Soba (near Khartoum). King Silky of Nobatia crushed the Blemmyes, and recorded his victory in a Greek inscription carved in the wall of the temple of Talmis (modern Kalabsha) around AD 500.
+While bishop Athanasius of Alexandria consecrated one Marcus as bishop of Philae before his death in 373, showing that Christianity had penetrated the region by the fourth century, John of Ephesus records that a Monophysite priest named Julian converted the king and his nobles of Nobatia around 545. John of Ephesus also writes that the kingdom of Alodia was converted around 569. However, John of Biclarum records that the kingdom of Makuria was converted to Roman Catholicism the same year, suggesting that John of Ephesus might be mistaken. Further doubt is cast on John's testimony by an entry in the chronicle of the Greek Orthodox Patriarch of Alexandria Eutychius, which states that in 719 the church of Nubia transferred its allegiance from the Greek Orthodox to the Coptic Church.
+By the 7th century Makuria expanded becoming the dominant power in the region. It was strong enough to halt the southern expansion of Islam after the Arabs had taken Egypt. After several failed invasions the new rulers agreed to a treaty with Dongola allowing for peaceful coexistence and trade. This treaty held for six hundred years. Over time the influx of Arab traders introduced Islam to Nubia and it gradually supplanted Christianity. While there are records of a bishop at Qasr Ibrim in 1372, his see had come to include that located at Faras. It is also clear that the "Royal" church at Dongola had been converted to a mosque around 1350. - Wikipedia </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PATAGONIA_DESC</Tag>
+		<English>Patagonian Tribes</English>
+		<German>Patagonische St&#228;mme</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_PATAGONIA_DESC</Tag>
+		<English>Patagonia</English>
+		<German>Patagonien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PATAGONIA_ADJECTIVE</Tag>
+		<English>Patagonian</English>
+		<German>
+			<Text>Patagonisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PATAGONIA_PEDIA</Tag>
+		<English>[TAB]The indigenous peoples of the region included the Tehuelches, whose numbers and society were reduced to near extinction not long after the first contacts with Europeans. Tehuelches included the Gununa'kena to the north, Mecharnuekenk  in south central Patagonia and the Aonikenk or Southern Tehuelche in the far South, north of the Magellan channel. On Isla Grande de Tierra del Fuego, the Selk'nam (Ona) and Haush (Mannekenk) lived in the north and south east respectively. In the archipelagos to the south of Tierra del Fuego were Y&#225;mana, with the Kaw&#233;skar (Alakaluf) in the coastal areas and islands in western Tierra del Fuego and the south west of the mainland. In the Patagonian archipalagoes north of Taitao Peninsula lived the Chonos. These groups were encountered in the first periods of European contact with different lifestyles, body decoration and language, although it is unclear when this configuration emerged.
+[PARAGRAPH:2] Around 1,000 BCE, Mapuche-speaking agriculturalists penetrated the western Andes and from there across into the eastern plains and down to the far south. Through confrontation and technological ability, they came to dominate the other peoples of the region in a short space of time, and are the principal indigenous community today.[1] The Tehuelche model of domination through technological superiority and armed confrontation was later repeated as Europeans implemented a succeeding but conceptually identical cycle, essentially replacing the position of the former dominators with a new, albeit predominately European class. - Wikipedia </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_DESC</Tag>
+		<English>Polish Empire</English>
+		<German>Polnisches Reich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_POLAND_DESC</Tag>
+		<English>Poland</English>
+		<German>
+			<Text>Polen</Text>
+			<Gender>Neuter</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_ADJECTIVE</Tag>
+		<English>Polish</English>
+		<German>Polnisch</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_PEDIA</Tag>
+		<English>[TAB]The nation that is now known as Poles was originally a group of Slavic tribes with territories situated approximately within the current borders of the modern country. These factions were in the 10th century unified under the leadership of Mieszko I of Piast dynasty. Mieszko converted the Poles in 966 to Christianity in order to compete better with the crusading Germans. This date is being recognized as the year in which the country came to existence. Since the formation of the state, Poland, due to its unfortunate central position, was forced to combat its neighbours. The first major battle recorded was that of Cedynia in 972, the aggressor being the margrave of Brandenburg, ended in an outstanding victory of the young Polish army. 12th and 13th centuries saw Poland divided into a throng of small principalities, which were later united under Wladyslaw I. He and his son {Casimir}, the only one who deserved to be called {the Great} in Polish historiography, initiated important administrative, judicial, and legislative reforms and founded the first Polish university (Europe's 37th). Next dynasty to rule Poland were the Jagiellons - grand dukes of Lithuania, which remained in personal union with Poland till 18th century. The rule of this dynasty, brought Poland to great heights of power and cultural magnificence. This was also the age of great battles with the 'eternal Polish foe' - Teutonic knights. The most important of them being the battle of Gr? 1410, which ended with decisive Polish victory. In this period Polish nobility begun to consolidates its rights and privileges and a parliamentary body - Sejm - emerged. In the mid XVI century Poland united with Lithuania and was officially termed Commonwealth. This was the peak of renowned Polish tolerance, which displayed in the fact that Poland remained the only country at that time where no witch-hunts took place. With the death of Sigmund II, ended the Jagiellon dynasty and began the queerest period of Polish history. Poland was strong, rich and its boundaries stretched from Baltic to the Black Sea. Yet, the weird political system led to a quick decline. [PARAGRAPH:2]The power was vested in the hands of an elected king, who was chosen by the bicameral parliament. A distinguished Polish invention was Liberum Veto, which made it possible for any MP to prevent the passage of legislation. Those two specific principles led to enormous corruption, anarchy and consolidation of power in the hands of practically autonomous magnates. 17th and 18th century saw the decline of Poland thorn by endless wars with Sweden, Russia, and the Ukrainian Cossacks. Still, in this whole mess some bright points shone splendid mainly due to specific Polish cavalry unit - {the Hussars}. This light cavalry kindled terror among its foes with their high-speed charge and queer garment of leopard hides, light armour and lofty wings attached to arms or saddle (need for speed). Thanks to this unit were John Casimir and John Sobieski able to wage victorious battles with the Ottomans, the grandest of which was the battle of Vienna (mid. 17th c.), which halted a serious threat to Christendom in central Europe. From 1697 the Electors of Saxony took the title of king and partition between Russia, Austria, and Prussia followed in 1772. Despite this hopeless situation Sejm, supported by Stanis3aw II Augustus, Polish king and a lover of Catherine the Great issued a Constitution on May 3, 1791 - second one in the world. This act and a brief revolutionary war for recovery (1794) led by Kosciusko were followed by further partitions (1793, 1795-97), which finally led to complete disappearance of Poland from the European map. [PARAGRAPH:2]After the Vienna Congress Kingdom of Poland was created with its own administration but a Russian Tsar as king. Bloody uprisings, which took place in 1830, 1846-9, and 1863 were suppressed but this did not prevent the rise of democratic parties, which demanded independence and were ready to seize the power after WWI, when Poland finally, after 123 years, regained freedom. War against Russia (1920-1) with the famous battle of Warsaw, was followed by the dictatorship of Marshal Pilsudski. Poland by the terms of Versailles Treaty had access to the port of Danzig via a Polish Corridor, which became a [casus belli] for Hitler to attack Poland and start WWII. After the war Poland was drawn into the Soviet sphere of interests. Political opposition was neutralized, and in 1952 a Soviet-style constitution was adopted. Waves of workers' strikes in 1956 and 1970 led to the rigidification of communism and only after Karol Wojtyla became the first Polish pope in 1979 was the regime eased. Governmental crisis, which followed the imposition of Martial Law by PM Jaruzelski, led to legalization of 'Solidarity' (Poland's first free labour union and active opposition) and Round Table talks with all groups. Multi-party parliament was established and Lech Walesa was elected president. Since then democratisation of Poland continues despite constant economical problems. A few years ago Poland joined NATO and is now in the European Union.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLYNESIA_DESC</Tag>
+		<English>Polynesian Tribes</English>
+		<French/>
+		<German>Polynesische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_POLYNESIA_DESC</Tag>
+		<English>Polynesia</English>
+		<French/>
+		<German>Polynesien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLYNESIA_ADJECTIVE</Tag>
+		<English>Polynesian</English>
+		<French/>
+		<German>Polynesisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLYNESIA_PEDIA</Tag>
+		<English>[TAB]Polynesia (from Greek:"polus" many + "nesos" island) is a subregion  of Oceania, comprising a large grouping of over 1,000 islands scattered over the central and southern Pacific Ocean. The people who inhabit the islands of Polynesia are termed Polynesians  and they share many similar traits including language, culture and beliefs.
+The term "Polynesia" was first used by Charles de Brosses in 1756, and originally applied to all the islands of the Pacific. In 1831, Jules Dumont d'Urville proposed a restriction on its use during a lecture to the Geographical Society of Paris. Polynesia is generally defined as the islands within the Polynesian Triangle although this does not cover the geographic spread and settlement of Polynesian people across a greater area. Geographically, and oversimply, the Polynesian Triangle may be seen with its corners at Hawaii, New Zealand and Easter Island.
+The other main island groups located within the Polynesian triangle are Samoa, Tonga, the Cook Islands, Tuvalu, Tokelau, Niue, Wallis and Futuna and French Polynesia.
+A Polynesian island group outside of this great triangle is Rotuma situated north of the Fijian islands. There are also small outlier Polynesian enclaves in Papua New Guinea, the Solomons, The Caroline Islands, some of the Lau group to Fiji's southeast and in Vanuatu.
+However, in essence, Polynesia is an anthropological term referring to one of the three parts of Oceania (the others being Micronesia and Melanesia) whose pre-colonial population generally belongs to one ethno-cultural family as a result of centuries of maritime migrations.- Wikipedia</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PONTUS_DESC</Tag>
+		<English>Pontic Empire</English>
+		<French/>
+		<German>Pontisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PONTUS_SHORT_DESC</Tag>
+		<English>Pontus</English>
+		<French/>
+		<German>Pontos</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PONTUS_ADJECTIVE</Tag>
+		<English>Pontic</English>
+		<French/>
+		<German>Pontisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PONTUS_PEDIA</Tag>
+		<English>[TAB]The Kingdom of Pontus or Pontic Empire was a state of Persian origin on the southern coast of the Black Sea. It was founded by Mithridates I in 291 BC and lasted until its conquest by the Roman Republic in 63 BC. The kingdom grew to its largest extent under Mithridates VI the Great, who conquered Colchis, Cappadocia, Bithynia, the Greek colonies of the Tauric Chersonesos and for a brief time the Roman province of Asia. After a long struggle with Rome in the Mithridatic Wars, Pontus was defeated, part of it was incorporated into the Roman Republic as the province Bithynia et Pontus and the eastern half survived as a client kingdom.
+As the greater part of the kingdom lay within the immense region of Cappadocia, which in early ages extended from the borders of Cilicia to the Euxine (Black Sea), the kingdom as a whole was at first called "Cappadocia by Pontus" or "Cappadocia by the Euxine", but afterwards simply "Pontus," the name Cappadocia being henceforth restricted to the southern half of the region previously included under that title.- Wikipedia</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIA_DESC</Tag>
+		<English>Siberian Empire</English>
+		<German>Sibirisches Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIA_SHORT_DESC</Tag>
+		<English>Siberia</English>
+		<German>Sibirien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIA_ADJECTIVE</Tag>
+		<English>Siberian</English>
+		<German>
+			<Text>Sibirisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIA_PEDIA</Tag>
+		<English>[TAB] The early history of Siberia is greatly influenced by the sophisticated nomadic civilizations of the Scythians (Pazyryk) and Xiongnu (Noin-Ula), both flourishing before the Christian era. The steppes of South Siberia saw a succession of nomadic empires, including the Turkic Empire and the Mongol Empire. In the late Middle Ages, Tibetan Buddhism spread into the areas south of Lake Baikal.
+A milestone in the history of the region was the arrival of the Russians in the 16th and 17th centuries, contemporaneous and in many regards analogous to the European settlement in the Americas. During the Russian Empire, Siberia was an agricultural province and served as a place of exile, among others for Avvakum, Dostoevsky, and the Decembrists. The 19th century witnessed the construction of the Trans-Siberian Railway, industrialization and the discovery of vast reserves of Siberian mineral resources.
+According to the field of genetic genealogy, people first resided in Siberia by 45,000 BCE and spread out east and west to populate the Americas and Europe. According to Vasily Radlov, among the earliest inhabitants of Central Siberia were the Yeniseians, who spoke a language different from the later Uralic and Turkic peoples. The Kets are considered the last remainder of this early migration.
+The Yeniseians were followed by the Uralic Samoyedes, who came from the northern Ural region. Some traces of them, like the Selkup, remain in the Sayan region. They are credited with leaving behind the very numerous remains dating from the Bronze Age which are scattered all over southern Siberia. Iron was unknown to them, but they excelled in bronze, silver, and gold  work. Their bronze ornaments and implements, often polished, evince considerable artistic taste, and their irrigated fields covered wide areas in the fertile tracts.
+(...)
+- Wikipedia </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIOUX_DESC</Tag>
+		<English>Sioux Tribes</English>
+		<French/>
+		<German>Sioux-St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_SIOUX_DESC</Tag>
+		<English>Sioux</English>
+		<French/>
+		<German>Sioux</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIOUX_ADJECTIVE</Tag>
+		<English>Sioux</English>
+		<French/>
+		<German>Sioux</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIOUX_PEDIA</Tag>
+		<English>[TAB][TAB]The Sioux are a grouping of bands and tribes that spoke the common language called Siouan. In their own language they are also called the Dakotas, Lakotas or Nakotas. Among the best known Sioux tribes are the Hunkpapa, Oglala, Brule, Miniconjou, Sans Arcs, Wahpeton, Wahpetkute, Yankton and Assiniboine.[NEWLINE]When Europeans first arrived, the Sioux tribes were mainly woodland dwellers, living along the upper Mississippi River in parts of what is now Minnesota, Wisconsin, Iowa and North and South Dakota. They lived in permanent earth lodges and cultivated crops. When their traditional enemies to the east, the Chippewas, obtained firearms from the Dutch and French traders, the Sioux were at a disadvantage in warfare. Many of the Sioux tribes moved west to the Missouri River and then past it.[NEWLINE]The Sioux that settled around the Black Hills of South Dakota, in Montana, and in Wyoming aquired the use of the horse by the early 1700s. The horse revolutionised their culture. It made them better hunters and fighters, allowed travel over greater distances and with better speed, and allowed greater loads to be carried. The western Sioux, like other Plains tribes, became predominantly nomadic, living in the familiar teepees that could be erected and taken down easily. This allowed the group to follow migrating buffalo herds that provided much of their food and raw materials. At least 86 non-food uses for parts of buffalo have been counted, such as blankets, clothing, threads, tools and fuel.[NEWLINE]In warfare on the plains, bravery was measured by "counting coup," the object of which was to touch a living enemy in battle. Coup could be counted by touching with a special coup stick, or other weapon, or the bare hand. Each successful coup earned the right to wear an eagle feather. After counting coup, more feathers could be earned by killing and scalping the enemy just counted. Great honour was earned by capturing an enemy's possessions, especially his eagle feathers that could now be worn by the victor.[NEWLINE]The emphasis on individual bravery helped make the Sioux and other Plains Indians outstanding warriors. They were said to have the finest light cavalry ever. The cultural importance of individual action made fighting them unique. Their leaders could only decide where the battle would be fought. Once closed with the enemy, the leaders became individual warriors themselves and could not presume to tell others where to go or who to fight. Each individual had the right to select his enemy and engage him.[NEWLINE]The fate of the Sioux on the Plains is the familiar one of coping with ever-shrinking hunting grounds because of the encroachment of European settlers. In addition, the buffalo herds were slaughtered by whites for their tongues and hides to the point of near extinction. Successive treaties with the United States were broken as more and more settlers came west hungry for land. The discovery of gold in the Black Hills meant the Sioux had to concede that area as well. With their hunting grounds and food sources disappearing, they were eventually forced into submission. By the turn of the twentieth century the remaining Sioux were settled on reservations and largely dependant on the government for subsistence.</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_DESC</Tag>
+		<English>South Chinese Empire</English>
+		<German>S&#252;dchinesisches Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_SHORT_DESC</Tag>
+		<English>South China</English>
+		<German>S&#252;dchina</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_ADJECTIVE</Tag>
+		<English>South Chinese</English>
+		<German>
+			<Text>S&#252;dchinesisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAIWAN_DESC</Tag>
+		<English>Filipino Empire</English>
+		<German>Philippinisches Reich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAIWAN_SHORT_DESC</Tag>
+		<English>Philippines</English>
+		<German>Philippinen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAIWAN_ADJECTIVE</Tag>
+		<English>Filipino</English>
+		<German>Philippinisch</German>
+	</TEXT>
+	<TEXT><Tag>TXT_KEY_CIV_TAIWAN_PEDIA</Tag>
+		<English>[TAB]The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. In the western Pacific Ocean, it consists of 7,641 islands, with a total area of 300,000 square kilometers, which are broadly categorized in three main geographical divisions from north to south: Luzon, Visayas, and Mindanao. The Philippines is bounded by the South China Sea to the west, the Philippine Sea to the east, and the Celebes Sea to the south. It shares maritime borders with Taiwan to the north, Japan to the northeast, Palau to the east and southeast, Indonesia to the south, Malaysia to the southwest, Vietnam to the west, and China to the northwest. It is the world's twelfth-most-populous country, with diverse ethnicities and cultures. Manila is the country's capital, and its most populated city is Quezon City. Both are within Metro Manila. 
+		Negritos, the archipelago's earliest inhabitants, were followed by waves of Austronesian peoples. The adoption of animism, Hinduism with Buddhist influence, and Islam established island-kingdoms ruled by datus, rajas, and sultans. Extensive overseas trade with neighbors such as the late Tang or Song empire brought Chinese people to the archipelago as well, which would also gradually settle in and intermix over the centuries. The arrival of Ferdinand Magellan, a Portuguese explorer leading a fleet for Castile, marked the beginning of Spanish colonization. In 1543, Spanish explorer Ruy López de Villalobos named the archipelago Las Islas Filipinas in honor of King Philip II of Castile. Spanish colonization via New Spain, beginning in 1565, led to the Philippines becoming ruled by the Crown of Castile, as part of the Spanish Empire, for more than 300 years. Catholic Christianity became the dominant religion, and Manila became the western hub of trans-Pacific trade. Hispanic immigrants from Latin America and Iberia would also selectively colonize. The Philippine Revolution began in 1896, and became entwined with the 1898 Spanish-American War. Spain ceded the territory to the United States, and Filipino revolutionaries declared the First Philippine Republic. The ensuing Philippine-American War ended with the United States controlling the territory until the Japanese invasion of the islands during World War II. After the United States retook the Philippines from the Japanese, the Philippines became independent in 1946. The country has had a tumultuous experience with democracy, which included the overthrow of a decades-long dictatorship in a nonviolent revolution. - Wikipedia</English>
+		<German>[TAB]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TARTAR_DESC</Tag>
+		<English>Tatar Empire</English>
+		<German>Tatarisches Reich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TARTAR_SHORT_DESC</Tag>
+		<English>Tataria</English>
+		<German>Tatarei</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TARTAR_ADJECTIVE</Tag>
+		<English>Tartar</English>
+		<German>Tartarisch</German>
+	</TEXT>
+	<TEXT><Tag>TXT_KEY_CIV_TARTAR_PEDIA</Tag>
+		<English>[TAB]The Tatars, formerly also spelled Tartars, is an umbrella term for different Turkic ethnic groups bearing the name "Tatar" across Eastern Europe and Asia. Initially, the ethnonym Tatar possibly referred to the Tatar confederation. That confederation was eventually incorporated into the Mongol Empire when Genghis Khan unified the various steppe tribes. Historically, the term Tatars (or Tartars) was applied to anyone originating from the vast Northern and Central Asian landmass then known as Tartary, a term which was also conflated with the Mongol Empire itself. More recently, however, the term has come to refer more narrowly to related ethnic groups who refer to themselves as Tatars or who speak languages that are commonly referred to as Tatar.
+The largest group amongst the Tatars by far are the Volga Tatars, native to the Volga-Ural region (Tatarstan and Bashkortostan) of European Russia, who for this reason are often also known as "Tatars" in Russian. They compose 53% of the population in Tatarstan. Their language is known as the Tatar language. As of 2010, there were an estimated 5.3 million ethnic Tatars in Russia.
+While also speaking languages belonging to different Kipchak sub-groups, genetic studies have shown that the three main groups of Tatars (Volga, Crimean, Siberian) do not have common ancestors and, thus, their formation occurred independently of one another. However, it is possible that all Tatar groups have at least partially the same origin, mainly from the times of the Golden Horde. - Wikipedia</English>
+		<German>[TAB]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TEXAS_DESC</Tag>
+		<English>Texan Empire</English>
+		<German>Texanisches Reich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TEXAS_SHORT_DESC</Tag>
+		<English>Texas</English>
+		<German>Texas</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TEXAS_ADJECTIVE</Tag>
+		<English>Texan</English>
+		<German>Texanisch</German>
+	</TEXT>
+	<TEXT><Tag>TXT_KEY_CIV_TEXAS_PEDIA</Tag>
+		<English>[TAB]The Republic of Texas was a sovereign state in North America, bordering the United States and Mexico, that existed from 1836 to 1846.
+Formed as a break-away republic from Mexico by the Texas Revolution, the state claimed borders that encompassed an area that included all of the present U.S. state of Texas, as well as parts of present-day New Mexico, Oklahoma, Kansas, Colorado, and Wyoming based upon the Treaties of Velasco between the newly created Texas Republic and Mexico. The eastern boundary with the United States was defined by the Adams-On&#237;s Treaty between the United States and Spain, in 1819. Its southern and western-most boundary with Mexico was under dispute throughout the existence of the Republic, with Texas claiming that the boundary was the Rio Grande, and Mexico claiming the Nueces River as the boundary. This dispute would later become a trigger for the Mexican-American War, after the annexation of Texas by the United States. - Wikipedia</English>
+		<German>[TAB]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANSOXIANA_DESC</Tag>
+		<English>Transoxianan Empire</English>
+		<German>Transoxanisches Reich</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_TRANSOXIANA_DESC</Tag>
+		<English>Transoxiana</English>
+		<German>Transoxanien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANSOXIANA_ADJECTIVE</Tag>
+		<English>Transoxianan</English>
+		<German>
+			<Text>Transoxanisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANSOXIANA_PEDIA</Tag>
+		<English>[TAB]Transoxiana is the ancient name used for the portion of Central Asia corresponding approximately with modern-day Uzbekistan, Tajikistan, southern Kyrgystan and southwest Kazakhstan. Geographically, it is the region between the Amu Darya and Syr Darya rivers. When used in the present, it usually implies that one is talking about that region in the time prior to about the 8th century, although the term continued to remain in use among western historians for several centuries after. In the Persian epic Shahnameh, written by the poet Ferdowsi, Transoxiana is the homeland of the Iranian nomadic tribes and the Oxus river is the border between Iran and Turan.
+The region was one of the satrapies of the Achaemenid dynasty of Persia under the name Sogdiana. Transoxiana, however, is Latin, and literally means "across the Oxus River", the Greek name for the Amu Darya, which describes the region perfectly from the viewpoint of the Greeks and Romans. The area was called prdry and Faraa-rood in Middle Persian, the latter means "that which is beyond the river". After invasion of Arabs they called it ma wara' an-nahr which is a translation of the Mid. Persian name and has the same meaning, and is an alternative name for the country, and is also rendered Mawarannahr.
+...
+The name Transoxiana stuck in Western consciousness because of the exploits of Alexander the Great, who extended Greek culture into the region with his conquests of the 4th century BC; Transoxiana was the most northeastern point of the Hellenistic culture, and in fact kept a hybrid Greek/Persian/Chinese/Buddhist culture, dubbed "Serindian", until the Arabic invasion. During the Sassanid Empire, it was often called Sogdiana, a provincial name taken from the Achaemenid Empire, and used to distinguish it from nearby Bactria.
+The Chinese explorer Zhang Qian, who visited the neighbouring countries of Bactria and Parthia along with Transoxiana in 126 BC, made the first known Chinese report on this region. Zhang Qian clearly identifies Parthia as an advanced urban civilization that farmed grain and grapes, made silver coins and leather goods.
+In Sassanid times, the region became a major cultural and scientific center due to effective royal authority and the wealth derived from the Northern Silk Road. Many Persian nobles and landlords escaped to this region after the Muslim invasion. Following the Arab conquest, the area became known as Ma wara'un-Nahr (Arabic, "what is beyond the river").
+Transoxiana's major cities and cultural centers are Samarkand and Bukhara. Both are in the southern portion of Transoxiana, (though still to the north of the Amu Darya itself, on the river Zeravshan), and the majority of the region was dry but fertile plains. Both cities remained centers of Persian culture and civilization after the Islamic conquest of Iran, and played a crucial role in the revival of Persian culture with establishment of the Samanid dynasty.
+Part of this region was conquered by Qutayba ibn Muslim between 706 and 715 and loosely held by the Umayyads from 715 to 738. The conquest was consolidated by Nasr ibn Sayyar between 738 and 740, and continued under the control of the Umayyads until 750, when it was replaced by the Abbasids. The Tang Dynasty also controlled the eastern part of the region until about the same time, when a civil war occurred.
+Genghis Khan invaded Transoxiana in 1219 during his conquest of Khwarezm. Before his death in 1227, he assigned the lands of Western Central Asia to his second son Chagatai, and this region became known as the Chagatai Khanate. In 1369, Timur, of the Barlas tribe, became the effective ruler while continuing the ceremonial authority of Chagatai Khan's dynasty, and made Samarkand the capital of his future empire. Transoxiana was known to be flourishing in the mid-14th century. </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUPI_DESC</Tag>
+		<English>Tupi Tribes</English>
+		<German>Tupi-St&#228;mme</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_TUPI_DESC</Tag>
+		<English>Tupi</English>
+		<German>Tupi</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUPI_ADJECTIVE</Tag>
+		<English>Tupi</English>
+		<German>
+			<Text>Tupisch</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUPI_PEDIA</Tag>
+		<English>[TAB]The Tupi people were one of the main ethnic groups of Brazilian indigenous people. Scholars believe they first settled in the Amazon rainforest, but 2,900 years ago they started to spread southward and gradually occupied the Atlantic coast. The Tupi people inhabited almost all of Brazil's coast when the Portuguese first arrived there. In 1500, their population was estimated at 1 million people, nearly the same population of Portugal  at that time. They were divided into dozens of tribes, each tribe numbering from 300 to 2,000 people. Examples of tribes are: Tupiniquim, Tupinamb&#225;, Potiguara, Tabajara, Caet&#233;s, Temimin&#243;, Tamoios. The Tupi knew agriculture  and therefore exceed a Palaeolithic condition. They grew cassava, corn, sweet potatoes, beans, peanuts, tobacco, squash, cotton and many others. The Tupi often fought against the other tribes of the region or even among themselves, because there was not a unified Tupi identity. Despite the fact that they were a single ethnic group that spoke a common tongue, the Tupi were divided into several tribes which were constantly engaged in war with one another. In these wars the Tupi normally tried to capture their enemies to later kill them in cannibalistic rituals, instead of just killing them in battle.
+Cannibalism was part of their ritual after a war. The warriors captured from other Tupi tribes were eaten as they believed they were absorbing their strength. The practice of cannibalism among the Tupi was known in Europe by Hans Staden, a German soldier and mariner who was captured by the Tupi. Staden was taken three times to be eaten in a cannibal ritual, but the Indians refused to eat him, because he cried and asked for leniency. According to Darcy Ribeiro, the Tupinamb&#225; "did not eat cowards". Back in Europe, Staden published a book about his experience among the Brazilian Indians, which was published in 1557. </English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TURK_DESC</Tag>
+		<English>Turkish Empire</English>
+		<German>T&#252;rkisches Reich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TURK_SHORT_DESC</Tag>
+		<English>Turk</English>
+		<German>
+			<Text>T&#252;rkei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_OTTOMAN_ADJECTIVE</Tag>
+		<English>
+			<Text>Turk:Turks</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<German>t&#252;rkisch</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_UKRAINE_DESC</Tag>
+		<English>Ukrainian Empire</English>
+		<German>Ukrainisches Reich</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_UKRAINE_SHORT_DESC</Tag>
+		<English>Ukraine</English>
+		<German>Ukraine</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_UKRAINE_ADJECTIVE</Tag>
+		<English>Ukrainian</English>
+		<German>Ukrainisch</German>
+	</TEXT>
+	<TEXT><Tag>TXT_KEY_CIV_UKRAINE_PEDIA</Tag>
+		<English>[TAB]Ukraine is a country in Central and Eastern Europe. It has an area of 603,628 km&#178;, making it the second largest contiguous country on the European continent, after Russia. Ukraine borders the Russian Federation to the east and northeast, Belarus to the northwest, Poland, Slovakia and Hungary to the west, Romania and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast, respectively.
+Established by the Varangians in the 9th century, the medieval state of Kievan Rus', the first East Slavic state, emerged as a powerful nation in the Middle Ages until it disintegrated in the 12th century. By the middle of the 14th century, Ukrainian territories were under the rule of three external powers-the Golden Horde, the Grand Duchy of Lithuania, and the Kingdom of Poland. After the Great Northern War (1700-1721) Ukraine was divided between a number of regional powers and, by the 19th century, the largest part of Ukraine was integrated into the Russian Empire with the rest under Austro-Hungarian control. A chaotic period of incessant warfare ensued, with several attempts at independence from 1917 to 1921, following World War I and the Russian Civil War. Ukraine emerged from this fighting on December 30, 1922 as one of the founding republics of the Soviet Union. The Ukrainian Soviet Socialist Republic's territory was enlarged westward shortly before and after World War II, and southwards in 1954 with the Crimea transfer. In 1945, the Ukrainian SSR became one of the founding members of the United Nations.
+Ukraine became independent again when the Soviet Union dissolved in 1991. This dissolution started a period of transition to a market economy, in which Ukraine was stricken with an eight-year recession. Since then, however, the economy experienced a high increase in GDP growth. Ukraine was caught up in the worldwide economic crisis in 2008 and the economy plunged. GDP fell 20% from spring 2008 to spring 2009, then leveled off as analysts compared the magnitude of the downturn to the worst years of economic depression during the early 1990s. However, the country remains a globally-important market and supplier, particularly, the world's third biggest grain exporter (as of 2011).
+Ukraine is a unitary state composed of 24 oblasts (provinces), one autonomous republic (Crimea), and two cities with special status: Kiev, its capital and largest city, and Sevastopol, which houses the Russian Black Sea Fleet under a leasing agreement. Ukraine is a republic under a semi-presidential system with separate legislative, executive, and judicial branches. Since the dissolution of the Soviet Union, Ukraine continues to maintain the second largest military in Europe, after that of Russia. The country is home to 46 million people, 77.8 percent of whom are ethnic Ukrainians, with sizable minorities of Russians (17%), Belarusians and Romanians. The Ukrainian language is the official language in Ukraine. Russian is also widely spoken. The dominant religion in the country is Eastern Orthodox Christianity, which has heavily influenced Ukrainian architecture, literature and music. - Wikipedia</English>
+		<German>[TAB]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VENICE_DESC</Tag>
+		<English>Venetian Empire</English>
+		<French/>
+		<German>Venetisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VENICE_SHORT_DESC</Tag>
+		<English>Venice</English>
+		<French/>
+		<German>Venetien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VENICE_ADJECTIVE</Tag>
+		<English>Venetian</English>
+		<French/>
+		<German>Venetisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VENICE_PEDIA</Tag>
+		<English>The name is derived from the ancient Veneti people who inhabited the region by the 10th century B.C. The city historically was the capital of the Venetian Republic. Venice has been known as the "La Dominante", "Serenissima", "Queen of the Adriatic", "City of Water", "City of Masks", "City of Bridges", "The Floating City", and "City of Canals".
+The Republic of Venice was a major maritime power during the Middle Ages and Renaissance, and a staging area for the Crusades and the Battle of Lepanto, as well as a very important center of commerce (especially silk, grain, and spice) and art in the 13th century up to the end of the 17th century. This made Venice a wealthy city throughout most of its history. It is also known for its several important artistic movements, especially the Renaissance period. Venice has played an important role in the history of symphonic and operatic music, and it is the birthplace of Antonio Vivaldi. - wikipedia</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_DESC</Tag>
+		<English>Scandinavian Empire</English>
+		<German>
+			<Text>Skandinavisches Reich:Skandinavisches Reich:Skandinavisches Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_SHORT_DESC</Tag>
+		<English>Scandinavia</English>
+		<German>
+			<Text>Skandinavien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_ADJECTIVE</Tag>
+		<English>Norse:Norse</English>
+		<German>
+			<Text>Skandinavisch:Skandinavischen:Skandinavische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SAHEL_DESC</Tag>
+		<English>Sahelian Empire</English>
+		<German>
+			<Text>Sahelisches Reich:Sahelisches Reich:Sahelisches Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SAHEL_SHORT_DESC</Tag>
+		<English>Sahel</English>
+		<German>
+			<Text>Sahel</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SAHEL_ADJECTIVE</Tag>
+		<English>
+			<Text>Sahelian:Sahelian</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<German>
+			<Text>Sahelisch:sahelischen:sahelische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SAHEL_PEDIA</Tag>
+		<English>The Sahel forms a belt up to 1,000 km wide, spanning Africa from the Atlantic Ocean to the Red Sea. The Sahelian kingdoms were a series of centralized kingdoms or empires that were centered on the Sahel, the area of grasslands south of the Sahara, from the 8th century to the 19th. The wealth of the states came from controlling the trade routes across the desert. Their power came from having large pack animals like camels and horses that were fast enough to keep a large empire under central control and were also useful in such kind of battle. All of these empires were also quite decentralized with member cities having a great deal of autonomy.
+The Sahel states were limited from expanding south into the forest zone of the Bono and Yoruba as mounted warriors were all but useless in the forests and the horses and camels could not survive the diseases of the region.    
+The first major state to rise in this region was the Ghana Empire. Established in c. the 8th century, it was centered in what is today Senegal and Mauritania, it was the first to benefit from the introduction of pack animals by Wolof traders. Ghana dominated the region between about 750 and 1078. Smaller states in the region at this time included Takrur to the west, the Malinke kingdom of Mali to the south, and the Songhai centred on Gao to the east.
+When Ghana collapsed in the face of invasion from the Almoravids, a series of brief kingdoms followed, notably that of the Sosso; after 1235, the Mali Empire rose to dominate the region, which traded with Bono state at the far south. Located on the Niger River to the west of Ghana in what is today Niger and Mali, it reached its peak in the 1350s, but had lost control of a number of vassal states by 1400.
+The most powerful of these states was the Songhai Empire, which expanded rapidly beginning with king Sonni Ali in the 1460s. By 1500, it had risen to stretch from Cameroon to the Maghreb, the largest state in African history. Its territory diminished to cover only the Dendi province in 1591 as a result of the invasion by the Saadi Dynasty of Moroccan. The empire collapsed in 1901 when the French deposed the last askia.
+Far to the east, on Lake Chad, the state of Kanem-Bornu, founded as Kanem in the 9th century, now rose to greater preeminence in the central Sahel region. To their west, the loosely united Hausa city-states became dominant. These two states coexisted uneasily, but were quite stable.
+In 1810, the Fulani Empire rose and conquered the Hausa, creating a more centralized state. It and Kanem-Bornu would continue to exist.
+The result of a series of jihads begun in 1804 by the revolutionary Usman dan Fodio was the Sokoto Caliphate, the largest state in West Africa up to that time. An aggressively expansionist polity, it severely weakened the old Bornu Kingdom. 
+Inspired by the recent Muslim uprisings of Usman dan Fodio in nearby Hausaland, preacher and social reformer Seku Amadu led a Fula army in jihad against the Bambara Empire. The empire expanded rapidly, taking Djenné and establishing a new capital at Hamdullahi. It was eventually defeated by Umar Tall and incorporated into the Toucouleur Empire. 
+El Hajj Umar Tall led armies east from his base in Futa Tooro and Dinguiraye to conquer Kaarta, the Bambara Empire, and Massina in the early 1860s. The Toucouleur controlled the region until French colonization, at which time the last leader of the state, Ahmadu Tall, fled to Sokoto. The Jihads and the Jihad states came to an end with European colonization. - wikipedia</English>
+		<French/>
+		<German/>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_DESC</Tag>
+		<English>Nguni Empire</English>
+		<German>
+			<Text>Zulu-Reich:Zulu-Reich:Zulu-Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_SHORT_DESC</Tag>
+		<English>Nguni</English>
+		<German>
+			<Text>Zululand</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_ADJECTIVE</Tag>
+		<English>
+			<Text>Nguni:Nguni</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<German>
+			<Text>Zulul&#228;ndisch:zulul&#228;ndischen:zulul&#228;ndische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_PEDIA</Tag>
+		<English>For the purposes of Realism Invictus, the Nguni civilization represents a group of peoples wider than just the speakers of the Nguni languages, including also Tswana, Sotho and other peoples speaking languages closely related to Nguni group and living in the territories once covered by the Zulu empire.
+The ancient history of the Nguni people is wrapped up in their oral history. According to legend they were a people who migrated from the north to the Great Lakes region of subequatorial Central/Southeast Africa. They migrated southwards over many centuries, with large herds of Nguni cattle probably entering what is now South Africa around 2,000 years ago in sporadic settlement, followed by larger waves of migration around 1400 CE. Nguni peoples are pastoralist groups, part of the greater Bantu group occupying much of the East and Southern parts of Africa.
+Many tribes and clans were forcibly united under Shaka Zulu. Shaka Zulu's political organisation was efficient in integrating conquered tribes, partly by the age regiments, where men from different villages bonded with each other. The Nguni tribes kept similar political practices to those used by Shaka Zulu.
+During the southern African migrations known as Mfecane, the Nguni peoples spread across a large part of southern Africa, absorbing, conquering or displacing many other peoples. - Wikipedia</English>
+		<German>Die Zulu geh&#246;ren zu der Bantu-st&#228;mmigen Volksgruppe der Nguni. Nach einer fast tausendj&#228;hrigen Wanderschaft gen S&#252;den erreichten die Nguni um 1700 die Region des White Umfolozi River, wo die Zulu der &#220;berlieferung zufolge im Jahr 1709 beschlossen, sesshaft zu werden. Seinen Namen verdankt der Stamm &#252;brigens seinem Gr&#252;nder und Clanchef Zulu ka Ntombhela. [PARAGRAPH:2]Im Grunde waren die Zulu stets ein unauff&#228;lliger Stamm unter vielen gewesen - dies sollte sich jedoch mit der Regentschaft des gro&#223;en Kriegers Shaka Zulu, der etwa 1787 geboren wurde, grundlegend &#228;ndern. Von seinem Vater verleugnet und versto&#223;en, fand Shaka Unterschlupf bei Dingiswayo, dem Clanchef eines benachbarten Stammes, und verbrachte dort seine Jugend. Als Shakas Vater um 1816 starb, half ihm Dingiswayo, den Thron der Zulu zu besteigen. [PARAGRAPH:2]Nach seiner Machtergreifung startete Shaka bei den Zulu eine Art milit&#228;rische Revolution, indem er den traditionellen "Assegai" (eine Art Wurfspie&#223;) durch einen k&#252;rzeren Sto&#223;speer, den "Iklwa", ersetzte. Dar&#252;ber hinaus stattete er seine Krieger auch mit einem gr&#246;&#223;eren Schild aus, der fast den gesamten K&#246;rper verdeckte. Diese neue Ausr&#252;stung der Zulu-Krieger bildete zugleich auch die Grundlage f&#252;r die Neuerungen, die Shaka in der Art seiner Kriegsf&#252;hrung plante: W&#228;hrend die bisherigen Kampfhandlungen eher rituellen Charakter hatten - mit rhythmischen Ges&#228;ngen und Speerw&#252;rfen &#252;ber weite Entfernungen, die keine entscheidenden Resultate brachten - lehrte Shaka die Zulu nun, im Kampf zu t&#246;ten. [PARAGRAPH:2]Unter Shakas Kommando mussten sich die Zulu-Krieger in den Nahkampfbereich begeben, wo ihre k&#252;rzeren Sto&#223;speere wirksamer waren als die Wurfspeere ihrer Gegner. Au&#223;erdem brachte Shaka seinen Kriegern bei, sich in einer neuen taktischen Formation aufzustellen, der so genannten "B&#252;ffelhorn"-Formation. Dabei griff die mittlere Kampfgruppe der Zulu den Gegner frontal an, um ihn in Position zu halten, w&#228;hrend die rechten und linken Kampfgruppen wie "H&#246;rner" vorr&#252;ckten und den Feind umzingelten. Auf der rechten und linken Seite blockiert und mit unterlegenen Waffen ausger&#252;stet, gelang es nur wenigen feindlichen Truppen, den Angriffen der Zulu standzuhalten - und so fielen Letztere bald verheerend &#252;ber ihre Nachbarst&#228;mme her. [PARAGRAPH:2]Innerhalb eines Jahrzehnts hatte Shaka eine Armee von 50.000 Kriegern aufgestellt, alle St&#228;mme in der Umgebung besiegt und beherrschte den gr&#246;&#223;ten Teil des Hinterlandes des heutigen S&#252;dafrika. Er errichtete in Bulaweyo eine neue Hauptstadt f&#252;r die Zulu, doch seine &#220;berheblichkeit und Grausamkeit f&#252;hrte zu Unzufriedenheit in der Bev&#246;lkerung. 1828 wurde Shaka von seinen Halbbr&#252;dern Dingane und Mhlangana ermordet. Unmittelbar darauf t&#246;tete Dingane auch Mhlangana und startete eine gegen die Shaka-freundlichen H&#228;uptlinge in seinem Hoheitsgebiet gerichtete "S&#228;uberungsaktion". [PARAGRAPH:2]In dieser Zeit des Chaos und der Gewalt traten um 1830 die ersten Siedler aus Europa in Erscheinung. Die erste europ&#228;ische Siedlung auf dem Gebiet der Zulu war die englische Kolonie Port Natal (das heutige Durban). 1837 wurde sogar ein englischer Missionar mit Erlaubnis von K&#246;nig Dingane in die Lebensgemeinschaft der Zulu aufgenommen. Zur gleichen Zeit zog eine Gruppe von Burensiedlern, "Voortrekker" (oder auch Pioniere) genannt, entlang des Orange River nach Norden in die nunmehr unbewohnten Gebiete der St&#228;mme, die vor den Zulu geflohen waren. Dingane hatte den Voortrekkern die Erlaubnis erteilt, sich in dieser Region niederzulassen, aber 1838 - entweder aufgrund eines Missverst&#228;ndnisses oder weil Dingane es von vornherein so geplant hatte - griffen die Zulu die Neuank&#246;mmlinge unversehends an. [PARAGRAPH:2]Dieser Schachzug sollte sich als fataler Fehler herausstellen. In der Schlacht am Blood River waren die 10.000 Krieger der Zulu den mit nur 400 Mann k&#228;mpfenden Buren zwar haushoch &#252;berlegen, dennoch gelang es den Buren, ihre Widersacher niederzumetzeln, da ihnen ihre Schusswaffen einen entscheidenden Vorteil gegen&#252;ber den Sto&#223;speeren der Zulu verschafften. Nun waren die Zulu gezwungen, die Wei&#223;en in ihrem Territorium siedeln zu lassen, wo sie die Republik Utrecht gr&#252;ndeten. [PARAGRAPH:2]Nach der Schlacht herrschte f&#252;r lange Zeit ein instabiler Frieden zwischen den Zulu und den wachsenden Bev&#246;lkerungsgruppen der Briten und Buren in der Region. Erst die Entdeckung der Diamantminen in S&#252;dafrika im Jahr 1878 weckte das gesteigerte Interesse der Briten an den Besitzungen der Zulu und so suchten sie unabl&#228;ssig nach neuen Gr&#252;nden, um die Eingeborenen angreifen und aus dem Gebiet vertreiben zu k&#246;nnen. Noch im selben Jahr erkl&#228;rten die Briten dem Zulureich schlie&#223;lich nach einem kleineren Grenzzwischenfall den Krieg und marschierten an drei Fronten in ihr Hoheitsgebiet ein. [PARAGRAPH:2]Die Zulu-Krieger k&#228;mpften tapfer (und metzelten zum Entsetzen der Europ&#228;er bei Isandhlwana eine ganze britische Streitmacht nieder), aber die Gewehre und Maxim-Maschinengewehre der Briten machten alle ihre Bem&#252;hungen zunichte und lie&#223;en keinen Zweifel am Ausgang des Krieges: Die Zulu wurden besiegt und das Zulureich dem britischen Teil S&#252;dafrikas einverleibt. K&#246;nig Cetshwayo wurde ehrenvoll in Gefangenschaft nach London zu K&#246;nigin Victoria gebracht, seinem Volk erging es allerdings nicht so gut: Das n&#228;chste Jahrhundert verbrachten die Zulu unter der Knechtschaft der Briten und Buren und waren gezwungen, unter den Rassentrennungsgesetzen der Apartheid in S&#252;dafrika zu leben. [PARAGRAPH:2]Nach der Abschaffung der Apartheid in den 90er Jahren genie&#223;en die Zulu heute volle B&#252;rgerrechte in S&#252;dafrika. Ihre Sprache, isiZulu, ist eine der am meisten verbreiteten Landessprachen und mit &#252;ber 11 Millionen Menschen stellen die Zulu auch die gr&#246;&#223;te ethnische Bev&#246;lkerungsgruppe in S&#252;dafrika. [PARAGRAPH:2] </German>
+	</TEXT>
+</Civ4GameText>

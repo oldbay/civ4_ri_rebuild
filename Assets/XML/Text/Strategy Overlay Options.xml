@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	Strategy Overlay
+	Options Game Text
+	Copyright (c) 2009 The BUG Mod.
+-->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__ENABLED_TEXT</Tag>
+		<English>Enabled</English>
+		<German>Aktivieren</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__ENABLED_HOVER</Tag>
+		<English>When checked, the shortcut keys and features of the Strategy Layer are activated.</English>
+		<German>Aktiviert die Tastenkombinationen und Fähigkeiten des Strategie-Overlays</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__SHOWDOTMAP_TEXT</Tag>
+		<English>Show Dot Map</English>
+		<German>Overlay-Karte anzeigen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__SHOWDOTMAP_HOVER</Tag>
+		<English>When checked, the city-planning dot map layer is shown overlaying the terrain.</English>
+		<German>Lässt die Overlay-Karte zur Planung von Stadtgründungen das Gelände überlagern</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPDRAWDOTS_TEXT</Tag>
+		<English>Draw City Dots</English>
+		<German>Städte markieren</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPDRAWDOTS_HOVER</Tag>
+		<English>When checked, an icon is drawn in the center of the borders of planned cities.</English>
+		<German>Zeigt im Zentrum der Grenzen von geplanten Städten ein Symbol an</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPDOTICON_TEXT</Tag>
+		<English>City Dot Icon</English>
+		<German>Städtesymbol</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPDOTICON_HOVER</Tag>
+		<English>The index number of the icon to be placed in the center of the borders of planned cities.</English>
+		<German>Die Indexnummer des Symbols, das im Zentrum der Grenzen von geplanten Städten angezeigt werden soll</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPBRIGHTNESS_TEXT</Tag>
+		<English>Brightness</English>
+		<German>Transparenz</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPBRIGHTNESS_HOVER</Tag>
+		<English>Determines the brightness of planned cities.</English>
+		<German>Bestimmt den Grad der Transparenz, in der geplante Stadtkreuze erscheinen sollen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPHIGHLIGHTBRIGHTNESS_TEXT</Tag>
+		<English>Highlight Brightness</English>
+		<German>Transparenz beim Platzieren</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPHIGHLIGHTBRIGHTNESS_HOVER</Tag>
+		<English>Determines the brightness of the highlighted city being placed.</English>
+		<German>Bestimmt den Grad der Transparenz, in der das zu platzierende Stadtkreuz erscheinen soll</German>
+	</TEXT>
+</Civ4GameText>

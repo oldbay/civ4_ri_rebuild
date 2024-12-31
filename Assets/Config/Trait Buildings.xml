@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	TraitBuildings
+	Originally by Mexico
+  Converted to BUG module by Josh Sjoding
+-->
+<mod id="TraitBuildings"
+	 name="Trait Buildings"
+	 author="Mexico"
+	 version="1.0"
+	 date="11/21/2009">
+
+  <event type="cityDoTurn" module="TraitBuildings" function="onCityDoTurn"/>
+</mod>

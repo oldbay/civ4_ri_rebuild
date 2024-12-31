@@ -1,0 +1,1973 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- $Id: CIV4GameTextInfos.xml,v 1.3 2006/01/13 06:38:24 kristine Exp $ -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Infos -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_DESPOTISM</Tag>
+		<English>U.N. Resolution A/RES/22 A (I) "International Covenant on Tribal Power" (Global Civic - Tribal Union)</English>
+		<German>U.N. Resolution A/RES/22 A (I) "Internationales Abkommen f&#252;r uneingeschr&#228;nkte Macht des Herrschers" (Globale Staatsform - Stammesunion)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_AUTOCRACY</Tag>
+		<English>U.N. Resolution A/RES/2263 A (XXI) "Declaration of Autocrat rule" (Global Civic - Despotism)</English>
+		<German>U.N. Resolution A/RES/2263 A (XXI) "Internationale Verpflichtung zu b&#252;rgelichen und politischen Rechten von freien St&#228;dten" (Globale Staatsform - Despotismus)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_REPUBLIC</Tag>
+		<English>U.N. Resolution A/RES/117 A (III) "Universal Declaration of Citizen Self-Determination Rights" (Global Civic - Republic)</English>
+		<German>U.N. Resolution (Globale Staatsform - Plutocracy)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HEREDITARY_RULE</Tag>
+		<English>U.N. Resolution A/RES/220 A (XI) "International Covenant on Preservation of Royal Dynasties" (Global Civic - Monarchy)</English>
+		<German>U.N. Resolution A/RES/220 A (XI) "Internationales Abkommen zur Wahrung der k&#246;niglichen Erbfolge" (Globale Staatsform - Erbrecht)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_THEOCRACY</Tag>
+		<English>U.N. Resolution A/RES/36/54 "Declaration on the Supremacy of the Clergy" (Global Civic - Theocracy)</English>
+		<German>U.N. Resolution (Globale Staatsform - Theokratie)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_DEMOCRACY</Tag>
+		<English>U.N. Resolution A/RES/117 A (III) "Universal Declaration of National Self-Determination Rights" (Global Civic - Democracy)</English>
+		<German>U.N. Resolution (Globale Staatsform - Demokratie)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_DICTATORSHIP</Tag>
+		<English>U.N. Resolution A/RES/2400 A (XXII) "International Covenant on Abolition of All Civil and Political Rights" (Global Civic - Dictatorship)</English>
+		<German>U.N. Resolution A/RES/2400 A (XXII) "Internationales Abkommen zur Aufhebung der B&#252;rgerrechte" (Globale Staatsform - Diktatur)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_FEDERALISM</Tag>
+		<English>U.N. Resolution A/RES/2200 A (XXI) "International Covenant on Civil and Political Rights" (Global Civic - Federalism)</English>
+		<German>U.N. Resolution A/RES/2200 A (XXI) "Internationale Verpflichtung zu b&#252;rgelichen und politischen Rechten" (Globale Staatsform - F&#246;deralismus)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_RULEOFFEAR</Tag>
+		<English>U.N. Resolution A/RES/7 A (III) "Might Makes Right" (Global Civic - Rule of fear)</English>
+		<German>U.N. Resolution (Globale Staatsform - Schreckensherrschaft)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_NOBILITY</Tag>
+		<English>U.N. Resolution A/RES/200 A (XII) "International Covenant on the Protection of Traditional Legal Systems" (Global Civic - Traditional Custom)</English>
+		<German>U.N. Resolution A/RES/200 A (XII) "Internationales Abkommen f&#252;r die Einschr&#228;nkung der b&#252;rgerlichen und politischen Rechte der Armung und St&#228;rkung der Reichen" (Globale Staatsform - Traditionelle Sitten)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_CIVIL_SERVICE</Tag>
+		<English>U.N. Resolution A/RES/21725 A#3 12.423.5 (III/IIa/bis) "Universal Declaration of Regulation of Maintenance of Procedure on which all further Procedures for Establisment of Declarations, Acts, Resolutions etc. are henceforth to be based (see paragraphs 1.1, 1.2, 1.5-1.8, 1.11)" (Global Civic - Civil Service)</English>
+		<German>U.N. Resolution A/RES/21725 A #3 $12 Abs. 423 Sec. 5 (III/IIa/bis) "Allgemeiner Erkl&#228;rung f&#252;r die Regulation der Aufrechterhaltung von Verfahren, von denen sich alle weiteren Verfahren f&#252;r die Einrichtung von Erkl&#228;rungn, Gesetzen, Resolutionen, usw. von nun an abzuleiten haben. (siehe &#167;1, &#167;2.1, &#167;2.5-2.8, &#167;2.11, &#167;381.1b)" (Globale Staatsform - Öffentlicher Dienst)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_BUREAUCRACY</Tag>
+		<English>U.N. Resolution A/RES/21725 A#3 12.423.5 (III/IIa/ter) "Universal Declaration of Regulation of Maintenance of Procedure on which all further Procedures for Establisment of Declarations, Acts, Resolutions etc. are henceforth to be based (see paragraphs 1.1, 1.2, 1.5-1.8, 1.11)" (Global Civic - Civil Service)</English>
+		<German>U.N. Resolution A/RES/21725 A #3 $12 Abs. 423 Sec. 5 (III/IIa/bis) "Allgemeiner Erkl&#228;rung f&#252;r die Regulation der Aufrechterhaltung von Verfahren, von denen sich alle weiteren Verfahren f&#252;r die Einrichtung von Erkl&#228;rungn, Gesetzen, Resolutionen, usw. von nun an abzuleiten haben. (siehe &#167;1, &#167;2.1, &#167;2.5-2.8, &#167;2.11, &#167;381.1b)" (Globale Staatsform - Bürokratie)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_ARISTOCRACY</Tag>
+		<English>U.N. Resolution A/RES/147 A (III) "Universal Declaration of Aristocrats' Rights and Duties" (Global Civic - Feudal Aristocracy)</English>
+		<German>U.N. Resolution (Globale Staatsform - Aristokratie)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_PLUTOCRACY</Tag>
+		<English>U.N. Resolution A/RES/267 A (III) "Universal Declaration of Investor Rights" (Global Civic - Plutocracy)</English>
+		<German>U.N. Resolution A/RES/267 A (III) "Allgemeine Erkl&#228;rung f&#252;r b&#252;rgerliches Selbstbestimmungsrecht" (Globale Staatsform - Parlamentarismus)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_REPRESENTATION</Tag>
+		<English>U.N. Resolution A/RES/2100 A (XX) "Establishment of International Parliamentary Committee" (Global Civic - Representation)</English>
+		<German>U.N. Resolution A/RES/2100 A (XX)  "Internationales Abkommen f&#252;r parlamentarische Gremien" (Globale Staatsform - Repr&#228;sentation)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_COLLECTIVISM</Tag>
+		<English>U.N. Resolution A/RES/207 A (III) "Declaration on State Control Policies enforcement" (Global Civic - Collectivism)</English>
+		<German>U.N. Resolution A/RES/207 A (III) "Allgemeine Regulation von Zwangarbeitsverh&#228;ltnissen" (Globale Staatsform - Kollektivismus)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_SOCIAL_JUSTICE</Tag>
+		<English>U.N. Resolution A/RES/217 A (III) "Universal Declaration of Human Rights" (Global Civic - Social Justice)</English>
+		<German>U.N. Resolution A/RES/217 A (III) "Allgemeine Erkl&#228;rung der Menschenrechte" (Globale Staatsform - Soziale Gerechtigkeit)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_TRIBALISM</Tag>
+		<English>U.N. Resolution A/RES/1106 A (XX) "International Convention on the Elimination of All Forms of Labor Relations" (Global Civic - Tribalism)</English>
+		<German>U.N. Resolution A/RES/1106 A (XX) "Internationales Abkommen zur Beseitung aller Formen von Arbeitsverh&#228;ltnissen" (Globale Staatsform - Stammessystem)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_SLAVERY</Tag>
+		<English>U.N. Resolution A/RES/1406 A (XX) "International Convention on the Protection of Right to Own Personal Slaves" (Global Civic - Slavery)</English>
+		<German>U.N. Resolution (Globale Staatsform - Sklaverei)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_SERFDOM</Tag>
+		<English>U.N. Resolution A/RES/1646 A (XX) "International Convention on the Status of Indentured Agricultural Workers" (Global Civic - Serfdom)</English>
+		<German>U.N. Resolution (Globale Staatsform - Leibeigenschaft)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_CASTE_SYSTEM</Tag>
+		<English>U.N. Resolution A/RES/1876 A (XX) "International Convention on the Elimination of All Forms of Unwanted Social Mobility" (Global Civic - Caste System)</English>
+		<German>U.N. Resolution (Globale Staatsform - Kastensystem)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_EMANCIPATION</Tag>
+		<English>U.N. Resolution A/RES/2106 A (XX) "International Convention on the Elimination of All Forms of Enforced Social Inequalities" (Global Civic - Free Commoners)</English>
+		<German>U.N. Resolution A/RES/2106 A (XX) "Internationales Abkommen zur Beseitigung aller Formen von Erzwungenen sozialen Ungleichheiten" (Globale Staatsform - Freie Bürger)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_PROLETARIAT</Tag>
+		<English>U.N. Resolution A/RES/2106 A (XX) "International Convention on the Etablishment of a Laborer Class" (Global Civic - Working Class)</English>
+		<German>U.N. Resolution A/RES/2106 A (XX) "Internationales Abkommen zur Beseitigung aller Formen von Erzwungenen sozialen Ungleichheiten" (Globale Staatsform - Arbeiterklasse)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_FORCED_LABOR</Tag>
+		<English>U.N. Resolution A/RES/2106 A (XX) "Declaration on the right to etablish Forced Labor" (Global Civic - Forced Labor)</English>
+		<German>U.N. Resolution A/RES/2106 A (XX) "Internationales Abkommen zur Beseitigung aller Formen von Erzwungenen sozialen Ungleichheiten" (Globale Staatsform - Zwangsarbeit)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_LABOR_UNION</Tag>
+		<English>U.N. Resolution A/RES/2406 A (XX) "Establishment and Protection of Global Union Movement" (Global Civic - Labor Union)</English>
+		<German>U.N. Resolution (Globale Staatsform - Gewerkschaft)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_DECENTRALIZATION</Tag>
+		<English>U.N. Resolution A/RES/3255 (XXIX) "Ban on All Centralized Economic Regulation" (Global Civic - Agrarian Economy)</English>
+		<German>U.N. Resolution (Globale Staatsform - Agrarwirtschaft)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_PASTORAL_NOMADISM</Tag>
+		<English>U.N. Resolution A/RES/3255 (XXIX) "Ban Agriculture, Install Pastoral Nomadism" (Global Civic - Pastoral Nomadism)</English>
+		<German>U.N. Resolution (Globale Staatsform - Pastoraler Nomadismus)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_GUILD</Tag>
+		<English>U.N. Resolution A/RES/3234 (XXIX) "Charter of Economic Rights and Duties of Independent Guilds" (Global Civic - Guild Monopoly)</English>
+		<German>U.N. Resolution (Globale Staatsform - Zunftwesen)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_MERCHANT_PRINCES</Tag>
+		<English>U.N. Resolution A/RES/3264 (XXIX) "Charter of Economic Rights and Duties of Merchant Families" (Global Civic - Merchant Princes)</English>
+		<German>U.N. Resolution (Globale Staatsform - Handelsfamilien)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_MERCANTILISM</Tag>
+		<English>U.N. Resolution A/RES/3262 (XXIX) "Charter of Protection in Economic Life of Sovereign States"(Global Civic - Protectionism)</English>
+		<German>U.N. Resolution (Globale Staatsform - Protektionismus)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_FREE_MARKET</Tag>
+		<English>U.N. Resolution A/RES/3246 (XXIX) "Establishment of World Trade Organization (WTO)" (Global Civic - Free Market)</English>
+		<German>U.N. Resolution (Globale Staatsform - Freie Marktwirtschaft)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_STATE_PROPERTY</Tag>
+		<English>U.N. Resolution A/RES/3275 (XXIX) "Declaration of Centralized and Planned Economy" (Global Civic - Planned Economy)</English>
+		<German>U.N. Resolution (Globale Staatsform - Planwirtschaft)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_WELFARE_STATE</Tag>
+		<English>"Social protection, free public schools and health care for all" (Global Civic - Welfare State)</English>
+		<German>U.N.-Resolution A/RES/1375 "Allgemeine Erkl&#228;rung zum Schutz Bed&#252;rftiger, staatlich finanziertem Schulwesen und allgemeinem Gesundheitswesen" (Globale Staatsform - Wohlfahrtsstaat)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_PAGANISM</Tag>
+		<English>U.N. Resolution A/RES/36/51 "Declaration on the Elimination of All Forms of Organized Religious Belief" (Global Civic - Paganism)</English>
+		<German>U.N. Resolution (Globale Staatsform - Heidentum)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_ANIMISM</Tag>
+		<English>U.N. Resolution A/RES/36/52 "Declaration on the Reverence of Earth Mother" (Global Civic - Animism)</English>
+		<German>U.N. Resolution (Globale Staatsform - Animismus)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_CIVIL_RELIGION</Tag>
+		<English>U.N. Resolution A/RES/36/53 "Declaration on the Establishment and Protection of Organized Religious Belief" (Global Civic - Civil Religion)</English>
+		<German>U.N. Resolution (Globale Staatsform - Zivilreligion)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_MONASTICISM</Tag>
+		<English>U.N. Resolution A/RES/36/52.1 "Declaration on the Establishment and Protection of Monasteries and Missionaries" (Global Civic - Monasticism)</English>
+		<German>U.N. Resolution (Globale Staatsform - Mönchtum)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_MILITANCY</Tag>
+		<English>U.N. Resolution A/RES/36/52.2 "Declaration on the Elimination of All Forms of Heresy and Blasphemy" (Global Civic - Militancy)</English>
+		<German>U.N. Resolution (Globale Staatsform - Militanz)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_PACIFISM</Tag>
+		<English>U.N. Resolution A/RES/36/55 "Declaration on the Elimination of All Forms of Agression Inherent in Religion or Belief" (Global Civic - Pacifism)</English>
+		<German>U.N. Resolution (Globale Staatsform - Pazifismus)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_FREE_RELIGION</Tag>
+		<English>U.N. Resolution A/RES/36/55 "Declaration on the Elimination of All Forms of Intolerance and of Discrimination Based on Religion or Belief" (Global Civic - Free Religion)</English>
+		<German>U.N. Resolution A/RES/36/55 "Erkl&#228;rung zur Beseitigung von allen Formen der religi&#246;sen Intoleranz und Diskiminierung" (Globale Staatsform - Religionsfreiheit)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_CULT_OF_PERSONNALITY</Tag>
+		<English>U.N. Resolution A/RES/36/57 "Declaration on the Highness of the Supreme Leader" (Global Civic - Cult of Personnality)</English>
+		<German>U.N. Resolution (Globale Staatsform - Kult der Persönlichkeit)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_SECRETARY_GENERAL</Tag>
+		<English>U.N. Election (Secretary-General - Can Propose U.N. Resolutions)</English>
+		<German>U.N. Wahl (Generalsekret&#228;r - Kann U.N.-Resolutionen vorschlagen)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_SINGLE_CURRENCY</Tag>
+		<English>U.N. Resolution A/RES/3201 (S-VI)  "Establishment of International Monetary Fund" (+1 Trade Route ([ICON_TRADE]) in All Cities)</English>
+		<German>U.N. Resolution A/RES/3201 (S-VI) "Erkl&#228;hrung zur Einf&#252;hrung einer Einheitsw&#228;hrung" (+1 Handelsverbindung ([ICON_TRADE]) in allen St&#228;dten)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_FREE_TRADE</Tag>
+		<English>U.N. Resolution A/RES/3281 (XXIX) "Establishment of World Trade Organization" (Trade Routes ([ICON_TRADE]) with All Foreign Cities)</English>
+		<German>U.N. Resolution  A/RES/3281 (XXIX) "Charter f&#252;r &#246;konomische Rechte und Z&#246;lle der Staaten" (Handelsverbindungen ([ICON_TRADE]) mit allen fremden St&#228;dten)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_NO_NUKES</Tag>
+		<English>U.N. Resolution A/RES/2373 (XXII) "Treaty on the Non-Proliferation of Nuclear Weapons" (Cannot Build Nuclear Weapons)</English>
+		<German>U.N. Resolution A/RES/2373 (XXII) "Vertrag &#252;ber die Nichtverbreitung von Kernwaffen" (Bau atomarer Waffen nicht m&#246;glich)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_BONUS_APPEARANCE</Tag>
+		<English>Reveals</English>
+		<German>Enth&#252;llt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_BONUS_TRADE</Tag>
+		<English>Enables</English>
+		<German>Erlaubt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCORE_BREAKDOWN_WITH_POSITIVE_MODIFIERS</Tag>
+		<English>%d1 from Population (%d2_pop/%d3_pop_max)[NEWLINE]%d4 from Land (%d5_land/%d6_land_max)[NEWLINE]%d7 from Technology (%d8_tech/%d9_tech_max)[NEWLINE]%d10 from Wonders (%d11_wonder/%d12_wonder_max)[NEWLINE]------------------------[NEWLINE]+%d13%% from Handicap[NEWLINE]------------------------[NEWLINE]Total Score = %d14[NEWLINE]Score by winning this turn = %d15</English>
+		<German>%d1 f&#252;r Bev&#246;lkerung (%d2_pop/%d3_pop_max)[NEWLINE]%d4 f&#252;r Land (%d5_land/%d6_land_max)[NEWLINE]%d7 f&#252;r Technologie (%d8_tech/%d9_tech_max)[NEWLINE]%d10 f&#252;r Wunder (%d11_wonder/%d12_wonder_max)[NEWLINE]------------------------[NEWLINE]+%d13%% from Handicap[NEWLINE]------------------------[NEWLINE]Gesamtpunkte = %d14[NEWLINE]Punkte f&#252;r Sieg in dieser Runde = %d15</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCORE_BREAKDOWN_WITH_NEGATIVE_MODIFIERS</Tag>
+		<English>%d1 from Population (%d2_pop/%d3_pop_max)[NEWLINE]%d4 from Land (%d5_land/%d6_land_max)[NEWLINE]%d7 from Technology (%d8_tech/%d9_tech_max)[NEWLINE]%d10 from Wonders (%d11_wonder/%d12_wonder_max)[NEWLINE]------------------------[NEWLINE]%d13%% from Handicap[NEWLINE]------------------------[NEWLINE]Total Score = %d14[NEWLINE]Score by winning this turn = %d15</English>
+		<German>%d1 f&#252;r Bev&#246;lkerung (%d2_pop/%d3_pop_max)[NEWLINE]%d4 f&#252;r Land (%d5_land/%d6_land_max)[NEWLINE]%d7 f&#252;r Technologie (%d8_tech/%d9_tech_max)[NEWLINE]%d10 f&#252;r Wunder (%d11_wonder/%d12_wonder_max)[NEWLINE]------------------------[NEWLINE]%d13%% from Handicap[NEWLINE]------------------------[NEWLINE]Gesamtpunkte = %d14[NEWLINE]Punkte f&#252;r Sieg in dieser Runde = %d15</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAT_MOVEMENT</Tag>
+		<English>[ICON_BULLET]Flat movement (ignore terrain)</English>
+		<German>[ICON_BULLET] (ignoriert Gel&#228;nde)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NO_TRANSPORT</Tag>
+		<English>[ICON_BULLET]Cannot Be Transported</English>
+		<German>[ICON_BULLET]Kann nicht transportiert werden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REPLACED_BY_UNIT</Tag>
+		<English>Replaced by [LINK=literal]%s1_default_unit[\LINK]</English>
+		<German>Ersetzt durch [LINK=literal]%s1_default_unit[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLYING</Tag>
+		<English>[ICON_BULLET]Can fly</English>
+		<German>[ICON_BULLET]Fliegt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INTERCEPT_NONLETHAL</Tag>
+		<English>[ICON_BULLET]Intercepts Deal Up To %d1_Amount%% Damage</English>
+		<German>[ICON_BULLET]Abfangen verursacht bis zu %d1_Amount%% Schaden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INTERCEPT_LETHALITY</Tag>
+		<English>[ICON_BULLET]Intercepts Are Lethal (%d1_Amount%% Chance)</English>
+		<German>[ICON_BULLET]Abfangen ist t&#246;dlich (%d1_Amount%% Chance)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SLAVERY_REBELLION_MESSAGE</Tag>
+		<English>Slaves in %s1_City are rebelling!</English>
+		<German>Die Sklaven in %s1_City rebellieren!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEASANT_REBELLION_MESSAGE</Tag>
+		<English>Peasants in %s1_City are rebelling!</English>
+		<German>Bauern in %s1_City rebellieren!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WE_LOVE_CONSUL</Tag>
+		<English>"We Love the Consul Day"</English>
+		<German>"Es lebe der Konsul Tag"</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SLAVE_CAPTURED_MESSAGE</Tag>
+		<English>You captured a slave.</English>
+		<German>Ihr habt einen Sklaven eingefangen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GLADIATOR_MESSAGE</Tag>
+		<English>A recently captured slave is the new crowd favourite in the Colosseum!</English>
+		<German>Ein kürzlich gefangener Sklave ist der neue Publikumsliebling im Kolosseum!</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_SLAVE_FREE_MESSAGE</Tag>
+		<English>Slaves in your empire are free!</English>
+		<German>Die Sklaven Ihres Imperiums sind frei!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OR_REQUIRED_TO_TRAIN</Tag>
+		<English>[ICON_BULLET]Probably required to Train[SPACE]</English>
+		<German>[ICON_BULLET]wahrscheinlich ben&#246;tigt zum Trainieren[SPACE]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BUILDING_REMOVED</Tag>
+		<English>%s1 removed from %s2</English>
+		<German>%s1 entfernt aus %s2</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TIMER</Tag>
+		<English>Lasts for %d1 turns. Will be removed from city after %d2 turn(s)</English>
+		<German>Halt %d1 Runden an. Wird nach %d2 Runde(n) aus der Stadt entfernt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TIMER_THIS</Tag>
+		<English>Lasts for %d1 turns. Will be removed from city this turn</English>
+		<German>Halt %d1 Runden an. Wird in dieser Runde aus der Stadt entfernt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TIMER_PEDIA</Tag>
+		<English>Lasts for %d1 turns</English>
+		<German>wird nach %d1 Runde(n) aus der Stadt entfernt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_MOUNTED_LIGHT</Tag>
+		<English>Ranged Mounted Units</English>
+		<German>Berittene Fernkämpfer</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_MOUNTED</Tag>
+		<English>Charge Mounted Units</English>
+		<German>Berittene Nahkämpfer</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_NAVAL_SAILING_SHIP</Tag>
+		<English>Sailing Units</English>
+		<German>Segelschiffe</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_NAVAL_CRUISER</Tag>
+		<English>Cruiser Units</English>
+		<German>Kreuzer</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_NAVAL_DESTROYER</Tag>
+		<English>Escort Units</English>
+		<German>Zerst&#246;rer</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_NAVAL_TORPEDO_BOAT</Tag>
+		<English>Patrol Boat Units</English>
+		<German>Torpedoboote</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_NAVAL_CAPITAL_SHIP</Tag>
+		<English>Capital Ship Units</English>
+		<German>Gro&#223;kampfschiffe</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_NAVAL_CARRIER</Tag>
+		<English>Aircraft Carrier Units</English>
+		<German>Tr&#228;ger</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_NAVAL_SUBMARINE</Tag>
+		<English>Submarine Units</English>
+		<German>U-Boote</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_NAVAL</Tag>
+		<English>Transport Units</English>
+		<German>Transportschiffe</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_OBSOLETE_WITH</Tag>
+		<English>[COLOR_WARNING_TEXT]Obsolete with [LINK=literal]%s1_TechName[\LINK][COLOR_REVERT]</English>
+		<German>[COLOR_WARNING_TEXT]Veraltet mit [LINK=literal]%s1_TechName[\LINK][COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COMBAT_DEFENSE</Tag>
+		<English>[ICON_BULLET]%D1_Mod%% Defense against %s2</English>
+		<German>[ICON_BULLET]%D1_Mod%% Verteidigung gegen %s2</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CLASS_DEFENSE</Tag>
+		<English>[ICON_BULLET]%D1_Mod%% Defense against %s2 (%s3)</English>
+		<German>[ICON_BULLET]%D1_Mod%% Verteidigung gegen %s2 (%s3)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COMBAT_PLOT_BUILDING_MOD</Tag>
+		<English>[ICON_BULLET]%D1_Bonus%% from City buildings</English>
+		<German>[ICON_BULLET]%D1_Bonus%% von Stadteinrichtungen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BUILD_KILL</Tag>
+		<English>[ICON_BULLET]%d1_kill%% chance that unit is "consumed" after improvement is built</English>
+		<German>[ICON_BULLET]%d1_kill%% Chance, dass die Einheit nach Bau einer Verbesserung "Verbraucht" wird</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_UNIT_CONSUMED</Tag>
+		<English>Your %s1_unit died after improvement was built.</English>
+		<German>Deine %s1_unit starb nachdem die Verbesserung gebaut wurde.</German>
+	</TEXT>
+	<!-- MOD - START - Unique Units -->
+	<TEXT>
+		<Tag>TXT_KEY_DISTINCTIVE_UNIT</Tag>
+		<English>Distinctive Unit for [LINK=literal]%s1_civ[\LINK]</English>
+		<German>Einzigartige Einheit für [LINK=literal]%s1_civ[\LINK]</German>
+	</TEXT>
+	<!-- MOD - END - Unique Units -->
+	<!-- MOD - START - Unique Buildings -->
+	<TEXT>
+		<Tag>TXT_KEY_DISTINCTIVE_BUILDING</Tag>
+		<English>Distinctive Building for [LINK=literal]%s1_civ[\LINK]</English>
+		<German>Einzigartiges Gebäude für [LINK=literal]%s1_civ[\LINK]</German>
+	</TEXT>
+	<!-- MOD - END - Unique Buildings -->
+	<!-- MOD - START - Unique Improvements -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIQUE_IMPROVEMENTS</Tag>
+		<English>Unique Improvements</English>
+		<German>Einzigartige Verbesserungen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIQUE_IMPROVEMENTS_NO</Tag>
+		<English>No Unique Improvements</English>
+		<German>Keine einzigartigen Verbesserungen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIQUE_IMPROVEMENT_FOR</Tag>
+		<English>Unique Improvement for [LINK=literal]%s1_civ[\LINK]</English>
+		<German>Einzigartige Verbesserung für [LINK=literal]%s1_civ[\LINK]</German>
+	</TEXT>
+	<!-- MOD - END - Unique Improvements -->
+	<!-- MOD - START - Improved Civilopedia -->
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WITH_ROUTE</Tag>
+		<English>[ICON_BULLET]%D1_Change%F2_YieldIcon with [COLOR_HIGHLIGHT_TEXT]%s3_RouteName[COLOR_REVERT]</English>
+		<German>[ICON_BULLET]%D1_Change%F2_YieldIcon mit [COLOR_HIGHLIGHT_TEXT]%s3_RouteName[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_BECOMES_IMP</Tag>
+		<English>[ICON_BULLET]Becomes a [LINK=%s1_ImpType]%s2_ImpName[\LINK] in %d3_Num [NUM3:Turn:Turns]</English>
+		<German>[ICON_BULLET]Wird in %d3_Num [NUM3:Runde:Runden] zur Modernisierung [LINK=%s1_ImpType]%s2_ImpName[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_EVOLVES</Tag>
+		<English>[ICON_BULLET]Becomes a [COLOR_HIGHLIGHT_TEXT][LINK=%s1_ImpType]%s2_ImpName[\LINK][COLOR_REVERT] in %d3_Num [NUM3:Turn:Turns]</English>
+		<German>[ICON_BULLET]Wird in %d3_Num [NUM3:Runde:Runden] zu der Modernisierung [COLOR_HIGHLIGHT_TEXT][LINK=%s1_ImpType]%s2_ImpName[\LINK][COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_VERSUS_TEXT</Tag>
+		<English>[ICON_BULLET]%D1_Mod%% vs. [LINK=%s2_AgainstType]%s3_AgainstName[\LINK]</English>
+		<German>[ICON_BULLET]%D1_Mod%% gegen [LINK=%s2_AgainstType]%s3_AgainstName[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOD_VS_TYPE</Tag>
+		<!-- %s3_Type = TXT_KEY_UNITCOMBAT_ -->
+		<English>[ICON_BULLET]%D1_Change%% vs. [LINK=%s2_Type]%s3_Name[\LINK]</English>
+		<German>[ICON_BULLET]%D1_Change%% gegen [LINK=%s2_Type]%s3_Name[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_MOD_VS_CLASS</Tag>
+		<!-- %s2_Type = TXT_KEY_UNITCOMBAT_ -->
+		<English>[ICON_BULLET]%D1_Change%% Attack vs. [LINK=%s2_Type]%s3_Name[\LINK]</English>
+		<German>[ICON_BULLET]%D1_Change%% Angriff gegen [LINK=%s2_Type]%s3_Name[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DEFENSE_MOD_VS_CLASS</Tag>
+		<!-- %s2_Type = TXT_KEY_UNIT_ -->
+		<English>[ICON_BULLET]%D1_Change%% Defense vs. [LINK=%s2_Type]%s3_Name[\LINK]</English>
+		<German>[ICON_BULLET]%D1_Change%% Verteidigung gegen [LINK=%s2_Type]%s3_Name[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROVIDES</Tag>
+		<English>[ICON_BULLET]Provides %d1_Num [COLOR_HIGHLIGHT_TEXT][LINK=%s2_BonusType]%s3_BonusName[\LINK][COLOR_REVERT] (%F4_BonusIcon)</English>
+		<German>[ICON_BULLET]Liefert %d1_Num des Bonusguts [COLOR_HIGHLIGHT_TEXT][LINK=%s2_BonusType]%s3_BonusName[\LINK][COLOR_REVERT] (%F4_BonusIcon)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OBSOLETE_WITH</Tag>
+		<English>[COLOR_WARNING_TEXT]Obsolete with [LINK=%s1_Type]%s2_Name[\LINK][COLOR_REVERT]</English>
+		<German>[COLOR_WARNING_TEXT]Veraltet durch die Technologie [LINK=%s1_Type]%s2_Name[\LINK][COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FREE_IN_CITY</Tag>
+		<!-- %s2_Name = TXT_KEY_BUILDING_ -->
+		<English>[ICON_BULLET]Free [COLOR_BUILDING_TEXT][LINK=%s1_Type]%s2_Name[\LINK][COLOR_REVERT] in Every City</English>
+		<German>[ICON_BULLET]Freies Geb&#228;ude [COLOR_BUILDING_TEXT][LINK=%s1_Type]%s2_Name[\LINK][COLOR_REVERT] in jeder Stadt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FREE_PROMOTION</Tag>
+		<!-- %s2_Name = TXT_KEY_PROMOTION_ -->
+		<English>[ICON_BULLET]Free [COLOR_HIGHLIGHT_TEXT][LINK=%s1_Type]%s2_Name[\LINK][COLOR_REVERT] Promotion for Units Built in this City</English>
+		<German>[ICON_BULLET]Freie Bef&#246;rderung zu [COLOR_HIGHLIGHT_TEXT][LINK=%s1_Type]%s2_Name[\LINK][COLOR_REVERT] f&#252;r die in dieser Stadt errichteten Einheiten</German>
+	</TEXT>
+	<!-- MOD - END - Improved Civilopedia -->
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_MILITIA</Tag>
+		<English>The villagers have provided you with a Militia!</English>
+		<German>Die Bewohner haben Euch einen Krieger zur Verf&#252;gung gestellt!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_BREAK_ICE</Tag>
+		<English>Break [LINK=FEATURE_ICE]Ice[\LINK]</English>
+		<German>[LINK=FEATURE_ICE]Eis[\LINK] brechen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_DRAIN_SWAMP</Tag>
+		<English>Drain Swamp</English>
+		<German>Moor Trocken legen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_AUTOBAHN</Tag>
+		<English>Build an Autobahn (route)</English>
+		<German>Autobahn bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SETTLEMENT</Tag>
+		<English>Build a [LINK=IMPROVEMENT_SETTLEMENT]Settlement[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_SETTLEMENT]Siedlung[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SETTLEMENT</Tag>
+		<English>Settlement</English>
+		<German>
+			<Text>Siedlung</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SETTLEMENT_BERBER</Tag>
+		<English>Build a [LINK=IMPROVEMENT_SETTLEMENT_BERBER]Ksar[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_SETTLEMENT_BERBER]Ksar[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SETTLEMENT_BERBER</Tag>
+		<English>Ksar</English>
+		<German>
+			<Text>Ksar</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SETTLEMENT_ARABIA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_SETTLEMENT_ARABIA]Bedouin Camp[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_SETTLEMENT_ARABIA]Beduinenlager[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SETTLEMENT_ARABIA</Tag>
+		<English>Bedouin Camp</English>
+		<German>
+			<Text>Beduinenlager</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_CAMP_TIMBER</Tag>
+		<English>Build a [LINK=IMPROVEMENT_CAMP_TIMBER]Logging Camp[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_CAMP_TIMBER]Holzfällerlager[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CAMP_TIMBER</Tag>
+		<English>Logging Camp</English>
+		<German>
+			<Text>Holzfällerlager</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_CAMP_IVORY</Tag>
+		<English>Build a [LINK=IMPROVEMENT_CAMP_IVORY]Mahout's Camp[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_CAMP_IVORY]Mahutlager[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CAMP_IVORY</Tag>
+		<English>Mahout Camp</English>
+		<German>
+			<Text>Mahutlager</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_CAMP_FUR</Tag>
+		<English>Build a [LINK=IMPROVEMENT_CAMP_FUR]Trapper's Lodge[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_CAMP_FUR]Fallenlegerhütte[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CAMP_FUR</Tag>
+		<English>Trapper Lodge</English>
+		<German>
+			<Text>Fallenlegerhütte</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_HUNTER_GATHER_CAMP</Tag>
+		<English>Build a [LINK=IMPROVEMENT_HUNTER_GATHER_CAMP]Hunter-Gatherer's Camp[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_HUNTER_GATHER_CAMP]Jäger-Sammler-Lager[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HUNTER_GATHER_CAMP</Tag>
+		<English>Hunter-Gatherer Camp</English>
+		<German>
+			<Text>Jäger-Sammler-Lager</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_HUNTER_CAMP_RUSSIA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_HUNTER_CAMP_RUSSIA]Lovischche[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_HUNTER_CAMP_RUSSIA]Lovischche[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HUNTER_CAMP_RUSSIA</Tag>
+		<English>Lovischche</English>
+		<German>
+			<Text>Lovischche</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PET_KOT_MAYA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_PET_KOT_MAYA]Pet Kot[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_PET_KOT_MAYA]Pet Kot[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PET_KOT_MAYA</Tag>
+		<English>Pet Kot</English>
+		<German>
+			<Text>Pet Kot</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_WHEAT_CULTIVATION</Tag>
+		<English>[LINK=IMPROVEMENT_WHEAT_CULTIVATION]Cultivate[\LINK] Wheat</English>
+		<German>[LINK=IMPROVEMENT_WHEAT_CULTIVATION]Weizen[\LINK] anbauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WHEAT_CULTIVATION</Tag>
+		<English>Wheat Cultivation</English>
+		<German>
+			<Text>Weizenanbau</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_RICE_CULTIVATION</Tag>
+		<English>[LINK=IMPROVEMENT_RICE_CULTIVATION]Cultivate[\LINK] Rice</English>
+		<German>[LINK=IMPROVEMENT_RICE_CULTIVATION]Reis[\LINK] anbauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_RICE_CULTIVATION</Tag>
+		<English>Rice Cultivation</English>
+		<German>
+			<Text>Reisanbau</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_CORN_CULTIVATION</Tag>
+		<English>[LINK=IMPROVEMENT_CORN_CULTIVATION]Cultivate[\LINK] Corn</English>
+		<German>[LINK=IMPROVEMENT_CORN_CULTIVATION]Mais[\LINK] anbauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CORN_CULTIVATION</Tag>
+		<English>Corn Cultivation</English>
+		<German>
+			<Text>Maisanbau</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_POTATO_CULTIVATION</Tag>
+		<English>[LINK=IMPROVEMENT_POTATO_CULTIVATION]Cultivate[\LINK] Potato</English>
+		<German>[LINK=IMPROVEMENT_POTATO_CULTIVATION]Kartoffeln[\LINK] anbauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_POTATO_CULTIVATION</Tag>
+		<English>Potato Cultivation</English>
+		<German>
+			<Text>Kartoffelanbau</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_WINE_CULTIVATION</Tag>
+		<English>[LINK=IMPROVEMENT_WINE_CULTIVATION]Cultivate[\LINK] Grapes</English>
+		<German>[LINK=IMPROVEMENT_WINE_CULTIVATION]Wein[\LINK] anbauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WINE_CULTIVATION</Tag>
+		<English>Grape Cultivation</English>
+		<German>
+			<Text>Weinanbau</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_COFFEE_CULTIVATION</Tag>
+		<English>[LINK=IMPROVEMENT_COFFEE_CULTIVATION]Cultivate[\LINK] Coffee</English>
+		<German>[LINK=IMPROVEMENT_COFFEE_CULTIVATION]Kaffee[\LINK] anbauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_COFFEE_CULTIVATION</Tag>
+		<English>Coffee Cultivation</English>
+		<German>
+			<Text>Kaffeeanbau</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SPICE_CULTIVATION</Tag>
+		<English>[LINK=IMPROVEMENT_SPICE_CULTIVATION]Cultivate[\LINK] Pepper</English>
+		<German>Build a [LINK=IMPROVEMENT_SPICE_CULTIVATION]Paprika[\LINK] anbauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SPICE_CULTIVATION</Tag>
+		<English>Paprikaanbau</English>
+		<German>
+			<Text>Spice Cultivation</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_DYE_CULTIVATION</Tag>
+		<English>Build a [LINK=IMPROVEMENT_DYE_CULTIVATION]Dye Works[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_DYE_CULTIVATION]Färberei[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_DYE_CULTIVATION</Tag>
+		<English>Dye Works</English>
+		<German>
+			<Text>Färberei</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CULTIVATION_SUCCESS</Tag>
+		<English>Your %s2 was successful, a new %s1 resource appeared!</English>
+		<German>Ihr %s2 war erfolgreich, eine neue %s1 Ressource ist erschienen!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FISHING_BOATS_VIKING</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FISHING_BOATS_VIKING]Fishing Vessel[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FISHING_BOATS_VIKING]Fischereifahrzeug[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FISHING_BOATS_VIKING</Tag>
+		<English>Fishing Vessel</English>
+		<German>
+			<Text>Fischereifahrzeug</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FISHING_FLOTILLA_VIKING</Tag>
+		<English>Fishing Flotilla</English>
+		<German>
+			<Text>Fischerflottille</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FISHING_FLEET_VIKING</Tag>
+		<English>Fishing Fleet</English>
+		<German>
+			<Text>Fischereiflotte</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_WHALING_BOATS_VIKING</Tag>
+		<English>Build a [LINK=IMPROVEMENT_WHALING_BOATS_VIKING]Whaling Vessel[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_WHALING_BOATS_VIKING]Walfangschiff[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WHALING_BOATS_VIKING</Tag>
+		<English>Whaling Vessel</English>
+		<German>
+			<Text>Walfangschiff</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SLASH_AND_FIRE</Tag>
+		<English>Build a [LINK=IMPROVEMENT_SLASH_AND_FIRE]Slash and Burn[\LINK] Farm</English>
+		<German>[LINK=IMPROVEMENT_SLASH_AND_FIRE]Lagerfeuer[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SLASH_AND_FIRE</Tag>
+		<English>Slash and Burn Farm</English>
+		<German>
+			<Text>Lagerfeuer</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FARM_INDIA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FARM_INDIA]Pancakrsti Field[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FARM_INDIA]Pancakrsti Feld[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_INDIA</Tag>
+		<English>Pancakrsti Field</English>
+		<German>
+			<Text>Pancakrsti Feld</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FARM_SOUTH_CHINA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FARM_SOUTH_CHINA]Wugu Farm[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FARM_SOUTH_CHINA]Wugu Farm[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_SOUTH_CHINA</Tag>
+		<English>Wugu Farm</English>
+		<German>
+			<Text>Wugu Farm</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PLANTATION_TRANSOXIANA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_PLANTATION_TRANSOXIANA]Silk Road Waystation[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_PLANTATION_TRANSOXIANA]Seidenstra&#223;e Station[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_TRANSOXIANA1</Tag>
+		<English>Silk Road Waystation</English>
+		<German>
+			<Text>Seidenstra&#223;e Station</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_TRANSOXIANA2</Tag>
+		<English>Silk Road Trade Post</English>
+		<German>
+			<Text>Seidenstra&#223;e Handelsposten</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_TRANSOXIANA3</Tag>
+		<English>Silk Road Trading Town</English>
+		<German>
+			<Text>Seidenstra&#223;e Handelsstadt</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FARM_KOREA</Tag>
+		<English>Build [LINK=IMPROVEMENT_FARM_KOREA]Communal Farming[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FARM_KOREA]Kollektive Landwirtschaft[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_KOREA</Tag>
+		<English>Communal Farming</English>
+		<German>
+			<Text>Kollektive Landwirtschaft</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FARM_POLAND</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FARM_POLAND]Folwark[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FARM_POLAND]Folwark[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_POLAND</Tag>
+		<English>Folwark</English>
+		<German>
+			<Text>Folwark</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FARM_EGYPT</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FARM_EGYPT]Kemet Farm[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FARM_EGYPT]Fruchtbarer Bauernhof[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_EGYPT</Tag>
+		<English>Kemet Farm</English>
+		<German>
+			<Text>Fruchtbarer Bauernhof</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FARM_SLAVE</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FARM_SLAVE]Slave Farm[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FARM_SLAVE]Sklavenfarm[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_SLAVE</Tag>
+		<English>Slave Farm</English>
+		<German>
+			<Text>Sklavenfarm</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FARM_SLAVE_ROME</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FARM_SLAVE_ROME]Latifundia[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FARM_SLAVE_ROME]Latifundien[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_SLAVE_ROME</Tag>
+		<English>Latifundia</English>
+		<German>
+			<Text>Latifundien</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FARM_MECHANIZED</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FARM_MECHANIZED]Mechanized Farm[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FARM_MECHANIZED]Mechanisierte Farm[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_MECHANIZED</Tag>
+		<English>Mechanized Farm</English>
+		<German>
+			<Text>Mechanisierte Farm</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_INCAN_TERRACE</Tag>
+		<English>Build an [LINK=IMPROVEMENT_INCAN_TERRACE]Anden[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_INCAN_TERRACE]Anden[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_INCAN_TERRACE</Tag>
+		<English>Anden</English>
+		<German>
+			<Text>Anden</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PASTURE_ARMENIA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_PASTURE_ARMENIA]Highland Pasture[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_PASTURE_ARMENIA]Hochlandweide[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PASTURE_ARMENIA</Tag>
+		<English>Highland Pasture</English>
+		<German>
+			<Text>Hochlandweide</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_CATTLE_RANCH</Tag>
+		<English>Build a [LINK=IMPROVEMENT_CATTLE_RANCH]Ranch[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_CATTLE_RANCH]Ranch[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CATTLE_RANCH</Tag>
+		<English>Ranch</English>
+		<German>
+			<Text>Ranch</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_CHINESE_CANAL</Tag>
+		<English>Build a [LINK=IMPROVEMENT_CHINESE_CANAL]Canal[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_CHINESE_CANAL]Kanal[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CHINESE_CANAL</Tag>
+		<English>Canal</English>
+		<German>
+			<Text>Kanal</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_GRAZING_GROUND</Tag>
+		<English>Build a [LINK=IMPROVEMENT_GRAZING_GROUND]Grazing Ground[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_GRAZING_GROUND]Weideland[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_GRAZING_GROUND</Tag>
+		<English>Grazing Ground</English>
+		<German>
+			<Text>Weideland</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_CATTLE_TREK</Tag>
+		<English>Build a [LINK=IMPROVEMENT_CATTLE_TREK]Cattle Trek[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_CATTLE_TREK]Viehwanderung[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CATTLE_TREK</Tag>
+		<English>Cattle Trek</English>
+		<German>
+			<Text>Viehwanderung</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_CHINAMPA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_CHINAMPA]Chinampa[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_CHINAMPA]Chinampa[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CHINAMPA</Tag>
+		<English>Chinampa</English>
+		<German>
+			<Text>Chinampa</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_HOTSPRINGS_PARK</Tag>
+		<English>Build a [LINK=IMPROVEMENT_HOTSPRINGS_PARK]Hot Springs Park[\LINK]</English>
+		<German>Build a [LINK=IMPROVEMENT_HOTSPRINGS_PARK]Hot-Springs-Park[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_HOTSPRINGS_PARK_GERMANY</Tag>
+		<English>Build a [LINK=IMPROVEMENT_HOTSPRINGS_PARK]Thermalbad[\LINK]</English>
+		<German>Build a [LINK=IMPROVEMENT_HOTSPRINGS_PARK]Thermalbad[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HOTSPRINGS_PARK</Tag>
+		<English>Hot Springs Park</English>
+		<German>
+			<Text>Hot-Springs-Park</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HOTSPRINGS_PARK_GERMANY</Tag>
+		<English>Thermalbad</English>
+		<German>
+			<Text>Thermalbad</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_WELL_GAS</Tag>
+		<English>Build a [LINK=IMPROVEMENT_WELL_GAS]Natural Gas Well[\LINK]</English>
+		<German>Build a [LINK=IMPROVEMENT_WELL_GAS]Gasaufbereitungsanlage[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_WELL</Tag>
+		<English>Build a [LINK=IMPROVEMENT_WELL_GAS]Oil Well[\LINK]</English>
+		<German>Build a [LINK=IMPROVEMENT_WELL_GAS]Öl-Tiefpumpe[\LINK]</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WELL_GAS</Tag>
+		<English>Natural Gas Well</English>
+		<German>
+			<Text>Gasaufbereitungsanlage</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WELL</Tag>
+		<English>Oil Well</English>
+		<German>
+			<Text>Öl-Tiefpumpe</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_OFFSHORE_PLATFORM_GAS</Tag>
+		<English>Build a [LINK=IMPROVEMENT_OFFSHORE_PLATFORM_GAS]Offshore Gas Platform[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_OFFSHORE_PLATFORM_GAS]Bohrplattform[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM_GAS</Tag>
+		<English>Offshore Gas Platform</English>
+		<German>
+			<Text>Gas-Bohrplattform</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM</Tag>
+		<English>Offshore Oil Platform</English>
+		<German>
+			<Text>Öl-Bohrplattform</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_MINE_SPAIN</Tag>
+		<English>Build a [LINK=IMPROVEMENT_MINE_SPAIN]Mineria[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_MINE_SPAIN]Minergie[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_MINE_SPAIN</Tag>
+		<English>Mineria</English>
+		<German>
+			<Text>Minergie</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_MINE_PRECIOUS</Tag>
+		<English>Build a [LINK=IMPROVEMENT_MINE_PRECIOUS]Precious Mine[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_MINE_PRECIOUS]Kostbares Bergwerk[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_MINE_PRECIOUS</Tag>
+		<English>Precious Mine</English>
+		<German>
+			<Text>Precious Mine</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_WINERY_FRANCE</Tag>
+		<English>Build a [LINK=IMPROVEMENT_WINERY_FRANCE]Terroir Vineyard[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_WINERY_FRANCE]Terroir-Weinberg[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WINERY_FRANCE</Tag>
+		<English>Terroir Vineyard</English>
+		<German>
+			<Text>Terroir-Weinberg</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_QUARRY_SALT</Tag>
+		<English>Build a [LINK=IMPROVEMENT_QUARRY_SALT]Salt Pit[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_QUARRY_SALT]Salzgrube[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_QUARRY_SALT</Tag>
+		<English>Salt Pit</English>
+		<German>
+			<Text>Salzgrube</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_WATERMILL_GREECE</Tag>
+		<English>Build a [LINK=IMPROVEMENT_WATERMILL_GREECE]Water Wheel[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_WATERMILL_GREECE]Wasserrad[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_OLIVES</Tag>
+		<English>Plant an [LINK=IMPROVEMENT_WATERMILL_GREECE]Olive Grove[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_WATERMILL_GREECE]Olivenhain[\LINK] pflanzen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WATERMILL_GREECE</Tag>
+		<English>Water Wheel</English>
+		<German>
+			<Text>Water Wheel</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PLANTATION_INDUSTRIAL</Tag>
+		<English>Build a [LINK=IMPROVEMENT_PLANTATION_INDUSTRIAL]Industrial Plantation[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_PLANTATION_INDUSTRIAL]Industrielle Plantage[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_INDUSTRIAL</Tag>
+		<English>Industrial Plantation</English>
+		<German>
+			<Text>Industrielle Plantage</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PLANTATION_FOOD</Tag>
+		<English>Build a [LINK=IMPROVEMENT_PLANTATION_FOOD]Food Crops Plantation[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_PLANTATION_FOOD]Food Crops Plantage[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_FOOD</Tag>
+		<English>Food Crops Plantation</English>
+		<German>
+			<Text>Food Crops Plantage</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_HORSE_BREEDER</Tag>
+		<English>Build a [LINK=IMPROVEMENT_HORSE_BREEDER]Horse Breeder[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_HORSE_BREEDER]Pferdezuchtfarm[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HORSE_BREEDER</Tag>
+		<English>Horse Breeder</English>
+		<German>
+			<Text>Pferdezuchtfarm</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PANNING_SITE_LARGE</Tag>
+		<English>Build a [LINK=IMPROVEMENT_PANNING_SITE]Gold Panning Site (Large)[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_PANNING_SITE]Gold-Schwenk-Platz[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PANNING_SITE_LARGE</Tag>
+		<English>Gold Panning Site (Large)</English>
+		<German>
+			<Text>Gold-Schwenk-Platz (Groß)</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PANNING_SITE_SMALL</Tag>
+		<English>Gold Panning Site (Small)</English>
+		<German>
+			<Text>Gold-Schwenk-Platz (Klein)</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PANNING_SITE_DEPLETED</Tag>
+		<English>Gold Panning Site (Depleted)</English>
+		<German>
+			<Text>Gold-Schwenk-Platz (Aufgebraucht)</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PLANTATION_PERSIA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_PLANTATION_PERSIA]Commercial Plantation[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_PLANTATION_PERSIA]Kommerzielle Plantage[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_PERSIA</Tag>
+		<English>Commercial Plantation</English>
+		<German>
+			<Text>Kommerzielle Plantage</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PLANTATION_DRAVIDIA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_PLANTATION_DRAVIDIA]Pepper Plantation[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_PLANTATION_DRAVIDIA]Paprika Plantage[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_DRAVIDIA</Tag>
+		<English>Pepper Plantation</English>
+		<German>
+			<Text>Paprika Plantage</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PLANTATION_ETHIOPIA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_PLANTATION_ETHIOPIA]Coffee Plantation[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_PLANTATION_ETHIOPIA]Kaffee Plantage[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_ETHIOPIA</Tag>
+		<English>Coffee Plantation</English>
+		<German>
+			<Text>Kaffee Plantage</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SHIPWRECK_ENGLAND</Tag>
+		<English>Recover [LINK=IMPROVEMENT_SHIPWRECK_ENGLAND]Flotsam[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_SHIPWRECK_ENGLAND]Treibgut[\LINK] einsammeln</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SHIPWRECK_ENGLAND</Tag>
+		<English>Flotsam Recovery</English>
+		<German>
+			<Text>Treibgut</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FISHING_BOATS_JAPAN</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FISHING_BOATS_JAPAN]Traditional Fishing[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FISHING_BOATS_JAPAN]Traditionelles Fischerboot[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FISHING_BOATS_JAPAN</Tag>
+		<English>Traditional Fishing</English>
+		<German>
+			<Text>Traditionelles Fischerboot</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FISHING_BOATS_AUSTRONESIA</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FISHING_BOATS_AUSTRONESIA]Proa Fishing Boats[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FISHING_BOATS_AUSTRONESIA]Proa Fischerboot[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FISHING_BOATS_AUSTRONESIA</Tag>
+		<English>Proa Fishing Boats</English>
+		<German>
+			<Text>Proa Fischerboot</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_TIMAR_OTTOMAN</Tag>
+		<English>Build a [LINK=IMPROVEMENT_TIMAR_OTTOMAN]Timar[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_TIMAR_OTTOMAN]Timar[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_TIMAR_OTTOMAN</Tag>
+		<English>Timar</English>
+		<German>
+			<Text>Timar</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FORTIFIED_MONASTERY_CELT</Tag>
+		<English>Build a [LINK=IMPROVEMENT_FORTIFIED_MONASTERY_CELT]Fortified Monastery[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_FORTIFIED_MONASTERY_CELT]Befestigtes Kloster[\LINK] bauen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FORTIFIED_MONASTERY_CELT</Tag>
+		<English>Fortified Monastery</English>
+		<German>
+			<Text>Befestigtes Kloster</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_PLANTATION_CARTHAGE</Tag>
+		<English>Build a [LINK=IMPROVEMENT_PLANTATION_CARTHAGE]Trading Colony[\LINK]</English>
+		<German>[LINK=IMPROVEMENT_PLANTATION_CARTHAGE]Handelskolonie[\LINK] errichten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_CARTHAGE</Tag>
+		<English>Trading Colony</English>
+		<German>
+			<Text>Handelskolonie</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_REMOVE_SAVANNA</Tag>
+		<English>Clear a [LINK=FEATURE_SAVANNA]Savanna[\LINK]</English>
+		<German>[LINK=FEATURE_SAVANNA]Savanne[\LINK] entfernen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_CONVERTER_ACTIVATED</Tag>
+		<English>[NUM2:A:Some] %s2_BuildingName in %s1_cityName started working thanks to a supply of %s3_BonusName.</English>
+		<German>[NUM2:A:Some] %s2_BuildingName in %s1_cityName fing an zu arbeiten dank einer Lieferung von %s3_BonusName.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_CONVERTER_DEACTIVATED</Tag>
+		<English>[NUM2:A:Some] %s2_BuildingName in %s1_cityName stopped working because of a %s3_BonusName shortage.</English>
+		<German>[NUM2:A:Some] %s2_BuildingName in %s1_cityName hörte auf zu arbeiten wegen eines Mangels an %s3_BonusName.</German>
+	</TEXT>
+	<!-- MOD - START - Era Effects -->
+	<TEXT>
+		<Tag>TXT_KEY_ERA_CHANGE</Tag>
+		<English>[ICON_BULLET]Entering this era brings %D1%F2 to all cities.</English>
+		<German>[ICON_BULLET]Fortschreiten in dieses Zeitalter gibt %D1%F2 in jeder Stadt.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_HAPPINESS</Tag>
+		<English>+%d1_Change[ICON_HAPPY]: "We celebrate a new era of progress and prosperity!"</English>
+		<German>+%d1_Change[ICON_HAPPY]: "Wir leben in einer besseren Zeit als unsere Vorfahren!"</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_ANGER</Tag>
+		<English>+%d1_Change[ICON_UNHAPPY]: "We have higher standards than our fathers!"</English>
+		<German>+%d1_Change[ICON_UNHAPPY]: "Unsere W&#252;nsche sind gr&#246;&#223;er als die unserer V&#228;ter!"</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_SPLASH_HAPPINESS</Tag>
+		<English>[ICON_BULLET]Entering this era brings +%d1[ICON_HAPPY] to all of our cities.</English>
+		<German>[ICON_BULLET]Fortschreiten in dieses Zeitalter gibt +%d1[ICON_HAPPY] in jeder Stadt!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_SPLASH_ANGER</Tag>
+		<English>[ICON_BULLET]Entering this era brings +%d1[ICON_UNHAPPY] to all of our cities.</English>
+		<German>[ICON_BULLET]Die Menschen werden anspruchsvoller. Fortschreiten in dieses Zeitalter f&#252;hrt zu +d1[ICON_UNHAPPY] in allen St&#228;dten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_HEALTHINESS</Tag>
+		<English>+%d1_Change[ICON_HEALTHY]: "We are healthier thanks to our scientific advancements!"</English>
+		<German>+%d1_Change[ICON_HEALTHY]: "Wir leben gesünder dank unserer wissenschaftlichen Fortschritte!"</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_UNHEALTHINESS</Tag>
+		<English>+%d1_Change[ICON_UNHEALTHY]: "We are not as healthy as our rural ancestors!"</English>
+		<German>+%d1_Change[ICON_UNHEALTHY]: "Wir leben nicht so gesund wie unsere ländlichen Vorfahren!"</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_SPLASH_HEALTHINESS</Tag>
+		<English>[ICON_BULLET]Entering this era brings +%d1[ICON_HEALTHY] to all of our cities.</English>
+		<German>[ICON_BULLET]Fortschreiten in dieses Zeitalter gibt +%d1[ICON_HEALTHY] in jeder Stadt!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_SPLASH_UNHEALTHINESS</Tag>
+		<English>[ICON_BULLET]Entering this era brings +%d1[ICON_UNHEALTHY] to all of our cities.</English>
+		<German>[ICON_BULLET]Fortschreiten in dieses Zeitalter gibt +%d1[ICON_UNHEALTHY] in jeder Stadt.</German>
+	</TEXT>
+	<!-- MOD - END - Era Effects -->
+	<!-- MOD - START - Advanced Building Prerequisites (Power) -->
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_POWER</Tag>
+		<English>[COLOR_WARNING_TEXT]Requires Power[COLOR_REVERT]</English>
+		<German>[COLOR_WARNING_TEXT]Benötigt Energie[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_HOLY_CITY</Tag>
+		<English>[COLOR_WARNING_TEXT]Requires %F1_RelIcon Holy City[COLOR_REVERT]</English>
+		<German>[COLOR_WARNING_TEXT]Benötigt %F1_RelIcon Heilige Stadt[COLOR_REVERT]</German>
+	</TEXT>
+	<!-- MOD - END - Advanced Building Prerequisites (Power) -->
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_NO_RELIGION</Tag>
+		<English>[COLOR_WARNING_TEXT]Requires not having a State [ICON_RELIGION][COLOR_REVERT]</English>
+		<German>[COLOR_WARNING_TEXT]Benötigt keine Staatsreligion [ICON_RELIGION][COLOR_REVERT]</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_SPECIFIC_STATE_RELIGION</Tag>
+		<English>[COLOR_WARNING_TEXT]Requires [LINK=literal]%s1_Name[\LINK] as State [ICON_RELIGION][COLOR_REVERT]</English>
+		<German>[COLOR_WARNING_TEXT]Benötigt [LINK=literal]%s1_Name[\LINK] als Staatsreligion [ICON_RELIGION][COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_NO_HEALTH_FROM_BONUS</Tag>
+		<English>[ICON_BULLET]No [ICON_HEALTHY] from %s1, if adopted as State [ICON_RELIGION]</English>
+		<German>[ICON_BULLET][COLOR_WARNING_TEXT]Keine [ICON_HEALTHY] von %s1, wenn [ICON_RELIGION] Staatsreligion ist</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_NO_HAPPY_FROM_BONUS</Tag>
+		<English>[ICON_BULLET]No [ICON_HAPPY] from %s1, if adopted as State [ICON_RELIGION]</English>
+		<German>[ICON_BULLET][COLOR_WARNING_TEXT]Keine [ICON_HAPPY] von %s1, wenn [ICON_RELIGION] Staatsreligion ist</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_NO_HEALTH_WITH_RELIGION</Tag>
+		<English>[ICON_BULLET]No [ICON_HEALTHY] from %s1if adopted as State [ICON_RELIGION]</English>
+		<German>[ICON_BULLET][COLOR_WARNING_TEXT]Keine [ICON_HEALTHY] von %s1, wenn [ICON_RELIGION] Staatsreligion ist</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_NO_HAPPY_WITH_RELIGION</Tag>
+		<English>[ICON_BULLET]No [ICON_HAPPY] from %s1 if adopted as State [ICON_RELIGION]</English>
+		<German>[ICON_BULLET][COLOR_WARNING_TEXT]Keine [ICON_HAPPY] von %s1, wenn [ICON_RELIGION] Staatsreligion ist</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMESPEED_FOURHUNDRED_HELP</Tag>
+		<English>This is the slowest game speed available and will have roughly 400 turns per era.</English>
+		<German>Dies ist das langsamste Spieltempo und dauert etwa 400 Runden pro &#196;ra.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMESPEED_TWOHUNDRED_HELP</Tag>
+		<English>This speed extends the game to have roughly 200 turns per era.</English>
+		<German>Dieses Spieltempo erh&#246;ht die Spieldauer auf etwa 200 Runden pro &#196;ra.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMESPEED_ONEHUNDRED_HELP</Tag>
+		<English>This is the default game speed with roughly 100 turns per era.</English>
+		<German>Dies ist das Standardspieltempo und dauert etwa 100 Runden pro &#196;ra.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMESPEED_FIFTY_HELP</Tag>
+		<English>This is the quickest game speed with roughly 50 turns per era.</English>
+		<German>Dies ist das schnellste Spieltempo und dauert etwa 50 Runden pro &#196;ra.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMESPEED_FOURHUNDRED</Tag>
+		<English>400 Turns per era</English>
+		<German>
+			<Text>400 Runden pro &#196;ra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMESPEED_TWOHUNDRED</Tag>
+		<English>200 turns per era</English>
+		<German>
+			<Text>200 Runden pro &#196;ra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMESPEED_ONEHUNDRED</Tag>
+		<English>100 turns per era</English>
+		<German>
+			<Text>100 Runden pro &#196;ra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMESPEED_FIFTY</Tag>
+		<English>50 turns per era</English>
+		<German>
+			<Text>50 Runden pro &#196;ra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_STACK_LIMIT</Tag>
+		<English>Tile Stack Limit</English>
+		<German>Feldstapelmaximum</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_STACK_LIMIT_HELP</Tag>
+		<English>Enforce maximum number (default 8, 12 in cities) of military units per tile.</English>
+		<German>Aktiviert ein Maximum  (normal 8, 12 in St&#228;dten) an milit&#228;rischen Einheiten pro Feld.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_LETHAL_AIR_STRIKE</Tag>
+		<English>Lethal Air Strikes vs Naval Units</English>
+		<German>T&#246;dliche Luftangriffe gegen Seeeinheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_LETHAL_AIR_STRIKE_HELP</Tag>
+		<English>Air strikes against naval units will be capable of destroying the unit.</English>
+		<German>Luftangriffe k&#246;nnen Seeeinheiten zerst&#246;ren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_MOVEMENT_SCALING</Tag>
+		<English>Naval movement and air range scale</English>
+		<German>Skalierte Seebewegung und Luftreichweite</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_MOVEMENT_SCALING_HELP</Tag>
+		<English>Enables increased movement for naval units and range for air units on larger maps.</English>
+		<German>Erh&#246;ht die Bewegungsrate von Seeeiheiten und die Reichweite von Lufteinheiten auf gr&#246;&#223;eren Karten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NUCLEAR_WASTE</Tag>
+		<English>Highly destructive nuclear weapons</English>
+		<German>Zerst&#246;rerische Nuklearwaffen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NUCLEAR_WASTE_HELP</Tag>
+		<English>Increases destructiveness of nuclear weapons and fallout.</English>
+		<German>Erh&#246;ht die Zerst&#246;rungskraft von Nuklearwaffen und folgender Verschmutzung.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_LIMIT_RELIGION</Tag>
+		<English>Limited Religion Founding</English>
+		<German>Begrenzte Religionsgr&#252;ndung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_LIMIT_RELIGION_HELP</Tag>
+		<English>Leaders without the Spiritual trait may not found multiple religions, if disabled religion founding techs are less expensive for spiritual leaders.</English>
+		<German>Anf&#252;hrer ohne die Eigenschaft Spirituell k&#246;nnen nur eine Religion gr&#252;nden, falls diese Option deaktiviert ist, sind Gr&#252;ndungstechnologion f&#252;r spirituelle Anf&#252;hrer billiger.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_AMPHIBIOUS_RESTRICTION</Tag>
+		<English>Restricted Amphibious Assaults</English>
+		<German>Beschr&#228;nkte amphibische Angriffe</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_AMPHIBIOUS_RESTRICTION_HELP</Tag>
+		<English>If enabled, units without the Amphibious promotion may not unload into hostile territory from transports that have moved on the current turn.</English>
+		<German>Wenn diese Option aktiviert ist, dürfen Einheiten ohne die Amphibious-Beförderung nicht von Transporten, die sich in der aktuellen Runde bewegt haben, in feindliches Territorium entladen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_NEW_WORLD</Tag>
+		<English>New World</English>
+		<German>Neue Welt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_NEW_WORLD_YES</Tag>
+		<English>Allowed</English>
+		<German>Erlaubt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_NEW_WORLD_NO</Tag>
+		<English>Discouraged</English>
+		<German>Vermeiden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_DEFAULT_BIOME</Tag>
+		<English>Default Biome</English>
+		<German>Standard Biome</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_BIOME_NATURAL</Tag>
+		<English>Natural Settings</English>
+		<German>Nat&#252;rliche Verteilung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_BIOME_TROPICAL</Tag>
+		<English>Tropical - Hot and Humid</English>
+		<German>Tropisch - Warm und Feucht</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_BIOME_ARID</Tag>
+		<English>Arid - Warm and Dry</English>
+		<German>Arid - Warm and Trocken</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_BIOME_COOL</Tag>
+		<English>Cold - Cool and Dry</English>
+		<German>Kalt - K&#252;hl und Trocken</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_SUPPRESS_PANGAEA</Tag>
+		<English>Pangaea Continents</English>
+		<German>Pang&#228;akontinente</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_SUPPRESS_PANGAEA_NO</Tag>
+		<English>Allowed</English>
+		<German>Erlaubt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_SUPPRESS_PANGAEA_YES</Tag>
+		<English>Suppressed</English>
+		<German>Unterdr&#252;ckt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_LANDMASS_STYLE</Tag>
+		<English>Landmass Style</English>
+		<German>Landmassenstil</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_LANDMASS_NATURAL</Tag>
+		<English>Natural Continents</English>
+		<German>Nat&#252;rliche Kontinente</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_LANDMASS_PANGAEA</Tag>
+		<English>Pangaea</English>
+		<German>Pang&#228;a</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_LANDMASS_TERRA</Tag>
+		<English>Terra Regions</English>
+		<German>Terraregionen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAP_SCRIPT_LANDMASS_EARTHLY</Tag>
+		<English>Earthlike Continents</English>
+		<German>Erd&#228;hnliche Kontinente</German>
+	</TEXT>
+	<!-- MOD - START - Bonus Category for Globe View -->
+	<TEXT>
+		<Tag>TXT_KEY_GLOBELAYER_RESOURCES_STRATEGIC</Tag>
+		<English>Strategic</English>
+		<German>Strategisch</German>
+	</TEXT>
+	<!-- MOD - END - Bonus Category for Globe View -->
+	<TEXT>
+		<Tag>TXT_KEY_UNREST_MESSAGE</Tag>
+		<English>Rioting broke out in %s1_City!</English>
+		<German>In %s1_City begann der Aufruhr!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNREST_END_MESSAGE</Tag>
+		<English>The unrest is over in %s1_City! The order is restored.</English>
+		<German>Unruhen sind in %s1_City vorbei! Die Ordnung wieder hergestellt.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SUBJUGATION_END_MESSAGE</Tag>
+		<English>A permanent civil administration is established in %s1_City to replace the temporary one set up after conquest.</English>
+		<German>Eine permanente Zivilverwaltung wird in %s1_City eingerichtet, um die temporäre, die nach der Eroberung errichtet wurde, zu ersetzen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BRIBE_END_MESSAGE</Tag>
+		<English>The corrupt elites in %s1_City no longer feel they owe us any special allegiance from previous bribes.</English>
+		<German>Die korrupten Eliten in %s1_City haben nicht mehr das Gefühl, dass sie uns wegen früherer Bestechungen eine besondere Treue schulden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BRIBE_RIOT_MESSAGE</Tag>
+		<English>The bribes in %s1_City ultimately had no effect, as the rioting broke out again. Has their greed no limits?</English>
+		<German>Die Bestechungsgelder in %s1_City hatten letztlich keine Wirkung, da die Krawalle wieder ausbrachen. Hat ihre Gier keine Grenzen?</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REPLACE_END_MESSAGE</Tag>
+		<English>The period of lenient governance in %s1_City is finally over. Production and gold penalties are removed.</English>
+		<German>Die Zeit der milden Regierungsführung in %s1_City ist endlich vorbei. Produktion- und Goldstrafen werden gestrichen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REPLACE_RIOT_MESSAGE</Tag>
+		<English>The new governor of %s1_City was ultimately not enough to win the citizens over, as the rioting broke out again. So much for being nice to them.</English>
+		<German>Der neue Gouverneur von %s1_City war letztlich nicht genug, um die Bürger zu überzeugen, da die Unruhen wieder ausbrachen. So viel, um nett zu ihnen zu sein.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HARSH_END_MESSAGE</Tag>
+		<English>The people of %s1_City no longer live in fear.</English>
+		<German>Die Leute von %s1_City leben nicht mehr in Angst.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HARSH_RIOT_MESSAGE</Tag>
+		<English>The oppression unleashed on %s1_City seems to have backfired, as the rioting broke out again. Have they no regard for their own lives?</English>
+		<German>Die Unterdrückung, die auf %s1_City entfesselt wurde, scheint nach hinten losgegangen zu sein, als die Unruhen wieder ausbrachen. Haben sie keine Rücksicht auf ihr eigenes Leben?</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SERMON_END_MESSAGE</Tag>
+		<English>The faithful of %s1_City have forgotten the lessons of the sermon.</English>
+		<German>Die Gläubigen von %s1_City haben die Lehren aus der Predigt vergessen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SERMON_RIOT_MESSAGE</Tag>
+		<English>The sermon in %s1_City failed to touch citizens' hearts, as the rioting broke out again. Do only infidels live there?</English>
+		<German>Die Predigt in %s1_City konnte die Herzen der Bürger nicht berühren, da die Krawalle wieder ausbrachen. Leben dort nur Ungläubige?</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TAX_END_MESSAGE</Tag>
+		<English>The special tax arrangement for %s1_City has come to an end.</English>
+		<German>Die spezielle Steuerregelung für %s1_City ist beendet.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TAX_RIOT_MESSAGE</Tag>
+		<English>The tax break for %s1_City failed to pacify it, as the rioting broke out again. Are they trying to haggle for paying even less?</English>
+		<German>Die Steuererleichterung für %s1_City konnte es nicht beruhigen, da die Unruhen erneut ausbrachen. Versuchen sie zu feilschen um noch weniger zu bezahlen?</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MARTIAL_END_MESSAGE</Tag>
+		<English>The curfiew in %s1_City has been lifted.</English>
+		<German>Die Ausgangssperre in %s1_City wurde aufgehoben.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MARTIAL_RIOT_MESSAGE</Tag>
+		<English>The curfew in %s1_City failed today, as the rioting broke out again. There will be consequences.</English>
+		<German>Die Ausgangssperre in %s1_City scheiterte heute, als die Unruhen wieder ausbrachen. Das wird Konsequenzen haben.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ARRESTS_END_MESSAGE</Tag>
+		<English>The people in %s1_City no longer have a fear of our Secret Police.</English>
+		<German>Die Leute in %s1_City haben keine Angst mehr vor unserer Geheimpolizei.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ARRESTS_RIOT_MESSAGE</Tag>
+		<English>Obviously, wrong people have been arrested in %s1_City, as the rioting broke out again. Someone is getting fired.</English>
+		<German>Offensichtlich wurden in %s1_City falsche Leute verhaftet, als die Unruhen wieder ausbrachen. Jemand wird gefeuert.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROPAGANDA_END_MESSAGE</Tag>
+		<English>The citizens of %s1_City have forgotten our propaganda slogans.</English>
+		<German>Die Bürger von %s1_City haben unsere Propagandaslogans vergessen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROPAGANDA_RIOT_MESSAGE</Tag>
+		<English>The propaganda campaign in %s1_City was a miserable failure, as the rioting broke out again. This is what you get for choosing the lowest bidder.</English>
+		<German>Die Propagandakampagne in %s1_City war ein erbärmlicher Fehlschlag, als die Unruhen wieder ausbrachen. Das bekommen Sie, wenn Sie den günstigsten Bieter wählen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AUTONOMY_END_MESSAGE</Tag>
+		<English>The wide autonomy granted to %s1_City has been repealed.</English>
+		<German>Die große Autonomie, die %s1_City gewährt wurde, wurde aufgehoben.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AUTONOMY_RIOT_MESSAGE</Tag>
+		<English>%s1_City just held an independence referendum, which the pro-independence party won and the rioting broke out again. When will this populist nonsense end?</English>
+		<German>%s1_City hat gerade ein Unabhängigkeitsreferendum abgehalten, das von der Unabhängigkeitspartei gewonnen wurde und die Ausschreitungen erneut ausbrachen. Wann wird dieser populistische Unsinn enden?</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_SHOCK</Tag>
+		<English>The inhabitants of %s1_City doubt their beliefs upon hearing the news of %s2_Religion.</English>
+		<German>e Einwohner von %s1_City bezweifeln ihren Glauben, als sie die Nachricht von %s2_Religion hören.</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_INTERCEPT_AIRCRAFT</Tag>
+		<English>[ICON_BULLET]Can Intercept Aircraft (%d1_Amount%% Interception Power)</English>
+		<German>[ICON_BULLET]Kann Luftfahrzeuge abfangen (Wahrscheinlichkeit: %d1_Amount%%)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EVADE_INTERCEPTION</Tag>
+		<English>[ICON_BULLET]Can Evade Interception (%d1_Amount%% Evasion Power)</English>
+		<German>[ICON_BULLET]Kann Abfangman&#246;ver abwehren (Wahrscheinlichkeit: %d1_Amount%%)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STRATEGIC</Tag>
+		<English>[ICON_BULLET]Strategic bomber</English>
+		<German>[ICON_BULLET]Strategischer Bomber</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMB_RATE</Tag>
+		<English>[ICON_BULLET]Can Bomb City Defenses (-%d1_Mod%%/Turn)</English>
+		<German>[ICON_BULLET]Kann Stadtverteidigungen bombardieren (-%d1_Mod%%/Runde)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMB_STRATEGIC_RATE</Tag>
+		<English>[ICON_BULLET]Can Destroy Routes, Tile Improvements and Bomb City Defenses (-%d1_Mod%%/Turn)</English>
+		<German>[ICON_BULLET]Kann Gel&#228;ndefeld-Modernisierungen zerst&#246;ren und Stadtverteidigungen bombardieren (-%d1_Mod%%/Runde)</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLLATERAL_DAMAGE</Tag>
+		<English>[ICON_BULLET]Causes Collateral Damage (max. %d1%%, %d2 targets)</English>
+		<German>[ICON_BULLET]Verursacht Kollateralschaden (max. %d1%%, %d2 Ziele)</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLLATERAL_DAMAGE_SINGLE</Tag>
+		<English>[ICON_BULLET]Causes Collateral Damage (max. %d1%%, single target)</English>
+		<German>[ICON_BULLET]Verursacht Kollateralschaden (max. %d1%%, einzelnes Ziel)</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FENGAGE</Tag>
+		<English>Air Superiority</English>
+		<German>Jägereinsatz</German>
+		<Finnish>Fighter Engagement</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FENGAGE_PEDIA</Tag>
+		<English>[H1]Air Superiority[\H1][PARAGRAPH:2]Air Superiority allows fighters to attack enemy fighters in the air.[PARAGRAPH:2]</English>
+		<German>[H1]]Jägereinsatz[\H1][PARAGRAPH:2]Jägereinsatz ermöglicht es Jägern, feindliche Jäger in der Luft oder am Boden anzugreifen.[PARAGRAPH:2]</German>
+		<Finnish>[H1]Fighter Engagement[\H1][PARAGRAPH:2]Fighter Engagement allows fighters to attack enemy fighters in the air or on the ground.[PARAGRAPH:2]</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACEMODE_FENGAGE</Tag>
+		<English>Air Superiority</English>
+		<German>Jägereinsatz</German>
+		<Finnish>Fighter Engagement</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACEMODE_FENGAGE</Tag>
+		<English>Air Superiority</English>
+		<German>Jägereinsatz</German>
+		<Finnish>Fighter Engagement</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IS_FIGHTER_ENGAGE</Tag>
+		<English>Can be used for Air Superiority</English>
+		<German>Kann Jägereinsatz durchführen</German>
+		<Finnish>Fighter Engagement</Finnish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACEMODE_FENGAGE_HELP</Tag>
+		<English>&quot;Air Superiority&quot; allows fighters to attack enemy fighters in the air.</English>
+		<German>&quot;Jägereinsatz&quot; ermöglicht es Jägern, feindliche Jäger in der Luft oder am Boden anzugreifen</German>
+		<Finnish>&quot;Fighter Engagement&quot; allows fighters to attack enemy fighters in the air or on the ground.</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_FENGAGE</Tag>
+		<English>Air Superiority</English>
+		<German>Jägereinsatz</German>
+		<Finnish>Fighter Engagement</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_FENGAGE_HELP</Tag>
+		<English>Select a fighter unit, select the fighter engagement mission and then select the enemy unit to attack.</English>
+		<German>Wählen Sie eine Jägereinheit, wählen Sie die Jägereinsatzmission und anschließend die feindliche Einheit, die angegriffen werden soll.</German>
+		<Finnish>Select a fighter unit, select the fighter engagement mission and then select the enemy unit to attack.</Finnish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_ALLIANCES</Tag>
+		<English>Military Alliances</English>
+		<German>Allianzen</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_ALLIANCES_HELP</Tag>
+		<English>Two civilizations can form a Military Alliance which works same as vanilla Defensive Pact, but can also be used offensively</English>
+		<German>Zwei Zivilisationen können ein Militärbündnis bilden, das genauso funktioniert wie ein Standard-Verteidigungspakt, aber auch offensiv eingesetzt werden kann</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_MISC_YOU_KILLED_ENEMY_UNIT_ODDS</Tag>
+		<English>While defending, your %s1_UnitName has killed a %s3_owner_adjective %s2_EnUName (attacker's odds: %s4_Odds%%).</English>
+		<French>En se d&#233;fendant, votre %s1_UnitName a &#233;limin&#233; [NUM2:un:une:des:des] %s2_EnUName (%s3_owner_adjective); chances de l'attaquant: %s4_Odds%%.</French>
+		<German>Eure Einheit %s1_UnitName hat w&#228;hrend eines Verteidigungsman&#246;vers eine Einheit %s2_EnUName (%s3_owner_adjective) vernichtet (Chance des Angreifers: %s4_Odds%%).</German>
+		<Italian>Difendendo, la tua unit&#224; %s1_UnitName ha ucciso l'unit&#224; nemica %s2_EnUName (%s3_owner_adjective); prob. dell'attaccante: %s4_Odds%%.</Italian>
+		<Spanish>Mientras se [NUM1:defend&#237;a:defend&#237;a:defend&#237;an:defend&#237;an], [NUM1:vuestro:vuestra:vuestros:vuestras] %s1_UnitName [NUM1:ha:ha:han:han] acabado con [NUM2:un:una:unos:unas] %s2_EnUName (%s3_owner_adjective); prob. del atacante: %s4_Odds%%.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_YOU_UNIT_WAS_DESTROYED_ODDS</Tag>
+		<English>While defending, your %s1_UnitName was destroyed by a %s3_owner_adjective %s2_EnUName (attacker's odds: %s4_Odds%%).</English>
+		<French>En se d&#233;fendant, votre unit&#233; "%s1_UnitName" a &#233;t&#233; d&#233;truite par [NUM2:un:une:des:des] %s2_EnUName (%s3_owner_adjective); chances de l'attaquant: %s4_Odds%%.</French>
+		<German>Eure Einheit %s1_UnitName wurde w&#228;hrend eines Verteidigungsman&#246;vers von einer Einheit %s2_EnUName (%s3_owner_adjective) vernichtet (Chance des Angreifers: %s4_Odds%%).</German>
+		<Italian>Difendendo, la tua unit&#224; %s1_UnitName &#232; stata distrutta dall'unit&#224; nemica %s2_EnUName (%s3_owner_adjective); prob. dell'attaccante: %s4_Odds%%.</Italian>
+		<Spanish>Mientras se [NUM1:defend&#237;a:defend&#237;a:defend&#237;an:defend&#237;an], [NUM1:vuestro:vuestra:vuestros:vuestras] %s1_UnitName [NUM1:ha sido destruido:ha sido destruida:han sido destruidos:han sido destruidas] por [NUM2:un:una:unos:unas] %s2_EnUName (%s3_owner_adjective); prob. del atacante: %s4_Odds%%.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ENEMY_UNIT_WITHDRAW_ODDS</Tag>
+		<English>A %s1_EnUName has withdrawn (odds: %s3_Odds%%) from combat with your %s2_UnitName.</English>
+		<French>L'unit&#233; de combat ennemie (%s1_EnUName) a fui le combat face &#224; votre %s2_UnitName; chances de survie étaient: %s3_Odds%%.</French>
+		<German>Eine Einheit %s1_EnUName hat im Kampf gegen Eure Einheit %s2_UnitName den R&#252;ckzug angetreten (Überlebenschance betrug %s3_Odds%%).</German>
+		<Italian>L'unit&#224; nemica %s1_EnUName si &#232; ritirata  (prob. di sopravvivenza: %s3_Odds%%) dal combattimento contro la tua unit&#224; %s2_UnitName.</Italian>
+		<Spanish>[NUM1:Un:Una:Unos:Unas] %s1_EnUName se [NUM1:ha:ha:han:han] retirado (prob de supervivencia: %s3_Odds%%) del combate contra [NUM2:vuestro:vuestra:vuestros:vuestras] %s2_UnitName.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_YOU_UNIT_WAS_DESTROYED_UNKNOWN_ODDS</Tag>
+		<English>While defending, your %s1_UnitName was destroyed by a %s2_EnUName (attacker's odds: %s3_Odds%%).</English>
+		<French>En se d&#233;fendant, votre unit&#233; "%s1_UnitName" a &#233;t&#233; d&#233;truite par l'unit&#233; ennemie : %s2_EnUName (chances de l'attaquant: %s3_Odds%%).</French>
+		<German>Eure Einheit %s1_UnitName wurde w&#228;hrend eines Verteidigungsman&#246;vers von einer Einheit %s2_EnUName vernichtet (Chance des Angreifers: %s3_Odds%%).</German>
+		<Italian>Difendendo, la tua unit&#224; %s1_UnitName &#232; stata distrutta dall'unit&#224; nemica %s2_EnUName (prob. dell'attaccante: %s3_Odds%%).</Italian>
+		<Spanish>Mientras se [NUM1:defend&#237;a:defend&#237;a:defend&#237;an:defend&#237;an], [NUM1:vuestro:vuestra:vuestros:vuestras] %s1_UnitName [NUM1:ha sido destruido:ha sido destruida:han sido destruidos:han sido destruidas] por [NUM2:un:una:unos:unas] %s2_EnUName (prob. del atacante: %s3_Odds%%).</Spanish>
+	</TEXT>	
+</Civ4GameText>

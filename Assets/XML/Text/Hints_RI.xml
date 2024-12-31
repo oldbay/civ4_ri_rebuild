@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Realism: Invictus hints -->
+	<!-- Style guidelines (from CIV4GameText_Strategy.xml): -->
+	<!-- Technologies should be colored COLOR_TECH_TEXT (example: [COLOR_TECH_TEXT]Bronze Working[COLOR_REVERT]) -->
+	<!-- Unit should be colored COLOR_UNIT_TEXT (example: [COLOR_UNIT_TEXT]Archers[COLOR_REVERT]) -->
+	<!-- Buildings should be colored COLOR_BUILDING_TEXT (example: [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]) -->
+	<!-- Projects should be colored COLOR_PROJECT_TEXT (example: [COLOR_PROJECT_TEXT]SS Engine[COLOR_REVERT]) -->
+	<!-- Anything else official (that should be capitalized) should be colored COLOR_HIGHLIGHT_TEXT (example: [COLOR_HIGHLIGHT_TEXT]Trade Mission[COLOR_HIGHLIGHT_TEXT] or [COLOR_HIGHLIGHT_TEXT]Islam[COLOR_HIGHLIGHT_TEXT]) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_INTERFACE_1</Tag>
+		<English>Ever forget to build that Barracks?  [ALT +M] -OR- [ALT + CTRL + R] will allow you to set up reminders so you don't forget again!</English>
+		<German>Mit den Tastenkombinationen [ALT + M] oder [STRG + ALT + R] lassen sich Erinnerungen verfassen, die nach einer festgelegten Anzahl Runden wieder erscheinen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_INTERFACE_2</Tag>
+		<English>[ALT + S] allows you to make Sticky Notes on tiles.  Just click and type.  Pressing [ALT + S] again, and then clicking on an existing note will remove it.</English>
+		<German>Mit der Tastenkombination [ALT + S] lassen sich Haftnotizen an Geländefeldern anbringen. Eine Haftnotiz lässt sich mit derselben Tastenkombination auch wieder entfernen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_INTERFACE_3</Tag>
+		<English>To cancel all Worker Orders quickly, select 1 worker with orders, and while holding the [ALT] key, click the cancel orders button.</English>
+		<German>Bei gedrückter [ALT]-Taste lassen sich die Missionen aller aktiven Bautrupps per Mausklick auf das Abbrechensymbol eines aktiven Bautrupps abbrechen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_INTERFACE_4</Tag>
+		<English>RI has changed the formula for air interception - instead of having a flat chance to intercept and a flat chance to evade, the interception power is tested against evasion power, resulting in interception probability (say, a unit with interception power of 475% will intercept a unit with 400% evasion power with a 75% probability).</English>
+		<German>Mit der Tastenkombination [ALT + E] können dem Protokoll eigene Einträge hinzugefügt werden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_INTERFACE_5</Tag>
+		<English>Clicking on the Scroll button within the Domestic Advisor will allow you to customize it to your playing style.</English>
+		<German>Mit einem Klick auf die gelbe Schriftrolle im "Inlandsberater" lässt sich dieser an den eigenen Spielstil anpassen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_INTERFACE_6</Tag>
+		<English>To create rally points, select the city, or cities, you are building units it, hold down the [SHIFT] key and Right Click on the tile you want your rally point to be at.  You will see a yellow circle showing the rally point.[NEWLINE]To cancel orders select the same city or cities, [SHIFT] and Right click on any city square, and it will cancel the rally orders.</English>
+		<German>Bei gedrückter [UMSCHALT]-Taste in Verbindung mit einem Rechtsklick lässt sich für eine oder mehrere Städte ein Sammelpunkt für Einheiten setzen. Der Sammelpunkt wird durch einen gelben Kreis markiert. Wird bei gedrückter [UMSCHALT]-Taste in Verbindung mit einem Rechtsklick ein Stadtgeländefeld ausgewählt, lässt sich der Sammelpunkt wieder aufheben.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_1</Tag>
+		<English>When a tile is in the City Cross of two different cities, you can change its city ownership by clicking on that tile from the chosen city's City Screen.</English>
+		<German>Befindet sich ein Geländefeld im Einzugsbereich zweier Städte, lässt sich dessen Zugehörigkeit festlegen, indem es im Stadt-Bildschirm der betreffenden Stadt per Mausklick ausgewählt wird.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_2</Tag>
+		<English>Resources required by industrial buildings to produce other resources aren't "consumed", and are still available to your civilization for other purposes. For instance, one unit of iron can be used by a steel mill, a canned food factory, and still be available to produce units that require iron.</English>
+		<German>Ressourcen, die von Industriegebäuden zur Produktion anderer Ressourcen benötigt werden, werden nicht "verbraucht" und stehen Ihrer Zivilisation weiterhin für andere Zwecke zur Verfügung. Beispielsweise kann eine Eiseneinheit von einem Stahlwerk und einer Konservenfabrik verwendet werden und dennoch für die Produktion von Einheiten zur Verfügung stehen, die Eisen benötigen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_3</Tag>
+		<English>When at war, use fast moving units to pillage strategic resources such as Iron, or Sulfur first, and ideally leave a sentry to prevent the enemy from reconnecting that resource.</English>
+		<German>Während eines Krieges sollten schnelle Einheiten genutzt werden, um zuerst strategische Ressourcen, wie Eisen oder Aluminium, zu plündern. Nachrückende Einheiten können dann deren Bewachung übernehmen, um dem Gegner den Zugang zu diesen Ressourcen dauerhaft zu verwehren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_4</Tag>
+		<English>Save your promotions for when your unit is injured to speed up healing, and when you promote, use them to tailor your unit for the type of enemy you are facing.</English>
+		<German>Eine verfügbare Beförderung muss einer Einheit nicht sofort verliehen werden. Manchmal lohnt es sich zu warten, um im passenden Moment die bestgeeignete Beförderung und Bonusfähigkeit zu wählen. Eine Beförderung wirkt auf verletzte Einheiten übrigens heilsam.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_5</Tag>
+		<English>Always consider having siege equipment before attacking a city. Even when city defenses are already at zero, siege units are useful due to the stack aid mechanic.</English>
+		<German>Für die Einnahme einer größeren Stadt sollten genügend Belagerungswaffen zur Verfügung stehen, um die Verteidigungsanlagen niederzureißen und die Verteidiger zu schwächen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_6</Tag>
+		<English>Free Market civic works best if there are many civilizations to sign open borders with; conversely, Protectionism does not require any trading partners.</English>
+		<German>Bevor Technolgien erforscht werden, die die Fähigkeiten der Bautrupps erweitern, sollte zunächst das Umland erkundet werden, um die dort verfügbaren Ressourcen möglichst schnell erschließen und nutzen zu können.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_7</Tag>
+		<English>Always consider escorting your Settlers. It's mighty dangerous out in the wilderness.</English>
+		<German>Wertvolle Einheiten ohne nennenswerte Verteidigungsfähigkeiten, wie Siedler und Galeonen, können leicht Opfer von Angriffen werden und verdienen deshalb auf fremdem Terrain einen Begleitschutz.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_8</Tag>
+		<English>Play to your Civilization's traits, and specialize your Empire. No use being Charismatic and Militaristic and never starting a war.</English>
+		<German>Der eigene Spielstil sollte sich an den Eigenschaften des gewählten Staatsoberhaupts orientieren und die eigene Zivilisation entsprechend spezialisiert werden. Die Eigenschaften "Charismatisch" und "Aggressiv" nützen wenig, wenn keine Kriege beabsichtigt sind.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_9</Tag>
+		<English>One of the best ways for long-term relationship increase with a civ is to give them one or more resources. But be sure that those resources are actually useful and thus valuable to them!</English>
+		<German>Der Verkauf von zwischenzeitlich unbrauchbaren Ressourcen, wie Kupfer oder Eisen, kann langfristig vorteilhaft sein, wenn der Käufer ein momentan noch schwacher Verbündeter ist.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_10</Tag>
+		<English>Don't neglect your Diplomacy!  Pay attention to the information you gather, telling you what is available out there.</English>
+		<German>Die Diplomatie sollte nicht vernachlässigt werden. Während einer Partie erscheinen ständig Meldungen, die die verfügbaren Handelswaren anderer Zivilisationen anzeigen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_11</Tag>
+		<English>Be the first to circle the globe, and your Naval Units all receive +1 movement.</English>
+		<German>Die Marineeinheiten der Zivilisation, die als erste die Welt umrundet, erhalten einen Bewegungsbonus von +1.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_12</Tag>
+		<English>Animals can't enter your land, so it can be worth the risk to leave your city undefended and use your warrior for early exploration.</English>
+		<German>Tiere können die Grenzen von Städten nicht überschreiten. Deshalb kann es sinnvoll sein, ein Risiko einzugehen und Städte zunächst unbewacht zu lassen, um mit den ersten Kriegern die Welt schon früh zu erkunden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_13</Tag>
+		<English>Fertile soils are especially important to France (plains), Ethiopia (grassland), Carthage (grassland) and Dravida (both type). These civs can cultivate important luxury resources on fertile soil plots.</English>
+		<German>Zwischen ähnlichen Zivilisationen sollten Handelsverbindungen geknüpft werden, um einen Diplomatiemalus zu vermeiden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_14</Tag>
+		<English>If you neglect your military, and your power becomes low compared to other civs, a neighbor WILL attack you.</English>
+		<German>Das Militär sollte nicht vernachlässigt werden. Eine schwache Zivilisation wird gern von benachbarten Zivilisationen angegriffen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_15</Tag>
+		<English>Strength of rebel slaves and serfs is determined by the strength of irregular units currently available to you.</English>
+		<German>Marineeinheiten sollten in der Nähe von Meeres-Ressourcen stationiert und mit dem Auftrag "Seepatrouille" versehen werden, um diese zu verteidigen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_16</Tag>
+		<English>Slave rebellions under Slavery and serf rebellions under Serfdom are unavoidable (except for turning them off in the custom game settings), so make sure to be prepared to quell them if you are running one of those civics.</English>
+		<German>Ein Wechsel der Staatsform in einer benachbarten Zivilisation sollte aufmerksam verfolgt werden. Es könnte die Vorbereitung auf einen Krieg sein.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_17</Tag>
+		<English>A unit will not be able to attack or unload from a transport ship the same turn it enters hostile waters, unless that unit has amphibious attack capability.</English>
+		<German>Anregungen und Hinweise zur "BUG Mod" können bei civfanatics.com im dortigen Forum hinterlassen werden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_18</Tag>
+		<English>Sometimes it's better to stop a Scout or Explorer on a forest, hill, or jungle tile and lose the extra movement in favor of safety.</English>
+		<German>Es kann sinnvoll sein, einen Späher oder Kundschafter eine Runde auf einem Wald-, Hügel- oder Dschungel-Geländefeld beenden zu lassen, um die überschüssigen Bewegungspunkte gegen größere Sicherheit einzutauschen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_19</Tag>
+		<English>Many World Wonders in Realism: Invictus have a chance to be destroyed when a city changes hands. You can see the chances for individual wonders on their Pedia page.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_20</Tag>
+		<English>Never go up against a Sicilian when death is on the line.</English>
+		<German>Das Team der BUG Mod dankt Ihnen für Ihr Vertrauen und hofft, dass die Mod Ihnen genauso viel Spaß macht, wie wir bei ihrer Entwicklung hatten!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_21</Tag>
+		<English>Be nice to your mother.</English>
+		<German>Sei nett zu deiner Mutter.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RI_HINT_22</Tag>
+		<English>The cake is a lie.</English>
+		<German>Der Kuchen ist eine Lüge.</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_HINT_1</Tag>
+		<English>Remember that Open Border agreements are very important in Realism: Invictus, because they enable Tech Transfer between civs (Tech Transfer may be disabled in the game options).</English>
+		<German>Betreten Sie Stammesd&#246;rfer mit Sp&#228;hern, erzielen Sie bessere Ergebnisse.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_2</Tag>
+		<English>Despite the fact that it's off by default, Tech Trading can be enabled in Realism: Invictus. If you turn it on, be sure to switch Tech Transfer off, as they aren't meant to co-exist.</English>
+		<German>Achten Sie auf die St&#228;rken und Schw&#228;chen von Einheiten. Beispiel: Axtk&#228;mpfer haben einen Bonus im Kampf gegen Einheiten mit Schwertern und Speeren. Einheiten mit Schwertern erhalten Boni bei Angriffen auf St&#228;dte. Speertr&#228;ger haben einen Bonus gegen Streitw&#228;gen und &#228;hnliche Einheiten. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_3</Tag>
+		<English>Tech Transfer provides you with additional research for each civ you have Open Borders with that knows the tech you're researching. Use it wisely!</English>
+		<German>Haben Sie eine neue Technologie erforscht, sollten Sie sich umgehend &#252;ber die Handelsm&#246;glichkeiten mit anderen Zivilisationen informieren. Sehen Sie sich um und finden Sie heraus, was Sie f&#252;r sich herausschlagen k&#246;nnen, bevor Ihnen jemand zuvorkommt.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_4</Tag>
+		<English>Any time you can benefit from Tech Transfer through Open Borders, so can the other civ. Don't sign Open Borders with civs you wouldn't like to "feed your techs" to.</English>
+		<German>Sch&#252;tzen Sie Ihre erfahrenen Einheiten! Ein Veteran kann unerfahrene Einheiten trotz ihrer moderneren Ausr&#252;stung auch mit veralteten Waffen schlagen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_5</Tag>
+		<English>Realism: Invictus has a stack aid system - if you stack several units together, each of them will get a stack aid bonus according to their types, proportional to the combined strength of the respective units.</English>
+		<German>Neue Staatsformen sind nicht zwingend besser. &#196;ndern Sie die Staatsform erst, wenn Sie die Vor- und Nachteile eines Wechsels gegeneinander abgewogen haben.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_6</Tag>
+		<English>Bear in mind that stack aid bonus is decided not on the numbers of units present, but on their relative base strength. One str 6 swordsman will provide as much aid as three str 2 warriors.</English>
+		<German>Achten Sie auf eine ausgewogene Forschung. Investieren Sie zu viel Zeit in ein bestimmtes Forschungsprojekt, vernachl&#228;ssigen Sie unweigerlich die Erforschung preiswerterer oder &#228;lterer Technologien.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_7</Tag>
+		<English>If you have a Holy City that is not your state religion, it may eventually disappear. If it had a Great Shrine built, it will be lost too! (Holy City migration may be disabled in game options)</English>
+		<German>Der Unterhalt Ihrer Einheiten kostet Geld. Ziehen Sie also nicht mit 50 Einheiten in die Schlacht, wenn 15 ausreichen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_8</Tag>
+		<English>In Realism: Invictus you may only build temples, monasteries and cathedrals of your state religion. This also means that you can't build any while running Free Religion or Cult of Personality! To compensate for that, Free Religion gets its own set of religious buildings.</English>
+		<German>Verzweifeln Sie angesichts gro&#223;er Feindverb&#228;nde nicht. Katapulte richten zwar nichts gegen die Kavallerie aus, k&#246;nnen feindlichen Truppen aber schwere Sch&#228;den zuf&#252;gen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_9</Tag>
+		<English>Earlier religions expand much slower than the later ones. However, the benefit of a religion is most useful early on - so ponder carefully which religion to found.</English>
+		<German>Sie k&#246;nnen nicht alle St&#228;dte an idealen Standorten gr&#252;nden. Platzieren Sie einige St&#228;dte in der N&#228;he von Rohstoffquellen oder in Randgebieten. Behalten Sie au&#223;erdem Ihre Kosten im Auge, da ein allzu schnelles Wachstum Ihre Wirtschaft schw&#228;cht.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_10</Tag>
+		<English>Each religion has its advantages and drawbacks - for example, Zoroastrianism spreads slowly and has more costly temples, but Zoroastrian buildings produce more culture (especially the Great Shrine).</English>
+		<German>Bef&#246;rdern Sie Einheiten nicht immer bei erster Gelegenheit. Manchmal ist es sinnvoller, abzuwarten, welche Einheiten der Gegner benutzt, bevor Sie sich mit der Bef&#246;rderung Ihrer eigenen Einheiten befassen. Dar&#252;ber hinaus regenerieren Bef&#246;rderungen einen Teil der Gesundheit besch&#228;digter Einheiten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_11</Tag>
+		<English>Each religion has its advantages and drawbacks - for example, Judaism is the slowest to spread and doesn't draw health benefits from swine, clam and crabs - but draws additional health from cow, fish and wheat, as well as more trade route income.</English>
+		<German>Ungesch&#252;tzte Galeonen oder Transportschiffe sind enormen Risiken ausgesetzt. &#220;berlegen Sie sich also gut, ob Sie diese eingehen m&#246;chten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_12</Tag>
+		<English>Each religion has its advantages and drawbacks - for example, Hinduism is relatively slow-spreading, but spreads faster than its contemporary religions, Zoroastrianism and Judaism, and also gains happiness from cows.</English>
+		<German>Barbaren k&#246;nnen auf allen vom Nebel des Krieges verh&#252;llten Gel&#228;ndefeldern lauern. Gehen Sie also nie davon aus, dass ein Feld, das Sie nicht sehen k&#246;nnen, sicher ist ... auch wenn Sie es in der vorherigen Runde &#252;berpr&#252;ft haben!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_13</Tag>
+		<English>Each religion has its advantages and drawbacks - for example, Buddhism offers a middle ground between early and late religions, in terms of spread rate and tech availability.</English>
+		<German>Werfen Sie regelm&#228;&#223;ig einen Blick auf den Auslandsberater. Schlie&#223;lich m&#252;ssen Sie wissen, womit Ihre Freunde (und Feinde) handeln.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_14</Tag>
+		<English>Each religion has its advantages and drawbacks - for example, Christianity is the easiest religion to spread, but its buildings promote unhealthiness.</English>
+		<German>Schlie&#223;en Sie nicht leichtfertig ein Abkommen &#252;ber offene Grenzen. Immerhin k&#246;nnte Ihr neuer "Freund" versuchen, Ihr Reich meistbietend zu verschachern!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_15</Tag>
+		<English>Each religion has its advantages and drawbacks - for example, Taoism offers a good base happiness, but neglects the happiness granted by several important resources - so it is well-suited for a civ short on luxuries.</English>
+		<German>Vernachl&#228;ssigen Sie die Kultur Ihres Reichs nicht! Mauern und Schl&#246;sser sch&#252;tzen Sie nur bis zur Erfindung des Schie&#223;pulvers. Ein gro&#223;er kultureller Einfluss st&#228;rkt hingegen in allen Epochen Ihre Verteidigung.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_16</Tag>
+		<English>Each religion has its advantages and drawbacks - for example, Islam is easy to spread, and is also spread by conquest, but is the latest religion, so there might not be much room to spread by the moment it is founded.</English>
+		<German>Ist eine Rohstoffquelle zu weit entfernt, um ausgebeutet zu werden, sollten Sie eine Einheit darauf postieren. Versucht nun jemand, die Rohstoffquelle unter Kontrolle zu bekommen, wissen Sie sofort Bescheid.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_17</Tag>
+		<English>Remember that many leaders in Realism: Invictus have a favorite religion they will favor over others when choosing to found a religion or to convert when they have multiple choices. Try using it to your advantage.</English>
+		<German>Vernachl&#228;ssigen Sie Ihre H&#252;tten nicht! Sie sind zwar klein, aber eines Tages werden Sie froh sein, dass Sie sie gebaut haben!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_18</Tag>
+		<English>Each religion except for Solar Cult also has a unique unit associated with it - for example, Judaism has diaspora merchants, that will help you earn that extra cash.</English>
+		<German>Sollten Sie die Chance haben, eine H&#252;tten-Modernisierung zu pl&#252;ndern, nutzen Sie sie! Schlie&#223;lich sparen Sie sich dadurch eine Menge Zeit f&#252;r die Modernisierung. Und das erbeutete Gold kann sich auch sehen lassen!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_19</Tag>
+		<English>Each religion except for Solar Cult also has a unique unit associated with it - for example, Zoroastrianism has dasturs that can generate culture in a target city.</English>
+		<German>Wollen Sie eine gewachsene Stadt erobern, brauchen Sie Belagerungswaffen. Mit diesen k&#246;nnen Sie die Verteidigungsstellungen zerst&#246;ren und die Verteidiger der Stadt zerm&#252;rben.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_20</Tag>
+		<English>Each religion except for Solar Cult also has a unique unit associated with it - for example, Hinduism has gurus, able to generate some production for a target city.</English>
+		<German>Nutzen Sie Ihre Fernwaffen! Zugegeben, Bogensch&#252;tzen und Langbogensch&#252;tzen sind keine perfekten Offensiveinheiten. Nach einigen klugen Bef&#246;rderungen machen sie ihre Sache in der Regel aber sehr gut.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_21</Tag>
+		<English>Each religion except for Solar Cult also has a unique unit associated with it - for example, Buddhism has Siddha monks that offer battlefield healing to other units; China and Japan also have unique versions of these with combat ability of their own.</English>
+		<German>Die Bef&#246;rderung "Flanke" n&#252;tzt Ihnen nur etwas, wenn Sie angreifen. Achten Sie also darauf, dass die entsprechenden Einheiten noch einen Fortbewegungspunkt f&#252;r einen geordneten R&#252;ckzug haben.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_22</Tag>
+		<English>Each religion except for Solar Cult also has a unique unit associated with it - for example, Christianity has crusaders, combat units that start with Holy War doctrine even if you don't have it; several civs also have their unique and slightly better crusader versions.</English>
+		<German>Weisen Sie jedem gr&#246;&#223;eren Truppenverband eine Einheit mit der Bef&#246;rderung "Sanit&#228;ter" zu. Die Boni werden nicht addiert, k&#246;nnen aber &#252;ber Sieg und Niederlage entscheiden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_23</Tag>
+		<English>Each religion except for Solar Cult also has a unique unit associated with it - for example, Islam has Mujahideen, powerful and quick cavalry units.</English>
+		<German>Kommen Sie nie mit einem Schwert zu einer Schie&#223;erei.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_24</Tag>
+		<English>Each religion except for Solar Cult also has a unique unit associated with it - for example, Taoism has chi savants that can bring additional happiness and health to a city.</English>
+		<German>Achten Sie auf Informationen &#252;ber neue Religionen und Wunder. So wissen Sie stets, wie fortschrittlich Ihre Gegner sind.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_25</Tag>
+		<English>Remember that Civil Religion and especially Militancy generate unrest from non-state religions present in the city. If you consider sticking to Militancy, you might want to use inquisitors to remove non-state religions from your cities.</English>
+		<German>Haben Sie eine Staatsreligion, sollten Sie daf&#252;r sorgen, dass diese in allen St&#228;dten Einzug h&#228;lt. &#220;berdies funktionieren religi&#246;se Staatsformen nur in St&#228;dten mit Staatsreligion.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_26</Tag>
+		<English>Provide adequate protection to your cities - a poorly garrisoned, and especially an unguarded city is an invitation for a surprise attack from your sneaky neighbors.</English>
+		<German>Offene Grenzen sind eine Einladung f&#252;r Ihre Missionare. Verbreiten Sie Ihre Staatsreligion und nutzen Sie Ihre neu gewonnenen Spionagem&#246;glichkeiten. Breitet sich Ihre Religion weit genug aus, nehmen Ihre Nachbarn diese m&#246;glicherweise an und st&#228;rken so die Beziehungen zu Ihrer Zivilisation.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_27</Tag>
+		<English>Realism: Invictus has many buildings, so consider whether a particular building will be useful for that particular city before starting construction - as building everything you possibly can is not a very good strategy.</English>
+		<German>Achten Sie darauf, dass Sie nur Geb&#228;ude errichten, die Ihre Stadt auch wirklich braucht. St&#228;dte, die nie Schauplatz eines Krieges sein werden, brauchen beispielsweise keine Mauern und Schl&#246;sser.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_28</Tag>
+		<English>Unlike vanilla Civ 4, you can build as many Limited Buildings (National Wonders) per city as you like - and there are many more to choose from.</English>
+		<German>Denken Sie daran, dass Sie in jeder Stadt nur zwei Nationale Wunder bauen k&#246;nnen. Planen Sie also voraus! Bauen Sie kein Helden- und Nationalepos, wenn Sie eines Tages die Eisenverarbeitung in einer Stadt etablieren m&#246;chten!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_29</Tag>
+		<English>Ministries are special National Wonders provided to ease the micromanagement - when built, each Ministry provides benefits of some early-game buildings to all your cities.</English>
+		<German>K&#228;mpfen Sie mit schwachen Einheiten gegen einen m&#228;chtigen Feind, ist die zahlenm&#228;&#223;ige &#220;berlegenheit Ihre einzige Chance. Sollte Ihr Gegner die Schlacht &#252;berleben, gewinnt er an Erfahrung und wird noch gef&#228;hrlicher!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_30</Tag>
+		<English>Several World Wonders can only be built under certain civics and will only provide benefits as long as you employ those civics. Examples include the Big Ben, the Colosseum and the Motherland Calls Statue.</English>
+		<German>Informieren Sie sich &#252;ber die resourcen Ihres Gegners. Hat er das Manhattan Project fertig gestellt, m&#252;ssen Sie unbedingt in Erfahrung bringen, ob er auch das f&#252;r den Bau von Atomwaffen erforderliche Uran besitzt!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_31</Tag>
+		<English>Some civics allow you to construct buildings that enhance their effects. You should remember, though, that most of them have drawbacks as well as benefits.</English>
+		<German>Schiffe mit Dieselantrieb sind deutlich effektiver als kohlebetriebene Panzerschiffe. Haben Sie als erste Zivilisation Zerst&#246;rer, sollten Sie mit diesen &#214;lquellen verteidigen, um Ihren Vorteil m&#246;glichst lange zu wahren!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_32</Tag>
+		<English>Irregular units, although relatively weak, require no resources to be trained and use excess food for production, like workers and settlers. They can be a boon to resource-poor, agricultural nations. Upgrading other units to irregulars, though, is a very poor idea.</English>
+		<German>W&#228;hrend der Ausbildung von Siedlern und Bautrupps w&#228;chst Ihre Bev&#246;lkerung nicht weiter. Lassen Sie Ihre St&#228;dte also wachsen, bevor Sie die genannten Einheiten ausbilden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_33</Tag>
+		<English>Slavery and Serfdom civics can lead to occasional revolts in your territory. This is not always bad, though - these rebel units can provide your military units with experience during peacetime (revolts can be turned off in Custom Game options).</English>
+		<German>Kriege werden nur selten an einem Tag gewonnen. Sind Sie nicht in der Lage, feindliche St&#228;dte zu erobern, sollten Sie stattdessen das Umland pl&#252;ndern. Vielleicht k&#246;nnen Sie Ihre Gegner auf diese Weise aus ihren Festungen locken. Abgesehen davon f&#252;hrt ein Zerm&#252;rbungskrieg oft ebenfalls zum Sieg.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_34</Tag>
+		<English>Doctrines are only powerful if you promote your units to take advantage of their benefits - but then, they can easily turn the tide of war.</English>
+		<German>Vermeiden Sie unbedingt Landkriege in Asien!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_35</Tag>
+		<English>Military traditions are especially worth investing into if you have a powerful unit belonging to that class. For example, Japanese samurai are even deadlier if you have Melee Tradition.</English>
+		<German>Snacks in Ma&#223;en sind gut!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_36</Tag>
+		<English>If playing with unit cost scaling (on by default), it might not be a good idea to upgrade regular units to irregular - while it is very cheap and might provide a stat increase, upgrading back from irregulars will be extremely costly.</English>
+		<German>Getreide, Vieh und Meeresfr&#252;chte sind wichtige resourcen, die die Ertr&#228;ge einer Stadt steigern. St&#228;dte mit direktem Zugriff auf zwei oder mehr Nahrungsquellen wachsen schneller!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_37</Tag>
+		<English>If playing with unit cost scaling (on by default), it might be a good idea to garrison your hinterland and less important cities with irregulars, otherwise the accumulated unit costs may spiral out of control.</English>
+		<German>Erforschen Sie Ihre Umgebung! Informieren Sie sich &#252;ber resourcen in Ihrer N&#228;he und planen Sie Ihre Forschung, um die resourcen m&#246;glichst schnell abbauen zu k&#246;nnen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_38</Tag>
+		<English>Barbarians may settle into a regular civ if their total numbers reach a critical mass. Such a civ might start disjointed and undeveloped, but it will have a strong starting bonus that may allow it to catch up quickly.</English>
+		<German>Ist ein Gegner f&#252;r einen offenen Angriff zu stark, ziehen Sie sich hinter Ihre Stadtmauern zur&#252;ck, um Zeit zu gewinnen. Bauen Sie nun Einheiten und w&#228;hlen Sie Bef&#246;rderungen, die Sie brauchen, um den Feind in die Knie zu zwingen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_39</Tag>
+		<English>Since espionage is a separatism deterrent, settling a Great Spy in an especially problematic city might be a good solution.</English>
+		<German>Die Gr&#246;&#223;e Ihres Reichs ist nicht entscheidend! Expandieren Sie zu stark, geraten Wirtschaft und Forschung ins Stocken. Gleichzeitig werden allerdings Bev&#246;lkerung und Produktion gr&#246;&#223;er.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_40</Tag>
+		<English>Elephants will frighten the horses of nearby enemy cavalry (and even other elephants), lessening their combat efficiency.</English>
+		<German>Hat eine Zivilisation keine W&#228;hrung, ist die Spezialisierung der Wirtschaft und die Unterst&#252;tzung des Wachstums nicht m&#246;glich.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_41</Tag>
+		<English>Under Free Religion you can construct religious communities, they allow the construction of representatives that can spread religion! Note that the ability to construct communities comes later in the tech tree than the civic itself.</English>
+		<German>Weltwunder haben einzigartige Vorteile und inspirieren Ihre Untertanen. Aus diesem Grund bringen St&#228;dte, in denen Sie Weltwunder oder Nationale Wunder errichten, mehr Gro&#223;e Pers&#246;nlichkeiten hervor.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_42</Tag>
+		<English>Some buildings will replace earlier ones when they become available; you will no longer be able to construct earlier buildings, but if you have built some before, they will stay and function until they are replaced by a more powerful building. Examples include, but are not limited to, bathhouses replaced by clinics and forges replaced by blast furnaces in turn replaced by ironworks (in the last case, blast furnace remains available to build, since the cost difference between it and ironworks is too high, and it might make sense for a new city to build a blast furnace first and upgrade it later).</English>
+		<German>Es gibt verschiedene M&#246;glichkeiten, Ihr Volk gl&#252;cklich zu machen: Religionen, Luxusg&#252;ter, Modernisierungen, bestimmte Staatsformen und ein hoher Kulturwert steigern die Zufriedenheit Ihrer Bev&#246;lkerung. Egal, was Sie tun: Vermeiden Sie es, Ihre Untertanen zu ver&#228;rgern!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_43</Tag>
+		<English>If you have a large separatism modifier (from war weariness and being ahead of others), it might make sense to divert part of your commerce to espionage.</English>
+		<German>Vernachl&#228;ssigen Sie Ihre Flotte nicht! Die Kontrolle der Meere kann vor allem in der Sp&#228;tphase des Spiels &#252;ber Sieg und Niederlage entscheiden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_44</Tag>
+		<English>If no more than half the starting amount of civs (rounded down) remain alive and independent, and one player is at least 50% ahead of everyone else in score, a powerful separatism reduction kicks in for everyone, increasing for each additional civ under that number. It may go away if the difference in score drops under 25% or the number of civs increases back over the limit.</English>
+		<German>Vernachl&#228;ssigen Sie Ihre Luftwaffe nicht! Schlie&#223;lich k&#246;nnen Sie feindliche Luftangriffe nur verhindern, wenn Sie selbst &#252;ber die Lufthoheit verf&#252;gen! Haben Sie kein &#214;l mehr, stecken Sie daher in ernsthaften Schwierigkeiten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_1</Tag>
+		<English>Each time you advance to a next art era, you get a +10% bonus to all generated culture and unlock 5 new Great Works to be constructed by your Great Artists.</English>
+		<German>Drehen Sie das Mausrad, um zu zoomen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_2</Tag>
+		<English>Each civ has one fixed option for the first spawned rebel civ, and three additional equally probable options after that.</English>
+		<German>Dr&#252;cken Sie [STRG + I], wenn Sie mit minimiertem Men&#252; spielen m&#246;chten. Mit [ALT-I] k&#246;nnen Sie das Men&#252; ausblenden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_3</Tag>
+		<English>Pressing Ctrl+Alt+O or pressing the briefcase button in the upper left corner of the main screen will allow you to customize the in-game interface!</English>
+		<German>Drehen Sie das Mausrad oder dr&#252;cken Sie [BILD AUF]/[BILD AB], um den Zoomfaktor der Kamera zu &#228;ndern.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_4</Tag>
+		<English>The number of unique National Units available to a civ is based on the era of their prerequisite tech and other National Units available to it.</English>
+		<German>Dr&#252;cken Sie [STRG + S], um das Spiel zu speichern. Mit [STRG + L] k&#246;nnen Sie ein gespeichertes Spiel laden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_5</Tag>
+		<English>Many siege units in Realism: Invictus cannot attack directly; instead, they use ranged bombardment ability to damage nearby enemy units. When attacked, however, they may defend normally.</English>
+		<German>Dr&#252;cken Sie [STRG + PFEIL LINKS] oder [STRG + RECHTS], um die Kamera in 45-Grad-Schritten zu drehen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_6</Tag>
+		<English>Founding more than one religion is generally not a very good idea - unless you plan on running Free Religion later on, and won't use Theocracy - or if you're desperate to deny its founding to your neighbors.</English>
+		<German>Doppelklicken Sie auf mehrere Einheiten, um diese zu gruppieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_7</Tag>
+		<English>Free Religion is excellent for civs that have many religions in their cities; conversely, Cult of Personality works best if there is only one (or better still, no religion at all - but that's very hard to achieve by the time it is available).</English>
+		<German>Halten Sie ALT gedr&#252;ckt und klicken Sie auf einen Stapel, um alle Einheiten auszuw&#228;hlen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_8</Tag>
+		<English>Sticking to Paganism for a while can be a good thing - doubly so if you have Stonehenge, Pyramids and/or Statue of Zeus.</English>
+		<German>Halten Sie STRG gedr&#252;ckt und klicken Sie auf einen Stapel, um alle Einheiten eines Typs auszuw&#228;hlen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_9</Tag>
+		<English>Don't fear to lag behind in techs for some time - with Tech Transfer and some friendly advanced civs, you can catch up pretty quickly.</English>
+		<German>Haben Sie mehrere Einheiten ausgew&#228;hlt, k&#246;nnen Sie der gesamten Gruppe Befehle erteilen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_10</Tag>
+		<English>Light cavalry is ideal for raiding enemy territory; it is also very good for picking off enemy units from a large stack in field.</English>
+		<German>Nach einem Rechtsklick auf ein Transportschiff gehen die Einheiten automatisch an Bord.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_11</Tag>
+		<English>City walls and other defensive buildings provide a large defensive bonus against cavalry, which is reduced in proportion to the buildings' health, down to zero when the city defense is reduced to zero.</English>
+		<German>Haben Sie ein Transportschiff ausgew&#228;hlt, gehen alle Einheiten nach einem Rechtsklick auf ein angrenzendes Gel&#228;ndefeld automatisch von Bord.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_12</Tag>
+		<English>Technological difference means a lot more for naval than for land units - both because modern ships have very large bonuses against outdated ones, and because there are fewer tactical defensive opportunities to exploit.</English>
+		<German>Dr&#252;cken Sie [F12], wenn Sie die Zivilop&#228;die &#246;ffnen m&#246;chten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_13</Tag>
+		<English>Railroads increase productiveness of some improvements.</English>
+		<German>Dr&#252;cken Sie [DRUCK], um einen Screenshot zu machen und unter "Civ4\Screenshots" zu speichern.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_14</Tag>
+		<English>Realism: Invictus comes with two World Maps and some scenarios specifically tailored for it, but is also designed to work well with random maps.</English>
+		<German>Dr&#252;cken Sie [ESC], um das Pausemen&#252; zu &#246;ffnen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_15</Tag>
+		<English>Realism: Invictus is incompatible with custom maps made for non-modded Civ 4 or other mods - several key resources might be missing. On the other hand, it is compatible with most custom map generation scripts out there.</English>
+		<German>Dr&#252;cken sie [STRG + O], um das Optionen-Men&#252; zu &#246;ffnen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_16</Tag>
+		<English>Realism: Invictus now comes with its own versions of PerfectWorld 3 and Totestra map scripts. They are specifically tailored to place all the terrain features and resources the mod has, to create random maps of the highest quality.</English>
+		<German>Dr&#252;cken Sie die mittlere Maustaste, um die Kamera &#252;ber der aktiven Einheit zu zentrieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_17</Tag>
+		<English>Light cavalry units can be very useful to fight off Slavery/Serfdom rebellions, forming a mobile strike force.</English>
+		<German>Dr&#252;cken Sie (nur im Einzelspieler-Modus) [UMSCHALTEN + F5], um das Spiel schnell zu speichern.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_18</Tag>
+		<English>Some random map generation scripts will not place scrublands, swamps and other RI-specific features on the map. Still, the mod is designed in such a way that maps without those features are also 100% playable.</English>
+		<German>Dr&#252;cken Sie (nur im Einzelspieler-Modus) [UMSCHALTEN + F8], um ein Spiel schnell zu laden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_19</Tag>
+		<English>Not all World Wonders are useful all the time; for example, you won't benefit from the Statue of Zeus if you plan on founding a religion shortly afterwards.</English>
+		<German>Dr&#252;cken Sie [P], um die Karte anzupingen und Ihren Teammitgliedern Informationen zu senden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_20</Tag>
+		<English>Since barbarians only spawn on tiles covered with fog of war, it is usually useful to "control the territory" by placing your units on critical observation points (hills, etc.) around your borders.</English>
+		<German>Dr&#252;cken Sie [STRG + Zahl], um der gew&#228;hlten Einheit die Zahl zuzuweisen. Beispiel: Dr&#252;cken Sie [STRG + 3] wird die entsprechende Einheit ausgew&#228;hlt, sobald Sie die 3 dr&#252;cken.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_21</Tag>
+		<English>"Avoid growth" button in the city screen can be your friend. Learn to use it! There are also some new buttons that can limit city growth to prevent it becoming unhappy or unhealthy.</English>
+		<German>Dr&#252;cken Sie im Stadt-Bildschirm [STRG + Zahl], um die Produktionsliste zu speichern. Dr&#252;cken Sie in einer beliebigen anderen Stadt die gew&#252;nschte Zifferntaste, wenn Sie die Produktionsliste laden m&#246;chten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_22</Tag>
+		<English>Arquebusiers, unlike archery units, don't have defensive bonuses outside cities, and should normally be supported by some melee unit, like pikemen.</English>
+		<German>Dr&#252;cken Sie [F11], um zur Welt-Ansicht zu wechseln.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_23</Tag>
+		<English>Slave farms when running slavery civic initially produce more food than regular ones, but they don't benefit from techs and so will grow obsolete over time.</English>
+		<German>Im Stadt-Bildschirm k&#246;nnen Sie mit [PFEIL LINKS] und [PFEIL RECHTS] durch Ihre St&#228;dte schalten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_24</Tag>
+		<English>Fortifications provide a city with a defensive bonus, but their main advantage is that they allow you to construct powerful and immobile emplaced artillery in that city.</English>
+		<German>Dr&#252;cken Sie [STRG + B], um die Kartenansicht zu aktivieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_25</Tag>
+		<English>Don't sell away resources you can use in converter buildings; if you have 3 copper resources, instead of selling two of them, you can build three bronze smiths and sell bronze.</English>
+		<German>Dr&#252;cken Sie [STRG + R], um in die resourcen-Ansicht zu wechseln.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_26</Tag>
+		<English>Most resources in Realism: Invictus don't provide direct health/happiness benefits directly when connected (unlike original Civ) - be sure to construct the buildings associated with them to reap the benefits.</English>
+		<German>Dr&#252;cken Sie [STRG + Y], um in die Eink&#252;nfte-Ansicht zu wechseln.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_27</Tag>
+		<English>Flood plains and jungle are "epidemic magnets". A city that has many such tiles in its radius will most likely suffer from frequent epidemics. Cut jungle early to lower the epidemic chances.</English>
+		<German>Dr&#252;cken Sie [STRG + A], um alle Einheiten mit einer Befehlsliste zu bewegen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_28</Tag>
+		<English>Did you know that you can get detailed rundown of the factors influencing your epidemic chances in a particular city from a drop-down tooltip when hovering your pointer over the epidemic chance?</English>
+		<German>Blenden Sie das Gel&#228;nderaster mit [STRG + T] ein/aus.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_29</Tag>
+		<English>Bronze and iron are not totally mutually interchangeable - for instance, you can neither build knights with bronze nor bombards with iron.</English>
+		<German>Dr&#252;cken Sie [ALT + Q], um das Spiel zu verlassen. Im Multiplayer-Modus &#252;bernimmt nun die KI die Kontrolle &#252;ber Ihre Zivilisation.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_30</Tag>
+		<English>Missionaries for early religions require later techs to be constructed. This means that they may not be available to you immediately after you founded that religion.</English>
+		<German>Dr&#252;cken Sie [PAUSE], um den Runden-Timer anzuhalten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_31</Tag>
+		<English>Many leaders have a favorite religion - they will likely try to found it, and will prefer it to all others, although not fanatically - if only a small fraction of their people follows it and/or if they have a Holy City of another religion, they are unlikely to adopt even their favorite religion.</English>
+		<German>Dr&#252;cken Sie im Multiplayer-Modus [UMSCHALTEN + TAB], um mit allen Anwesenden zu chatten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_32</Tag>
+		<English>Realism: Invictus was designed to be played at "Realistic" speed setting, but we have several other (faster and slower) speeds for your playing enjoyment.</English>
+		<German>Dr&#252;cken Sie im Multiplayer-Modus [ TAB ], um mit den Mitgliedern Ihres Teams zu chatten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_33</Tag>
+		<English>If you have any comments on your playing experience, either positive or negative, you can visit our subforum on CFC (https://forums.civfanatics.com/forums/civ4-realism-invictus.202/) and post your feedback. We love user feedback!</English>
+		<German>Rufen Sie mit [CTRL + W] den Weltenbauer auf.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_34</Tag>
+		<English>If you are familiar with SVN, you can always download yourself a latest internal build of our mod to play with (but please note that what you'll be getting isn't always going to behave nicely, since it is not a release). You can inquire on our forums where to get it!</English>
+		<German>Dr&#252;cken Sie [W] oder [EINGABETASTE], um durch Ihre aktiven Einheiten zu schalten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_35</Tag>
+		<English>Most flavor non-mechanical units for different civs are not just eyecandy, but also have different stats.</English>
+		<German>Dr&#252;cken Sie [/], um durch Ihre aktiven Bautrupps zu schalten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_36</Tag>
+		<English>If you like our mod and think you have some useful abilities (ranging from C++ coding to sound recording), by all means consider joining our team.</English>
+		<German>Dr&#252;cken Sie [KOMMA] und [PUNKT], um durch die Einheiten auf einem Gel&#228;ndefeld zu schalten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_37</Tag>
+		<English>If you have somehow improved your own version of our mod, don't think we'll be offended by that - on the contrary, we encourage such modifications; they can even inspire us to put them into the next official release.</English>
+		<German>Dr&#252;cken Sie [UMSCHALTEN + EINGABETASTE], um die aktuelle Runde zu beenden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_38</Tag>
+		<English>Currently, only English and German version of the mod are supported. If you are willing to translate it into any other language, this is great news!</English>
+		<German>Halten Sie ALT gedr&#252;ckt und bewegen Sie die Maus &#252;ber eine Position, um Ihre Chancen im Falle eines Angriffs zu betrachten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_39</Tag>
+		<English>You can use any part of Realism: Invictus in a mod of your own, should you like it. But be sure to let us know - it'll be very pleasant for us to see our work benefit the modding community.</English>
+		<German>M&#246;chten Sie Ihre Kampfchancen betrachten, halten Sie die rechte Maustaste &#252;ber dem gew&#252;nschten Gel&#228;ndefeld gedr&#252;ckt.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_40</Tag>
+		<English>If you think you should be specifically credited for something you made that has been included in our mod, just let us know. Realism: Invictus has been developed for such a long time that it's hard to keep track of every individual contribution - but that doesn't mean we don't appreciate them.</English>
+		<German>Dr&#252;cken Sie [POS1] und [ENDE], wenn Sie durch Ihre St&#228;dte schalten m&#246;chten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_41</Tag>
+		<English>If you feel offended by anything in this mod, be assured that we did not mean to discriminate against any culture, religion or ideological belief, so we feel deeply sorry for your inconveniece. Nevertheless, this is exactly the reason that we are unlikely to change anything in connection to this - simply because it wasn't meant to be offensive in the first place.</English>
+		<German>Halten Sie [STRG] gedr&#252;ckt, um am Anfang der Bauliste Ihrer Stadt weitere Objekte hinzuzuf&#252;gen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_42</Tag>
+		<English>Realism: Invictus mod is run on a strictly non-commercial basis, so we don't accept monetary contributions even if you wish to make one.</English>
+		<German>Halten Sie [ALT] gedr&#252;ckt, um das gew&#252;nschte Objekt unbegrenzt zu bauen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_43</Tag>
+		<English>Bear in mind that siege and armoured units can't take cities, even if there are no defenders left. You will have to use good old infantry for that purpose.</English>
+		<German>Dr&#252;cken Sie die Vorw&#228;rts-/R&#252;ckw&#228;rts-Tasten Ihrer Maus, um durch alle Einheiten auf einem Gel&#228;ndefeld zu schalten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_44</Tag>
+		<English>Under certain civics (Dictatorship and Planned Economy respectfully), dynamic flags for civs will display their respective fascist and communist symbolism where historically appropriate. If you'd rather not see it, play with dynamic flags turned off.</English>
+		<German>Halten Sie [STRG] gedr&#252;ckt und schalten Sie mit dem Mausrad durch alle Einheiten auf dem gew&#252;nschten Gel&#228;ndefeld.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_45</Tag>
+		<English>By selling/giving gunpowder or firearms resource to a civ that doesn't normally have the technology to produce them, you allow them to produce a limited amount of units that normally require those resources. These versions will not have any civ-specific bonuses.</English>
+		<German>Dr&#252;cken Sie [STRG + M], um die Musik ein- oder auszublenden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_46</Tag>
+		<English>Try not to have a significantly weaker military compared to your immediate neighbors, since it is a major factor for AI deciding to declare wars.</English>
+		<German>Per Rechtsklick schicken Sie Ihre Einheiten auf das gew&#252;nschte Gel&#228;ndefeld.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_47</Tag>
+		<English>Doctrines and traditions, especially early on, can bring up your military power, making you a less likely war target.</English>
+		<German>Mit [STRG + RECHTSKLICK] schicken Sie alle Einheiten eines Typs zum gew&#252;nschten Gel&#228;ndefeld.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_48</Tag>
+		<English>Separatism summary screen (accessed via a button in the upper left corner of the screen) not only displays an overview of unrest factors for all your cities, but also separatism modifiers that you have and distinctive rules of the current era.</English>
+		<German>Sie k&#246;nnen alle Einheiten eines Feldes mit [ALT + RECHTSKLICK] auf die gew&#252;nschte Position bewegen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_49</Tag>
+		<English>World Map advice: New World has no horses. If you start there, you will have to do without cavalry at least until Renaissance.</English>
+		<German>Dr&#252;cken Sie [G], um den "Gehe zu"-Modus zu aktivieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_50</Tag>
+		<English>Spy units stationed in your cities do not decrease separatism; the amount of espionage a city produces does.</English>
+		<German>Dr&#252;cken Sie [STRG + G], um den "Gehe zu"-Modus f&#252;r alle Einheiten eines Typs zu aktivieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_51</Tag>
+		<English>World Map advice: there are several special "minor" factions to represent peoples of America, Africa, Asia and Oceania. They start with many cities, but will advance in technology much slower than regular civs. They will likely refuse to trade with you, and will get very restless if you have borders close to theirs.</English>
+		<German>Dr&#252;cken Sie [ALT + G], um den "Gehe zu"-Modus f&#252;r alle Einheiten zu aktivieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_52</Tag>
+		<English>World Map advice: pre-placed barbarian ships mean that until you build a fleet of your own, your work boats will always be at risk.</English>
+		<German>Dr&#252;cken Sie [C], um die Kamera auf die aktive Einheit zu zentrieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_53</Tag>
+		<English>Serfdom makes your regular farms more effective, but this bonus does not affect mechanized farms once they become available.</English>
+		<German>Dr&#252;cken Sie [STRG + C], um alle Einheiten desselben Typs wie die aktive Einheit zu w&#228;hlen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_54</Tag>
+		<English>The "black terrain" problem seems to affect the Steam version of the game and has something to do with how Steam caches shaders. Try running your game with Steam closed (and choose the original BtS version in Steam betas).</English>
+		<German>Dr&#252;cken Sie [ALT + C], um die aktive Einheit und alle Einheiten auf demselben Feld auszuw&#228;hlen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_55</Tag>
+		<English>Good relations almost never give you a total guarantee of your neighbor's peaceful intentions. Certain leaders never attack civs they're friendly with, but most can still attack you if they think you're a tempting target.</English>
+		<German>Halten Sie [UMSCHALTEN] gedr&#252;ckt und klicken Sie auf die Stadt-Leiste, wenn Sie mehrere St&#228;dte ausw&#228;hlen m&#246;chten, um die Produktion in mehreren St&#228;dten gleichzeitig zu &#228;ndern. Mit [UMSCHALTEN + RECHTSKLICK] k&#246;nnen Sie Sammelpunkte bestimmen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_56</Tag>
+		<English>National Units are powerful and/or unconventional units that come in limited numbers. For example, Greek Hypaspists are specialized shock troops, very good at assaulting cities - but should be covered at all times, since they're very vulnerable to counterattacks.</English>
+		<German>Halten Sie [STRG] gedr&#252;ckt und klicken Sie auf die Stadt-Leiste, wenn Sie alle Ihre St&#228;dte des Kontinents ausw&#228;hlen m&#246;chten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_57</Tag>
+		<English>War elephants are more formidable in our mod than in vanilla civ. If you have access to elephants, build one, and you won't regret it. We even had to restrict their numbers!</English>
+		<German>Halten Sie [ALT] gedr&#252;ckt und klicken Sie auf die Stadt-Leiste, wenn Sie alle Ihre St&#228;dte weltweit ausw&#228;hlen m&#246;chten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_58</Tag>
+		<English>A successful separatist revolt reduces the war weariness of its parent civilization to 0.</English>
+		<German>Dr&#252;cken Sie die mittlere Maustaste, um den Stadt-Bildschirm zu verlassen ...</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_59</Tag>
+		<English>If you're running slavery, then there's a chance that you'll turn an enemy unit defeated in combat into a slave.</English>
+		<German>Dr&#252;cken Sie die UMSCHALT-Taste, um einer Einheit aufeinander folgende Befehle zu erteilen. So k&#246;nnen Sie beispielsweise einem Bautrupp befehlen, zun&#228;chst eine Stra&#223;e und anschlie&#223;end eine Mine zu bauen, indem Sie bei gedr&#252;ckter UMSCHALT-Taste beide Buttons anklicken ...</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_60</Tag>
+		<English>If you switch out of slavery, or if you captured enemy slaves while not running slavery, the slaves you have will, with equal probability, either turn to workers or disappear next turn.</English>
+		<German>Halten Sie die UMSCHALT-Taste gedr&#252;ckt und klicken Sie auf ein Gel&#228;ndefeld, um ein Kontextmen&#252; zu &#246;ffnen ...</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_61</Tag>
+		<English>Each religion has World Wonders associated with it, with different bonuses. You have to adopt this religion as your State Religion to build such a wonder.</English>
+		<German>Nutzen Sie die Pfeiltasten im ZIFFERNBLOCK, um bei ge&#246;ffnetem Stadt-Bildschirm zwischen den einzelnen St&#228;dten zu wechseln ...</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_62</Tag>
+		<English>People's standards are rising with time - each new Era will lower the base happiness of your cities, as people start demanding more bread and circuses. Tooltips for techs include their eras, so you can plan when to make your next step.</English>
+		<German>Dr&#252;cken Sie [#], um zur letzten gew&#228;hlten Einheit zu springen ...</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_63</Tag>
+		<English>Missionaries for early religions aren't available the moment that religion is founded and only arrive with later techs.</English>
+		<German>Dr&#252;cken Sie [STRG + TAB], um das Rundenereignis-Log aufzurufen ...</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_64</Tag>
+		<English>Realism: Invictus comes with several bundled random map scripts, but you can also use standard ones or many non-mod-specific user-made scripts available on CFC, like Tectonics or New World.</English>
+		<German>Dr&#252;cken Sie [STRG + H], um alle verwundeten Einheiten auf einem Gel&#228;ndefeld zu markieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_65</Tag>
+		<English>Crusades scenario tip: most civs have one or more "nemesis". Your relations with your nemesis have a permanent significant malus that will never go away.</English>
+		<German>&#214;ffnen Sie den Bildschirm "Siegbedingungen" und w&#228;hlen Sie unter "Weltraumrennen" den Eintrag "Ansicht", um Ihr Raumschiff zu betrachten. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_66</Tag>
+		<English>Press [ALT + S] to add a sign to the map that you and your teammates can see...</English>
+		<German>Dr&#252;cken Sie [ALT + S], um ein Zeichen auf der Karte zu platzieren, das nur Sie und Ihre Teammitglieder sehen k&#246;nnen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_67</Tag>
+		<English>Press [CTRL + H] to select all wounded units in a tile.</English>
+		<German>Dr&#252;cken Sie [STRG + H], um alle verwundeten Einheiten auf einem Gel&#228;ndefeld zu markieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_68</Tag>
+		<English>You may view your Spaceship by going to the "Victory Conditions" screen and selecting "View" under "Space Race." </English>
+		<German>&#214;ffnen Sie den Bildschirm "Siegbedingungen" und w&#228;hlen Sie unter "Weltraumrennen" den Eintrag "Ansicht", um Ihr Raumschiff zu betrachten. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_INTERFACE_69</Tag>
+		<English>Double clicking on a stack of units will wake them all up.</English>
+		<German>Double clicking on a stack of units will wake them all up.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_45</Tag>
+		<English>Corporations were cut from Realism: Invictus altogether. They don't really match our own designs for Industrial and Modern eras.</English>
+		<German>Wenn Sie eine Kapitalgesellschaft expandieren wollen, stellen Sie sicher, dass die Stadt, in der sie angesiedelt werden soll, die passenden resourcen besitzt und hinreichend Gold f&#252;r die Finanzierung der Expansion in Ihrer Schatzkammer bereitsteht. Beachten Sie, dass die Etablierung einer Kapitalgesellschaft in einer fremden Stadt deutlich teurer ist als die Ansiedelung in einer eigenen Stadt. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_46</Tag>
+		<English>Events can be disabled by starting a "Custom Game" and selecting "No Random Events" from the Options list.</English>
+		<German>Ereignisse k&#246;nnen nach dem Start eines "Eigenen Spiels" durch Auswahl der Option "Keine Zufallsereignisse" deaktiviert werden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_47</Tag>
+		<English>Stacks of many different units are almost always preferable to stacks of units of a single type, at least due to various stack aid bonuses such a stack gets.</English>
+		<German>Greifen Sie eine Stadt niemals ausschlie&#223;lich mit Belagerungswaffen an! Sie m&#246;gen die beste Wahl sein, wenn es darum geht, einer gro&#223;en Zahl feindlicher Einheiten Schaden zuzuf&#252;gen, aber sobald sie ihren maximalen Schadenswert erreicht haben, k&#246;nnen sie keine weiteren Angriffe mehr ausf&#252;hren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_48</Tag>
+		<English>Crusades scenario tip: if you choose to play as either of Chinas, you should keep in mind that Mongols will likely target you first - and you better be ready when they come.</English>
+		<German>Wollten Sie schon immer mal ein Spiel als Kaiser Gandhi von den Mongolen spielen? Starten Sie ein "Eigenes Spiel" und w&#228;hlen Sie die Option "Beliebige Staatsoberh&#228;upter", um ein beliebiges Staatsoberhaupt f&#252;r eine beliebig gew&#228;hlte Zivilisation zu bestimmen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_49</Tag>
+		<English>Orthodox Christianity is only available in the Crusades and the Deluge scenarios in Realism: Invictus 3.6; there is no way to found it in other scenarios or on random maps.</English>
+		<German>Setzen Sie Ihre Spionagepunkte im Spionagebildschirm [STRG + E] ein. Wenn Sie gen&#252;gend SP gegen eine feindliche Zivilisation ansammeln, k&#246;nnen Sie in Erfahrung bringen, was dort gegenw&#228;rtig erforscht wird, was in und um deren St&#228;dte passiert, sowie gegen diese Nation gerichtete Spionagemissionen ausf&#252;hren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_50</Tag>
+		<English>The Jail, Palace, Tavern and Castle, as well as several pagan temples, increase the number of Espionage Points the player will receive each turn.</English>
+		<German>Das Gerichtsgeb&#228;ude, das Gef&#228;ngnis, der Palast und das Schloss erh&#246;hen die Anzahl der Spionagepunkte, die der Besitzer in jeder Runde erh&#228;lt.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_51</Tag>
+		<English>Ranged bombardment is only used by land units; naval units with major firepower (like battleships) instead generate a passive detriment on adjacent squares, thus indirectly supporting other friendly units.</English>
+		<German>Gut Ding will Weile haben - das gilt auch f&#252;r Spione. Wenn Sie einen Spion auf einem Gel&#228;ndefeld belassen, reduziert dies die Kosten f&#252;r alle Spionagemissionen, die Sie gegen Objekte auf diesem Gel&#228;ndefeld ausf&#252;hren. Dementsprechend werden Missionen, die Sie in einer feindlichen Stadt durchf&#252;hren, ebenfalls erheblich preiswerter, wenn Sie Ihren Spion dort stationiert lassen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_52</Tag>
+		<English>Great Shrines in Realism Invictus no longer provide +1 gold per city following a religion. Instead they provide gold based on the percentage of world population that follows said religion, based on the map size, but roughly 1 gold per 2-3%.</English>
+		<German>Wenn Sie mehr Spionagepunkte als eine gegnerische Zivilisation einsetzen, sinken die Kosten f&#252;r die Durchf&#252;hrung Ihrer Missionen gegen diese Nation. Jeder Punkt, den Sie im Laufe des Spiels einsetzen, wird in der Gesamtsumme addiert. Wenn Sie also feststellen, dass ein erbitterter Rivale mehr Spionagepunkte investiert als Sie selbst, w&#228;re es klug, Ihre eigenen Spionageinvestitionen zu erh&#246;hen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_53</Tag>
+		<English>Important strategic resources like coal and sulfur are revealed much earlier than they really become needed. This gives you the time to secure yourself a source or two. Or all of them...</English>
+		<German>Im Verteidigungsfall sollten Sie Ihre J&#228;ger und D&#252;senj&#228;ger anweisen, Abfangmissionen durchzuf&#252;hren, sofern keine anderen Missionen anstehen. Daraufhin werden sie den Luftraum gegen feindliche Lufteinheiten verteidigen und auf diese Weise gleichzeitig wertvolle Erfahrungspunkte sammeln.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_54</Tag>
+		<English>First strikes can be vital for your ability to damage strong enemy defenders during a siege. The more first strikes a defending unit has, the more chance it has to survive the combat unscathed.</English>
+		<German>Wenn Sie Ihre Unterhaltskosten f&#252;r St&#228;dte senken wollen, k&#246;nnen Sie beispielsweise Ihre eigenen St&#228;dte auf entfernten Kontinenten in Kolonien umwandeln. &#214;ffnen Sie dazu den Inlandsberater und klicken Sie auf den Kolonie-Button.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_56</Tag>
+		<English>Trade routes are even more profitable in Realism: Invictus. Choose your trade partners carefully, as they will also benefit from trade with you.</English>
+		<German>Interkontinentale Handelswege erwirtschaften nun mehr Gold als normale Handelswege. Errichten Sie f&#252;r zus&#228;tzliche Einnahmen ein Zollamt.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_58</Tag>
+		<English>Each civ now needs to expend one Great Scientist or Great Engineer to create its own nuclear weaponry. Becoming a nuclear power is now harder!</English>
+		<German>Dieses Spiel gilt mit der Ankunft eines Raumschiffs auf Alpha Centauri als gewonnen und nicht mit dem Start des Raumschiffs. Je mehr Motoren und Triebwerke Sie bauen, desto schneller wird das Raumschiff ankommen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_59</Tag>
+		<English>Remember, all the loading screen tips can be viewed in Pedia at any time!</English>
+		<German>Lesen Sie die "Beyond The Sword-Konzepte" in der Zivilop&#228;die, um sich mit allen &#196;nderungen in diesem Expansion Pack vertraut zu machen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_60</Tag>
+		<English>City interface has three new buttons that allow you to automatically stop city growth before it becomes unhappy, unhealthy or too prone to epidemics.</English>
+		<German>Eine von einem Kriegsherrn angef&#252;hrte Einheit kann die "Sanit&#228;ter III"-Bef&#246;rderung erhalten und Ihnen damit einen Vorteil beim Vorsto&#223; in feindliches Territorium verschaffen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_61</Tag>
+		<English>Even the smallest bonuses, like 5%, can have a very significant impact on your victory odds if the combat is almost evenly matched. Keep that in mind!</English>
+		<German>Ihre J&#228;ger k&#246;nnen in jeder Runde mehrere feindliche Lufteinheiten abfangen, Ihre Schlagkraft sinkt allerdings, wenn sie besch&#228;digt werden. Sie sollten Ihre defensiven Lufteinheiten daher stets reparieren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_62</Tag>
+		<English>If you know too many civs to fit on your scoreboard, you can tweak its vertical spacing in Interface Options Menu!</English>
+		<German>Nutzen Sie die Tarnung Ihrer U-Boote und ihre F&#228;higkeit, konventionelle und taktische Atomraketen zu bef&#246;rdern, um vernichtende Startoffensiven auf gegnerische Landmassen auszuf&#252;hren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_63</Tag>
+		<English>Civil Service is a very useful civic to build a mid-game colonial empire. Bring an official with you when you found a new city far away, and you can instantly reduce its maintenance costs!</English>
+		<German>Behalten Sie zum Zweck der Gegenspionage einige Spione innerhalb Ihrer Grenzen. Feindliche Spione k&#246;nnen verheerende Sch&#228;den anrichten!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_64</Tag>
+		<English>If you don't immediately need some tech, it is a good idea to wait for many other friendly civs to research it first, since then it will cost much less for you to research it.</English>
+		<German>Knapp bei Kasse? Dann senden Sie Ihre Spione aus, um die benachbarten Zivilisationen zu bestehlen!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_65</Tag>
+		<English>Large siege units, like Great Bombard and Russian Gulyay-Gorod, can't pass through forests and jungle!</English>
+		<German>Berittene Einheiten verursachen Flankensch&#228;den an bestimmten Belagerungseinheiten. Zum Beispiel werden alle in einem Verband organisierten feindlichen Kanonen besch&#228;digt, wenn eine angreifende Kavallerieeinheit das Gefecht &#252;berlebt!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_66</Tag>
+		<English>The cost to produce units increases (unless the appropriate game option is turned off) the more units of a certain role you have. This increase does not affect the cost of upgrading a unit to another unit of the same role.</English>
+		<German>Wenn Sie mehr Spionagepunkte als eine gegnerische Zivilisation einsetzen, sinken die Kosten f&#252;r die Durchf&#252;hrung Ihrer Missionen gegen diese Nation. Jeder Punkt, den Sie im Laufe des Spiels einsetzen, wird in der Gesamtsumme addiert. Wenn Sie also feststellen, dass ein erbitterter Rivale mehr Spionagepunkte investiert als Sie selbst, w&#228;re es klug, Ihre eigenen Spionageinvestitionen zu erh&#246;hen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_67</Tag>
+		<English>Barbarians will not spawn within two steps of any player's units or any area visible to any player. With careful positioning of scouts you can completely block barbarian raiding parties from forming in your area.</English>
+		<German>Barbaren k&#246;nnen auf allen vom Nebel des Krieges verh&#252;llten Gel&#228;ndefeldern lauern. Gehen Sie also nie davon aus, dass ein Feld, das Sie nicht sehen k&#246;nnen, sicher ist ... auch wenn Sie es in der vorherigen Runde &#252;berpr&#252;ft haben!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_68</Tag>
+		<English>A city that is experiencing riots will have a separatism icon on its billboad; a city that can has enough separatism to start rioting will have the symbol on an orange background, and a city that can join ongoing rebellions will have yellow.</English>
+		<German>Zufallsereignisse hängen davon ab, was innerhalb Ihrer Zivilisation geschieht. Wenn Sie alle möglichen Ereignisse erleben wollen, müssen Sie zahlreiche Spiele mit unterschiedlichen Ansätzen und Strategien spielen: Krieg und Frieden, unterschiedliche religiöse Ansätze, Technologiewege, Staatsformen und vieles mehr!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_69</Tag>
+		<English>You may be wise to keep some reserve gold in your treasury. You never know when your savings may help mitigate the effects of a disastrous event or grant you access to additional opportunities when a positive event rolls around.</English>
+		<German>Es wäre klug, ein paar Goldreserven in der Schatzkammer zu belassen. Man weiß nie, wann das Ersparte dabei helfen könnte, die Auswirkungen eines verheerenden Ereignisses zu mildern, oder Ihnen zusätzliche Möglichkeiten bei einem positiven Ereignis verschafft.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_70</Tag>
+		<English>Founding a new religion sends out a "religious shock", where the cities close to its founding place lose their previous religions (this feature can be turned off in Custom Game options).</English>
+		<German>Founding a new religion sends out a "religious shock", where the cities close to its founding place lose their previous religions (unless that feature is turned off in custom game options).</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_71</Tag>
+		<English>While you can't directly increase separatism in enemy cities, all spy actions that increase their unhappiness or unhealth bring along the hefty separatism increase from those factors.</English>
+		<German>After they accumulate a certain amount of cities and population, barbarians can settle down, creating a new civilization (unless that feature has been turned off in the game options).</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_72</Tag>
+		<English>Tech costs increase linearly with the number of cities you have. The exact increase per city depends on the size of the map (this feature can be turned off in Custom Game options).</English>
+		<German>Tech costs increase with the number of cities you have. The exact increase per city depends on the size of the map.</German>
+	</TEXT>
+</Civ4GameText>

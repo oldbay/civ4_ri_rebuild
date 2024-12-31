@@ -1,0 +1,96 @@
+<!-- Metric Schema -->
+<Schema xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+	<ElementType name="MetricClass" content="textOnly"/>
+	<ElementType name="Type" content="textOnly"/>
+	<ElementType name="Description" content="textOnly"/>
+	<ElementType name="GameEvent" content="textOnly"/>
+	<ElementType name="GameEventContext" content="textOnly"/>
+	<ElementType name="MetricType" content="textOnly"/>
+	<ElementType name="ContributionType" content="textOnly"/>
+	<ElementType name="iAmount" content="textOnly" dt:type="int"/>
+	<ElementType name="iSpeedModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iHandicapModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="TechType" content="textOnly"/>
+	<ElementType name="PrereqAndTechs" content="eltOnly">
+		<element type="TechType" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="ObsoleteTechs" content="eltOnly">
+		<element type="TechType" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="CivicType" content="textOnly"/>
+	<ElementType name="PrereqAndCivics" content="eltOnly">
+		<element type="CivicType" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="ObsoleteCivics" content="eltOnly">
+		<element type="CivicType" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="MinEra" content="textOnly"/>
+	<ElementType name="MaxEra" content="textOnly"/>
+	<ElementType name="iMinPopulation" content="textOnly" dt:type="int"/>
+	<ElementType name="iMaxPopulation" content="textOnly" dt:type="int"/>
+	<ElementType name="iMinPowerRatioTimes100" content="textOnly" dt:type="int"/>
+	<ElementType name="iMaxPowerRatioTimes100" content="textOnly" dt:type="int"/>
+	<ElementType name="MetricChange" content="eltOnly">
+		<element type="MetricType"/>
+		<element type="ContributionType"/>
+		<element type="iAmount"/>
+		<element type="iSpeedModifier"/>
+		<element type="iHandicapModifier"/>
+	</ElementType>
+	<ElementType name="MetricChanges" content="eltOnly">
+		<element type="MetricChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<!--
+	<ElementType name="DecayType" content="textOnly"/>
+	<ElementType name="iDecay" content="textOnly" dt:type="int"/>
+	<ElementType name="MetricDecayRate" content="eltOnly">
+		<element type="DecayType"/>
+		<element type="iDecay"/>
+	</ElementType>
+	<ElementType name="MetricDecayRates" content="eltOnly">
+		<element type="MetricDecayRate" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	-->
+	<ElementType name="MetricInfo" content="eltOnly">
+		<element type="MetricClass"/>
+		<element type="Type"/>
+		<element type="Description"/>
+		<!--<element type="MetricDecayRates"/>-->
+	</ElementType>
+	<ElementType name="MetricInfos" content="eltOnly">
+		<element type="MetricInfo" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="Civ4MetricInfos" content="eltOnly">
+		<element type="MetricInfos" minOccurs="1" maxOccurs="1"/>
+	</ElementType>
+	<ElementType name="MetricClassInfo" content="eltOnly">
+		<element type="Type"/>
+		<element type="Description"/>
+	</ElementType>
+	<ElementType name="MetricClassInfos" content="eltOnly">
+		<element type="MetricClassInfo" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="Civ4MetricClassInfos" content="eltOnly">
+		<element type="MetricClassInfos" minOccurs="1" maxOccurs="1"/>
+	</ElementType>
+	<ElementType name="MetricFactorInfo" content="eltOnly">
+		<element type="Type"/>
+		<element type="GameEvent"/>
+		<element type="GameEventContext"/>
+		<element type="PrereqAndTechs"/>
+		<element type="PrereqAndCivics"/>
+		<element type="ObsoleteTechs"/>
+		<element type="ObsoleteCivics"/>
+		<element type="MinEra"/>
+		<element type="MaxEra"/>
+		<element type="iMinPopulation"/>
+		<element type="iMaxPopulation"/>
+		<element type="MetricChanges"/>
+	</ElementType>
+	<ElementType name="MetricFactorInfos" content="eltOnly">
+		<element type="MetricFactorInfo" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="Civ4MetricFactorInfos" content="eltOnly">
+		<element type="MetricFactorInfos" minOccurs="1" maxOccurs="1"/>
+	</ElementType>
+</Schema>

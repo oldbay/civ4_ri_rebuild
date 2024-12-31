@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Roles -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_DEFENSIVE</Tag>
+		<English>Defense</English>
+		<French>no translation</French>
+		<German>Verteidigung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_RANGED</Tag>
+		<English>Ranged Support</English>
+		<French>no translation</French>
+		<German>Fernkampfunterstützung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_OFFENSIVE</Tag>
+		<English>Shock</English>
+		<French>no translation</French>
+		<German>Schock</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_HEAVY</Tag>
+		<English>Heavy Infantry</English>
+		<French>no translation</French>
+		<German>Schwere Infanterie</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_RECON</Tag>
+		<English>Recon</English>
+		<French>no translation</French>
+		<German>Aufklärung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_IRREGULAR</Tag>
+		<English>Irregulars</English>
+		<French>no translation</French>
+		<German>Irreguläre</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_LIGHT_CAVALRY</Tag>
+		<English>Flanking</English>
+		<French>no translation</French>
+		<German>Flanken</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_HEAVY_CAVALRY</Tag>
+		<English>Breakthrough</English>
+		<French>no translation</French>
+		<German>Durchbruch</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_ARTILLERY</Tag>
+		<English>Artillery</English>
+		<French>no translation</French>
+		<German>Artillerie</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_HELICOPTER</Tag>
+		<English>Helicopter</English>
+		<French>no translation</French>
+		<German>Helikopter</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_FIGHTER</Tag>
+		<English>Air Superiority</English>
+		<French>no translation</French>
+		<German>Lufthoheit</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_BOMBER</Tag>
+		<English>Bombing</English>
+		<French>no translation</French>
+		<German>Bombardierung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_STRATEGIC</Tag>
+		<English>Strategic Bombardment</English>
+		<French>no translation</French>
+		<German>Strategische Bombardierung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_TACTICAL</Tag>
+		<English>Ground Support</English>
+		<French>no translation</French>
+		<German>Bodenunterstützung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_ARMORED</Tag>
+		<English>Armored</English>
+		<French>no translation</French>
+		<German>Gepanzert</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_ANTITANK</Tag>
+		<English>Anti-Tank</English>
+		<French>no translation</French>
+		<German>Panzerabwehr</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_MOUNTED</Tag>
+		<English>Mobile</English>
+		<French>no translation</French>
+		<German>Mobile</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_EMPLACED</Tag>
+		<English>Emplaced Defenses</English>
+		<French>no translation</French>
+		<German>Eingebettete Verteidigung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_POINT_DEFENSE</Tag>
+		<English>Point Defense</English>
+		<French>no translation</French>
+		<German>Punkt Verteidigung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_SEA_TRANSPORT</Tag>
+		<English>Naval Transport</English>
+		<French>no translation</French>
+		<German>Seetransport</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_SEA_LIGHT</Tag>
+		<English>Naval Scouting</English>
+		<French>no translation</French>
+		<German>Seeerkundung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_SEA_MEDIUM</Tag>
+		<English>Blue Water Navy</English>
+		<French>no translation</French>
+		<German>Blaues Wasser Marine</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_SEA_HEAVY</Tag>
+		<English>Naval Superiority</English>
+		<French>no translation</French>
+		<German>Marine Überlegenheit</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_SEA_COASTAL</Tag>
+		<English>Sealane Protection</English>
+		<French>no translation</French>
+		<German>Dichte Verteidigung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_SEA_SUB</Tag>
+		<English>Submarine</English>
+		<French>no translation</French>
+		<German>U-Boot</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_SEA_CARRIER</Tag>
+		<English>Power Projection</English>
+		<French>no translation</French>
+		<German>Leistungsprojektion</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_SEA_PIRATE</Tag>
+		<English>Commerce Raiding</English>
+		<French>no translation</French>
+		<German>Handelsräuber</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITROLE_ANTIAIR</Tag>
+		<English>Air Defense</English>
+		<French>no translation</French>
+		<German>Luftverteidigung</German>
+		<Italian>no translation</Italian>
+		<Spanish>no translation</Spanish>
+	</TEXT>
+</Civ4GameText>

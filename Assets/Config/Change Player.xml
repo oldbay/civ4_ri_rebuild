@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	ChangePlayer
+	Originally by jdog5000
+  Converted to BUG module by Josh Sjoding
+-->
+<mod id="ChangePlayer" 
+	 name="Change Player" 
+	 author="jdog5000" 
+	 version="2.0" 
+	 date="12/18/2009">
+
+  <events module="ChangePlayer" />
+</mod>

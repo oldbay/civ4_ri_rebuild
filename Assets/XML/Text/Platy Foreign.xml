@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_ATTITUDE_PROABILITY</Tag>
+		<English>[NEWLINE][ICON_BULLET]%s1: %d2%%</English>
+		<French>[NEWLINE][ICON_BULLET]%s1: %d2%%</French>
+		<German>[NEWLINE][ICON_BULLET]%s1: %d2%%</German>
+		<Italian>[NEWLINE][ICON_BULLET]%s1: %d2%%</Italian>
+		<Spanish>[NEWLINE][ICON_BULLET]%s1: %d2%%</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NO_WAR_PROBABILITY</Tag>
+		<English>[NEWLINE]No War Probability:</English>
+		<French>[NEWLINE]No War Probability:</French>
+		<German>[NEWLINE]Keine Kriegswahrscheinlichkeit:</German>
+		<Italian>[NEWLINE]No War Probability:</Italian>
+		<Spanish>[NEWLINE]No War Probability:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DECLARE_WAR_THEM_THRESHOLD</Tag>
+		<English>[NEWLINE]Declare War Them Threshold: %s1</English>
+		<French>[NEWLINE]Declare War Them Threshold: %s1</French>
+		<German>[NEWLINE]Ihre Kriegsschwelle deklarieren: %s1</German>
+		<Italian>[NEWLINE]Declare War Them Threshold: %s1</Italian>
+		<Spanish>[NEWLINE]Declare War Them Threshold: %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DECLARE_WAR_THRESHOLD</Tag>
+		<English>[NEWLINE]Declare War Threshold: %s1</English>
+		<French>[NEWLINE]Declare War Threshold: %s1</French>
+		<German>[NEWLINE]Kriegsschwelle deklarieren: %s1</German>
+		<Italian>[NEWLINE]Declare War Threshold: %s1</Italian>
+		<Spanish>[NEWLINE]Declare War Threshold: %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_PEDIA_GENERAL</Tag>
+		<English>General</English>
+		<French>General</French>
+		<German>General</German>
+		<Italian>General</Italian>
+		<Spanish>General</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ALL</Tag>
+		<English>All</English>
+		<French>All</French>
+		<German>Alle</German>
+		<Italian>All</Italian>
+		<Spanish>All</Spanish>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HIDE_TEAM</Tag>
+		<English>Hide Team Members</English>
+		<French>Hide Team Members</French>
+		<German>Team-Mitglied ausblenden</German>
+		<Italian>Hide Team Members</Italian>
+		<Spanish>Hide Team Members</Spanish>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HIDE_VASSALS</Tag>
+		<English>Hide Vassals</English>
+		<French>Hide Vassals</French>
+		<German>Vasallen ausblenden</German>
+		<Italian>Hide Vassals</Italian>
+		<Spanish>Hide Vassals</Spanish>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_FAVOURITES</Tag>
+		<English>Favourites</English>
+		<French>Favourites</French>
+		<German>Favoriten</German>
+		<Italian>Favourites</Italian>
+		<Spanish>Favourites</Spanish>
+		</TEXT>
+</Civ4GameText>

@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <!-- BEGIN: UNITCLASS_HORSE_ARCHER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_ARMENIA</Tag>
+		<English>Horse Archer (Ayrudzi Netadzik)</English>
+		<German>
+			<Text>Kaukasischer berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_BARBARIAN</Tag>
+		<English>Horse Archer (Mounted Bowman)</English>
+		<German>
+			<Text>Wilder berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_CHINA</Tag>
+		<English>Horse Archer (Han)</English>
+		<German>
+			<Text>Berittener Han-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_EGYPTIAN</Tag>
+		<English>Horse Archer (Egyptian)</English>
+		<German>
+			<Text>&#196;gyptischer berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_HUN</Tag>
+		<English>Horse Archer (Nomadic)</English>
+		<German>
+			<Text>Nomadischer berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_JAPAN</Tag>
+		<English>Horse Archer (Heian)</English>
+		<German>
+			<Text>Berittener Heian-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_KOREA</Tag>
+		<English>Horse Archer (Choson)</English>
+		<German>
+			<Text>Berittener Joseon-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_LITHUANIA</Tag>
+		<English>Horse Archer (Baltic)</English>
+		<German>
+			<Text>Berittener Baltischer-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_MALI</Tag>
+		<English>Horse Archer (Bambara)</English>
+		<German>
+			<Text>Berittener Bambara-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_MONGOL</Tag>
+		<English>Horse Archer (Keshik)</English>
+		<German>
+			<Text>Kheshig-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_NATIVE_NORTH</Tag>
+		<English>Horse Archer (Tribal)</English>
+		<German>
+			<Text>Berittener Stammesbogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_OTTOMAN</Tag>
+		<English>Horse Archer (Seljuk)</English>
+		<German>
+			<Text>Seldschukischer berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_PERSIA</Tag>
+		<English>Horse Archer (Parthian)</English>
+		<German>
+			<Text>Parthischer berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_PONTUS</Tag>
+		<English>Horse Archer (Steppe)</English>
+		<German>
+			<Text>Berittener Steppenbogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_RUSSIAN</Tag>
+		<English>Horse Archer (Vsadnik)</English>
+		<German>
+			<Text>Vsadnik</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_TARTAR</Tag>
+		<English>Horse Archer (Bulgar)</English>
+		<German>
+			<Text>Bulgarischer berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSE_ARCHER_TRANSOXIANA</Tag>
+		<English>Horse Archer (Parthian)</English>
+		<German>
+			<Text>Parthischer berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PERSIAN_UNIT_HORSE_ARCHER</Tag>
+		<English>Horse Archer (Horse Archer)</English>
+		<German>
+			<Text>Berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_HORSE_ARCHER -->
+  <!-- BEGIN: UNITCLASS_HORSEMAN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN</Tag>
+		<English>Horseman</English>
+		<German>
+			<Text>Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_AMERICA</Tag>
+		<English>Horseman (Skirmisher)</English>
+		<German>
+			<Text>Gepl&#228;nkel-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_FILIPINO</Tag>
+		<English>Horseman (Luzon)</English>
+		<German>
+			<Text>Luzon-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_AUSTRIA</Tag>
+		<English>Horseman (Bavarian)</English>
+		<German>
+			<Text>Bayerischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_AUSTRONESIA</Tag>
+		<English>Horseman (Orang Laut)</English>
+		<German>
+			<Text>Orang Laut-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_AZTEC</Tag>
+		<English>Horseman (Telpochcalli)</English>
+		<German>
+			<Text>Telpochcalli-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_BABYLON</Tag>
+		<English>Horseman (Neo Babylonian)</English>
+		<German>
+			<Text>Neubabylonischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_BANTU</Tag>
+		<English>Horseman (Luba)</English>
+		<German>
+			<Text>Luba-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_BERBER</Tag>
+		<English>Horseman (Numidian)</English>
+		<German>
+			<Text>Numidischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_CARTHAGE</Tag>
+		<English>Horseman (Punic)</English>
+		<German>
+			<Text>Punischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_CELT</Tag>
+		<English>Horseman (Pict)</English>
+		<German>
+			<Text>Piktischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_CHINA</Tag>
+		<English>Horseman (Han)</English>
+		<German>
+			<Text>Han-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_DRAVIDIA</Tag>
+		<English>Horseman (Tamil)</English>
+		<German>
+			<Text>Tamilischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_DUTCH</Tag>
+		<English>Horseman (Taramannos)</English>
+		<German>
+			<Text>Taramannos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_ENGLAND</Tag>
+		<English>Horseman (Ridwiga)</English>
+		<German>
+			<Text>Ridwiga</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_ETHIOPIA</Tag>
+		<English>Horseman (Axumite)</English>
+		<German>
+			<Text>Aksumitischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_FRANCE</Tag>
+		<English>Horseman (Frankish)</English>
+		<German>
+			<Text>Franz&#246;sischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_GERMAN</Tag>
+		<English>Horseman (Alemannic)</English>
+		<German>
+			<Text>Alemannischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_GREECE</Tag>
+		<English>Horseman (Prodromoi)</English>
+		<German>
+			<Text>Prodromoi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_INCA</Tag>
+		<English>Horseman (Quechua)</English>
+		<German>
+			<Text>Quechua-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_INDIA</Tag>
+		<English>Horseman (Harrapan)</English>
+		<German>
+			<Text>Harappa-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_ISRAEL</Tag>
+		<English>Horseman (Judean)</English>
+		<German>
+			<Text>Jud&#228;ischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_KHMER</Tag>
+		<English>Horseman (Khmer Surin)</English>
+		<German>
+			<Text>Surin-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_MAYA</Tag>
+		<English>Horseman (Mayapan)</English>
+		<German>
+			<Text>Mayapanischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_NUBIA</Tag>
+		<English>Horseman (Kushite)</English>
+		<German>
+			<Text>Kusch-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_POLAND</Tag>
+		<English>Horseman (Jezdziec)</English>
+		<German>
+			<Text>Ponischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_PORTUGAL</Tag>
+		<English>Horseman (Lusitani)</English>
+		<German>
+			<Text>Lusitanischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_ROME</Tag>
+		<English>Horseman (Equites)</English>
+		<German>
+			<Text>Dalmatischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_SPAIN</Tag>
+		<English>Horseman (Celtiberian)</English>
+		<German>
+			<Text>Keltiberischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_VIKING</Tag>
+		<English>Horseman (Nordic)</English>
+		<German>
+			<Text>Nordischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN_ZULU</Tag>
+		<English>Horseman (Mounted Scout)</English>
+		<German>
+			<Text>Zulu-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_HORSEMAN -->
+  <!-- BEGIN: UNITCLASS_LATE_HORSE_ARCHER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER</Tag>
+		<English>Late Horse Archer</English>
+		<German>
+			<Text>Berittener Elite-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_ARABIA</Tag>
+		<English>Late Horse Archer (Ikhwan Camel Riders)</English>
+		<German>
+			<Text>Ichwan-Kamelreiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_BARBARIAN</Tag>
+		<English>Late Horse Archer (Heavy)</English>
+		<German>
+			<Text>Barbarischer berittener Elite-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_CHINA</Tag>
+		<English>Late Horse Archer (Jurchen)</English>
+		<German>
+			<Text>Berittener Jurchen-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_EGYPT</Tag>
+		<English>Late Horse Archer (Mamluk)</English>
+		<German>
+			<Text>Berittener Mamluk-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_HUN</Tag>
+		<English>Late Horse Archer (Nomadic Raider)</English>
+		<German>
+			<Text>Nomadischer berittener Elite-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_HUNGARY</Tag>
+		<English>Late Horse Archer (Lovas&#237;j&#225;sz)</English>
+		<German>
+			<Text>Ungarischer berittener Elite-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_JAPAN</Tag>
+		<English>Late Horse Archer (Yabusame)</English>
+		<German>
+			<Text>Yabusame-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_KOREA</Tag>
+		<English>Late Horse Archer (Myeonggung)</English>
+		<German>
+			<Text>Berittener Myeonggung-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_LITHUANIA</Tag>
+		<English>Late Horse Archer (Karaite)</English>
+		<German>
+			<Text>Berittener Karaite-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_MALI</Tag>
+		<English>Late Horse Archer (Songhai)</English>
+		<German>
+			<Text>Berittener Songhai-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_MONGOL</Tag>
+		<English>Late Horse Archer (Keshik)</English>
+		<German>
+			<Text>Berittener Kheshig-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_MUGHAL</Tag>
+		<English>Late Horse Archer (Mughal)</English>
+		<German>
+			<Text>Mughalischer berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_PERSIA</Tag>
+		<English>Late Horse Archer (Kizilbash)</English>
+		<German>
+			<Text>Berittener Kizilbasch-Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_PONTUS</Tag>
+		<English>Late Horse Archer (Turcopole)</English>
+		<German>
+			<Text>Turkopole</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_TATAR</Tag>
+		<English>Late Horse Archer (Asker)</English>
+		<German>
+			<Text>Asker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSE_ARCHER_TRANSOXIANA</Tag>
+		<English>Late Horse Archer (Timurid)</English>
+		<German>
+			<Text>Timuridischer berittener Bogensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_LATE_HORSE_ARCHER -->
+  <!-- BEGIN: UNITCLASS_LATE_HORSEMAN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSEMAN</Tag>
+		<English>Late Horseman</English>
+		<German>
+			<Text>Gepanzerter Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSEMAN_BABYLON</Tag>
+		<English>Late Horseman (Faraghina)</English>
+		<German>
+			<Text>Faraghina</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSEMAN_BERBER</Tag>
+		<English>Late Horseman (Moorish Raider)</English>
+		<German>
+			<Text>Maurischer gepanzerter Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSEMAN_DRAVIDIA</Tag>
+		<English>Late Horseman (Chola)</English>
+		<German>
+			<Text>Chola-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSEMAN_INDIA</Tag>
+		<English>Late Horseman (Maratha Lancer)</English>
+		<German>
+			<Text>Maratha-Lanzentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSEMAN_OTTOMAN</Tag>
+		<English>Late Horseman (Akinci)</English>
+		<German>
+			<Text>Akinci</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_HORSEMAN_SPAIN</Tag>
+		<English>Late Horseman (Jinete)</English>
+		<German>
+			<Text>Jinete</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_LATE_HORSEMAN -->
+  <!-- BEGIN: UNITCLASS_PISTOLIER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER</Tag>
+		<English>Pistoleer</English>
+		<German>
+			<Text>Pistolier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_AFRICA</Tag>
+		<English>Pistoleer (Kongo)</English>
+		<German>
+			<Text>Kongo-Pistolier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_FILIPINO</Tag>
+		<English>Pistoleer (Tagalog)</English>
+		<German>
+			<Text>Tagalog-Pistolier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_ALGONQUIN</Tag>
+		<English>Pistoleer (Anishinabe Mounted Brave)</English>
+		<German>
+			<Text>Berittener Anishinabe-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_APACHE</Tag>
+		<English>Pistoleer (Comanche Mounted Brave)</English>
+		<German>
+			<Text>Berittener Comanche-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_ARAWAK</Tag>
+		<English>Pistoleer (Taino)</English>
+		<German>
+			<Text>Taino-Pistolier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_ARMENIA</Tag>
+		<English>Pistoleer (Handgunner)</English>
+		<German>
+			<Text>Armenischer berittener</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_AUSTRONESIA</Tag>
+		<English>Pistoleer (Mataram)</English>
+		<German>
+			<Text>Mataram-Pistolier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_CHEROKEE</Tag>
+		<English>Pistoleer (Aniwaya Mounted Brave)</English>
+		<German>
+			<Text>Berittener Aniwaya-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_CHINA</Tag>
+		<English>Pistoleer (Ming)</English>
+		<German>
+			<Text>Ming-Pistolier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_DRAVIDIAN</Tag>
+		<English>Pistoleer (Mysore)</English>
+		<German>
+			<Text>Mysore-Pistolier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_ETHIOPIA</Tag>
+		<English>Pistoleer (Abyssinian)</English>
+		<German>
+			<Text>Abessinischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_FINLAND</Tag>
+		<English>Pistoleer (Hakkapeliitat)</English>
+		<German>
+			<Text>Hakkapeliitta</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_FRANCE</Tag>
+		<English>Pistoleer (Musketeer of the Guard)</English>
+		<German>
+			<Text>Musketier der Garde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_GREECE</Tag>
+		<English>Pistoleer (Stratiotai)</English>
+		<German>
+			<Text>Stratiot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_IROQUOIS</Tag>
+		<English>Pistoleer (Seneca Mounted Brave)</English>
+		<German>
+			<Text>Berittener Seneca-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_KHMER</Tag>
+		<English>Pistoleer (Cambodian)</English>
+		<German>
+			<Text>Kambodschanischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_NEW_WORLD</Tag>
+		<English>Pistoleer (New World)</English>
+		<German>
+			<Text>Neue Welt-Pistolier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_NUBIA</Tag>
+		<English>Pistoleer (Sudanese)</English>
+		<German>
+			<Text>Sudanesischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_OTTOMAN</Tag>
+		<English>Pistoleer (Delils)</English>
+		<German>
+			<Text>Delils</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_PATAGONIA</Tag>
+		<English>Pistoleer (Morochuko)</English>
+		<German>
+			<Text>Morochuko</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_POLAND</Tag>
+		<English>Pistoleer (Strzelcy Konni)</English>
+		<German>
+			<Text>Polnischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_REIVER</Tag>
+		<English>Pistoleer (Border Reiver)</English>
+		<German>
+			<Text>Border Reiver</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_RUSSIA</Tag>
+		<English>Pistoleer (Don Cossack)</English>
+		<German>
+			<Text>Donkosake</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_SIOUX</Tag>
+		<English>Pistoleer (Dakota Mounted Brave)</English>
+		<German>
+			<Text>Berittener Dakota-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_SPAIN</Tag>
+		<English>Pistoleer (Caracole)</English>
+		<German>
+			<Text>Spanischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_TUPI</Tag>
+		<English>Pistoleer (Tupi)</English>
+		<German>
+			<Text>Tupi-Pistolier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_UKRAINE_VOLHYNIA</Tag>
+		<English>Pistoleer (Zaporozhian Cossack)</English>
+		<German>
+			<Text>Saporoger Kosake</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_VIKING</Tag>
+		<English>Pistoleer (Gallop Cavalry)</English>
+		<German>
+			<Text>Nordischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PISTOLIER_ZULU</Tag>
+		<English>Pistoleer (Xhosa Mahashe)</English>
+		<German>
+			<Text>Xhosa Mahashe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_PISTOLIER -->
+  <!-- BEGIN: UNITCLASS_HUSSAR -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR</Tag>
+		<English>Hussar</English>
+		<German>
+			<Text>Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_AFRICAN</Tag>
+		<English>Hussar (African)</English>
+		<German>
+			<Text>Afrikanischer Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_ALGONQUIN</Tag>
+		<English>Native Cavalry (Anishinabe)</English>
+		<German>
+			<Text>Leichter Anishinabe-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_AMERICA</Tag>
+		<English>Hussar (Light Dragoon)</English>
+		<German>
+			<Text>Amerikanischer leichter Dragoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_APACHE</Tag>
+		<English>Native Cavalry (Redsleeves)</English>
+		<German>
+			<Text>Leichter Chiricahua-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_ARABIA</Tag>
+		<English>Hussar (Camel Gunner)</English>
+		<German>
+			<Text>Kamelsch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_ARMENIA</Tag>
+		<English>Hussar (Dziavor)</English>
+		<German>
+			<Text>Armenischer Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_AUSTRIA</Tag>
+		<English>Hussar (K.u.K)</English>
+		<German>
+			<Text>K.u.k.-Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_AUSTRONESIA</Tag>
+		<English>Hussar (Aceh)</English>
+		<German>
+			<Text>Aceh-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_FILIPINO</Tag>
+		<English>Hussar (Manobo)</English>
+		<German>
+			<Text>Manobo-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_AZTEC</Tag>
+		<English>Lancer (Mexican)</English>
+		<German>
+			<Text>Aztekischer Lanzentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_BABYLON</Tag>
+		<English>Hussar (Hamidiye)</English>
+		<German>
+			<Text>Hamidiye</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_CARTHAGE</Tag>
+		<English>Hussar (Moorish)</English>
+		<German>
+			<Text>Maurischer Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_CELT</Tag>
+		<English>Lancer (Moss Trooper)</English>
+		<German>
+			<Text>Mosstrooper</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_CHINA</Tag>
+		<English>Lancer (Manchu)</English>
+		<German>
+			<Text>Mandschurischer Lanzentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_DRAVIDIAN</Tag>
+		<English>Hussar (Madras)</English>
+		<German>
+			<Text>Madras-Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_EGYPT</Tag>
+		<English>Hussar (Mamluk)</English>
+		<German>
+			<Text>Mamlukischer Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_ENGLAND</Tag>
+		<English>Hussar (Light Brigade)</English>
+		<German>
+			<Text>Britischer Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_ETHIOPIA</Tag>
+		<English>Hussar (Oromo)</English>
+		<German>
+			<Text>Leichter Oromo-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_FRANCE</Tag>
+		<English>Hussar (Imperial Light Horse)</English>
+		<German>
+			<Text>Franz&#246;sischer Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_GERMAN</Tag>
+		<English>Hussar (Prussian)</English>
+		<German>
+			<Text>Preu&#223;ischer Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_HUNGARY</Tag>
+		<English>Hussar (Magyar)</English>
+		<German>
+			<Text>Huszar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_INCA</Tag>
+		<English>Hussar (Peruvian)</English>
+		<German>
+			<Text>Peruanischer Reiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_INDIA</Tag>
+		<English>Hussar (Sepoy)</English>
+		<German>
+			<Text>Sepoy-Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_IROQUOIS</Tag>
+		<English>Native Cavalry (Tuscarora)</English>
+		<German>
+			<Text>Leichter Tuscarora-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_JAPAN</Tag>
+		<English>Lancer (Meiji)</English>
+		<German>
+			<Text>Meiji-Lanzentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_KHMER</Tag>
+		<English>Lancer (Cambodian)</English>
+		<German>
+			<Text>Kambodschanischer Lanzenreiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_MALI</Tag>
+		<English>Hussar (Tuareg Camel Gunner)</English>
+		<German>
+			<Text>Tuaregisch Kamelsch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_MONGOL</Tag>
+		<English>Lancer (Oglan)</English>
+		<German>
+			<Text>Mongolischer Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_NATIVE_NORTH</Tag>
+		<English>Native Cavalry (Tribal)</English>
+		<German>
+			<Text>Leichter Stammeskavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_NATIVE_SOUTH</Tag>
+		<English>Native Cavalry</English>
+		<German>
+			<Text>Indigener Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_PERSIA</Tag>
+		<English>Lancer (Qajar)</English>
+		<German>
+			<Text>Kadscharischer Lanzentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_POLAND</Tag>
+		<English>Lancer (Ulan)</English>
+		<German>
+			<Text>Polnischer Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_RUSSIA</Tag>
+		<English>Lancer (Uhlan)</English>
+		<German>
+			<Text>Ulane</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_SIOUX</Tag>
+		<English>Native Cavalry (Lakota)</English>
+		<German>
+			<Text>Leichter Lakota-Kavallerist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_TRANSOXIANA</Tag>
+		<English>Hussar (Uzbek)</English>
+		<German>
+			<Text>Usbekischer Husar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_TURK</Tag>
+		<English>Lancer (Nizam)</English>
+		<German>
+			<Text>Nizam-Lanzentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUSSAR_UKRAINE_VOLHYNIA</Tag>
+		<English>Lancer (Zaporozhian)</English>
+		<German>
+			<Text>Saporoger Kosake</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_HUSSAR -->
+</Civ4GameText>

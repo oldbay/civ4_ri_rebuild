@@ -1,0 +1,4797 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PAGAN_THEO</Tag>
+		<English>Heathen</English>
+		<French/>
+		<German>Heiden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMERICA_VASSAL_DESC</Tag>
+		<English>Territory of</English>
+		<French/>
+		<German>Territorium von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_VASSAL_DESC</Tag>
+		<English>Tributary Province of</English>
+		<French/>
+		<German>Nebenprovinz von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_VASSAL_REN_DESC</Tag>
+		<English>Captaincy General of</English>
+		<French/>
+		<German>Generalkapit&#228;n von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_VASSAL_DESC</Tag>
+		<English>Protectorate of</English>
+		<French/>
+		<German>Protektorat von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_VASSAL_IND_DESC</Tag>
+		<English>Autonomous Region</English>
+		<French/>
+		<German>Autonome Region</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_VASSAL_DESC</Tag>
+		<English>Lordship of</English>
+		<French/>
+		<German>Lordschaft von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_VASSAL_REN_DESC</Tag>
+		<English>British</English>
+		<French/>
+		<German>Britisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_VASSAL_IND_DESC</Tag>
+		<English>Dominion of</English>
+		<French/>
+		<German>Herrschaft von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_VASSAL_DESC</Tag>
+		<English>Vassal State of</English>
+		<French/>
+		<German>Vasallenstaat von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_VASSAL_REN_DESC</Tag>
+		<English>French</English>
+		<French/>
+		<German>Franz&#246;sisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_VASSAL_IND_DESC</Tag>
+		<English>Department of</English>
+		<French/>
+		<German>Departement von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_VASSAL_DESC</Tag>
+		<English>Imperial Estate of</English>
+		<French/>
+		<German>Reichsstand von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_VASSAL_IND_DESC</Tag>
+		<English>Reichskommissariat</English>
+		<French/>
+		<German>Reichskommissariat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_VASSAL_IND_DESC</Tag>
+		<English>Government-General</English>
+		<French/>
+		<German>Generalregierung</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_VASSAL_REN_DESC</Tag>
+		<English>Governorate of</English>
+		<French/>
+		<German>Provinz von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_VASSAL_IND_DESC</Tag>
+		<English>Autonomous District</English>
+		<French/>
+		<German>Autonome Region</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_VASSAL_REN_DESC</Tag>
+		<English>Viceroyalty of</English>
+		<French/>
+		<German>Vizek&#246;nigreich von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_OTTOMAN_VASSAL_DESC</Tag>
+		<English>Beylik of</English>
+		<French/>
+		<German>Beylik von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_OTTOMAN_VASSAL_REN_DESC</Tag>
+		<English>Eyalet of</English>
+		<French/>
+		<German>Eyalet von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_OTTOMAN_VASSAL_IND_DESC</Tag>
+		<English>Vilayet of</English>
+		<French/>
+		<German>Vilayet von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_VASSAL_DESC</Tag>
+		<English>Tributary State of</English>
+		<French/>
+		<German>Nebenstaat von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_VASSAL_REN_DESC</Tag>
+		<English>Client State of</English>
+		<French/>
+		<German>Marionettenstaat von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_VASSAL_IND_DESC</Tag>
+		<English>Regional Administration of</English>
+		<French/>
+		<German>Regionale Verwaltung von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_TRIBAL_DESC</Tag>
+		<English>Tribes</English>
+		<French/>
+		<German>St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_REPUBLIC_DESC</Tag>
+		<English>Republic</English>
+		<French/>
+		<German>Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_REPUBLIC2_DESC</Tag>
+		<English>City States</English>
+		<French/>
+		<German>Stadtstaaten</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_REPUBLIC3_DESC</Tag>
+		<English>Confederation</English>
+		<French/>
+		<German>Konf&#228;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_KINGDOM_DESC</Tag>
+		<English>Kingdom</English>
+		<French/>
+		<German>K&#246;nigreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_THEO_DESC</Tag>
+		<English>Holy</English>
+		<French/>
+		<German>Heiliges</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_DICTATORSHIP_DESC</Tag>
+		<English>State</English>
+		<French/>
+		<German>Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_FEDERATION_DESC</Tag>
+		<English>Federation</English>
+		<French/>
+		<German>F&#246;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GENERIC_COMMUNIST_DESC</Tag>
+		<English>People's Republic</English>
+		<French/>
+		<German>Volksrepublik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMERICA_TRIBAL_DESC</Tag>
+		<English>Vinlander Settlers</English>
+		<French/>
+		<German>Vinl&#228;nder Siedler</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMERICA_TRIBAL_SHORT</Tag>
+		<English>Vinlanders</English>
+		<French/>
+		<German>Vinl&#228;nder</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMERICA_TRIBAL_ADJ</Tag>
+		<English>Vinlander</English>
+		<French/>
+		<German>Vinlander</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMERICA_OLIGO_DESC</Tag>
+		<English>New England Confederation</English>
+		<French/>
+		<German>New England Confederation</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMERICA_REPUBLIC_DESC</Tag>
+		<English>Thirteen Colonies</English>
+		<French/>
+		<German>Dreizehn Kolonien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMERICA_DEMOCRACY_DESC</Tag>
+		<English>United States of America</English>
+		<French/>
+		<German>Vereinigte Staaten von Amerika</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_TRIBAL_DESC</Tag>
+		<English>Bedouin Tribes</English>
+		<French/>
+		<German>Beduinenst&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_TRIBAL_SHORT</Tag>
+		<English>Bedouins</English>
+		<French/>
+		<German>Beduinen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_TRIBAL_ADJ</Tag>
+		<English>Bedouin</English>
+		<French/>
+		<German>Beduinen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_DES_DESC</Tag>
+		<English>Palmyrene Empire</English>
+		<French/>
+		<German>Palmyra-Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_OLIGO_DESC</Tag>
+		<English>Qedarite Confederation</English>
+		<French/>
+		<German>Kedar Konf&#228;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_THEO_DESC</Tag>
+		<English>Arab Caliphate</English>
+		<French/>
+		<German>Arabisches Kalifat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_DES_REN_DESC</Tag>
+		<English>Omani Empire</English>
+		<French/>
+		<German>Omanisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_MON_REN_DESC</Tag>
+		<English>Kingdom of Hejaz</English>
+		<French/>
+		<German>K&#246;nigreich von Hejaz</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_MON_DESC</Tag>
+		<English>Kingdom of Nabataea</English>
+		<French/>
+		<German>K&#246;nigreich Nabataea</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_MON_NAJ_DESC</Tag>
+		<English>Emirate of Najd</English>
+		<French/>
+		<German>Emirat Najd</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_MON_YEM_DESC</Tag>
+		<English>Kingdom of Yemen</English>
+		<French/>
+		<German>K&#246;nigreich Jemen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_MON_HIM_DESC</Tag>
+		<English>Kingdom of Himyar</English>
+		<French/>
+		<German>K&#246;nigreich Himyar</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_COM_YEM_DESC</Tag>
+		<English>People's Democratic Republic of Yemen</English>
+		<French/>
+		<German>Demokratische Volksrepublik Jemen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_REP_REN_DESC</Tag>
+		<English>Trucial States of Oman Coast</English>
+		<French/>
+		<German>Trucial States</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_DIC_DESC</Tag>
+		<English>Saudi Arabia</English>
+		<French/>
+		<German>Saudi Arabien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_FED_DESC</Tag>
+		<English>United Arab Emirates</English>
+		<French/>
+		<German>Vereinigte Arabische Emirate</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_FED_YEM_DESC</Tag>
+		<English>Federation of South Arabia</English>
+		<French/>
+		<German>F&#246;deration S&#252;darabiens</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_TRIBAL_DESC</Tag>
+		<English>Nairi Tribes</English>
+		<French/>
+		<German>Nairi St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_TRIBAL_SHORT</Tag>
+		<English>Nairi</English>
+		<French/>
+		<German>Nairi</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_URA_DESC</Tag>
+		<English>Kingdom of Urartu</English>
+		<French/>
+		<German>K&#246;nigreich Urartu</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_REP_DESC</Tag>
+		<English>Hayasa-Azzi Confederation</English>
+		<French/>
+		<German>Hayasa-Azzi Conf&#228;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_REP_MED_DESC</Tag>
+		<English>Armenian Melikdoms</English>
+		<French/>
+		<German>Armenische Melikt&#252;mer</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_FEDERAL_DESC</Tag>
+		<English>Transcaucasian Federation</English>
+		<French/>
+		<German>Transkaukasische F&#228;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_CIL_DESC</Tag>
+		<English>Kingdom of Cilicia</English>
+		<French/>
+		<German>K&#246;nigreich Kilikien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_DIC_DESC</Tag>
+		<English>Great Hayastan</English>
+		<French/>
+		<German>Gro&#223;er Hayastan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARMENIA_COM_DESC</Tag>
+		<English>Armenian Soviet Socialist Republic</English>
+		<French/>
+		<German>Armenische Sozialistische Sowjetrepublik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_MONARCH_DESC</Tag>
+		<English>Majapahit Empire</English>
+		<French/>
+		<German>Majapahit Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_MONARCH_SHORT</Tag>
+		<English>Majapahit</English>
+		<French/>
+		<German>Majapahit</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_MAT_DESC</Tag>
+		<English>Mataram Sultanate</English>
+		<French/>
+		<German>Mataram Sultanat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_MAT_ADJ</Tag>
+		<English>Mataram</English>
+		<French/>
+		<German>Mataram</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_KINGDOM_DESC</Tag>
+		<English>Medang Kingdom</English>
+		<French/>
+		<German>Medang K&#246;nigreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_KINGDOM_ADJ</Tag>
+		<English>Medang</English>
+		<French/>
+		<German>Medang</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_KINGDOM_SHORT</Tag>
+		<English>Medang</English>
+		<French/>
+		<German>Medang</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_ACE_DESC</Tag>
+		<English>Aceh Sultanate</English>
+		<French/>
+		<German>Aceh Sultanat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_ACE_ADJ</Tag>
+		<English>Acehese</English>
+		<French/>
+		<German>Aceh</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_ACE_SHORT</Tag>
+		<English>Aceh</English>
+		<French/>
+		<German>Aceh</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_TEM_DESC</Tag>
+		<English>Malacca Sultanate</English>
+		<French/>
+		<German>Malakka-Sultanat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_TEM_ADJ</Tag>
+		<English>Malacca</English>
+		<French/>
+		<German>Malakka</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_TEM_SHORT</Tag>
+		<English>Malaccan</English>
+		<French/>
+		<German>Malakka</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_REPUBLIC_DESC</Tag>
+		<English>Bali Confederation</English>
+		<French/>
+		<German>Bali Konf&#228;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_REPUBLIC2_DESC</Tag>
+		<English>Srivijaya Mandala</English>
+		<French/>
+		<German>Srivijaya Mandala</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_REPUBLIC_ADJ</Tag>
+		<English>Balinese</English>
+		<French/>
+		<German>Balinesisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_REPUBLIC2_ADJ</Tag>
+		<English>Srivijayan</English>
+		<French/>
+		<German>Srivijayisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_REPUBLIC_SHORT</Tag>
+		<English>Bali</English>
+		<French/>
+		<German>Bali</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_REPUBLIC2_SHORT</Tag>
+		<English>Srivijaya</English>
+		<French/>
+		<German>Srivijaya</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_DEM_DESC</Tag>
+		<English>Republic of Indonesia</English>
+		<French/>
+		<German>Republik Indonesien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_DEM_ADJ</Tag>
+		<English>Indonesian</English>
+		<French/>
+		<German>Indonesisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_DEM_SHORT</Tag>
+		<English>Indonesia</English>
+		<French/>
+		<German>Indonesien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_DEM_MALAY_DESC</Tag>
+		<English>Malayan Union</English>
+		<French/>
+		<German>Malaiische Union</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_MAL_ADJ</Tag>
+		<English>Malay</English>
+		<French/>
+		<German>Malaiisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_MAL_SHORT</Tag>
+		<English>Malaysia</English>
+		<French/>
+		<German>Malaysia</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_DIC_DESC</Tag>
+		<English>Indonesian New Order</English>
+		<French/>
+		<German>Indonesische Neuordnung</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_DIC_MAL_DESC</Tag>
+		<English>Bangsa Melayu</English>
+		<French/>
+		<German>Bangsa Melayu</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_FED_DESC</Tag>
+		<English>Nusantara Federation</English>
+		<French/>
+		<German>Nusantara F&#228;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRONESIA_FED_MAL_DESC</Tag>
+		<English>Malaysia</English>
+		<French/>
+		<German>Malaysia</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_TRIBAL_DESC</Tag>
+		<English>Nahua Tribes</English>
+		<French/>
+		<German>Nahua St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_TRIBAL_ADJ</Tag>
+		<English>Nahua</English>
+		<French/>
+		<German>Nahua</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_TRIBAL_SHORT</Tag>
+		<English>Nahuas</English>
+		<French/>
+		<German>Nahuas</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_COM_DESC</Tag>
+		<English>Revolutionary Mexico</English>
+		<French/>
+		<German>Revolution&#228;res Mexiko</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_MOD_ADJ</Tag>
+		<English>Mexican</English>
+		<French/>
+		<German>Mexikaner</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_MOD_SHORT</Tag>
+		<English>Mexico</English>
+		<French/>
+		<German>Mexiko</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_REP_DESC</Tag>
+		<English>Aztec Triple Alliance</English>
+		<French/>
+		<German>Aztec Tripelallianz</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_REP2_DESC</Tag>
+		<English>Tlaxcallan Republic</English>
+		<French/>
+		<German>Tlaxcallan Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_REP3_DESC</Tag>
+		<English>Republic of the Rio Grande</English>
+		<French/>
+		<German>Republik Rio Grande</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_MON_DESC</Tag>
+		<English>Altepetl of </English>
+		<French/>
+		<German>Altepetl von </German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_DEM_DESC</Tag>
+		<English>Mexican Republic</English>
+		<French/>
+		<German>Mexikanische Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_DIC_DESC</Tag>
+		<English>Imperial Mexico</English>
+		<French/>
+		<German>Mexikanisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_FED_DESC</Tag>
+		<English>United States of Mexico</English>
+		<French/>
+		<German>Vereinigte Staaten von Mexiko</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_MOD_DESC</Tag>
+		<English>Kingdom of Morocco</English>
+		<French/>
+		<German>K&#246;nigreich Marokko</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_MOD_ADJ</Tag>
+		<English>Moroccan</English>
+		<French/>
+		<German>Marokkanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_MOD_SHORT</Tag>
+		<English>Morocco</English>
+		<French/>
+		<German>Marokko</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_MON_DESC</Tag>
+		<English>Kingdom of Mauretania</English>
+		<French/>
+		<German>K&#246;nigreich Mauretanien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_ANC_DES_DESC</Tag>
+		<English>Mauretanian Empire</English>
+		<French/>
+		<German>Mauretanisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_DES_DESC</Tag>
+		<English>Almoravid Empire</English>
+		<French/>
+		<German>Almoravidenreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_OLI_DESC</Tag>
+		<English>Barbary States</English>
+		<French/>
+		<German>Barbareskenstaaten</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_REP_DESC</Tag>
+		<English>Barghawata Confederacy</English>
+		<French/>
+		<German>Konf&#246;deration von Barghawata</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_RRE_DESC</Tag>
+		<English>Republic of Sale</English>
+		<French/>
+		<German>Republik Sale</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_THEO_DESC</Tag>
+		<English>Almohad Caliphate</English>
+		<French/>
+		<German>Almohaden-Kalifat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BERBER_DEM_DESC</Tag>
+		<English>Rif Republic</English>
+		<French/>
+		<German>Rif Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_TRIBAL_DESC</Tag>
+		<English>Punic Tribes</English>
+		<French/>
+		<German>Punische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_TRIBAL_ADJ</Tag>
+		<English>Punic</English>
+		<French/>
+		<German>Punisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_TRIBAL_SHORT</Tag>
+		<English>Punics</English>
+		<French/>
+		<German>Punier</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_MOD_ADJ</Tag>
+		<English>Maghrebi</English>
+		<French/>
+		<German>Maghrebinisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_MOD_SHORT</Tag>
+		<English>Maghreb</English>
+		<French/>
+		<German>Maghreb</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_MOD_DESC</Tag>
+		<English>Maghrebi Empire</English>
+		<French/>
+		<German>Maghrebinisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_MON_DESC</Tag>
+		<English>Kingdom of Ifriqiya</English>
+		<French/>
+		<German>K&#246;nigreich Ifriqiya</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_MON_SHORT</Tag>
+		<English>Ifriqiya</English>
+		<French/>
+		<German>Ifriqiya</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_MON_ADJ</Tag>
+		<English>Ifriqiyan</English>
+		<French/>
+		<German>Ifriqiyanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_AMON_DESC</Tag>
+		<English>Kingdom of Numidia</English>
+		<French/>
+		<German>K&#246;nigreich Numidia</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_VAN_DESC</Tag>
+		<English>Kingdom of Vandals</English>
+		<French/>
+		<German>K&#246;nigreich der Vandalen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_VAN_SHORT</Tag>
+		<English>Vandals</English>
+		<French/>
+		<German>Vandalen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_VAN_ADJ</Tag>
+		<English>Vandal</English>
+		<French/>
+		<German>Vandalen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_AMON_SHORT</Tag>
+		<English>Numidia</English>
+		<French/>
+		<German>Numidia</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_AMON_ADJ</Tag>
+		<English>Numidian</English>
+		<French/>
+		<German>Numidisches</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_THEO_DESC</Tag>
+		<English>Maghrebi Emirate</English>
+		<French/>
+		<German>Maghrebinisches Emirat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_DEM_DESC</Tag>
+		<English>Republic of Algeria</English>
+		<French/>
+		<German>Republik Algerien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_DEM_SHORT</Tag>
+		<English>Algeria</English>
+		<French/>
+		<German>Algerien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_DEM_ADJ</Tag>
+		<English>Algerian</English>
+		<French/>
+		<German>Algerisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_DEM_TUN_DESC</Tag>
+		<English>Republic of Tunisia</English>
+		<French/>
+		<German>Republik Tunesien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_DEM_TUN_SHORT</Tag>
+		<English>Tunisia</English>
+		<French/>
+		<German>Tunesien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_DEM_TUN_ADJ</Tag>
+		<English>Tunisian</English>
+		<French/>
+		<German>Tunesisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_TRIP_DESC</Tag>
+		<English>Tripolitanian Republic</English>
+		<French/>
+		<German>Tripolitanische Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_TRIP_SHORT</Tag>
+		<English>Tripolitania</English>
+		<French/>
+		<German>Tripolitanien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_TRIP_ADJ</Tag>
+		<English>Tripolitanian</English>
+		<French/>
+		<German>Tripolitanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_DIC_DESC</Tag>
+		<English>Jamahiriya</English>
+		<French/>
+		<German>Jamahiriya</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_CONF_DESC</Tag>
+		<English>Confederation</English>
+		<French/>
+		<German>Eidgenossenschaft</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_DEM_DESC</Tag>
+		<English>Republic of Ireland</English>
+		<French/>
+		<German>Republik Irland</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_IRE_ADJ</Tag>
+		<English>Irish</English>
+		<French/>
+		<German>Irisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_IRE_SHORT</Tag>
+		<English>Ireland</English>
+		<French/>
+		<German>Irland</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_MON_DESC</Tag>
+		<English>Kingdom of Noricum</English>
+		<French/>
+		<German>K&#246;nigreich Noricum</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PICT_MON_DESC</Tag>
+		<English>Kingdom of Alba</English>
+		<French/>
+		<German>K&#246;nigreich Alba</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PICT_ADJ</Tag>
+		<English>Pict</English>
+		<French/>
+		<German>Pict</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PICT_SHORT</Tag>
+		<English>Picts</English>
+		<French/>
+		<German>Picts</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_MON_MED_DESC</Tag>
+		<English>High Kingship of Ireland</English>
+		<French/>
+		<German>Hohes K&#246;nigtum von Irland</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_MON_SCO_DESC</Tag>
+		<English>Kingdom of Scotland</English>
+		<French/>
+		<German>K&#246;nigreich Schottland</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_SCO_ADJ</Tag>
+		<English>Scottish</English>
+		<French/>
+		<German>Schottisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_SCO_SHORT</Tag>
+		<English>Scotland</English>
+		<French/>
+		<German>Schottland</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_REP_DESC</Tag>
+		<English>Gallic Confederation</English>
+		<French/>
+		<German>Gallischer Bund</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_REP2_DESC</Tag>
+		<English>Aedui Federation</English>
+		<French/>
+		<German>Aedui F&#246;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PICT_REP_DESC</Tag>
+		<English>Caledonian Confederation</English>
+		<French/>
+		<German>Kaledonische Bund</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PICT_REP2_DESC</Tag>
+		<English>Federation of Pictland</English>
+		<French/>
+		<German>Pictland F&#246;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_REP_MED_DESC</Tag>
+		<English>Confederate Ireland</English>
+		<French/>
+		<German>Konf&#246;deration Irland</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_REP_SCO_DESC</Tag>
+		<English>Covenanter Scotland</English>
+		<French/>
+		<German>Bundesschluss Schottland</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_REP_MED2_DESC</Tag>
+		<English>Irish Republic</English>
+		<French/>
+		<German>Irische Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_REP_SCO2_DESC</Tag>
+		<English>Republic of Scotland</English>
+		<French/>
+		<German>Republik Schottland</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAV_DES_MED_DESC</Tag>
+		<English>Vijayanagara Empire</English>
+		<French/>
+		<German>Vijayanagara-Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAV_DES_DESC</Tag>
+		<English>Chola Empire</English>
+		<French/>
+		<German>Chola-Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAV_MON_DESC</Tag>
+		<English>Chola Kingdom</English>
+		<French/>
+		<German>Chola K&#246;nigreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAV_CON_DESC</Tag>
+		<English>Tamilakam Kingdoms</English>
+		<French/>
+		<German>Tamilakam K&#246;nigreiche</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAV_MON_ADJ</Tag>
+		<English>Chola</English>
+		<French/>
+		<German>Chola</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAV_MON_SHORT</Tag>
+		<English>Cholas</English>
+		<French/>
+		<German>Cholas</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAV_MON_MED_DESC</Tag>
+		<English>Kingdom of Mysore</English>
+		<French/>
+		<German>Mysore K&#246;nigreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAV_MON_MED_ADJ</Tag>
+		<English>Mysorean</English>
+		<French/>
+		<German>Mysoreisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAV_MON_MED_SHORT</Tag>
+		<English>Mysore</English>
+		<French/>
+		<German>Mysore</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DRAV_DIC_DESC</Tag>
+		<English>Dravida Nadu</English>
+		<French/>
+		<German>Dravida Nadu</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_TRIBAL_DESC</Tag>
+		<English>Xia Tribes</English>
+		<French/>
+		<German>Xia St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_TRIBAL_ADJ</Tag>
+		<English>Xia</English>
+		<French/>
+		<German>Xia</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_TRIBAL_SHORT</Tag>
+		<English>Xia</English>
+		<French/>
+		<German>Xia</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_COM_DESC</Tag>
+		<English>People's Republic of China</English>
+		<French/>
+		<German>Volksrepublik China</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DES_CAO_DESC</Tag>
+		<English>Cao Wei Empire</English>
+		<French/>
+		<German>Cao Wei Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DES_DESC</Tag>
+		<English>Qin Empire</English>
+		<French/>
+		<German>Qin Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_MON_CAO_DESC</Tag>
+		<English>Kingdom of Cao Wei</English>
+		<French/>
+		<German>Cao Wei K&#246;nigreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_MON_DESC</Tag>
+		<English>Han Dynasty</English>
+		<French/>
+		<German>Han-Dynastie</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_SUI_DESC</Tag>
+		<English>Sui Dynasty</English>
+		<French/>
+		<German>Sui-Dynastie</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_NOR_DESC</Tag>
+		<English>Northern Dynasties</English>
+		<French/>
+		<German>N&#246;rdliche Dynastien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_SOU_DESC</Tag>
+		<English>Southern Dynasties</English>
+		<French/>
+		<German>S&#252;dliche Dynastien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_MON_MED_DESC</Tag>
+		<English>Tang Dynasty</English>
+		<French/>
+		<German>Tang-Dynastie</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_THE_DESC</Tag>
+		<English>Celestial Empire</English>
+		<French/>
+		<German>Himmlisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_FEN_DESC</Tag>
+		<English>Fengtian Clique</English>
+		<French/>
+		<German>Fengtian Clique</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_GUA_DESC</Tag>
+		<English>Guangxi Clique</English>
+		<French/>
+		<German>Guangxi Clique</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DEM_DESC</Tag>
+		<English>Beiyang Republic</English>
+		<French/>
+		<German>Beiyang Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DEM_ADJ</Tag>
+		<English>Beiyang</English>
+		<French/>
+		<German>Beiyang</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DEM_SHORT</Tag>
+		<English>Beiyang</English>
+		<French/>
+		<German>Beiyang</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_TRIBAL_DESC</Tag>
+		<English>Yue Tribes</English>
+		<French/>
+		<German>Yue St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_TRIBAL_ADJ</Tag>
+		<English>Yue</English>
+		<French/>
+		<German>Yue</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_TRIBAL_SHORT</Tag>
+		<English>Yue</English>
+		<French/>
+		<German>Yue</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_REP_DESC</Tag>
+		<English>Lanfang Republic</English>
+		<French/>
+		<German>Lanfang Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_REP_ADJ</Tag>
+		<English>Lanfang</English>
+		<French/>
+		<German>Lanfang</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_REP_SHORT</Tag>
+		<English>Lanfang</English>
+		<French/>
+		<German>Lanfang</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_FED_DESC</Tag>
+		<English>United Republics of China</English>
+		<French/>
+		<German>Vereinigte Republiken von China</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_COM_DESC</Tag>
+		<English>Chinese Soviet Republic</English>
+		<French/>
+		<German>Chinesische Sowjetrepublik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_DES_DESC</Tag>
+		<English>Nanyue Empire</English>
+		<French/>
+		<German>Nanyue Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_DES_MED_DESC</Tag>
+		<English>Ming Empire</English>
+		<French/>
+		<German>Ming Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_DES_MED_ADJ</Tag>
+		<English>Ming</English>
+		<French/>
+		<German>Ming</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_DES_MED_SHORT</Tag>
+		<English>Ming</English>
+		<French/>
+		<German>Ming</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_MON_MED_DESC</Tag>
+		<English>Southern Song Dynasty</English>
+		<French/>
+		<German>S&#252;dliches Song Dynastie</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_MON_DESC</Tag>
+		<English>State of Qin</English>
+		<French/>
+		<German>Staat von Qin</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_MON_ADJ</Tag>
+		<English>Qin</English>
+		<French/>
+		<German>Qin</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_MON_SHORT</Tag>
+		<English>Qin</English>
+		<French/>
+		<German>Qin</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_THE_DESC</Tag>
+		<English>Taiping Heavenly Kingdom</English>
+		<French/>
+		<German>Taiping Himmlischen Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_THE_ADJ</Tag>
+		<English>Taiping</English>
+		<French/>
+		<German>Taiping</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_THE_SHORT</Tag>
+		<English>Taiping</English>
+		<French/>
+		<German>Taiping</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_MON_ADJ</Tag>
+		<English>Qin</English>
+		<French/>
+		<German>Qin</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_MON_SHORT</Tag>
+		<English>Qin</English>
+		<French/>
+		<German>Qin</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_DEM_ADJ</Tag>
+		<English>Kuomintang</English>
+		<French/>
+		<German>Kuomintang</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_DEM_SHORT</Tag>
+		<English>Kuomintang</English>
+		<French/>
+		<German>Kuomintang</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SOUTH_CHINA_DIC_DESC</Tag>
+		<English>Nationalist China</English>
+		<French/>
+		<German>Nationalistisches China</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_UNITED_DESC</Tag>
+		<English>Chinese Empire</English>
+		<French/>
+		<German>Chinesisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_UNITED_NSD_DESC</Tag>
+		<English>Chinese Kingdoms</English>
+		<French/>
+		<German>Chinesische Reiche</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_UNITED_ADJ</Tag>
+		<English>Chinese</English>
+		<French/>
+		<German>Chinesisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_UNITED_SHORT</Tag>
+		<English>China</English>
+		<French/>
+		<German>China</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_UNITED_DEM_DESC</Tag>
+		<English>Republic of China</English>
+		<French/>
+		<German>Republik China</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_UNITED_FED_DESC</Tag>
+		<English>Federal Republic of China</English>
+		<French/>
+		<German>Bundesrepublik China</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_TRI_DESC</Tag>
+		<English>Kemetic Tribes</English>
+		<French/>
+		<German>Kemetische Stämme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_RMO_DESC</Tag>
+		<English>Kingdom of Egypt</English>
+		<French/>
+		<German>K&#246;nigreich &#196;gypten</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_MMO_DESC</Tag>
+		<English>Egyptian Sultanate</English>
+		<French/>
+		<German>&#196;gyptisches Sultanat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_PMO_DESC</Tag>
+		<English>Ptolemaic Kingdom</English>
+		<French/>
+		<German>Ptolem&#228;isches K&#246;nigreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_PDE_DESC</Tag>
+		<English>Ptolemaic Empire</English>
+		<French/>
+		<German>Ptolem&#228;isches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_MDE_DESC</Tag>
+		<English>Mamluk Sultanate</English>
+		<French/>
+		<German>Mamluk Sultanat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_MDE_ADJ</Tag>
+		<English>Mamluk</English>
+		<French/>
+		<German>Mamluk</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_MDE_SHORT</Tag>
+		<English>Mamluks</English>
+		<French/>
+		<German>Mamluks</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_ATE_DESC</Tag>
+		<English>Kingship of Akhetaten</English>
+		<French/>
+		<German>K&#246;nigtum von Achetaten</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_THE_DESC</Tag>
+		<English>Fatimid Caliphate</English>
+		<French/>
+		<German>Fatimid-Kalifat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_THE_ADJ</Tag>
+		<English>Fatimid</English>
+		<French/>
+		<German>Fatimid</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_THE_SHORT</Tag>
+		<English>Fatimids</English>
+		<French/>
+		<German>Fatimiden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_DEM_DESC</Tag>
+		<English>Republic of Egypt</English>
+		<French/>
+		<German>Republik &#196;gypten</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_TRI_DESC</Tag>
+		<English>Anglo-Saxon Tribes</English>
+		<French/>
+		<German>Angels&#228;chsische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_TRI_ADJ</Tag>
+		<English>Anglo-Saxon</English>
+		<French/>
+		<German>Angels&#228;chsisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_TRI_SHORT</Tag>
+		<English>Anglo-Saxons</English>
+		<French/>
+		<German>Angelsachsen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_MON_DESC</Tag>
+		<English>Kingdom of Wessex</English>
+		<French/>
+		<German>K&#246;nigreich Wessex</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_MMO_DESC</Tag>
+		<English>Kingdom of England</English>
+		<French/>
+		<German>K&#246;nigreich England</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_DES_DESC</Tag>
+		<English>Britannic Empire</English>
+		<French/>
+		<German>Britisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_MDE_DESC</Tag>
+		<English>Angevin Empire</English>
+		<French/>
+		<German>Angevin Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_REP_ANC_DESC</Tag>
+		<English>Anglo-Saxon Heptarchy</English>
+		<French/>
+		<German>Angels&#228;chsische Heptarchie</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_REP_DESC</Tag>
+		<English>Commonwealth of England</English>
+		<French/>
+		<German>Gemeinwesen von England</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_RDE_DESC</Tag>
+		<English>British Empire</English>
+		<French/>
+		<German>Britisches Imperium</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_RMO_DESC</Tag>
+		<English>Great Britain</English>
+		<French/>
+		<German>Gro&#223;britannien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_BRIT_ADJ</Tag>
+		<English>British</English>
+		<French/>
+		<German>Britisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_BRIT_SHORT</Tag>
+		<English>Britain</English>
+		<French/>
+		<German>Britannien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_FED_DESC</Tag>
+		<English>British Commonwealth</English>
+		<French/>
+		<German>Britisches Gemeinwesen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_TRI_DESC</Tag>
+		<English>Amharic Tribes</English>
+		<French/>
+		<German>Amharische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_TRI_ADJ</Tag>
+		<English>Amharic</English>
+		<French/>
+		<German>Amharisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_TRI_SHORT</Tag>
+		<English>Amhara</English>
+		<French/>
+		<German>Amhara</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_COM_DESC</Tag>
+		<English>People's Democratic Republic of Ethiopia</English>
+		<French/>
+		<German>Demokratische Volksrepublik &#196;thiopien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_DES_DESC</Tag>
+		<English>Aksumite Empire</English>
+		<French/>
+		<German>Aksumitisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_DES_ADJ</Tag>
+		<English>Aksumite</English>
+		<French/>
+		<German>Aksumitisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_DES_SHORT</Tag>
+		<English>Aksum</English>
+		<French/>
+		<German>Aksum</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_THE_DESC</Tag>
+		<English>Kingdom of Beta Israel</English>
+		<French/>
+		<German>K&#246;nigreich Beta Israel</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_THE_ADJ</Tag>
+		<English>Beta</English>
+		<French/>
+		<German>Beta</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_THE_SHORT</Tag>
+		<English>Beta Israel</English>
+		<French/>
+		<German>Beta Israel</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_MON_DESC</Tag>
+		<English>Kingdom of Aksum</English>
+		<French/>
+		<German>K&#246;nigreich Aksum</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_RMO_DESC</Tag>
+		<English>Kingdom of Abyssinia</English>
+		<French/>
+		<German>K&#246;nigreich Abessinien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_RMO_ADJ</Tag>
+		<English>Abyssinian</English>
+		<French/>
+		<German>Abessinisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_RMO_SHORT</Tag>
+		<English>Abyssinia</English>
+		<French/>
+		<German>Abessinien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_RDE_DESC</Tag>
+		<English>Abyssinian Empire</English>
+		<French/>
+		<German>Abessinierreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_DIC_DESC</Tag>
+		<English>Derg State</English>
+		<French/>
+		<German>Derg-Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_FED_DESC</Tag>
+		<English>Federal Democratic Republic of Ethiopia</English>
+		<French/>
+		<German>Demokratische Bundesrepublik &#196;thiopien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_TRI_DESC</Tag>
+		<English>Frankish Tribes</English>
+		<French/>
+		<German>Fr&#228;nkische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_TRI_ADJ</Tag>
+		<English>Frankish</English>
+		<French/>
+		<German>Fr&#228;nkisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_TRI_SHORT</Tag>
+		<English>Franks</English>
+		<French/>
+		<German>Franken</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_COM_DESC</Tag>
+		<English> Commune</English>
+		<French/>
+		<German> Kommune</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_DES_DESC</Tag>
+		<English>Frankish Empire</English>
+		<French/>
+		<German>Fr&#228;nkisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_MON_DESC</Tag>
+		<English>Kingdom of Francia</English>
+		<French/>
+		<German>K&#246;nigreich Frankreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_MON_MED_DESC</Tag>
+		<English>Kingdom of France</English>
+		<French/>
+		<German>K&#246;nigreich Frankreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_FED_DESC</Tag>
+		<English>French Union</English>
+		<French/>
+		<German>Franz&#246;sische Union</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_TRI_DESC</Tag>
+		<English>Germanic Tribes</English>
+		<French/>
+		<German>Germanische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_TRI_ADJ</Tag>
+		<English>Germanic</English>
+		<French/>
+		<German>Germanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_COM_DESC</Tag>
+		<English>German Democratic Republic</English>
+		<French/>
+		<German>Deutsche Demokratische Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_ADE_DESC</Tag>
+		<English>Saxon Empire</English>
+		<French/>
+		<German>S&#228;chsisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_DES_DESC</Tag>
+		<English>Holy Roman Empire</English>
+		<French/>
+		<German>Heiliges R&#246;misches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_RES_PRU_DESC</Tag>
+		<English>Prussian Confederation</English>
+		<French/>
+		<German>Preu&#223;ischer Bund</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_RES_DESC</Tag>
+		<English>Herminonic Confederation</English>
+		<French/>
+		<German>Herminonischer Bund</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_MRE_DESC</Tag>
+		<English>Free Imperial Cities</English>
+		<French/>
+		<German>Freie Reichsst&#228;dte</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_MRE2_DESC</Tag>
+		<English>The Hansa</English>
+		<French/>
+		<German>Deutsche Hanse</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_RRE_DESC</Tag>
+		<English>Confederation of the Rhine</English>
+		<French/>
+		<German>Rheinbund</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_RRE_PRU_DESC</Tag>
+		<English>German Confederation</English>
+		<French/>
+		<German>Deutscher Bund</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_RRE_PRU2_DESC</Tag>
+		<English>Free State of Prussia</English>
+		<French/>
+		<German>Freistaat Preussen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_MON_DESC</Tag>
+		<English>Kingdom of Germany</English>
+		<French/>
+		<German>K&#246;nigreich Deutschland</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_MON_BRA_DESC</Tag>
+		<English>Electorate of Brandenburg</English>
+		<French/>
+		<German>Kurf&#252;rstentum Brandenburg</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_MON_BRA_SHORT</Tag>
+		<English>Brandenburg</English>
+		<French/>
+		<German>Brandenburg</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_MON_BRA_ADJ</Tag>
+		<English>Brandenburgian</English>
+		<French/>
+		<German>Brandenburgisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_RMO_DESC</Tag>
+		<English>Kingdom of Prussia</English>
+		<French/>
+		<German>K&#246;nigreich Preu&#223;en</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_RMO_ADJ</Tag>
+		<English>Prussian</English>
+		<French/>
+		<German>Preu&#223;isch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_RMO_SHORT</Tag>
+		<English>Prussia</English>
+		<French/>
+		<German>Preu&#223;en</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_THE_DESC</Tag>
+		<English>Teutonic Order</English>
+		<French/>
+		<German>Deutscher Orden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_THE_ADJ</Tag>
+		<English>Teutonic</English>
+		<French/>
+		<German>Teutonisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_THE_SHORT</Tag>
+		<English>Teutons</English>
+		<French/>
+		<German>Teutone</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_DIC_DESC</Tag>
+		<English>German Reich</English>
+		<French/>
+		<German>Deutsches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_FED_DESC</Tag>
+		<English>Federal Republic of Germany</English>
+		<French/>
+		<German>Bundesrepublik Deutschland</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_TRI_DESC</Tag>
+		<English>Achaean Tribes</English>
+		<French/>
+		<German>Ach&#228;ische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_TRI_ADJ</Tag>
+		<English>Achaean</English>
+		<French/>
+		<German>Ach&#228;isch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_TRI_SHORT</Tag>
+		<English>Achaeans</English>
+		<French/>
+		<German>Ach&#228;er</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_DES_DESC</Tag>
+		<English>Macedonian Empire</English>
+		<French/>
+		<German>Mazedonisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_DES_ADJ</Tag>
+		<English>Macedonian</English>
+		<French/>
+		<German>Mazedonisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_DES_SHORT</Tag>
+		<English>Macedonia</English>
+		<French/>
+		<German>Mazedonien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_DES_ATH_DESC</Tag>
+		<English>Athenian Empire</English>
+		<French/>
+		<German>Athener Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_DES_ATH_ADJ</Tag>
+		<English>Athenian</English>
+		<French/>
+		<German>Athener</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_DES_ATH_SHORT</Tag>
+		<English>Athens</English>
+		<French/>
+		<German>Athen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_MON_DESC</Tag>
+		<English>Peloponnesian League</English>
+		<French/>
+		<German>Peloponnesische Liga</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_MON_MAC_DESC</Tag>
+		<English>Kingdom of Macedonia</English>
+		<French/>
+		<German>K&#246;nigreich Mazedonien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_REP_DESC</Tag>
+		<English>Delian League</English>
+		<French/>
+		<German>Delische Liga</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_REP2_DESC</Tag>
+		<English>Polis of</English>
+		<French/>
+		<German>Polis von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_MDE_DESC</Tag>
+		<English>Byzantine Empire</English>
+		<French/>
+		<German>Byzantinisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_MDE_ADJ</Tag>
+		<English>Byzantine</English>
+		<French/>
+		<German>Byzantinisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_MDE_SHORT</Tag>
+		<English>Byzantium</English>
+		<French/>
+		<German>Byzanz</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_RRE_DESC</Tag>
+		<English>Septinsular Republic</English>
+		<French/>
+		<German>Republik der Ionischen Inseln</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_DEM_DESC</Tag>
+		<English>Hellenic Republic</English>
+		<French/>
+		<German>Griechische Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_MMO_DESC</Tag>
+		<English>Despotate of the Morea</English>
+		<French/>
+		<German>Despotat der Morea</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_TRI_DESC</Tag>
+		<English>Indo-Aryan Tribes</English>
+		<French/>
+		<German>Indo-arische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_TRI_ADJ</Tag>
+		<English>Indo-Aryan</English>
+		<French/>
+		<German>Indo-arisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_TRI_SHORT</Tag>
+		<English>Indo-Aryans</English>
+		<French/>
+		<German>Indo-Arier</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DES_DESC</Tag>
+		<English>Mauryan Empire</English>
+		<French/>
+		<German>Maurya-Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DES_ADJ</Tag>
+		<English>Mauryan</English>
+		<French/>
+		<German>Mauryanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DES_SHORT</Tag>
+		<English>Mauryans</English>
+		<French/>
+		<German>Mauryaner</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MDE_DESC</Tag>
+		<English>Gupta Empire</English>
+		<French/>
+		<German>Gupta Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MDE_ADJ</Tag>
+		<English>Gupta</English>
+		<French/>
+		<German>Gupta</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MDE_SHORT</Tag>
+		<English>Guptas</English>
+		<French/>
+		<German>Guptas</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_RDE_DESC</Tag>
+		<English>Maratha Empire</English>
+		<French/>
+		<German>Maratha Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_RDE_ADJ</Tag>
+		<English>Maratha</English>
+		<French/>
+		<German>Maratha</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_RDE_SHORT</Tag>
+		<English>Marathas</English>
+		<French/>
+		<German>Marathas</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_REP_DESC</Tag>
+		<English>Mahajanapada</English>
+		<French/>
+		<German>Mahajanapada</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_REP2_DESC</Tag>
+		<English>Malla Gana Sangha</English>
+		<French/>
+		<German>Malla Gana Sangha</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_REP_ADJ</Tag>
+		<English>Mahajanapada</English>
+		<French/>
+		<German>Mahajanapada</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_REP_SHORT</Tag>
+		<English>Mahajanapada</English>
+		<French/>
+		<German>Mahajanapada</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MRE_DESC</Tag>
+		<English>Maratha Confederation</English>
+		<French/>
+		<German>Maratha Konf&#246;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MRE_ADJ</Tag>
+		<English>Maratha</English>
+		<French/>
+		<German>Maratha</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MRE_SHORT</Tag>
+		<English>Marathas</English>
+		<French/>
+		<German>Maratha</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MON_DESC</Tag>
+		<English>Magadha Kingdom</English>
+		<French/>
+		<German>Magadha K&#246;nigreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MMO_DESC</Tag>
+		<English>Rajput Kingdoms</English>
+		<French/>
+		<German>Rajput K&#246;nigreiche</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MMO_ADJ</Tag>
+		<English>Rajput</English>
+		<French/>
+		<German>Rajput</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MMO_SHORT</Tag>
+		<English>Rajputana</English>
+		<French/>
+		<German>Rajputana</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_THE_DESC</Tag>
+		<English>Bharata Khanda</English>
+		<French/>
+		<German>Bharata Khanda</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DEM_DESC</Tag>
+		<English>Republic of India</English>
+		<French/>
+		<German>Indische Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DEM_ADJ</Tag>
+		<English>Indian</English>
+		<French/>
+		<German>Indisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DEM_SHORT</Tag>
+		<English>India</English>
+		<French/>
+		<German>Indien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DIC_DESC</Tag>
+		<English>Azad Hind</English>
+		<French/>
+		<German>Azad Hind</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_TRI_DESC</Tag>
+		<English>Magyar Tribes</English>
+		<French/>
+		<German>Magyarische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_TRI_ADJ</Tag>
+		<English>Magyar</English>
+		<French/>
+		<German>Magyarisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_TRI_SHORT</Tag>
+		<English>Magyars</English>
+		<French/>
+		<German>Magyaren</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_COM_DESC</Tag>
+		<English>Hungarian People's Republic</English>
+		<French/>
+		<German>Indo-arische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_MON_DESC</Tag>
+		<English>Kingdom of Hungary</English>
+		<French/>
+		<German>K&#246;nigreich Ungarn</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_CON_DESC</Tag>
+		<English>Hetumoger Confederation</English>
+		<French/>
+		<German>Hetumoger Konf&#228;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_THE_DESC</Tag>
+		<English>Lands of the Holy Crown</English>
+		<French/>
+		<German>L&#228;nder der Heiligen Krone</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_TRI_DESC</Tag>
+		<English>Quechua Tribes</English>
+		<French/>
+		<German>Quechua-St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_TRI_ADJ</Tag>
+		<English>Quechua</English>
+		<French/>
+		<German>Quechua</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_TRI_SHORT</Tag>
+		<English>Quechuas</English>
+		<French/>
+		<German>Quechua</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_MOD_ADJ</Tag>
+		<English>Peruvian</English>
+		<French/>
+		<German>Peruanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_MOD_SHORT</Tag>
+		<English>Peru</English>
+		<French/>
+		<German>Peru</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_AND_ADJ</Tag>
+		<English>Andean</English>
+		<French/>
+		<German>Anden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_AND_SHORT</Tag>
+		<English>Andes</English>
+		<French/>
+		<German>Anden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_COM_DESC</Tag>
+		<English>Shining Path</English>
+		<French/>
+		<German>Leuchtender Pfad</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_REP_DESC</Tag>
+		<English>The Four United Suyus</English>
+		<French/>
+		<German>Die Vier Vereinigten Suyus</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_MON_DESC</Tag>
+		<English>Kingdom of</English>
+		<French/>
+		<German>K&#246;nigreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_DEM_DESC</Tag>
+		<English>Republic of Peru</English>
+		<French/>
+		<German>Republik Peru</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_FED_DESC</Tag>
+		<English>Peru-Bolivian Confederation</English>
+		<French/>
+		<German>Peru-Bolivianische Konf&#246;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_MOD_FED_DESC</Tag>
+		<English>Andean Community</English>
+		<French/>
+		<German>Andengemeinschaft</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_TRI_DESC</Tag>
+		<English>Yayoi Tribes</English>
+		<French/>
+		<German>Yayoi-St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_TRI_ADJ</Tag>
+		<English>Yayoi</English>
+		<French/>
+		<German>Yayoi</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_TRI_SHORT</Tag>
+		<English>Yayoi</English>
+		<French/>
+		<German>Yayoi</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_MON_DESC</Tag>
+		<English>Shogunate</English>
+		<French/>
+		<German>Shogunat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_CON_DESC</Tag>
+		<English>Japanese Daimyos</English>
+		<French/>
+		<German>Japanische Daimyos</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_REP_DESC</Tag>
+		<English>Ikki</English>
+		<French/>
+		<German>Ikki</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_THE_DESC</Tag>
+		<English>Ikko-Ikki</English>
+		<French/>
+		<German>Ikko-Ikki</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_DIC_DESC</Tag>
+		<English>Imperial Japan</English>
+		<French/>
+		<German>Kaiserliches Japan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_TRI_DESC</Tag>
+		<English>Mumun Tribes</English>
+		<French/>
+		<German>Mumun-St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_TRI_ADJ</Tag>
+		<English>Mumun</English>
+		<French/>
+		<German>Mumun</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_TRI_SHORT</Tag>
+		<English>Mumun</English>
+		<French/>
+		<German>Mumun</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_COM_DESC</Tag>
+		<English>Democratic People's Republic of Korea</English>
+		<French/>
+		<German>Demokratische Volksrepublik Korea</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_REP_DESC</Tag>
+		<English>Samhan Confederation</English>
+		<French/>
+		<German>Samhan Konf&#246;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_ARE_DESC</Tag>
+		<English>Geumgwan Gaya</English>
+		<French/>
+		<German>Geumgwan Gaya</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_MON_DESC</Tag>
+		<English>Kingdom of Goreyo</English>
+		<French/>
+		<German>K&#246;nigreich Goreyo</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_RMO_DESC</Tag>
+		<English>Kingdom of Joseon</English>
+		<French/>
+		<German>K&#246;nigreich Joseon</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_DEM_DESC</Tag>
+		<English>Republic of Korea</English>
+		<French/>
+		<German>Republik Korea</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_THE_DESC</Tag>
+		<English>Donghak Korea</English>
+		<French/>
+		<German>Donghak Korea</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_FED_DESC</Tag>
+		<English>Confederal Republic of Koryo</English>
+		<French/>
+		<German>Konf&#246;derale Republik Koryo</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_TRI_DESC</Tag>
+		<English>Mandinka Tribes</English>
+		<French/>
+		<German>Mandinka St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_TRI_ADJ</Tag>
+		<English>Mandinka</English>
+		<French/>
+		<German>Mandinka</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_TRI_SHORT</Tag>
+		<English>Mandinka</English>
+		<French/>
+		<German>Mandinka</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_SON_DESC</Tag>
+		<English>Songhai Empire</English>
+		<French/>
+		<German>Songhai Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_SON_ADJ</Tag>
+		<English>Songhai</English>
+		<French/>
+		<German>Songhai</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_SON_SHORT</Tag>
+		<English>Songhai</English>
+		<French/>
+		<German>Songhai</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_REP_DESC</Tag>
+		<English>Manden Kurufa</English>
+		<French/>
+		<German>Manden Kurufa</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_REP2_DESC</Tag>
+		<English>Gbara</English>
+		<French/>
+		<German>Gbara</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_REP_ADJ</Tag>
+		<English>Manden</English>
+		<French/>
+		<German>Manden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_REP_SHORT</Tag>
+		<English>Manden</English>
+		<French/>
+		<German>Manden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_THE_DESC</Tag>
+		<English>Tijaniyya Jihad State</English>
+		<French/>
+		<German>Tijaniyya Jihad-Staat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_THE_ADJ</Tag>
+		<English>Toucouleur</English>
+		<French/>
+		<German>Toucouleur</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_THE_SHORT</Tag>
+		<English>Toucouleur</English>
+		<French/>
+		<German>Toucouleur</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_DEM_DESC</Tag>
+		<English>Republic of Mali</English>
+		<French/>
+		<German>Republik Mali</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_DIC_DESC</Tag>
+		<English>State of Azawad</English>
+		<French/>
+		<German>Bundesstaat Azawad</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_COM_DESC</Tag>
+		<English>Zapatista Autonomous Municipalities</English>
+		<French/>
+		<German>Autonome Zapatistische Gemeinden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_REP_DESC</Tag>
+		<English>League of Mayapan</English>
+		<French/>
+		<German>Liga von Mayapan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DEM_DESC</Tag>
+		<English>Republic of Guatemala</English>
+		<French/>
+		<German>Republik Guatemala</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DEM_ADJ</Tag>
+		<English>Guatemalan</English>
+		<French/>
+		<German>Toucouleur</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DEM_SHORT</Tag>
+		<English>Guatemala</English>
+		<French/>
+		<German>Guatemala</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DIC_DESC</Tag>
+		<English>State of Guatemala</English>
+		<French/>
+		<German>Guatemala-Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_FED_DESC</Tag>
+		<English>Federal Republic of Central America</English>
+		<French/>
+		<German>Bundesrepublik Mittelamerika</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_RRE_DESC</Tag>
+		<English>Republic of Yucatan</English>
+		<French/>
+		<German>Republik Yucatan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_RRE_SHORT</Tag>
+		<English>Yucatan</English>
+		<French/>
+		<German>Yucatan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_COM_DESC</Tag>
+		<English>People's Republic of Mongolia</English>
+		<French/>
+		<German>Volksrepublik Mongolei</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_DES_DESC</Tag>
+		<English>Mongol Empire</English>
+		<French/>
+		<German>Mongolisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_REP_DESC</Tag>
+		<English>Oirat Confederation</English>
+		<French/>
+		<German>Oirat Konf&#228;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_REP_ANC_DESC</Tag>
+		<English>Kurultai</English>
+		<French/>
+		<German>Kurultai</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_REP_SHORT</Tag>
+		<English>Oirats</English>
+		<French/>
+		<German>Oiraten</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_MON_DESC</Tag>
+		<English>Chagatai Khanate</English>
+		<French/>
+		<German>Chagatai-Khanat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_MON_SHORT</Tag>
+		<English>Chagatai Khanate</English>
+		<French/>
+		<German>Chagatai-Khanat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_THE_DESC</Tag>
+		<English>Bogd Khanate</English>
+		<French/>
+		<German>Bogd Khanat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_DEM_DESC</Tag>
+		<English>Mongolia</English>
+		<French/>
+		<German>Mongolei</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_DIC_DESC</Tag>
+		<English>Mengjiang</English>
+		<French/>
+		<German>Mengjiang</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOL_YUAN_DESC</Tag>
+		<English>Yuan Dynasty</English>
+		<French/>
+		<German>Yuan-Dynastie</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_REP_DESC</Tag>
+		<English>Mthethwa Paramountcy</English>
+		<French/>
+		<German>Mthethwa-Konf&#246;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_DES_DESC</Tag>
+		<English>Zulu Empire</English>
+		<French/>
+		<German>Zulu Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_DES_ADJ</Tag>
+		<English>Zulu</English>
+		<French/>
+		<German>Zulu</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_DES_SHORT</Tag>
+		<English>Zulus</English>
+		<French/>
+		<German>Zulus</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_COM_DESC</Tag>
+		<English>People's Republic of Mozambique</English>
+		<French/>
+		<German>Volksrepublik Mosambik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_MON_DESC</Tag>
+		<English>Kingdom of Mutapa</English>
+		<French/>
+		<German>K&#246;nigreich Mutapa</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_MON_REN_DESC</Tag>
+		<English>Kingdom of kwaZulu</English>
+		<French/>
+		<German>K&#246;nigreich kwaZulu</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_MON_BAS_DESC</Tag>
+		<English>Kingdom of Basotho</English>
+		<French/>
+		<German>K&#246;nigreich Basotho</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_MON_BAS_SHORT</Tag>
+		<English>Basotho</English>
+		<French/>
+		<German>Basotho</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_MON_BAS_ADJ</Tag>
+		<English>Sotho</English>
+		<French/>
+		<German>Sotho</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_DEM_DESC</Tag>
+		<English>Republic of Botswana</English>
+		<French/>
+		<German>Republik Botswana</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_DEM_SHORT</Tag>
+		<English>Botswana</English>
+		<French/>
+		<German>Botswana</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_DEM_ADJ</Tag>
+		<English>Tswana</English>
+		<French/>
+		<German>Tswana</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_DIC_DESC</Tag>
+		<English>State of Zimbabwe</English>
+		<French/>
+		<German>Zimbabwe Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_FED_DESC</Tag>
+		<English>Republic of South Africa</English>
+		<French/>
+		<German>Republik von S&#252;dafrika</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_FED_SHORT</Tag>
+		<English>South Africa</English>
+		<French/>
+		<German>S&#252;dafrika</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_FED_ADJ</Tag>
+		<English>South African</English>
+		<French/>
+		<German>S&#252;dafrikanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_TRI_DESC</Tag>
+		<English>Proto-Iranian Tribes</English>
+		<French/>
+		<German>Proto-iranische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_TRI_ADJ</Tag>
+		<English>Proto-Iranian</English>
+		<French/>
+		<German>Proto-iranisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_TRI_SHORT</Tag>
+		<English>Proto-Iranians</English>
+		<French/>
+		<German>Proto-Iraner</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_COM_DESC</Tag>
+		<English>Persian Socialist Soviet Republic</English>
+		<French/>
+		<German>Persische Sozialistische Sowjetrepublik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_DES_MED_DESC</Tag>
+		<English>Sassanid Empire</English>
+		<French/>
+		<German>Sassanidenreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_DES_DESC</Tag>
+		<English>Achaemenid Empire</English>
+		<French/>
+		<German>Ach&#228;menidenreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_MON_DESC</Tag>
+		<English>Achaemenid Kingdom</English>
+		<French/>
+		<German>Ach&#228;menidenreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_MON_MED_DESC</Tag>
+		<English>Kingdom of Persia</English>
+		<French/>
+		<German>K&#246;nigreich Persien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_MON_IND_DESC</Tag>
+		<English>Sublime State of Persia</English>
+		<French/>
+		<German>Erhabener Staat Persien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_DES_SEL_DESC</Tag>
+		<English>Seleucid Empire</English>
+		<French/>
+		<German>Seleukidenreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_MON_SEL_DESC</Tag>
+		<English>Kingdom of Seleucia</English>
+		<French/>
+		<German>K&#246;nigreich Seleukia</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_MON_SEL_ADJ</Tag>
+		<English>Seleucid</English>
+		<French/>
+		<German>Seleukid</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_MON_SEL_SHORT</Tag>
+		<English>Seleucia</English>
+		<French/>
+		<German>Seleukia</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_RES_MED_DESC</Tag>
+		<English>Aq Qoyunlu Confederation</English>
+		<French/>
+		<German>Aq Qoyunlu Konf&#246;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_RES_DESC</Tag>
+		<English>Seven Great Houses of Iran</English>
+		<French/>
+		<German>Sieben Adelsfamilien des Iran</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_RES2_DESC</Tag>
+		<English>Persian Magistan</English>
+		<French/>
+		<German>Persischer Magistan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_RES_IND_DESC</Tag>
+		<English>Azadistan</English>
+		<French/>
+		<German>Azadistan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_OF_IRAN_DESC</Tag>
+		<English>of Iran</English>
+		<French/>
+		<German>Iran</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_OF_IRAN_ADJ</Tag>
+		<English>Iranian</English>
+		<French/>
+		<German>Iranisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_OF_IRAN_SHORT</Tag>
+		<English>Iran</English>
+		<French/>
+		<German>Iran</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_DIC_DESC</Tag>
+		<English>Imperial State of Iran</English>
+		<French/>
+		<German>Kaiserlichen Staat Iran</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_TRI_DESC</Tag>
+		<English>West Slavic Tribes</English>
+		<French/>
+		<German>Westslawische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_TRI_ADJ</Tag>
+		<English>West Slavic</English>
+		<French/>
+		<German>Westslawisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_TRI_SHORT</Tag>
+		<English>West Slavs</English>
+		<French/>
+		<German>Westslawen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_COM_DESC</Tag>
+		<English>Polish People's Republic</English>
+		<French/>
+		<German>Polnische Volksrepublik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_REP_ANC_DESC</Tag>
+		<English>Polish Principalities</English>
+		<French/>
+		<German>Polnische F&#252;rstent&#252;mer</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_REP_DESC</Tag>
+		<English>Commonwealth of Poland</English>
+		<French/>
+		<German>K&#246;nigliche Republik Polen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_MON_DESC</Tag>
+		<English>Kingdom of Poland</English>
+		<French/>
+		<German>Königreich Polen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_POLAND_DEM_DESC</Tag>
+		<English>Republic of Poland</English>
+		<French/>
+		<German>Republik Polen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_TRI_DESC</Tag>
+		<English>Latin Tribes</English>
+		<French/>
+		<German>Lateinische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_TRI_ADJ</Tag>
+		<English>Latin</English>
+		<French/>
+		<German>Lateinisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_TRI_SHORT</Tag>
+		<English>Latins</English>
+		<French/>
+		<German>Lateiner</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_CON_DESC</Tag>
+		<English>Latin League</English>
+		<French/>
+		<German>Lateinische Liga</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_CON_MED_DESC</Tag>
+		<English>Italic League</English>
+		<French/>
+		<German>Italienische Liga</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_ITA_ADJ</Tag>
+		<English>Italian</English>
+		<French/>
+		<German>Italienisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_ITA_SHORT</Tag>
+		<English>Italy</English>
+		<French/>
+		<German>Italien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_ITA_DES_DESC</Tag>
+		<English>Italian Empire</English>
+		<French/>
+		<German>Italienisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_ITA_MON_DESC</Tag>
+		<English>Kingdom of Italy</English>
+		<French/>
+		<German>K&#246;nigreich Italien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_REP_MED_DESC</Tag>
+		<English>Commune of Rome</English>
+		<French/>
+		<German>Gemeinde von Rom</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_THE_DESC</Tag>
+		<English>Papal States</English>
+		<French/>
+		<German>Kirchenstaat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_THE_ADJ</Tag>
+		<English>Papal</English>
+		<French/>
+		<German>P&#228;pstlich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_THE_SHORT</Tag>
+		<English>Papacy</English>
+		<French/>
+		<German>Papsttum</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_DIC_DESC</Tag>
+		<English>Italian Social Republic</English>
+		<French/>
+		<German>Italienische Sozialrepublik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_TRI_DESC</Tag>
+		<English>East Slavic Tribes</English>
+		<French/>
+		<German>Ostslawische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_TRI_ADJ</Tag>
+		<English>East Slavic</English>
+		<French/>
+		<German>Ostslawisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_TRI_SHORT</Tag>
+		<English>East Slavs</English>
+		<French/>
+		<German>Ostslawen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_COM_DESC</Tag>
+		<English>Soviet Union</English>
+		<French/>
+		<German>Sowjetunion</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_COM_ADJ</Tag>
+		<English>Soviet</English>
+		<French/>
+		<German>Sowjetisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_COM_SHORT</Tag>
+		<English>Soviets</English>
+		<French/>
+		<German>Sowjets</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_DES_DESC</Tag>
+		<English>Rurikid Empire</English>
+		<French/>
+		<German>Rurikidenreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_REP2_DESC</Tag>
+		<English>Veche Republic</English>
+		<French/>
+		<German>Wetsche Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_REP_DESC</Tag>
+		<English>Russian Principalities</English>
+		<French/>
+		<German>Russische F&#252;rstent&#252;mer</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_MON_DESC</Tag>
+		<English>Principality of</English>
+		<French/>
+		<German>F&#252;rstentum</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_LADOGA_DESC</Tag>
+		<English>Ladoga</English>
+		<French/>
+		<German>Ladoga</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_MON_TSAR_DESC</Tag>
+		<English>Tsardom</English>
+		<French/>
+		<German>Zarentum</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_SCA_DESC</Tag>
+		<English>Scandinavian Empire</English>
+		<French/>
+		<German>Skandinavisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_SCA_ADJ</Tag>
+		<English>Scandinavian</English>
+		<French/>
+		<German>Skandinavisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_SCA_SHORT</Tag>
+		<English>Scandinavia</English>
+		<French/>
+		<German>Skandinavien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_DEN_DESC</Tag>
+		<English>Danish Empire</English>
+		<French/>
+		<German>D&#228;nisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_DEN_ADJ</Tag>
+		<English>Danish</English>
+		<French/>
+		<German>D&#228;nisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_DEN_SHORT</Tag>
+		<English>Denmark</English>
+		<French/>
+		<German>D&#228;nemark</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_VIK_ADJ</Tag>
+		<English>Viking</English>
+		<French/>
+		<German>Wiking</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_VIK_SHORT</Tag>
+		<English>Vikings</English>
+		<French/>
+		<German>Wikinger</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_DES_DESC</Tag>
+		<English>North Sea Empire</English>
+		<French/>
+		<German>Nordsee-Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_SWE_DESC</Tag>
+		<English>Swedish Empire</English>
+		<French/>
+		<German>Schwedisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_SWE_ADJ</Tag>
+		<English>Swedish</English>
+		<French/>
+		<German>Schwedisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_SWE_SHORT</Tag>
+		<English>Sweden</English>
+		<French/>
+		<German>Schweden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_SVE_SHORT</Tag>
+		<English>Svealand</English>
+		<French/>
+		<German>Svealand</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_CON_DESC</Tag>
+		<English>Viking Petty Kingdoms</English>
+		<French/>
+		<German>Wiking Kleink&#246;nigreiche</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_CON_MED_DESC</Tag>
+		<English>Kalmar Union</English>
+		<French/>
+		<German>Kalmarer Union</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_REP_DESC</Tag>
+		<English>Icelandic Commonwealth</English>
+		<French/>
+		<German>Isl&#228;ndisches Gemeinwesen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_REP_SHORT</Tag>
+		<English>Iceland</English>
+		<French/>
+		<German>Island</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_REP_ADJ</Tag>
+		<English>Icelandic</English>
+		<French/>
+		<German>Isl&#228;ndisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKING_REP_REN_DESC</Tag>
+		<English>Republic of Iceland</English>
+		<French/>
+		<German>Republik Island</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_IBE_DESC</Tag>
+		<English>Iberian Empire</English>
+		<French/>
+		<German>Iberisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_IBE_ADJ</Tag>
+		<English>Iberian</English>
+		<French/>
+		<German>Iberisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_IBE_SHORT</Tag>
+		<English>Iberia</English>
+		<French/>
+		<German>Iberien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_THE_DESC</Tag>
+		<English>Order of Santiago</English>
+		<French/>
+		<German>Santiagoorden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_CAS_DESC</Tag>
+		<English>Castilian Empire</English>
+		<French/>
+		<German>Kastilisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_CAS_ADJ</Tag>
+		<English>Castilian</English>
+		<French/>
+		<German>Kastilisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_CAS_SHORT</Tag>
+		<English>Castile</English>
+		<French/>
+		<German>Kastilien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_REP_DESC</Tag>
+		<English>Iberian Kingdoms</English>
+		<French/>
+		<German>Iberische K&#246;nigreiche</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_MON_DESC</Tag>
+		<English>Kingdom of Castile</English>
+		<French/>
+		<German>K&#246;nigreich Kastilien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_AST_DESC</Tag>
+		<English>Kingdom of Asturias</English>
+		<French/>
+		<German>K&#246;nigreich Asturien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_RMO_DESC</Tag>
+		<English>Kingdom of Spain</English>
+		<French/>
+		<German>K&#246;nigreich Spanien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_TRI_DESC</Tag>
+		<English>Tocharian Tribes</English>
+		<French/>
+		<German>Tocharianische St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_TRI_ADJ</Tag>
+		<English>Tocharian</English>
+		<French/>
+		<German>Tocharianisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_TRI_SHORT</Tag>
+		<English>Tocharians</English>
+		<French/>
+		<German>Tocharer</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_ATR_DESC</Tag>
+		<English>Pashto Tribes</English>
+		<French/>
+		<German>Pashto St&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_ATR_ADJ</Tag>
+		<English>Pashtun</English>
+		<French/>
+		<German>Pashtun</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_ATR_SHORT</Tag>
+		<English>Pashtuns</English>
+		<French/>
+		<German>Paschtunen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_COM_DESC</Tag>
+		<English>Uzbek Soviet Socialist Republic</English>
+		<French/>
+		<German>Usbekische Sozialistische Sowjetrepublik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_COM_AFG_DESC</Tag>
+		<English>Democratic Republic of Afghanistan</English>
+		<French/>
+		<German>Demokratische Republik Afghanistan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_DEM_AFG_DESC</Tag>
+		<English>Republic of Afghanistan</English>
+		<French/>
+		<German>Republik Afghanistan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_DIC_AFG_DESC</Tag>
+		<English>State of Afghanistan</English>
+		<French/>
+		<German>Staat Afghanistan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_DES_AFG_DESC</Tag>
+		<English>Afghan Empire</English>
+		<French/>
+		<German>Durrani-Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_AFG_ADJ</Tag>
+		<English>Afghan</English>
+		<French/>
+		<German>Afghanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_AFG_SHORT</Tag>
+		<English>Afghanistan</English>
+		<French/>
+		<German>Afghanistan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_REP_ADJ</Tag>
+		<English>Sogdian</English>
+		<French/>
+		<German>Sogdianisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_REP_SHORT</Tag>
+		<English>Sogdiana</English>
+		<French/>
+		<German>Sogdiana</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_UZB_ADJ</Tag>
+		<English>Uzbek</English>
+		<French/>
+		<German>Usbekisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_UZB_SHORT</Tag>
+		<English>Uzbekistan</English>
+		<French/>
+		<German>Usbekistan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_UZB_DEM_DESC</Tag>
+		<English>Republic of Uzbekistan</English>
+		<French/>
+		<German>Republik Usbekistan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_DES_DESC</Tag>
+		<English>Kushan Empire</English>
+		<French/>
+		<German>Imperium Kuschana</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_MON_DESC</Tag>
+		<English>Kushan Kingdom</English>
+		<French/>
+		<German>K&#246;nigreich Kuschana</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_DES_ADJ</Tag>
+		<English>Kushan</English>
+		<French/>
+		<German>Kuschana</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_DES_SHORT</Tag>
+		<English>Kushans</English>
+		<French/>
+		<German>Kuschaner</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_THE_DESC</Tag>
+		<English>Emirate of</English>
+		<French/>
+		<German>Emirat von</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_DIC_DESC</Tag>
+		<English>State of Turkmenistan</English>
+		<French/>
+		<German>Staat Turkmenistan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_DIC_ADJ</Tag>
+		<English>Turkoman</English>
+		<French/>
+		<German>Turkmenisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_DIC_SHORT</Tag>
+		<English>Turkmenistan</English>
+		<French/>
+		<German>Turkmenistan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_BMO_DESC</Tag>
+		<English>Greco-Bactrian Kingdom</English>
+		<French/>
+		<German>Griechisch-Baktrisches K&#246;nigreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_BDE_DESC</Tag>
+		<English>Bactrian Empire</English>
+		<French/>
+		<German>Baktrisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_BAC_ADJ</Tag>
+		<English>Bactrian</English>
+		<French/>
+		<German>Baktrianisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_BAC_SHORT</Tag>
+		<English>Bactria</English>
+		<French/>
+		<German>Baktrien</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_TIM_DESC</Tag>
+		<English>Timurid Empire</English>
+		<French/>
+		<German>Timuridenreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_TIM_MON_DESC</Tag>
+		<English>Timurid Dynasty</English>
+		<French/>
+		<German>Timuriden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_TIM_REP_DESC</Tag>
+		<English>Timurid Emirates</English>
+		<French/>
+		<German>Timuridenemirate</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_TIM_ADJ</Tag>
+		<English>Timurid</English>
+		<French/>
+		<German>Timuridisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_TIM_SHORT</Tag>
+		<English>Timurids</English>
+		<French/>
+		<German>Timuriden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_UZB_DIC_DESC</Tag>
+		<English>Shaybanid Empire</English>
+		<French/>
+		<German>Shaybanidenreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_KAZ_DESC</Tag>
+		<English>Kazakh Khanate</English>
+		<French/>
+		<German>Kasachisches Khanat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_KAZ_ADJ</Tag>
+		<English>Kazakh</English>
+		<French/>
+		<German>Kasachisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_KAZ_SHORT</Tag>
+		<English>Kazakhstan</English>
+		<French/>
+		<German>Kasachstan</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_NOG_DESC</Tag>
+		<English>Nogai Confederation</English>
+		<French/>
+		<German>Nogai-Konf&#246;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_NOG_ADJ</Tag>
+		<English>Nogai</English>
+		<French/>
+		<German>Nogai</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_NOG_SHORT</Tag>
+		<English>Nogai</English>
+		<French/>
+		<German>Nogai</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_SAM_DES_DESC</Tag>
+		<English>Samanid Empire</English>
+		<French/>
+		<German>Samanidenreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_SAM_MON_DESC</Tag>
+		<English>Samanid Emirate</English>
+		<French/>
+		<German>Samaniden-Emirat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_SAM_ADJ</Tag>
+		<English>Samanid</English>
+		<French/>
+		<German>Samanidisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_SAM_SHORT</Tag>
+		<English>Samanids</English>
+		<French/>
+		<German>Samaniden</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_PAR_DES_DESC</Tag>
+		<English>Parthian Empire</English>
+		<French/>
+		<German>Partherreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_PAR_MON_DESC</Tag>
+		<English>Indo-Parthian Kingdom</English>
+		<French/>
+		<German>Indo-Parthisches K&#246;nigreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_PAR_ADJ</Tag>
+		<English>Parthian</English>
+		<French/>
+		<German>Parthisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_PAR_SHORT</Tag>
+		<English>Parthia</English>
+		<French/>
+		<German>Parthen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_TRI_DESC</Tag>
+		<English>Turkic Tribes</English>
+		<French/>
+		<German>Turkst&#228;mme</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_TRI_ADJ</Tag>
+		<English>Turkic</English>
+		<French/>
+		<German>Turkisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_DES_DESC</Tag>
+		<English>G&#246;kt&#252;rk Empire</English>
+		<French/>
+		<German>K&#246;k-t&#252;rk Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_REP_DESC</Tag>
+		<English>G&#246;kt&#252;rk Confederation</English>
+		<French/>
+		<German>K&#246;k-t&#252;rk Bund</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_MON_DESC</Tag>
+		<English>G&#246;kt&#252;rk Khaganate</English>
+		<French/>
+		<German>K&#246;k-t&#252;rk Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_DES_SHORT</Tag>
+		<English>G&#246;kt&#252;rks</English>
+		<French/>
+		<German>K&#246;k-t&#252;rken</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_DES_ADJ</Tag>
+		<English>G&#246;kt&#252;rk</English>
+		<French/>
+		<German>K&#246;k-t&#252;rk</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_DES_MED_DESC</Tag>
+		<English>Seljuk Empire</English>
+		<French/>
+		<German>Seldschukenreich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_DES_MED_SHORT</Tag>
+		<English>Seljuks</English>
+		<French/>
+		<German>Seldschuken</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_DES_MED_ADJ</Tag>
+		<English>Seljuk</English>
+		<French/>
+		<German>Seldschuk</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_DES_OTT_DESC</Tag>
+		<English>Ottoman Empire</English>
+		<French/>
+		<German>Osmanisches Reich</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_THE_OTT_DESC</Tag>
+		<English>Ottoman Caliphate</English>
+		<French/>
+		<German>Osmanisches Kalifat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_OTT_SHORT</Tag>
+		<English>Ottomans</English>
+		<French/>
+		<German>Osmanen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_OTT_ADJ</Tag>
+		<English>Ottoman</English>
+		<French/>
+		<German>Osmanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_REP2_DESC</Tag>
+		<English>Ahi Republic</English>
+		<French/>
+		<German>Achiyya</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_REP_MED_DESC</Tag>
+		<English>Cuman-Kipchak Confederation</English>
+		<French/>
+		<German>Kuman-Kipchak-Konf&#246;deration</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_REP_MED_SHORT</Tag>
+		<English>Cumania</English>
+		<French/>
+		<German>Kumanen</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_REP_MED_ADJ</Tag>
+		<English>Cuman</English>
+		<French/>
+		<German>Kumanisch</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_REP_REN_DESC</Tag>
+		<English>Anatolian Beyliks</English>
+		<French/>
+		<German>Anatolische Beyliks</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_MED_MON_DESC</Tag>
+		<English>Sultanate of Rum</English>
+		<French/>
+		<German>Sultanat der Rum-Seldschuken</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_REN_MON_DESC</Tag>
+		<English>Ottoman Sultanate</English>
+		<French/>
+		<German>Osmanisches Sultanat</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_DEM_DESC</Tag>
+		<English>Republic of Turkey</English>
+		<French/>
+		<German>T&#252;rkische Republik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_COM_DESC</Tag>
+		<English>People's Republic of Kampuchea</English>
+		<French/>
+		<German>Volksrepublik Kampuchea</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HALYCH_COM_DESC</Tag>
+		<English>Lithuanian Soviet Socialist Republic</English>
+		<French/>
+		<German>Litauische Sozialistische Sowjetrepublik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_UKRAINE_COM_DESC</Tag>
+		<English>Ukrainian Soviet Socialist Republic</English>
+		<French/>
+		<German>Ukrainische Sozialistische Sowjetrepublik</German>
+		<Italian/>
+		<Spanish/>
+	</TEXT>
+</Civ4GameText>

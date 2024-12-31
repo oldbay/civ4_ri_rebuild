@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	Religion Conquest
+	Originally by Mexico
+  Converted to BUG module by Josh Sjoding
+-->
+<mod id="ReligionConquest" 
+	 name="Religion Conquest" 
+	 author="Mexico" 
+	 version="1.0" 
+	 date="11/21/2009">
+
+  <event type="cityAcquired" module="ReligionConquest" function="onCityAcquired"/>
+</mod>

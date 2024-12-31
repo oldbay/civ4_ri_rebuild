@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Help -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_ADVISOR</Tag>
+		<English>Advisor</English>
+		<French>Adviseur</French>
+		<German>Berater</German>
+		<Italian>Consiglieri</Italian>
+		<Spanish>Consejeros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_CAMERA</Tag>
+		<English>Camera</English>
+		<French>Caméra</French>
+		<German>Kamerasteuerung</German>
+		<Italian>Camera</Italian>
+		<Spanish>Cámara</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_CITY</Tag>
+		<English>City Screen</English>
+		<French>Ecran de Ville</French>
+		<German>Stadt-Bildschirm</German>
+		<Italian>Schermata cittadina</Italian>
+		<Spanish>Pantalla de Ciudad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_GAME</Tag>
+		<English>Game</English>
+		<French>Jeu</French>
+		<German>Allgemein</German>
+		<Italian>Gioco</Italian>
+		<Spanish>Juego</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_MAP</Tag>
+		<English>Map</English>
+		<French>Carte</French>
+		<German>Hauptbildschirm</German>
+		<Italian>Mappa</Italian>
+		<Spanish>Mapa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_MOUSE</Tag>
+		<English>Mouse</English>
+		<French>Souris</French>
+		<German>Maussteuerung</German>
+		<Italian>Mouse</Italian>
+		<Spanish>Ratón</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_MULTIPLAYER</Tag>
+		<English>Multi-Player</English>
+		<French>Multi-Joueur</French>
+		<German>Multiplayer</German>
+		<Italian>Multiplayer</Italian>
+		<Spanish>Multijugador</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_UNIT</Tag>
+		<English>Units</English>
+		<French>Unités</French>
+		<German>Einheiten</German>
+		<Italian>Unità</Italian>
+		<Spanish>Unidades</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_WORKER</Tag>
+		<English>Worker</English>
+		<French>Worker</French>
+		<German>Bautrupp</German>
+		<Italian>Ricevuto uno Lavoratore</Italian>
+		<Spanish>Trabajador</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_OTHER</Tag>
+		<English>Other</English>
+		<French>Other</French>
+		<German>Andere</German>
+		<Italian>Altri</Italian>
+		<Spanish>Otro</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HOTKEYCLASS_ALL</Tag>
+		<English>All</English>
+		<French>Tout</French>
+		<German>Alle</German>
+		<Italian>Tutte</Italian>
+		<Spanish>Todas</Spanish>
+	</TEXT>
+</Civ4GameText>

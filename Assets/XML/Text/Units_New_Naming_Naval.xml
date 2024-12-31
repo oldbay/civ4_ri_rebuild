@@ -1,0 +1,2405 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <!-- BEGIN: UNITCLASS_GALLEY -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY</Tag>
+		<English>Sailboat</English>
+		<German>
+			<Text>Segelboot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_ARAWAK</Tag>
+		<English>Sailboat (Taino Canoe)</English>
+		<German>
+			<Text>Taino-Kanu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_ASIA</Tag>
+		<English>Sailboat (Asian)</English>
+		<German>
+			<Text>Asiatische Galeere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_AUSTRONESIA</Tag>
+		<English>Sailboat (Trade Proa)</English>
+		<German>
+			<Text>Proa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_BARBARIAN</Tag>
+		<English>Sailboat (Pirate)</English>
+		<German>
+			<Text>Piratengaleere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_EGYPT</Tag>
+		<English>Sailboat (Papyrus)</English>
+		<German>
+			<Text>Schilfboot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_GREECE</Tag>
+		<English>Sailboat (Bireme)</English>
+		<German>
+			<Text>Bireme</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_HAIDA_INUIT</Tag>
+		<English>Sailboat (Head Canoe)</English>
+		<German>
+			<Text>Kajak</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_HUNGARY</Tag>
+		<English>Sailboat (Galaia)</English>
+		<German>
+			<Text>Galaia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_INDIA</Tag>
+		<English>Sailboat (Boita)</English>
+		<German>
+			<Text>Boita</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_JAPAN</Tag>
+		<English>Sailboat (Kobaya)</English>
+		<German>
+			<Text>Kobaya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_MEDITERRANEAN</Tag>
+		<English>Sailboat (Mediterranean)</English>
+		<German>
+			<Text>Mittelmeer-Galeere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_MESO_AMERICA</Tag>
+		<English>Sailboat (Canoe)</English>
+		<German>
+			<Text>Kanu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_NATIVE_NORTH</Tag>
+		<English>Sailboat (Tribal Canoe)</English>
+		<German>
+			<Text>Stammeskanu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_NATIVE_SOUTH</Tag>
+		<English>Sailboat (Reed)</English>
+		<German>
+			<Text>Schilfboot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_NORDIC</Tag>
+		<English>Sailboat (Nordic)</English>
+		<German>
+			<Text>Knarr-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_PATAGONIA</Tag>
+		<English>Sailboat (Sea Canoe)</English>
+		<German>
+			<Text>Meereskanu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_POLYNESIA</Tag>
+		<English>Sailboat (Waka)</English>
+		<German>
+			<Text>Waka</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_GALLEY -->
+  <!-- BEGIN: UNITCLASS_KOGGE -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE</Tag>
+		<English>Trade Ship (Cog)</English>
+		<German>
+			<Text>Kogge</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_AFRICAN</Tag>
+		<English>Trade Ship (Mtepe)</English>
+		<German>
+			<Text>Mtepe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_ASIAN</Tag>
+		<English>Trade Ship (Cargo Junk)</English>
+		<German>
+			<Text>Dschunke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_BARBARIAN</Tag>
+		<English>Pirate Cog</English>
+		<German>
+			<Text>Piratenkogge</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_INDIA</Tag>
+		<English>Trade Ship (Budgerow)</English>
+		<German>
+			<Text>Budgerow</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_MEDITERRANEAN</Tag>
+		<English>Trade Ship (Bilander)</English>
+		<German>
+			<Text>Bilander</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_MIDDLE_EAST</Tag>
+		<English>Trade Ship (Dhow)</English>
+		<German>
+			<Text>Dau</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_AUSTRONESIA</Tag>
+		<English>Trade Ship (Pencalang)</English>
+		<German>
+			<Text>Pencalang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_DRAVIDIAN</Tag>
+		<English>Trade Ship (Patri)</English>
+		<German>
+			<Text>Cholo-Kogge</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_HAIDA_INUIT</Tag>
+		<English>Trade Ship (Northern Canoe)</English>
+		<German>
+			<Text>Nordischer Kanu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_JAPAN</Tag>
+		<English>Trade Ship (Seki Bune)</English>
+		<German>
+			<Text>Sekibune</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_MESO_AMERICA</Tag>
+		<English>Trade Ship (Cargo Raft)</English>
+		<German>
+			<Text>Frachtfloss</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_MESO_AMERICA_2</Tag>
+		<English>Trade Ship (Balsa Boat)</English>
+		<German>
+			<Text>Mesoamerikanische Kogge</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_KOGGE -->
+  <!-- BEGIN: UNITCLASS_MERCHANTMAN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN</Tag>
+		<English>Merchantman</English>
+		<German>
+			<Text>Hilfskreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_ASIAN</Tag>
+		<English>Merchantman (Lorcha)</English>
+		<German>
+			<Text>Lorcha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEON</Tag>
+		<English>Merchantman (Galleon)</English>
+		<German>
+			<Text>Galleon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_AUSTRONESIA</Tag>
+		<English>Merchantman (Pinisi)</English>
+		<German>
+			<Text>Pinisi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_ENGLAND</Tag>
+		<English>Merchantman (East Indiaman)</English>
+		<German>
+			<Text>Ostindienfahrer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_FRANCE</Tag>
+		<English>Merchantman (French)</English>
+		<German>
+			<Text>Franz&#246;sischer Hilfskreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_HUNGARY</Tag>
+		<English>Merchantman (Magyar)</English>
+		<German>
+			<Text>Ungarisches Frachtschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_INDIA</Tag>
+		<English>Merchantman (Patamar)</English>
+		<German>
+			<Text>Patamar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_MESO_AMERICA</Tag>
+		<English>Merchantman (Mesoamerican)</English>
+		<German>
+			<Text>Mesoamerikanisches Handelsschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_MIDDLE_EAST</Tag>
+		<English>Merchantman (Baghlah)</English>
+		<German>
+			<Text>Bagalla</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_PORTUGAL</Tag>
+		<English>Merchantman (Gale&#227;o)</English>
+		<German>
+			<Text>Portugisische Handelsgaleone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_RUSSIA</Tag>
+		<English>Merchantman (Russian)</English>
+		<German>
+			<Text>Russischer Hilfskreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN_SPAIN</Tag>
+		<English>Merchantman (Trade Galleon)</English>
+		<German>
+			<Text>Manila-Galeone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_MERCHANTMAN -->
+  <!-- BEGIN: UNITCLASS_PADDLEWHEELER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PADDLEWHEELER</Tag>
+		<English>Paddlewheeler</English>
+		<German>
+			<Text>Raddampfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PADDLEWHEELER_AMERICA</Tag>
+		<English>Paddlewheeler (Schooner)</English>
+		<German>
+			<Text>Schoner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_PADDLEWHEELER -->
+  <!-- BEGIN: UNITCLASS_STEAMER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEAMER</Tag>
+		<English>Troopship</English>
+		<German>
+			<Text>Frachtschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_STEAMER -->
+  <!-- BEGIN: UNITCLASS_TRANSPORT -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_AAS</Tag>
+		<English>Amphibious Transport Dock</English>
+		<German>
+			<Text>Amphibisches Transportdock</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_TRANSPORT -->
+  <!-- BEGIN: UNITCLASS_TRIREME -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME</Tag>
+		<English>Galley</English>
+		<German>
+			<Text>Triere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_AFRICAN</Tag>
+		<English>Galley (African Trireme)</English>
+		<German>
+			<Text>Afrikanische Triere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_ASIAN</Tag>
+		<English>Galley (Great Wing Ship)</English>
+		<German>
+			<Text>Asiatische Triere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_AUSTRONESIA</Tag>
+		<English>Galley (Catamaran)</English>
+		<German>
+			<Text>Katamaran</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_BARBARIAN</Tag>
+		<English>Galley (Pirate Longship)</English>
+		<German>
+			<Text>Piratisches Langschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_CARTHAGE</Tag>
+		<English>Galley (Quadrireme)</English>
+		<German>
+			<Text>Quadrireme</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_EGYPT</Tag>
+		<English>Galley (Royal Ship)</English>
+		<German>
+			<Text>&#196;gyptische Trireme</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_HUNGARY</Tag>
+		<English>Galley (Lembos)</English>
+		<German>
+			<Text>Lembos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_INDIA</Tag>
+		<English>Galley (War Boita)</English>
+		<German>
+			<Text>Kriegs-Boita</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_JAPAN</Tag>
+		<English>Galley (Atake Bune)</English>
+		<German>
+			<Text>Atakebune</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_MEDITERRANEAN</Tag>
+		<English>Galley (Trireme)</English>
+		<German>
+			<Text>Mittelmeer-Trireme</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_MESO_AMERICA</Tag>
+		<English>Galley (War Canoe)</English>
+		<German>
+			<Text>Kriegskanu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_MIDDLE_EAST</Tag>
+		<English>Galley (Eastern Trireme)</English>
+		<German>
+			<Text>&#214;stliche Trireme</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_NORDIC</Tag>
+		<English>Galley (Longship)</English>
+		<German>
+			<Text>Langschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_ROME</Tag>
+		<English>Galley (Quinquireme)</English>
+		<German>
+			<Text>Quinquereme</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME_VIKING</Tag>
+		<English>Galley (Skeid)</English>
+		<German>
+			<Text>Skeid</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_TRIREME -->
+  <!-- BEGIN: UNITCLASS_WAR_GALLEY -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY</Tag>
+		<English>War Galley</English>
+		<German>
+			<Text>Kriegsgaleere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_AFRICA</Tag>
+		<English>War Galley (African)</English>
+		<German>
+			<Text>Afrikanische Galeere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_ASIAN</Tag>
+		<English>War Galley (Tower Ship)</English>
+		<German>
+			<Text>Turmschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_AUSTRONESIA</Tag>
+		<English>War Galley (Djong)</English>
+		<German>
+			<Text>Djong</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_BARBARIAN</Tag>
+		<English>War Galley (Pirate)</English>
+		<German>
+			<Text>Piratengaleere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_DRAVIDIAN</Tag>
+		<English>War Galley (Dharani)</English>
+		<German>
+			<Text>Dharani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_GREECE</Tag>
+		<English>War Galley (Dromon)</English>
+		<German>
+			<Text>Dromone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_INDIA</Tag>
+		<English>War Galley (Gupta)</English>
+		<German>
+			<Text>Gupta-Galeere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_JAPAN</Tag>
+		<English>War Galley (Tekkousen)</English>
+		<German>
+			<Text>Tekkousen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_KOREA</Tag>
+		<English>War Galley (Tae Maengson)</English>
+		<German>
+			<Text>Tae Maengson</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_MEDITERRANEAN</Tag>
+		<English>War Galley (Galea Sottile)</English>
+		<German>
+			<Text>Galea sottile</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_MESO_AMERICA</Tag>
+		<English>War Galley (War Boat)</English>
+		<German>
+			<Text>Mesoamerikanische Galeere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_MIDDLE_EAST</Tag>
+		<English>War Galley (Middle Eastern)</English>
+		<German>
+			<Text>Mittel&#246;stliche Galeere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_OTTOMAN</Tag>
+		<English>War Galley (Kadirga)</English>
+		<German>
+			<Text>Kadirga</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_SOUTH_CHINA</Tag>
+		<English>War Galley (Wheel Ship)</English>
+		<German>
+			<Text>Rudergaleere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAR_GALLEY_VIKING</Tag>
+		<English>War Galley (Drakkar)</English>
+		<German>
+			<Text>Drakkar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_WAR_GALLEY -->
+  <!-- BEGIN: UNITCLASS_GALIOT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT</Tag>
+		<English>Galleass</English>
+		<German>
+			<Text>Galeasse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_GREEK</Tag>
+		<English>Galleass (Oared Brigantine)</English>
+		<German>
+			<Text>Ruderbrigantine</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_ASIAN</Tag>
+		<English>Galleass (Wu Gong Chuan)</English>
+		<German>
+			<Text>Tausendf&#252;&#223;lerschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_AUSTRONESIA</Tag>
+		<English>Galleass (Lanchara)</English>
+		<German>
+			<Text>Lancha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_BARBARIAN</Tag>
+		<English>Galleass (Pirate)</English>
+		<German>
+			<Text>Piratengaleasse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_CARTHAGE</Tag>
+		<English>Galleass (Barbary Galliot)</English>
+		<German>
+			<Text>Barbareskengaleasse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_INDIA</Tag>
+		<English>Galleass (Galivat)</English>
+		<German>
+			<Text>Galivat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_JAPAN</Tag>
+		<English>Galleass (O-atakebune)</English>
+		<German>
+			<Text>Oatakebune</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_KOREA</Tag>
+		<English>Galleass (Panokseon)</English>
+		<German>
+			<Text>Panokseon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_MEDITERRANEAN</Tag>
+		<English>Galleass (Lanterna)</English>
+		<German>
+			<Text>Lanerna</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLIOT_OTTOMAN</Tag>
+		<English>Galleass (Mahon)</English>
+		<German>
+			<Text>Osmanische Galeasse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_GALIOT -->
+  <!-- BEGIN: UNITCLASS_IRONCLAD -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRONCLAD_AMERICA</Tag>
+		<English>Ironclad (Monitor)</English>
+		<German>
+			<Text>Monitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_IRONCLAD -->
+  <!-- BEGIN: UNITCLASS_ESCORT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ESCORT</Tag>
+		<English>Escort</English>
+		<German>
+			<Text>Geleitschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ESCORT_AMERICA</Tag>
+		<English>Escort (US)</English>
+		<German>
+			<Text>US-Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ESCORT_ENGLAND</Tag>
+		<English>Escort (British)</English>
+		<German>
+			<Text>HMS-Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ESCORT_FRANCE</Tag>
+		<English>Escort (French)</English>
+		<German>
+			<Text>Franz&#246;sischer Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ESCORT_GERMAN</Tag>
+		<English>Escort (German)</English>
+		<German>
+			<Text>SMS-Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ESCORT_JAPAN</Tag>
+		<English>Escort (Japanese)</English>
+		<German>
+			<Text>Zerst&#246;rer der Kaiserlich Japanischen Marine</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ESCORT_ROME</Tag>
+		<English>Escort (Italian)</English>
+		<German>
+			<Text>Italienischer Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ESCORT_RUSSIA</Tag>
+		<English>Escort (Russian)</English>
+		<German>
+			<Text>Russischer Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_ESCORT -->
+  <!-- BEGIN: UNITCLASS_DESTROYER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DESTROYER_ENGLAND</Tag>
+		<English>Destroyer (Tribal-Class)</English>
+		<German>
+			<Text>Tribal-Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DESTROYER_FRANCE</Tag>
+		<English>Destroyer (Fantasque-Class)</English>
+		<German>
+			<Text>Fantasque-Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DESTROYER_GERMANY</Tag>
+		<English>Destroyer (Z23-Class)</English>
+		<German>
+			<Text>Z23-Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DESTROYER_POLAND</Tag>
+		<English>Destroyer (Grom-class)</English>
+		<German>
+			<Text>Grom-Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>  
+  <!-- END:   UNITCLASS_DESTROYER -->  
+  <!-- BEGIN: UNITCLASS_ECM_DESTROYER -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_ECM_DESTROYER</Tag>
+		<English>Modern Destroyer</English>
+		<German>
+			<Text>EloGM-Zerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ECM_DESTROYER_AMERICA</Tag>
+		<English>Modern Destroyer (Arleigh Burke-class)</English>
+		<German>
+			<Text>Arleigh-Burke-Lenkraketenzerst&#246;rer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ECM_DESTROYER_FRANCE</Tag>
+		<English>Modern Frigate (Georges Leygues-class)</English>
+		<German>
+			<Text>Georges-Leygues-Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ECM_DESTROYER_GERMANY</Tag>
+		<English>Modern Frigate (Sachsen-class)</English>
+		<German>
+			<Text>Sachsen-Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ECM_DESTROYER_OHP</Tag>
+		<English>Modern Frigate (Oliver Hazard Perry-class)</English>
+		<German>
+			<Text>Oliver-Hazard-Perry-Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_ECM_DESTROYER -->
+  <!-- BEGIN: UNITCLASS_FRIGATE -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_AMERICA</Tag>
+		<English>Frigate (American)</English>
+		<German>
+			<Text>Amerikanische Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_ASIA</Tag>
+		<English>Frigate (War Junk)</English>
+		<German>
+			<Text>Kriegsdschunke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_DRAVIDIAN</Tag>
+		<English>Frigate (Gurab)</English>
+		<German>
+			<Text>Bombay Grab</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_DUTCH</Tag>
+		<English>Frigate (Dunkirker)</English>
+		<German>
+			<Text>Niederl&#228;ndische Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_ENGLAND</Tag>
+		<English>Frigate (British)</English>
+		<German>
+			<Text>Englische Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_FRANCE</Tag>
+		<English>Frigate (French)</English>
+		<German>
+			<Text>Franz&#246;sische Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPANISH_GALLEON</Tag>
+		<English>Frigate (Fast Galleon)</English>
+		<German>
+			<Text>Spanische Galeone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_HUNGARY</Tag>
+		<English>Frigate (Magyar)</English>
+		<German>
+			<Text>Ungarische Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_MIDDLE_EAST</Tag>
+		<English>Frigate (Polacca)</English>
+		<German>
+			<Text>Polacker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_OTTOMAN</Tag>
+		<English>Frigate (Kalyon)</English>
+		<German>
+			<Text>Osmanische Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_PORTUGAL</Tag>
+		<English>Frigate (Gale&#227;o Pesado)</English>
+		<German>
+			<Text>Portugisische Galeone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE_RUSSIA</Tag>
+		<English>Frigate (Russian)</English>
+		<German>
+			<Text>Russische Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_FRIGATE -->
+  <!-- BEGIN: UNITCLASS_STEAM_FRIGATE -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRONCLAD_FRIGATE</Tag>
+		<English>Steam Frigate</English>
+		<German>
+			<Text>Dampf-Fregatte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRONCLAD_FRIGATE_GERMANY</Tag>
+		<English>Steam Frigate (Widderschiff)</English>
+		<German>
+			<Text>Widderschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRONCLAD_FRIGATE_JAPAN</Tag>
+		<English>Steam Frigate (Armored Ram)</English>
+		<German>
+			<Text>Panzerfregatt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRONCLAD_FRIGATE_TEXAS</Tag>
+		<English>Steam Frigate (Ironclad Ram)</English>
+		<German>
+			<Text>Panzerwidder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_STEAM_FRIGATE -->  
+  <!-- BEGIN: UNITCLASS_CRUISER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_CRUISER</Tag>
+		<English>Cruiser</English>
+		<German>
+			<Text>Leichter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_CRUISER_AMERICA</Tag>
+		<English>Cruiser (American)</English>
+		<German>
+			<Text>US Light Cruiser</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_CRUISER_ENGLAND</Tag>
+		<English>Cruiser (British)</English>
+		<German>
+			<Text>Britischer leichter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_CRUISER_FRANCE</Tag>
+		<English>Cruiser (French)</English>
+		<German>
+			<Text>Franz&#246;sischer leichter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_CRUISER_GERMAN</Tag>
+		<English>Cruiser (German)</English>
+		<German>
+			<Text>Deutscher leichter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_CRUISER_JAPAN</Tag>
+		<English>Cruiser (Japanese)</English>
+		<German>
+			<Text>Japanischer leichter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_CRUISER_OTTOMAN</Tag>
+		<English>Cruiser (Turkish)</English>
+		<German>
+			<Text>T&#252;rkischer leichter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_CRUISER_ROME</Tag>
+		<English>Cruiser (Italian)</English>
+		<German>
+			<Text>Italienischer leichter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_CRUISER_RUSSIA</Tag>
+		<English>Cruiser (Russian)</English>
+		<German>
+			<Text>Russischer leichter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>  
+  <!-- END:   UNITCLASS_CRUISER -->
+  <!-- BEGIN: UNITCLASS_HEAVY_CRUISER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_CRUISER</Tag>
+		<English>Battlecruiser</English>
+		<German>
+			<Text>Schlachtkreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_CRUISER_ENGLAND</Tag>
+		<English>Battlecruiser (Dido-class)</English>
+		<German>
+			<Text>Englischer Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_CRUISER_FRANCE</Tag>
+		<English>Battlecruiser (La Galissonniere class)</English>
+		<German>
+			<Text>Frant&#246;sischer schwerer Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_CRUISER_GERMAN</Tag>
+		<English>Battlecruiser (Deutschland-class)</English>
+		<German>
+			<Text>Deutsches Panzerschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_CRUISER_JAPAN</Tag>
+		<English>Battlecruiser (Takao-class)</English>
+		<German>
+			<Text>Schlachtkreuzer der Kaiserlich Japanischen Marine</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_CRUISER_POLAND</Tag>
+		<English>Battlecruiser (Danae-Class)</English>
+		<German>
+			<Text>Danae-Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_HEAVY_CRUISER -->
+  <!-- BEGIN: UNITCLASS_CARAVEL -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_ASIAN</Tag>
+		<English>Carrack (High Sea Junk)</English>
+		<German>
+			<Text>Asiatische Hochsee-Dschunke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_AUSTRONESIA</Tag>
+		<English>Carrack (Penjajap)</English>
+		<German>
+			<Text>Penjajap</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_BARBARIAN</Tag>
+		<English>Carrack (Buccaneer)</English>
+		<German>
+			<Text>Bukanier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_CARTHAGE</Tag>
+		<English>Carrack (Barbary)</English>
+		<German>
+			<Text>Barbareskenkarawelle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_DUTCH</Tag>
+		<English>Carrack (Dutch)</English>
+		<German>
+			<Text>Niederl&#228;ndische Karavelle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_ENGLAND</Tag>
+		<English>Carrack (Great Ship)</English>
+		<German>
+			<Text>Englische Karavelle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_FRANCE</Tag>
+		<English>Carrack (Nef)</English>
+		<German>
+			<Text>Franz&#246;sische Karacke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_HUNGARY</Tag>
+		<English>Carrack (Magyar)</English>
+		<German>
+			<Text>Ungarische Karacke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_INDIAN_OCEAN</Tag>
+		<English>Carrack (Kotiya)</English>
+		<German>
+			<Text>Ghanja</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_MESO_AMERICA</Tag>
+		<English>Carrack (Voyager Raft)</English>
+		<German>
+			<Text>Mesoamerikanische Karavelle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_MIDDLE_EAST</Tag>
+		<English>Carrack (Fuste)</English>
+		<German>
+			<Text>Fusta</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_OTTOMAN</Tag>
+		<English>Carrack (Kelek)</English>
+		<German>
+			<Text>Osmanische Karavelle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_PORTUGAL</Tag>
+		<English>Carrack (Nau)</English>
+		<German>
+			<Text>Nao</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_ROME</Tag>
+		<English>Carrack (Caravella)</English>
+		<German>
+			<Text>R&#246;mische Karavelle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_ROTW</Tag>
+		<English>Carrack (Beden)</English>
+		<German>
+			<Text>Beden</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_RUSSIA</Tag>
+		<English>Carrack (Russian)</English>
+		<German>
+			<Text>Russische Karacke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_VIKING</Tag>
+		<English>Carrack (Swedish)</English>
+		<German>
+			<Text>Nordische Karavelle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL2</Tag>
+		<English>Carrack</English>
+		<German>
+			<Text>Karacke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>  
+  <!-- END:   UNITCLASS_CARAVEL -->    
+  <!-- BEGIN: UNITCLASS_SLOOP -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP</Tag>
+		<English>Sloop</English>
+		<German>
+			<Text>Schaluppe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP_ASIAN</Tag>
+		<English>Sloop (Red Seal Ship)</English>
+		<German>
+			<Text>Rotsiegel-Schiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP_BARBARIAN</Tag>
+		<English>Sloop (Pirate)</English>
+		<German>
+			<Text>Piratenschaluppe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP_BERBER</Tag>
+		<English>Sloop (Moroccan Xebec)</English>
+		<German>
+			<Text>Marokkanische Schaluppe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP_CARTHAGE</Tag>
+		<English>Sloop (Barbary Xebec)</English>
+		<German>
+			<Text>Barbaresken-Schaluppe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP_DRAVIDIAN</Tag>
+		<English>Sloop (Ketch)</English>
+		<German>
+			<Text>Ketsch</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP_FRANCE</Tag>
+		<English>Sloop (Sailing Corvette)</English>
+		<German>
+			<Text>Segelkorvette</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP_INDIA</Tag>
+		<English>Sloop (Dhangi)</English>
+		<German>
+			<Text>Dhangi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLOOP_MIDDLE_EAST</Tag>
+		<English>Sloop (Xebec)</English>
+		<German>
+			<Text>Mittel&#246;stliche Schaluppe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>  
+  <!-- END:   UNITCLASS_SLOOP -->
+  <!-- BEGIN: UNITCLASS_GUNBOAT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUNBOAT</Tag>
+		<English>Gunboat</English>
+		<German>
+			<Text>Kanonenboot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUNBOAT_AMERICA</Tag>
+		<English>Gunboat (Blockade Runner)</English>
+		<German>
+			<Text>Blockadebrecher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_GUNBOAT -->
+  <!-- BEGIN: UNITCLASS_TORPEDO_BOAT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TORPEDO_BOAT</Tag>
+		<English>Torpedo Boat</English>
+		<German>
+			<Text>Torpedoboot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TORPEDO_BOAT_HUNGARY</Tag>
+		<English>Torpedo Boat (Elster-Class)</English>
+		<German>
+			<Text>Schischau-Torpedoboot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>  
+  <!-- END:   UNITCLASS_TORPEDO_BOAT -->  
+  <!-- BEGIN: UNITCLASS_CORVETTE -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CORVETTE</Tag>
+		<English>Corvette</English>
+		<German>
+			<Text>Korvette</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CORVETTE_ALLIED</Tag>
+		<English>Corvette (Flower-class)</English>
+		<German>
+			<Text>Flower-Korvette</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>  
+  <!-- END:   UNITCLASS_CORVETTE -->
+  <!-- BEGIN: UNITCLASS_STEALTH_CORVETTE -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_CORVETTE</Tag>
+		<English>Stealth Corvette</English>
+		<German>
+			<Text>Tarnkappenschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_CORVETTE_VIKING</Tag>
+		<English>Stealth Corvette (Skjold-class)</English>
+		<German>
+			<Text>Skjold</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_STEALTH_CORVETTE -->
+  <!-- BEGIN: UNITCLASS_LINE -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE_DUTCH</Tag>
+		<English>Ship of the Line (Dutch)</English>
+		<German>
+			<Text>Niederl&#228;ndisches Linienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE_HUNGARY</Tag>
+		<English>Ship of the Line (Magyar)</English>
+		<German>
+			<Text>Ungarisches Linienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE</Tag>
+		<English>Ship of the Line</English>
+		<German>
+			<Text>Linienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE_ASIA</Tag>
+		<English>Ship of the Line (Junk)</English>
+		<German>
+			<Text>Asiatisches Linienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE_ENGLAND</Tag>
+		<English>Ship of the Line (British)</English>
+		<German>
+			<Text>First-rate-Linienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE_FRANCE</Tag>
+		<English>Ship of the Line (French)</English>
+		<German>
+			<Text>Franz&#246;sisches Linienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE_INDIA</Tag>
+		<English>Ship of the Line (Pal)</English>
+		<German>
+			<Text>Indisches Linienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE_MESO_AMERICA</Tag>
+		<English>Ship of the Line (Mesoamerican)</English>
+		<German>
+			<Text>Mesoamerikanisches Kriegsschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE_RUSSIA</Tag>
+		<English>Ship of the Line (Russian)</English>
+		<German>
+			<Text>Russisches Schlachtschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LINE_SPAIN</Tag>
+		<English>Ship of the Line (Spanish)</English>
+		<German>
+			<Text>Spanisches Linienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_LINE -->   
+  <!-- BEGIN: UNITCLASS_ARMORED_CRUISER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_BATTLESHIP</Tag>
+		<English>Armoured Cruiser</English>
+		<German>
+			<Text>Gepanzerter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_BATTLESHIP_CHINA</Tag>
+		<English>Armoured Cruiser (Ting Yuan-class)</English>
+		<German>
+			<Text>Ting Yuan-Klasse Gepanzerter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_BATTLESHIP_JAPAN</Tag>
+		<English>Armoured Cruiser (Chin'en-class)</English>
+		<German>
+			<Text>Chin'en-Klasse Gepanzerter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_BATTLESHIP_SOUTH_CHINA</Tag>
+		<English>Armoured Cruiser (Dingyuan-class)</English>
+		<German>
+			<Text>Dingyuan-Klasse Gepanzerter Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_ARMORED_CRUISER -->
+  <!-- BEGIN: UNITCLASS_PREDREADNOUGHT -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT</Tag>
+		<English>Pre-Dreadnought</English>
+		<German>
+			<Text>Einheitslinienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT_AMERICA</Tag>
+		<English>Pre-Dreadnought (US)</English>
+		<German>
+			<Text>US-Einheitslinienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT_AUSTRIA</Tag>
+		<English>Pre-Dreadnought (Austrian)</English>
+		<German>
+			<Text>K.u.k.-Einheitslinienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT_ENGLAND</Tag>
+		<English>Pre-Dreadnought (British)</English>
+		<German>
+			<Text>HMS Lord Nelson-Einheitslinienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT_FRANCE</Tag>
+		<English>Pre-Dreadnought (French)</English>
+		<German>
+			<Text>Franz&#246;sisches Einheitslinienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT_GERMAN</Tag>
+		<English>Pre-Dreadnought (German)</English>
+		<German>
+			<Text>SMS Westfalen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT_HUNGARY</Tag>
+		<English>Pre-Dreadnought (Magyar)</English>
+		<German>
+			<Text>Ungarisches Einheitslinienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT_JAPAN</Tag>
+		<English>Pre-Dreadnought (Japanese)</English>
+		<German>
+			<Text>Einheitslinienschiff der Kaiserlich Japanischen Marine</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT_ROME</Tag>
+		<English>Pre-Dreadnought (Italian)</English>
+		<German>
+			<Text>Italienisches Einheitslinienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT_RUSSIA</Tag>
+		<English>Pre-Dreadnought (Russian)</English>
+		<German>
+			<Text>Russisches Einheitslinienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREDREADNOUGHT_SPAIN</Tag>
+		<English>Pre-Dreadnought (Spanish)</English>
+		<German>
+			<Text>Spanisches Einheitslinienschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_PREDREADNOUGHT -->  
+  <!-- BEGIN: UNITCLASS_DREADNOUGHT -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_DREADNOUGHT</Tag>
+		<English>Dreadnought</English>
+		<German>
+			<Text>Dreadnought</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DREADNOUGHT_AMERICA</Tag>
+		<English>Dreadnought (US)</English>
+		<German>
+			<Text>US-Dreadnought</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DREADNOUGHT_ENGLAND</Tag>
+		<English>Dreadnought (British)</English>
+		<German>
+			<Text>Britischer Dreadnought</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DREADNOUGHT_FRANCE</Tag>
+		<English>Dreadnought (French)</English>
+		<German>
+			<Text>Franz&#246;sischer Dreadnought</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DREADNOUGHT_GERMAN</Tag>
+		<English>Dreadnought (German)</English>
+		<German>
+			<Text>Deutscher Dreadnought</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DREADNOUGHT_HUNGARY</Tag>
+		<English>Dreadnought (Magyar)</English>
+		<German>
+			<Text>Ungarische Dreadnought</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DREADNOUGHT_JAPAN</Tag>
+		<English>Dreadnought (Japanese)</English>
+		<German>
+			<Text>Japanesischer Dreadnought</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DREADNOUGHT_ROME</Tag>
+		<English>Dreadnought (Italian)</English>
+		<German>
+			<Text>Italienischer Dreadnought</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DREADNOUGHT_RUSSIA</Tag>
+		<English>Dreadnought (Russian)</English>
+		<German>
+			<Text>Russischer Dreadnought</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_DREADNOUGHT -->
+  <!-- BEGIN: UNITCLASS_BATTLESHIP -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BATTLESHIP_FRANCE</Tag>
+		<English>Battleship (French)</English>
+		<German>
+			<Text>Franz&#246;sisches Kriegsschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BATTLESHIP_GERMAN</Tag>
+		<English>Battleship (German)</English>
+		<German>
+			<Text>Schlachtschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BATTLESHIP_HUNGARY</Tag>
+		<English>Battleship (Magyar)</English>
+		<German>
+			<Text>Ungarisches Schlachtschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BATTLESHIP_JAPAN</Tag>
+		<English>Battleship (Japanese)</English>
+		<German>
+			<Text>Yamato</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BATTLESHIP_ROME</Tag>
+		<English>Battleship (Italian)</English>
+		<German>
+			<Text>Italienisches Schlachtschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BATTLESHIP_RUSSIA</Tag>
+		<English>Battleship (Russian)</English>
+		<German>
+			<Text>Russisches Schlachtschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BATTLESHIP_AMERICA</Tag>
+		<English>Battleship (Iowa-class)</English>
+		<German>
+			<Text>US-Schlachtschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BATTLESHIP_ENGLAND</Tag>
+		<English>Battleship (King George V-class)</English>
+		<German>
+			<Text>Englisches Schlachtschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+  <!-- END:   UNITCLASS_BATTLESHIP -->
+  <!-- BEGIN: UNITCLASS_MISSILE_CRUISER -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_AEGIS_CRUISER</Tag>
+		<English>Missile Cruiser</English>
+		<German>
+			<Text>Lenkwaffenkreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AEGIS</Tag>
+		<English>Missile Cruiser (Ticonderoga-class)</English>
+		<German>
+			<Text>Aegis-Kreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AEGIS_RUSSIA</Tag>
+		<English>Missile Cruiser (Slava-class)</English>
+		<German>
+			<Text>Kirow</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_MISSILE_CRUISER -->  
+  <!-- BEGIN: UNITCLASS_CARRIER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARRIER_AMERICA</Tag>
+		<English>Carrier (Essex-class)</English>
+		<German>
+			<Text>USS-Flugzeugtr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARRIER_ENGLAND</Tag>
+		<English>Carrier (Illustrious-class)</English>
+		<German>
+			<Text>HMS Ark Royal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARRIER_GERMAN</Tag>
+		<English>Carrier (Graf Zeppelin-class)</English>
+		<German>
+			<Text>Graf Zeppelin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARRIER_HUNGARY</Tag>
+		<English>Carrier (Rep&#252;log&#233;p-hordoz&#243;)</English>
+		<German>
+			<Text>Ungarischer Flugzeugtr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARRIER_JAPAN</Tag>
+		<English>Carrier (Shokaku-class)</English>
+		<German>
+			<Text>Shokaku</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_CARRIER -->
+  <!-- BEGIN: UNITCLASS_MODERN_CARRIER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUCLEAR_CARRIER</Tag>
+		<English>Modern Carrier</English>
+		<German>
+			<Text>Moderner Flugzeugtr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUCLEAR_CARRIER_AMERICA</Tag>
+		<English>Modern Carrier (Nimitz-class)</English>
+		<German>
+			<Text>Supertr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUCLEAR_CARRIER_CHINA</Tag>
+		<English>Modern Carrier (Type 001A)</English>
+		<German>
+			<Text>Type 001A Flugzeugtr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUCLEAR_CARRIER_RUSSIA</Tag>
+		<English>Modern Carrier (Kuznetsov-class)</English>
+		<German>
+			<Text>Flugzeugkreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>  
+  <!-- END:   UNITCLASS_MODERN_CARRIER -->   
+  <!-- BEGIN: UNITCLASS_COASTAL_SUB -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COASTAL_SUBMARINE</Tag>
+		<English>Coastal Submarine</English>
+		<German>
+			<Text>K&#252;sten-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COASTAL_SUBMARINE_ENGLAND</Tag>
+		<English>Coastal Submarine (British)</English>
+		<German>
+			<Text>HMS-K&#252;sten-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COASTAL_SUBMARINE_FRANCE</Tag>
+		<English>Coastal Submarine (French)</English>
+		<German>
+			<Text>Franz&#246;sisches K&#252;sten-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COASTAL_SUBMARINE_GERMAN</Tag>
+		<English>Coastal Submarine (German)</English>
+		<German>
+			<Text>Deutsches K&#252;sten-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_COASTAL_SUB -->
+  <!-- BEGIN: UNITCLASS_WW2_SUB -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE_AMERICA</Tag>
+		<English>Submarine (Gato-Class)</English>
+		<German>
+			<Text>USS Gato SS-212</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE_ENGLAND</Tag>
+		<English>Submarine (T-Class)</English>
+		<German>
+			<Text>Tambor-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE_FRANCE</Tag>
+		<English>Submarine (Redoutable-Class)</English>
+		<German>
+			<Text>Redoutable-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE_GERMAN</Tag>
+		<English>Submarine (Type VIIc)</English>
+		<German>
+			<Text>Typ VII C-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE_JAPAN</Tag>
+		<English>Submarine (B1-Type)</English>
+		<German>
+			<Text>Type B1-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE_POLAND</Tag>
+		<English>Submarine (Orzel-Class)</English>
+		<German>
+			<Text>Orzel-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE_ROME</Tag>
+		<English>Submarine (Marconi-Class)</English>
+		<German>
+			<Text>Marconi-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE_RUSSIA</Tag>
+		<English>Submarine (Shchuka-Class)</English>
+		<German>
+			<Text>Shchuka-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>  
+  <!-- END:   UNITCLASS_WW2_SUB -->  
+  <!-- BEGIN: UNITCLASS_ATTACK_SUB -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE_EAST_BLOC</Tag>
+		<English>Attack Submarine (Kilo-class)</English>
+		<German>
+			<Text>Projekt 877 Paltus-Jagd-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE_FRANCE</Tag>
+		<English>Attack Submarine (Agosta-class)</English>
+		<German>
+			<Text>Agosta-Jagd-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE_GERMAN</Tag>
+		<English>Attack Submarine (Type 212 A)</English>
+		<German>
+			<Text>212 A-Jagd-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE_ROME</Tag>
+		<English>Attack Submarine (Todaro-class)</English>
+		<German>
+			<Text>Todaro-Jagd-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE_WEST_BLOC</Tag>
+		<English>Attack Submarine (Scorpene-class)</English>
+		<German>
+			<Text>Scorp&#232;ne-Jagd-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_ATTACK_SUB -->
+  <!-- BEGIN: UNITCLASS_NUCLEAR_SUB -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUCLEAR_SUBMARINE</Tag>
+		<English>Ballistic Submarine</English>
+		<German>
+			<Text>Atom-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUCLEAR_SUBMARINE_AMERICA</Tag>
+		<English>Ballistic Submarine (Halibut-class)</English>
+		<German>
+			<Text>Halibut-Atom-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUCLEAR_SUBMARINE_ENGLAND</Tag>
+		<English>Ballistic Submarine (Astute-class)</English>
+		<German>
+			<Text>Astute-Atom-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUCLEAR_SUBMARINE_FRANCE</Tag>
+		<English>Ballistic Submarine (Triomphant-class)</English>
+		<German>
+			<Text>Triomphant-Atom-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUCLEAR_SUBMARINE_RUSSIA</Tag>
+		<English>Ballistic Submarine (Akula-class)</English>
+		<German>
+			<Text>Akula-Atom-U-Boot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_NUCLEAR_SUB -->
+  <!-- BEGIN: UNITCLASS_PRIVATEER -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_PRIVATEER</Tag>
+		<English>Privateer</English>
+		<German>
+			<Text>Freibeuter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_PRIVATEER -->      
+  <!-- BEGIN: UNITCLASS_HEAVY_PRIVATEER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_PRIVATEER</Tag>
+		<English>Heavy Privateer</English>
+		<German>
+			<Text>Gepanzertes Kaperschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>  
+  <!-- END:   UNITCLASS_HEAVY_PRIVATEER -->  
+  <!-- BEGIN: UNITCLASS_WORK_BOAT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORK_BOAT_AUSTRONESIA</Tag>
+		<English>Work Boat (Proa)</English>
+		<German>
+			<Text>Proa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORK_BOAT_ENGLAND</Tag>
+		<English>Work Boat (Yawl)</English>
+		<German>
+			<Text>Yawl</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORK_BOAT_JAPAN</Tag>
+		<English>Work Boat (Sampan)</English>
+		<German>
+			<Text>Sampan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORK_BOAT_VIKING</Tag>
+		<English>Work Boat (Faering)</English>
+		<German>
+			<Text>F&#228;ringer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKBOAT_HAIDA_INUIT</Tag>
+		<English>Work Boat (Noseepsk)</English>
+		<German>
+			<Text>Noseepsk</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_ARTILLERY -->
+  <!-- BEGIN: UNITCLASS_GUN_BATTERY -->
+  <!-- END:   UNITCLASS_GUN_BATTERY -->
+  <!-- BEGIN: UNITCLASS_ARTILLERY -->
+  <!-- END:   UNITCLASS_ARTILLERY -->      
+</Civ4GameText>

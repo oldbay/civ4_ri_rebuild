@@ -1,0 +1,3 @@
+/home/oldbay/PROJECT/civ4/sdk/RealismInvictus/GIT/GameCore/CvGameCoreDLL/build/CMakeFiles/rebuild_cache.dir
+/home/oldbay/PROJECT/civ4/sdk/RealismInvictus/GIT/GameCore/CvGameCoreDLL/build/CMakeFiles/edit_cache.dir
+/home/oldbay/PROJECT/civ4/sdk/RealismInvictus/GIT/GameCore/CvGameCoreDLL/build/CMakeFiles/CvGameCoreDLL.2012.dir

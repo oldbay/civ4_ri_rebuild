@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- $Id: CIV4GameTextInfos.xml,v 1.3 2006/01/13 06:38:24 kristine Exp $ -->
+<!-- $Id: CIV4GameTextInfos.xml,v 1.4 2007/07/07 06:38:24 Hian Exp $ -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Infos Quote tech -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_TECH_DUALISM_QUOTE</Tag>
+		<English>"In the beginning there were two primal spirits,
+Twins spontaneously active,
+These are the Good and the Evil, in thought, and in word, and in deed.
+" - Zoroaster, from the Gathas, Yazna 30:3</English>
+		<German>"In the beginning there were two primal spirits,
+Twins spontaneously active,
+These are the Good and the Evil, in thought, and in word, and in deed."</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_NUCLEAR_REACTOR_QUOTE</Tag>
+		<English>If the radiance of a thousand suns were to burst at once into the sky, that would be like the splendor of the Mighty One... I am become Death, the Shatterer of Worlds. - J. Robert Oppenheimer, quoting "The Bhagavad Gita"</English>
+		<German>"Wenn das Licht von tausend Sonnen am Himmel pl&#246;tzlich br&#228;ch' hervor, zu gleicher Zeit - das w&#228;re gleich dem Glanze des Herrlichen ... Ich bin der Tod, der alles raubt, Ersch&#252;tterer der Welten." - J. Robert Oppenheimer, Zitat aus dem "Bhagavad Gita"</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TOOLMAKING_QUOTE</Tag>
+		<English>"Man is a tool-using Animal. Nowhere do you find him without tools; without tools he is nothing, with tools he is all." - Thomas Carlyle
+"People who don't use the tools given to them only injure themselves." - Debra Wilson
+"The master's tools will never dismantle the master's house." - Audre Lorde</English>
+		<German>"Man is a tool-using Animal. Nowhere do you find him without tools; without tools he is nothing, with tools he is all." - Thomas Carlyle
+"People who don't use the tools given to them only injure themselves." - Debra Wilson
+"The master's tools will never dismantle the master's house." - Audre Lorde</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_STORYTELLING_QUOTE</Tag>
+		<English>"Storytelling reveals meaning without committing the error of defining it" - Hannah Arendt</English>
+		<German>"Storytelling reveals meaning without committing the error of defining it" - Hannah Arendt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_METAL_LORE_QUOTE</Tag>
+		<English>"All that glitters is not gold" - Aesop </English>
+		<German>"All that glitters is not gold" - Aesop </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WOODWORKING_QUOTE</Tag>
+		<English> "Rotten wood cannot be carved" - Chinese Proverb </English>
+		<German> "Rotten wood cannot be carved" - Chinese Proverb </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_STONECUTTING_QUOTE</Tag>
+		<English>"The finest workers in stone are not copper or steel tools, but the gentle touches of air and water working at their leisure with a liberal allowance of time" - Henry David Thoreau</English>
+		<German>"The finest workers in stone are not copper or steel tools, but the gentle touches of air and water working at their leisure with a liberal allowance of time" - Henry David Thoreau</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARCHITECTURE_QUOTE</Tag>
+		<English>"Architecture is frozen music" - Friedrich von Schelling
+"Architecture aims at Eternity" - Christopher Wren
+"Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book." - Victor Hugo </English>
+		<German>"Architecture is frozen music" - Friedrich von Schelling
+"Architecture aims at Eternity" - Christopher Wren
+"Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book." - Victor Hugo</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SCULPTURE_QUOTE</Tag>
+		<English> "Every block of stone has a statue inside it and it is the task of the sculptor to discover it" - Michelangelo</English>
+		<German> "Every block of stone has a statue inside it and it is the task of the sculptor to discover it" - Michelangelo</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SHIPBUILDING_QUOTE</Tag>
+		<English> "Admire a small ship, but put your freight in a large one; for the larger the load, the greater will be the profit upon profit" - Hesiod </English>
+		<German> "Admire a small ship, but put your freight in a large one; for the larger the load, the greater will be the profit upon profit" - Hesiod </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_RITUAL_QUOTE</Tag>
+		<English> "When people lack teachers, their tendencies are not corrected; when they do not have ritual and moral principles, then their lawlessness is not controlled" - Xun Zi </English>
+		<German> "When people lack teachers, their tendencies are not corrected; when they do not have ritual and moral principles, then their lawlessness is not controlled" - Xun Zi </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CITY_PLANNING_QUOTE</Tag>
+		<English> "I found Rome a city of bricks and left it a city of marble" - Augustus </English>
+		<German> "I found Rome a city of bricks and left it a city of marble" - Augustus </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ELEPHANT_TAMING_QUOTE</Tag>
+		<English> "When elephants fight, it is the grass that suffers" - African Proverb </English>
+		<German> "When elephants fight, it is the grass that suffers" - African Proverb </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CIVIL_ENGINEERING_QUOTE</Tag>
+		<English> "A bridge is built for us to pass over; it is a work of utility, and which should endure. It should be in keeping with its object, solid, clean, simple, well executed without vain ornament." - Paul Sejourne, Grandes Voutes
+"A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools." - Douglas Adams, Mostly Harmless </English>
+		<German> "A bridge is built for us to pass over; it is a work of utility, and which should endure. It should be in keeping with its object, solid, clean, simple, well executed without vain ornament." - Paul Sejourne, Grandes Voutes
+"A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools." - Douglas Adams, Mostly Harmless </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TRADE_QUOTE</Tag>
+		<English> "No nation was ever ruined by trade" - Benjamin Franklin </English>
+		<German> "No nation was ever ruined by trade" - Benjamin Franklin </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_POLITICS_QUOTE</Tag>
+		<English> "Never believe anything in politics until it has been officially denied" - Otto von Bismarck </English>
+		<German> "Never believe anything in politics until it has been officially denied" - Otto von Bismarck </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WATER_PUMP_QUOTE</Tag>
+		<English> "Water sustains all" - Thales of Miletus </English>
+		<German> "Water sustains all" - Thales of Miletus </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FORTIFICATION_QUOTE</Tag>
+		<English> "A nail secures the horse-shoe, the shoe the horse, the horse the man, the man the castle, and the castle the whole land" - German Proverb </English>
+		<German> "A nail secures the horse-shoe, the shoe the horse, the horse the man, the man the castle, and the castle the whole land" - German Proverb </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARMOR_CRAFTING_QUOTE</Tag>
+		<English> "A man who is putting on his armour for war should not boast like a man who's taking it off" - African Proverb </English>
+		<German> "A man who is putting on his armour for war should not boast like a man who's taking it off" - African Proverb </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_IRRIGATION_QUOTE</Tag>
+		<English> "It is thus with farming: if you do one thing late, you will be late in all your work" - Cato the Elder </English>
+		<German> "It is thus with farming: if you do one thing late, you will be late in all your work" - Cato the Elder </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SANITATION_QUOTE</Tag>
+		<English> "All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, roads, the fresh water system and public health, what have the Romans ever done for us?" - Reg (John Cleese), "The Life of Brian"  </English>
+		<German> "All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, rods, the fresh water system and public health, what have the Romans ever done for us?" - Reg (John Cleese), "The Life of Brian"  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SIEGECRAFT_QUOTE</Tag>
+		<English> "For siege works against bold and venturesome men should be constructed on one plan, on another against cautious men, and on still another against the cowardly" - Vitruvius </English>
+		<German> "For siege works against bold and venturesome men should be constructed on one plan, on another against cautious men, and on still another against the cowardly" - Vitruvius </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_THEOCRACY_QUOTE</Tag>
+		<English> "What can you say to a man who tells you he prefers obeying God rather than men, and that as a result he's certain he'll go to heaven if he cuts your throat?" - Voltaire, Philosophical Dictionary </English>
+		<German> "What can you say to a man who tells you he prefers obeying God rather than men, and that as a result he's certain he'll go to heaven if he cuts your throat?" - Voltaire, Philosophical Dictionary </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MILITARY_ENGINEERING_QUOTE</Tag>
+		<English> "Listen, lad. I built this kingdom up from nothing. When I started here, all there was was swamp. Other kings said I was daft to build a castle on a swamp, but I built it all the same, just to show 'em. It sank into the swamp. So, I built a second one. That sank into the swamp. So I built a third one. That burned down, fell over, then sank into the swamp. But the fourth one...stayed up! And that's what you're gonna get, lad: the strongest castle in these islands." -  Monty Python </English>
+		<German> "Listen, lad. I built this kingdom up from nothing. When I started here, all there was was swamp. Other kings said I was daft to build a castle on a swamp, but I built it all the same, just to show 'em. It sank into the swamp. So, I built a second one. That sank into the swamp. So I built a third one. That burned down, fell over, then sank into the swamp. But the fourth one...stayed up! And that's what you're gonna get, lad: the strongest castle in these islands." -  Monty Python </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_PEASANT_SERVITUDE_QUOTE</Tag>
+		<English> "Give the peasants neither life nor death" - Ieyasu Tokugawa </English>
+		<German> "Give the peasants neither life nor death" - Ieyasu Tokugawa </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ALCHEMY_ASTROLOGY_QUOTE</Tag>
+		<English> "The alchemists in their search for gold discovered many other things of greater value" - Arthur Schopenhauer </English>
+		<German> "The alchemists in their search for gold discovered many other things of greater value" - Arthur Schopenhauer </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_GLASSBLOWING_QUOTE</Tag>
+		<English> "Common clay must go through the heat and fire of the furnace to become porcelain. But once porcelain, it can never become clay again." - Unknown </English>
+		<German> "Common clay must go through the heat and fire of the furnace to become porcelain. But once porcelain, it can never become clay again." - Unknown </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CITY_RIGHTS_QUOTE</Tag>
+		<English> "Good government is no substitute for self-government" - Mahatma Gandhi  </English>
+		<German> "Good government is no substitute for self-government" - Mahatma Gandhi  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CHURCH_ARCHITECTURE_QUOTE</Tag>
+		<English> "A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral." - Antoine de Saint-Exupery  </English>
+		<German> "A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral." - Antoine de Saint-Exupery  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CRUCIBLE_STEEL_QUOTE</Tag>
+		<English> "There never was a good knife made of bad steel" - Proverb  </English>
+		<German> "There never was a good knife made of bad steel" - Proverb  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MECHANICAL_WEAPONS_QUOTE</Tag>
+		<English> "Mechanical Engineers build weapons, Civil Engineers build targets" </English>
+		<German> "Mechanical Engineers build weapons, Civil Engineers build targets" </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SEAFARING_QUOTE</Tag>
+		<English> "He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast" - Leonardo da Vinci  </English>
+		<German> "He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast" - Leonardo da Vinci </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_STAINED_GLASS_QUOTE</Tag>
+		<English> "People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in, their true beauty is revealed only if there is a light from within." - Elisabeth Kubler-Ross  </English>
+		<German> "People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in, their true beauty is revealed only if there is a light from within." - Elisabeth Kubler-Ross </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_HERALDRY_QUOTE</Tag>
+		<English> "The motto of chivalry is also the motto of wisdom; to serve all, but love only one" - Honore de Balzac </English>
+		<German> "The motto of chivalry is also the motto of wisdom; to serve all, but love only one" - Honore de Balzac </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARCHERY_TRAINING_QUOTE</Tag>
+		<English> "The archer is the true weapon; the bow is just a long piece of wood" - Sebastien de Castell </English>
+		<German> "The archer is the true weapon; the bow is just a long piece of wood" - Sebastien de Castell </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_PLATE_ARMOR_QUOTE</Tag>
+		<English> "Armor: The kind of clothing worn by a man whose tailor is a blacksmith" - Ambrose Bierce </English>
+		<German> "Armor: The kind of clothing worn by a man whose tailor is a blacksmith" - Ambrose Bierce </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_UNIVERSITY_QUOTE</Tag>
+		<English> "The University brings out all abilities, including incapability" - Anton Chekhov </English>
+		<German> "The University brings out all abilities, including incapability" - Anton Chekhov </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_BLACK_POWDER_QUOTE</Tag>
+		<English> "We owe to the Middle Ages the two worst inventions of humanity - romantic love and gunpowder" - Andre Maurois </English>
+		<German> "We owe to the Middle Ages the two worst inventions of humanity - romantic love and gunpowder" - Andre Maurois </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CLOCKWORK_QUOTE</Tag>
+		<English> "I must govern the clock, not be governed by it" - Golda Meir </English>
+		<German> "I must govern the clock, not be governed by it" - Golda Meir </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FINE_ARTS_QUOTE</Tag>
+		<English> "Fine art is that in which the hand, the head, and the heart of man go together" - John Ruskin </English>
+		<German> "Fine art is that in which the hand, the head, and the heart of man go together" - John Ruskin </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CRITICAL_THOUGHT_QUOTE</Tag>
+		<English> "Doubt is not a pleasant condition, but certainty is absurd" - Voltaire  </English>
+		<German> "Doubt is not a pleasant condition, but certainty is absurd" - Voltaire  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_COAL_MINING_QUOTE</Tag>
+		<English> "Diamonds are nothing more than chunks of coal that stuck to their jobs" - Malcolm Forbes </English>
+		<German> "Diamonds are nothing more than chunks of coal that stuck to their jobs" - Malcolm Forbes </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ASTROLABE_QUOTE</Tag>
+		<English> "Set your course by the stars, not by the lights of every passing ship" - Omar Bradley </English>
+		<German> "Set your course by the stars, not by the lights of every passing ship" - Omar Bradley </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SHIPYARDS_QUOTE</Tag>
+		<English> "A ship is always referred to as she because it costs so much to keep one in paint and powder" - Chester W. Nimitz </English>
+		<German> "A ship is always referred to as she because it costs so much to keep one in paint and powder" - Chester W. Nimitz </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_DIVINE_RIGHT2_QUOTE</Tag>
+		<English> "By me kings reign and rulers issue decrees that are just; by me princes govern, and nobles - all who rule on earth" - Proverbs 8:15-16 </English>
+		<German> "By me kings reign and rulers issue decrees that are just; by me princes govern, and nobles - all who rule on earth" - Proverbs 8:15-16 </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CAVALRY_TACTICS_QUOTE</Tag>
+		<English> "It's hard to lead a cavalry charge if you think you look funny on a horse" - Adlai E. Stevenson </English>
+		<German> "It's hard to lead a cavalry charge if you think you look funny on a horse" - Adlai E. Stevenson </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MERCANTILISM_QUOTE</Tag>
+		<English> "Wealth unused might as well not exist" - Aesop  </English>
+		<German> "Wealth unused might as well not exist" - Aesop  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MERCHANT_ADVENTURES_QUOTE</Tag>
+		<English> "The merchant has no country" - Thomas Jefferson  </English>
+		<German> "The merchant has no country" - Thomas Jefferson  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_DRYDOCK_QUOTE</Tag>
+		<English> "If the highest aim of a captain were to preserve his ship, he would keep it in port forever" - Thomas Aquinas </English>
+		<German> "If the highest aim of a captain were to preserve his ship, he would keep it in port forever" - Thomas Aquinas </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MICROSCOPE_QUOTE</Tag>
+		<English> "Is ditchwater dull? Naturalists with microscopes have told me that it teems with quiet fun." - G. K. Chesterton </English>
+		<German> "Is ditchwater dull? Naturalists with microscopes have told me that it teems with quiet fun." - G. K. Chesterton </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SEXTANT_QUOTE</Tag>
+		<English> "The winds and waves are always on the side of the ablest navigators" - Edward Gibbon, Decline and Fall of the Roman Empire </English>
+		<German> "The winds and waves are always on the side of the ablest navigators" - Edward Gibbon, Decline and Fall of the Roman Empire </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_METALLURGY_QUOTE</Tag>
+		<English> "I weigh the man, not his title; 'tis not the king's stamp can make the metal better" - William Wycherley </English>
+		<German> "I weigh the man, not his title; 'tis not the king's stamp can make the metal better" - William Wycherley </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_LABOR_SPECIALIZATION_QUOTE</Tag>
+		<English> "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects." - Lazarus Long  </English>
+		<German> "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects." - Lazarus Long  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MIXED_SAIL_ARMAMENT_QUOTE</Tag>
+		<English> "I wish to have no connection with any ship that does not sail fast; for I intend to go in harm's way" - John Paul Jones </English>
+		<German> "I wish to have no connection with any ship that does not sail fast; for I intend to go in harm's way" - John Paul Jones </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FLINTLOCK_MUSKET_QUOTE</Tag>
+		<English> "Trust in God and keep your powder dry" - Oliver Cromwell </English>
+		<German> "Trust in God and keep your powder dry" - Oliver Cromwell </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ENLIGHTMENT_QUOTE</Tag>
+		<English> "It is very important not to mistake hemlock for parsley, but to believe or not believe in God is not important at all" - Denis Diderot  </English>
+		<German> "It is very important not to mistake hemlock for parsley, but to believe or not believe in God is not important at all" - Denis Diderot  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_EXPLOSIVES_QUOTE</Tag>
+		<English> "There is no problem that cannot be solved by the use of high explosives" - Bumper Sticker </English>
+		<German> "There is no problem that cannot be solved by the use of high explosives" - Bumper Sticker </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TEXTILE_MILL_QUOTE</Tag>
+		<English> "All work, even cotton spinning, is noble; work alone is noble" - Thomas Carlyle </English>
+		<German> "All work, even cotton spinning, is noble; work alone is noble" - Thomas Carlyle </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_STOCK_MARKET_QUOTE</Tag>
+		<English> "If stock market experts were so expert, they would be buying stock, not selling advice" - Norman R. Augustine </English>
+		<German> "If stock market experts were so expert, they would be buying stock, not selling advice" - Norman R. Augustine </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MILITARY_THOUGHT_QUOTE</Tag>
+		<English> "To secure peace is to prepare for war" - Karl von Clausewitz </English>
+		<German> "To secure peace is to prepare for war" - Karl von Clausewitz </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_HIGH_SEAS_WARFARE_QUOTE</Tag>
+		<English> "Admiral. That part of a warship which does the talking while the figurehead does the thinking." - Ambrose Bierce </English>
+		<German> "Admiral. That part of a warship which does the talking while the figurehead does the thinking." - Ambrose Bierce </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FOOD_PRESERVATION_QUOTE</Tag>
+		<English> "We may find in the long run that tinned food is a deadlier weapon than the machine-gun" - George Orwell  </English>
+		<German> "We may find in the long run that tinned food is a deadlier weapon than the machine-gun" - George Orwell  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_IMPERIALISM_QUOTE</Tag>
+		<English> "History is written by the victors" -  Winston Churchill </English>
+		<German> "History is written by the victors" -  Winston Churchill </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FARMING_MECHANIZATION_QUOTE</Tag>
+		<English> "Agriculture is our wisest pursuit, because it will in the end contribute most to real wealth, good morals and happiness" - Thomas Jefferson </English>
+		<German> "Agriculture is our wisest pursuit, because it will in the end contribute most to real wealth, good morals and happiness" - Thomas Jefferson </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MARKET_REGULATION_QUOTE</Tag>
+		<English> "To enjoy freedom we have to control ourselves" - Virginia Woolf  </English>
+		<German> "To enjoy freedom we have to control ourselves" - Virginia Woolf  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MILITARY_INDUSTRY_QUOTE</Tag>
+		<English> "War is the national industry of Prussia" - Comte de Mirabeau </English>
+		<German> "War is the national industry of Prussia" - Comte de Mirabeau </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MECHANIZED_MINING_QUOTE</Tag>
+		<English>"The industrial stomach cannot live without coal; industry is a carbonivorous animal and must have its proper food" - Jules Verne </English>
+		<German> "The industrial stomach cannot live without coal; industry is a carbonivorous animal and must have its proper food" - Jules Verne </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_PATENT_RIGHT_QUOTE</Tag>
+		<English> "This is the patent age of new inventions/ For killing bodies, and saving souls,/ All propagated with the best of intentions." - Lord Byron </English>
+		<German> "This is the patent age of new inventions/ For killing bodies, and saving souls,/ All propagated with the best of intentions." - Lord Byron </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_LABOR_MOVEMENT_QUOTE</Tag>
+		<English> "The proletarians have nothing to lose but their chains. They have a world to win." - Karl Marx </English>
+		<German> "The proletarians have nothing to lose but their chains. They have a world to win." - Karl Marx </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_BESSEMER_CONVERTER_QUOTE</Tag>
+		<English> "The finest steel has to go through the hottest fire" - Richard M. Nixon </English>
+		<German> "The finest steel has to go through the hottest fire" - Richard M. Nixon </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FERTILIZERS_QUOTE</Tag>
+		<English> "If the grass on the other side of the fence appears greener... It must be all the fertilizer they are using." - Kevin Rodowicz  </English>
+		<German> "If the grass on the other side of the fence appears greener... It must be all the fertilizer they are using." - Kevin Rodowicz  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARMOR_PLATING_QUOTE</Tag>
+		<English> "There is little to compare to the hellish brutality of a sea battle. Men are entrapped in a tight steel box, a warship. They are beyond sight of land, floating in untold fathoms of sea-water. Separated by miles of roiling ocean, combating warships throw tons of high explosives at each other. It seems an unreal fantasy..." - Joseph Gilbey  </English>
+		<German> "There is little to compare to the hellish brutality of a sea battle. Men are entrapped in a tight steel box, a warship. They are beyond sight of land, floating in untold fathoms of sea-water. Separated by miles of roiling ocean, combating warships throw tons of high explosives at each other. It seems an unreal fantasy..." - Joseph Gilbey </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MACHINE_TOOLS_QUOTE</Tag>
+		<English> "A tool is but the extension of a man's hand, and a machine is but a complex tool. And he that invents a machine augments the power of a man and the well-being of mankind." - Henry Ward Beecher </English>
+		<German> "A tool is but the extension of a man's hand, and a machine is but a complex tool. And he that invents a machine augments the power of a man and the well-being of mankind." - Henry Ward Beecher </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_OIL_EXTRACTION_QUOTE</Tag>
+		<English> "Rockefeller once explained the secret of success. 'Get up early, work late - and strike oil." - Joey Adams  </English>
+		<German> "Rockefeller once explained the secret of success. 'Get up early, work late - and strike oil." - Joey Adams  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_NITROGLYCERINE_QUOTE</Tag>
+		<English> "I have prepared one of my own timecapsules. I have placed some rather large samples of dynamite, gunpowder, and nitroglycerin. My time capsule is set to go off in the year 3000. It will show them what we are really like." - Alfred Hitchcock </English>
+		<German> "I have prepared one of my own timecapsules. I have placed some rather large samples of dynamite, gunpowder, and nitroglycerin. My time capsule is set to go off in the year 3000. It will show them what we are really like." - Alfred Hitchcock </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MEDICAL_SCIENCE_QUOTE</Tag>
+		<English> "It is a most extraordinary thing, but I never read a patent medicine advertisement without being impelled to the conclusion that I am suffering from the particular disease therein dealt with in its most virulent form" - Jerome K. Jerome </English>
+		<German>  "It is a most extraordinary thing, but I never read a patent medicine advertisement without being impelled to the conclusion that I am suffering from the particular disease therein dealt with in its most virulent form" - Jerome K. Jerome </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MACHINE_GUNS_QUOTE</Tag>
+		<English> "When shooting in the dark, it is a good idea to use a machine gun" - Craig Bruce  </English>
+		<German> "When shooting in the dark, it is a good idea to use a machine gun" - Craig Bruce  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_BARBED_WIRE_QUOTE</Tag>
+		<English> "The War will last a hundred years - five years of fighting and ninety-five of winding up the barbed wire" - WW1 Soldier proverb </English>
+		<German> "The War will last a hundred years - five years of fighting and ninety-five of winding up the barbed wire" - WW1 Soldier proverb </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ENTERTAINMENT_INDUSTRY_QUOTE</Tag>
+		<English> "There's no business like show business" - Irving Berlin </English>
+		<German> "There's no business like show business" - Irving Berlin </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ALL_STEEL_HULL_QUOTE</Tag>
+		<English> "When I lost my rifle, the Army charged me 85 dollars. That is why in the Navy the Captain goes down with the ship." - Dick Gregory </English>
+		<German> "When I lost my rifle, the Army charged me 85 dollars. That is why in the Navy the Captain goes down with the ship." - Dick Gregory </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_HYDROELECTRICITY_QUOTE</Tag>
+		<English> "The beaver told the rabbit as they stared at the Hoover Dam: No, I didn't build it myself, but it's based on an idea of mine" - Charles Hard Townes </English>
+		<German>"The beaver told the rabbit as they stared at the Hoover Dam: No, I didn't build it myself, but it's based on an idea of mine" - Charles Hard Townes </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CINEMATOGRAPH_QUOTE</Tag>
+		<English> "Photography is truth. And cinema is truth twenty-four times a second." - Jean-Luc Godard  </English>
+		<German> "Photography is truth. And cinema is truth twenty-four times a second." - Jean-Luc Godard  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_NAVAL_BALLISTICS_QUOTE</Tag>
+		<English> "Artillerymen believe the world consist of two types of people; other Artillerymen and targets" </English>
+		<German> "Artillerymen believe the world consist of two types of people; other Artillerymen and targets" </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_REPEATING_RIFLES_QUOTE</Tag>
+		<English> "The deadliest weapon in the world is a Marine and his rifle!" - John J. Pershing </English>
+		<German> "The deadliest weapon in the world is a Marine and his rifle!" - John J. Pershing </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARMORED_VEHICLES_QUOTE</Tag>
+		<English> "...pretty mechanical toy but very limited military value" - Lord Kitchener upon overseeing trials of the tank </English>
+		<German> "...pretty mechanical toy but very limited military value" - Lord Kitchener upon overseeing trials of the tank </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MODERN_PHYSICS_QUOTE</Tag>
+		<English> "Physics is becoming too difficult for the physicists" - David Hilbert </English>
+		<German> "Physics is becoming too difficult for the physicists" - David Hilbert </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ANTIBIOTICS_QUOTE</Tag>
+		<English> "The trouble with being a hypochondriac these days is that antibiotics have cured all the good diseases" - Caskie Stinnett </English>
+		<German> "The trouble with being a hypochondriac these days is that antibiotics have cured all the good diseases" - Caskie Stinnett </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_RADAR_QUOTE</Tag>
+		<English> "The bomb may have ended the war but radar won it" - Lee DuBridge </English>
+		<German> "The bomb may have ended the war but radar won it" - Lee DuBridge </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TARGETING_SYSTEM_QUOTE</Tag>
+		<English> "To be sure of hitting the target, shoot first, and call whatever you hit the target" - Ashleigh Brilliant </English>
+		<German> "To be sure of hitting the target, shoot first, and call whatever you hit the target" - Ashleigh Brilliant </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_AIR_SUPERIORITY_QUOTE</Tag>
+		<English> "Air power may either end war or end civilization" - Winston Churchill </English>
+		<German> "Air power may either end war or end civilization" - Winston Churchill </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARMOR_WARFARE_QUOTE</Tag>
+		<English> "If the tanks succeed, then victory follows" - Heinz Guderian </English>
+		<German> "If the tanks succeed, then victory follows" - Heinz Guderian </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_NUCLEAR_PHYSICS_QUOTE</Tag>
+		<English> "The discovery of nuclear reactions need not bring about the destruction of mankind any more than the discovery of matches" - Albert Einstein  </English>
+		<German>  "The discovery of nuclear reactions need not bring about the destruction of mankind any more than the discovery of matches" - Albert Einstein </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ELECTRONICS_QUOTE</Tag>
+		<English> "The human brain must continue to frame the problems for the electronic machine to solve" - David Sarnoff </English>
+		<German> "The human brain must continue to frame the problems for the electronic machine to solve" - David Sarnoff </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_POWER_PROJECTION_QUOTE</Tag>
+		<English> "The Pope? How many divisions has he got?" - Joseph Stalin </English>
+		<German> "The Pope? How many divisions has he got?" - Joseph Stalin </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ROCKET_PROJECTILE_QUOTE</Tag>
+		<English> "A bazooka is the skeleton key of the impatient" - Will Timmins </English>
+		<German> "A bazooka is the skeleton key of the impatient" - Will Timmins </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_INFANTRY_MOBILITY_QUOTE</Tag>
+		<English> "The backbone of surprise is fusing speed with secrecy" - Karl von Clausewitz </English>
+		<German> "The backbone of surprise is fusing speed with secrecy" - Karl von Clausewitz </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ROCKET_SCIENCE_QUOTE</Tag>
+		<English> "We will never be an advanced civilization as long as rain showers can delay the launching of a space rocket" - George Carlin </English>
+		<German> "We will never be an advanced civilization as long as rain showers can delay the launching of a space rocket" - George Carlin </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TELEVISION_QUOTE</Tag>
+		<English> "In the age of television, image becomes more important than substance" - S. I. Hayakawa </English>
+		<German> "In the age of television, image becomes more important than substance" - S. I. Hayakawa </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_JET_ENGINE_QUOTE</Tag>
+		<English> "Eagles may soar, but weasels don't get sucked into jet engines" - John Benfield </English>
+		<German> "Eagles may soar, but weasels don't get sucked into jet engines" - John Benfield </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TRANSISTORS_QUOTE</Tag>
+		<English> "Putting sixty-four transistors on a chip allowed people to dream of the future. Putting four million transistors on a chip actually gave them the future." - Malcolm Gladwell </English>
+		<German> "Putting sixty-four transistors on a chip allowed people to dream of the future. Putting four million transistors on a chip actually gave them the future." - Malcolm Gladwell </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_HELICOPTERS_QUOTE</Tag>
+		<English> "The helicopter approaches closer than any other [vehicle] to fulfillment of mankind's ancient dreams of the flying horse and the magic carpet" - Igor Sikorsky </English>
+		<German> "The helicopter approaches closer than any other [vehicle] to fulfillment of mankind's ancient dreams of the flying horse and the magic carpet" - Igor Sikorsky </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CONSUMERISM_QUOTE</Tag>
+		<English> "Growth for the sake of growth is the ideology of the cancer cell" - Edward Abbey </English>
+		<German> "Growth for the sake of growth is the ideology of the cancer cell" - Edward Abbey </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_NUCLEAR_POWER_QUOTE</Tag>
+		<English> "All the waste in a year from a nuclear power plant can be stored under a desk" - Ronald Reagan </English>
+		<German> "All the waste in a year from a nuclear power plant can be stored under a desk" - Ronald Reagan </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MOLECULAR_BIOLOGY_QUOTE</Tag>
+		<English> "The capacity to blunder slightly is the real marvel of DNA. Without this special attribute, we would still be anaerobic bacteria and there would be no music." - Lewis Thomas </English>
+		<German> "The capacity to blunder slightly is the real marvel of DNA. Without this special attribute, we would still be anaerobic bacteria and there would be no music." - Lewis Thomas </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SPECIAL_OPERATION_QUOTE</Tag>
+		<English> "The object of war is not to die for your country but to make the other bastard die for his" - George Patton </English>
+		<German> "The object of war is not to die for your country but to make the other bastard die for his" - George Patton </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_GUIDED_PROJECTILE_QUOTE</Tag>
+		<English> "Our scientific power has outrun our spiritual power. We have guided missiles and misguided men." - Martin Luther King, Jr. </English>
+		<German> "Our scientific power has outrun our spiritual power. We have guided missiles and misguided men." - Martin Luther King, Jr. </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WARHEAD_DELIVERY_QUOTE</Tag>
+		<English> "I do not know how the third world war will be fought, but I can tell you what they will use in the fourth... rocks." - Albert Einstein  </English>
+		<German> "I do not know how the third world war will be fought, but I can tell you what they will use in the fourth... rocks." - Albert Einstein  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ALTERNATIVE_POWER_SOURCE_QUOTE</Tag>
+		<English> "The use of solar energy has not been opened up because the oil industry does not own the sun" - Ralph Nader </English>
+		<German> "The use of solar energy has not been opened up because the oil industry does not own the sun" - Ralph Nader </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_GLOBALIZATION_QUOTE</Tag>
+		<English> "Global capital markets pose the same kinds of problems that jet planes do. They are faster, more comfortable, and they get you where you are going better. But the crashes are much more spectacular." - Larry Summers  </English>
+		<German> "Global capital markets pose the same kinds of problems that jet planes do. They are faster, more comfortable, and they get you where you are going better. But the crashes are much more spectacular." - Larry Summers  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SPACE_FLIGHT_QUOTE</Tag>
+		<English> "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever" - Konstantin Tsiolkovsky  </English>
+		<German> "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever" - Konstantin Tsiolkovsky  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ENVIRONMENTALISM_QUOTE</Tag>
+		<English> "Earth provides enough to satisfy every man's needs, but not every man's greed" - Mahatma Gandhi </English>
+		<German> "Earth provides enough to satisfy every man's needs, but not every man's greed" - Mahatma Gandhi </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SMART_PROJECTILE_QUOTE</Tag>
+		<English> "Our bombs are smarter than the average high school student. At least they can find Kuwait." - A. Whitney Brown  </English>
+		<German> "Our bombs are smarter than the average high school student. At least they can find Kuwait." - A. Whitney Brown  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_INFORMATION_NETWORKING_QUOTE</Tag>
+		<English> "Give a person a fish and you feed them for a day; teach that person to use the Internet and they won't bother you for weeks"  </English>
+		<German> "Give a person a fish and you feed them for a day; teach that person to use the Internet and they won't bother you for weeks"  </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_INFANTRY_LOGISTIC_QUOTE</Tag>
+		<English> "Make Do" - French Foreign Legion 2nd REP </English>
+		<German> "Make Do" - French Foreign Legion 2nd REP </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MASS_CONSCRIPTION_QUOTE</Tag>
+		<English> "Every citizen should be a soldier. This was the case with the Greeks and Romans, and must be that of every free state." - Thomas Jefferson</English>
+		<German> "Every citizen should be a soldier. This was the case with the Greeks and Romans, and must be that of every free state." - Thomas Jefferson</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TORPEDOES_QUOTE</Tag>
+		<English> "Damn the torpedoes, Full speed ahead!" - Admiral David Glasgow Farragut</English>
+		<German> "Damn the torpedoes, Full speed ahead!" - Admiral David Glasgow Farragut</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WEAPON_SMITHING_QUOTE</Tag>
+		<English> "Without a sign, his sword the brave man draws, and asks no omen, but his country's cause" - Homer </English>
+		<German> "Without a sign, his sword the brave man draws, and asks no omen, but his country's cause" - Homer </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WEAVING_QUOTE</Tag>
+		<English>"Begin to weave and God will give you the thread" </English>
+		<German> "Begin to weave and God will give you the thread" </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_COMMERCE_CODE_QUOTE</Tag>
+		<English> "Free trade is not based on utility but on justice" - Edmund Burke </English>
+		<German> "Free trade is not based on utility but on justice" - Edmund Burke </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_JET_PROPULSION_QUOTE</Tag>
+		<English> "It will free man from the remaining chains, the chains of gravity which still tie him to this planet. It will open to him the gates of heaven." - Wernher von Braun </English>
+		<German> "It will free man from the remaining chains, the chains of gravity which still tie him to this planet. It will open to him the gates of heaven." - Wernher von Braun </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MODERN_AERIAL_WARFARE_QUOTE</Tag>
+		<English> "We're going to bomb them back into the Stone Age" - General Curtis E. LeMay, USAF </English>
+		<German> "We're going to bomb them back into the Stone Age" - General Curtis E. LeMay, USAF </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_COMBINED_ARMS_QUOTE</Tag>
+		<English> "Strike hard and fast and do not separate" - General Heinz Guderian </English>
+		<German> "Strike hard and fast and do not separate" - General Heinz Guderian </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ROADBUILDING_QUOTE</Tag>
+		<English> "A well-beaten path does not always make the right road" </English>
+		<German> "A well-beaten path does not always make the right road" </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TOLLS_QUOTE</Tag>
+		<English> "In this world nothing can be said to be certain, except death and taxes" - Benjamin Franklin </English>
+		<German> "In this world nothing can be said to be certain, except death and taxes" - Benjamin Franklin </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_GREAT_SCHISM_QUOTE</Tag>
+		<English> "For whoever is not against us is for us" - Jesus, Mark 9:40 </English>
+		<German> "For whoever is not against us is for us" - Jesus, Mark 9:40 </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_PHARMACY_BOTANY_QUOTE</Tag>
+		<English> "Poison is in everything, and no thing is without poison. The dosage makes it either a poison or a remedy." - Paracelsus </English>
+		<German> "Poison is in everything, and no thing is without poison. The dosage makes it either a poison or a remedy." - Paracelsus </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ALGEBRA_GEOMETRY_QUOTE</Tag>
+		<English> "There is geometry in the humming of the strings, there is music in the spacing of the spheres" - Pythagoras </English>
+		<German> "There is geometry in the humming of the strings, there is music in the spacing of the spheres" - Pythagoras </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_HORSEBACK_RIDING_2_QUOTE</Tag>
+		<English> "A horse, a horse! My Kingdom for a horse." - Richard III, William Shakespeare </English>
+		<German> "A horse, a horse! My Kingdom for a horse." - Richard III, William Shakespeare </German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_XXX_QUOTE</Tag>
+		<English>  </English>
+		<German>  </German>
+	</TEXT>
+</Civ4GameText>

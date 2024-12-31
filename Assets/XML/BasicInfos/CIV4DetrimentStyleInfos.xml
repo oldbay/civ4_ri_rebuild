@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Basic Infos -->
+<Civ4DetrimentStyleInfos xmlns="x-schema:CIV4BasicInfoSchema.xml">
+	<!-- MOD - START - Detriments -->
+	<DetrimentStyleInfos>
+		<!--Changes must be reflected in CvEnums.h-->
+		<DetrimentStyleInfo>
+			<Type>DETRIMENTSTYLE_FIXED</Type>
+			<Description>TXT_KEY_DETRIMENTSTYLE_FIXED</Description>
+		</DetrimentStyleInfo>
+		<DetrimentStyleInfo>
+			<Type>DETRIMENTSTYLE_RELATIVE_STRENGTH</Type>
+			<Description>TXT_KEY_DETRIMENTSTYLE_RELATIVE_STRENGTH</Description>
+		</DetrimentStyleInfo>
+	</DetrimentStyleInfos>
+	<!-- MOD - END - Detriments -->
+</Civ4DetrimentStyleInfos>

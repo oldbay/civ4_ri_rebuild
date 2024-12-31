@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CATEGORY_UPGRADES</Tag>
+		<English>Unit Upgrades</English>
+		<German>Modernisierung</German>
+	</TEXT>
+</Civ4GameText>

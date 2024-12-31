@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	NationhoodCivicPromotions
+	Originally by Mexico
+  Converted to BUG module by Josh Sjoding
+-->
+<mod id="NationhoodCivicPromotions"
+	 name="Nationhood Civic Promotions"
+	 author="Mexico"
+	 version="1.0"
+	 date="11/21/2009">
+
+  <event type="unitCreated" module="NationhoodCivicPromotions" function="onUnitCreated"/>
+  <event type="unitMove" module="NationhoodCivicPromotions" function="onUnitMove"/>
+  <event type="EndPlayerTurn" module="NationhoodCivicPromotions" function="onEndPlayerTurn"/>
+</mod>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- MOD - START - Population Metrics -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CITY_STABILITY</Tag>
+		<English>Population Stability</English>
+	</TEXT>
+	<TEXT>
+		<Tag>INTERFACE_CITY_REVOLUTION_RATE</Tag>
+		<English>%F1: %s2 (%D3/Turn)</English>
+		<French>%F1 : %s2 (%D3/tour)</French>
+		<German>%F1: %s2 (%D3/Runde)</German>
+		<Italian>%F1: %s2 (%D3/turno)</Italian>
+		<Spanish>%F1: %s2 (%D3/turno)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPULATION_ADVISOR_TITLE</Tag>
+		<English>Population Advisor</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPULATION_ADVISOR_CITY_TAB</Tag>
+		<English>City</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPULATION_ADVISOR_GLOBAL_TAB</Tag>
+		<English>Global</English>
+	</TEXT>
+	<!-- Metric Classes -->
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_NATIONAL_SAFETY</Tag>
+		<English>National Safety</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_PERSONAL_SAFETY</Tag>
+		<English>Personal Saftey</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_MORTALITY</Tag>
+		<English>Mortality</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_PERSONAL_LIBERTY</Tag>
+		<English>Personal Libery</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_RELIGIOUS_LIBERTY</Tag>
+		<English>Religious Liberty</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_OCCUPATIONAL_SECURITY</Tag>
+		<English>Occupational Safety</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_FOREIGN_CULTURE</Tag>
+		<English>Foreign Culture</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_EMERGENT_CULTURE</Tag>
+		<English>Emergent Culture</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_MILITARY_COUP</Tag>
+		<English>Military Coup</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_PROPAGANDA</Tag>
+		<English>Propaganda</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_ENVIRONMENTAL_HEALTH</Tag>
+		<English>Environmental Health</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_NUCLEAR_AGGRESSION</Tag>
+		<English>Nuclear Aggression</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRICCLASS_DECADENCE</Tag>
+		<English>Decadence</English>
+	</TEXT>
+	<!-- Metrics -->
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_NATIONAL_SAFETY_POWER_RATIO</Tag>
+		<English>Dominant Power</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_MORTALITY_STARVATION</Tag>
+		<English>Starvation</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_MORTALITY_EPIDEMIC</Tag>
+		<English>Epidemic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_MORTALITY_UNHEALTH</Tag>
+		<English>Unhealth</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_MORTALITY_WHIPPING</Tag>
+		<English>Whipping</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_PERSONAL_LIBERTY_CIVIC_OPPRESSION</Tag>
+		<English>Oppressive Civics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_PERSONAL_LIBERTY_WHIPPING</Tag>
+		<English>Whipping</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_PERSONAL_LIBERTY_MILITARY_CONSCRIPTION</Tag>
+		<English>Military Conscription</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_RELIGIOUS_LIBERTY_CIVIC_OPPRESSION_GENERIC</Tag>
+		<English>Oppressive Civics (Generic)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_RELIGIOUS_LIBERTY_CIVIC_OPPRESSION_NONSTATE</Tag>
+		<English>Opperssive Civics (Nonstate)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_OCCUPATIONAL_SECURITY_CIVIC</Tag>
+		<English>Oppressive Civics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_FOREIGN_CULTURE</Tag>
+		<English>Foreign Culture</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_EMERGENT_CULTURE</Tag>
+		<English>Emergent Culture</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_METRIC_MILITARY_COUP</Tag>
+		<English>Military Coup</English>
+	</TEXT>
+</Civ4GameText>
+<!-- MOD - END - Population Metrics -->

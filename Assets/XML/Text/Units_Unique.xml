@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <!-- BEGIN: UNITCLASS_AMERICA_ONLY -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_AMERICA_USMC_WW1</Tag>
+		<English>US Marine Corps (WW1)</English>
+		<German>
+			<Text>USMC (WW1)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AMERICA_USMC_WW2</Tag>
+		<English>US Marine Corps (WW2)</English>
+		<German>
+			<Text>USMC (WW2)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AMERICA_USMC_COLD_WAR</Tag>
+		<English>US Marine Corps (Cold War)</English>
+		<German>
+			<Text>USMC (Cold War)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AMERICA_USMC</Tag>
+		<English>US Marine Corps (Modern)</English>
+		<German>
+			<Text>Marinekorp der Vereinigten Staaten</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_AMERICA_ALLIED_NATIVES</Tag>
+    <English>Army Indian Scouts</English>
+    <German>
+      <Text>Indianischer Sp&#228;her der US-Armee</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_AMERICA_GATLING</Tag>
+    <English>Gatling Gun</English>
+    <German>
+      <Text>Gatling-Waffe</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_AMERICA_ONLY -->
+   <!-- BEGIN: UNITCLASS_APACHE_ONLY -->
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_APACHE_RAIDERS</Tag>
+    <English>Apache Raiders</English>
+    <German>
+      <Text>Apachen-R&#228;uber</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <!-- END:   UNITCLASS_APACHE_ONLY -->
+  <!-- BEGIN: UNITCLASS_ARABS_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARABS_MOBILE_GUARD</Tag>
+    <English>Fursan</English>
+    <German>
+      <Text>Fursan</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARABS_IRREGULAR_BEDOUIN_CAVALRY</Tag>
+    <English>Irregular Cavalry</English>
+    <German>
+      <Text>Irregul&#228;rer Kavallerist</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_ARABS_ONLY -->
+  <!-- BEGIN: UNITCLASS_ARMENIA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARMENIA_HEAVY_COMPANION</Tag>
+    <English>Zrahakir Aspet</English>
+    <German>
+      <Text>Zrahakir Aspet</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARMENIA_URARTU_GUARD</Tag>
+    <English>Urartu Royal Guard</English>
+    <German>
+      <Text>Urart&#228;ische K&#246;nigswache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_ARMENIA_ONLY -->
+  <!-- BEGIN: UNITCLASS_AUSTRIA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_AUSTRIA_GRENZER</Tag>
+    <English>Grenzer</English>
+    <German>
+      <Text>Grenzer</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_AUSTRIA_ONLY -->
+  <!-- BEGIN: UNITCLASS_AUSTRONESIA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_AUSTRONESIA_OUTRIGGER</Tag>
+    <English>Outrigger</English>
+    <German>
+      <Text>Auslegerkanu</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_AUSTRONESIA_PEPPER_FUSILIER</Tag>
+    <English>Prajurit Wirobrojo</English>
+    <German>
+      <Text>Prajurit Wirobrojo</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_AUSTRONESIA_ONLY -->
+  <!-- BEGIN: UNITCLASS_AZTEC_ONLY -->
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_AZTEC_JAGUAR</Tag>
+  </TEXT>
+  -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_AZTEC_EAGLE</Tag>
+    <English>Eagle Warrior</English>
+    <German>
+      <Text>Adlerkrieger</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_AZTEC_ONLY -->
+  <!-- BEGIN:   UNITCLASS_BABYLON_ONLY -->
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_BABYLON_BOWMAN</Tag>
+  </TEXT> 
+  -->
+  <!-- END:   UNITCLASS_BABYLON_ONLY -->
+   <!-- BEGIN:   UNITCLASS_BANTU_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_BANTU_UNIQUE_ARCHER</Tag>
+    <English>Maasai Moran</English>
+    <German>
+      <Text>Maasaikrieger</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_BANTU_ONLY -->
+  <!-- BEGIN:   UNITCLASS_BERBER_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_BERBER_BARBARY_CORSAIR</Tag>
+    <English>Barbary Corsair</English>
+    <German>
+      <Text>Barbarischer Korsar</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_BERBER_FARFANES</Tag>
+    <English>Farfanes</English>
+    <German>
+      <Text>Farfanes</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_BERBER_ONLY -->
+  <!-- BEGIN: UNITCLASS_CARTHAGE_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CARTHAGE_BARBARY_PIRATE</Tag>
+    <English>Barbary Pirate</English>
+    <German>
+      <Text>Barbarischer Pirat</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_CARTHAGE_ONLY -->
+  <!-- BEGIN: UNITCLASS_CELT_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CELT_FIANNA</Tag>
+    <English>Fianna</English>
+    <German>
+      <Text>Fianna</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CELTIC_GALLIC_WARRIOR2</Tag>
+    <English>Gaesatae</English>
+    <German>
+      <Text>Gaesati</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CELTIC_CLANSMEN</Tag>
+    <English>Highland Clansmen</English>
+    <German>
+      <Text>Hochland-Stammesmitglied</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_CELT_ONLY -->
+   <!-- BEGIN: UNITCLASS_CHEROKEE_ONLY -->
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_CHEROKEE_RAIDERS</Tag>
+    <English>Cherokee Raiders</English>
+    <German>
+      <Text>Cherokee-R&#228;uber</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <!-- END:   UNITCLASS_CHEROKEE_ONLY -->
+  <!-- BEGIN: UNITCLASS_CHINA_ONLY -->
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CHINA_CHOKONU</Tag>
+  </TEXT>
+  -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CHINA_TREASURE_SHIP</Tag>
+    <English>Treasure Ship</English>
+    <German>
+      <Text>Schatzschiff</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_IRON_PAGODA</Tag>
+    <English>Iron Pagoda Cavalry</English>
+    <German>
+      <Text>Eisenpagode-Kavallerist</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_CHINA_ONLY -->
+  <!-- BEGIN: UNITCLASS_DRAVIDIAN_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_DRAVIDIAN_ROMAN_MERCENARY</Tag>
+    <English>Yavana Mercenary</English>
+    <German>
+      <Text>R&#246;mischer S&#246;ldner</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_DRAVIDIAN_AAIVU</Tag>
+    <English>Aaivu</English>
+    <German>
+      <Text>Aaivu</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_DRAVIDIAN_ROCKET</Tag>
+    <English>Mysorean Rocket</English>
+    <German>
+      <Text>Mysorische Rakete</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_DRAVIDIAN_ONLY -->
+  <!-- BEGIN: UNITCLASS_EGYPT_ONLY -->
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_EGYPT_WARCHARIOT</Tag>
+  </TEXT>
+  -->
+ <TEXT>
+    <Tag>TXT_KEY_UNIT_EGYPT_SHERDEN</Tag>
+    <English>Sherden Guard</English>
+    <German>
+      <Text>Scherdengarde</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_EGYPT_GALATIAN_MERCENARY</Tag>
+    <English>Galatikoi Kleruchoi</English>
+    <German>
+      <Text>Galatikoi Kleruchoi</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_EGYPT_SAQALIBA</Tag>
+    <English>Saqaliba</English>
+    <German>
+      <Text>Saqaliba</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_EGYPT_ONLY -->
+  <!-- BEGIN: UNITCLASS_ENGLAND_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ENGLAND_MOW</Tag>
+    <English>Man'o'War</English>
+    <German>
+      <Text>Man'o'War</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ENGLAND_ROYAL_MARINES</Tag>
+    <English>Royal Marines</English>
+    <German>
+      <Text>K&#246;niglicher Marinesoldat</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_ENGLAND_ONLY -->
+  <!-- BEGIN: UNITCLASS_ETHIOPIA_ONLY -->
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ETHIOPIAN_OROMO_WARRIOR</Tag>
+  </TEXT> 
+  -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ETHIOPIA_MEHAL_SEFARI</Tag>
+    <English>Mehal Sefari</English>
+    <German>
+      <Text>Mehal Sefari</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ETHIOPIA_KEBUR_ZABAGNA</Tag>
+    <English>Kebur Zabagna</English>
+    <German>
+      <Text>Kebur Zabagna</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_ETHIOPIA_ONLY -->
+  <!-- BEGIN: UNITCLASS_EUROPE_THE_CRUSADES_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_KNIGHT_TEMPLAR</Tag>
+    <English>Knights Templar</English>
+    <German>
+      <Text>Tempelritter</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_KNIGHT_HOSPITALIER</Tag>
+    <English>Knights Hospitaller</English>
+    <German>
+      <Text>Hospitaliter</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_REALM_KNIGHT</Tag>
+    <English>Realm Host</English>
+    <German>
+      <Text>Reichsritter</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_CHIVALRIC_KNIGHT</Tag>
+    <English>Chivalric Knights</English>
+    <German>
+      <Text>Eite-Ritter</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_EUROPE_THE_CRUSADES_ONLY -->
+   <!-- BEGIN: UNITCLASS_FINLAND_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_FINLAND_SISSI</Tag>
+    <English>Sissi</English>
+    <German>
+      <Text>Sissi</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_FINLAND_ONLY -->
+  <!-- BEGIN: UNITCLASS_FRANCE_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_FRANCE_FOREIGN_LEGION</Tag>
+    <English>Foreign Legion</English>
+    <German>
+      <Text>Fremdenlegionär</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_FRANCE_CAROLINGEAN_PALADIN</Tag>
+    <English>Carolingean Paladin</English>
+    <German>
+      <Text>Karolinger Paladin</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_FRANCE_ONLY -->
+  <!-- BEGIN: UNITCLASS_GERMAN_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GERMAN_FLAMETHROWER</Tag>
+    <English>Flammenwerfer</English>
+    <German>
+      <Text>Flammenwerfer</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GERMAN_DOPPELSOLDNER</Tag>
+    <English>Doppelsoldner</English>
+    <German>
+      <Text>Doppels&#246;ldner</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_GERMAN_ONLY -->
+  <!-- BEGIN: UNITCLASS_GREECE_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GREEK_PHALANX</Tag>
+    <English>Homoioi</English>
+    <German>
+      <Text>Homoioi</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GREECE_HYAPIST</Tag>
+    <English>Hypaspistai</English>
+    <German>
+      <Text>Hypaspistes</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GREECE_VESTIARITAI</Tag>
+    <English>Vasilika Tagmata</English>
+    <German>
+      <Text>Vasilika Tagmata</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GREECE_VARANGIAN_GUARD</Tag>
+    <English>Varangian Guard</English>
+    <German>
+      <Text>War&#228;gergarde</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_GREECE_ONLY -->
+   <!-- BEGIN: UNITCLASS_HALYCH_ONLY -->
+  <TEXT>
+		<Tag>TXT_KEY_UNIT_HALYCH_VOLHYNIA_KINGS_RETINUE</Tag>
+		<English>Ducal Retinue</English>
+		<German>
+			<Text>K&#246;nigsgefolge</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END: UNITCLASS_HALYCH_ONLY -->
+  <!-- BEGIN: UNITCLASS_HUN_ONLY -->
+  <TEXT>
+		<Tag>TXT_KEY_UNIT_HUN_TARKAN</Tag>
+		<English>Tarkan</English>
+		<German>
+			<Text>Tarkhan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END: UNITCLASS_HUN_ONLY -->
+  <!-- BEGIN: UNITCLASS_HUNGARY_ONLY -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUNGARY_HUSZAR</Tag>
+		<English>Armoured Huszar</English>
+		<German>
+			<Text>Gepanzerte Huszár</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUNGARY_FEKETE_SEREG</Tag>
+		<English>Fekete Sereg</English>
+		<German>
+			<Text>Fekete Sereg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_HUNGARY_ONLY -->
+  <!-- BEGIN: UNITCLASS_INCA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_INCA_CANARI_GUARD</Tag>
+    <English>Canari Guard</English>
+    <German>
+      <Text>Ka&#241;ari-Wache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_INCA_CHASQUI</Tag>
+    <English>Chasqui</English>
+    <German>
+      <Text>Chaski</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_INCA_ONLY -->
+  <!-- BEGIN: UNITCLASS_INDIA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_INDIA_WAR_ELEPHANT</Tag>
+    <English>Armoured Howdah</English>
+    <German>
+      <Text>Kriegs-Howdah</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_INDIA_PATA_WARRIOR</Tag>
+    <English>Pata Warrior</English>
+    <German>
+      <Text>Pata-Krieger</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_INDIA_SRENI_WARRIOR</Tag>
+    <English>Sreni Pattya Yoddaha</English>
+    <German>
+      <Text>Sreni Pattya Yoddaha</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_INDIA_ONLY -->
+   <!-- BEGIN: UNITCLASS_ISRAEL_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ISRAEL_ZEALOT</Tag>
+    <English>Zealot</English>
+    <German>
+      <Text>Zelot</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_ISRAEL_ONLY -->
+  <!-- BEGIN: UNITCLASS_JAPAN_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_JAPAN_KENSEI</Tag>
+    <English>Kensei</English>
+    <German>
+      <Text>Kensei</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_JAPAN_WOKOU</Tag>
+    <English>Wako</English>
+    <German>
+      <Text>Wokou</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_JAPAN_ONLY -->
+  <!-- BEGIN:   UNITCLASS_KHMER_ONLY -->
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_KHMER_BALLISTA_ELEPHANT</Tag>
+  </TEXT> 
+  -->
+  <!-- END:   UNITCLASS_KHMER_ONLY -->
+  <!-- BEGIN: UNITCLASS_KOREA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_KOREA_KOBUKSON</Tag>
+    <English>Kobukson</English>
+    <German>
+      <Text>Kobukson</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HWARANG_KOREA</Tag>
+    <English>Hwarang</English>
+    <German>
+      <Text>Hwarang</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_KOREA_ONLY -->
+  <!-- BEGIN: UNITCLASS_MALI_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MALI_TUAREG</Tag>
+    <English>Tuareg Camel Rider</English>
+    <German>
+      <Text>Tuareg Kamelreiter</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MALI_AMAZON_DAHOMEY</Tag>
+    <English>Dahomey Amazons</English>
+    <German>
+      <Text>Dahomey-Amazone</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_MALI_ONLY -->
+  <!-- BEGIN:   UNITCLASS_MAYA_ONLY -->
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MAYA_HOLKAN</Tag>
+  </TEXT> 
+  --> 
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_MAYA_HORNET_THROWERS</Tag>
+    <English>Hornet Throwers</English>
+    <German>
+      <Text>Hornissenwerfer</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_MAYA_ONLY -->
+   <!-- BEGIN:   UNITCLASS_MEXICO_ONLY -->
+  <TEXT>
+		<Tag>TXT_KEY_UNIT_VILLISTAS</Tag>
+		<English>Llaneros</English>
+		<German>
+			<Text>Llaneros</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_MEXICO_ONLY -->
+  <!-- BEGIN: UNITCLASS_MONGOL_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MONGOL_TREBUCHET</Tag>
+    <English>Mobile Trebuchet</English>
+    <German>
+      <Text>Mobiler Trebuchet</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MONGOL_NAFFATUN</Tag>
+    <English>Naffatun</English>
+    <German>
+      <Text>Naffatun</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_MONGOL_ONLY -->
+  <!-- BEGIN:   UNITCLASS_MUGHAL_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MUGHAL_SIEGE_ELEPHANT</Tag>
+    <English>Siege Howdah</English>
+    <German>
+      <Text>Belagerungs-Howdah</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_MUGHAL_ONLY -->
+   <!-- BEGIN:   UNITCLASS_NETHERLANDS_ONLY -->
+  <TEXT>
+		<Tag>TXT_KEY_UNIT_NETHERLANDS_OOSTINDIEVAARDER</Tag>
+		<English>Dutch East Indiaman</English>
+		<German>
+			<Text>Ostindien-Kompanie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_NETHERLANDS_ONLY -->
+  <!-- BEGIN:   UNITCLASS_NUBIA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_NUBIA_MEDJAY_ARCHER</Tag>
+    <English>Medjay Archer</English>
+    <German>
+      <Text>Medjau-Bogensch&#252;tze</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_NUBIA_ONLY -->
+  <!-- BEGIN: UNITCLASS_OTTOMAN_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_OTTOMAN_TIMARIOT</Tag>
+    <English>Timariot</English>
+    <German>
+      <Text>Timariot</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_OTTOMAN_JANISSARY</Tag>
+  </TEXT> 
+  -->
+  <!-- END:   UNITCLASS_OTTOMAN_ONLY -->
+  <!-- BEGIN: UNITCLASS_PERSIA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_PERSIA_IMMORTAL</Tag>
+    <English>Immortal</English>
+    <German>
+      <Text>Unsterblicher</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_PERSIA_ARMOURED_WAR_ELEPHANT</Tag>
+    <English>Elephantes Kataphraktoi</English>
+    <German>
+      <Text>Elephantes Kataphraktoi</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_PERSIA_ZHAYEDAN</Tag>
+    <English>Zhayedan</English>
+    <German>
+      <Text>Zhayedan</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_PERSIA_ONLY -->
+  <!-- BEGIN: UNITCLASS_PONTUS_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_PONTUS_THORAKITAI</Tag>
+    <English>Thorakitai</English>
+    <German>
+      <Text>Thorakitai</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_PONTUS_ONLY -->
+  <!-- BEGIN: UNITCLASS_ROME_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ROME_SWISS_GUARD</Tag>
+    <English>Swiss Guard</English>
+    <German>
+      <Text>Schweizer Garde</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ROME_BALLISTA</Tag>
+    <English>Ballista</English>
+    <German>
+      <Text>Balliste</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_ROME_ONLY -->
+  <!-- BEGIN: UNITCLASS_POLAND_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_POLAND_WINGED_HUSSAR</Tag>
+    <English>Winged Hussar</English>
+    <German>
+      <Text>Fl&#252;gelhusar</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_POLAND_LISOWCZYK</Tag>
+    <English>Lisowczyk</English>
+    <German>
+      <Text>Lisowczyk</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_POLAND_BALTIC_VYTIS</Tag>
+    <English>Baltic Vytis</English>
+    <German>
+      <Text>Baltischer Vytis</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_POLAND_ONLY -->
+   <!-- BEGIN: UNITCLASS_PORTUGAL_ONLY -->
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_PORTUGAL_BANDEIRANTES</Tag>
+    <English>Bandeirantes</English>
+    <German>
+      <Text>Bandeirantes</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_PORTUGAL_MARINES</Tag>
+    <English>Regiment of the Navy</English>
+    <German>
+      <Text>Regiment der Marine</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <!-- END:   UNITCLASS_PORTUGAL_ONLY -->
+  <!-- BEGIN: UNITCLASS_RUSSIA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_RUSSIA_KATYUSHA</Tag>
+    <English>BM-13 Katyusha</English>
+    <German>
+      <Text>Katjuscha</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_RUSSIA_GULYAY_GOROD</Tag>
+    <English>Gulyay Gorod</English>
+    <German>
+      <Text>Gulyay-Gorod</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_RUSSIA_SMERCH</Tag>
+    <English>BM-30 Smerch</English>
+    <German>
+      <Text>BM-30 Smerch</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_RUSSIA_ONLY -->
+  <!-- BEGIN: UNITCLASS_SIBERIA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SIBERIAN_CHIEFTAIN</Tag>
+    <English>Taiga Chieftain</English>
+    <German>
+      <Text>Siberischer H&#228;uptling</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_SIBERIA_ONLY -->
+  <!-- BEGIN: UNITCLASS_SIOUX_ONLY -->
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_SIOUX_RAIDERS</Tag>
+    <English>Sioux Raiders</English>
+    <German>
+      <Text>Sioux-R&#228;uber</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <!-- END:   UNITCLASS_SIOUX_ONLY -->
+    <!-- BEGIN: UNITCLASS_SOUTH_CHINA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SOUTH_CHINA_FIRE_LANCER</Tag>
+    <English>Fire Lancer</English>
+    <German>
+      <Text>Feuerlanzentr&#228;ger</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_TAIWAN_IRON_TROOP</Tag>
+    <English>Iron Troop</English>
+    <German>
+      <Text>Eiserner Truppier</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SOUTH_CHINA_PEN_HUO_QI</Tag>
+    <English>Pen Huo Qi</English>
+    <German>
+      <Text>Pen Huo Qi</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_SOUTH_CHINA_ONLY -->
+  <!-- BEGIN: UNITCLASS_SPAIN_ONLY -->
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SPANISH_CONQUISTADOR</Tag>
+  </TEXT>
+  -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SPAIN_TERCIO</Tag>
+    <English>Tercio</English>
+    <German>
+      <Text>Tercio</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_SPAIN_ONLY -->
+  <!-- BEGIN: UNITCLASS_TEXAS_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_TEXAS_VOLUNTEERS</Tag>
+    <English>Texan Volunteers</English>
+    <German>
+      <Text>Texanischer Freiwilliger</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_TEXAS_RANGER_MOUNTED</Tag>
+    <English>Texas Rangers</English>
+    <German>
+      <Text>Texanischer Waldl&#228;ufer</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_TEXAS_ONLY -->
+  <!-- BEGIN: UNITCLASS_TRANSOXIANA_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_TRANSOXIANA_BACTRIAN_RIDER</Tag>
+    <English>Bactrian Rider</English>
+    <German>
+      <Text>Baktrischer R&#228;uber</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_TRANSOXIANA_TURKOMAN_RAIDER</Tag>
+    <English>Nogai Raider</English>
+    <German>
+      <Text>Nogaischer R&#228;uber</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_TRANSOXIANA_ONLY -->
+  <!-- BEGIN: UNITCLASS_UKRAINE_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_UKRAINE_SERDYUK</Tag>
+    <English>Serdyuk</English>
+    <German>
+      <Text>Serdyuk</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_UKRAINE_ONLY -->
+   <!-- BEGIN: UNITCLASS_VENICE_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_VENICE_GALLIOT</Tag>
+    <English>War Galleass</English>
+    <German>
+      <Text>Kriegs-Galeasse</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_VENICE_ONLY -->
+  <!-- BEGIN: UNITCLASS_VIKING_ONLY -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_VIKING_KAROLIN</Tag>
+    <English>Carolean</English>
+    <German>
+      <Text>Karoliner</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_VIKING_BESERKER</Tag>
+  </TEXT>
+  -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_VIKING_ARCHIPELAGO</Tag>
+    <English>Skargardsflottan</English>
+    <German>
+      <Text>Sch&#228;renflotte</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_VIKING_ONLY -->
+  <!-- BEGIN: UNITCLASS_ZULU_ONLY -->
+  <!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ZULU_IMPI</Tag>
+  </TEXT>
+  -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ZULU_SANGOMA</Tag>
+    <English>Sangoma</English>
+    <German>
+      <Text>Sangoma</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+	<!-- END:   UNITCLASS_ZULU_ONLY -->
+	<!-- BEGIN: UNITCLASS_BARBARIAN_ONLY -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BARBARIAN_FORT</Tag>
+		<English>Tribal Fort</English>
+		<German>
+			<Text>Stammesfort</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BARBARIAN_MODERN_GRENADIER</Tag>
+		<English>Urban Fighter</English>
+		<German>
+			<Text>St&#228;dtischer K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BARBARIAN_REBEL</Tag>
+		<English>Guerrillero</English>
+		<German>
+			<Text>Guerrilla-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JOMSVIKING</Tag>
+		<English>Jomsviking</English>
+		<German>
+			<Text>Jomsviking</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KATARA_WARRIOR</Tag>
+		<English>Katara Warrior</English>
+		<German>
+			<Text>Katara-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NAKHARAR_ARMENIA</Tag>
+		<English>Nakharar</English>
+		<German>
+			<Text>Nakharar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PALATINUS</Tag>
+		<English>Palatinus</English>
+		<German>
+			<Text>Paladin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FILIPINO_KALINGA</Tag>
+		<English>Kalinga</English>
+		<German>
+			<Text>Kalinga</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>		
+  <!-- END:   UNITCLASS_BARBARIAN_ONLY -->
+</Civ4GameText>

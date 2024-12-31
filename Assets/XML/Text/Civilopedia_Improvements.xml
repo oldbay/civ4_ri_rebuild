@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited by Master Lexx (GreenMod) -->
+<!-- GreenMod-->
+<!-- -->
+<!-- Umlaute:	ae &#228;	oe &#246;	ue &#252;	-->
+<!-- GameText Civilopedia Units -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_DEPLETED_LAND_PEDIA</Tag>
+		<English>* Slash-and-burn farms turn into this detrimental improvement with time. Military units can (and should) pillage this improvement.
+		Although a solution for overpopulated tropical countries where subsistence agriculture may be the traditional method of sustaining many families, the consequences of slash-and-burn techniques for ecosystems are almost always destructive. The principal vulnerability is the nutrient-poor soil, pervasive in most tropical forests. When biomass is extracted even for one harvest of wood or charcoal, the residual soil value is heavily diminished for further growth of any type of vegetation. Sometimes there are several cycles of slash-and-burn within a few years time span; for example in eastern Madagascar the following scenario occurs commonly. The first wave might be cutting of all trees for wood use. A few years later, saplings are harvested to make charcoal, and within the next year the plot is burned to create a quick flush of nutrients for grass to feed the family zebu cattle. If adjacent plots are treated in a similar fashion, large-scale erosion will usually ensue, since there are no roots or temporary water storage in nearby canopies to arrest the surface runoff. Thus, any small remaining amounts of nutrients are washed away. </English>
+		<German>Depleted Land.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_DEPLETED_LAND</Tag>
+		<English>Depleted Land</English>
+		<German>Depleted Land</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WATER_WORKED_PEDIA</Tag>
+		<English>[TAB]Water Worked.</English>
+		<German>Water Worked.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CITY_RUINS_PEDIA</Tag>
+		<English>[TAB]City Ruins has a small chance of finding some archaeological granting bonus on their scientific production.</English>
+		<German>City Ruins.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_GOODY_HUT_PEDIA</Tag>
+		<English>[TAB]Goody Hut.</English>
+		<German>Goody Hut.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_PEDIA</Tag>
+		<English>* Communal Farm: Korea
+* Kemet Farm: Egypt
+* Mechanized Farm: all civilizations
+A farm is an area of land, or, for aquaculture, lake, river or sea, including various structures, devoted primarily to the practice of producing and managing food (produce, grains, or livestock), fibres and, increasingly, fuel. It is the basic production facility in food production. Farms may be owned and operated by a single individual, family, community, corporation or a company. A farm can be a holding of any size from a fraction of a hectare to several thousand hectares. - Wikipedia</English>
+		<German>Farm.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_INDIA_PEDIA</Tag>
+		<English>* Pancakrsti field: India
+Replaces: Farm
+Economy in ancient India was mainly rural and agricultural in nature. The word Pancakrsti literally means either rotation of five crops in the same field or the growing of five kinds of crops in different fields. (...) There are numerous references to agriculture and various crops in the Atharva Veda too. Besides paddy, barley and sugarcane several other agricultural products are evident through the Vedic texts. This Veda also mentions the natural manure of animal. Rig Veda appears to be familiar with irrigation canals and the Atharva Veda describes the excavation of a canal from a river. Their main purpose appeared to be irrigation. (www.indianetzone.com)</English>
+		<German>Pancakrsti Field</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_SOUTH_CHINA_PEDIA</Tag>
+		<English>* Wugu Farm: South China
+Replaces: Farm
+The Five Grains or Cereals (Chinese: Wu Gu) are a grouping (or set of groupings) of 5 farmed crops that were all important in ancient China. Sometimes the crops themselves were regarded as sacred; other times, their cultivation was regarded as a sacred boon from a mythological or supernatural source. More generally, wugu can be employed in Chinese as a synecdoche referring to all grains or staple crops of which the end produce is of a granular nature.</English>
+		<German>Pancakrsti Field</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_TRANSOXIANA_PEDIA</Tag>
+		<English>* Silk Road Waystation: Transoxiana
+The Silk Road was a network of trade routes which connected the East and West, and was central to the economic, cultural, political, and religious interactions between these regions from the 2nd century BCE to the 18th century. The Silk Road primarily refers to the land routes connecting East Asia and Southeast Asia with South Asia, Persia, the Arabian Peninsula, East Africa and Southern Europe. The Silk Road represents an early phenomenon of political and cultural integration due to inter-regional trade. In its heyday, it sustained an international culture that strung together groups as diverse as the Magyars, Armenians, and Chinese. The Silk Road reached its peak in the west during the time of the Byzantine Empire; in the Nile-Oxus section, from the Sassanid Empire period to the Il Khanate period; and in the sinitic zone from the Three Kingdoms period to the Yuan dynasty period. The Sogdians dominated the East-West trade after the 4th century up to the 8th century, with Suyab and Talas ranking among their main centres in the north. They were the main caravan merchants of Central Asia. Their commercial interests were protected by the resurgent military power of the Gokturks, whose empire has been described as "the joint enterprise of the Ashina clan and the Soghdians". - Wikipedia</English>
+		<German>Pancakrsti Field</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_POLAND_PEDIA</Tag>
+		<English>* Folwark: Polish
+Replaces: Farm
+Folwark is a Polish word for a primarily serfdom-based farm and agricultural enterprise (a type of latifundium), often very large. Folwarks were operated in the Crown of Poland from the 14th century and in the Grand Duchy of Lithuania since the 15th century, from the second half of the 16th century in the joint Polish-Lithuanian Commonwealth, and survived after the partitions of the Commonwealth in the Russian Empire until the early 20th century. Purpose of folwarks was to produce surplus produce for export. The first folwarks were created on church- and monastery-owned grounds; later they were adopted by both nobility (szlachta) and rich peasants. - Wikipedia</English>
+		<German>Folwark</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_SLAVE_ROME_PEDIA</Tag>
+		<English>* Latifundia: Rome
+Replaces: Slave Farm
+Latifundia are pieces of property covering very large land areas. The latifundia (Latin: latus, "spacious" + fundus, "farm, estate") of Roman history were great landed estates, specializing in agriculture destined for export: grain, olive oil, or wine. They were characteristic of Magna Graecia and Sicily, of Egypt and the North African Maghreb and of Hispania Baetica in southern Spain. The latifundia were the closest approximation to industrialized agriculture in Antiquity, and their economics depended upon slave labour. - Wikipedia</English>
+		<German>[TAB]Latifundia are pieces of property covering very large land areas. The latifundia (Latin: latus, "spacious" + fundus, "farm, estate") of Roman history were great landed estates, specializing in agriculture destined for export: grain, olive oil, or wine. They were characteristic of Magna Graecia and Sicily, of Egypt and the North African Maghreb and of Hispania Baetica in southern Spain. The latifundia were the closest approximation to industrialized agriculture in Antiquity, and their economics depended upon slave labour. - Wikipedia</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FISHING_BOATS_PEDIA</Tag>
+		<English>* Fishing Boats: all civilizations
+* Fish. Vessel -> Fish. Flotilla -> Fish. Fleet: Viking</English>
+		<German>Fishing Boats.</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_WHALING_BOATS_PEDIA</Tag>
+		<English>* Whaling Boats: all civilizations
+* Whaling Vessel: Viking
+A whaler or whaling ship is a specialized ship, designed for whaling, the catching and/or processing of whales. The former includes the whale catcher - a steam or diesel-driven vessel with a harpoon gun mounted at its bow - it is incorrectly referred to as a harpoon vessel by novices in the present day.</English>
+		<German>Whaling Boats</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_MINE_PEDIA</Tag>
+		<English>* Mine: all civilizations
+* Precious Mine: all civilizations
+* Bergwerk: Germany
+* Miner&#237;a: Spain
+Mining is the extraction of valuable minerals or other geological materials from the earth, from an orebody, lode, vein, (coal) seam or reef, which forms the mineralized horizon and package of economic interest to the miner. The materials of economic interest (aka as ore) recovered by mining include base metals, precious metals, iron, uranium, coal, diamonds, limestone, oil shale, rock salt and potash. - Wikipedia</English>
+		<German>Mine.</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WORKSHOP_PEDIA</Tag>
+		<English>* Workshop: all civilizations
+During the "industrial era", a workshop may be a room or building which provides both the area and tools (or machinery) that may be required for the manufacture or repair of manufactured goods.</English>
+		<German>Workshop.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CHINESE_CANAL_PEDIA</Tag>
+		<English>* Canal: China
+Water supply canals that are used for the conveyance and delivery of potable water for human consumption, municipal uses, and agriculture irrigation.</English>
+		<German>Canals.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_LUMBERMILL_PEDIA</Tag>
+		<English>* Lumbermill: all civilizations
+Lumbermill is a facility where logs are cut into boards.</English>
+		<German>Lumbermill.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WINDMILL_PEDIA</Tag>
+		<English>* Windmill: all civilizations
+A windmill is a machine which converts the energy of wind into rotational energy by means of vanes called sails.</English>
+		<German>Windmill.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_INCAN_TERRACE_PEDIA</Tag>
+		<English>* Anden: Inca
+Andenes are terraces dug into the slopes of mountains for agricultural purposes. They were constructed and much used in the Andes mountain range to provide cultivable hillsides. The majority of these terraces were constructed and used by the pre-Hispanic cultures, and many can still be observed throughout the region. - Wikipedia</English>
+		<German>Andenes.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WATERMILL_PEDIA</Tag>
+		<English>* Watermill: all civilizations
+A watermill is a structure that uses a water wheel or turbine to drive a mechanical process such as flour, lumber or textile production, or metal shaping (rolling, grinding or wire drawing).</English>
+		<German>Watermill.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_PEDIA</Tag>
+		<English>* Commercial Plantation: Persia
+* Food Crops Plantation: all civilizations
+* Industrial Plantation: all civilizations
+A plantation is a long artificially established forest, farm or estate, where crops are grown for sale, often in distant markets rather than for local on-site consumption. The term plantation is informal and not precisely defined. - Wikipedia</English>
+		<German>Plantation.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FOREST_PRESERVE_PEDIA</Tag>
+		<English>* Forest Preserve: all civilizations
+Forest preserve can be good source to happiness but over jungle or swamp still be a source of epidemic.[PARAGRAPH]A nature reserve (natural reserve, nature preserve, natural preserve, bioreserve) is a protected area of importance for wildlife, flora, fauna or features of geological or other special interest, which is reserved and managed for conservation and to provide special opportunities for study or research.</English>
+		<German>Plantation.</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_ETHIOPIA_PEDIA</Tag>
+		<English>* Coffee Plantation: Ethiopia
+Ethiopian ancestors of today's Oromo people were believed to have been the first to recognize the energizing effect of the coffee bean plant, though no direct evidence has been found indicating where in Africa coffee grew or who among the natives might have used it as a stimulant or even known about it, earlier than the 17th century. The story of Kaldi, the 9th-century Ethiopian goatherder who discovered coffee, did not appear in writing until 1671 and is probably apocryphal. - Wikipedia</English>
+		<German>Coffee Plantation</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_DRAVIDIA_PEDIA</Tag>
+		<English>* Pepper Plantation: Dravidia
+Black pepper (Piper nigrum) is a flowering vine in the family Piperaceae, cultivated for its fruit, which is usually dried and used as a spice and seasoning. The fruit, known as a peppercorn when dried, is approximately 5 millimetres (0.20 in) in diameter, dark red when fully mature, and, like all drupes, contains a single seed. Peppercorns, and the powdered pepper derived from grinding them, may be described simply as pepper, or more precisely as black pepper (cooked and dried unripe fruit), green pepper (dried unripe fruit) and white pepper (dried ripe seeds).
+Black pepper is native to south India, and is extensively cultivated there and elsewhere in tropical regions. The word "pepper" is ultimately derived from the Dravidian word for long pepper, pippali. - Wikipedia</English>
+		<German>Pepper Plantation</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION_CARTHAGE_PEDIA</Tag>
+		<English>* Trading Colony: Carthage
+Replaces: Plantation
+Colonies in antiquity were city-states founded from a mother-city - its "metropolis" -, not from a territory-at-large. Bonds between a colony and its metropolis remained often close, and took specific forms. However, unlike in the period of European colonialism during the Renaissance and the modern era, ancient colonies were usually sovereign and self-governing from their inception. - Wikipedia</English>
+		<German>Trading Colony</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_QUARRY_PEDIA</Tag>
+		<English>* Quarry: all civilizations
+A quarry is a type of open-pit mine from which rock or minerals are extracted. Quarries are generally used for extracting building materials, such as dimension stone, construction aggregate, riprap, sand, and gravel. - Wikipedia</English>
+		<German>Quarry.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WATERMILL_GREECE_PEDIA</Tag>
+		<English>* Water Wheel: Greece
+A water wheel is a machine for converting the energy of free-flowing or falling water into useful forms of power, often in a watermill. Hellenistic engineers invented the two main components of watermills, the waterwheel and toothed gearing, and were, along with the Romans, the first to operate undershot, overshot and breastshot waterwheel mills.
+The earliest evidence of a water-driven wheel is probably the Perachora wheel (3rd century BC), in Greece. The earliest written reference is in the technical treatises Pneumatica and Parasceuastica of the Greek engineer Philo of Byzantium (c. 280_220 BC). The British historian of technology M.J.T. Lewis has shown that those portions of Philo of Byzantium's mechanical treatise which describe water wheels and which have been previously regarded as later Arabic interpolations, actually date back to the Greek 3rd-century BC original. The sakia gear is, already fully developed, for the first time attested in a 2nd-century BC Hellenistic wall painting in Ptolemaic Egypt. Lewis assigns the date of the invention of the horizontal-wheeled mill to the Greek colony of Byzantium in the first half of 3rd century BC, and that of the vertical-wheeled mill to Ptolemaic Alexandria around 240 BC. Mills were commonly used for grinding grain into flour (attested by Pliny the Elder), but industrial uses as fulling and sawing marble were also applied. - Wikipedia</English>
+		<German>Stoneworks</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_OLIVES</Tag>
+		<English>Olive Grove</English>
+		<German>Olivenhain</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_OLIVES_PEDIA</Tag>
+		<English>* Olive Grove: Greece
+Greece started to produce its own olives on Minoan Crete and Cyprus in the Late Bronze Age and, thereafter, on the mainland. The Greeks, like the peoples of the Levant, were soon producing a surplus of olives and olive oil so that they built up a lucrative export industry. Such was its importance that it was the only permissible export in the celebrated laws created by Solon (c. 640 - c. 560 BCE). With the process of Phoenician and Greek colonization olive trees (Olea europea) sprang up across the ancient Mediterranean where all that was needed was warm summers and relatively light rainfall for these hardy trees to thrive.
+The largest olive producers in the ancient world then were Greece, Italy, the Levant, the north coast of Africa, Spain, and Syria. Places which enjoyed a particularly high reputation in antiquity for fine quality oil included Attica, Baetica (in Spain), Cyrenaica (Libya), Samos, and Venafrum (Italy).
+Not only were olives and olive oil an important part of the Mediterranean diet and cooking process (and still are, of course) but the oil produced from pressed olives was also used for many other purposes. Greeks and Romans used it to clean their bodies after exercise - smearing it on so that it collected dirt and sweat and then scraping it off using a metal instrument called a strigil. Olive oil was used as a fuel in terracotta (and more rarely metal) lamps, as an ingredient of perfumes, in religious rituals, for massages, as a multi-purpose lubricant, and even prescribed as a medicine.
+The importance of the olive to Greek culture is seen in the appearance of the olive branch on Classical Athenian coins and its use in the crowns of victory at the Olympic Games. The Athenians considered the olive tree a gift from their patron goddess Athena, and this very tree grew on the acropolis of the city. They had an entire sacred grove of olive trees (moriae) too, from which oil was pressed and placed into uniquely decorated amphora vases to be given as prizes in the annual Panathenaic festival.</English>
+		<German>Stoneworks</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_QUARRY_SALT_PEDIA</Tag>
+		<English>* Salt Pit: all civilizations
+A pit in which seawater is received and evaporated.</English>
+		<German>Salt Pit.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PASTURE_PEDIA</Tag>
+		<English>* Pasture: all civilizations
+* Highland Pasture: Armenia
+A highland pasture is above to 1000m (3500 ft).</English>
+		<German>Pasture.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CATTLE_RANCH_PEDIA</Tag>
+		<English>* Ranch: USA
+Replaces: Pasture
+A ranch is an area of landscape, including various structures, given primarily to the practice of ranching, the practice of raising grazing livestock such as cattle or sheep for meat or wool. The word most often applies to livestock-raising operations in the western United States and Canada, though there are ranches in other areas. People who own or operate a ranch are called ranchers, or stockgrowers. - Wikipedia.</English>
+		<German>Ranch.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CAMP_PEDIA</Tag>
+		<English>* Camp: all civilizations
+* Hunter-Gatherer Camp: barbarians
+* Loggin Camp: all civilizations
+* Mahout Camp: all civilizations
+* Trapper Lodge: all civilizations (fur resource)
+Camp is place with temporary accommodations of huts, tents, or other structures, typically used by soldiers, refugees, prisoners, or travelers.</English>
+		<German>Camp.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WELL_PEDIA</Tag>
+		<English>* Well: all civilizations
+An oil well is a general term for any boring through the Earth's surface that is designed to find and acquire petroleum oil hydrocarbons. Usually some natural gas is produced along with the oil. A well that is designed to produce mainly or only gas may be termed a gas well. - Wikipedia</English>
+		<German>Well.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM_PEDIA</Tag>
+		<English>* Offshore Platform: all civilizations
+An oil platform, often referred to as an offshore platform or, somewhat incorrectly, oil rig, is a large structure with facilities to drill wells, to extract and process oil and natural gas, and to temporarily store product until it can be brought to shore for refining and marketing. In many cases, the platform contains facilities to house the workforce as well.
+Depending on the circumstances, the platform may be fixed to the ocean floor, may consist of an artificial island, or may float. - Wikipedia</English>
+		<German>Offshore Platform.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WINERY_PEDIA</Tag>
+		<English>* Winery: all civilizations
+A winery is a building or property that produces wine, or a business involved in the production of wine, such as a wine company. Some wine companies own many wineries. Besides wine making equipment, larger wineries may also feature warehouses, bottling lines, laboratories, and large expanses of tanks known as tank farms. The oldest winery in the world found to date is a 6,000 year old winery in the Areni region of Armenia, which is still a wine making region today. - Wikipedia</English>
+		<German>Winery.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WINERY_FRANCE_PEDIA</Tag>
+		<English>* Terroir Vineyard: France
+Replaces: Winery
+A vineyard is a plantation of grape-bearing vines, grown mainly for winemaking, but also raisins, table grapes and non-alcoholic grape juice. The science, practice and study of vineyard production is known as viticulture.
+A vineyard is often characterised by its terroir, a French term loosely translating as "a sense of place" that refers to the specific geographical and geological characteristics of grapevine plantations, which may be imparted in the wine.
+Over the centuries, French winemakers developed the concept of terroir by observing the differences in wines from different regions, vineyards, or even different sections of the same vineyard. The French began to crystallize the concept of terroir as a way of describing the unique aspects of a place that influence and shape the wine made from it. Long before the French, the winemaking regions of the ancient world already developed a concept of different regions having the potential to create very different and distinct wines, even from the same grapes. - Wikipedia</English>
+		<German>Terroir Vineyard</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_COTTAGE_PEDIA</Tag>
+		<English>Cottage -> Hamlet -> Village -> Town.</English>
+		<German>Cottage.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HAMLET_PEDIA</Tag>
+		<English>Cottage -> Hamlet -> Village -> Town.</English>
+		<German>Hamlet.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_VILLAGE_PEDIA</Tag>
+		<English>Cottage -> Hamlet -> Village -> Town.</English>
+		<German>Village.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_TOWN_PEDIA</Tag>
+		<English>Cottage -> Hamlet -> Village -> Town.</English>
+		<German>Town.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FORT_PEDIA</Tag>
+		<English>[TAB]Forts are military constructions and buildings designed for defence in warfare and military bases. - Wikipedia</English>
+		<German>Forts.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HOTSPRINGS_PARK_PEDIA</Tag>
+		<English>* Hot Springs Park: all civilizations
+An area of open space provided for recreational use with a spring that is produced by the emergence of geothermally heated groundwater from the Earth's crust.</English>
+		<German>Hot Springs Park.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HOTSPRINGS_PARK_GERMANY_PEDIA</Tag>
+		<English>* Thermalbad: Germany
+When the Romans conquered this region in what is now southwestern Germany, they brought with them their established custom of bathing. Many of the thermal springs that had been used by the Celts became Roman spas. In most places, with the decline of the Roman Empire, the public baths often became places of licentious behavior, and such use was responsible for the spread rather than the cure of diseases. A general belief developed among the European populace was that frequent bathing promoted disease and sickness. But in Germany, the thermal bath tradition continued through the centuries, not in the least because Charlemagne was quite fond of those. 
+"[Charlemagne] enjoyed the exhalations from natural warm springs, and often practised swimming, in which he was such an adept that none could surpass him; and hence it was that he built his palace at Aix-la-Chapelle, and lived there constantly during his latter years until his death. He used not only to invite his sons to his bath, but his nobles and friends, and now and then a troop of his retinue or body guard, so that a hundred or more persons sometimes bathed with him." (Einhard: "The Life of Charlemagne")
+Later, many German and Austrian towns grew around thermal springs and became spa destinations of world renown.</English>
+		<German>Thermalbad.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SETTLEMENT_PEDIA</Tag>
+		<English>* Settlement: all civilizations
+A settlement is a general term used in archeology, landscape history and other subjects for a permanent or temporary community in which people live which avoids being specific as to size, population or importance. A settlement can therefore range in size from a small number of dwellings grouped together to the largest of cities with surrounding urbanized areas. - Wikipedia</English>
+		<German>[TAB]A settlement is a general term used in archeology, landscape history and other subjects for a permanent or temporary community in which people live which avoids being specific as to size, population or importance. A settlement can therefore range in size from a small number of dwellings grouped together to the largest of cities with surrounding urbanized areas. - Wikipedia</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SETTLEMENT_BERBER_PEDIA</Tag>
+		<English>* Ksar: Berber
+Ksour in the Maghreb typically consist of attached houses, often having collective granaries and other structures like a mosque, bath, oven, and shops. Ksour are widespread among the oasis populations of North Africa. Ksars are sometimes situated in mountain locations to make defense easier; they often are entirely within a single, continuous wall. The building material of the entire structure is normally adobe, or cut stone and adobe. The idea of the ksar as a granary is a confused notion of two things, the granary itself, found within a ksar, and the ksar, which is a village, normally with granaries within it. Ksars form one of the main manifestations of Berber architecture. - Wikipedia</English>
+		<German>[TAB]Ksar</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SETTLEMENT_ARABIA_PEDIA</Tag>
+		<English>* Bedouin Camp: Arabia
+Replaces: Settlement
+A Bedouin camp is a temporary community in which people live which avoids being specific as to size, population or importance. A settlement can therefore range in size from a small number of dwellings grouped together to the largest of cities with surrounding urbanized areas.</English>
+		<German>[TAB]A settlement is a general term used in archeology, landscape history and other subjects for a permanent or temporary community in which people live which avoids being specific as to size, population or importance. A settlement can therefore range in size from a small number of dwellings grouped together to the largest of cities with surrounding urbanized areas. - Wikipedia</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_GRAZING_GROUND_PEDIA</Tag>
+		<English>* Grazing Ground: Mongol
+A land with grassland suitable for pasturage.</English>
+		<German>Grazing Ground</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CATTLE_TREK_PEDIA</Tag>
+		<English>* Cattle Trek: Nguni
+The ancestors of Nguni cattle were brought by the Xhosa, Zulu and Swazi people, during their migration to Southern Africa between 600 and 1400 AD. Since then, these animals have played an important social and economic role in the development of these societies and are used as a bride's dowry. The number of animals held by a village or individual determined much of their importance to the rest of the world. King Shaka of the Zulus understood this cultural and economic importance and seized control of the Nguni herds on his dominions. Shaka also bred the Ngunis according to colour patterns in order to produce skins for the several regiments of his army, henceforward recognized by them. His elite personal guard was recognised by pure white, from animals of the royal herd, the inyonikayiphumuli. - Wikipedia</English>
+		<German>Cattle Trek</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CHINAMPA_PEDIA</Tag>
+		<English>* Chinampa: Aztec
+Chinampa is a method of ancient Mesoamerican agriculture which used small, rectangle-shaped areas of fertile arable land to grow crops on the shallow lake beds in the Valley of Mexico. - Wikipedia</English>
+		<German>Chinampa</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HUNTER_CAMP_RUSSIA_PEDIA</Tag>
+		<English>* Lovischche: Russia
+Replaces: Trapper Lodge
+Hunting in Russia has an old tradition in terms of indigenous people, while the original features of state and princely economy were farming and cattle-breeding. There was hunting for food as well as sport. The word "hunting" (okhota) first appeared in the common Russian language at the end of the 15th century. Before that the word "catchings" (lovy) existed to designate the hunting business in general. The hunting grounds were called in turn lovishcha. In the 15th-16th centuries, foreign ambassadors were frequently invited to hunts; they also received some of the prey afterwards. - Wikipedia</English>
+		<German>Lovischche</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PET_KOT_MAYA_PEDIA</Tag>
+		<English>* Pet Kot: Maya
+Forest gardens, or home gardens, are common in the tropics, using intercropping to cultivate trees, crops, and livestock on the same land.
+On the Yucat&#225;n Peninsula, much of the Maya food supply was grown in "orchard-gardens", known as pet kot. The system takes its name from the low wall of stones (pet meaning circular and kot wall of loose stones) that characteristically surrounds the gardens. - Wikipedia</English>
+		<German>Pet Kot</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PANNING_SITE_PEDIA</Tag>
+		<English>* Gold Panning Site: Mali</English>
+		<German>Panning Site</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SHIPWRECK_ENGLAND_PEDIA</Tag>
+		<English>* Floatsam Recovery: England
+Flotsam is floating wreckage of a ship or its cargo.</English>
+		<German>Shipwreck</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FISHING_BOATS_JAPAN_PEDIA</Tag>
+		<English>* Traditional Fishing: Japan
+Replaces: Fishing Boats
+"Kusatte mo tai (Even a rotten tai - a kind of fish - is worthwhile)" is a saying to indicate that a great person retains some of their worth no matter how his/her status or situation changes.</English>
+		<German>Traditional Fishing</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_TIMAR_OTTOMAN_PEDIA</Tag>
+		<English>* Timar: Ottoman
+Replaces: Windmill
+A timar was land granted by the Ottoman sultans between the fourteenth and sixteenth centuries, with a tax revenue annual value of less than 20 000 ak&#231;es. The revenues produced from land acted as compensation for military service. A Timar holder was known as a Timariot. If the revenues produced from the timar were from 20,000 to 100,000 ak&#231;es, the timar would be called zeamet, and if they were above 100,000 ak&#231;es, the land would be called has. - Wikipedia</English>
+		<German>Timar</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FORTIFIED_MONASTERY_CELT_PEDIA</Tag>
+		<English>* Fortified Monastery: Celt
+Celtic monasteries consisted of a number of small buildings, including several stone churches, within a fortified enclosure. Despite their humble appearance, it was monasteries such as these that kept the torch of civilisation aflame in western Europe after the collapse of the Roman Empire and the barbarian invasions.</English>
+		<German>Fortified Monastery</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FISHING_BOATS_AUSTRONESIA_PEDIA</Tag>
+		<English>* Proa Fishing Boats: Austronesia
+While the word perahu and proa are generic terms meaning boat in their native languages, proa in Western languages has come to describe a vessel consisting of two (usually) unequal length parallel hulls.</English>
+		<German>Proa</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WHEAT_CULTIVATION_PEDIA</Tag>
+		<English>* Wheat Cultivation: all civilizations
+Wheat can be cultivated on chernozem soils.</English>
+		<German>Proa</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CORN_CULTIVATION_PEDIA</Tag>
+		<English>* Corn Cultivation: all civilizations
+Corn can be cultivated on andosol soils.</English>
+		<German>Proa</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_RICE_CULTIVATION_PEDIA</Tag>
+		<English>* Rice Cultivation: all civilizations
+Rice can be cultivated on andosol soils. </English>
+		<German>Proa</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_POTATO_CULTIVATION_PEDIA</Tag>
+		<English>* Potato Cultivation: all civilizations
+Potato can be cultivated on chernozem soils.</English>
+		<German>Proa</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_WINE_CULTIVATION_PEDIA</Tag>
+		<English>* Grapes Cultivation: France
+Grapes can be cultivated on chernozem soils.</English>
+		<German>Proa</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SPICE_CULTIVATION_PEDIA</Tag>
+		<English>* Pepper Cultivation: Dravidia
+Pepper can be cultivated on andosol or chernozem soils.</English>
+		<German>Proa</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_COFFEE_CULTIVATION_PEDIA</Tag>
+		<English>* Coffee Cultivation: Ethiopia
+Coffee can be cultivated on andosol soils.</English>
+		<German>Proa</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_DYE_CULTIVATION_PEDIA</Tag>
+		<English>* Dye Works: Carthage
+Dyes can be cultivated on andosol soils.</English>
+		<German>Proa</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HORSE_BREEDER_PEDIA</Tag>
+		<English>* Horse Breeder: Hungary
+A large open field to select purebred horses of a given breed.</English>
+		<German>Horse Breeder</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_AUTOBAHN_PEDIA</Tag>
+		<English>* Autobahn: Germany
+Germany is able to build an improved type of routes not available to any other civ: Autobahn.</English>
+		<German>Proa</German>
+	</TEXT>
+</Civ4GameText>

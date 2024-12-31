@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXPLORATION</Tag>
+		<English>Exploration</English>
+		<German>
+			<Text>Entdeckung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGE1</Tag>
+		<English>Range I</English>
+		<German>
+			<Text>Fernkampf I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGE2</Tag>
+		<English>Range II</English>
+		<German>
+			<Text>Fernkampf II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGE3</Tag>
+		<English>Range III</English>
+		<German>
+			<Text>Fernkampf III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_INTERCEPTION1</Tag>
+		<English>Interception I</English>
+		<German>
+			<Text>Abfangen I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_INTERCEPTION2</Tag>
+		<English>Interception II</English>
+		<German>
+			<Text>Abfangen II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_INTERCEPTION3</Tag>
+		<English>Interception III</English>
+		<German>
+			<Text>Abfangen III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_INTERCEPTION4</Tag>
+		<English>Interception IV</English>
+		<German>
+			<Text>Abfangen IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACE</Tag>
+		<English>Evasion I</English>
+		<German>
+			<Text>Ausweichen I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACE2</Tag>
+		<English>Evasion II</English>
+		<German>
+			<Text>Ausweichen II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACE3</Tag>
+		<English>Evasion III</English>
+		<German>
+			<Text>Ausweichen III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACE4</Tag>
+		<English>Evasion IV</English>
+		<German>
+			<Text>Ausweichen IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_URBAN_COMBAT</Tag>
+		<English>Urban Combat I</English>
+		<German>
+			<Text>Stadtkampf I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_URBAN_COMBAT2</Tag>
+		<English>Urban Combat II</English>
+		<German>
+			<Text>Stadtkampf II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ECM</Tag>
+		<English>ECM</English>
+		<German>
+			<Text>EloGM</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HIT_AND_RUN</Tag>
+		<English>Hit and run</English>
+		<German>
+			<Text>Blitzüberfall</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_LOOSE_FORMATION</Tag>
+		<English>Loose Formation</English>
+		<German>
+			<Text>Lose Formation</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CAMOUFLAGE</Tag>
+		<English>Camouflage</English>
+		<German>
+			<Text>Tarnung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_OBSERVERS</Tag>
+		<English>Forward Observers</English>
+		<German>
+			<Text>Vorgezogene Beobachter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SUPPRESIVE_FIRE</Tag>
+		<English>Suppressive Fire</English>
+		<German>
+			<Text>Unterstützungsfeuer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COMBAT6</Tag>
+		<English>Combat VI</English>
+		<German>
+			<Text>Kampf VI</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COVER2</Tag>
+		<English>Cover II</English>
+		<German>
+			<Text>Deckung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COVER3</Tag>
+		<English>Cover III</English>
+		<German>
+			<Text>Deckung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SHOCK2</Tag>
+		<English>Shock II</English>
+		<German>
+			<Text>Schock II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SHOCK3</Tag>
+		<English>Shock III</English>
+		<German>
+			<Text>Schock III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PINCH2</Tag>
+		<English>Pinch II</English>
+		<German>
+			<Text>Finte II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PINCH3</Tag>
+		<English>Pinch III</English>
+		<German>
+			<Text>Finte III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FORMATION2</Tag>
+		<English>Formation II</English>
+		<German>
+			<Text>Formation II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FORMATION3</Tag>
+		<English>Formation III</English>
+		<German>
+			<Text>Formation III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CHARGE2</Tag>
+		<English>Charge II</English>
+		<German>
+			<Text>Ausfall II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CHARGE3</Tag>
+		<English>Charge III</English>
+		<German>
+			<Text>Ausfall III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AMBUSH2</Tag>
+		<English>Ambush II</English>
+		<German>
+			<Text>Hinterhalt II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AMBUSH3</Tag>
+		<English>Ambush III</English>
+		<German>
+			<Text>Hinterhalt III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COMMANDO</Tag>
+		<English>Commando</English>
+		<German>
+			<Text>Kommmando</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MEDIC3</Tag>
+		<English>Medic III</English>
+		<German>
+			<Text>Sanitäter III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HOSPITAL_SHIP</Tag>
+		<English>Hospital Ship</English>
+		<German>
+			<Text>Krankenhausschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUERILLA3</Tag>
+		<English>Guerilla III</English>
+		<German>
+			<Text>Hügelkampf III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_WOODSMAN3</Tag>
+		<English>Woodsman III</English>
+		<German>
+			<Text>Waldkampf III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_WARMTH1</Tag>
+		<English>Desert Combat I</English>
+		<German>
+			<Text>Wüstenkampf I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_WARMTH2</Tag>
+		<English>Desert Combat II</English>
+		<German>
+			<Text>Wüstenkampf II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COLD1</Tag>
+		<English>Arctic Combat I</English>
+		<German>
+			<Text>Schneekampf I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COLD2</Tag>
+		<English>Arctic Combat II</English>
+		<German>
+			<Text>Schneekampf II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CITYRAIDER4</Tag>
+		<English>City Raider IV</English>
+		<German>
+			<Text>Häuserkampf IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GARRISON4</Tag>
+		<English>City Garrison IV</English>
+		<German>
+			<Text>Stadtverteidigung IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACCURACY1</Tag>
+		<English>Precision Bombardment I</English>
+		<German>
+			<Text>Präzisionsbombardierung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACCURACY2</Tag>
+		<English>Precision Bombardment II</English>
+		<German>
+			<Text>Präzisionsbombardierung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACCURACY3</Tag>
+		<English>Precision Bombardment III</English>
+		<German>
+			<Text>Präzisionsbombardierung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TACTICAL_FORMATION</Tag>
+		<English>Air Recon Equipment I</English>
+		<German>
+			<Text>Luftaufklärungsausrüstung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TACTICAL_FORMATION2</Tag>
+		<English>Air Recon Equipment II</English>
+		<German>
+			<Text>Luftaufklärungsausrüstung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TACTICAL_FORMATION3</Tag>
+		<English>Air Recon Equipment III</English>
+		<German>
+			<Text>Luftaufklärungsausrüstung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FLANKING3</Tag>
+		<English>Flanking III</English>
+		<German>
+			<Text>Flanke III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SENTRY2</Tag>
+		<English>Sentry II</English>
+		<German>
+			<Text>Wache II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SENTRY3</Tag>
+		<English>Sentry III</English>
+		<German>
+			<Text>Wache III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SPEED</Tag>
+		<English>Speed</English>
+		<German>
+			<Text>Geschwindigkeit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_FORT1</Tag>
+		<English>Fort Bonus I</English>
+		<German>
+			<Text>Festungsbonus I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_FORT2</Tag>
+		<English>Fort Bonus II</English>
+		<German>
+			<Text>Festungsbonus II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_FORT3</Tag>
+		<English>Fort Bonus III</English>
+		<German>
+			<Text>Festungsbonus III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_FORT4</Tag>
+		<English>Fort Bonus IV</English>
+		<German>
+			<Text>Festungsbonus IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_FORT5</Tag>
+		<English>Fort Bonus V</English>
+		<German>
+			<Text>Festungsbonus V</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_RECON1</Tag>
+		<English>Recon Aid I</English>
+		<German>
+			<Text>Aufklärungsunterstützung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_RECON2</Tag>
+		<English>Recon Aid II</English>
+		<German>
+			<Text>Aufklärungsunterstützung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_RECON3</Tag>
+		<English>Recon Aid III</English>
+		<German>
+			<Text>Aufklärungsunterstützung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_ASSAULT1</Tag>
+		<English>Assault Aid I</English>
+		<German>
+			<Text>Angriffsunterstützung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_ASSAULT2</Tag>
+		<English>Assault Aid II</English>
+		<German>
+			<Text>Angriffsunterstützung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_ASSAULT3</Tag>
+		<English>Assault Aid III</English>
+		<German>
+			<Text>Angriffsunterstützung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_RANGED1</Tag>
+		<English>Ranged Aid I</English>
+		<German>
+			<Text>Fernkampfunterstützung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_RANGED2</Tag>
+		<English>Ranged Aid II</English>
+		<German>
+			<Text>Fernkampfunterstützung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_RANGED3</Tag>
+		<English>Ranged Aid III</English>
+		<German>
+			<Text>Fernkampfunterstützung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_MOBILITY1</Tag>
+		<English>Mobility Aid I</English>
+		<German>
+			<Text>Mobilitätsunterstützung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_MOBILITY2</Tag>
+		<English>Mobility Aid II</English>
+		<German>
+			<Text>Mobilitätsunterstützung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_MOBILITY3</Tag>
+		<English>Mobility Aid III</English>
+		<German>
+			<Text>Mobilitätsunterstützung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_COMBINED_ARMS1</Tag>
+		<English>Combined Arms Aid I</English>
+		<German>
+			<Text>Kombinierte Waffenunterstützung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_COMBINED_ARMS2</Tag>
+		<English>Combined Arms Aid II</English>
+		<German>
+			<Text>Kombinierte Waffenunterstützung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_COMBINED_ARMS3</Tag>
+		<English>Combined Arms Aid III</English>
+		<German>
+			<Text>Kombinierte Waffenunterstützung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_INFANTRY_SUPPORT1</Tag>
+		<English>Infantry Support Aid I</English>
+		<German>
+			<Text>Infanterieunterstützung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_INFANTRY_SUPPORT2</Tag>
+		<English>Infantry Support Aid II</English>
+		<German>
+			<Text>Infanterieunterstützung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_INFANTRY_SUPPORT3</Tag>
+		<English>Infantry Support Aid III</English>
+		<German>
+			<Text>Infanterieunterstützung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_ANTI_TANK_GUN1</Tag>
+		<English>Anti-tank Gun Aid I</English>
+		<German>
+			<Text>Panzerabwehrkanonenunterstützung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_ANTI_TANK_GUN2</Tag>
+		<English>Anti-tank Gun Aid II</English>
+		<German>
+			<Text>Panzerabwehrkanonenunterstützung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_ANTI_TANK_GUN3</Tag>
+		<English>Anti-tank Gun Aid III</English>
+		<German>
+			<Text>Panzerabwehrkanonenunterstützung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_ASW1</Tag>
+		<English>ASW Aid I</English>
+		<German>
+			<Text>U-Jagd-Unterstützung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_ASW2</Tag>
+		<English>ASW Aid II</English>
+		<German>
+			<Text>U-Jagd-Unterstützung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_ASW3</Tag>
+		<English>ASW Aid III</English>
+		<German>
+			<Text>U-Jagd-Unterstützung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_BREAKTHROUGH1</Tag>
+		<English>Breakthrough Aid I</English>
+		<German>
+			<Text>Durchbruchsunterstützung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_BREAKTHROUGH2</Tag>
+		<English>Breakthrough Aid II</English>
+		<German>
+			<Text>Durchbruchsunterstützung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_BREAKTHROUGH3</Tag>
+		<English>Breakthrough Aid III</English>
+		<German>
+			<Text>Durchbruchsunterstützung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_SIEGE1</Tag>
+		<English>Siege Aid I</English>
+		<German>
+			<Text>Belagerungsunterstützung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_SIEGE2</Tag>
+		<English>Siege Aid II</English>
+		<German>
+			<Text>Belagerungsunterstützung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_SIEGE3</Tag>
+		<English>Siege Aid III</English>
+		<German>
+			<Text>Belagerungsunterstützung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_FORT1</Tag>
+		<English>Fort Bonus I</English>
+		<German>
+			<Text>Festungsbonus I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_FORT2</Tag>
+		<English>Fort Bonus II</English>
+		<German>
+			<Text>Festungsbonus II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AID_FORT3</Tag>
+		<English>Fort Bonus III</English>
+		<German>
+			<Text>Festungsbonus III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MERCENARY</Tag>
+		<English>Mercenary</English>
+		<German>
+			<Text>Söldner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_URANIUM_AMMO</Tag>
+		<English>Uranium Ammunition</English>
+		<German>
+			<Text>Urangeschosse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXPANSIONIST</Tag>
+		<English>Expansionist</English>
+		<German>
+			<Text>Expansionist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RIVER_COMBAT</Tag>
+		<English>River Combat</English>
+		<German>
+			<Text>Flusskampf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MANOEUVER_WARFARE</Tag>
+		<English>Maneuver Warfare</English>
+		<German>
+			<Text>Manöverkriegsführung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PATROLS</Tag>
+		<English>Patrols I</English>
+		<German>
+			<Text>Spähtrupp I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PATROLS2</Tag>
+		<English>Patrols II</English>
+		<German>
+			<Text>Spähtrupp II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PATROLS3</Tag>
+		<English>Patrols III</English>
+		<German>
+			<Text>Spähtrupp III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BLESSED</Tag>
+		<English>Blessed</English>
+		<German>
+			<Text>Gesegnet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SAILOR_TRAINING</Tag>
+		<English>Sailor Training </English>
+		<German>
+			<Text>Seemansausbildung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SCOUT_PLANES</Tag>
+		<English>Scout Planes</English>
+		<German>
+			<Text>Erkundungsflüge</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SONAR</Tag>
+		<English>Sonar/Radar</English>
+		<German>
+			<Text>Sonar/Radar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_DEPTH_CHARGES</Tag>
+		<English>Depth Charges</English>
+		<German>
+			<Text>Wasserbombe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TORPEDOS1</Tag>
+		<English>Torpedoes I</English>
+		<German>
+			<Text>Torpedos I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TORPEDOS2</Tag>
+		<English>Torpedoes II</English>
+		<German>
+			<Text>Torpedos II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TORPEDOS3</Tag>
+		<English>Torpedoes III</English>
+		<German>
+			<Text>Torpedos III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_STEALTH</Tag>
+		<English>Stealth</English>
+		<German>
+			<Text>Verstohlenheit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUIDED_MISSILE</Tag>
+		<English>Advanced Missiles</English>
+		<German>
+			<Text>Lenkraketen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RAIDER</Tag>
+		<English>Raider</English>
+		<German>
+			<Text>Plünderer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RAIDER_HELP</Tag>
+		<English>[ICON_BULLET]Plunders 4% of Enemy [ICON_GOLD] Reserves on Combat Victory</English>
+		<German>[ICON_BULLET]Plündert 4% des Feindes [ICON_GOLD] nach einem Kampfsieg</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RAIDER_GOLD1</Tag>
+		<English>[COLOR_SELECTED_TEXT]%s1 has plundered %d2 [ICON_GOLD]![COLOR_REVERT]</English>
+		<German>[COLOR_SELECTED_TEXT]%s1 hat %d2 [ICON_GOLD] geplündert![COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RAIDER_GOLD2</Tag>
+		<English>[COLOR_SELECTED_TEXT]%s1 has plundered %d2 [ICON_GOLD]![COLOR_REVERT]</English>
+		<German>[COLOR_SELECTED_TEXT]%s1 hat %d2 [ICON_GOLD] geplündert![COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RAIDER_GOLD3</Tag>
+		<English>[COLOR_SELECTED_TEXT]%s1 has plundered %d2 [ICON_GOLD]![COLOR_REVERT]</English>
+		<German>[COLOR_SELECTED_TEXT]%s1 hat %d2 [ICON_GOLD] geplündert![COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUNBATTERY1</Tag>
+		<English>Gun Battery I</English>
+		<German>
+			<Text>Geschützgruppe I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUNBATTERY2</Tag>
+		<English>Gun Battery II</English>
+		<German>
+			<Text>Geschützgruppe II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUNBATTERY3</Tag>
+		<English>Gun Battery III</English>
+		<German>
+			<Text>Geschützgruppe III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MAINCALIBER1</Tag>
+		<English>Main Caliber I</English>
+		<German>
+			<Text>Hauptkaliber I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MAINCALIBER2</Tag>
+		<English>Main Caliber II</English>
+		<German>
+			<Text>Hauptkaliber II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MAINCALIBER3</Tag>
+		<English>Main Caliber III</English>
+		<German>
+			<Text>Hauptkaliber III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUNBOAT_SHIP</Tag>
+		<English>Coastal Ship</English>
+		<German>
+			<Text>Küstenboot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_LAND_TACTICS</Tag>
+		<English>Land Tactics</English>
+		<German>
+			<Text>Landtaktiken</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_NAVAL_TACTICS</Tag>
+		<English>Naval Tactics</English>
+		<German>
+			<Text>Seetaktiken</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AIR_TACTICS</Tag>
+		<English>Air Tactics</English>
+		<German>
+			<Text>Lufttaktiken</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PACIFICATION1</Tag>
+		<English>Pacification I</English>
+		<German>
+			<Text>Barbarenkampf I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PACIFICATION2</Tag>
+		<English>Pacification II</English>
+		<German>
+			<Text>Barbarenkampf II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PACIFICATION3</Tag>
+		<English>Pacification III</English>
+		<German>
+			<Text>Barbarenkampf III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SIEGE_BOMBARDMENT1</Tag>
+		<English>Siege Bombardment I</English>
+		<German>
+			<Text>Stadtbombardierung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SIEGE_BOMBARDMENT2</Tag>
+		<English>Siege Bombardment II</English>
+		<German>
+			<Text>Stadtbombardierung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SIEGE_BOMBARDMENT3</Tag>
+		<English>Siege Bombardment III</English>
+		<German>
+			<Text>Stadtbombardierung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ANTI_AIR_DEFENSE</Tag>
+		<English>Anti-air defense</English>
+		<German>
+			<Text>Flugabwehr</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_LONG_RANGE</Tag>
+		<English>Long Range</English>
+		<German>
+			<Text>Langstreckenangriffe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AREA_BOMBARDMENT1</Tag>
+		<English>Area Bombardment I</English>
+		<German>
+			<Text>Flächenschaden I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AREA_BOMBARDMENT2</Tag>
+		<English>Area Bombardment II</English>
+		<German>
+			<Text>Flächenschaden II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AREA_BOMBARDMENT3</Tag>
+		<English>Area Bombardment III</English>
+		<German>
+			<Text>Flächenschaden III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AREA_BOMBARDMENT4</Tag>
+		<English>Area Bombardment IV</English>
+		<German>
+			<Text>Flächenschaden IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BROADSIDE1</Tag>
+		<English>Broadside I</English>
+		<German>
+			<Text>Breitseite I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BROADSIDE2</Tag>
+		<English>Broadside II</English>
+		<German>
+			<Text>Breitseite II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SUPER_CARRIER</Tag>
+		<English>Supercarrier</English>
+		<German>
+			<Text>Flugzeugträger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_IRREGULAR_1</Tag>
+		<English>Irregular I</English>
+		<German>
+			<Text>Irregulär I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_IRREGULAR_2</Tag>
+		<English>Irregular II</English>
+		<German>
+			<Text>Irregulär II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- MOD - START - Stack Aid -->
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_AID_MORALE</Tag>
+    <English>Inspiration</English>
+    <German>
+      <Text>Inspiration</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_DETRIMENT_FEAR</Tag>
+    <English>Fear</English>
+    <German>
+      <Text>Furcht</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_DETRIMENT_FEAR_HORSE</Tag>
+    <English>Horses Scared</English>
+    <German>
+      <Text>Verängstigte Pferde</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_DETRIMENT_SHORE1</Tag>
+    <English>Shore Bombardment I</English>
+    <German>
+      <Text>Küstenbombardierung I</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_DETRIMENT_SHORE2</Tag>
+    <English>Shore Bombardment II</English>
+    <German>
+      <Text>Küstenbombardierung II</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_DETRIMENT_SHORE3</Tag>
+    <English>Shore Bombardment III</English>
+    <German>
+      <Text>Küstenbombardierung III</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_PROMOTION_AID_CARRIER</Tag>
+    <English>Naval Aviation Support</English>
+    <German>
+      <Text>Marine-Luft-Unterstützung</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_AID_CAPITAL_SHIP</Tag>
+    <English>Long Range Fire Support</English>
+    <German>
+      <Text>Langstreckenfeuerunterstützung</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_AID_DESTROYER</Tag>
+    <English>Screening Support</English>
+    <German>
+      <Text>Abschirmungsunterstützung</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- MOD - END - Stack Aid -->
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_LAND1</Tag>
+		<English>Logistical Problems I</English>
+		<German>Logistikprobleme I</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_LAND2</Tag>
+		<English>Logistical Problems II</English>
+		<German>Logistikprobleme II</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_LAND3</Tag>
+		<English>Logistical Problems III</English>
+		<German>Logistikprobleme III</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_LAND4</Tag>
+		<English>Logistical Problems IV</English>
+		<German>Logistikprobleme IV</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_LAND5</Tag>
+		<English>Logistical Problems V</English>
+		<German>Logistikprobleme V</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_LAND6</Tag>
+		<English>Logistical Problems VI</English>
+		<German>Logistikprobleme VI</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_CITY1</Tag>
+		<English>Supply Problems I</English>
+		<German>Versorgungsprobleme I</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_CITY2</Tag>
+		<English>Supply Problems II</English>
+		<German>Versorgungsprobleme II</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_CITY3</Tag>
+		<English>Supply Problems III</English>
+		<German>Versorgungsprobleme III</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_CITY4</Tag>
+		<English>Supply Problems IV</English>
+		<German>Versorgungsprobleme IV</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_CITY5</Tag>
+		<English>Supply Problems V</English>
+		<German>Versorgungsprobleme V</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONGESTED_CITY6</Tag>
+		<English>Supply Problems VI</English>
+		<German>Versorgungsprobleme VI</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PILOT</Tag>
+		<English>Expert Pilot</English>
+		<German>Erfahrener Seefahrer</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SEA_ROBBER</Tag>
+		<English>Sea Robber</English>
+		<German>Seeräuber</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PIRACY0</Tag>
+		<English>Piracy</English>
+		<German>Piraterie</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PIRACY1</Tag>
+		<English>Piracy I</English>
+		<German>Piraterie I</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PIRACY2</Tag>
+		<English>Piracy II</English>
+		<German>Piraterie II</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PIRACY3</Tag>
+		<English>Piracy III</English>
+		<German>Piraterie III</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PIRATE_HUNTER1</Tag>
+		<English>Pirate Hunter I</English>
+		<German>Piratenjäger I</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PIRATE_HUNTER2</Tag>
+		<English>Pirate Hunter II</English>
+		<German>Piratenjäger II</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PIRATE_HUNTER3</Tag>
+		<English>Pirate Hunter III</English>
+		<German>Piratenjäger III</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BARBARIAN</Tag>
+		<English>Barbarian</English>
+		<German>Barbar</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_POOR_MORALE</Tag>
+		<English>Poor Morale</English>
+		<German>Schlechte Moral</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_POOR_LEADERSHIP</Tag>
+		<English>Poor Leadership</English>
+		<German>Schlechte Führung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_POOR_ORGANIZATION</Tag>
+		<English>Poor Organization</English>
+		<German>Schlechte Organisation</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PRISONER0</Tag>
+		<English>Captive Taking</English>
+		<German>Gefangennahme</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PRISONER1</Tag>
+		<English>1 Captive - Tlamanih</English>
+		<German>1 Gefangene - Tlamanih</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PRISONER2</Tag>
+		<English>2 Captives - Cuextecatl</English>
+		<German>2 Gefangene - Cuextecatl</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PRISONER3</Tag>
+		<English>3 Captives - Papalotl</English>
+		<German>3 Gefangene - Papalotl</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BARRAGE1</Tag>
+		<English>Barrage I</English>
+		<German>Sperrfeuer I</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BARRAGE2</Tag>
+		<English>Barrage II</English>
+		<German>Sperrfeuer II</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BARRAGE3</Tag>
+		<English>Barrage III</English>
+		<German>Sperrfeuer III</German>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_AUTO_DRAFT</Tag>
+		<English>Citizens have formed a unit of %s1 in %s2!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PENALTY</Tag>
+		<English>Citizen Militia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDW_DISORDER</Tag>
+		<English>IDW: no defenders will spawn, as the city is in disorder</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDW_NO_DRAFT</Tag>
+		<English>IDW: no defenders will spawn, as the population is at or below %d1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDW_DRAFT_CHANCE</Tag>
+		<English>IDW: chance to spawn defenders: %d1%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDW_DEBUG</Tag>
+		<English>IDW debug: iCityLevel %d1, iPlotCulture %d2, iIDWChance %d3</English>
+	</TEXT>
+</Civ4GameText>

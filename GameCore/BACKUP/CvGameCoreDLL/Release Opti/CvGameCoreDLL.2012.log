@@ -1,0 +1,132 @@
+﻿Build started 21/12/2024 21:12:12.
+     1>Project "C:\Sid Meier's Civilization 4\Beyond the Sword\Mods\Realism\GameCore\CvGameCoreDLL\CvGameCoreDLL.2012.vcxproj" on node 2 (Rebuild target(s)).
+     1>Rebuild:
+         set TARGET=Release
+         nmake clean
+         nmake dll
+         
+         Microsoft (R) Program Maintenance Utility Version 11.00.50727.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         
+         Microsoft (R) Program Maintenance Utility Version 11.00.50727.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         _precompile.cpp
+         BetterBTSAI.cpp
+         CvArea.cpp
+         CvArtFileMgr.cpp
+         CvBugOptions.cpp
+         CvCity.cpp
+         CvCityAI.cpp
+         CvDeal.cpp
+         CvDiploParameters.cpp
+         CvDLLButtonPopup.cpp
+         CvDLLEntity.cpp
+         CvDLLPython.cpp
+         CvDllPythonEvents.cpp
+         CvDllTranslator.cpp
+         CvDLLWidgetData.cpp
+         CvEventReporter.cpp
+         CvFractal.cpp
+         CvGame.cpp
+         CvGameAI.cpp
+         CvGameCoreDLL.cpp
+         CvGameCoreUtils.cpp
+         CvGameInterface.cpp
+         CvGameTextMgr.cpp
+         CvGlobals.cpp
+         CvHallOfFameInfo.cpp
+         CvInfos.cpp
+         CvInfoWater.cpp
+         CvInitCore.cpp
+         CvMap.cpp
+         CvMapGenerator.cpp
+         CvMessageControl.cpp
+         CvMessageData.cpp
+         CvPlayer.cpp
+         CvPlayerAI.cpp
+         CvPlot.cpp
+         CvPlotGroup.cpp
+         CvPopupInfo.cpp
+         CvPopupReturn.cpp
+         CvRandom.cpp
+         CvReplayInfo.cpp
+         CvReplayMessage.cpp
+         CvSelectionGroup.cpp
+         CvSelectionGroupAI.cpp
+         CvStatistics.cpp
+         CvStructs.cpp
+         CvTalkingHeadMessage.cpp
+         CvTeam.cpp
+         CvTeamAI.cpp
+         CvTechGraph.cpp
+         CvUnit.cpp
+         CvUnitAI.cpp
+         CvXMLLoadUtility.cpp
+         CvXMLLoadUtilityGet.cpp
+         CvXMLLoadUtilityInit.cpp
+         CvXMLLoadUtilitySet.cpp
+         CyArea.cpp
+         CyAreaInterface.cpp
+         CyArgsList.cpp
+         CyArtFileMgr.cpp
+         CyArtFileMgrInterface.cpp
+         CyCity.cpp
+         CyCityInterface1.cpp
+         CyDeal.cpp
+         CyEnumsInterface.cpp
+         CyGame.cpp
+         CyGameCoreUtils.cpp
+         CyGameCoreUtilsInterface.cpp
+         CyGameInterface.cpp
+         CyGameTextMgr.cpp
+         CyGameTextMgrInterface.cpp
+         CyGlobalContext.cpp
+         CyGlobalContextInterface1.cpp
+         CyGlobalContextInterface2.cpp
+         CyGlobalContextInterface3.cpp
+         CyGlobalContextInterface4.cpp
+         CyHallOfFameInfo.cpp
+         CyHallOfFameInterface.cpp
+         CyInfoInterface1.cpp
+         CyInfoInterface2.cpp
+         CyInfoInterface3.cpp
+         CyInfoInterface4.cpp
+         CyMap.cpp
+         CyMapGenerator.cpp
+         CyMapGeneratorInterface.cpp
+         CyMapInterface.cpp
+         CyMessageControl.cpp
+         CyMessageControlInterface.cpp
+         CyPlayer.cpp
+         CyPlayerInterface1.cpp
+         CyPlayerInterface2.cpp
+         CyPlot.cpp
+         CyPlotInterface1.cpp
+         CyRandomInterface.cpp
+         CyReplayInfo.cpp
+         CySelectionGroup.cpp
+         CySelectionGroupInterface.cpp
+         CyStructsInterface1.cpp
+         CyTeam.cpp
+         CyTeamInterface.cpp
+         CyTechGraph.cpp
+         CyTechGraphInterface.cpp
+         CyUnit.cpp
+         CyUnitInterface1.cpp
+         FAssert.cpp
+         FDialogTemplate.cpp
+         KmodPathFinder.cpp
+         SelfMod.cpp
+         	"C:\Program Files\Microsoft Platform SDK\2003\bin\rc.exe" /FoObj\Win32\Release\CvGameCoreDLL.res /I"Boost-1.32.0/include" /I"Python24/include" /I"C:\Program Files (x86)\Microsoft Visual C++ Toolkit 2003/include" /I"C:\Program Files\Microsoft Platform SDK\2003/Include" /I"C:\Program Files\Microsoft Platform SDK\2003/Include/mfc" CvGameCoreDLL.rc
+         Linking DLL
+            Creating library Obj\Win32\Release\CvGameCoreDLL.lib and object Obj\Win32\Release\CvGameCoreDLL.exp
+                 1 file(s) copied.
+         	COPY "Release\CvGameCoreDLL.dll" "..\..\Assets\."
+                 1 file(s) copied.
+     1>Done Building Project "C:\Sid Meier's Civilization 4\Beyond the Sword\Mods\Realism\GameCore\CvGameCoreDLL\CvGameCoreDLL.2012.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:02:29.41

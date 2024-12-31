@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FREE_XP</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%s1_UnitName Receive %D2_Change Experience Points</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%s1_UnitName erhalten %D2_Change Erfahrungspunkte</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_MILITARY_PRODUCTION_MODIFIER</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1_Mod%% Military Unit Production</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1_Mod%% Produktion von Militäreinheiten</German>
+	</TEXT>
+	<!-- MOD - START - Trait Coast Trade Routes -->
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_COASTAL_TRADE_ROUTES</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1_Change Trade Routes in All Coastal Cities</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1_Change Handelswege in allen K&#252;stenst&#228;dten</German>
+	</TEXT>
+	<!-- MOD - END - Trait Coast Trade Routes -->
+	<!-- MOD - START - Trait City Yield Bonuses -->
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_CITY_YIELD_BONUSES</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%F2_yield on city plot</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%F2_yield auf Stadtfeld</German>
+	</TEXT>
+	<!-- MOD - END - Trait City Yield Bonuses -->
+	<!-- MOD - START - Trait Attitude Modifier -->
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_TRAIT</Tag>
+		<English>%D1: "We find you really charming" (from traits)</English>
+		<German>%D1: "Wir finden Sie sehr charmant" (aus Merkmalen)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_TRAIT_NEG</Tag>
+		<English>%D1: "We find you really hard to deal with" (from traits)</English>
+		<German>%D1: "Wir finden es sehr schwer, mit Ihnen umzugehen" (aus Merkmalen)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_ATTITUDE</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1 to diplomatic relations</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1 zu diplomatischen Beziehungen</German>
+	</TEXT>
+	<!-- MOD - END - Trait Attitude Modifier -->
+		<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_FIRST_IMPRESSION</Tag>
+		<English>%D1: "A first impression is a lasting one."</English>
+		<German>%D1: "Der erste Eindruck z&#228;hlt."</German>
+	</TEXT>
+	<!-- advc.sha: Removed the déjà from French translation. -->
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_TEAM_SIZE</Tag>
+		<English>%D1: "Your team is too big."</English>
+		<German>%D1: "Euer Team ist zu groß."</German>
+	</TEXT>
+	<!-- advc.sha: Text was "Your small civilization is no threat to us".
+		 A bit misleading; it's not a matter of size. -->
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_BETTER_RANK</Tag>
+		<English>%D1: "You're hardly a threat to us."</English>
+		<German>%D1: "Ihr seid kaum eine Bedrohung f&#252;r uns."</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOOD_ATTITUDE_TOWARDS</Tag>
+		<English>%s1_attitude ([COLOR_POSITIVE_TEXT]+%d2[COLOR_REVERT]) towards %s3_leader</English>
+		<German>%s1_attitude ([COLOR_POSITIVE_TEXT]+%d2[COLOR_REVERT]) gegen&#252;ber %s3_leader</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BAD_ATTITUDE_TOWARDS</Tag>
+		<English>%s1_attitude ([COLOR_WARNING_TEXT]%d2[COLOR_REVERT]) towards %s3_leader</English>
+		<German>%s1_attitude ([COLOR_WARNING_TEXT]%d2[COLOR_REVERT]) gegen&#252;ber %s3_leader</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POSITIVE_NEUTRAL_ATTITUDE_TOWARDS</Tag>
+		<English>%s1_attitude (+%d2) towards %s3_leader</English>
+		<German>%s1_attitude (+%d2) gegen&#252;ber %s3_leader</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NEGATIVE_NEUTRAL_ATTITUDE_TOWARDS</Tag>
+		<English>%s1_attitude (%d2) towards %s3_leader</English>
+		<German>%s1_attitude (%d2) gegen&#252;ber %s3_leader</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ZERO_ATTITUDE_TOWARDS</Tag>
+		<English>%s1_attitude (+/- 0) towards %s2_leader</English>
+		<German>%s1_attitude (+/- 0) gegen&#252;ber %s2_leader</German>
+	</TEXT>
+	<!-- advc.sha: Works differently in AdvCiv, and "we feel threatened by
+		 your large civ" no longer fits well. -->
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_WORSE_RANK</Tag>
+		<English>%D1: "You're getting ahead of us."</English>
+		<German>%D1: "Ihr seid dabei uns zu &#252;berfl&#252;geln."</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_LOST_WAR</Tag>
+		<English>%D1: "The war is going badly for us."</English>
+		<German>%D1: "Dieser Krieg verl&#228;uft ung&#252;nstig f&#252;r uns."</German>
+	</TEXT>
+	<!-- MOD - START - Trait Upgrade Modifier -->
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_UPGRADE_MODIFIER</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% cost for unit upgrade</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% Einheiten-Modernisierungskosten</German>
+	</TEXT>
+	<!-- MOD - END - Trait Upgrade Modifier -->
+	<!-- MOD - START - Trait Golden Age Modifier -->
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_GOLDEN_AGE_MODIFIER</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% to Golden Age length</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% zur Länge des Goldenen Zeitalters</German>
+	</TEXT>
+	<!-- MOD - END - Trait Golden Age Modifier -->
+	<!-- MOD - START - Trait Worker Speed Modifier -->
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_WORKER_SPEED_MODIFIER</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1_Mod%% Worker Speed</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1_Mod%% Arbeitsgeschwindigkeit</German>
+	</TEXT>
+	<!-- MOD - END - Trait Worker Speed Modifier -->
+	<!-- MOD - START - Trait Trade Modifier -->
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_TRADE_ROUTE_MODIFIER</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% to trade route income</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% zum Einkommen durch Handelswege</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FOREIGN_TRADE_ROUTE_MODIFIER</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% to foreign trade route income</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%% zum Einkommen durch Außenhandelswege</German>
+	</TEXT>
+	<!-- MOD - END - Trait Trade Modifier -->
+	<!-- MOD - START - Trait UnitClass enabled (no prereq Civic) -->
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_UNITCLASS_WITHOUT_CIVIC</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]Enables %s1_Unit without prerequisite Civics</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]Enables %s1_Unit ohne Voraussetzung der Staatsbürgerschaft</German>
+	</TEXT>
+	<!-- MOD - END - Trait UnitClass enabled (no prereq Civic) -->
+</Civ4GameText>

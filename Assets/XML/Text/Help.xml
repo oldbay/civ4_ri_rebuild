@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Help -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_HANDICAP_WARLORD_HELP</Tag>
+		<English>Suitable difficulty level for beginning players.</English>
+		<German>Geeigneter Schwierigkeitsgrad für beginnende Spieler.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HANDICAP_TITAN_HELP</Tag>
+		<English>All the difficulty of Diety but AI spawns with one settler instead of two.</English>
+		<German>Selbe Schwierigkeit wie Gottheit, aber KI fängt mit einem Siedler statt zwei an.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_BUILDING_1_HELP</Tag>
+		<English>[ICON_BULLET]+1 Base Strength for Melee Units Built in this City.[NEWLINE][ICON_BULLET]+1 Base Strength for Archer Units Built in this City.[NEWLINE][ICON_BULLET]+1 Base Strength for Recon Units Built in this City.</English>
+		<German>[ICON_BULLET]+1 Basisstärke für Nahkampfeinheiten, die in dieser Stadt gebaut wurden.[NEWLINE][ICON_BULLET]+1 Basisstärke für Bogenschützen, die in dieser Stadt gebaut wurden.[NEWLINE][ICON_BULLET]+1 Basisstärke für Aufklärungseinheiten, die in dieser Stadt gebaut wurden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_BUILDING_2_HELP</Tag>
+		<English>[ICON_BULLET]+1 Base Strength for Mounted Units Built in this City.[NEWLINE][ICON_BULLET]+1 Base Strength for Mounted Light Units Built in this City.</English>
+		<German>[ICON_BULLET]+1 Basisstärke für berittene Einheiten, die in dieser Stadt gebaut wurden.[NEWLINE][ICON_BULLET]+1 Basisstärke für leichtgepanzerte berittene Einheiten, die in dieser Stadt gebaut wurden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARBARIAN_BUILDING_3_HELP</Tag>
+		<English>[ICON_BULLET]Builds 2 similar Melee Combat Units simultaneously[NEWLINE][ICON_BULLET]Experience is split equally.</English>
+		<German>[ICON_BULLET]Builds 2 similar Melee Combat Units simultaneously[NEWLINE][ICON_BULLET]Experience is split equally.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_WORLD_NACIONAL_WONDERS</Tag>
+		<English>[ICON_STAR] World Wonder [ICON_SILVER_STAR] National Wonder</English>
+		<German>[ICON_STAR] Weltwunder [ICON_SILVER_STAR] Nationales Wunder</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_HURRY_PRODUCTION_HELP</Tag>
+		<English>This order will hurry production on the city's current effort. It consumes the unit.</English>
+		<German>Opfern Sie die Gro&#223;e Pers&#246;nlichkeit, um die aktuelle Produktion der Stadt zu beschleunigen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_WONDER_ALLOWED</Tag>
+		<English>[ICON_BULLET]Limited Building (%d1_Num Allowed)</English>
+		<German>[ICON_BULLET]Nationales Wunder (%d1_Num zul&#228;ssig)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_WONDER_LEFT</Tag>
+		<English>[SPACE](Limited Building: %d1_Num Left)</English>
+		<German>[SPACE](Nationales Wunder: %d1_Num &#252;brig)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_TRANS3_HELP</Tag>
+		<English>[ICON_BULLET]Provides +1 free specialist with [COLOR_BUILDING_TEXT]Caravanserai[COLOR_REVERT]</English>
+		<German>[ICON_BULLET]Bietet +1 kostenlosen Spezialisten für [COLOR_BUILDING_TEXT]Caravanserai[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CARAVEL_SPAIN_HELP</Tag>
+		<English>[ICON_BULLET]Unlike regular carracks, can transport all kinds of units</English>
+		<German>[ICON_BULLET]Im Gegensatz zu normalen Carracks können alle Arten von Einheiten transportiert werden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EIFFEL_HELP</Tag>
+		<English>[ICON_BULLET]When built, boosts relations with all civilizations by +2</English>
+		<German>[ICON_BULLET]Erhöht nach dem Bau die Beziehungen zu allen Zivilisationen um +2</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_STATE_PROPERTY_HELP</Tag>
+		<English>[ICON_BULLET]Mutually decreases relations with civilizations not running this civic</English>
+		<German>[ICON_BULLET]Verringert die Beziehungen zu Zivilisationen, die diese Zivilgesellschaft nicht betreiben</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KOGGE_BARBARIAN_HELP</Tag>
+		<English>[ICON_BULLET]Can enter ocean tiles</English>
+		<German>[ICON_BULLET]Kann Meeresplättchen betreten</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FARM_HELP</Tag>
+		<English>[ICON_BULLET]Can be built on any flat tile producing at least 1 [ICON_FOOD]</English>
+		<German>[ICON_BULLET]Kann auf jeder flachen Fliese gebaut werden und erzeugt mindestens 1 [ICON_FOOD]</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_COTTAGE_HELP</Tag>
+		<English>[ICON_BULLET]Can be built on any tile producing at least 1 [ICON_FOOD]</English>
+		<German>[ICON_BULLET]Kann auf jeder Fliese gebaut werden und erzeugt mindestens 1 [ICON_FOOD]</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CULTIVATION_HELP</Tag>
+		<English>[ICON_BULLET]Replaces fertile soil with the relevant resource</English>
+		<German>[ICON_BULLET]Ersetzt fruchtbaren Boden durch die entsprechende Ressource</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PENALTY_HELP</Tag>
+		<English>[ICON_BULLET]Removed after the first combat victory</English>
+		<German>[ICON_BULLET]Nach dem ersten Kampfsieg entfernt</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MIT'A_HELP</Tag>
+		<English>[ICON_BULLET]Can be built by [LINK=UNIT_INCA_CHASQUI]Chasqui[\LINK]</English>
+		<German>[ICON_BULLET]Kann von [LINK=UNIT_INCA_CHASQUI]Chasqui[\LINK] gebaut werden</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STRATEGIC_HELP</Tag>
+		<English>[ICON_BULLET]Cannot do Recon missions[NEWLINE][ICON_BULLET]Can reduce population (to a minimum of 5) when bombing cities</English>
+		<German>[ICON_BULLET]Kann keine Aufklärungsmissionen durchführen[NEWLINE][ICON_BULLET]Kann die Bevölkerung reduzieren (bis ein Minimum von 5), wenn Städte bombardiert werden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_HELP</Tag>
+		<English>[ICON_BULLET]The strength of spawning revolters equals that of the current irregular unit the relevant civilization is able to build</English>
+		<German>[ICON_BULLET]Die Stärke der entstehenden Revolten entspricht der Stärke der aktuellen irregulären Einheit, die die jeweilige Zivilisation aufbauen kann</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMMANDO_HELP</Tag>
+		<English>[ICON_BULLET]Can get promotions of both recon and gunpowder units</English>
+		<German>[ICON_BULLET]Kann sowohl für Aufklärungs- als auch für Schießpulvereinheiten befördert werden</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_TECH_PEASANT_SERVITUDE_HELP</Tag>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebel slaves and serfs will have 6[ICON_STRENGTH][COLOR_REVERT]</English>
+		<German>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebellensklaven und Leibeigene haben 6[ICON_STRENGTH][COLOR_REVERT]</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FLINTLOCK_MUSKET_HELP</Tag>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebel slaves and serfs will have 10[ICON_STRENGTH] (if Administration is also known)[COLOR_REVERT]</English>
+		<German>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebellensklaven und Leibeigene haben 10[ICON_STRENGTH] (sofern auch die Verwaltung bekannt ist)[COLOR_REVERT]</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ADMINISTRATION_HELP</Tag>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebel slaves and serfs will have 10[ICON_STRENGTH] (if Flintlock is also known)[COLOR_REVERT]</English>
+		<German>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebellensklaven und Leibeigene haben 10[ICON_STRENGTH] (sofern auch das Steinschloss bekannt ist)[COLOR_REVERT]</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MASS_CONSCRIPTION_HELP</Tag>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebel slaves and serfs will have 16[ICON_STRENGTH][COLOR_REVERT]</English>
+		<German>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebellensklaven und Leibeigene haben 16[ICON_STRENGTH][COLOR_REVERT]</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_TECH_GLOBALIZATION_HELP</Tag>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebel slaves and serfs will have 20[ICON_STRENGTH] (if Liquid-Fuelled Rocket is also known)[COLOR_REVERT]</English>
+		<German>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebellensklaven und Leibeigene haben 20[ICON_STRENGTH] (sofern auch die Fl&#252;ssig Betriebene Rakete bekannt ist)[COLOR_REVERT]</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ROCKET_PROJECTILE_HELP</Tag>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebel slaves and serfs will have 20[ICON_STRENGTH] (if Globalization is also known)[COLOR_REVERT]</English>
+		<German>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebellensklaven und Leibeigene haben 20[ICON_STRENGTH] (sofern auch die Globalisierung bekannt ist)[COLOR_REVERT]</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANOR_HELP</Tag>
+		<English>[ICON_BULLET]0.5% chance of [COLOR_NEGATIVE_TEXT]peasant rebellion[COLOR_REVERT] per turn</English>
+		<German>[ICON_BULLET]0,5% Wahrscheinlichkeit einen [COLOR_NEGATIVE_TEXT]Bauernaufstand[COLOR_REVERT] pro Runde</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SLAVE_MARKET_HELP</Tag>
+		<English>[ICON_BULLET]+0.5% chance of [COLOR_NEGATIVE_TEXT]slave rebellion[COLOR_REVERT] per turn</English>
+		<German>[ICON_BULLET]+0,5% Wahrscheinlichkeit einen [COLOR_NEGATIVE_TEXT]Sklavenaufstand[COLOR_REVERT] pro Runde</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GLADIATOR_SCHOOL_HELP</Tag>
+		<English>[ICON_BULLET]Double chance of [COLOR_NEGATIVE_TEXT]slave rebellion[COLOR_REVERT] per turn</English>
+		<German>[ICON_BULLET]Doppelte  Wahrscheinlichkeit einen [COLOR_NEGATIVE_TEXT]Sklavenaufstand[COLOR_REVERT] pro Runde</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COLOSSEUM1_HELP</Tag>
+		<English>[ICON_BULLET]Double chance of capturing a [COLOR_UNIT_TEXT]Slave[COLOR_REVERT] in combat[NEWLINE][ICON_BULLET]Every 10th [COLOR_UNIT_TEXT]Slave[COLOR_REVERT] captured spawns a [COLOR_UNIT_TEXT]Famous Gladiator[COLOR_REVERT] (including retroactively, at least 1)</English>
+		<German>[ICON_BULLET]Doppelte Chance, einen Sklaven im Kampf zu fangen[NEWLINE][ICON_BULLET]Jeder zehnte gefangene [COLOR_UNIT_TEXT]Sklave[COLOR_REVERT] bringt einen [COLOR_UNIT_TEXT]berühmten Gladiator[COLOR_REVERT] hervor (auch rückwirkend, mindestens 1)</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SLAVERY_HELP</Tag>
+		<English>[ICON_BULLET]20% chance of capturing a Slave in combat[NEWLINE][ICON_BULLET]0.5% chance of [COLOR_NEGATIVE_TEXT]slave rebellion[COLOR_REVERT] per turn per city</English>
+		<German>[ICON_BULLET]20% Chance, einen Sklaven im Kampf zu fangen[NEWLINE][ICON_BULLET]0,5% Chance auf einen [COLOR_NEGATIVE_TEXT]Sklavenaufstand[COLOR_REVERT] pro Runde pro Stadt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GALLERY_HELP</Tag>
+		<English>[ICON_BULLET]+4[ICON_GOLD] to all [COLOR_BUILDING_TEXT]Great Works of Art[COLOR_REVERT]</English>
+		<German>[ICON_BULLET]+0,5% Wahrscheinlichkeit einen [COLOR_NEGATIVE_TEXT]Sklavenaufstand[COLOR_REVERT] pro Runde</German>
+	</TEXT>	
+</Civ4GameText>

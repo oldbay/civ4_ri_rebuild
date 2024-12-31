@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALUNIT_INFANTRY</Tag>
+		<English>All modern infantry units</English>
+		<German>
+			<Text>Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALUNIT_TANK</Tag>
+		<English>Tanks, Artillery</English>
+		<German>
+			<Text>Panzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ANSAR_WARRIOR</Tag>
+		<English>Mujahid (Ansar)</English>
+		<German>
+			<Text>Ansar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BEAR</Tag>
+		<English>Brown Bear</English>
+		<German>
+			<Text>Braunb&#228;r</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BENGALTIGER</Tag>
+		<English>Bengal Tiger</English>
+		<German>
+			<Text>Bengalischer Tiger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOAR</Tag>
+		<English>Boar</English>
+		<German>
+			<Text>Wildschwein</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BUDDHIST_MISSIONARY</Tag>
+		<English>Acariya</English>
+		<German>
+			<Text>Acharya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BUDDHIST_REPRESENTATIVE</Tag>
+		<English>Representative (Buddhist)</English>
+		<German>
+			<Text>Buddhistischer Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BUDDHIST_SIDDHA</Tag>
+		<English>Siddha Monk</English>
+		<German>
+			<Text>Siddha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BUDDHIST_SIDDHA_CHINA</Tag>
+		<English>Shaolin Monk</English>
+		<German>
+			<Text>Shaolin-M&#246;nch</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BUDDHIST_SIDDHA_JAPAN</Tag>
+		<English>Sohei</English>
+		<German>
+			<Text>Sohei</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHEETAH</Tag>
+		<English>Cheetah</English>
+		<German>
+			<Text>Gepard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHI</Tag>
+		<English>Chi Savant</English>
+		<German>
+			<Text>Chi-Gelehrter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHRISTIAN_MISSIONARY</Tag>
+		<English>Missionary</English>
+		<German>
+			<Text>Christlicher Missionar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHRISTIAN_REPRESENTATIVE</Tag>
+		<English>Representative (Christian)</English>
+		<German>
+			<Text>Christlicher Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CRUSADER</Tag>
+		<English>Crusader</English>
+		<German>
+			<Text>Kreuzritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CRUSADER_CALATRAVA</Tag>
+		<English>Crusader (Order of Santiago)</English>
+		<German>
+			<Text>Santiago-Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CRUSADER_STJOHN</Tag>
+		<English>Crusader (Hospitaller)</English>
+		<German>
+			<Text>Malteserritter zu Fu&#223;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CRUSADER_TEMPLAR</Tag>
+		<English>Crusader (Templar)</English>
+		<German>
+			<Text>Templer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CRUSADER_TEUTONIC</Tag>
+		<English>Crusader (Teutonic Order)</English>
+		<German>
+			<Text>Deutscher Ordensritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DASTUR</Tag>
+		<English>Dastur</English>
+		<German>
+			<Text>Dastur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DIASPORA_MERCHANT</Tag>
+		<English>Diaspora Merchant</English>
+		<German>
+			<Text>Diaspora-H&#228;ndler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GURU</Tag>
+		<English>Guru</English>
+		<German>
+			<Text>Guru</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HINDU_MISSIONARY</Tag>
+		<English>Swami</English>
+		<German>
+			<Text>Swami</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HINDU_REPRESENTATIVE</Tag>
+		<English>Representative (Hindu)</English>
+		<German>
+			<Text>Hinduistischer Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ICBM_AMERICA</Tag>
+		<English>ICBM (LGM-30 Minuteman)</English>
+		<German>
+			<Text>LGM-30 Minuteman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ICBM_RUSSIA</Tag>
+		<English>ICBM (SS-18 Satan)</English>
+		<German>
+			<Text>SS-18 Satan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_BUDDHIST</Tag>
+		<English>Inquisitor (Buddhist)</English>
+		<German>
+			<Text>Buddhistischer Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_HINDU</Tag>
+		<English>Inquisitor (Hindu)</English>
+		<German>
+			<Text>Hinduistischer Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_JEWISH</Tag>
+		<English>Inquisitor (Jewish)</English>
+		<German>
+			<Text>J&#252;discher Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_MUSLIM</Tag>
+		<English>Inquisitor (Muslim)</English>
+		<German>
+			<Text>Islamischer Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_ORTHODOX</Tag>
+		<English>Inquisitor (Orthodox)</English>
+		<German>
+			<Text>Orthodoxer Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_SOLAR_CULT</Tag>
+		<English>Inquisitor (Solar Cult)</English>
+		<German>
+			<Text>Sonnenkult-Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_SOLAR_CULT_ATENISM</Tag>
+		<English>Inquisitor (Atenist)</English>
+		<German>
+			<Text>Atenismus-Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_SOLAR_CULT_JAPAN</Tag>
+		<English>Inquisitor (Amaterasu)</English>
+		<German>
+			<Text>Amaterasu-Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_SOLAR_CULT_MEDITERRANEAN</Tag>
+		<English>Inquisitor (Sol Invictus)</English>
+		<German>
+			<Text>Sonnengott-Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_TAOIST</Tag>
+		<English>Inquisitor (Taoist)</English>
+		<German>
+			<Text>Taoistischer Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_XIAN</Tag>
+		<English>Inquisitor (Christian)</English>
+		<German>
+			<Text>Christlicher Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_ZOROASTRIAN</Tag>
+		<English>Inquisitor (Zoroastrian)</English>
+		<German>
+			<Text>Zoroastrischer Inquisitor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ISLAMIC_MISSIONARY</Tag>
+		<English>Imam</English>
+		<German>
+			<Text>Imam</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ISLAMIC_REPRESENTATIVE</Tag>
+		<English>Representative (Muslim)</English>
+		<German>
+			<Text>Muslimischer Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JEWISH_MISSIONARY</Tag>
+		<English>Rabbi</English>
+		<German>
+			<Text>Rabbi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JEWISH_REPRESENTATIVE</Tag>
+		<English>Representative (Jewish)</English>
+		<German>
+			<Text>J&#252;discher Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUJAHID</Tag>
+		<English>Mujahid</English>
+		<German>
+			<Text>Mudschahed</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORTHODOX_BANNER</Tag>
+		<English>Khorugv Bearer</English>
+		<German>
+			<Text>Khorugv-Tr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORTHODOX_BANNER_LABARUM</Tag>
+		<English>Labarum</English>
+		<German>
+			<Text>Labarum-Tr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORTHODOX_MISSIONARY</Tag>
+		<English>Orthodox Missionary</English>
+		<German>
+			<Text>Orthodoxer Missionar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORTHODOX_REPRESENTATIVE</Tag>
+		<English>Representative (Orthodox)</English>
+		<German>
+			<Text>Orthodoxer Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PANTHER</Tag>
+		<English>Black Leopard</English>
+		<German>
+			<Text>Schwarzer Leopard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_POLARBEAR</Tag>
+		<English>Polar Bear</English>
+		<German>
+			<Text>Eisb&#228;r</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_PEASANT</Tag>
+		<English>Rebel Peasants (Warband)</English>
+		<German>
+			<Text>Aufst&#228;ndischer Bauer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_PEASANT_MED</Tag>
+		<English>Rebel Peasants (Levy)</English>
+		<German>
+			<Text>Aufst&#228;ndischer Bauer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_PEASANT_REN</Tag>
+		<English>Rebel Peasants (Irregulars)</English>
+		<German>
+			<Text>Aufst&#228;ndischer Bauer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_PEASANT_IND</Tag>
+		<English>Rebel Peasants (Conscript)</English>
+		<German>
+			<Text>Aufst&#228;ndischer Bauer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_PEASANT_MOD</Tag>
+		<English>Rebel Peasants (Paramilitary)</English>
+		<German>
+			<Text>Aufst&#228;ndischer Bauer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_SLAVE_PRIM</Tag>
+		<English>Rebel Slaves (Warrior)</English>
+		<German>
+			<Text>Revoltierender Sklave</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_SLAVE</Tag>
+		<English>Rebel Slaves (Warband)</English>
+		<German>
+			<Text>Revoltierender Sklave</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_SLAVE_MED</Tag>
+		<English>Rebel Slaves (Levy)</English>
+		<German>
+			<Text>Revoltierender Sklave</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_SLAVE_REN</Tag>
+		<English>Rebel Slaves (Irregulars)</English>
+		<German>
+			<Text>Revoltierender Sklave</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_SLAVE_IND</Tag>
+		<English>Rebel Slaves (Conscript)</English>
+		<German>
+			<Text>Revoltierender Sklave</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REVOLTING_SLAVE_MOD</Tag>
+		<English>Rebel Slaves (Paramilitary)</English>
+		<German>
+			<Text>Revoltierender Sklave</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SIBERIANTIGER</Tag>
+		<English>Siberian Tiger</English>
+		<German>
+			<Text>Sibirischer Tiger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLAVE</Tag>
+		<English>Slave</English>
+		<German>
+			<Text>Sklave</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLAVE_STICK</Tag>
+		<English>Revolting Slave</English>
+		<German>
+			<Text>Revoltierender Sklave</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_MISSIONARY</Tag>
+		<English>Solar Priest</English>
+		<German>
+			<Text>Sonnenpriester</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_MISSIONARY_ATENISM</Tag>
+		<English>High Priest of Aten</English>
+		<German>
+			<Text>Aton-Hohepriester</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_MISSIONARY_JAPAN</Tag>
+		<English>Kannushi</English>
+		<German>
+			<Text>Kannushi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_MISSIONARY_MEDITERRANEAN</Tag>
+		<English>Pontifex</English>
+		<German>
+			<Text>Pontifex</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_REPRESENTATIVE</Tag>
+		<English>Representative (Solar Cult)</English>
+		<German>
+			<Text>Sonnenkult-Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_REPRESENTATIVE_ATENISM</Tag>
+		<English>Representative (Atenist)</English>
+		<German>
+			<Text>Atenistischer Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_REPRESENTATIVE_JAPAN</Tag>
+		<English>Representative (Amaterasu)</English>
+		<German>
+			<Text>Amaterasu-Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOLAR_CULT_REPRESENTATIVE_MEDITERRANEAN</Tag>
+		<English>Representative (Sol Invictus)</English>
+		<German>
+			<Text>Sonnengott-Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TAOIST_MISSIONARY</Tag>
+		<English>Sage</English>
+		<German>
+			<Text>Weiser</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TAOIST_REPRESENTATIVE</Tag>
+		<English>Representative (Taoist)</English>
+		<German>
+			<Text>Taoistischer Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WILD_JAGUAR</Tag>
+		<English>Wild Jaguar</English>
+		<German>
+			<Text>Wilder Jaguar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WOLF</Tag>
+		<English>Gray Wolf</English>
+		<German>
+			<Text>Grauwolf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZOROASTRIAN_MISSIONARY</Tag>
+		<English>Magi</English>
+		<German>
+			<Text>Mager</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZOROASTRIAN_REPRESENTATIVE</Tag>
+		<English>Representative (Zoroastrian)</English>
+		<German>
+			<Text>Zoroastrischer Prediger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+</Civ4GameText>

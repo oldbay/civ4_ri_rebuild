@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_INSIDE_CITY</Tag>
+		<English>Logistics (Urban)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_OUTSIDE_CITY</Tag>
+		<English>Logistics (Rural)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_PREVIOUS_LEVEL</Tag>
+		<English>Previous Logistics Level</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_CURRENT_LEVEL</Tag>
+		<English>Current Logistics Level</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_NEXT_LEVEL</Tag>
+		<English>Next Logistics Level</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_NONE_INSIDE_CITY</Tag>
+		<English>None</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_NONE_OUTSIDE_CITY</Tag>
+		<English>None</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_BELOW_MINIMUM_INSIDE_CITY</Tag>
+		<English>Fully Supplied</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_BELOW_MINIMUM_OUTSIDE_CITY</Tag>
+		<English>Unrestricted Movement</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_MAX_INSIDE_CITY</Tag>
+		<English>Maximum Reached</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_MAX_OUTSIDE_CITY</Tag>
+		<English>Maximum Reached</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_DOMAIN_COMBAT_UNITS</Tag>
+		<English>Combat %s1_Domain: %d2_Count</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_COMBAT_UNIT_RANGE</Tag>
+		<English>%d1 - %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_COMBAT_UNIT_RANGE_SINGLE</Tag>
+		<English>%d1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_COMBAT_UNIT_RANGE_GREATER_THAN</Tag>
+		<English>%d1 or more</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_INSIDE_CITY_THRESHOLD</Tag>
+		<English>Urban Threshold: %D1_Threshold</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_OUTSIDE_CITY_THRESHOLD</Tag>
+		<English>Rural Threshold: %D1_Threshold</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_INSIDE_CITY_THRESHOLD_CHANGE</Tag>
+		<English>[ICON_BULLET]%D1_Change to Urban Logistics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_OUTSIDE_CITY_THRESHOLD_CHANGE</Tag>
+		<English>[ICON_BULLET]%D1_Change to Rural Logistics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_CONGESTION_THRESHOLD_CHANGE</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1_Change to Logistics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_CONGESTION_INSIDE_CITY_THRESHOLD_CHANGE</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1_Change to Urban Logistics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_CONGESTION_OUTSIDE_CITY_THRESHOLD_CHANGE</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1_Change to Rural Logistics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONGESTION_THRESHOLD_CHANGE</Tag>
+		<English>[ICON_BULLET]%D1_Change to Logistics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONGESTION_INSIDE_CITY_THRESHOLD_CHANGE</Tag>
+		<English>[ICON_BULLET]%D1_Change to Urban Logistics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONGESTION_OUTSIDE_CITY_THRESHOLD_CHANGE</Tag>
+		<English>[ICON_BULLET]%D1_Change to Rural Logistics</English>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_THRESHOLD_CHANGE</Tag>
+		<English>[ICON_BULLET]%D1_Change to Logistics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_LAND1</Tag>
+		<English>Minor Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_LAND2</Tag>
+		<English>Minor Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_LAND3</Tag>
+		<English>Moderate Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_LAND4</Tag>
+		<English>Moderate Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_LAND5</Tag>
+		<English>Major Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_LAND6</Tag>
+		<English>Major Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_CITY1</Tag>
+		<English>Minor City Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_CITY2</Tag>
+		<English>Minor City Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_CITY3</Tag>
+		<English>Moderate City Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_CITY4</Tag>
+		<English>Moderate City Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_CITY5</Tag>
+		<English>Major City Congestion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGESTION_CITY6</Tag>
+		<English>Major City Congestion</English>
+	</TEXT>
+</Civ4GameText>

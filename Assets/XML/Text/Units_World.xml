@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_BIG_BERTHA</Tag>
+		<English>Heavy Siege Howitzer</English>
+		<German>
+			<Text>Artillerie "Dicke Bertha"</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HELEPOLIS</Tag>
+		<English>Helepolis</English>
+		<German>
+			<Text>Helepolis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_BOMBARD</Tag>
+		<English>Great Bombard</English>
+		<German>
+			<Text>Dardanellengesch&#252;tz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_TANK</Tag>
+		<English>Superheavy Tank</English>
+		<German>
+			<Text>Panzerkampfwagen VIII Maus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SANTA_ANNA</Tag>
+		<English>Armoured Carrack</English>
+		<German>
+			<Text>Karacke "Santa Anna"</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SANTA_ANNA_CHINA</Tag>
+		<English>Treasure Ship</English>
+		<German>
+			<Text>Schatzschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SANTA_ANNA_JAPAN</Tag>
+		<English>Armoured O-atakebune</English>
+		<German>
+			<Text>Groß-Atakebune</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_THE_HORDE</Tag>
+		<English>The Horde</English>
+		<German>
+			<Text>Die Horde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ICEBREAKER</Tag>
+		<English>Nuclear Icebreaker</English>
+		<German>
+			<Text>Nuklearer Eisbrecher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BLACKBIRD</Tag>
+		<English>SR-71 Blackbird</English>
+		<German>
+			<Text>SR-71 Blackbird</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+</Civ4GameText>

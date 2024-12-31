@@ -1,0 +1,3967 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- BEGIN: UNITCLASS_EARLY_FIGHTER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER</Tag>
+		<English>Biplane</English>
+		<German>
+			<Text>Doppeldecker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_AUSTRIA</Tag>
+		<English>Biplane (Phonix DI)</English>
+		<German>
+			<Text>Phönix D.I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_BABYLON</Tag>
+		<English>Biplane (Hawker Nisr)</English>
+		<German>
+			<Text>Hawker Nisr</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_EGYPT</Tag>
+		<English>Biplane (Hawker Audax)</English>
+		<German>
+			<Text>Hawker Audax</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_CHINA</Tag>
+		<English>Biplane (Nanyuan Gun Bus)</English>
+		<German>
+			<Text>Nanyuan Gun Bus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_GREECE</Tag>
+		<English>Biplane (Sopwith Pup)</English>
+		<German>
+			<Text>Sopwith Pup</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_HUNGARY</Tag>
+		<English>Biplane (Weiss Manfred WM-16)</English>
+		<German>
+			<Text>Weiss Manfred WM-16</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_INCA</Tag>
+		<English>Biplane (Bristol F.2B Brisfit)</English>
+		<German>
+			<Text>Bristol F.2B Brisfit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_CELT</Tag>
+		<English>Biplane (Bristol F.2B Fighter)</English>
+		<German>
+			<Text>Bristol F.2B Fighter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_AZTEC</Tag>
+		<English>Biplane (Bristol F.2B Mk.III/IV)</English>
+		<German>
+			<Text>Bristol F.2B Mk.III/IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_TRANSOXIANA</Tag>
+		<English>Biplane (Bristol F.2B Type 16)</English>
+		<German>
+			<Text>Bristol F.2B Type 16</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_POLAND</Tag>
+		<English>Biplane (Oeffag D.III)</English>
+		<German>
+			<Text>Oeffag D.III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_ARABIA</Tag>
+		<English>Biplane (Albatros D.III)</English>
+		<German>
+			<Text>Albatros D.III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_BERBER</Tag>
+		<English>Biplane (Dorand AR)</English>
+		<German>
+			<Text>Dorand AR</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_RUSSIA</Tag>
+		<English>Biplane (Anatra D)</English>
+		<German>
+			<Text>Anatra D</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_UKRAINE</Tag>
+		<English>Biplane (Anatra Anade)</English>
+		<German>
+			<Text>Anatra Anade</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_SOUTH_CHINA</Tag>
+		<English>Biplane (Avro 504/K1Y)</English>
+		<German>
+			<Text>Avro 504/K1Y</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_PORTUGAL</Tag>
+		<English>Biplane (Avro 504)</English>
+		<German>
+			<Text>Avro 504</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_PERSIA</Tag>
+		<English>Biplane (U-1 Avrushka)</English>
+		<German>
+			<Text>U-1 Avrushka</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_ZULU</Tag>
+		<English>Biplane (Avro 504K)</English>
+		<German>
+			<Text>Avro 504K</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_MONGOL</Tag>
+		<English>Biplane (Polikarpov U-1)</English>
+		<German>
+			<Text>Polikarpov U-1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_FRANCE</Tag>
+		<English>Biplane (Nieuport 17)</English>
+		<German>
+			<Text>Doppeldecker "Nieuport 17"</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_BRAZIL</Tag>
+		<English>Biplane (Nieuport 23)</English>
+		<German>
+			<Text>Doppeldecker "Nieuport 23"</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_AMERICA</Tag>
+		<English>Biplane (SPAD S.XIII)</English>
+		<German>
+			<Text>SPAD S.XIII</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_OTTOMAN</Tag>
+		<English>Biplane (Fokker E III)</English>
+		<German>
+			<Text>Fokker E.III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_ENGLAND</Tag>
+		<English>Biplane (Sopwith Camel)</English>
+		<German>
+			<Text>Sopwith Camel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_ETHIOPIA</Tag>
+		<English>Biplane (Potez 25A2)</English>
+		<German>
+			<Text>Potez 25A2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_MAYA</Tag>
+		<English>Biplane (Potez 25)</English>
+		<German>
+			<Text>Potez 25</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_SPAIN</Tag>
+		<English>Biplane (Potez 25TOE)</English>
+		<German>
+			<Text>Potez 25TOE</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_WEST</Tag>
+		<English>Biplane (SPAD VII)</English>
+		<German>
+			<Text>SPAD VII</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_GERMAN</Tag>
+		<English>Biplane (Fokker DR.1)</English>
+		<German>
+			<Text>Fokker Dr.I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_ROME</Tag>
+		<English>Biplane (Nieuport-Macchi N.17)</English>
+		<German>
+			<Text>Nieuport-Macchi N.17</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_DUTCH</Tag>
+		<English>Biplane (Nieuport 11)</English>
+		<German>
+			<Text>Nieuport 11</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_FINLAND</Tag>
+		<English>Biplane (VL Kotka)</English>
+		<German>
+			<Text>VL Kotka</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_LITHUANIA</Tag>
+		<English>Biplane (Fokker D.VII)</English>
+		<German>
+			<Text>Fokker D.VII</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_MEXICO</Tag>
+		<English>Biplane (Ansaldo SVA.5)</English>
+		<German>
+			<Text>Ansaldo S.V.A.5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_JAPAN</Tag>
+		<English>Biplane (Nakajima KO-3)</English>
+		<German>
+			<Text>Nakajima KO-3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_KOREA</Tag>
+		<English>Biplane (Tachikawa Ki-9)</English>
+		<German>
+			<Text>Tachikawa Ki-9</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_AUSTRONESIA</Tag>
+		<English>Biplane (Yokosuka K5Y1 Kureng)</English>
+		<German>
+			<Text>Yokosuka K5Y1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_FIGHTER_VIKING</Tag>
+		<English>Biplane (J1 Phonix)</English>
+		<German>
+			<Text>Phönix J.I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_EARLY_FIGHTER -->
+	<!-- BEGIN: UNITCLASS_FIGHTER -->
+	<!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_FIGHTER</Tag>
+  </TEXT>
+  -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_POLAND</Tag>
+		<English>Fighter (PZL.11)</English>
+		<German>
+			<Text>PZL P.11</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_CHINA</Tag>
+		<English>Fighter (Chu XP-0)</English>
+		<German>
+			<Text>Chu XP-0</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_ARMENIA</Tag>
+		<English>Fighter (LaGG-3)</English>
+		<German>
+			<Text>Lawotschkin LaGG-3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_BERBER</Tag>
+		<English>Fighter (Hawker Sea Fury FB.60)</English>
+		<German>
+			<Text>Hawker Sea Fury FB.60</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_BABYLON</Tag>
+		<English>Fighter (Hawker Fury I)</English>
+		<German>
+			<Text>Hawker Fury I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_ETHIOPIA</Tag>
+		<English>Fighter (Fairey Firefly)</English>
+		<German>
+			<Text>Fairey Firefly</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_HUNGARY</Tag>
+		<English>Fighter (M&#193;VAG H&#233;ja)</English>
+		<German>
+			<Text>MÁVAG Héja</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_KOREA</Tag>
+		<English>Fighter (F-51D Mustang)</English>
+		<German>
+			<Text>F-51D Mustang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_SPAIN</Tag>
+		<English>Fighter (Hispano Aviaci&#243;n HA-1112)</English>
+		<German>
+			<Text>Hispano Aviación HA-1112</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_VIKING</Tag>
+		<English>Fighter (FFVS J 22)</English>
+		<German>
+			<Text>FFVS J22</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_CELT</Tag>
+		<English>Fighter (Hurricane Mk II A/C)</English>
+		<German>
+			<Text>Hawker Hurricane Mk II A/C</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_INCA</Tag>
+		<English>Fighter (F-47 Thunderbolt)</English>
+		<German>
+			<Text>Republic P-47 Thunderbolt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_FINLAND</Tag>
+		<English>Fighter (VL Myrsky)</English>
+		<German>
+			<Text>VL Myrsky</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_LITHUANIA</Tag>
+		<English>Fighter (Morane-Saulnier M.S.406)</English>
+		<German>
+			<Text>Morane-Saulnier M.S.406</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_MEXICO</Tag>
+		<English>Fighter (F-47D Thunderbolt)</English>
+		<German>
+			<Text>Republic F-47D Thunderbolt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_AZTEC</Tag>
+		<English>Fighter (P47D-30-RA Thunderbolt)</English>
+		<German>
+			<Text>Republic P47D-30-RA Thunderbolt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_SOUTH_CHINA</Tag>
+		<English>Fighter (Chu AFAMF XP-0)</English>
+		<German>
+			<Text>Chu AFAMF XP-0</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_ENGLAND</Tag>
+		<English>Fighter (Supermarine Spitfire Mk IX)</English>
+		<German>
+			<Text>Supermarine Spitfire Mk IX</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_MUGHAL</Tag>
+		<English>Fighter (Supermarine Spitfire Mk VIII)</English>
+		<German>
+			<Text>Supermarine Spitfire Mk VIII</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_ISRAEL</Tag>
+		<English>Fighter (Supermarine Spitfire IX)</English>
+		<German>
+			<Text>Supermarine Spitfire IX</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_GREECE</Tag>
+		<English>Fighter (PZL P.24)</English>
+		<German>
+			<Text>PZL P.24</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_PERSIA</Tag>
+		<English>Fighter (P-47 Thunderbolt)</English>
+		<German>
+			<Text>Republic P-47 Thunderbolt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_EGYPT</Tag>
+		<English>Fighter (Hurricane Mk IIB Trop.)</English>
+		<German>
+			<Text>Hurricane Mk IIB/Trop</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_INDIA</Tag>
+		<English>Fighter (Hurricane Mk IIC)</English>
+		<German>
+			<Text>Hawker Hurricane Mk IIC</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_ARABIA</Tag>
+		<English>Fighter (Yak-11U)</English>
+		<German>
+			<Text>Jakowlew Jak-11U</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_CARTHAGE</Tag>
+		<English>Fighter (Let C.11)</English>
+		<German>
+			<Text>Let C.11</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_BRAZIL</Tag>
+		<English>Fighter (P-40 Warhawk)</English>
+		<German>
+			<Text>P-40 Warhawk</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_MALI</Tag>
+		<English>Fighter (Yak-11)</English>
+		<German>
+			<Text>Jakowlew Jak-11</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_TRANSOXIANA</Tag>
+		<English>Fighter (Yak-11T)</English>
+		<German>
+			<Text>Jakowlew Jak-11T</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_MAYA</Tag>
+		<English>Fighter (Lockheed P-38 Lightning)</English>
+		<German>
+			<Text>Lockheed P-38 Lightning</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_OTTOMAN</Tag>
+		<English>Fighter (Hurricane Mk I (Revised))</English>
+		<German>
+			<Text>Modifizierter Hawker Hurricane Mk.I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_ZULU</Tag>
+		<English>Fighter (Hurricane Mk IIB)</English>
+		<German>
+			<Text>Hawker Hurricane Mk IIB</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_DUTCH</Tag>
+		<English>Fighter (Fokker D.XXI)</English>
+		<German>
+			<Text>Fokker D.XXI</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_PORTUGAL</Tag>
+		<English>Fighter (Hurricane Mk IV)</English>
+		<German>
+			<Text>Hurricane Mk IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_FRANCE</Tag>
+		<English>Fighter (Dewoitine D.520)</English>
+		<German>
+			<Text>Dewoitine D.520</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_ROME</Tag>
+		<English>Fighter (Fiat G.55 Centauro)</English>
+		<German>
+			<Text>Fiat G.55 Centauro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_GERMAN</Tag>
+		<English>Fighter (Messerschmitt Bf-109)</English>
+		<German>
+			<Text>Messerschmitt Bf-109</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_JAPAN</Tag>
+		<English>Fighter (A6M Reisen)</English>
+		<German>
+			<Text>Mitsubishi A6M Zero</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_AUSTRONESIA</Tag>
+		<English>Fighter (A6M Zero)</English>
+		<German>
+			<Text>Mitsubishi A6M Zero</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_AMERICA</Tag>
+		<English>Fighter (P51 Mustang)</English>
+		<German>
+			<Text>P51 Mustang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_RUSSIA</Tag>
+		<English>Fighter (Yak-9)</English>
+		<German>
+			<Text>Jakowlew Jak-9</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIGHTER_MONGOL</Tag>
+		<English>Fighter (Yak-9P)</English>
+		<German>
+			<Text>Jakowlew Jak-9P</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_FIGHTER -->
+	<!-- BEGIN: UNITCLASS_EARLY_JET_FIGHTER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER</Tag>
+		<English>Jet Fighter (Jet Fighter)</English>
+		<German>
+			<Text>Früher D&#252;senj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_AZTEC</Tag>
+		<English>Jet Fighter (DH Vampire Mk I)</English>
+		<German>
+			<Text>DH Vampire Mk I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_CELT</Tag>
+		<English>Jet Fighter (DH Vampire T.55)</English>
+		<German>
+			<Text>DH Vampire T.55</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_PORTUGAL</Tag>
+		<English>Jet Fighter (DH Vampire FB.9)</English>
+		<German>
+			<Text>DH Vampire FB.9</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_INDIA</Tag>
+		<English>Jet Fighter (DH Vampire FB.52)</English>
+		<German>
+			<Text>DH Vampire FB.52</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_RUSSIA</Tag>
+		<English>Jet Fighter (MiG-15 SP-5)</English>
+		<German>
+			<Text>MiG-15 SP-5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_BABYLON</Tag>
+		<English>Jet Fighter (MiG-15 IQAF)</English>
+		<German>
+			<Text>MiG-15 IQAF</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_KHMER</Tag>
+		<English>Jet Fighter (JJ-2)</English>
+		<German>
+			<Text>JJ-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_NUBIA</Tag>
+		<English>Jet Fighter (Shenyang FT-2)</English>
+		<German>
+			<Text>Shenyang FT-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_CARTHAGE</Tag>
+		<English>Jet Fighter (MiG-15 Fagot)</English>
+		<German>
+			<Text>MiG-15 Fagot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_AUSTRONESIA</Tag>
+		<English>Jet Fighter (CS-102)</English>
+		<German>
+			<Text>CS-102</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_EGYPT</Tag>
+		<English>Jet Fighter (MiG-15)</English>
+		<German>
+			<Text>MiG-15</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_TRANSOXIANA</Tag>
+		<English>Jet Fighter (MiG-15 UTI)</English>
+		<German>
+			<Text>MiG-15 UTI</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_FINLAND</Tag>
+		<English>Jet Fighter (MiG-15 Mukelo)</English>
+		<German>
+			<Text>MiG-15 Mukelo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_HUNGARY</Tag>
+		<English>Jet Fighter (MiG-15 Jaguar)</English>
+		<German>
+			<Text>MiG-15 Jaguar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_MALI</Tag>
+		<English>Jet Fighter (MiG-15 Midget)</English>
+		<German>
+			<Text>MiG-15 Midget</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_MONGOL</Tag>
+		<English>Jet Fighter (MiG-15bis)</English>
+		<German>
+			<Text>MiG-15bis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_BERBER</Tag>
+		<English>Jet Fighter (MiG-15 UTI Midget)</English>
+		<German>
+			<Text>MiG-15 UTI Midget</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_POLAND</Tag>
+		<English>Jet Fighter (Lim-2)</English>
+		<German>
+			<Text>Lim-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_VIKING</Tag>
+		<English>Jet Fighter (Saab 29 Tunnan)</English>
+		<German>
+			<Text>Saab 29 Tunnan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_AUSTRIA</Tag>
+		<English>Jet Fighter (Saab J29F Tunnan)</English>
+		<German>
+			<Text>Saab J29F Tunnan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_CHINA</Tag>
+		<English>Jet Fighter (J-2)</English>
+		<German>
+			<Text>J-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ENGLAND</Tag>
+		<English>Jet Fighter (Gloster Meteor)</English>
+		<German>
+			<Text>Gloster Meteor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_BRAZIL</Tag>
+		<English>Jet Fighter (Gloster Meteor F.8)</English>
+		<German>
+			<Text>Gloster Meteor F.8</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_MEXICO</Tag>
+		<English>Jet Fighter (Gloster Meteor F.R.9)</English>
+		<German>
+			<Text>Gloster Meteor F.R.9</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_FRANCE</Tag>
+		<English>Jet Fighter (Dassault Ouragan)</English>
+		<German>
+			<Text>Dassault Ouragan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ISRAEL</Tag>
+		<English>Jet Fighter (Dassault MD.450)</English>
+		<German>
+			<Text>Dassault MD.450</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_DUTCH</Tag>
+		<English>Jet Fighter (Hawker Hunter)</English>
+		<German>
+			<Text>Hawker Hunter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ROME</Tag>
+		<English>Jet Fighter (Caproni Campini N.1)</English>
+		<German>
+			<Text>Caproni Campini N.1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_AMERICA</Tag>
+		<English>Jet Fighter (F-86 Sabre)</English>
+		<German>
+			<Text>F-86 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_FILIPINO</Tag>
+		<English>Jet Fighter (F-86D)</English>
+		<German>
+			<Text>F-86D</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_MUGHAL</Tag>
+		<English>Jet Fighter (Canadair CL-13B Sabre)</English>
+		<German>
+			<Text>Canadair CL-13B Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ARABIA</Tag>
+		<English>Jet Fighter (F-86F-35 Sabre)</English>
+		<German>
+			<Text>F-86F-35 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ETHIOPIA</Tag>
+		<English>Jet Fighter (F-86F)</English>
+		<German>
+			<Text>F-86F</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_GREECE</Tag>
+		<English>Jet Fighter (Canadair Sabre F4)</English>
+		<German>
+			<Text>Canadair Sabre F4</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_INCA</Tag>
+		<English>Jet Fighter (North American F-86)</English>
+		<German>
+			<Text>North American F-86 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_KOREA</Tag>
+		<English>Jet Fighter (F-86D Sabre)</English>
+		<German>
+			<Text>F-86D Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_MAYA</Tag>
+		<English>Jet Fighter (Canadair CL-13 Mk.4 Sabre)</English>
+		<German>
+			<Text>Canadair CL-13 Mk.4 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_PERSIA</Tag>
+		<English>Jet Fighter (Canadair CL-13 Mk.6 Sabre)</English>
+		<German>
+			<Text>Canadair CL-13 Mk.6 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_SOUTH_CHINA</Tag>
+		<English>Jet Fighter (F-86F Sabre)</English>
+		<German>
+			<Text>F-86F Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_SPAIN</Tag>
+		<English>Jet Fighter (C.5 Sabre)</English>
+		<German>
+			<Text>C.5 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_TURKEY</Tag>
+		<English>Jet Fighter (North American F-86F)</English>
+		<German>
+			<Text>North American F-86F</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ZULU</Tag>
+		<English>Jet Fighter (Canadair Sabre Mk.6)</English>
+		<German>
+			<Text>Canadair Sabre Mk.6</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_GERMAN</Tag>
+		<English>Jet Fighter (Me 262 Schwalbe)</English>
+		<German>
+			<Text>Messerschmitt Me 262</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_JAPAN</Tag>
+		<English>Jet Fighter (Nakajima Ki-201 Karyu)</English>
+		<German>
+			<Text>Nakajima Ki-201 Karyu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_EARLY_JET_FIGHTER -->
+		<!-- BEGIN: UNITCLASS_EARLY_JET_FIGHTER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER</Tag>
+		<English>Jet Fighter</English>
+		<German>
+			<Text>Früher D&#252;senj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_AZTEC</Tag>
+		<English>Jet Fighter (DH Vampire Mk I)</English>
+		<German>
+			<Text>DH Vampire Mk I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_CELT</Tag>
+		<English>Jet Fighter (DH Vampire T.55)</English>
+		<German>
+			<Text>DH Vampire T.55</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_PORTUGAL</Tag>
+		<English>Jet Fighter (DH Vampire FB.9)</English>
+		<German>
+			<Text>DH Vampire FB.9</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_INDIA</Tag>
+		<English>Jet Fighter (DH Vampire FB.52)</English>
+		<German>
+			<Text>DH Vampire FB.52</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_RUSSIA</Tag>
+		<English>Jet Fighter (MiG-15 SP-5)</English>
+		<German>
+			<Text>MiG-15 SP-5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_BABYLON</Tag>
+		<English>Jet Fighter (MiG-15 IQAF)</English>
+		<German>
+			<Text>MiG-15 IQAF</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_KHMER</Tag>
+		<English>Jet Fighter (JJ-2)</English>
+		<German>
+			<Text>JJ-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_NUBIA</Tag>
+		<English>Jet Fighter (Shenyang FT-2)</English>
+		<German>
+			<Text>Shenyang FT-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_CARTHAGE</Tag>
+		<English>Jet Fighter (MiG-15 Fagot)</English>
+		<German>
+			<Text>MiG-15 Fagot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_AUSTRONESIA</Tag>
+		<English>Jet Fighter (CS-102)</English>
+		<German>
+			<Text>CS-102</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_EGYPT</Tag>
+		<English>Jet Fighter (MiG-15)</English>
+		<German>
+			<Text>MiG-15</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_TRANSOXIANA</Tag>
+		<English>Jet Fighter (MiG-15 UTI)</English>
+		<German>
+			<Text>MiG-15 UTI</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_FINLAND</Tag>
+		<English>Jet Fighter (MiG-15 Mukelo)</English>
+		<German>
+			<Text>MiG-15 Mukelo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_HUNGARY</Tag>
+		<English>Jet Fighter (MiG-15 Jaguar)</English>
+		<German>
+			<Text>MiG-15 Jaguar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_MALI</Tag>
+		<English>Jet Fighter (MiG-15 Midget)</English>
+		<German>
+			<Text>MiG-15 Midget</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_MONGOL</Tag>
+		<English>Jet Fighter (MiG-15bis)</English>
+		<German>
+			<Text>MiG-15bis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_BERBER</Tag>
+		<English>Jet Fighter (MiG-15 UTI Midget)</English>
+		<German>
+			<Text>MiG-15 UTI Midget</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_POLAND</Tag>
+		<English>Jet Fighter (Lim-2)</English>
+		<German>
+			<Text>Lim-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_VIKING</Tag>
+		<English>Jet Fighter (Saab 29 Tunnan)</English>
+		<German>
+			<Text>Saab 29 Tunnan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_AUSTRIA</Tag>
+		<English>Jet Fighter (Saab J29F Tunnan)</English>
+		<German>
+			<Text>Saab J29F Tunnan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_CHINA</Tag>
+		<English>Jet Fighter (J-2)</English>
+		<German>
+			<Text>J-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ENGLAND</Tag>
+		<English>Jet Fighter (Gloster Meteor)</English>
+		<German>
+			<Text>Gloster Meteor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_BRAZIL</Tag>
+		<English>Jet Fighter (Gloster Meteor F.8)</English>
+		<German>
+			<Text>Gloster Meteor F.8</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_MEXICO</Tag>
+		<English>Jet Fighter (Gloster Meteor F.R.9)</English>
+		<German>
+			<Text>Gloster Meteor F.R.9</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_FRANCE</Tag>
+		<English>Jet Fighter (Dassault Ouragan)</English>
+		<German>
+			<Text>Dassault Ouragan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ISRAEL</Tag>
+		<English>Jet Fighter (Dassault MD.450)</English>
+		<German>
+			<Text>Dassault MD.450</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_DUTCH</Tag>
+		<English>Jet Fighter (Hawker Hunter)</English>
+		<German>
+			<Text>Hawker Hunter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ROME</Tag>
+		<English>Jet Fighter (Caproni Campini N.1)</English>
+		<German>
+			<Text>Caproni Campini N.1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_AMERICA</Tag>
+		<English>Jet Fighter (F-86 Sabre)</English>
+		<German>
+			<Text>F-86 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_MUGHAL</Tag>
+		<English>Jet Fighter (Canadair CL-13B Sabre)</English>
+		<German>
+			<Text>Canadair CL-13B Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ARABIA</Tag>
+		<English>Jet Fighter (F-86F-35 Sabre)</English>
+		<German>
+			<Text>F-86F-35 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ETHIOPIA</Tag>
+		<English>Jet Fighter (F-86F)</English>
+		<German>
+			<Text>F-86F</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_GREECE</Tag>
+		<English>Jet Fighter (Canadair Sabre F4)</English>
+		<German>
+			<Text>Canadair Sabre F4</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_INCA</Tag>
+		<English>Jet Fighter (North American F-86)</English>
+		<German>
+			<Text>North American F-86 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_KOREA</Tag>
+		<English>Jet Fighter (F-86D Sabre)</English>
+		<German>
+			<Text>F-86D Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_MAYA</Tag>
+		<English>Jet Fighter (Canadair CL-13 Mk.4 Sabre)</English>
+		<German>
+			<Text>Canadair CL-13 Mk.4 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_PERSIA</Tag>
+		<English>Jet Fighter (Canadair CL-13 Mk.6 Sabre)</English>
+		<German>
+			<Text>Canadair CL-13 Mk.6 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_SOUTH_CHINA</Tag>
+		<English>Jet Fighter (F-86F Sabre)</English>
+		<German>
+			<Text>F-86F Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_SPAIN</Tag>
+		<English>Jet Fighter (C.5 Sabre)</English>
+		<German>
+			<Text>C.5 Sabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_TURKEY</Tag>
+		<English>Jet Fighter (North American F-86F)</English>
+		<German>
+			<Text>North American F-86F</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_ZULU</Tag>
+		<English>Jet Fighter (Canadair Sabre Mk.6)</English>
+		<German>
+			<Text>Canadair Sabre Mk.6</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_GERMAN</Tag>
+		<English>Jet Fighter (Me 262 Schwalbe)</English>
+		<German>
+			<Text>Messerschmitt Me 262</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_JET_FIGHTER_JAPAN</Tag>
+		<English>Jet Fighter (Nakajima Ki-201 Karyu)</English>
+		<German>
+			<Text>Nakajima Ki-201 Karyu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_EARLY_JET_FIGHTER -->
+		<!-- BEGIN: UNITCLASS_JET_FIGHTER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER</Tag>
+		<English>Supersonic Fighter</English>
+		<German>
+			<Text>Düsenjäger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_AUSTRONESIA</Tag>
+		<English>Supersonic Fighter (MiG-21F-13)</English>
+		<German>
+			<Text>MiG-21F-13</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_FRANCE</Tag>
+		<English>Supersonic Fighter (Mirage III)</English>
+		<German>
+			<Text>Mirage III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_INCA</Tag>
+		<English>Supersonic Fighter (Mirage 5)</English>
+		<German>
+			<Text>Mirage 5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_ZULU</Tag>
+		<English>Supersonic Fighter (Mirage IIIEZ)</English>
+		<German>
+			<Text>Mirage IIIEZ</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_MIG21</Tag>
+		<English>Supersonic Fighter (MiG-21 Fishbed)</English>
+		<German>
+			<Text>Mikojan-Gurewitsch MiG-21</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_HUNGARY</Tag>
+		<English>Supersonic Fighter (Aero S-106)</English>
+		<German>
+			<Text>Aero S-106</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_POLAND</Tag>
+		<English>Supersonic Fighter (MiG-21 PMF)</English>
+		<German>
+			<Text>MiG-21 PMF</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_CARTHAGE</Tag>
+		<English>Supersonic Fighter (MiG-21 F13)</English>
+		<German>
+			<Text>MiG-21 F13</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_CHINA</Tag>
+		<English>Supersonic Fighter (Chengdu J-7)</English>
+		<German>
+			<Text>Chengdu J-7</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_MUGHAL</Tag>
+		<English>Supersonic Fighter (Chengdu F-7P)</English>
+		<German>
+			<Text>Chengdu F-7P</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_EGYPT</Tag>
+		<English>Supersonic Fighter (MiG-21 FL)</English>
+		<German>
+			<Text>MiG-21 FL</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_FINLAND</Tag>
+		<English>Supersonic Fighter (MiG-21bis)</English>
+		<German>
+			<Text>MiG-21bis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_RUSSIA</Tag>
+		<English>Supersonic Fighter (MiG-21 PFV)</English>
+		<German>
+			<Text>MiG-21 PFV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_INDIA</Tag>
+		<English>Supersonic Fighter (Type 77 Trishul)</English>
+		<German>
+			<Text>Type 77 Trishul</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_MALI</Tag>
+		<English>Supersonic Fighter (MiG-21 MF)</English>
+		<German>
+			<Text>MiG-21 MF</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_MONGOL</Tag>
+		<English>Supersonic Fighter (MiG-21 PF)</English>
+		<German>
+			<Text>MiG-21 PF</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_UKRAINE</Tag>
+		<English>Supersonic Fighter (MiG-21 MU)</English>
+		<German>
+			<Text>MiG-21 MU</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_UZBEK</Tag>
+		<English>Supersonic Fighter (MiG-21 ST)</English>
+		<German>
+			<Text>MiG-21 ST</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_ETHIOPIA</Tag>
+		<English>Supersonic Fighter (MiG-21 UM)</English>
+		<German>
+			<Text>MiG-21 UM</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_BABYLON</Tag>
+		<English>Supersonic Fighter (Chengdu F-7B)</English>
+		<German>
+			<Text>Chengdu F-7B</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_AMERICA</Tag>
+		<English>Supersonic Fighter (F-4 Phantom II)</English>
+		<German>
+			<Text>F-4 Phantom II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_KOREA</Tag>
+		<English>Supersonic Fighter (F-4 D)</English>
+		<German>
+			<Text>F-4 D</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_PERSIA</Tag>
+		<English>Supersonic Fighter (HESA Azarakhsh)</English>
+		<German>
+			<Text>HESA Azarakhsh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_SOUTH_CHINA</Tag>
+		<English>Supersonic Fighter (Chung Cheng)</English>
+		<German>
+			<Text>Chung Cheng</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_JAPAN</Tag>
+		<English>Supersonic Fighter (F-4 EJ)</English>
+		<German>
+			<Text>F-4 EJ</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_ISRAEL</Tag>
+		<English>Supersonic Fighter (F-4 E "Orev")</English>
+		<German>
+			<Text>F-4 E</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_ENGLAND</Tag>
+		<English>Supersonic Fighter (F-4 K)</English>
+		<German>
+			<Text>F-4 K</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_GERMAN</Tag>
+		<English>Supersonic Fighter (F-4 F)</English>
+		<German>
+			<Text>F-4 F</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_VIKING</Tag>
+		<English>Supersonic Fighter (Saab J35 Draken)</English>
+		<German>
+			<Text>Saab J35 Draken</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_AUSTRIA</Tag>
+		<English>Supersonic Fighter (Saab 35&#214;)</English>
+		<German>
+			<Text>Saab 35&#214;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_GREECE</Tag>
+		<English>Supersonic Fighter (F-5 A)</English>
+		<German>
+			<Text>F-5 A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_NUBIA</Tag>
+		<English>Supersonic Fighter (F-7N)</English>
+		<German>
+			<Text>F-7N</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_KHMER</Tag>
+		<English>Supersonic Fighter (MiG-21)</English>
+		<German>
+			<Text>MiG-21</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_MEXICO</Tag>
+		<English>Supersonic Fighter (VF-5A)</English>
+		<German>
+			<Text>VF-5A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_BRAZIL</Tag>
+		<English>Supersonic Fighter (F-5 FM)</English>
+		<German>
+			<Text>F-5 FM</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_MAYA</Tag>
+		<English>Supersonic Fighter (F-5 F)</English>
+		<German>
+			<Text>F-5 F</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_ARABIA</Tag>
+		<English>Supersonic Fighter (F-5 E/F)</English>
+		<German>
+			<Text>F-5 E/F</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_AZTEC</Tag>
+		<English>Supersonic Fighter (F-5 E)</English>
+		<German>
+			<Text>F-5 E</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_BERBER</Tag>
+		<English>Supersonic Fighter (F-5 A/B Tiger III)</English>
+		<German>
+			<Text>F-5 A/B Tiger III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_OTTOMAN</Tag>
+		<English>Supersonic Fighter (F-5 A/B)</English>
+		<German>
+			<Text>F-5 A/B</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_SPAIN</Tag>
+		<English>Supersonic Fighter (SF-5A)</English>
+		<German>
+			<Text>SF-5A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_DUTCH</Tag>
+		<English>Supersonic Fighter (NF-5A)</English>
+		<German>
+			<Text>NF-5A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER_ROME</Tag>
+		<English>Supersonic Fighter (F-104S Starfighter)</English>
+		<German>
+			<Text>F-104S Starfighter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_JET_FIGHTER -->
+		<!-- BEGIN: UNITCLASS_MULTIROLE_COMBAT_AICRAFT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT</Tag>
+		<English>Multirole Combat Aircraft</English>
+		<German>
+			<Text>Mehrzweckkampfflugzeug</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_AMERICA</Tag>
+		<English>Multirole Combat Aircraft (F/A-18 Hornet)</English>
+		<German>
+			<Text>F/A-18 Hornet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_FINLAND</Tag>
+		<English>Multirole Combat Aircraft (F-18C/D)</English>
+		<German>
+			<Text>F-18C/D</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_FRANCE</Tag>
+		<English>Multirole Combat Aircraft (Mirage 2000)</English>
+		<German>
+			<Text>Mirage 2000</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_BRAZIL</Tag>
+		<English>Multirole Combat Aircraft (Mirage 2000C)</English>
+		<German>
+			<Text>Mirage 2000C</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_INCA</Tag>
+		<English>Multirole Combat Aircraft (Mirage 2000P)</English>
+		<German>
+			<Text>Mirage 2000P</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_JAPAN</Tag>
+		<English>Multirole Combat Aircraft (Mitsubishi F-2)</English>
+		<German>
+			<Text>Mitsubishi F-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_SOUTH_CHINA</Tag>
+		<English>Multirole Combat Aircraft (Mirage 2000-5)</English>
+		<German>
+			<Text>Mirage 2000-5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_ENGLAND</Tag>
+		<English>Multirole Combat Aircraft (Tornado Gr.1A)</English>
+		<German>
+			<Text>Tornado Gr.1A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_GERMAN</Tag>
+		<English>Multirole Combat Aircraft (Tornado IDS)</English>
+		<German>
+			<Text>Tornado IDS</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_F16</Tag>
+		<English>Multirole Combat Aircraft (F-16 C Falcon)</English>
+		<German>
+			<Text>F-16 C Falcon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_POLAND</Tag>
+		<English>Multirole Combat Aircraft (F-16C/D-52+ Jastrzab)</English>
+		<German>
+			<Text>F-16C/D-52+ Jastrzab</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_EGYPT</Tag>
+		<English>Multirole Combat Aircraft (F-16C/D-40)</English>
+		<German>
+			<Text>F-16C/D-40</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_GREECE</Tag>
+		<English>Multirole Combat Aircraft (F-16C/D-52)</English>
+		<German>
+			<Text>F-16C/D-52</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_ISRAEL</Tag>
+		<English>Multirole Combat Aircraft (F-16I "Sufa")</English>
+		<German>
+			<Text>F-16I Sufa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_KOREA</Tag>
+		<English>Multirole Combat Aircraft (KF-16C/D-52)</English>
+		<German>
+			<Text>KF-16C/D-52</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_OTTOMAN</Tag>
+		<English>Multirole Combat Aircraft (F-16 C/D)</English>
+		<German>
+			<Text>F-16 C/D</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_VIKING</Tag>
+		<English>Multirole Combat Aircraft (JAS 39 Gripen)</English>
+		<German>
+			<Text>JAS 39 Gripen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_ZULU</Tag>
+		<English>Multirole Combat Aircraft (JAS 39 Gripen D/C)</English>
+		<German>
+			<Text>JAS 39 Gripen D/C</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_HUNGARY</Tag>
+		<English>Multirole Combat Aircraft (JAS 39 Gripen C/D)</English>
+		<German>
+			<Text>JAS 39 Gripen C/D</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_RUSSIA</Tag>
+		<English>Multirole Combat Aircraft (Su-30 SM)</English>
+		<German>
+			<Text>Su-30 SM</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_CARTHAGE</Tag>
+		<English>Multirole Combat Aircraft (Su-30 MKA)</English>
+		<German>
+			<Text>Su-30 MKA</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_MEXICO</Tag>
+		<English>Multirole Combat Aircraft (Su-30 MKV)</English>
+		<German>
+			<Text>Su-30 MKV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_AUSTRONESIA</Tag>
+		<English>Multirole Combat Aircraft (Su-30 MK2)</English>
+		<German>
+			<Text>Su-30 MK2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_UKRAINE</Tag>
+		<English>Multirole Combat Aircraft (Su-27 Flanker)</English>
+		<German>
+			<Text>Su-27 Flanker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_UZBEK</Tag>
+		<English>Multirole Combat Aircraft (Su-27S Flanker)</English>
+		<German>
+			<Text>Su-27S Flanker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_CHINA</Tag>
+		<English>Multirole Combat Aircraft (Chengdu J-10)</English>
+		<German>
+			<Text>Chengdu J-10</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_INDIA</Tag>
+		<English>Multirole Combat Aircraft (Su-30 MKI)</English>
+		<German>
+			<Text>Su-30 MKI</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULTIROLE_COMBAT_AICRAFT_ETHIOPIA</Tag>
+		<English>Multirole Combat Aircraft (Su-27 SK)</English>
+		<German>
+			<Text>Su-27 SK</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_MULTIROLE_COMBAT_AICRAFT -->
+		<!-- BEGIN: UNITCLASS_AIR_SUPERIORITY -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY</Tag>
+		<English>Air Superiority Fighter</English>
+		<German>
+			<Text>Abfangj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_BABYLON</Tag>
+		<English>Air Superiority Fighter (Mirage F1EQ)</English>
+		<German>
+			<Text>Mirage F1EQ</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_MEXICO</Tag>
+		<English>Air Superiority Fighter (Mirage F1JA)</English>
+		<German>
+			<Text>Mirage F1JA</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_BERBER</Tag>
+		<English>Air Superiority Fighter (Mirage F1CH)</English>
+		<German>
+			<Text>Mirage F1CH</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_CHINA</Tag>
+		<English>Air Superiority Fighter (Shenyang J-11)</English>
+		<German>
+			<Text>Shenyang J-11</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_CARTHAGE</Tag>
+		<English>Air Superiority Fighter (MiG-29 SMT)</English>
+		<German>
+			<Text>MiG-29 SMT</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_NUBIA</Tag>
+		<English>Air Superiority Fighter (MiG-29 SE)</English>
+		<German>
+			<Text>MiG-29 SE</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_EGYPT</Tag>
+		<English>Air Superiority Fighter (MiG-29M/M2)</English>
+		<German>
+			<Text>MiG-29M/M2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_ENGLAND</Tag>
+		<English>Air Superiority Fighter (Panavia Tornado ADV)</English>
+		<German>
+			<Text>Panavia Tornado ADV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_ROME</Tag>
+		<English>Air Superiority Fighter (Panavia Tornado ADV F3)</English>
+		<German>
+			<Text>Panavia Tornado ADV F3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_AMERICA</Tag>
+		<English>Air Superiority Fighter (F-15 Eagle)</English>
+		<German>
+			<Text>Abfangj&#228;ger "F-15 Eagle"</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_ARABIA</Tag>
+		<English>Air Superiority Fighter (F-15C/D)</English>
+		<German>
+			<Text>F-15C/D</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_FRANCE</Tag>
+		<English>Air Superiority Fighter (Mirage F1CR)</English>
+		<German>
+			<Text>Mirage F1CR</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_GREECE</Tag>
+		<English>Air Superiority Fighter (Mirage F1CG)</English>
+		<German>
+			<Text>Mirage F1CG</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_ISRAEL</Tag>
+		<English>Air Superiority Fighter (F-15I )</English>
+		<German>
+			<Text>F-15I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_JAPAN</Tag>
+		<English>Air Superiority Fighter (F-15 J)</English>
+		<German>
+			<Text>F-15 J</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_RUSSIA</Tag>
+		<English>Air Superiority Fighter (MiG-29M)</English>
+		<German>
+			<Text>MiG-29M</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_SPAIN</Tag>
+		<English>Air Superiority Fighter (Mirage F1CE)</English>
+		<German>
+			<Text>Mirage F1CE</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_UZBEK</Tag>
+		<English>Air Superiority Fighter (MiG-29)</English>
+		<German>
+			<Text>MiG-29</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_VIKING</Tag>
+		<English>Air Superiority Fighter (JA 37 Viggen)</English>
+		<German>
+			<Text>JA 37 Viggen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_ZULU</Tag>
+		<English>Air Superiority Fighter (Mirage F1EE)</English>
+		<German>
+			<Text>Mirage F1EE</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_PERSIA</Tag>
+		<English>Air Superiority Fighter (MiG-29B/UB)</English>
+		<German>
+			<Text>MiG-29B/UB</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_UKRAINE</Tag>
+		<English>Air Superiority Fighter (MiG-29 MU1)</English>
+		<German>
+			<Text>MiG-29 MU1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_INDIA</Tag>
+		<English>Air Superiority Fighter (MiG-29 Baaz)</English>
+		<German>
+			<Text>MiG-29 Baaz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_HUNGARY</Tag>
+		<English>Air Superiority Fighter (MiG-29B Fulcrum)</English>
+		<German>
+			<Text>MiG-29B</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_POLAND</Tag>
+		<English>Air Superiority Fighter (MiG-29G)</English>
+		<German>
+			<Text>MiG-29G</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_ARMENIA</Tag>
+		<English>Air Superiority Fighter (MiG-29S)</English>
+		<German>
+			<Text>MiG-29S</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_MONGOL</Tag>
+		<English>Air Superiority Fighter (MiG-29UB)</English>
+		<German>
+			<Text>MiG-29UB</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIR_SUPERIORITY_INCA</Tag>
+		<English>Air Superiority Fighter (MiG-29 SMP)</English>
+		<German>
+			<Text>MiG-29 SMP</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_AIR_SUPERIORITY -->
+		<!-- BEGIN: UNITCLASS_ADVANCED_COMBAT_AICRAFT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT</Tag>
+		<English>Advanced Fighter</English>
+		<German>
+			<Text>Modernes Kampfflugzeug</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_AMERICA</Tag>
+		<English>Advanced Fighter (F-22 Raptor)</English>
+		<German>
+			<Text>F-22 Raptor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_CHINA</Tag>
+		<English>Advanced Fighter (Chengdu J-20)</English>
+		<German>
+			<Text>Chengdu J-20</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_RUSSIA</Tag>
+		<English>Advanced Fighter (Sukhoi PAK FA)</English>
+		<German>
+			<Text>Sukhoi PAK FA</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_INDIA</Tag>
+		<English>Advanced Fighter (HAL PMF)</English>
+		<German>
+			<Text>HAL PMF</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_F35</Tag>
+		<English>Advanced Fighter (F-35 Lightning II)</English>
+		<German>
+			<Text>F-35 Lightning II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_EUROFIGHTER</Tag>
+		<English>Advanced Fighter (EF-2000 Typhoon)</English>
+		<German>
+			<Text>Eurofighter Typhoon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_ROME</Tag>
+		<English>Advanced Fighter (EF-2000 - Italy)</English>
+		<German>
+			<Text>Eurofighter Typhoon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_SPAIN</Tag>
+		<English>Advanced Fighter (EF-2000 - Spain)</English>
+		<German>
+			<Text>Eurofighter Typhoon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_GERMAN</Tag>
+		<English>Advanced Fighter (EF-2000 - Germany)</English>
+		<German>
+			<Text>Eurofighter Typhoon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_AUSTRIA</Tag>
+		<English>Advanced Fighter (EF-2000 - Austria)</English>
+		<German>
+			<Text>Eurofighter Typhoon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_ARABIA</Tag>
+		<English>Advanced Fighter (EF-2000 - Arabia)</English>
+		<German>
+			<Text>Eurofighter Typhoon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ADVANCED_COMBAT_AICRAFT_FRANCE</Tag>
+		<English>Advanced Fighter (Rafale C)</English>
+		<German>
+			<Text>Eurofighter Typhoon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_ADVANCED_COMBAT_AICRAFT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN</Tag>
+		<English>Zeppelin</English>
+		<German>
+			<Text>Zeppelin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<!-- BEGIN: UNITCLASS_ZEPPELIN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_BOMBER</Tag>
+		<English>Early Bomber</English>
+		<German>
+			<Text>Früher Bomber</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_GERMAN</Tag>
+		<English>Early Bomber (Gotha G.V)</English>
+		<German>
+			<Text>Gotha G.V</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_POLAND</Tag>
+		<English>Early Bomber (Gotha G.IV)</English>
+		<German>
+			<Text>Gotha G.IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_ENGLAND</Tag>
+		<English>Early Bomber (Handley Page O/100)</English>
+		<German>
+			<Text>Handley Page O/100</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_CHINA</Tag>
+		<English>Early Bomber (Handley Page Type O/7 Jinghan)</English>
+		<German>
+			<Text>Handley Page Type O/7 Jinghan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_SOUTH_CHINA</Tag>
+		<English>Early Bomber (Handley Page Type O/7)</English>
+		<German>
+			<Text>Handley PageType O/7</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_ROME</Tag>
+		<English>Early Bomber (Caproni Ca.3)</English>
+		<German>
+			<Text>Caproni Ca.3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_AMERICA</Tag>
+		<English>Early Bomber (Handley Page O/400)</English>
+		<German>
+			<Text>Handley Page O/400</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_FRANCE</Tag>
+		<English>Early Bomber (Caudron G. IV A2)</English>
+		<German>
+			<Text>Caudron G. IV A2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_FINLAND</Tag>
+		<English>Early Bomber (Caudron G. IV B2)</English>
+		<German>
+			<Text>Caudron G. IV B2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_TURKEY</Tag>
+		<English>Early Bomber (Caudron G. IV)</English>
+		<German>
+			<Text>Caudron G. IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_RUSSIA</Tag>
+		<English>Early Bomber (Sikorsky Ilya Muromets)</English>
+		<German>
+			<Text>Sikorsky Ilya Muromets</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_UKRAINE</Tag>
+		<English>Early Bomber (Sikorsky S-22)</English>
+		<German>
+			<Text>Sikorsky S-22</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_AZTEC</Tag>
+		<English>Early Bomber (Azc&#225;rate O-E-1)</English>
+		<German>
+			<Text>Azc&#225;rate O-E-1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_GREECE</Tag>
+		<English>Early Bomber (Breguet Br14 A2)</English>
+		<German>
+			<Text>Breguet Br14 A2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_JAPAN</Tag>
+		<English>Early Bomber (Nakajima B-6)</English>
+		<German>
+			<Text>Nakajima B-6</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_PERSIA</Tag>
+		<English>Early Bomber (Breguet 14)</English>
+		<German>
+			<Text>Breguet 14</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_PORTUGAL</Tag>
+		<English>Early Bomber (Breguet Br14)</English>
+		<German>
+			<Text>Breguet Br14</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZEPPELIN_SPAIN</Tag>
+		<English>Early Bomber (Breguet Br14 B2)</English>
+		<German>
+			<Text>Breguet Br14 B2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_ZEPPELIN -->
+		<!-- BEGIN: UNITCLASS_BOMBER -->
+	<!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_BOMBER</Tag>
+  </TEXT>
+  -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_POLAND</Tag>
+		<English>Strategic Bomber (PZL.37 Los)</English>
+		<German>
+			<Text>PZL.37 Los</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_DUTCH</Tag>
+		<English>Strategic Bomber (Fokker T.V)</English>
+		<German>
+			<Text>Fokker T.V</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_MUGHAL</Tag>
+		<English>Strategic Bomber (Handley Page Halifax)</English>
+		<German>
+			<Text>Handley Page Halifax</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_PORTUGAL</Tag>
+		<English>Strategic Bomber (B-24 Liberator)</English>
+		<German>
+			<Text>B-24 Liberator</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_ISRAEL</Tag>
+		<English>Strategic Bomber (B-17 Patishim)</English>
+		<German>
+			<Text>B-17 Patishim</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_BRAZIL</Tag>
+		<English>Strategic Bomber (B-17G)</English>
+		<German>
+			<Text>B-17G</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_FRANCE</Tag>
+		<English>Strategic Bomber (Amiot 354)</English>
+		<German>
+			<Text>Amiot 354</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_FINLAND</Tag>
+		<English>Strategic Bomber (Ilyushin Il-4)</English>
+		<German>
+			<Text>Ilyushin Il-4</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_ZULU</Tag>
+		<English>Strategic Bomber (Vickers Wellington)</English>
+		<German>
+			<Text>Vickers Wellington</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_RUSSIA</Tag>
+		<English>Strategic Bomber (Petlyakov Pe-8)</English>
+		<German>
+			<Text>Petlyakov Pe-8</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_CHINA</Tag>
+		<English>Strategic Bomber (Tupolev TB-3)</English>
+		<German>
+			<Text>Tupolev TB-3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_ENGLAND</Tag>
+		<English>Strategic Bomber (Lancaster B I)</English>
+		<German>
+			<Text>Lancaster B I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_EGYPT</Tag>
+		<English>Strategic Bomber (Lancaster B I Egypt)</English>
+		<German>
+			<Text>Lancaster B I Egypt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_GERMAN</Tag>
+		<English>Strategic Bomber (Heinkel He 111 H-16)</English>
+		<German>
+			<Text>Heinkel He 111 H-16</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_HUNGARY</Tag>
+		<English>Strategic Bomber (Heinkel He 111 H-22)</English>
+		<German>
+			<Text>Heinkel He 111 H-22</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TURKEY</Tag>
+		<English>Strategic Bomber (Heinkel He 111 F-1)</English>
+		<German>
+			<Text>Heinkel He 111 F-1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_BABYLON</Tag>
+		<English>Strategic Bomber (Heinkel He 111 H-6)</English>
+		<German>
+			<Text>Heinkel He 111 H-6</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_JAPAN</Tag>
+		<English>Strategic Bomber (G4M3 Betty)</English>
+		<German>
+			<Text>G4M3 Betty</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_AUSTRONESIA</Tag>
+		<English>Strategic Bomber (G4M3 (Austronesia))</English>
+		<German>
+			<Text>G4M3 Betty</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_ROME</Tag>
+		<English>Strategic Bomber (Savoia-Marchetti SM.79)</English>
+		<German>
+			<Text>Savoia-Marchetti SM.79</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_SPAIN</Tag>
+		<English>Strategic Bomber (Aviaci&#243;n Nacional SM.79)</English>
+		<German>
+			<Text>Aviación Nacional SM.79</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_AMERICA</Tag>
+		<English>Strategic Bomber (Boeing B-17 Flying Fortress)</English>
+		<German>
+			<Text>Boeing B-17 Flying Fortress</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_BOMBER -->
+		<!-- BEGIN: UNITCLASS_IMPROVED_BOMBER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_BOMBER</Tag>
+		<English>Strategic Jet Bomber</English>
+		<German>
+			<Text>Verbesserter Bomber</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_BOMBER_RUSSIA</Tag>
+		<English>Strategic Jet Bomber (Tu-16 Badger)</English>
+		<German>
+			<Text>Tu-16 Badger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_BOMBER_EGYPT</Tag>
+		<English>Strategic Jet Bomber (Tu-16 KS)</English>
+		<German>
+			<Text>Tu-16 KS</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_BOMBER_FRANCE</Tag>
+		<English>Strategic Jet Bomber (Vautour II)</English>
+		<German>
+			<Text>Vautour II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_BOMBER_POLAND</Tag>
+		<English>Strategic Jet Bomber (Tu-4)</English>
+		<German>
+			<Text>Tu-4</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_BOMBER_CHINA</Tag>
+		<English>Strategic Jet Bomber (Xian H-6)</English>
+		<German>
+			<Text>Xian H-6</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_BOMBER_AMERICA</Tag>
+		<English>Strategic Jet Bomber (B-47 Stratojet)</English>
+		<German>
+			<Text>B-47 Stratojet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_BOMBER_ENGLAND</Tag>
+		<English>Strategic Jet Bomber (Avro Vulcan)</English>
+		<German>
+			<Text>Avro Vulcan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_IMPROVED_BOMBER -->
+		<!-- BEGIN: UNITCLASS_JETBOMBER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER</Tag>
+		<English>Long Range Bomber</English>
+		<German>
+			<Text>Düsenbomber</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_ENGLAND</Tag>
+		<English>Long Range Bomber (Handley Page Victor)</English>
+		<German>
+			<Text>Handley Page Victor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_AMERICA</Tag>
+		<English>Long Range Bomber (B-52 Stratofortress)</English>
+		<German>
+			<Text>B-52 Stratofortress</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_RUSSIA</Tag>
+		<English>Long Range Bomber (Tu-95MS Bear)</English>
+		<German>
+			<Text>Tu-95MS Bear</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_INDIA</Tag>
+		<English>Long Range Bomber (Tu-95 Bear)</English>
+		<German>
+			<Text>Tu-95 Bear</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_JETBOMBER -->
+		<!-- BEGIN: UNITCLASS_STEALTH_BOMBER -->
+	<!--
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_STEALTH_BOMBER</Tag>
+  </TEXT>
+  -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_BOMBER</Tag>
+		<English>Advanced Bomber</English>
+		<German>
+			<Text>Stealth-Bomber</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_BOMBER_AMERICA</Tag>
+		<English>Advanced Bomber (B-2 Spirit)</English>
+		<German>
+			<Text>Stealth-Bomber (B-2 Spirit)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_BOMBER_CHINA</Tag>
+		<English>Advanced Bomber (Xian H-20)</English>
+		<German>
+			<Text>Stealth-Bomber (Xian H-20)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_BOMBER_RUSSIA</Tag>
+		<English>Advanced Bomber (Tu-160 Belyy Lebed)</English>
+		<German>
+			<Text>Tu-160 Belyy Lebed</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_BOMBER_UKRAINE</Tag>
+		<English>Advanced Bomber (Tu-160 Blackjack)</English>
+		<German>
+			<Text>Tu-160 Blackjack</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_STEALTH_BOMBER -->
+		<!-- BEGIN: UNITCLASS_BOMBER_TACTICAL -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL</Tag>
+		<English>Tactical Bomber</English>
+		<German>
+			<Text>Taktischer Bomber</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_CHINA</Tag>
+		<English>Tactical Bomber (Petlyakov Pe-2)</English>
+		<German>
+			<Text>Petlyakov Pe-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_FRANCE</Tag>
+		<English>Tactical Bomber (Breguet 693)</English>
+		<German>
+			<Text>Breguet 693</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_GREECE</Tag>
+		<English>Tactical Bomber (Fairey Battle)</English>
+		<German>
+			<Text>Fairey Battle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_TURKEY</Tag>
+		<English>Tactical Bomber (Fairey Battle Mk.III)</English>
+		<German>
+			<Text>Fairey Battle Mk.III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_ZULU</Tag>
+		<English>Tactical Bomber (Fairey Battle Mk.I)</English>
+		<German>
+			<Text>Fairey Battle Mk.I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_MAYA</Tag>
+		<English>Tactical Bomber (Vought F4U Corsair)</English>
+		<German>
+			<Text>Vought F4U Corsair</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_SPAIN</Tag>
+		<English>Tactical Bomber (Ju 87)</English>
+		<German>
+			<Text>Ju 87</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_POLAND</Tag>
+		<English>Tactical Bomber (PZL.23 Karas)</English>
+		<German>
+			<Text>PZL.23 Karas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_ENGLAND</Tag>
+		<English>Tactical Bomber (Bristol Blenheim)</English>
+		<German>
+			<Text>Bristol Blenheim</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_FINLAND</Tag>
+		<English>Tactical Bomber (Bristol Blenheim Mk IV)</English>
+		<German>
+			<Text>Bristol Blenheim</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_PORTUGAL</Tag>
+		<English>Tactical Bomber (Bristol Blenheim Mk V)</English>
+		<German>
+			<Text>Bristol Blenheim Mk V</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_ROME</Tag>
+		<English>Tactical Bomber (Breda Ba.65)</English>
+		<German>
+			<Text>Breda Ba.65</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_GERMAN</Tag>
+		<English>Tactical Bomber (Ju 87 Stuka)</English>
+		<German>
+			<Text>Ju 87 Stuka</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_HUNGARY</Tag>
+		<English>Tactical Bomber (Ju 87 D-3)</English>
+		<German>
+			<Text>Ju 87 D-3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_AMERICA</Tag>
+		<English>Tactical Bomber (B-25 Mitchell)</English>
+		<German>
+			<Text>B-25 Mitchell</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_BRAZIL</Tag>
+		<English>Tactical Bomber (B-25 B)</English>
+		<German>
+			<Text>B-25 B</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_MEXICO</Tag>
+		<English>Tactical Bomber (B-25 J-NC)</English>
+		<German>
+			<Text>B-25 Mitchell</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_PERSIA</Tag>
+		<English>Tactical Bomber (Avro Anson Mk.XII)</English>
+		<German>
+			<Text>Avro Anson Mk.XII</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_TRANSOXIANA</Tag>
+		<English>Tactical Bomber (Avro Anson Mk.XVIII)</English>
+		<German>
+			<Text>Avro Anson Mk.XVIII</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_CELT</Tag>
+		<English>Tactical Bomber (Avro Anson Mk.I)</English>
+		<German>
+			<Text>Avro Anson Mk.I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_BABYLON</Tag>
+		<English>Tactical Bomber (Avro Anson Mk.XI)</English>
+		<German>
+			<Text>Avro Anson Mk.XI</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_ISRAEL</Tag>
+		<English>Tactical Bomber (Avro Anson)</English>
+		<German>
+			<Text>Avro Anson</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_EGYPT</Tag>
+		<English>Tactical Bomber (Avro Anson Mk.XIX)</English>
+		<German>
+			<Text>Avro Anson Mk.XIX</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_AZTEC</Tag>
+		<English>Tactical Bomber (B-25 G)</English>
+		<German>
+			<Text>B-25 G</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_INCA</Tag>
+		<English>Tactical Bomber (B-25 H)</English>
+		<German>
+			<Text>B-25 H</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_DUTCH</Tag>
+		<English>Tactical Bomber (B-25 C)</English>
+		<German>
+			<Text>B-25 C</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_AUSTRONESIA</Tag>
+		<English>Tactical Bomber (B-25 J)</English>
+		<German>
+			<Text>B-25 J</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER</Tag>
+		<English>Strategic Bomber</English>
+		<German>
+			<Text>Strategischer Bomber</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_VIKING</Tag>
+		<English>Strategic Bomber (Saab B18)</English>
+		<German>
+			<Text>Saab B18</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_VIKING</Tag>
+		<English>Tactical Bomber (Saab B17)</English>
+		<German>
+			<Text>Saab B17</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_ETHIOPIA</Tag>
+		<English>Tactical Bomber (Saab B17A)</English>
+		<German>
+			<Text>Saab B17A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_SOUTH_CHINA</Tag>
+		<English>Tactical Bomber (B-25)</English>
+		<German>
+			<Text>B-25</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_JAPAN</Tag>
+		<English>Tactical Bomber (Aichi D3A "Val")</English>
+		<German>
+			<Text>Aichi D3A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_RUSSIA</Tag>
+		<English>Tactical Bomber (Ilyushin Il-2 Shturmovik)</English>
+		<German>
+			<Text>Ilyushin Il-2 Shturmovik</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBER_TACTICAL_MONGOL</Tag>
+		<English>Tactical Bomber (Ilyushin Il-2)</English>
+		<German>
+			<Text>Ilyushin Il-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_BOMBER_TACTICAL -->
+		<!-- BEGIN: UNITCLASS_JETBOMBER_TACTICAL -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL</Tag>
+		<English>Tactical Jet Bomber</English>
+		<German>
+			<Text>Taktischer Düsenbomber</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_FRANCE</Tag>
+		<English>Tactical Jet Bomber (Dassault Mystere)</English>
+		<German>
+			<Text>Dassault Mystère</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_ISRAEL</Tag>
+		<English>Tactical Jet Bomber (Dassault Mystere IVA)</English>
+		<German>
+			<Text>Dassault Mystère IVA</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_GERMANY</Tag>
+		<English>Tactical Jet Bomber (Ar 234)</English>
+		<German>
+			<Text>Arado Ar 234</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_GREECE</Tag>
+		<English>Tactical Jet Bomber (F-84G Thunderjet - Greece)</English>
+		<German>
+			<Text>F-84G Thunderjet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_DUTCH</Tag>
+		<English>Tactical Jet Bomber (F-84G Thunderjet - Netherlands)</English>
+		<German>
+			<Text>F-84G Thunderjet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_PORTUGAL</Tag>
+		<English>Tactical Jet Bomber (F-84G Thunderjet - Portugal)</English>
+		<German>
+			<Text>F-84G Thunderjet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_PERSIA</Tag>
+		<English>Tactical Jet Bomber (F-84G Thunderjet - Iran)</English>
+		<German>
+			<Text>F-84G Thunderjet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_ROME</Tag>
+		<English>Tactical Jet Bomber (F-84G Thunderjet - Italy)</English>
+		<German>
+			<Text>F-84G Thunderjet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_TURKEY</Tag>
+		<English>Tactical Jet Bomber (F-84G Thunderjet - Turkey)</English>
+		<German>
+			<Text>F-84G Thunderjet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_ENGLAND</Tag>
+		<English>Tactical Jet Bomber (English Electric Canberra)</English>
+		<German>
+			<Text>English Electric Canberra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_JAPAN</Tag>
+		<English>Tactical Jet Bomber (Nakajima J9Y Kikka)</English>
+		<German>
+			<Text>Nakajima J9Y Kikka</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_MEXICO</Tag>
+		<English>Tactical Jet Bomber (Canberra B.88)</English>
+		<German>
+			<Text>Canberra B.88</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_ETHIOPIA</Tag>
+		<English>Tactical Jet Bomber (Canberra B.52)</English>
+		<German>
+			<Text>Canberra B.52</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_INCA</Tag>
+		<English>Tactical Jet Bomber (Canberra B(I).56)</English>
+		<German>
+			<Text>Canberra B(I).56</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_AMERICA</Tag>
+		<English>Tactical Jet Bomber (B-57B)</English>
+		<German>
+			<Text>Martin B-57 Canberra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_EAST_BLOC</Tag>
+		<English>Tactical Jet Bomber (Ilyushin Il-28)</English>
+		<German>
+			<Text>Ilyushin Il-28</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_RUSSIA</Tag>
+		<English>Tactical Jet Bomber (Ilyushin Il-28N)</English>
+		<German>
+			<Text>Ilyushin Il-28N</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_VIKING</Tag>
+		<English>Tactical Jet Bomber (Saab A21R)</English>
+		<German>
+			<Text>Saab A21R</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_CHINA</Tag>
+		<English>Tactical Jet Bomber (Harbin H-5)</English>
+		<German>
+			<Text>Harbin H-5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_EGYPT</Tag>
+		<English>Tactical Jet Bomber (Su-7 B)</English>
+		<German>
+			<Text>Su-7 B</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_BABYLON</Tag>
+		<English>Tactical Jet Bomber (Su-7 BKL)</English>
+		<German>
+			<Text>Sukhoi Su-7 BKL</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_CARTHAGE</Tag>
+		<English>Tactical Jet Bomber (Su-7 BMK)</English>
+		<German>
+			<Text>Sukhoi Su-7 BMK</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_POLAND</Tag>
+		<English>Tactical Jet Bomber (Su-7 BM)</English>
+		<German>
+			<Text>Sukhoi Su-7 BM</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_INDIA</Tag>
+		<English>Tactical Jet Bomber (Canberra B(I).66)</English>
+		<German>
+			<Text>Canberra B(I).66</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_MUGHAL</Tag>
+		<English>Tactical Jet Bomber (Martin B-57B)</English>
+		<German>
+			<Text>Martin B-57B Canberra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_TAIWAN</Tag>
+		<English>Tactical Jet Bomber (Martin RB-57A)</English>
+		<German>
+			<Text>Martin RB-57A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JETBOMBER_TACTICAL_ZULU</Tag>
+		<English>Tactical Jet Bomber (Canberra B(I)12)</English>
+		<German>
+			<Text>Canberra B(I)12</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_JETBOMBER_TACTICAL -->
+		<!-- BEGIN: UNITCLASS_CLOSE_AIR_SUPPORT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT</Tag>
+		<English>Attack Aircraft</English>
+		<German>
+			<Text>Erdkampfflugzeug</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_EAST_BLOC</Tag>
+		<English>Attack Aircraft (Su-25 Frogfoot)</English>
+		<German>
+			<Text>Suchoi Su-25 Frogfoot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_CHINA</Tag>
+		<English>Attack Aircraft (Xian JH-7)</English>
+		<German>
+			<Text>Xian JH-7</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_FRANCE</Tag>
+		<English>Attack Aircraft (Super &#201;tendard)</English>
+		<German>
+			<Text>Dassault Super Étendard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_BABYLON</Tag>
+		<English>Attack Aircraft (Super Etendard)</English>
+		<German>
+			<Text>Dassault Super Etendard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_ROME</Tag>
+		<English>Attack Aircraft (A-11 Ghibli)</English>
+		<German>
+			<Text>A-11 Ghibli</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_BRAZIL</Tag>
+		<English>Attack Aircraft (A-1 AMX)</English>
+		<German>
+			<Text>A-1 AMX</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_RUSSIA</Tag>
+		<English>Attack Aircraft (Su-25SM)</English>
+		<German>
+			<Text>Suchoi Su-25SM</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_VIKING</Tag>
+		<English>Attack Aircraft (Saab 32 Lansen)</English>
+		<German>
+			<Text>Saab 32 Lansen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_ARMENIA</Tag>
+		<English>Attack Aircraft (Su-25 UBK)</English>
+		<German>
+			<Text>Suchoi Su-25 UBK</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_NUBIA</Tag>
+		<English>Attack Aircraft (Su-25)</English>
+		<German>
+			<Text>Suchoi Su-25</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_ETHIOPIA</Tag>
+		<English>Attack Aircraft (Su-25T)</English>
+		<German>
+			<Text>Suchoi Su-25T</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_INCA</Tag>
+		<English>Attack Aircraft (Su-25 UB)</English>
+		<German>
+			<Text>Suchoi Su-25 UB</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_PERSIA</Tag>
+		<English>Attack Aircraft (Su-25K)</English>
+		<German>
+			<Text>Suchoi Su-25K</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_UKRAINE</Tag>
+		<English>Attack Aircraft (Su-25M1)</English>
+		<German>
+			<Text>Suchoi Su-25M1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_UZBEK</Tag>
+		<English>Attack Aircraft (Su-25BM)</English>
+		<German>
+			<Text>Suchoi Su-25BM</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_AMERICA</Tag>
+		<English>Attack Aircraft (A-10 Thunderbolt II)</English>
+		<German>
+			<Text>Fairchild-Republic A-10 Thunderbolt II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_ENGLAND</Tag>
+		<English>Attack Aircraft (British Aerospace Harrier II)</English>
+		<German>
+			<Text>British Aerospace Harrier II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_INDIA</Tag>
+		<English>Attack Aircraft (British Aerospace Sea Harrier)</English>
+		<German>
+			<Text>British Aerospace Sea Harrier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOSE_AIR_SUPPORT_SPAIN</Tag>
+		<English>Attack Aircraft (EAV-8B Matador II)</English>
+		<German>
+			<Text>EAV-8B Matador II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_CLOSE_AIR_SUPPORT -->
+	<!-- BEGIN:   UNITCLASS_UCAV -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UCAV</Tag>
+		<English>UCAV</English>
+		<German>
+			<Text>UCAV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UCAV_REAPER</Tag>
+		<English>UCAV (MQ-9 Reaper)</English>
+		<German>
+			<Text>UCAV (MQ-9 Reaper)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UCAV_BAYRAKTAR</Tag>
+		<English>UCAV (Bayraktar TB2)</English>
+		<German>
+			<Text>UCAV (Bayraktar TB2)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UCAV_OKHOTNIK</Tag>
+		<English>UCAV (Kronshtadt Orion)</English>
+		<German>
+			<Text>UCAV (Kronshtadt Orion)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UCAV_CHINA</Tag>
+		<English>UCAV (BZK-006)</English>
+		<German>
+			<Text>UCAV (BZK-006)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<!-- END:   UNITCLASS_UCAV -->		
+</Civ4GameText>

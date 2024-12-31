@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CvGameCoreDLL.2008", "CvGameCoreDLL.2008.vcproj", "{DBDBB80A-7991-418E-A212-E61CCAD12A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Final Release|Win32 = Final Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Debug|Win32.Build.0 = Debug|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Release|Win32.ActiveCfg = Release|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Release|Win32.Build.0 = Release|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Final Release|Win32.ActiveCfg = Final Release|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Final Release|Win32.Build.0 = Final Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

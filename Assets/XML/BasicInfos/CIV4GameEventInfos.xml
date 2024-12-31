@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Basic Infos -->
+<CIV4GameEventInfos xmlns="x-schema:CIV4BasicInfoSchema.xml">
+	<!-- MOD - START - Core Game Events -->
+	<GameEventInfos>
+		<!--Changes must be reflected in CvEnums.h-->
+		<GameEventInfo>
+			<Type>GAMEEVENT_TURN</Type>
+			<Description>TXT_KEY_GAMEEVENT_TURN</Description>
+		</GameEventInfo>
+		<GameEventInfo>
+			<Type>GAMEEVENT_STARVATION</Type>
+			<Description>TXT_KEY_GAMEEVENT_STARVATION</Description>
+		</GameEventInfo>
+		<GameEventInfo>
+			<Type>GAMEEVENT_EPIDEMIC</Type>
+			<Description>TXT_KEY_GAMEEVENT_EPIDEMIC</Description>
+		</GameEventInfo>
+		<GameEventInfo>
+			<Type>GAMEEVENT_HURRY</Type>
+			<Description>TXT_KEY_GAMEEVENT_HURRY</Description>
+		</GameEventInfo>
+		<GameEventInfo>
+			<Type>GAMEEVENT_CONSCRIPTION</Type>
+			<Description>TXT_KEY_GAMEEVENT_CONSCRIPTION</Description>
+		</GameEventInfo>
+	</GameEventInfos>
+	<!-- MOD - END - Core Game Events -->
+</CIV4GameEventInfos>

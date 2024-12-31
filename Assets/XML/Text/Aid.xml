@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_PROVIDES_AID</Tag>
+    <English>[ICON_BULLET]Provides %s1_aid_list</English>
+    <German>[ICON_BULLET]Leistet %s1_aid_list</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_SUPPLIED_BY</Tag>
+    <English>Supplied By</English>
+    <German>Unterstützung durch</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_AFFECTS_ADJACENT</Tag>
+    <English>Affects adjacent tiles</English>
+    <German>Unterstüzt angrenzende Felder</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_AFFECTS_RANGE</Tag>
+    <English>Affects tiles within a range of %d1</English>
+    <German>Unterstützt Felder im Abstand von %d1</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_COASTAL_ONLY</Tag>
+    <English>Only supplied to coastal tiles</English>
+    <German>Unterstüzt nur Küstenfelder</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_RECON</Tag>
+    <English>Recon Aid</English>
+    <German>Aufklärungsunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_ASSAULT</Tag>
+    <English>Assault Aid</English>
+    <German>Angriffsunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_RANGED</Tag>
+    <English>Ranged Aid</English>
+    <German>Fernkampfunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_MOBILITY</Tag>
+    <English>Mobility Aid</English>
+    <German>Mobilitätsunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_BREAKTHROUGH</Tag>
+    <English>Breakthrough Aid</English>
+    <German>Durchbruchsunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_COMBINED_ARMS</Tag>
+    <English>Combined Arms Aid</English>
+    <German>Kombinierte Waffenunterstützung</German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_AID_INFANTRY_SUPPORT</Tag>
+    <English>Infantry Support Aid</English>
+    <German>Infanterieunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_ANTI_TANK_GUN</Tag>
+    <English>Anti-tank Gun Aid</English>
+    <German>Panzerabwehrkanonenunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_ASW</Tag>
+    <English>ASW Aid</English>
+    <German>U-Jagd-Unterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_SIEGE</Tag>
+    <English>Siege Aid</English>
+    <German>Belagerungsunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_FORT</Tag>
+    <English>Fort Aid</English>
+    <German>Festungsunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_INSPIRATION</Tag>
+    <English>Inspiration</English>
+    <German>Inspiration</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_CARRIER</Tag>
+    <English>Carrier Aid</English>
+    <German>Trägerunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_CAPITAL_SHIP</Tag>
+    <English>Capital Ship Aid</English>
+    <German>Kampfschiffunterstützung</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AID_DESTROYER</Tag>
+    <English>Destroyer Aid</English>
+    <German>Zerstörerunterstützung</German>
+  </TEXT>
+</Civ4GameText>

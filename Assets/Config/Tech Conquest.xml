@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	Technology Conquest
+	Originally by Bhruic
+  Modified by Sevo and Mexico
+  Converted to BUG module by Josh Sjoding
+-->
+<mod id="TechConquest" 
+	 name="Technology Conquest" 
+	 author="Bhruic, Sevo, Mexico" 
+	 version="1.0" 
+	 date="11/21/2009">
+
+  <event type="cityAcquired" module="TechConquest" function="onCityAcquired"/>
+</mod>

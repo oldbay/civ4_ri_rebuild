@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <!-- BEGIN: UNITCLASS_WORKER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_AMERICA</Tag>
+		<English>Worker (Laborer)</English>
+		<German>
+			<Text>Amerikanischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_AMERICAN_NATIVE</Tag>
+		<English>Worker (Native)</English>
+		<German>
+			<Text>Indigener Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_ARABIA</Tag>
+		<English>Worker (Bedouin)</English>
+		<German>
+			<Text>Beduinischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_ARMENIA</Tag>
+		<English>Worker (Armenian)</English>
+		<German>
+			<Text>Armenischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_AUSTRIA</Tag>
+		<English>Worker (Austrian)</English>
+		<German>
+			<Text>&#214;sterreichischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_AUSTRONESIA</Tag>
+		<English>Worker (Pekerja)</English>
+		<German>
+			<Text>Austronesischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_AZTEC</Tag>
+		<English>Worker (Aztec)</English>
+		<German>
+			<Text>Aztekischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_BANTU</Tag>
+		<English>Worker (Bantu)</English>
+		<German>
+			<Text>Bantu-Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_BARB</Tag>
+		<English>Worker (Barbarian)</English>
+		<German>
+			<Text>Barbarischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_BERBER</Tag>
+		<English>Worker (Berber)</English>
+		<German>
+			<Text>Berberischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_CARTHAGE</Tag>
+		<English>Worker (Liby-Phoenician)</English>
+		<German>
+			<Text>Liby-Ph&#246;nizischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_CELTIC</Tag>
+		<English>Worker (Gaelic)</English>
+		<German>
+			<Text>G&#228;lischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_CHINA</Tag>
+		<English>Worker (Han)</English>
+		<German>
+			<Text>Han-Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_DRAVIDIAN</Tag>
+		<English>Worker (Tamil Shudra)</English>
+		<German>
+			<Text>Tamilischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_DUTCH</Tag>
+		<English>Worker (Dutch)</English>
+		<German>
+			<Text>Niederl&#228;ndischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_EGYPT</Tag>
+		<English>Worker (Nile)</English>
+		<German>
+			<Text>Nil-Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_ENGLAND</Tag>
+		<English>Worker (Free Tenant)</English>
+		<German>
+			<Text>Englischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_ETHIOPIA</Tag>
+		<English>Worker (Amharic)</English>
+		<German>
+			<Text>Amharischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_FINLAND</Tag>
+		<English>Worker (Suomi)</English>
+		<German>
+			<Text>Finnischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_FRANCE</Tag>
+		<English>Worker (Ouvrier)</English>
+		<German>
+			<Text>Franz&#246;sischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_GERMAN</Tag>
+		<English>Worker (Bautrupp)</English>
+		<German>
+			<Text>Deutscher Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_GREECE</Tag>
+		<English>Worker (Georgos)</English>
+		<German>
+			<Text>Griechischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_HUN</Tag>
+		<English>Worker (Steppe)</English>
+		<German>
+			<Text>Nomadischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_HUNGARY</Tag>
+		<English>Worker (Magyar)</English>
+		<German>
+			<Text>Ungarischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_INCA</Tag>
+		<English>Worker (Peon)</English>
+		<German>
+			<Text>Andenpeon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_INDIA</Tag>
+		<English>Worker (Shudra)</English>
+		<German>
+			<Text>Indischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_JAPAN</Tag>
+		<English>Worker (Heimin)</English>
+		<German>
+			<Text>Japanischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_KHMER</Tag>
+		<English>Worker (Khmer)</English>
+		<German>
+			<Text>Khmerischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_KOREA</Tag>
+		<English>Worker (Sangmin)</English>
+		<German>
+			<Text>Sangmin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_MALI</Tag>
+		<English>Worker (Bambara)</English>
+		<German>
+			<Text>Bambarischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_MAYA</Tag>
+		<English>Worker (Mayapan)</English>
+		<German>
+			<Text>Mayapanischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_MEXICO</Tag>
+		<English>Worker (Mexican)</English>
+		<German>
+			<Text>Mexikanischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_MIDDLE_EAST</Tag>
+		<English>Worker (Mideastern)</English>
+		<German>
+			<Text>Mittel&#246;stlicher Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_MONGOL</Tag>
+		<English>Worker (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_MUGHAL</Tag>
+		<English>Worker (Hindustani Shudra)</English>
+		<German>
+			<Text>Mughalischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_NUBIA</Tag>
+		<English>Worker (Makurian)</English>
+		<German>
+			<Text>Makuria-Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_OTTOMAN</Tag>
+		<English>Worker (Turkic)</English>
+		<German>
+			<Text>T&#252;rkischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_PACIFIC</Tag>
+		<English>Worker (Australasian)</English>
+		<German>
+			<Text>Australasiatischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_PERSIA</Tag>
+		<English>Worker (Persian)</English>
+		<German>
+			<Text>Persischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_POLAND</Tag>
+		<English>Worker (Polish)</English>
+		<German>
+			<Text>Polnischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_PONTUS</Tag>
+		<English>Worker (Pontic)</English>
+		<German>
+			<Text>Pontischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_PORTUGAL</Tag>
+		<English>Worker (Portuguese)</English>
+		<German>
+			<Text>Portugiesischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_ROME</Tag>
+		<English>Worker (Roman)</English>
+		<German>
+			<Text>R&#246;mischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_RUSSIA</Tag>
+		<English>Worker (Russian)</English>
+		<German>
+			<Text>Slawischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_SIBERIA</Tag>
+		<English>Worker (Uralo-Siberian)</English>
+		<German>
+			<Text>Proto-Siberischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_SOUTH_CHINA</Tag>
+		<English>Worker (Cantonese)</English>
+		<German>
+			<Text>Kantonesischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_SPAIN</Tag>
+		<English>Worker (Spanish)</English>
+		<German>
+			<Text>Spanischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_TAIWAN</Tag>
+		<English>Worker (Taiwanese)</English>
+		<German>
+			<Text>Taiwanischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_TARTAR</Tag>
+		<English>Worker (Tatar)</English>
+		<German>
+			<Text>Tatarischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_TEXAS</Tag>
+		<English>Worker (Texan)</English>
+		<German>
+			<Text>Texanischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_TRANSOXIANA</Tag>
+		<English>Worker (Bactrian)</English>
+		<German>
+			<Text>Baktrischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_UKRAINE</Tag>
+		<English>Worker (Ukrainian)</English>
+		<German>
+			<Text>Ruthenischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_VENICE</Tag>
+		<English>Worker (Venetian)</English>
+		<German>
+			<Text>Venedischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_VIKING</Tag>
+		<English>Worker (Nordic)</English>
+		<German>
+			<Text>Nordischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WORKER_ZULU</Tag>
+		<English>Worker (Nguni)</English>
+		<German>
+			<Text>Zuluischer Arbeiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_WORKER -->
+  <!-- BEGIN: UNITCLASS_SETTLER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AFRICAN_SETTLER</Tag>
+		<English>Settler (African)</English>
+		<German>
+			<Text>Afrikanischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AMERICAN_SETTLER</Tag>
+		<English>Settler (Wagon Train)</English>
+		<German>
+			<Text>Planwagen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARABIAN_SETTLER</Tag>
+		<English>Settler (Arabian)</English>
+		<German>
+			<Text>Arabischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EGYPTIAN_SETTLER</Tag>
+		<English>Settler (Kemetic)</English>
+		<German>
+			<Text>&#196;gyptischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FAREAST_SETTLER</Tag>
+		<English>Settler (Asian)</English>
+		<German>
+			<Text>Asiatischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HINDU_SETTLER</Tag>
+		<English>Settler (Hindi)</English>
+		<German>
+			<Text>Indischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INDO_ARYAN_SETTLER</Tag>
+		<English>Settler (Indo-Aryan)</English>
+		<German>
+			<Text>Indoarischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MONGOL_SETTLER</Tag>
+		<English>Settler (Steppe)</English>
+		<German>
+			<Text>Steppensiedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NATIVE_AMERICAN_SETTLER</Tag>
+		<English>Settler (Native American)</English>
+		<German>
+			<Text>Indigener Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_AUSTRONESIA</Tag>
+		<English>Settler (Austronesian)</English>
+		<German>
+			<Text>Austronesischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_BABYLON</Tag>
+		<English>Settler (Mesopotamian)</English>
+		<German>
+			<Text>Babylonischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_BERBER</Tag>
+		<English>Settler (Berber)</English>
+		<German>
+			<Text>Berberischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_DRAVIDIAN</Tag>
+		<English>Settler (Dravidian)</English>
+		<German>
+			<Text>Dravidischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_ETHIOPIA</Tag>
+		<English>Settler (Amharic)</English>
+		<German>
+			<Text>Amharischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_EUROPEAN_MINOR</Tag>
+		<English>Settler (European)</English>
+		<German>
+			<Text>Europ&#228;ischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_HUN</Tag>
+		<English>Settler (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_HUNGARY</Tag>
+		<English>Settler (Magyar)</English>
+		<German>
+			<Text>Ungarischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_ISRAEL</Tag>
+		<English>Settler (Judean)</English>
+		<German>
+			<Text>Jud&#228;ischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_KHMER</Tag>
+		<English>Settler (Khmer)</English>
+		<German>
+			<Text>Khmerischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_MAYA</Tag>
+		<English>Settler (Mayapan)</English>
+		<German>
+			<Text>Mayapanischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_NUBIA</Tag>
+		<English>Settler (Nubian)</English>
+		<German>
+			<Text>Nubischer Siedler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+  <!-- END:   UNITCLASS_SETTLER -->
+  <!-- BEGIN: UNITCLASS_FORAGER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORAGER</Tag>
+		<English>Forager</English>
+		<German>
+			<Text>Nahrungssucher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORAGER_ABORIGINE</Tag>
+		<English>Forager (Aborigine)</English>
+		<German>
+			<Text>Woomera-Nahrungssucher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORAGER_BANTU</Tag>
+		<English>Forager (Bantu)</English>
+		<German>
+			<Text>Bantu-Nahrungssucher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORAGER_HUN</Tag>
+		<English>Forager (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Nahrungssucher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORAGER_KHMER</Tag>
+		<English>Forager (Khmer)</English>
+		<German>
+			<Text>Khmerischer Nahrungssucher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORAGER_NATIVE_NORTH</Tag>
+		<English>Forager (Tribal)</English>
+		<German>
+			<Text>Stammesnahrungssucher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORAGER_NATIVE_SOUTH</Tag>
+		<English>Forager (Native)</English>
+		<German>
+			<Text>Indigener Nahrungssucher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORAGER_POLYNESIA</Tag>
+		<English>Forager (Melanesian)</English>
+		<German>
+			<Text>Melanesischer Nahrungssucher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORAGER_SIBERIA</Tag>
+		<English>Forager (Uralo-Siberian)</English>
+		<German>
+			<Text>Siberischer Nahrungssucher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_FORAGER -->
+  <!-- BEGIN: UNITCLASS_GOVERNMENT_OFFICIAL -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL</Tag>
+		<English>Government Official</English>
+		<German>
+			<Text>Regierungsbeamter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_AFRICAN</Tag>
+		<English>Government Official (African)</English>
+		<German>
+			<Text>Afrikanischer Regierungsbeamter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_ARMENIA</Tag>
+		<English>Government Official (Tanuter)</English>
+		<German>
+			<Text>Tanuter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_ASIAN</Tag>
+		<English>Government Official (Asian)</English>
+		<German>
+			<Text>Asiatischer Regierungsbeamter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_AZTEC</Tag>
+		<English>Government Official (Tlatcani)</English>
+		<German>
+			<Text>Tlatcani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_CHINA</Tag>
+		<English>Government Official (Prefect)</English>
+		<German>
+			<Text>Pr&#228;fekt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_GERMAN</Tag>
+		<English>Government Official (Staatssekretar)</English>
+		<German>
+			<Text>Staatssekret&#228;r</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_MESO</Tag>
+		<English>Government Official (Mesoamerican)</English>
+		<German>
+			<Text>Mesoamerikanischer Regierungsbeamter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_MUGHAL</Tag>
+		<English>Government Official (Quazi)</English>
+		<German>
+			<Text>Quazi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_POLAND</Tag>
+		<English>Government Official (Namiestnik)</English>
+		<German>
+			<Text>Namiestnik</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOVERNEMENT_OFFICIAL_ROME</Tag>
+		<English>Government Official (Magistrate)</English>
+		<German>
+			<Text>Magistrat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GLADIATOR</Tag>
+		<English>Famous Gladiator</English>
+		<German>
+			<Text>Berühmter Gladiator</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+  <!-- END:   UNITCLASS_GOVERNMENT_OFFICIAL -->
+  <!-- BEGIN: UNITCLASS_GUN_BATTERY -->
+  <!-- END:   UNITCLASS_GUN_BATTERY -->
+  <!-- BEGIN: UNITCLASS_ARTILLERY -->
+  <!-- END:   UNITCLASS_ARTILLERY -->
+</Civ4GameText>

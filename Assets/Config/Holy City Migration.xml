@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	Holy City Migration 
+	Originally by 12monkeys
+  Converted to BUG module by Josh Sjoding
+-->
+<mod id="HolyCityMigration" 
+	 name="Holy City Migration" 
+	 author="12monkeys" 
+	 version="1.0" 
+	 date="11/21/2009">
+
+  <event type="EndGameTurn" module="HolyCityMigration" function="onEndGameTurn"/>
+  <event type="EndPlayerTurn" module="HolyCityMigration" function="onEndPlayerTurn"/>
+</mod>

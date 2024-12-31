@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<!--  parameters : s1 = Religion Name, s2 = City Name -->
+		<Tag>TXT_KEY_RM_RELIGION_BANISHED</Tag>
+		<English>The religion [COLOR_CYAN]%s1[COLOR_REVERT] in [COLOR_CYAN]%s2[COLOR_REVERT] has been banished by a dominant religion!</English>
+		<German>Die Religion [COLOR_CYAN]%s1[COLOR_REVERT] in [COLOR_CYAN]%s2[COLOR_REVERT] wurde von einer dominanten Religion vertrieben!</German>
+	</TEXT>
+	<TEXT>
+		<!--  parameters : s1 = Religion Name, s2 = City Name -->
+		<Tag>TXT_KEY_RM_HOLY_CITY_BANISHED</Tag>
+		<English>The religion [COLOR_CYAN]%s1[COLOR_REVERT] has lost its holy city in [COLOR_CYAN]%s2[COLOR_REVERT]!</English>
+		<German>Die Religion [COLOR_CYAN]%s1[COLOR_REVERT] hat ihre Heilige Stadt in [COLOR_CYAN]%s2[COLOR_REVERT] verloren!</German>
+	</TEXT>
+	<TEXT>
+		<!--  parameters : s1 = Religion Name -->
+		<Tag>TXT_KEY_RM_HOLY_CITY_BANISHED_UNKNOWN</Tag>
+		<English>The religion [COLOR_CYAN]%s1[COLOR_REVERT] has lost its holy city somewhere in a foreign country!</English>
+		<German>Die Religion [COLOR_CYAN]%s1[COLOR_REVERT] hat ihre Heilige Stadt verloren, irgendwo in einem fernen Land!</German>
+	</TEXT>
+	<TEXT>
+		<!--  parameters : s1 = City Names, 2 = Religion Name  -->
+		<Tag>TXT_KEY_RM_HOLYCITY_RESPAWN</Tag>
+		<English>The city of [COLOR_CYAN]%s1[COLOR_REVERT] became the new Holy City of the religion [COLOR_CYAN]%s2[COLOR_REVERT]!</English>
+		<German>Die Stadt [COLOR_CYAN]%s1[COLOR_REVERT] wurde zur neuen Heilgen Stadt der Religion [COLOR_CYAN]%s2[COLOR_REVERT] erklärt!</German>
+	</TEXT>
+	<TEXT>
+		<!--  parameters : s1 = Religion Name  -->
+		<Tag>TXT_KEY_RM_HOLYCITY_RESPAWN_UNKNOWN</Tag>
+		<English>A city in a foreign country has been declared to be the new Holy City of the religion [COLOR_CYAN]%s1[COLOR_REVERT]!</English>
+		<German>In einem fernen Land wurde eine Stadt zur neuen Heilgen Stadt der Religion [COLOR_CYAN]%s1[COLOR_REVERT] ernannt!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_HOLY_CITY_INFLUENCE</Tag>
+		<English>Holy City Influence: %d1</English>
+		<German>Einfluss der Heiligen Stadt: %d1</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_HOLY_CITY_TURNS_BEFORE_LOSS</Tag>
+		<English>[COLOR_WARNING_TEXT]Turns Before Loss: %d1[COLOR_REVERT]</English>
+		<German>[COLOR_WARNING_TEXT]Runden vor dem Verlust: %d1[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_HOLY_CITY_CANDIDATE</Tag>
+		<English>Holy City Candidate: %d1 [NUM1:Competitor:Competitors]</English>
+		<German>Heilige Stadt Kandidat: %d1 [NUM1:Competitor:Competitors]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CAN_ACQUIRE_HOLY_CITY_WITHOUT_STATE_RELIGION</Tag>
+		<English>[ICON_BULLET]Can acquire holy city without State [ICON_RELIGION]</English>
+		<German>[ICON_BULLET]Kann heilige Stadt ohne Staatsreligion [ICON_RELIGION] erwerben</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CAN_MAINTAIN_HOLY_CITY_WITHOUT_STATE_RELIGION</Tag>
+		<English>[ICON_BULLET]Can maintain holy city without State [ICON_RELIGION]</English>
+		<German>[ICON_BULLET]Kann heilige Stadt ohne Staatsreligion [ICON_RELIGION] aufrechterhalten</German>
+	</TEXT>
+</Civ4GameText>

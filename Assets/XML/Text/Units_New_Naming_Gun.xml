@@ -1,0 +1,5631 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- BEGIN: UNITCLASS_MUSKETMAN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN</Tag>
+		<English>Arquebusier</English>
+		<German>
+			<Text>Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_AMERICA</Tag>
+		<English>Arquebusier (New England)</English>
+		<German>
+			<Text>Musketier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_FILIPINO</Tag>
+		<English>Arquebusier (Luzon)</English>
+		<German>
+			<Text>Luzon Musketier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_BRAZIL</Tag>
+		<English>Arquebusier (Colonial)</English>
+		<German>
+			<Text>Kolonialer Musketier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_LITHUANIA</Tag>
+		<English>Arquebusier (Baltic)</English>
+		<German>
+			<Text>Baltischer Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_VENICE</Tag>
+		<English>Arquebusier (Arsenalotti)</English>
+		<German>
+			<Text>Arsenalotti Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_TRANSOXIANA</Tag>
+		<English>Arquebusier (Uzbek)</English>
+		<German>
+			<Text>Usbekischer Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_AUSTRONESIA</Tag>
+		<English>Arquebusier (Mataram)</English>
+		<German>
+			<Text>Mataramischer Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_UKRAINE_VOLHYNIA</Tag>
+		<English>Arquebusier (Registered Cossacks)</English>
+		<German>
+			<Text>Registrierte Kosaken</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_DRAVIDIAN</Tag>
+		<English>Arquebusier (Travancore)</English>
+		<German>
+			<Text>Travancore-Musketier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_MUGHAL</Tag>
+		<English>Arquebusier (Mughal)</English>
+		<German>
+			<Text>Mugalischer Musketier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_AFRICAN</Tag>
+		<English>Arquebusier (Cushitic)</English>
+		<German>
+			<Text>Afrikanischer Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_DUTCH</Tag>
+		<English>Arquebusier (Dutch)</English>
+		<German>
+			<Text>Haakbusschutter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_HUNGARY</Tag>
+		<English>Arquebusier (Musk&#233;t&#225;s)</English>
+		<German>
+			<Text>Ungarischer Musketier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_PORTUGAL</Tag>
+		<English>Arquebusier (Portuguese)</English>
+		<German>
+			<Text>Arcabuzeiro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_CELT</Tag>
+		<English>Arquebusier (Gaelic)</English>
+		<German>
+			<Text>Gälischer Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_POLAND</Tag>
+		<English>Arquebusier (Haiduk)</English>
+		<German>
+			<Text>Heiduck</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_ROME</Tag>
+		<English>Arquebusier (Italian)</English>
+		<German>
+			<Text>Archibugiere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_ENGLAND</Tag>
+		<English>Arquebusier (Caliverman)</English>
+		<German>
+			<Text>Caliverman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_GREECE</Tag>
+		<English>Arquebusier (Molybdobolon)</English>
+		<German>
+			<Text>Molybdobolon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_MONGOL</Tag>
+		<English>Arquebusier (Steppe)</English>
+		<German>
+			<Text>Steppenhandkanonier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_HUN</Tag>
+		<English>Arquebusier (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Handkanonier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_KHMER</Tag>
+		<English>Arquebusier (Khmer)</English>
+		<German>
+			<Text>Khmer-Handkanonier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_PERSIA</Tag>
+		<English>Arquebusier (Safavid)</English>
+		<German>
+			<Text>Safawidischer Musketier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_OTTOMAN</Tag>
+		<English>Arquebusier (Cebeci Ocagi)</English>
+		<German>
+			<Text>Djebedji</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_GERMAN</Tag>
+		<English>Arquebusier (Landsknecht)</English>
+		<German>
+			<Text>Landsknecht-Schütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_AUSTRIA</Tag>
+		<English>Arquebusier (HRE)</English>
+		<German>
+			<Text>Musketier des heiligen römischen Reiches</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_INCAN</Tag>
+		<English>Arquebusier (Vilacamba)</English>
+		<German>
+			<Text>Vilacamba-Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_INDIAN</Tag>
+		<English>Arquebusier (Maratha)</English>
+		<German>
+			<Text>Maratha-Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_MALI</Tag>
+		<English>Arquebusier (Songhai)</English>
+		<German>
+			<Text>Songhai-Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_KOREAN</Tag>
+		<English>Arquebusier (Choson)</English>
+		<German>
+			<Text>Joseon-Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_AZTEC</Tag>
+		<English>Arquebusier (Macehualli)</English>
+		<German>
+			<Text>Macehualli-Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_MAYA</Tag>
+		<English>Arquebusier (Quiriguan)</English>
+		<German>
+			<Text>Quiriguá-Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_RUSSIA</Tag>
+		<English>Arquebusier (Strelets)</English>
+		<German>
+			<Text>Strelez</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_ARABIA</Tag>
+		<English>Arquebusier (Mideastern)</English>
+		<German>
+			<Text>Mittelöstlicher Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_ARMENIA</Tag>
+		<English>Arquebusier (Armenian)</English>
+		<German>
+			<Text>Armenischer Handkanonier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_BERBER</Tag>
+		<English>Arquebusier (Moorish)</English>
+		<German>
+			<Text>Maurischer Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_ZULU</Tag>
+		<English>Arquebusier (Impi)</English>
+		<German>
+			<Text>Impi-Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_VIKING</Tag>
+		<English>Arquebusier (Gustavian)</English>
+		<German>
+			<Text>Gustavianischer Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_FINLAND</Tag>
+		<English>Arquebusier (Finnic)</English>
+		<German>
+			<Text>Finnischer Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_SPAIN</Tag>
+		<English>Arquebusier (Spanish)</English>
+		<German>
+			<Text>Mosquetero</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_JAPAN</Tag>
+		<English>Arquebusier (Tanegashima Ashigaru)</English>
+		<German>
+			<Text>Tanegashima-Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETMAN_CHINA</Tag>
+		<English>Arquebusier (Chedian Chong)</English>
+		<German>
+			<Text>Che Dian Chong-Schütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRENCH_MUSKETEER</Tag>
+		<English>Arquebusier (Musketeer)</English>
+		<German>
+			<Text>Französischer Musketier</Text>
+			<Gender>male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_MUSKETMAN -->
+	<!-- BEGIN: UNITCLASS_FUSILIER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER</Tag>
+		<English>Line Infantry</English>
+		<German>
+			<Text>Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_DRAVIDIAN</Tag>
+		<English>Line Infantry (Mysore)</English>
+		<German>
+			<Text>Mysore-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_FILIPINO</Tag>
+		<English>Line Infantry (Luzon)</English>
+		<German>
+			<Text>Luzon-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_PORTUGAL</Tag>
+		<English>Line Infantry (Portuguese)</English>
+		<German>
+			<Text>Fuzileiro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_AUSTRONESIA</Tag>
+		<English>Line Infantry (Banten)</English>
+		<German>
+			<Text>Banten-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_PERSIA</Tag>
+		<English>Line Infantry (Afsharid)</English>
+		<German>
+			<Text>Afscharidischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_GREECE</Tag>
+		<English>Line Infantry (Taktikoi)</English>
+		<German>
+			<Text>Taktikoi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_KHMER</Tag>
+		<English>Line Infantry (Oudong)</English>
+		<German>
+			<Text>Oudong Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_CELT</Tag>
+		<English>Line Infantry (Highland)</English>
+		<German>
+			<Text>Hochland-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_MUSLIM</Tag>
+		<English>Line Infantry (Maghrebi)</English>
+		<German>
+			<Text>Maghrebinischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_ARABIA</Tag>
+		<English>Line Infantry (Najd)</English>
+		<German>
+			<Text>Nadschd-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_BERBER</Tag>
+		<English>Line Infantry (Alawite)</English>
+		<German>
+			<Text>Aleviten-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BLACK_GUARD</Tag>
+		<English>Black Guard</English>
+		<German>
+			<Text>Schwarze Garde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_ARMENIA</Tag>
+		<English>Line Infantry (Caucasus)</English>
+		<German>
+			<Text>Kaukasischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_ETHIOPIA</Tag>
+		<English>Line Infantry (Abyssinian)</English>
+		<German>
+			<Text>Abessinischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_HUNGARY</Tag>
+		<English>Line Infantry (Pusk&#225;s)</English>
+		<German>
+			<Text>Ungarischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_DUTCH</Tag>
+		<English>Line Infantry (Maurician)</English>
+		<German>
+			<Text>Niederländischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_OTTOMAN</Tag>
+		<English>Line Infantry (Sekban)</English>
+		<German>
+			<Text>Sekban</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_EGYPT</Tag>
+		<English>Line Infantry (Mamluk)</English>
+		<German>
+			<Text>Mamlukischer Sekban</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_POLAND</Tag>
+		<English>Line Infantry (Wojsko Kwarciane)</English>
+		<German>
+			<Text>Wojsko kwarciane</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_INDIA</Tag>
+		<English>Line Infantry (Maratha Sepoy)</English>
+		<German>
+			<Text>Maratha-Sepoy</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_ROME</Tag>
+		<English>Line Infantry (Cisalpine)</English>
+		<German>
+			<Text>Fuciliere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_SPAIN</Tag>
+		<English>Line Infantry (Spanish)</English>
+		<German>
+			<Text>Fusilero</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_TRANSOXIANA</Tag>
+		<English>Line Infantry (Bukharan)</English>
+		<German>
+			<Text>Bucharischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_INCAN</Tag>
+		<English>Line Infantry (Andean)</English>
+		<German>
+			<Text>Anden-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_LA_PLATA</Tag>
+		<English>Line Infantry (Argentinian)</English>
+		<German>
+			<Text>Argentinischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_VIKING</Tag>
+		<English>Line Infantry (Swedish)</English>
+		<German>
+			<Text>Schwedischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_FINLAND</Tag>
+		<English>Line Infantry (Finnic)</English>
+		<German>
+			<Text>Finnischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_MALI</Tag>
+		<English>Line Infantry (Toucouleur)</English>
+		<German>
+			<Text>Tukulor-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_MONGOL</Tag>
+		<English>Line Infantry (Steppe)</English>
+		<German>
+			<Text>Steppenlinieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_AZTEC</Tag>
+		<English>Line Infantry (Mexican)</English>
+		<German>
+			<Text>Mexikanischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_COLOMBIA</Tag>
+		<English>Line Infantry (Bolivarian)</English>
+		<German>
+			<Text>Bolivarische Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_MAYA</Tag>
+		<English>Line Infantry (USCA)</English>
+		<German>
+			<Text>USCA-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_RUSSIAN</Tag>
+		<English>Line Infantry (Petrine)</English>
+		<German>
+			<Text>Russischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_UKRAINE_VOLHYNIA</Tag>
+		<English>Line Infantry (Zholdak)</English>
+		<German>
+			<Text>Zholdak</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_AMERICA</Tag>
+		<English>Line Infantry (Continental Army)</English>
+		<German>
+			<Text>Füsilier der Kontinentalarmee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_AFRICAN</Tag>
+		<English>Line Infantry (African)</English>
+		<German>
+			<Text>Afrikanischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_ZULU</Tag>
+		<English>Line Infantry (Zulu)</English>
+		<German>
+			<Text>Zulu-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_CHINA</Tag>
+		<English>Line Infantry (Green Standard)</English>
+		<German>
+			<Text>Füsilier der grünen Standarte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_KOREA</Tag>
+		<English>Line Infantry (Daeduin)</English>
+		<German>
+			<Text>Daeduin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_JAPAN</Tag>
+		<English>Line Infantry (Bakumatsu)</English>
+		<German>
+			<Text>Bakumatsu-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_FRANCE</Tag>
+		<English>Line Infantry (French)</English>
+		<German>
+			<Text>Französischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_GERMAN</Tag>
+		<English>Line Infantry (Prussian)</English>
+		<German>
+			<Text>Preußischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_AUSTRIA</Tag>
+		<English>Line Infantry (K.u.K)</English>
+		<German>
+			<Text>K.u.k.-Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUSILIER_ENGLAND</Tag>
+		<English>Line Infantry (Redcoat)</English>
+		<German>
+			<Text>Rotrock</Text>
+			<Gender>male</Gender>
+			<Plural>0:1</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_FUSILIER -->
+	<!-- BEGIN: UNITCLASS_RIFLEMAN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN</Tag>
+		<English>Rifleman</English>
+		<German>
+			<Text>Gewehrschütze</Text>
+			<Gender>male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_AUSTRONESIA</Tag>
+		<English>Rifleman (Aceh)</English>
+		<German>
+			<Text>Aceh-Gewehrschütze</Text>
+			<Gender>male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_FILIPINO</Tag>
+		<English>Rifleman (Katipunero)</English>
+		<German>
+			<Text>Katipunero Gewehrschütze</Text>
+			<Gender>male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_PERSIA</Tag>
+		<English>Rifleman (Qajar)</English>
+		<German>
+			<Text>Kadscharischer Gewehrschütze</Text>
+			<Gender>male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_MONGOL</Tag>
+		<English>Rifleman (Steppe)</English>
+		<German>
+			<Text>Steppengewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_ETHIOPIA</Tag>
+		<English>Rifleman (Ras)</English>
+		<German>
+			<Text>Ras-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_COLOMBIA</Tag>
+		<English>Rifleman (Colombian)</English>
+		<German>
+			<Text>Kolumbianischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_DUTCH</Tag>
+		<English>Rifleman (Karabinier)</English>
+		<German>
+			<Text>Karabinier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_HUNGARY</Tag>
+		<English>Rifleman (L&#246;v&#233;sz)</English>
+		<German>
+			<Text>Ungarischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_KHMER</Tag>
+		<English>Rifleman (Cambodian)</English>
+		<German>
+			<Text>Kambodschanischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_PORTUGAL</Tag>
+		<English>Rifleman (Portuguese)</English>
+		<German>
+			<Text>Portugisischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_ARAB</Tag>
+		<English>Rifleman (Arab)</English>
+		<German>
+			<Text>Arabischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_BERBER</Tag>
+		<English>Rifleman (Moorish)</English>
+		<German>
+			<Text>Maurischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_CHINA</Tag>
+		<English>Rifleman (Qing)</English>
+		<German>
+			<Text>Qing-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_SOUTH_CHINA</Tag>
+		<English>Rifleman (Ever Victorious Army)</English>
+		<German>
+			<Text>Ever Victorious Army-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_VIKING</Tag>
+		<English>Rifleman (Storregemente)</English>
+		<German>
+			<Text>Nordischer Gewehrschütze</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_KOREA</Tag>
+		<English>Rifleman (Donghak)</English>
+		<German>
+			<Text>Donghak-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_POLAND</Tag>
+		<English>Rifleman (Zolnierzy)</English>
+		<German>
+			<Text>Polnischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_GREECE</Tag>
+		<English>Rifleman (Tifekiophoroi)</English>
+		<German>
+			<Text>Griechischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_SPAIN</Tag>
+		<English>Rifleman (Infante)</English>
+		<German>
+			<Text>Spanischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_INCA</Tag>
+		<English>Rifleman (Andean)</English>
+		<German>
+			<Text>Anden-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_LA_PLATA</Tag>
+		<English>Rifleman (Argentinian)</English>
+		<German>
+			<Text>Argentinischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_JAPAN</Tag>
+		<English>Rifleman (IJA)</English>
+		<German>
+			<Text>IJA-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_OTTOMAN</Tag>
+		<English>Rifleman (Nizam-i Cedid)</English>
+		<German>
+			<Text>Nizâm-i Cedîd</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_TRANSOXIANA</Tag>
+		<English>Rifleman (Bukharan Sarbaz)</English>
+		<German>
+			<Text>Bukhara-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_ENGLAND</Tag>
+		<English>Rifleman (British)</English>
+		<German>
+			<Text>Britischer Gewehrschütze</Text>
+			<Gender>female</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_ZULU</Tag>
+		<English>Rifleman (Griqua)</English>
+		<German>
+			<Text>Griqua-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_CELT</Tag>
+		<English>Rifleman (Irish)</English>
+		<German>
+			<Text>Irischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_EGYPT</Tag>
+		<English>Rifleman (Mamluk)</English>
+		<German>
+			<Text>Mamlukischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_NUBIA</Tag>
+		<English>Rifleman (Sudanese)</English>
+		<German>
+			<Text>Sudanesischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_AMERICA</Tag>
+		<English>Rifleman (Union)</English>
+		<German>
+			<Text>Amerikanischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_BRAZIL</Tag>
+		<English>Rifleman (Imperial)</English>
+		<German>
+			<Text>Brazilianischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_AZTEC</Tag>
+		<English>Rifleman (Mexican)</English>
+		<German>
+			<Text>Mexikanischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_MAYA</Tag>
+		<English>Rifleman (Guatemalan)</English>
+		<German>
+			<Text>Guatemaltekischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_RUSSIA</Tag>
+		<English>Rifleman (Russian)</English>
+		<German>
+			<Text>Russischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_UKRAINE_VOLHYNIA</Tag>
+		<English>Rifleman (Cossack)</English>
+		<German>
+			<Text>Kosak zu Fuß</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_ARMENIA</Tag>
+		<English>Rifleman (Armenian)</English>
+		<German>
+			<Text>Armenischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_FRANCE</Tag>
+		<English>Rifleman (Chassepot)</English>
+		<German>
+			<Text>Chassepot-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_GERMAN</Tag>
+		<English>Rifleman (Prussian)</English>
+		<German>
+			<Text>Preußischer Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_AUSTRIA</Tag>
+		<English>Rifleman (K.u.K)</English>
+		<German>
+			<Text>K.u.k.-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_MALI</Tag>
+		<English>Rifleman (Wassoulou)</English>
+		<German>
+			<Text>Wassoulou-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_ROME</Tag>
+		<English>Rifleman (Sardinia-Piedmont)</English>
+		<German>
+			<Text>Bersaglieri</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_INDIA</Tag>
+		<English>Rifleman (Gurkha)</English>
+		<German>
+			<Text>Gurkha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIFLEMAN_DRAVIDIAN</Tag>
+		<English>Rifleman (Madras)</English>
+		<German>
+			<Text>Madras-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_RIFLEMAN -->
+  <!-- BEGIN: UNITCLASS_WW1_INFANTRY -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY</Tag>
+		<English>Trench Infantry</English>
+		<German>
+			<Text>Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_AFRICA</Tag>
+		<English>Trench Infantry (Africa)</English>
+		<German>
+			<Text>Afrikanischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_AMERICA</Tag>
+		<English>Trench Infantry (Doughboy)</English>
+		<German>
+			<Text>Doughboy</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_ARMENIA</Tag>
+		<English>Trench Infantry (Armenian)</English>
+		<German>
+			<Text>Armenischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_AUSTRIA</Tag>
+		<English>Trench Infantry (K.u.K)</English>
+		<German>
+			<Text>K.u.k.-Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_HUNGARY</Tag>
+		<English>Trench Infantry (Nemzeti Hadsereg)</English>
+		<German>
+			<Text>Honved-Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_AUSTRONESIA</Tag>
+		<English>Trench Infantry (Indonesia)</English>
+		<German>
+			<Text>Austronesischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_FILIPINO</Tag>
+		<English>Trench Infantry (Katipunan)</English>
+		<German>
+			<Text>Katipunan Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_BRAZIL</Tag>
+		<English>Trench Infantry (Brazilian)</English>
+		<German>
+			<Text>Brasilianischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_CARTHAGE</Tag>
+		<English>Trench Infantry (Maghrebi)</English>
+		<German>
+			<Text>Maghrebi-Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_CELT</Tag>
+		<English>Trench Infantry (Irish)</English>
+		<German>
+			<Text>Irischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_CHINA</Tag>
+		<English>Trench Infantry (Beiyang)</English>
+		<German>
+			<Text>Beiyang-Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_DRAVIDIAN</Tag>
+		<English>Trench Infantry (Madras)</English>
+		<German>
+			<Text>Madras-Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_ENGLAND</Tag>
+		<English>Trench Infantry (Commonwealth)</English>
+		<German>
+			<Text>Commonwealth-Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_ETHIOPIA</Tag>
+		<English>Trench Infantry (Abyssinian)</English>
+		<German>
+			<Text>Abessinier Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_EUROPE</Tag>
+		<English>Trench Infantry (Spanish)</English>
+		<German>
+			<Text>Spanischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_FINLAND</Tag>
+		<English>Trench Infantry (White Guard)</English>
+		<German>
+			<Text>Finnischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_FRANCE</Tag>
+		<English>Trench Infantry (Fantassins)</English>
+		<German>
+			<Text>Franz&#246;sischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_GERMAN</Tag>
+		<English>Trench Infantry (Linieninfanterie)</English>
+		<German>
+			<Text>Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_GREECE</Tag>
+		<English>Trench Infantry (Pezikon)</English>
+		<German>
+			<Text>Griechischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_INCA</Tag>
+		<English>Trench Infantry (Peruvian)</English>
+		<German>
+			<Text>Peruanischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_INDIA</Tag>
+		<English>Trench Infantry (Sepoy)</English>
+		<German>
+			<Text>Indischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_JAPAN</Tag>
+		<English>Trench Infantry (IJA)</English>
+		<German>
+			<Text>Grabensch&#252;tze der Kaiserlich Japanischen Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_KOREA</Tag>
+		<English>Trench Infantry (Joseon)</English>
+		<German>
+			<Text>Joseon-Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_MALI</Tag>
+		<English>Trench Infantry (Senegalese)</English>
+		<German>
+			<Text>Senegalsch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_MIDDLE_EAST</Tag>
+		<English>Trench Infantry (Middle East)</English>
+		<German>
+			<Text>Mittel&#246;stlicher Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_MONGOL</Tag>
+		<English>Trench Infantry (Mengguguo)</English>
+		<German>
+			<Text>Mengguguo-Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_OTTOMAN</Tag>
+		<English>Trench Infantry (Piyade)</English>
+		<German>
+			<Text>Osmanischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_PERSIA</Tag>
+		<English>Trench Infantry (Qajar)</English>
+		<German>
+			<Text>Qajar Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_POLAND</Tag>
+		<English>Trench Infantry (Polish)</English>
+		<German>
+			<Text>Polnischer Linieninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_PORTUGAL</Tag>
+		<English>Trench Infantry (Atirador)</English>
+		<German>
+			<Text>Portugiesischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_ROME</Tag>
+		<English>Trench Infantry (Regia Fanteria)</English>
+		<German>
+			<Text>Italienischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_RUSSIA</Tag>
+		<English>Trench Infantry (Pehota)</English>
+		<German>
+			<Text>Russischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_SOUTH_CHINA</Tag>
+		<English>Trench Infantry (Tongmenghui)</English>
+		<German>
+			<Text>Tongmenghui-Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_TRANSOXIANA</Tag>
+		<English>Trench Infantry (Turkestani)</English>
+		<German>
+			<Text>Turkestanischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_UKRAINE</Tag>
+		<English>Trench Infantry (Ukraine)</English>
+		<German>
+			<Text>Ukrainischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW1_INFANTRY_VIKING</Tag>
+		<English>Trench Infantry (Nordic)</English>
+		<German>
+			<Text>Nordischer Grabensch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_WW1_INFANTRY -->
+  <!-- BEGIN: UNITCLASS_INFANTRY -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_AFRICA</Tag>
+		<English>Infantry (African)</English>
+		<German>
+			<Text>Afrikanischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_AMERICA</Tag>
+		<English>Infantry (GI)</English>
+		<German>
+			<Text>GI</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_ARMENIA</Tag>
+		<English>Infantry (Caucasus)</English>
+		<German>
+			<Text>Kaukasischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_AUSTRONESIA</Tag>
+		<English>Infantry (Indonesian)</English>
+		<German>
+			<Text>Indonesischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_FILIPINO</Tag>
+		<English>Infantry (Filipino)</English>
+		<German>
+			<Text>Philippinischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_AZTEC</Tag>
+		<English>Infantry (Mexican)</English>
+		<German>
+			<Text>Mexikanischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_BRAZIL</Tag>
+		<English>Infantry (Cobras Fumantes)</English>
+		<German>
+			<Text>Brasilianischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_CHINA</Tag>
+		<English>Infantry (PLA)</English>
+		<German>
+			<Text>Infanterist der Volksbefreiungsarmee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_DUTCH</Tag>
+		<English>Infantry (Dutch)</English>
+		<German>
+			<Text>Niederl&#228;ndischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_ENGLAND</Tag>
+		<English>Infantry (Tommies)</English>
+		<German>
+			<Text>Tommy</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_FINLAND</Tag>
+		<English>Infantry (Jaeger)</English>
+		<German>
+			<Text>Finnischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_FRANCE</Tag>
+		<English>Infantry (French)</English>
+		<German>
+			<Text>Franz&#246;sischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_GERMAN</Tag>
+		<English>Infantry (Wehrmacht)</English>
+		<German>
+			<Text>Wehrmachtsoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_GREECE</Tag>
+		<English>Infantry (Pezikon)</English>
+		<German>
+			<Text>Griechischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_HUNGARY</Tag>
+		<English>Infantry (Gyalogs&#225;g)</English>
+		<German>
+			<Text>Ungarischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_INCA</Tag>
+		<English>Infantry (Peruvian)</English>
+		<German>
+			<Text>Peruanischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_INDIA</Tag>
+		<English>Infantry (South Asian)</English>
+		<German>
+			<Text>S&#252;dindischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_ISRAEL</Tag>
+		<English>Infantry (Tsahal)</English>
+		<German>
+			<Text>Tsahal-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_JAPAN</Tag>
+		<English>Infantry (IJA)</English>
+		<German>
+			<Text>Infanterist der Kaiserlich Japanischen Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_KOREA</Tag>
+		<English>Infantry (ROK)</English>
+		<German>
+			<Text>Koreanischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_LITHUANIA</Tag>
+		<English>Infantry (Pestininkai)</English>
+		<German>
+			<Text>Litauischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_MIDDLE_EAST</Tag>
+		<English>Infantry (Middle Eastern)</English>
+		<German>
+			<Text>Mittel&#246;stlicher Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_MONGOL</Tag>
+		<English>Infantry (Steppe)</English>
+		<German>
+			<Text>Steppeninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_OTTOMAN</Tag>
+		<English>Infantry (Piyade)</English>
+		<German>
+			<Text>Osmanischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_POLAND</Tag>
+		<English>Infantry (Polish)</English>
+		<German>
+			<Text>Polnischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_PORTUGAL</Tag>
+		<English>Infantry (Portuguese)</English>
+		<German>
+			<Text>Portugiesischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_ROME</Tag>
+		<English>Infantry (Italian)</English>
+		<German>
+			<Text>S&#252;deurop&#228;ischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_RUSSIA</Tag>
+		<English>Infantry (Soviet)</English>
+		<German>
+			<Text>Sowjetischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_SOUTH_CHINA</Tag>
+		<English>Infantry (Kuomintang)</English>
+		<German>
+			<Text>Kuomintang-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_SPAIN</Tag>
+		<English>Infantry (Spanish)</English>
+		<German>
+			<Text>Spanischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_TRANSOXIANA</Tag>
+		<English>Infantry (Afghan)</English>
+		<German>
+			<Text>Afghanischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_VIKING</Tag>
+		<English>Infantry (Nordic)</English>
+		<German>
+			<Text>Nordischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_INFANTRY -->
+  <!-- BEGIN: UNITCLASS_COLD_WAR_INFANTRY -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY</Tag>
+		<English>Semi-modern Infantry</English>
+		<German>
+			<Text>Semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_ROME</Tag>
+		<English>Semi-modern Infantry (Italy)</English>
+		<German>
+			<Text>Italienischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_AZTEC</Tag>
+		<English>Semi-modern Infantry (Mexico)</English>
+		<German>
+			<Text>Mexikanischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_KHMER</Tag>
+		<English>Semi-modern Infantry (Cambodia)</English>
+		<German>
+			<Text>Kambodschanischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_FRANCE</Tag>
+		<English>Semi-modern Infantry (France)</English>
+		<German>
+			<Text>Franz&#246;sischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_SPAIN</Tag>
+		<English>Semi-modern Infantry (Spain)</English>
+		<German>
+			<Text>Spanischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_RUSSIA</Tag>
+		<English>Semi-modern Infantry (Soviet Union)</English>
+		<German>
+			<Text>Sowjetischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_ARMENIA</Tag>
+		<English>Semi-modern Infantry (Caucasus)</English>
+		<German>
+			<Text>Armenischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_AMERICA</Tag>
+		<English>Semi-modern Infantry (USA)</English>
+		<German>
+			<Text>Semimoderner US-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_GERMAN</Tag>
+		<English>Semi-modern Infantry (Germany)</English>
+		<German>
+			<Text>Deutscher semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_CHINA</Tag>
+		<English>Semi-modern Infantry (PLA)</English>
+		<German>
+			<Text>Chinesischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_ASIAN</Tag>
+		<English>Semi-modern Infantry (ROK)</English>
+		<German>
+			<Text>Asiatischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_MONGOL</Tag>
+		<English>Semi-modern Infantry (Mongolia)</English>
+		<German>
+			<Text>Mongolischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_ENGLAND</Tag>
+		<English>Semi-modern Infantry (UK)</English>
+		<German>
+			<Text>Englischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_AFRICAN</Tag>
+		<English>Semi-modern Infantry (Africa)</English>
+		<German>
+			<Text>Afrikanischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_ISRAEL</Tag>
+		<English>Semi-modern Infantry (Tsahal)</English>
+		<German>
+			<Text>Semimoderner Tsahal-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_PERSIA</Tag>
+		<English>Semi-modern Infantry (Iran)</English>
+		<German>
+			<Text>Persischer Semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_AUSTRONESIA</Tag>
+		<English>Semi-modern Infantry (Indonesia)</English>
+		<German>
+			<Text>Indonesischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_ARABIA</Tag>
+		<English>Semi-modern Infantry (Saudi Arabia)</English>
+		<German>
+			<Text>Arabischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_MIDDLE_EAST</Tag>
+		<English>Semi-modern Infantry (Middle East)</English>
+		<German>
+			<Text>Nah&#246;stlicher semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_INDIA</Tag>
+		<English>Semi-modern Infantry (South Asia)</English>
+		<German>
+			<Text>S&#252;dasiatischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_HUNGARY</Tag>
+		<English>Semi-modern Infantry (Hungary)</English>
+		<German>
+			<Text>Ungarischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_JAPAN</Tag>
+		<English>Semi-modern Infantry (Japan)</English>
+		<German>
+			<Text>Japanischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_POLAND</Tag>
+		<English>Semi-modern Infantry (Poland)</English>
+		<German>
+			<Text>Polnischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_VIKING</Tag>
+		<English>Semi-modern Infantry (Sweden)</English>
+		<German>
+			<Text>Schwedischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_SOUTH_CHINA</Tag>
+		<English>Semi-modern Infantry (Taiwan)</English>
+		<German>
+			<Text>Taiwanesischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_TRANSOXIANA</Tag>
+		<English>Semi-modern Infantry (Central Asia)</English>
+		<German>
+			<Text>Zentralasiatischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLD_WAR_INFANTRY_TURKEY</Tag>
+		<English>Semi-modern Infantry (Turkey)</English>
+		<German>
+			<Text>T&#252;rkischer semimoderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_COLD_WAR_INFANTRY -->
+  <!-- BEGIN: UNITCLASS_MODERN_INFANTRY -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY</Tag>
+		<English>Modern Infantry</English>
+		<German>
+			<Text>Moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_BABYLON</Tag>
+		<English>Modern Infantry (Iraq)</English>
+		<German>
+			<Text>Iraqi moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_BRAZIL</Tag>
+		<English>Modern Infantry (Brazil)</English>
+		<German>
+			<Text>Brazilischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_AUSTRONESIA</Tag>
+		<English>Modern Infantry (Malaysia)</English>
+		<German>
+			<Text>Malaysischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_SOUTH_CHINA</Tag>
+		<English>Modern Infantry (Taiwan)</English>
+		<German>
+			<Text>S&#252;dchinesischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_AFRICA</Tag>
+		<English>Modern Infantry (Africa)</English>
+		<German>
+			<Text>Afrikanischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_VIKING</Tag>
+		<English>Modern Infantry (Sweden)</English>
+		<German>
+			<Text>Nordischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_ZULU</Tag>
+		<English>Modern Infantry (SADF)</English>
+		<German>
+			<Text>S&#252;dafrikanischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_MALI</Tag>
+		<English>Modern Infantry (Mali)</English>
+		<German>
+			<Text>Malinesischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_RUSSIA</Tag>
+		<English>Modern Infantry (Russia)</English>
+		<German>
+			<Text>Russischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_UKRAINE</Tag>
+		<English>Modern Infantry (Ukraine)</English>
+		<German>
+			<Text>Ukrainischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_ARABIA</Tag>
+		<English>Modern Infantry (Saudi Arabia)</English>
+		<German>
+			<Text>Arabischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_ARMENIA</Tag>
+		<English>Modern Infantry (Armenia)</English>
+		<German>
+			<Text>Armenischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_TRANSOXIANA</Tag>
+		<English>Modern Infantry (Uzbekistan)</English>
+		<German>
+			<Text>Transoxanischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_MIDDLE_EAST</Tag>
+		<English>Modern Infantry (Middle East)</English>
+		<German>
+			<Text>Mittel&#246;stlicher moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_CHINA</Tag>
+		<English>Modern Infantry (PLA)</English>
+		<German>
+			<Text>Chinesischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_AMERICA</Tag>
+		<English>Modern Infantry (USA)</English>
+		<German>
+			<Text>Moderner US-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_ENGLAND</Tag>
+		<English>Modern Infantry (UK)</English>
+		<German>
+			<Text>Englischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_SPAIN</Tag>
+		<English>Modern Infantry (Spain)</English>
+		<German>
+			<Text>Spanischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_ROME</Tag>
+		<English>Modern Infantry (Italy)</English>
+		<German>
+			<Text>Italienischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_JAPAN</Tag>
+		<English>Modern Infantry (Japan)</English>
+		<German>
+			<Text>Japanischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_MONGOL</Tag>
+		<English>Modern Infantry (Asia)</English>
+		<German>
+			<Text>Mongolischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_EGYPT</Tag>
+		<English>Modern Infantry (Egypt)</English>
+		<German>
+			<Text>&#196;gyptischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_FRANCE</Tag>
+		<English>Modern Infantry (France)</English>
+		<German>
+			<Text>Franz&#246;sischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_HUNGARY</Tag>
+		<English>Modern Infantry (Hungary)</English>
+		<German>
+			<Text>Ungarischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_INDIA</Tag>
+		<English>Modern Infantry (India)</English>
+		<German>
+			<Text>Indischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_INFANTRY_OTTOMAN</Tag>
+		<English>Modern Infantry (Turkey)</English>
+		<German>
+			<Text>Osmanischer moderner Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_MODERN_INFANTRY -->
+  <!-- BEGIN: UNITCLASS_MOTORIZED_INFANTRY -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY</Tag>
+		<English>Motorized Infantry</English>
+		<German>
+			<Text>Motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_AFRICA</Tag>
+		<English>Motorized Infantry (Africa)</English>
+		<German>
+			<Text>Afrikanischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_AMERICA</Tag>
+		<English>Motorized Infantry (USA)</English>
+		<German>
+			<Text>Motorisierter US-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_ARMENIA</Tag>
+		<English>Motorized Infantry (Caucasus)</English>
+		<German>
+			<Text>Armenischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_AUSTRONESIA</Tag>
+		<English>Motorized Infantry (Indonesia)</English>
+		<German>
+			<Text>Indonesischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_AZTEC</Tag>
+		<English>Motorized Infantry (Mexico)</English>
+		<German>
+			<Text>Mexikanischer Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_BRAZIL</Tag>
+		<English>Motorized Infantry (Brazil)</English>
+		<German>
+			<Text>Brasilianischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_CHINA</Tag>
+		<English>Motorized Infantry (China)</English>
+		<German>
+			<Text>Chinesischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_DUTCH</Tag>
+		<English>Motorized Infantry (Netherlands)</English>
+		<German>
+			<Text>Niederl&#228;ndischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_ENGLAND</Tag>
+		<English>Motorized Infantry (UK)</English>
+		<German>
+			<Text>Britischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_FINLAND</Tag>
+		<English>Motorized Infantry (Finland)</English>
+		<German>
+			<Text>Finnischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_FRANCE</Tag>
+		<English>Motorized Infantry (France)</English>
+		<German>
+			<Text>Franz&#246;sischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_GERMAN</Tag>
+		<English>Motorized Infantry (Germany)</English>
+		<German>
+			<Text>Panzergrenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_GREECE</Tag>
+		<English>Motorized Infantry (Greece)</English>
+		<German>
+			<Text>Griechischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_HUNGARY</Tag>
+		<English>Motorized Infantry (Hungary)</English>
+		<German>
+			<Text>Ungarischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_INCA</Tag>
+		<English>Motorized Infantry (Peru)</English>
+		<German>
+			<Text>Peruanischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_INDIA</Tag>
+		<English>Motorized Infantry (India)</English>
+		<German>
+			<Text>Indischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_ISRAEL</Tag>
+		<English>Motorized Infantry (Tsahal)</English>
+		<German>
+			<Text>Motorisierter Tsahal-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_JAPAN</Tag>
+		<English>Motorized Infantry (IJA)</English>
+		<German>
+			<Text>Motorisierter Infanterist der Kaiserlich Japanischen Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_KOREA</Tag>
+		<English>Motorized Infantry (Korea)</English>
+		<German>
+			<Text>Koreanischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_LITHUANIA</Tag>
+		<English>Motorized Infantry (Lithuania)</English>
+		<German>
+			<Text>Litauischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_MIDDLE_EAST</Tag>
+		<English>Motorized Infantry (Middle East)</English>
+		<German>
+			<Text>Mittel&#246;stlicher motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_MONGOL</Tag>
+		<English>Motorized Infantry (Steppe)</English>
+		<German>
+			<Text>Motorisierter Steppeninfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_OTTOMAN</Tag>
+		<English>Motorized Infantry (Turkey)</English>
+		<German>
+			<Text>T&#252;rkischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_POLAND</Tag>
+		<English>Motorized Infantry (Poland)</English>
+		<German>
+			<Text>Polnischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_PORTUGAL</Tag>
+		<English>Motorized Infantry (Portugal)</English>
+		<German>
+			<Text>Portugiesischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_ROME</Tag>
+		<English>Motorized Infantry (Italy)</English>
+		<German>
+			<Text>Italienischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_RUSSIA</Tag>
+		<English>Motorized Infantry (Russia)</English>
+		<German>
+			<Text>Russischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_SPAIN</Tag>
+		<English>Motorized Infantry (Spain)</English>
+		<German>
+			<Text>Motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_TRANSOXIANA</Tag>
+		<English>Motorized Infantry (Afghanistan)</English>
+		<German>
+			<Text>Afghanischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOTORIZED_INFANTRY_VIKING</Tag>
+		<English>Motorized Infantry (Scandinavia)</English>
+		<German>
+			<Text>Swedischer motorisierter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY_MOTORIZED_SOUTH_CHINA</Tag>
+		<English>Motorized Infantry (Kuomintang)</English>
+		<German>
+			<Text>Motorisierter Kuomintang-Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_MOTORIZED_INFANTRY -->
+  <!-- BEGIN: UNITCLASS_MECH_INF -->
+ 	<TEXT>
+		<Tag>TXT_KEY_UNIT_RUSSIAN_MECHANIZED_INFANTRY</Tag>
+		<English>Mech. Infantry (Soviet Union) </English>
+		<German>
+			<Text>Russische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_ARMENIA</Tag>
+		<English>Mech. Infantry (Caucasus) </English>
+		<German>
+			<Text>Armenische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_AZTEC</Tag>
+		<English>Mech. Infantry (Mexico) </English>
+		<German>
+			<Text>Mexikanische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_ARABIA</Tag>
+		<English>Mech. Infantry (Saudi Arabia) </English>
+		<German>
+			<Text>Arabischer mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_AFRICAN</Tag>
+		<English>Mech. Infantry (Africa) </English>
+		<German>
+			<Text>Afrikanische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_TURKEY</Tag>
+		<English>Mech. Infantry (Turkey) </English>
+		<German>
+			<Text>T&#252;rkischer mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_BERBER</Tag>
+		<English>Mech. Infantry (Morocco) </English>
+		<German>
+			<Text>Marokkanische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_GREECE</Tag>
+		<English>Mech. Infantry (Greece)</English>
+		<German>
+			<Text>Griechische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_TRANSOXIANA</Tag>
+		<English>Mech. Infantry (BTR-152)</English>
+		<German>
+			<Text>BTR-152</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_VIKING</Tag>
+		<English>Mech. Infantry (Pbv 401)</English>
+		<German>
+			<Text>Pbv 401</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_FINLAND</Tag>
+		<English>Mech. Infantry (MT-LBu)</English>
+		<German>
+			<Text>MT-LBu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_MUGHAL</Tag>
+		<English>Mech. Infantry (Type 531)</English>
+		<German>
+			<Text>Type 531</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_MEXICO</Tag>
+		<English>Mech. Infantry (Ecuador)</English>
+		<German>
+			<Text>Ecuadorianische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_SOUTH_CHINA</Tag>
+		<English>Mech. Infantry (Taiwan) </English>
+		<German>
+			<Text>Taiwanesischer mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_GERMAN</Tag>
+		<English>Mech. Infantry (Luchs)</English>
+		<German>
+			<Text>Deutsche mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_ENGLAND</Tag>
+		<English>Mech. Infantry (FV603 Saracen)</English>
+		<German>
+			<Text>FV603 Saracen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_INDIA</Tag>
+		<English>Mech. Infantry (OT-64A)</English>
+		<German>
+			<Text>OT-64A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_POLAND</Tag>
+		<English>Mech. Infantry (SKOT-2)</English>
+		<German>
+			<Text>SKOT-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_ZULU</Tag>
+		<English>Mech. Infantry (Alvis Saracen)</English>
+		<German>
+			<Text>Alvis Saracen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_JAPAN</Tag>
+		<English>Mech. Infantry (Type 73 APC)</English>
+		<German>
+			<Text>Type 73 APC</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_USA</Tag>
+		<English>Mech. Infantry (USA)</English>
+		<German>
+			<Text>Mechanisierte Infanterie der US</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARABIAN_MECHANIZED_INFANTRY</Tag>
+		<English>Mech. Infantry (Middle East)</English>
+		<German>
+			<Text>Arabische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_ROME</Tag>
+		<English>Mech. Infantry (Italy)</English>
+		<German>
+			<Text>Italienische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_FRANCE</Tag>
+		<English>Mech. Infantry (France)</English>
+		<German>
+			<Text>Franz&#246;sische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_SPAIN</Tag>
+		<English>Mech. Infantry (Spain)</English>
+		<German>
+			<Text>Spanische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_MONGOL</Tag>
+		<English>Mech. Infantry (Mongolia)</English>
+		<German>
+			<Text>Mechanisierte Steppeninfanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_KOREA</Tag>
+		<English>Mech. Infantry (Korea)</English>
+		<German>
+			<Text>Koreanische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_KHMER</Tag>
+		<English>Mech. Infantry (Cambodia)</English>
+		<German>
+			<Text>Kambodschanische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHINESE_MECHANIZED_INFANTRY</Tag>
+		<English>Mech. Infantry (Type 63 APC)</English>
+		<German>
+			<Text>Type 63 APC</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_HUNGARY</Tag>
+		<English>Mech. Infantry (Hungary)</English>
+		<German>
+			<Text>Ungarische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_ISRAEL</Tag>
+		<English>Mech. Infantry (Nagmachon)</English>
+		<German>
+			<Text>Nagmachon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_PERSIA</Tag>
+		<English>Mech. Infantry (Iran)</English>
+		<German>
+			<Text>Persische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY_AUSTRONESIA</Tag>
+		<English>Mech. Infantry (Indonesia)</English>
+		<German>
+			<Text>Indonesische mechanisierte Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT> 
+  <!-- END:   UNITCLASS_MECH_INF -->
+  <!-- BEGIN: UNITCLASS_IFV -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE</Tag>
+		<English>IFV</English>
+		<German>
+			<Text>Sch&#252;tzenpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_AFRICA</Tag>
+		<English>IFV (Africa)</English>
+		<German>
+			<Text>Afrikanischer Sch&#252;tzenpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_RUSSIAN</Tag>
+		<English>IFV (BMP-3M)</English>
+		<German>
+			<Text>Russischer IFV BMP-3M</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_MEXICO</Tag>
+		<English>IFV (BMP-3)</English>
+		<German>
+			<Text>IFV BMP-3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_UKRAINE</Tag>
+		<English>IFV (M2A2 Bradley)</English>
+		<German>
+			<Text>Ukrainischer IFV BMP-3M</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARMENIA</Tag>
+		<English>IFV (BMP-2 - Armenia)</English>
+		<German>
+			<Text>Armenischer IFV BMP-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_TRANSOXIANA</Tag>
+		<English>IFV (BMP-2 - Uzbekistan)</English>
+		<German>
+			<Text>Usbekischer IFV BMP-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARABIAN</Tag>
+		<English>IFV (BMP-1 - Middle East)</English>
+		<German>
+			<Text>Mittel&#246;stlicher IFV BMP</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARABIA</Tag>
+		<English>IFV (M2 Bradley - Saudi)</English>
+		<German>
+			<Text>IFV M2 Bradley (Saudi)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_CARTHAGE</Tag>
+		<English>IFV (BMP-2 - Tunisia)</English>
+		<German>
+			<Text>Tunesischer IFV BMP-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_PERSIA</Tag>
+		<English>IFV (BMP-2 - Iran)</English>
+		<German>
+			<Text>Persischer IFV BMP-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_BABYLON</Tag>
+		<English>IFV (BMP-2 - Iraq)</English>
+		<German>
+			<Text>Irakischer IFV BMP-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_CHINESE</Tag>
+		<English>IFV (ZBD-04)</English>
+		<German>
+			<Text>ZBD-04 IFV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_MONGOL</Tag>
+		<English>IFV (BMP-1 - Asia)</English>
+		<German>
+			<Text>Asiatische IFV BMP-1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_KOREA</Tag>
+		<English>IFV (K21)</English>
+		<German>
+			<Text>Koreanischer K21 IFV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_USA</Tag>
+		<English>IFV (M2 Bradley)</English>
+		<German>
+			<Text>Bradley IFV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ZULU</Tag>
+		<English>IFV (Rooikat)</English>
+		<German>
+			<Text>Rooikat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_AMX</Tag>
+		<English>IFV (AMX-10P)</English>
+		<German>
+			<Text>AMX-10P</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_AUSTRONESIA</Tag>
+		<English>IFV (AMX-10P Marine)</English>
+		<German>
+			<Text>AMX-10P Marine</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_BERBER</Tag>
+		<English>IFV (AMX-10P - Morocco)</English>
+		<German>
+			<Text>AMX-10P (Marokko)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_GREECE</Tag>
+		<English>IFV (AMX-10P - Greece)</English>
+		<German>
+			<Text>AMX-10P (Griechenland)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ENGLAND</Tag>
+		<English>IFV (Warrior)</English>
+		<German>
+			<Text>Warrior-Sch&#252;tzenpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_JAPAN</Tag>
+		<English>IFV (Type 89)</English>
+		<German>
+			<Text>Typ 89</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_SPAIN</Tag>
+		<English>IFV (Pizarro)</English>
+		<German>
+			<Text>IFV Pizarro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ISRAEL</Tag>
+		<English>IFV (Namer)</English>
+		<German>
+			<Text>Namer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_GERMAN</Tag>
+		<English>IFV (Marder)</English>
+		<German>
+			<Text>Marder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ITALIAN</Tag>
+		<English>IFV (Dardo)</English>
+		<German>
+			<Text>Dardo IFV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_HUNGARY</Tag>
+		<English>IFV (BMP-1F)</English>
+		<German>
+			<Text>BMP-1F</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_VIKING</Tag>
+		<English>IFV (Strf 90)</English>
+		<German>
+			<Text>Stridsfordon 90 IFV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_LITHUANIA</Tag>
+		<English>IFV (CV90)</English>
+		<German>
+			<Text>CV90 IFV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_POLAND</Tag>
+		<English>IFV (KTO Rosomak)</English>
+		<German>
+			<Text>KTO Rosomak</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_OTTOMAN</Tag>
+		<English>IFV (Turk)</English>
+		<German>
+			<Text>T&#252;rkischer Sch&#252;tzenpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_EGYPT</Tag>
+		<English>IFV (EIFV)</English>
+		<German>
+			<Text>&#196;gyptischer Sch&#252;tzenpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_INDIA</Tag>
+		<English>IFV (Sarath)</English>
+		<German>
+			<Text>BMP-2 Sarath</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_AMX_FRANCE</Tag>
+		<English>IFV (VBCI AMX-10P)</English>
+		<German>
+			<Text>AMX-10P</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_IFV -->
+  	<!-- BEGIN: UNITCLASS_GRENADIER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER</Tag>
+		<English>Grenadier</English>
+		<German>
+			<Text>Grenadier</Text>
+			<Gender>male</Gender>
+			<Plural>0:1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_AUSTRONESIA</Tag>
+		<English>Grenadier (Banten)</English>
+		<German>
+			<Text>Banten-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_FILIPINO</Tag>
+		<English>Grenadier (Kapampangan)</English>
+		<German>
+			<Text>Kapampangan-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_ARMENIA</Tag>
+		<English>Grenadier (Highland)</English>
+		<German>
+			<Text>Hochlandgrenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_HUNGARY</Tag>
+		<English>Grenadier (Gr&#225;n&#225;tos)</English>
+		<German>
+			<Text>Gránátos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_UKRAINE_VOLHYNIA</Tag>
+		<English>Grenadier (Zholdak)</English>
+		<German>
+			<Text>Zholdak-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_MONGOL</Tag>
+		<English>Grenadier (Oirat)</English>
+		<German>
+			<Text>Oiratischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_EGYPT</Tag>
+		<English>Grenadier (Mamluk)</English>
+		<German>
+			<Text>Mamlukischer</Text>
+			<Gender>male</Gender>
+			<Plural>0:1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_PERSIA</Tag>
+		<English>Grenadier (Afsharid)</English>
+		<German>
+			<Text>Afscharidischer</Text>
+			<Gender>male</Gender>
+			<Plural>0:1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_PORTUGAL</Tag>
+		<English>Grenadier (Portuguese)</English>
+		<German>
+			<Text>Granadeiros</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_ETHIOPIA</Tag>
+		<English>Grenadier (Ras)</English>
+		<German>
+			<Text>Ras-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_KHMER</Tag>
+		<English>Grenadier (Oudong)</English>
+		<German>
+			<Text>Oudong-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_DUTCH</Tag>
+		<English>Grenadier (Koninklijke)</English>
+		<German>
+			<Text>Koninklijk-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_BERBER</Tag>
+		<English>Grenadier (Moorish)</English>
+		<German>
+			<Text>Maurischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_AMERICA</Tag>
+		<English>Grenadier (Continental Army)</English>
+		<German>
+			<Text>Grenadier der Kontinentalarmee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_VIKING</Tag>
+		<English>Grenadier (Swedish)</English>
+		<German>
+			<Text>Grenadjär</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_KOREA</Tag>
+		<English>Grenadier (Donghak)</English>
+		<German>
+			<Text>Donghak-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_POLAND</Tag>
+		<English>Grenadier (Polish)</English>
+		<German>
+			<Text>Grenadiery</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_GREECE</Tag>
+		<English>Grenadier (Greek)</English>
+		<German>
+			<Text>Grenadieroi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_SPAIN</Tag>
+		<English>Grenadier (Spanish)</English>
+		<German>
+			<Text>Grenadier (Spanisch)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_INCA</Tag>
+		<English>Grenadier (Bolivian)</English>
+		<German>
+			<Text>Bolivianischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_LA_PLATA</Tag>
+		<English>Grenadier (Argentinian)</English>
+		<German>
+			<Text>Argentinischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_ROME</Tag>
+		<English>Grenadier (Cisalpine)</English>
+		<German>
+			<Text>Granatiere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_JAPAN</Tag>
+		<English>Grenadier (Tekidanhei)</English>
+		<German>
+			<Text>Tekidanhei</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_CHINA</Tag>
+		<English>Grenadier (Qing Bomb Thrower)</English>
+		<German>
+			<Text>Qing-Bombenwerfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_SOUTH_CHINA</Tag>
+		<English>Grenadier (Ming Bomb Thrower)</English>
+		<German>
+			<Text>Ming-Bombenwerfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_DRAVIDIAN</Tag>
+		<English>Grenadier (Mysore)</English>
+		<German>
+			<Text>Mysore-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_INDIA</Tag>
+		<English>Grenadier (Sepoy)</English>
+		<German>
+			<Text>Sepoy-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_CELT</Tag>
+		<English>Grenadier (Highlander)</English>
+		<German>
+			<Text>Hochlandgrenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_ARABIA</Tag>
+		<English>Grenadier (Mideastern)</English>
+		<German>
+			<Text>Mittelöstlicher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_AZTEC</Tag>
+		<English>Grenadier (Mexican)</English>
+		<German>
+			<Text>Mexikanischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_ZULU</Tag>
+		<English>Grenadier (Zulu)</English>
+		<German>
+			<Text>Zulu-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_MALI</Tag>
+		<English>Grenadier (Toucouleur)</English>
+		<German>
+			<Text>Tukulor-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_OTTOMAN</Tag>
+		<English>Grenadier (Humbaraci)</English>
+		<German>
+			<Text>Humbaraci</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_TRANSOXIANA</Tag>
+		<English>Grenadier (Bukharan)</English>
+		<German>
+			<Text>Bucharischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_FRANCE</Tag>
+		<English>Grenadier (Imperial Guard)</English>
+		<German>
+			<Text>Kaiserlicher Wächter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_ENGLAND</Tag>
+		<English>Grenadier (Guard)</English>
+		<German>
+			<Text>Grenadier-Garde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_RUSSIA</Tag>
+		<English>Grenadier (Leib Guard)</English>
+		<German>
+			<Text>Leib Guard-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_AUSTRIA</Tag>
+		<English>Grenadier (K.u.K)</English>
+		<German>
+			<Text>K.u.k.-Grenadier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRENADIER_GERMAN</Tag>
+		<English>Grenadier (Prussian)</English>
+		<German>
+			<Text>Preußischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_GRENADIER -->
+  <!-- BEGIN: UNITCLASS_SHOCK -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS</Tag>
+		<English>Shock Troop</English>
+		<German>
+			<Text>Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_AFRICA</Tag>
+		<English>Shock Troop (African)</English>
+		<German>
+			<Text>Afrikanischer Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_AMERICA</Tag>
+		<English>Shock Troop (US)</English>
+		<German>
+			<Text>US-Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_ARMENIA</Tag>
+		<English>Shock Troop (Armenia)</English>
+		<German>
+			<Text>Armenischer Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_AUSTRIA</Tag>
+		<English>Shock Troop (K.u.K)</English>
+		<German>
+			<Text>K.u.k.-Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_HUNGARY</Tag>
+		<English>Shock Troop (Nemzeti Hadsereg)</English>
+		<German>
+			<Text>Honved-Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_ENGLAND</Tag>
+		<English>Shock Troop (Assault Pioneer)</English>
+		<German>
+			<Text>Englischer Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_EUROPE</Tag>
+		<English>Shock Troop (Europe)</English>
+		<German>
+			<Text>Europ&#228;ischer Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_FRANCE</Tag>
+		<English>Shock Troop (Troupes d'Assaut)</English>
+		<German>
+			<Text>Franz&#246;sischer Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_GERMAN</Tag>
+		<English>Shock Troop (Stosstruppen)</English>
+		<German>
+			<Text>Deutscher Sturmtruppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_OTTOMAN</Tag>
+		<English>Shock Troop (Ottoman)</English>
+		<German>
+			<Text>Osmanischer Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_POLAND</Tag>
+		<English>Shock Troop (Blue Army)</English>
+		<German>
+			<Text>Polonischer Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_ROME</Tag>
+		<English>Shock Troop (Ardito)</English>
+		<German>
+			<Text>Italienischer Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHOCK_TROOPS_RUSSIA</Tag>
+		<English>Shock Troop (Shturmovik)</English>
+		<German>
+			<Text>Russischer Sto&#223;truppier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_SHOCK -->
+  <!-- BEGIN: UNITCLASS_MARINE -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_AFRICA</Tag>
+		<English>Marine (African)</English>
+		<German>
+			<Text>Afrikanischersoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_AMERICA</Tag>
+		<English>Assault Infantry</English>
+		<German>
+			<Text>US-Sturminfanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_ARMENIA</Tag>
+		<English>Marine (Black Sea)</English>
+		<German>
+			<Text>Schwarzmeer-Marine</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_AUSTRONESIA</Tag>
+		<English>Marine (Malay)</English>
+		<German>
+			<Text>Malaysischersoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_EAST_BLOC</Tag>
+		<English>Marine (Latin American)</English>
+		<German>
+			<Text>Lateinamerikanische</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_ENGLAND</Tag>
+		<English>Marine (Royal Commando)</English>
+		<German>
+			<Text>Royal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_FRANCE</Tag>
+		<English>Marine (FFL Marching Regiment)</English>
+		<German>
+			<Text>FFL-Marschregiment</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_GERMAN</Tag>
+		<English>Marine (Spezialisierte Einsatzkr&#228;fte)</English>
+		<German>
+			<Text>SEK M-Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_HUNGARY</Tag>
+		<English>Marine (Tenger&#233;sz)</English>
+		<German>
+			<Text>Ungarischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_INDIA</Tag>
+		<English>Marine (MARCOS)</English>
+		<German>
+			<Text>MARCOS-Marine</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_JAPAN</Tag>
+		<English>Marine (Rikusentai)</English>
+		<German>
+			<Text>Rikusentai-Marine</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_MIDEAST</Tag>
+		<English>Marine (Desert)</English>
+		<German>
+			<Text>W&#252;stenmarinesoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_OTTOMAN</Tag>
+		<English>Marine (Amfibi Piyade)</English>
+		<German>
+			<Text>Amphibischer-Brigadist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_PERSIA</Tag>
+		<English>Marine (Asian)</English>
+		<German>
+			<Text>Asiatischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_POLAND</Tag>
+		<English>Marine (Niebieskie Berety)</English>
+		<German>
+			<Text>Polnischer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_ROME</Tag>
+		<English>Marine (San Marco Regiment)</English>
+		<German>
+			<Text>Lagunari</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_RUSSIA</Tag>
+		<English>Marine (Naval Infantry)</English>
+		<German>
+			<Text>Russischerinfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_SOUTH_CHINA</Tag>
+		<English>Marine (Expeditionary Force)</English>
+		<German>
+			<Text>Expeditionstruppe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_SPAIN</Tag>
+		<English>Marine (Infanteria de Marina)</English>
+		<German>
+			<Text>Spanischerinfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_UKRAINE</Tag>
+		<English>Marine (Ukrainian Naval Infantry)</English>
+		<German>
+			<Text>Ukrainischerinfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_VIKING</Tag>
+		<English>Marine (Kustj&#228;garna)</English>
+		<German>
+			<Text>Kustj&#228;garna</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE_WESTERN</Tag>
+		<English>Marine (Western)</English>
+		<German>
+			<Text>Westlichersoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_MARINE -->
+  	<!-- BEGIN: UNITCLASS_IRREGULARS -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS</Tag>
+		<English>Irregulars</English>
+		<German>
+			<Text>Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_RUSSIA</Tag>
+		<English>Irregulars (People's Militia)</English>
+		<German>
+			<Text>Russischer Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_MIDEAST</Tag>
+		<English>Irregulars (Ikhwan)</English>
+		<German>
+			<Text>Ichwan-Gewehrschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_JAPAN</Tag>
+		<English>Irregulars (Teppo Peasants)</English>
+		<German>
+			<Text>Teppô-Bauer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_AUSTRONESIA</Tag>
+		<English>Irregulars (Banten)</English>
+		<German>
+			<Text>Banten-Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_INCA</Tag>
+		<English>Irregulars (Andean)</English>
+		<German>
+			<Text>Anden-Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_ETHOPIA</Tag>
+		<English>Irregulars (Amharic)</English>
+		<German>
+			<Text>Amhara-Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_UKRAINE_VOLHYNIA</Tag>
+		<English>Irregulars (Golota)</English>
+		<German>
+			<Text>Golota</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_DRAVIDIAN</Tag>
+		<English>Irregulars (Polygar)</English>
+		<German>
+			<Text>Polygar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_INDIA</Tag>
+		<English>Irregulars (Princely State Levy)</English>
+		<German>
+			<Text>Fürstenstaatheer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_ARAWAK</Tag>
+		<English>Irregulars (Taino)</English>
+		<German>
+			<Text>Taino-Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_TUPI</Tag>
+		<English>Irregulars (Tupi)</English>
+		<German>
+			<Text>Tupi-Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_PATAGONIA</Tag>
+		<English>Irregulars (Tehuelche)</English>
+		<German>
+			<Text>Tehuelche-Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_DUTCH</Tag>
+		<English>Irregulars (Schutterij)</English>
+		<German>
+			<Text>Militie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_HISPANIC</Tag>
+		<English>Irregulars (Hispanic)</English>
+		<German>
+			<Text>Spanischer Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_POLYNESIA</Tag>
+		<English>Irregulars (Hawaiian)</English>
+		<German>
+			<Text>Hawaiischer Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_GERMAN</Tag>
+		<English>Irregulars (Landsturm)</English>
+		<German>
+			<Text>Landsturmsoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_MIDDLE_EAST</Tag>
+		<English>Irregulars (Bashi-Bazouk)</English>
+		<German>
+			<Text>Basi Bozuk</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_NATIVE_NORTH</Tag>
+		<English>Irregulars (Tribal Brave)</English>
+		<German>
+			<Text>Stammesheld</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_ALGONQUIN</Tag>
+		<English>Irregulars (Montagnais Brave)</English>
+		<German>
+			<Text>Montagnais-Held</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_APACHE</Tag>
+		<English>Irregulars (Thunder Brave)</English>
+		<German>
+			<Text>Donnerheld</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_IROQUOIS</Tag>
+		<English>Irregulars (Seneca Brave)</English>
+		<German>
+			<Text>Seneca-Held</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_CHEROKEE</Tag>
+		<English>Irregulars (Aniwaya Brave)</English>
+		<German>
+			<Text>Aniwaya-Held</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_SIOUX</Tag>
+		<English>Irregulars (Dakota Brave)</English>
+		<German>
+			<Text>Dakota-Held</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_ROME</Tag>
+		<English>Irregulars (Redshirt)</English>
+		<German>
+			<Text>Rothemden</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_AMERICA</Tag>
+		<English>Irregulars (Minuteman)</English>
+		<German>
+			<Text>Minuten-Mann</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_EUROPE</Tag>
+		<English>Irregulars (European)</English>
+		<German>
+			<Text>Europäischer Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_GREECE</Tag>
+		<English>Irregulars (Klepht)</English>
+		<German>
+			<Text>Klepht</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_AFRICA</Tag>
+		<English>Irregulars (African)</English>
+		<German>
+			<Text>Afrikanischer Partisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRREGULARS_BARBARIAN</Tag>
+		<English>Irregulars (Freedmen)</English>
+		<German>
+			<Text>Freigelassener</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_IRREGULARS -->
+		<!-- BEGIN: UNITCLASS_CONSCRIPT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT</Tag>
+		<English>Conscript</English>
+		<German>
+			<Text>Einberufener Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_ASIA</Tag>
+		<English>Conscript (Asia)</English>
+		<German>
+			<Text>Asiatischer einberufener Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_EGYPT</Tag>
+		<English>Conscript (Egypt)</English>
+		<German>
+			<Text>Ägyptischer einberufener Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_MIDDLE_EAST</Tag>
+		<English>Conscript (Arabic)</English>
+		<German>
+			<Text>Arabischer einberufener Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_OTTOMAN</Tag>
+		<English>Conscript (Ottoman)</English>
+		<German>
+			<Text>Osmanischer einberufener Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_NATIVE_SOUTH</Tag>
+		<English>Conscript (Native)</English>
+		<German>
+			<Text>Indigener einberufener Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_MESO_AMERICA</Tag>
+		<English>Conscript (Zapatista)</English>
+		<German>
+			<Text>Zapatista</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_MAYA</Tag>
+		<English>Conscript (Armed Peon)</English>
+		<German>
+			<Text>Bewaffneter Peon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_KHMER</Tag>
+		<English>Conscript (Khmer Rouge)</English>
+		<German>
+			<Text>Roter Khmer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_POLYNESIA</Tag>
+		<English>Conscript (Hawaiian)</English>
+		<German>
+			<Text>Hawaiischer einberufener Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_ROME</Tag>
+		<English>Conscript (Blackshirt)</English>
+		<German>
+			<Text>Schwarzhemd</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_GERMAN</Tag>
+		<English>Conscript (Volkssturm)</English>
+		<German>
+			<Text>Volkssturmsoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_ENGLAND</Tag>
+		<English>Conscript (Home Guard)</English>
+		<German>
+			<Text>Home Guard-Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GERMAN_WW1_RIFLEMAN</Tag>
+		<English>Conscript (Conscript)</English>
+		<German>
+			<Text>Deutscher einberufener Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_NATIVE_NORTH</Tag>
+		<English>Conscript (Tribal Warband)</English>
+		<German>
+			<Text>Stammeskriegsbandit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_ALGONQUIN</Tag>
+		<English>Conscript (Montagnais Warband)</English>
+		<German>
+			<Text>Montagnais-Kriegsbandit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_APACHE</Tag>
+		<English>Conscript (Chiricahua)</English>
+		<German>
+			<Text>Chiricahua</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_IROQUOIS</Tag>
+		<English>Conscript (Tuscarora Warband)</English>
+		<German>
+			<Text>Tuscarora-Kriegsbandit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_SIOUX</Tag>
+		<English>Conscript (Lakota Warband)</English>
+		<German>
+			<Text>Lakota-Kriegsbandit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_CHEROKEE</Tag>
+		<English>Conscript (Aniwaya Warband)</English>
+		<German>
+			<Text>Aniwaya-Kriegsbandit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_CHINA</Tag>
+		<English>Conscript (People's Liberation Army)</English>
+		<German>
+			<Text>Soldat der Volksbefreiungsarmee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_SOUTH_CHINA</Tag>
+		<English>Conscript (National Revolutionary Army)</English>
+		<German>
+			<Text>Nationalrevolutionare Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_AFRICAN</Tag>
+		<English>Conscript (Africa)</English>
+		<German>
+			<Text>Afrikanischer einberufener Soldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONSCRIPT_RUSSIA</Tag>
+		<English>Conscript (Prizyvnik)</English>
+		<German>
+			<Text>Einberufener Soldat der Roten Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_CONSCRIPT -->
+	<!-- BEGIN: UNITCLASS_PARAMILITARY -->
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_PARAMILITARY</Tag>
+		<English>Paramilitary</English>
+		<German>
+			<Text>Freikorp</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARAMILITARY_AFRICA</Tag>
+		<English>Paramilitary (African)</English>
+		<German>
+			<Text>Afrikanischer Freikorp</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARAMILITARY_EUROPE</Tag>
+		<English>Paramilitary (Western)</English>
+		<German>
+			<Text>Western-Freikorp</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARAMILITARY_NATIVE_NORTH</Tag>
+		<English>Paramilitary (Tribal)</English>
+		<German>
+			<Text>Stammespartisan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARAMILITARY_NATIVE_SOUTH</Tag>
+		<English>Paramilitary (Native)</English>
+		<German>
+			<Text>Indianischer Revulotion&#228;r</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARAMILITARY_PERSIA</Tag>
+		<English>Paramilitary (Pasdaran)</English>
+		<German>
+			<Text>Pasdaran-Freikorp</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_PARAMILITARY -->
+	<!-- BEGIN: UNITCLASS_FOREIGN_MUSKETMAN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOREIGN_MUSKETMAN</Tag>
+		<English>Foreign-Trained Arquebusier</English>
+		<German>
+			<Text>Im Ausland ausgebildeter Arkebusier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END: UNITCLASS_FOREIGN_MUSKETMAN -->
+	<!-- BEGIN: UNITCLASS_FOREIGN_RIFLEMAN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOREIGN_RIFLEMAN</Tag>
+		<English>Foreign-Trained Rifleman</English>
+		<German>
+			<Text>Im Ausland ausgebildeter Gewehrschütze</Text>
+			<Gender>male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_FOREIGN_RIFLEMAN -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOREIGN_INFANTRY</Tag>
+		<English>Foreign-Trained Infantry</English>
+		<German>
+			<Text>Im Ausland ausgebildeter Infanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOREIGN_MODERN_INFANTRY</Tag>
+		<English>Foreign-Trained National Guard</English>
+		<German>
+			<Text>Im Ausland ausgebildeter Nationalgardist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- BEGIN:   UNITCLASS_BAZOOKA -->	
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA</Tag>
+		<English>Anti-Tank Infantry </English>
+		<German>
+			<Text>Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_AFRICA</Tag>
+		<English>Anti-Tank Infantry (African)</English>
+		<German>
+			<Text>Afrikanischer Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_AMERICA</Tag>
+		<English>Anti-Tank Infantry (Bazooka)</English>
+		<German>
+			<Text>US-Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_ASIA</Tag>
+		<English>Anti-Tank Infantry (RPG)</English>
+		<German>
+			<Text>RPG-7-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_AZTEC</Tag>
+		<English>Anti-Tank Infantry (Mexican)</English>
+		<German>
+			<Text>Maxikanischer Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_CHINA</Tag>
+		<English>Anti-Tank Infantry (PLA)</English>
+		<German>
+			<Text>Bazooka-Sch&#252;tze der Volksbefreiungsarmee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_ENGLAND</Tag>
+		<English>Anti-Tank Infantry (UK)</English>
+		<German>
+			<Text>Englischer Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_FINLAND</Tag>
+		<English>Anti-Tank Infantry (Finnish)</English>
+		<German>
+			<Text>Finnischer Panzerfaust-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_FRANCE</Tag>
+		<English>Anti-Tank Infantry (French)</English>
+		<German>
+			<Text>Franz&#246;sischer Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_GERMANY</Tag>
+		<English>Anti-Tank Infantry (Panzerschreck)</English>
+		<German>
+			<Text>Deutscher Panzerfaustsch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_INDIA</Tag>
+		<English>Anti-Tank Infantry (India)</English>
+		<German>
+			<Text>Indischer Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_ISRAEL</Tag>
+		<English>Anti-Tank Infantry (IDF)</English>
+		<German>
+			<Text>IDF-Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_JAPAN</Tag>
+		<English>Anti-Tank Infantry (Hebi Hohei)</English>
+		<German>
+			<Text>Japanischer Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_MIDDLE_EAST</Tag>
+		<English>Anti-Tank Infantry (Middle Eastern)</English>
+		<German>
+			<Text>Mittel&#246;stlicher RPG-7-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_OTTOMAN</Tag>
+		<English>Anti-Tank Infantry (Agir Piyade)</English>
+		<German>
+			<Text>Osmanischer Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_PERSIA</Tag>
+		<English>Anti-Tank Infantry (Iranian)</English>
+		<German>
+			<Text>Pahlavi-RPG-7-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_ROME</Tag>
+		<English>Anti-Tank Infantry (Granatieri)</English>
+		<German>
+			<Text>Italienischer Panzerfaustsch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_RUSSIA</Tag>
+		<English>Anti-Tank Infantry (RPG-7)</English>
+		<German>
+			<Text>Russischer RPG-7-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_SOUTH_CHINA</Tag>
+		<English>Anti-Tank Infantry (Kuomingtang)</English>
+		<German>
+			<Text>Kuomintang-Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_TRANSOXIANA</Tag>
+		<English>Anti-Tank Infantry (Central Asian)</English>
+		<German>
+			<Text>Zentralasiatischer Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BAZOOKA_VIKING</Tag>
+		<English>Anti-Tank Infantry (Pansarskytte)</English>
+		<German>
+			<Text>Nordischer Bazooka-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_BAZOOKA -->	
+  <!-- BEGIN:   UNITCLASS_ATGM -->	
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY</Tag>
+		<English>Anti-Tank Missile</English>
+		<German>
+			<Text>Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_AFRICA</Tag>
+		<English>Anti-Tank Missile (African)</English>
+		<German>
+			<Text>Afrikanischer Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_AMERICA</Tag>
+		<English>Anti-Tank Missile (FGM-148 Javelin)</English>
+		<German>
+			<Text>FGM-148-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_ARABIA</Tag>
+		<English>Anti-Tank Missile (M47 Dragon)</English>
+		<German>
+			<Text>M47 Dragon-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_ARMENIA</Tag>
+		<English>Anti-Tank Missile (9K111 Fagot)</English>
+		<German>
+			<Text>9K111 Fagot-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_CHINA</Tag>
+		<English>Anti-Tank Missile (HJ-12)</English>
+		<German>
+			<Text>Hongjian-12-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_EGYPT</Tag>
+		<English>Anti-Tank Missile (AHRAM)</English>
+		<German>
+			<Text>&#196;gyptischer Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_ENGLAND</Tag>
+		<English>Anti-Tank Missile (MBT LAW)</English>
+		<German>
+			<Text>MBT LAW-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_FRANCE</Tag>
+		<English>Anti-Tank Missile (APILAS)</English>
+		<German>
+			<Text>APILAS-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_HUNGARY</Tag>
+		<English>Anti-Tank Missile (AT-13 Saxhorn-2)</English>
+		<German>
+			<Text>AT-13 Saxhorn-2-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_INDIA</Tag>
+		<English>Anti-Tank Missile (B-300 Shipon)</English>
+		<German>
+			<Text>B-300 Shipon-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_JAPAN</Tag>
+		<English>Anti-Tank Missile (Nissan/IHI Aerospace 110mm LAM)</English>
+		<German>
+			<Text>Panzerfaust 3-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_MALI</Tag>
+		<English>Anti-Tank Missile (AT-3 Sagger)</English>
+		<German>
+			<Text>AT-3 Sagger-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_MIDDLE_EAST</Tag>
+		<English>Anti-Tank Missile (Anti-Tank Missile (Middle East))</English>
+		<German>
+			<Text>Mittel&#246;stlicher Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_MONGOL</Tag>
+		<English>Anti-Tank Missile (Mongol)</English>
+		<German>
+			<Text>Mongolischer Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_OTTOMAN</Tag>
+		<English>Anti-Tank Missile (BGM-71 TOW)</English>
+		<German>
+			<Text>BGM-71 TOW-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_PERSIA</Tag>
+		<English>Anti-Tank Missile (Dehlaviyeh)</English>
+		<German>
+			<Text>Dehlaviyeh-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_POLAND</Tag>
+		<English>Anti-Tank Missile (M2CG Carl Gustav)</English>
+		<German>
+			<Text>FFV Carl Gustaf-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_ROME</Tag>
+		<English>Anti-Tank Missile (Spike MR/LR)</English>
+		<German>
+			<Text>Spike MR/LR-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_RUSSIA</Tag>
+		<English>Anti-Tank Missile (9M133 Kornet)</English>
+		<German>
+			<Text>9M133 Kornet-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_SPAIN</Tag>
+		<English>Anti-Tank Missile (Alcotan-100)</English>
+		<German>
+			<Text>Alcot&#225;n-100-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_TRANSOXIANA</Tag>
+		<English>Anti-Tank Missile (RPG-29)</English>
+		<German>
+			<Text>RPG-29-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_UKRAINE</Tag>
+		<English>Anti-Tank Missile (RK-3 Corsar)</English>
+		<German>
+			<Text>RK-3 Corsar-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_VIKING</Tag>
+		<English>Anti-Tank Missile (RBS 56 BILL)</English>
+		<German>
+			<Text>RBS 56 BILL-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY_ZULU</Tag>
+		<English>Anti-Tank Missile (Denel FT5)</English>
+		<German>
+			<Text>Denel FT5-Panzerj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_ATGM -->	
+  <!-- BEGIN:   UNITCLASS_EARLY_MACHINE_GUN -->	
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY</Tag>
+		<English>Machine Gun</English>
+		<German>
+			<Text>Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_AFRICAN</Tag>
+		<English>Machine Gun (Africa)</English>
+		<German>
+			<Text>Afrikanischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_ARMENIA</Tag>
+		<English>Machine Gun (Armenia)</English>
+		<German>
+			<Text>Armenischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_DRAVIDA</Tag>
+		<English>Machine Gun (Madras)</English>
+		<German>
+			<Text>Madras Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_INDIA</Tag>
+		<English>Machine Gun (Sepoy)</English>
+		<German>
+			<Text>Sepoy Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_AUSTRIA</Tag>
+		<English>Machine Gun (K.u.K)</English>
+		<German>
+			<Text>K.u.k.-Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_CARTHAGE</Tag>
+		<English>Machine Gun (Maghrebi)</English>
+		<German>
+			<Text>Maghrebi-Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_CHINA</Tag>
+		<English>Machine Gun (China)</English>
+		<German>
+			<Text>Chinesischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_ENGLAND</Tag>
+		<English>Machine Gun (Commonwealth)</English>
+		<German>
+			<Text>Commonwealth-Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_EUROPEAN</Tag>
+		<English>Machine Gun (Europe)</English>
+		<German>
+			<Text>Europ&#228;ischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_FRANCE</Tag>
+		<English>Machine Gun (French)</English>
+		<German>
+			<Text>Franz&#246;sischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_GERMANY</Tag>
+		<English>Machine Gun (Germany)</English>
+		<German>
+			<Text>Deutscher Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_GREECE</Tag>
+		<English>Machine Gun  (Greece)</English>
+		<German>
+			<Text>Griechischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_JAPAN</Tag>
+		<English>Machine Gun (IJA)</English>
+		<German>
+			<Text>Gatling-Sch&#252;tze der Kaiserlich Japanischen Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_MALI</Tag>
+		<English>Machine Gun (Senegalese)</English>
+		<German>
+			<Text>Senegalesischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_MIDDLE_EAST</Tag>
+		<English>Machine Gun (Middle Eastern)</English>
+		<German>
+			<Text>Mittel&#246;stlicher MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_MONGOL</Tag>
+		<English>Machine Gun (Mongolia)</English>
+		<German>
+			<Text>Mongolischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_OTTOMAN</Tag>
+		<English>Machine Gun (Ottoman)</English>
+		<German>
+			<Text>Osmanischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_POLAND</Tag>
+		<English>Machine Gun (Poland)</English>
+		<German>
+			<Text>Polnischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_ROME</Tag>
+		<English>Machine Gun (Italy)</English>
+		<German>
+			<Text>Italienischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_RUSSIA</Tag>
+		<English>Machine Gun (Russia)</English>
+		<German>
+			<Text>Russischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_UKRAINE</Tag>
+		<English>Machine Gun (Ukraine)</English>
+		<German>
+			<Text>Ukrainischer Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EARLY_USA</Tag>
+		<English>Machine Gun (US)</English>
+		<German>
+			<Text>US-Gatling-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_EARLY_MACHINE_GUN -->	
+  <!-- BEGIN:   UNITCLASS_MACHINE_GUN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN</Tag>
+		<English>Heavy Machine Gun</English>
+		<German>
+			<Text>Schweres MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_AFRICA</Tag>
+		<English>Heavy Machine Gun (African)</English>
+		<German>
+			<Text>Afrikanischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_AMERICA</Tag>
+		<English>Heavy Machine Gun (US)</English>
+		<German>
+			<Text>US-MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_ARMENIA</Tag>
+		<English>Heavy Machine Gun (Armenia)</English>
+		<German>
+			<Text>Armenischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_ASIAN</Tag>
+		<English>Heavy Machine Gun (ROK)</English>
+		<German>
+			<Text>Asiatischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_AUSTRONESIA</Tag>
+		<English>Heavy Machine Gun (Indonesia)</English>
+		<German>
+			<Text>Indonesischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_AZTEC</Tag>
+		<English>Heavy Machine Gun (Mexico)</English>
+		<German>
+			<Text>Mexikanischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_BABYLON</Tag>
+		<English>Heavy Machine Gun (Iraq)</English>
+		<German>
+			<Text>Irakischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_BRAZIL</Tag>
+		<English>Heavy Machine Gun (Brazil)</English>
+		<German>
+			<Text>Brasilianischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_CHINA</Tag>
+		<English>Heavy Machine Gun (PLA)</English>
+		<German>
+			<Text>Chinesischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_DRAVIDIAN</Tag>
+		<English>Heavy Machine Gun (Madras)</English>
+		<German>
+			<Text>Madras-MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_DUTCH</Tag>
+		<English>Heavy Machine Gun (Dutch)</English>
+		<German>
+			<Text>Niederl&#228;ndischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_ENGLAND</Tag>
+		<English>Heavy Machine Gun (British)</English>
+		<German>
+			<Text>Britischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_EUROPEAN</Tag>
+		<English>Heavy Machine Gun (Europe)</English>
+		<German>
+			<Text>Europ&#228;ischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_FINLAND</Tag>
+		<English>Heavy Machine Gun (Suomi)</English>
+		<German>
+			<Text>Finnischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_FRANCE</Tag>
+		<English>Heavy Machine Gun (French)</English>
+		<German>
+			<Text>Mitrailleuse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_GERMAN</Tag>
+		<English>Heavy Machine Gun (Germany)</English>
+		<German>
+			<Text>Deutscher MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_HUNGARY</Tag>
+		<English>Heavy Machine Gun (G&#233;ppuska)</English>
+		<German>
+			<Text>Ungarischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_INDIA</Tag>
+		<English>Heavy Machine Gun (Bengali)</English>
+		<German>
+			<Text>Bengalischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_JAPAN</Tag>
+		<English>Heavy Machine Gun (IJA)</English>
+		<German>
+			<Text>MG-Sch&#252;tze der Kaiserlich Japanischen Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_KHMER</Tag>
+		<English>Heavy Machine Gun (Cambodia)</English>
+		<German>
+			<Text>Kambodschanischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_MIDDLE_EAST</Tag>
+		<English>Heavy Machine Gun (Middle Eastern)</English>
+		<German>
+			<Text>Mittel&#246;stlicher MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_MONGOL</Tag>
+		<English>Heavy Machine Gun (Steppe)</English>
+		<German>
+			<Text>Mongolischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_OTTOMAN</Tag>
+		<English>Heavy Machine Gun (Turkey)</English>
+		<German>
+			<Text>T&#252;rkischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_PERSIA</Tag>
+		<English>Heavy Machine Gun (Iran)</English>
+		<German>
+			<Text>Persischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_PORTUGAL</Tag>
+		<English>Heavy Machine Gun (Portuguese)</English>
+		<German>
+			<Text>Portugiesischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_ROME</Tag>
+		<English>Heavy Machine Gun (Italy)</English>
+		<German>
+			<Text>Italienischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_RUSSIA</Tag>
+		<English>Heavy Machine Gun (Soviet)</English>
+		<German>
+			<Text>Russischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_SOUTH_CHINA</Tag>
+		<English>Heavy Machine Gun (Kuomingtang)</English>
+		<German>
+			<Text>S&#252;dchinesischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_SPAIN</Tag>
+		<English>Heavy Machine Gun (Spanish)</English>
+		<German>
+			<Text>Spanischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_TRANSOXIANA</Tag>
+		<English>Heavy Machine Gun (Central Asian)</English>
+		<German>
+			<Text>Transoxianischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN_VIKING</Tag>
+		<English>Heavy Machine Gun (Kulspruta)</English>
+		<German>
+			<Text>Nordischer MG-Sch&#252;tze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>  
+  <!-- END:   UNITCLASS_MACHINE_GUN -->	
+  <!-- BEGIN:   UNITCLASS_POINT_DEFENSE -->	
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMBAT_ENGINEER</Tag>
+		<English>Point-Defence Infantry</English>
+		<German>
+			<Text>Pionier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMBAT_ENGINEER_AFRICAN</Tag>
+		<English>Point-Defence Infantry (African)</English>
+		<German>
+			<Text>Afrikanischer Flugabwehrsoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMBAT_ENGINEER_AMERICA</Tag>
+		<English>Point-Defence Infantry (USA)</English>
+		<German>
+			<Text>Flugabwehrsoldat (USA)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMBAT_ENGINEER_EAST_BLOC</Tag>
+		<English>Point-Defence Infantry (Eastern)</English>
+		<German>
+			<Text>Ostblock-Flugabwehrsoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMBAT_ENGINEER_ENGLAND</Tag>
+		<English>Point-Defence Infantry (UK)</English>
+		<German>
+			<Text>Flugabwehrsoldat (UK)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMBAT_ENGINEER_FRANCE</Tag>
+		<English>Point-Defence Infantry (French)</English>
+		<German>
+			<Text>Flugabwehrsoldat (Frankreich)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMBAT_ENGINEER_RUSSIA</Tag>
+		<English>Point-Defence Infantry (Russia)</English>
+		<German>
+			<Text>Flugabwehrsoldat (Russland)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMBAT_ENGINEER_WEST_BLOC</Tag>
+		<English>Point-Defence Infantry (Western)</English>
+		<German>
+			<Text>Westblock-Flugabwehrsoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_POINT_DEFENSE -->	
+    <!-- BEGIN:   UNITCLASS_PARATROOPER -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_AFRICA</Tag>
+		<English>Paratrooper (African)</English>
+		<German>
+			<Text>Afrikanischer Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_AMERICA</Tag>
+		<English>Paratrooper (Airborne Division)</English>
+		<German>
+			<Text>US-Airborne-Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_JAPAN</Tag>
+		<English>Paratrooper (Rikusentai)</English>
+		<German>
+			<Text>Rikusentai-Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_ENGLAND</Tag>
+		<English>Paratrooper (Air Assault)</English>
+		<German>
+			<Text>Englischer Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_FINLAND</Tag>
+		<English>Paratrooper (Jaeger)</English>
+		<German>
+			<Text>Finnischer Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_FRANCE</Tag>
+		<English>Paratrooper (Brigade Parachutiste)</English>
+		<German>
+			<Text>Franz&#246;sischer Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_GERMAN</Tag>
+		<English>Paratrooper (Fallschirmj&#228;ger)</English>
+		<German>
+			<Text>Deutscher Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_ISRAEL</Tag>
+		<English>Paratrooper (Tsahal)</English>
+		<German>
+			<Text>Tsahal-Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_ROME</Tag>
+		<English>Paratrooper (Folgore)</English>
+		<German>
+			<Text>Folgore-Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_RUSSIA</Tag>
+		<English>Paratrooper (Airborne Assault Troops)</English>
+		<German>
+			<Text>VDV-Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_SPAIN</Tag>
+		<English>Paratrooper (Brigada Paracaidista)</English>
+		<German>
+			<Text>Spanischer Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_TRANSOXIANA</Tag>
+		<English>Paratrooper (Airborne Troops)</English>
+		<German>
+			<Text>Zentralasiatischer Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_VIKING</Tag>
+		<English>Paratrooper (Fallsk&#228;rmsj&#228;garna)</English>
+		<German>
+			<Text>Fallsk&#228;rmsj&#228;garna</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER_ZULU</Tag>
+		<English>Paratrooper (Parabat)</English>
+		<German>
+			<Text>S&#252;dafrikanischer Fallschirmj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+    <!-- END:   UNITCLASS_PARATROOPER -->
+</Civ4GameText>

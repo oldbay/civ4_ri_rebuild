@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civ4DomainInfo - This structure describes each domain type. -->
+<Civ4DomainInfos xmlns="x-schema:CIV4GameInfoSchema.xml">
+  <DomainInfos>
+    <DomainInfo>
+      <Type>DOMAIN_SEA</Type>
+      <Description>TXT_KEY_DOMAIN_SEA</Description>
+    </DomainInfo>
+    <DomainInfo>
+      <Type>DOMAIN_AIR</Type>
+      <Description>TXT_KEY_DOMAIN_AIR</Description>
+    </DomainInfo>
+	<DomainInfo>
+      <Type>DOMAIN_LAND</Type>
+      <Description>TXT_KEY_DOMAIN_LAND</Description>
+    </DomainInfo>
+    <DomainInfo>
+      <Type>DOMAIN_IMMOBILE</Type>
+      <Description>TXT_KEY_DOMAIN_IMMOBILE</Description>
+    </DomainInfo>
+  </DomainInfos>
+</Civ4DomainInfos>

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CvGameCoreDLL.2012", "CvGameCoreDLL.2012.vcxproj", "{DBDBB80A-7991-418E-A212-E61CCAD12A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Assert|Win32 = Assert|Win32
+		Assert-fast|Win32 = Assert-fast|Win32
+		Debug|Win32 = Debug|Win32
+		Profile|Win32 = Profile|Win32
+		Release Opti|Win32 = Release Opti|Win32
+		Release|Win32 = Release|Win32
+		Release-fast|Win32 = Release-fast|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Assert|Win32.ActiveCfg = Assert|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Assert|Win32.Build.0 = Assert|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Assert-fast|Win32.ActiveCfg = Assert-fast|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Assert-fast|Win32.Build.0 = Assert-fast|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Debug|Win32.Build.0 = Debug|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Profile|Win32.ActiveCfg = Profile|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Profile|Win32.Build.0 = Profile|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Release Opti|Win32.ActiveCfg = Release Opti|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Release Opti|Win32.Build.0 = Release Opti|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Release|Win32.ActiveCfg = Release|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Release|Win32.Build.0 = Release|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Release-fast|Win32.ActiveCfg = Release-fast|Win32
+		{DBDBB80A-7991-418E-A212-E61CCAD12A4E}.Release-fast|Win32.Build.0 = Release-fast|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

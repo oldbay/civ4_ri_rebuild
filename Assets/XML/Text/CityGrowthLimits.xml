@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- MOD - START - City Growth Limits -->
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_FOOD_GROWTH_LIMITED</Tag>
+		<English>[NEWLINE]%d1 [ICON_FOOD]/Turn[NEWLINE]Growth: %d2/%d3 [ICON_FOOD] (Restrained)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_FOOD_GROWTH_LIMITED_TURNS</Tag>
+		<English>[NEWLINE]%d1 [ICON_FOOD]/Turn[NEWLINE]Growth: %d2/%d3 [ICON_FOOD] (%d4 [NUM4:Turn:Turns], Restrained)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>INTERFACE_CITY_GROWTH_LIMITED</Tag>
+		<English>Growth Restrained</English>
+	</TEXT>
+	<TEXT>
+		<Tag>INTERFACE_CITY_GROWTH_LIMITED_TURNS</Tag>
+		<English>Growth Restrained (%d1 [NUM1:Turn:Turns])</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EMPHASIZE_AVOID_UNHAPPY</Tag>
+		<English>Avoid Unhappiness</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EMPHASIZE_AVOID_UNHAPPY_HELP</Tag>
+		<English>Typically the governor will try to meet your demands while allowing unhappiness to occur in the city. Select this option to indicate that unhappiness should be avoided.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EMPHASIZE_AVOID_UNHEALTH</Tag>
+		<English>Avoid Unhealthiness</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EMPHASIZE_AVOID_UNHEALTH_HELP</Tag>
+		<English>Typically the governor will try to meet your demands while allowing unhealthiness to occur in the city. Select this option to indicate that unhealthiness should be avoided.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EMPHASIZE_AVOID_EPIDEMICS</Tag>
+		<English>Avoid Epidemics</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EMPHASIZE_AVOID_EPIDEMICS_HELP</Tag>
+		<English>Typically the governor will try to meet your demands while allowing epidemics to occur in the city. Select this option to indicate that epidemic probabilities greater than 5 percent should be avoided.</English>
+	</TEXT>
+	<!-- MOD - END - City Growth Limits -->
+</Civ4GameText>

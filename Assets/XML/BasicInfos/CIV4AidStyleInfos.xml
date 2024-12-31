@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Basic Infos -->
+<Civ4AidStyleInfos xmlns="x-schema:CIV4BasicInfoSchema.xml">
+	<!-- MOD - START - Aid -->
+	<AidStyleInfos>
+		<!--Changes must be reflected in CvEnums.h-->
+		<AidStyleInfo>
+			<Type>AIDSTYLE_FIXED</Type>
+			<Description>TXT_KEY_AIDSTYLE_FIXED</Description>
+		</AidStyleInfo>
+		<AidStyleInfo>
+			<Type>AIDSTYLE_RELATIVE_STRENGTH</Type>
+			<Description>TXT_KEY_AIDSTYLE_RELATIVE_STRENGTH</Description>
+		</AidStyleInfo>
+	</AidStyleInfos>
+	<!-- MOD - END - Aid -->
+</Civ4AidStyleInfos>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_START_REVOLUTION</Tag>
+		<English>An uprising has occurred in %s1! The rebels proclaim independence as %s2.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_START_REVOLUTION_OLD</Tag>
+		<English>An uprising has occurred in %s1! The rebels rejoin %s2.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_JOIN_REVOLUTION</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]%s1 has joined in the revolution![COLOR_REVERT]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REVOLUTION_WATCH</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Revolution Tracker[COLOR_REVERT][NEWLINE]Tracks Revolution Counter of Cities</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REVOLUTION_HEADER</Tag>
+		<English>REVOLUTION TRACKER</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REVOLUTION_TOTAL</Tag>
+		<English>Total</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REVOLUTION_ADJUSTED</Tag>
+		<English>Adjusted</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REVOLUTION_CIVIC_HELP</Tag>
+		<English>Separatism</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REVOLUTION_COUNTER</Tag>
+		<English>Separatism: %d1%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REVOLUTION_COUNTER</Tag>
+		<English>Separatism: %d1%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SEPARATISM_GLOBAL</Tag>
+		<English>Global separatism modifier: +%d1%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SEPARATISM_GLOBAL_NEG</Tag>
+		<English>Global separatism modifier: %d1%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SEPARATISM_GLOBAL_DOMINATION</Tag>
+		<English>World domination (your score is higher than anybode else's): +%d1%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SEPARATISM_GLOBAL_MILITARISM</Tag>
+		<English>Militarism (your military power is far stronger than anybody else's): +%d1%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SEPARATISM_GLOBAL_WE</Tag>
+		<English>War Weariness: +%d1%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SEPARATISM_GLOBAL_EOH</Tag>
+		<English>Resistance is useless (one player is at least 50% ahead of others, and the number of independent players dropped below half the starting number): %d1%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SEPARATISM_GLOBAL_EOH_OTHER</Tag>
+		<English>United against external threat (one player is at least 50% ahead of others, and the number of independent players dropped below half the starting number): %d1%</English>
+	</TEXT>
+</Civ4GameText>

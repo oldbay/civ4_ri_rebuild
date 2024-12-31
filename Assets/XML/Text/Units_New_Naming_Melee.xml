@@ -1,0 +1,4478 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- BEGIN: UNITCLASS_WARRIOR -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_ASIAN</Tag>
+		<English>Warrior (Asian)</English>
+		<German>
+			<Text>Asiatischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_FILIPINO</Tag>
+		<English>Warrior (Ifugao)</English>
+		<German>
+			<Text>Ifugao-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NORDIC_WARRIOR</Tag>
+		<English>Warrior (Nordic)</English>
+		<German>
+			<Text>Nordischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_GERMAN</Tag>
+		<English>Warrior (Germanic)</English>
+		<German>
+			<Text>Germanischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_TURK</Tag>
+		<English>Warrior (Turkic)</English>
+		<German>
+			<Text>T&#252;rkischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_CELT</Tag>
+		<English>Warrior (Neitos)</English>
+		<German>
+			<Text>Neitos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HELLENISTIC_WARRIOR</Tag>
+		<English>Warrior (Mediterranean)</English>
+		<German>
+			<Text>Mittelmeer-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_HINDU</Tag>
+		<English>Warrior (Harappan)</English>
+		<German>
+			<Text>Harappa-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_DRAVIDIAN</Tag>
+		<English>Warrior (Tamil)</English>
+		<German>
+			<Text>Tamilischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NATIVE_WARRIOR</Tag>
+		<English>Warrior (Proto-Nahuatl)</English>
+		<German>
+			<Text>Nahuatlischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZULU_WARRIOR</Tag>
+		<English>Warrior (Bantu)</English>
+		<German>
+			<Text>Bantu-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MALI_WARRIOR</Tag>
+		<English>Warrior (Manden)</English>
+		<German>
+			<Text>Manden-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PERSIAN_WARRIOR</Tag>
+		<English>Warrior (Hillman)</English>
+		<German>
+			<Text>Medo-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARABIAN_WARRIOR</Tag>
+		<English>Warrior (Semitic)</English>
+		<German>
+			<Text>Semitischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MONGOL_WARRIOR</Tag>
+		<English>Warrior (Altaic)</English>
+		<German>
+			<Text>Altaischeer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_NATIVE_NORTH</Tag>
+		<English>Warrior (Tribal)</English>
+		<German>
+			<Text>Stammeskrieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_ALGONQUIN</Tag>
+		<English>Warrior (Mohican)</English>
+		<German>
+			<Text>Mahican-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_APACHE</Tag>
+		<English>Warrior (Navajo)</English>
+		<German>
+			<Text>Navajo-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_ABORIGINE</Tag>
+		<English>Warrior (Aborigine)</English>
+		<German>
+			<Text>Aborigine-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_DUTCH</Tag>
+		<English>Warrior (Belgae Neitos)</English>
+		<German>
+			<Text>Belgae Neitos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_HUNGARY</Tag>
+		<English>Warrior (Onogur Champion)</English>
+		<German>
+			<Text>Onogur-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_HUN</Tag>
+		<English>Warrior (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_BABYLON</Tag>
+		<English>Warrior (Old Babylonian)</English>
+		<German>
+			<Text>Pal&#228;obabylonischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_NATIVE_SOUTH</Tag>
+		<English>Warrior (Native)</English>
+		<German>
+			<Text>Indigener Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAYA_WARRIOR</Tag>
+		<English>Warrior (Mayapan)</English>
+		<German>
+			<Text>Mayapanischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_BLACK_AFRICA</Tag>
+		<English>Warrior (Cushitic)</English>
+		<German>
+			<Text>Afrikanischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_AUSTRONESIA</Tag>
+		<English>Warrior (Sunda)</English>
+		<German>
+			<Text>Sunda-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_SIBERIA</Tag>
+		<English>Warrior (Proto-Siberian)</English>
+		<German>
+			<Text>Proto-Siberischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_SIOUX</Tag>
+		<English>Warrior (Crow)</English>
+		<German>
+			<Text>Crow-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_TUPI</Tag>
+		<English>Warrior (Tupi)</English>
+		<German>
+			<Text>Tupi-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_INCA</Tag>
+		<English>Warrior (Andean)</English>
+		<German>
+			<Text>Andenkrieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_BARBARIAN</Tag>
+		<English>Warrior (Savage)</English>
+		<German>
+			<Text>Wilder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARRIOR_POLYNESIA</Tag>
+		<English>Warrior (Melanesian)</English>
+		<German>
+			<Text>Melanesischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EGYPTIAN_WARRIOR</Tag>
+		<English>Warrior (Kemet)</English>
+		<German>
+			<Text>Kemet-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FAREAST_WARRIOR</Tag>
+		<English>Warrior (Asian)</English>
+		<German>
+			<Text>Asiatischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_MILITIA -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AZTEC_MILITIA</Tag>
+		<English>Militia (Cuatopilli)</English>
+		<German>
+			<Text>Cuatopilli</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_FILIPINO</Tag>
+		<English>Militia (Ifugao)</English>
+		<German>
+			<Text>Ifugao-Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MONGOL_MILITIA</Tag>
+		<English>Militia (Steppe)</English>
+		<German>
+			<Text>Steppenmiliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_ABORIGINE</Tag>
+		<English>Militia (Aborigine)</English>
+		<German>
+			<Text>Aborigine-Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_AFRICAN</Tag>
+		<English>Militia (African)</English>
+		<German>
+			<Text>Afrikanische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_ARAB</Tag>
+		<English>Militia (Semitic)</English>
+		<German>
+			<Text>Semitische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_ARAWAK</Tag>
+		<English>Militia (Taino Tribesmen)</English>
+		<German>
+			<Text>Taino-Stammesmiliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_ARMENIA</Tag>
+		<English>Militia (Kovkazi Nizagamartik)</English>
+		<German>
+			<Text>Kaukasische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_ASIAN</Tag>
+		<English>Militia (Armed Peasant)</English>
+		<German>
+			<Text>Asiatischer bewaffneter Bauer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_AUSTRONESIA</Tag>
+		<English>Militia (Sunda)</English>
+		<German>
+			<Text>Sunda-Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_BABYLON</Tag>
+		<English>Militia (Old Babylonian Spearman)</English>
+		<German>
+			<Text>Pal&#228;obabylonischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_BARBARIAN</Tag>
+		<English>Militia (Armed Savage)</English>
+		<German>
+			<Text>Bewaffneter Wilder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_BERBER</Tag>
+		<English>Militia (Garamantian)</English>
+		<German>
+			<Text>Garamantische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_CELT</Tag>
+		<English>Militia (Lugoae)</English>
+		<German>
+			<Text>Lugoae</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_DUTCH</Tag>
+		<English>Militia (Belgae Lugoae)</English>
+		<German>
+			<Text>Belgae Lugoae</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_EGYPTIAN</Tag>
+		<English>Militia (Old Kingdom)</English>
+		<German>
+			<Text>Miliz des alten Reiches</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_ENGLAND</Tag>
+		<English>Militia (Geoguth)</English>
+		<German>
+			<Text>Geoguth</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_EURASIAN</Tag>
+		<English>Militia</English>
+		<German>
+			<Text>Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_FINLAND</Tag>
+		<English>Militia (Kven)</English>
+		<German>
+			<Text>Kven Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_FRANCE</Tag>
+		<English>Militia (Frankish)</English>
+		<German>
+			<Text>Fr&#228;nkische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_GERMAN</Tag>
+		<English>Militia (Germanic Tribesman)</English>
+		<German>
+			<Text>Germanischer Stammesmann</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_INCA</Tag>
+		<English>Militia (Andean)</English>
+		<German>
+			<Text>Andenmiliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_INDIAN</Tag>
+		<English>Militia (Kauntikas)</English>
+		<German>
+			<Text>Kauntika</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_JAPAN</Tag>
+		<English>Militia (Armed Nomin)</English>
+		<German>
+			<Text>Japanischer bewaffneter Bauer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_KHMER</Tag>
+		<English>Militia (Khmer Surin)</English>
+		<German>
+			<Text>Surin-Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_LIBYAN</Tag>
+		<English>Militia (Libyan Spearman)</English>
+		<German>
+			<Text>Libyscher Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_LITHUANIA</Tag>
+		<English>Militia (Baltic)</English>
+		<German>
+			<Text>Baltische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_MAYA</Tag>
+		<English>Militia (Mayapan)</English>
+		<German>
+			<Text>Mayapanische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_MIDEAST</Tag>
+		<English>Militia (Mediterranean)</English>
+		<German>
+			<Text>Mittelmeer-Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_NATIVE</Tag>
+		<English>Militia (Native)</English>
+		<German>
+			<Text>Stammesmiliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_NUBIA</Tag>
+		<English>Militia (Kermanite)</English>
+		<German>
+			<Text>Nubische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_OTTOMAN</Tag>
+		<English>Militia (Uyghur)</English>
+		<German>
+			<Text>Uyghur-Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_PERSIAN</Tag>
+		<English>Militia (Mede)</English>
+		<German>
+			<Text>Persische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_PONTUS</Tag>
+		<English>Militia (Paphlagonian Levy)</English>
+		<German>
+			<Text>Paphlagonischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_SIBERIA</Tag>
+		<English>Militia (Ayat)</English>
+		<German>
+			<Text>Siberische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_SLAVIC</Tag>
+		<English>Militia (Slavic)</English>
+		<German>
+			<Text>Slavische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_TUPI</Tag>
+		<English>Militia (Tupi)</English>
+		<German>
+			<Text>Tupi-Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MILITIA_VIKING</Tag>
+		<English>Militia (Nordic)</English>
+		<German>
+			<Text>Nordische Miliz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_SPEARMAN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HOPLITE_ROME</Tag>
+		<English>Servian Hoplite</English>
+		<German>
+			<Text>Servian-Hoplit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_ABORIGINE</Tag>
+		<English>Spearman (Aborigine)</English>
+		<German>
+			<Text>Aborigine-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_FILIPINO</Tag>
+		<English>Spearman (Tagalog)</English>
+		<German>
+			<Text>Tagalog-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_ALGONQUIN</Tag>
+		<English>Spearman (Huron)</English>
+		<German>
+			<Text>Huron-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_APACHE</Tag>
+		<English>Spearman (Navajo)</English>
+		<German>
+			<Text>Navajo-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_ARABIAN</Tag>
+		<English>Spearman (Bedouin)</English>
+		<German>
+			<Text>Beduinischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_ARAWAK</Tag>
+		<English>Spearman (Taino)</English>
+		<German>
+			<Text>Taino-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_ARMENIA</Tag>
+		<English>Spearman (Rhamik Nizagamartik)</English>
+		<German>
+			<Text>Kaukasischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_AUSTRONESIA</Tag>
+		<English>Spearman (Malay)</English>
+		<German>
+			<Text>Malaiischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_AZTEC</Tag>
+		<English>Spearman (Tepoztopilli)</English>
+		<German>
+			<Text>Tepoztopilli-Warrior</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_BABYLON</Tag>
+		<English>Spearman (Neo Babylonian)</English>
+		<German>
+			<Text>Neubabylonischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_BANTU</Tag>
+		<English>Spearman (Luba)</English>
+		<German>
+			<Text>Luba-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_BARBARIAN</Tag>
+		<English>Spearman (Savage Fyrdman)</English>
+		<German>
+			<Text>Wilder Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_BERBER</Tag>
+		<English>Spearman (Garamantian)</English>
+		<German>
+			<Text>Garamanten-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_CARTHAGE</Tag>
+		<English>Spearman (Punic Citizen)</English>
+		<German>
+			<Text>Phalanx-Hoplit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_CELTIC</Tag>
+		<English>Spearman (Gaelaiche)</English>
+		<German>
+			<Text>Gaelaiche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_CHEROKEE</Tag>
+		<English>Spearman (Aniwaya)</English>
+		<German>
+			<Text>Aniwaya-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_CHINA</Tag>
+		<English>Spearman (Warring States)</English>
+		<German>
+			<Text>Speerk&#228;mpfer der Streitenden Reiche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_DRAVIDIAN</Tag>
+		<English>Spearman (Tamil)</English>
+		<German>
+			<Text>Tamilischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_DUTCH</Tag>
+		<English>Spearman (Batacorii)</English>
+		<German>
+			<Text>Batacorii</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_EGYPT</Tag>
+		<English>Spearman (New Kingdom Militia)</English>
+		<German>
+			<Text>&#196;gyptischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_ENGLAND</Tag>
+		<English>Spearman (Duguth)</English>
+		<German>
+			<Text>Duguth</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_ETHIOPIA</Tag>
+		<English>Spearman (Axumite)</English>
+		<German>
+			<Text>Aksumitischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_FINLAND</Tag>
+		<English>Spearman (Ugric)</English>
+		<German>
+			<Text>Ugrischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_FRANCE</Tag>
+		<English>Spearman (Frankish)</English>
+		<German>
+			<Text>Fr&#228;nkischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_GERMAN</Tag>
+		<English>Spearman (Fyrdman)</English>
+		<German>
+			<Text>Fyrd</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_GREECE</Tag>
+		<English>Spearman (Doryphoroi)</English>
+		<German>
+			<Text>Griechischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_HAIDA_INUIT</Tag>
+		<English>Spearman (Inuit)</English>
+		<German>
+			<Text>Inuit-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_HUN</Tag>
+		<English>Spearman (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_HUNGARY</Tag>
+		<English>Spearman (Onogur)</English>
+		<German>
+			<Text>Onogur-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_INCA</Tag>
+		<English>Spearman (Chinchansuyu)</English>
+		<German>
+			<Text>Chinchasuyu-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_INDIA</Tag>
+		<English>Spearman (Pattisainya)</English>
+		<German>
+			<Text>Pattisainya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_IROQUOIS</Tag>
+		<English>Spearman (Oneida)</English>
+		<German>
+			<Text>Oneida-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_ISRAEL</Tag>
+		<English>Spearman (Judean)</English>
+		<German>
+			<Text>Jud&#228;ischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_JAPAN</Tag>
+		<English>Spearman (Nara)</English>
+		<German>
+			<Text>Nara-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_KHMER</Tag>
+		<English>Spearman (Khmer Surin)</English>
+		<German>
+			<Text>Surin-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_KOREA</Tag>
+		<English>Spearman (Silla)</English>
+		<German>
+			<Text>Silla-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_LITHUANIA</Tag>
+		<English>Spearman (Baltic)</English>
+		<German>
+			<Text>Baltischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_MALI</Tag>
+		<English>Spearman (Bambara)</English>
+		<German>
+			<Text>Bambarischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_MAYA</Tag>
+		<English>Spearman (Mayapan)</English>
+		<German>
+			<Text>Mayapanischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_MONGOLIAN</Tag>
+		<English>Spearman (Steppe)</English>
+		<German>
+			<Text>Steppenspeerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_NATIVE_NORTH</Tag>
+		<English>Spearman (Tribal)</English>
+		<German>
+			<Text>Stammesspeerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_NATIVE_SOUTH</Tag>
+		<English>Spearman (Native)</English>
+		<German>
+			<Text>Indigener Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_NUBIA</Tag>
+		<English>Spearman (Kushite)</English>
+		<German>
+			<Text>Kusch-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_OTTOMAN</Tag>
+		<English>Spearman (Seljuk)</English>
+		<German>
+			<Text>Seldschukischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_PATAGONIA</Tag>
+		<English>Spearman (Tehuelche)</English>
+		<German>
+			<Text>Patagonischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_POLAND</Tag>
+		<English>Spearman (Wlocznik)</English>
+		<German>
+			<Text>Polnischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_POLYNESIA</Tag>
+		<English>Spearman (Melanesian)</English>
+		<German>
+			<Text>Melanesian</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_PONTUS</Tag>
+		<English>Spearman (Bosphoran)</English>
+		<German>
+			<Text>Bosporanischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_PORTUGAL</Tag>
+		<English>Spearman (Lusitani Scutarii)</English>
+		<German>
+			<Text>Lusitanischer Scutarii</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_ROME</Tag>
+		<English>Spearman (Auxilia)</English>
+		<German>
+			<Text>Auxiliarspeerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_SIBERIA</Tag>
+		<English>Spearman (Sargat)</English>
+		<German>
+			<Text>Sargat-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_SLAVIC</Tag>
+		<English>Spearman (Slavic)</English>
+		<German>
+			<Text>Slawischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_SPAIN</Tag>
+		<English>Spearman (Scutarii)</English>
+		<German>
+			<Text>Iberischer Scutarii</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_TARTAR</Tag>
+		<English>Spearman (Bulgar)</English>
+		<German>
+			<Text>Tatarischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_TRANSOXIANA</Tag>
+		<English>Spearman (Sogdian)</English>
+		<German>
+			<Text>Sogdischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_UKRAINE_VOLHYNIA</Tag>
+		<English>Spearman (Ruthenian)</English>
+		<German>
+			<Text>Ruthenischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_VIKING</Tag>
+		<English>Spearman (Nordic)</English>
+		<German>
+			<Text>Nordischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPEARMAN_ZULU</Tag>
+		<English>Spearman (Xhosa)</English>
+		<German>
+			<Text>Xhosa-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PERSIAN_SPEARMAN</Tag>
+		<English>Spearman (Sparabara)</English>
+		<German>
+			<Text>Sparabara</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_WARRIOR -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_ALGONQUIN</Tag>
+		<English>Heavy Spearman (Cree)</English>
+		<German>
+			<Text>Cree-Spie&#223;k&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_FILIPINO</Tag>
+		<English>Heavy Spearman (Moro)</English>
+		<German>
+			<Text>Moro-Spie&#223;k&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_ARAB</Tag>
+		<English>Heavy Spearman (Saracen)</English>
+		<German>
+			<Text>Sarazenen-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_ARMENIA</Tag>
+		<English>Heavy Spearman (Kentronakan Gund)</English>
+		<German>
+			<Text>Kaukasischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_AUSTRONESIA</Tag>
+		<English>Pikeman (Aceh)</English>
+		<German>
+			<Text>Aceh Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_AZTEC</Tag>
+		<English>Heavy Spearman (Yaochiimalli)</English>
+		<German>
+			<Text>Yaochiimalli</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_BABYLON</Tag>
+		<English>Heavy Spearman (Abbasid)</English>
+		<German>
+			<Text>Abbasid Schwerer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_BANTU</Tag>
+		<English>Heavy Spearman (Swahili)</English>
+		<German>
+			<Text>Gepanzerter Swahili-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_BARBARIAN</Tag>
+		<English>Heavy Spearman (Savage)</English>
+		<German>
+			<Text>Wilder Spie&#223;k&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_BERBER</Tag>
+		<English>Heavy Spearman (Marinid)</English>
+		<German>
+			<Text>Marinidischer gepanzerter Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_CARTHAGE</Tag>
+		<English>Heavy Spearman (Hafsid)</English>
+		<German>
+			<Text>Gepanzerter Hafsidischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_CELT</Tag>
+		<English>Pikeman (Scots)</English>
+		<German>
+			<Text>Scots-Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_CHINA</Tag>
+		<English>Pikeman (Jin)</English>
+		<German>
+			<Text>Jin-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_DRAVIDIAN</Tag>
+		<English>Heavy Spearman (Chola)</English>
+		<German>
+			<Text>Gepanzerter Cholo-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_DUTCH</Tag>
+		<English>Pikeman (Piekenier)</English>
+		<German>
+			<Text>Niederl&#228;ndischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_EGYPT</Tag>
+		<English>Pikeman (Mamluk Guard)</English>
+		<German>
+			<Text>Mamlukenwache</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_ENGLAND</Tag>
+		<English>Pikeman (Norman)</English>
+		<German>
+			<Text>Normannischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_ETHIOPIA</Tag>
+		<English>Heavy Spearman (Abyssinian)</English>
+		<German>
+			<Text>Abessinischer gepanzerter Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_EUROPE_THE_CRUSADES</Tag>
+		<English>Pikeman (Heavy Spearman)</English>
+		<German>
+			<Text>Europ&#228;ischer gepanzerter Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_FRANCE</Tag>
+		<English>Pikeman (Piquier)</English>
+		<German>
+			<Text>Franz&#246;sischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_GERMAN</Tag>
+		<English>Pikeman (Landsknecht)</English>
+		<German>
+			<Text>Landsknecht</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_GREECE</Tag>
+		<English>Heavy Spearman (Menaulatoi)</English>
+		<German>
+			<Text>Menaulion-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_HUN</Tag>
+		<English>Heavy Spearman (Nomadic)</English>
+		<German>
+			<Text>Gepanzerter Nomadenspeerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_HUNGARY</Tag>
+		<English>Heavy Spearman (Magyar)</English>
+		<German>
+			<Text>Ungarischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_INCA</Tag>
+		<English>Pikeman (Tupa Yauri)</English>
+		<German>
+			<Text>T&#250;pac-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_INDIA</Tag>
+		<English>Heavy Spearman (Armoured)</English>
+		<German>
+			<Text>Indischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_IROQUOIS</Tag>
+		<English>Heavy Spearman (Oneida)</English>
+		<German>
+			<Text>Oneida-Spie&#223;k&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_ISRAEL</Tag>
+		<English>Heavy Spearman (Sebastenos)</English>
+		<German>
+			<Text>Jud&#228;ischer gepanzerter Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_JAPAN</Tag>
+		<English>Pikeman (Nagae Yari Ashigaru)</English>
+		<German>
+			<Text>Nagae Yari Ashigaru</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_KHMER</Tag>
+		<English>Heavy Spearman (Khmer Krom)</English>
+		<German>
+			<Text>Khmer Krom-Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_KOREA</Tag>
+		<English>Pikeman (Choson)</English>
+		<German>
+			<Text>Joseon-Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_MALI</Tag>
+		<English>Heavy Spearman (Mandekalu)</English>
+		<German>
+			<Text>Mandekalu-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_MAYA</Tag>
+		<English>Heavy Spearman (Aguatecan)</English>
+		<German>
+			<Text>Gepanzerter Aguateca-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_MONGOL</Tag>
+		<English>Heavy Spearman (Mongol)</English>
+		<German>
+			<Text>Mongolischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_NATIVE_NORTH</Tag>
+		<English>Heavy Spearman (Tribal)</English>
+		<German>
+			<Text>Stammesspie&#223;k&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_NATIVE_SOUTH</Tag>
+		<English>Heavy Spearman (Native)</English>
+		<German>
+			<Text>Indigener gepanzerter Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_NUBIA</Tag>
+		<English>Heavy Spearman (Makurian)</English>
+		<German>
+			<Text>Gepanzerter Makuria-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_OTTOMAN</Tag>
+		<English>Heavy Spearman (Baltaci)</English>
+		<German>
+			<Text>Baltaci</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_PERSIA</Tag>
+		<English>Heavy Spearman (Sassanid)</English>
+		<German>
+			<Text>Sassanidischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_POLAND</Tag>
+		<English>Pikeman (Poland)</English>
+		<German>
+			<Text>Polnischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_POLYNESIA</Tag>
+		<English>Heavy Spearman (Samoan)</English>
+		<German>
+			<Text>Samoanischer Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_PORTUGAL</Tag>
+		<English>Heavy Spearman (Portuguese)</English>
+		<German>
+			<Text>Spie&#223;geselle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_ROMAN</Tag>
+		<English>Pikeman (Milizia Comunale)</English>
+		<German>
+			<Text>R&#246;mischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_RUSSIA</Tag>
+		<English>Heavy Spearman (Opolchenie)</English>
+		<German>
+			<Text>Opoltschenije</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_SIBERIA</Tag>
+		<English>Heavy Spearman (Permian)</English>
+		<German>
+			<Text>Perm-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_SOUTH_CHINA</Tag>
+		<English>Pikeman (Song)</English>
+		<German>
+			<Text>Song-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_SPAIN</Tag>
+		<English>Pikeman (Halberdier)</English>
+		<German>
+			<Text>Halberdier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_SWEDEN</Tag>
+		<English>Pikeman (Nordic)</English>
+		<German>
+			<Text>Nordischer Pikenier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_TARTAR</Tag>
+		<English>Pikeman (Keffe Bekci)</English>
+		<German>
+			<Text>Tatarischer gepanzerter Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_TRANSOXIANA</Tag>
+		<English>Heavy Spearman (Timurid)</English>
+		<German>
+			<Text>Timuridischer gepanzerter Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_UKRAINE_VOLHYNIA</Tag>
+		<English>Heavy Spearman (Ruthenian Opolchenie)</English>
+		<German>
+			<Text>Ruthenischer Opoltschenije</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_VENICE</Tag>
+		<English>Pikeman (Fanti da Mar)</English>
+		<German>
+			<Text>Fanti da Mar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIKEMAN_ZULU</Tag>
+		<English>Heavy Spearman (Basotho)</English>
+		<German>
+			<Text>Basotho-Speerk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_WARBAND -->
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_SHORT_SWORDSMAN</Tag>
+		<English>Warband</English>
+		<German>
+			<Text>Hypaspist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_ABORIGINE</Tag>
+		<English>Warband (Nulla Nulla)</English>
+		<German>
+			<Text>Waddy-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_FILIPINO</Tag>
+		<English>Warband (Visayas)</English>
+		<German>
+			<Text>Visayas-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_AFRICA</Tag>
+		<English>Warband (African)</English>
+		<German>
+			<Text>Afrikanischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_APACHE</Tag>
+		<English>Warband (Kiowa Champion)</English>
+		<German>
+			<Text>Kiowa-Champion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_ARABIA</Tag>
+		<English>Warband (Semitic)</English>
+		<German>
+			<Text>Semitischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_ARMENIA</Tag>
+		<English>Warband (Kovkazi Dashna-Mebrdzolebi)</English>
+		<German>
+			<Text>Kaukasischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_ASIAN</Tag>
+		<English>Warband (Light Swordsman)</English>
+		<German>
+			<Text>Asiatischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_AUSTRONESIA</Tag>
+		<English>Warband (Malay)</English>
+		<German>
+			<Text>Malaiischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_AZTEC</Tag>
+		<English>Warband (Yaoquizqueh)</English>
+		<German>
+			<Text>Yaoquizqueh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_BABYLON</Tag>
+		<English>Warband (Old Babylonian)</English>
+		<German>
+			<Text>Pal&#228;obabylonischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_BARBARIAN</Tag>
+		<English>Warband (Pillager)</English>
+		<German>
+			<Text>Pl&#252;nderer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_BERBER</Tag>
+		<English>Warband (Garamantian)</English>
+		<German>
+			<Text>Garamantischer Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_CARTHAGE</Tag>
+		<English>Warband (Phoenician)</English>
+		<German>
+			<Text>Ph&#246;nizischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_CELT</Tag>
+		<English>Warband (Clyddabre)</English>
+		<German>
+			<Text>Clyddabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_DRAVIDIAN</Tag>
+		<English>Warband (Tamil)</English>
+		<German>
+			<Text>Tamilischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_EGYPT</Tag>
+		<English>Warband (New Kingdom)</English>
+		<German>
+			<Text>&#196;gyptischer Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_EUROPE</Tag>
+		<English>Warband (Western)</English>
+		<German>
+			<Text>Westlicher Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_FRENCH</Tag>
+		<English>Warband (Frankish)</English>
+		<German>
+			<Text>Frankischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_GERMAN</Tag>
+		<English>Warband (Germanic)</English>
+		<German>
+			<Text>Chattischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_GREECE</Tag>
+		<English>Warband (Ekdromoi)</English>
+		<German>
+			<Text>Ekdromos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_INCA</Tag>
+		<English>Warband (Chiqtana Runa)</English>
+		<German>
+			<Text>Chiqtana Runa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_INDIA</Tag>
+		<English>Warband (Rigvedic Warrior)</English>
+		<German>
+			<Text>Rigveda-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_JAPAN</Tag>
+		<English>Warband (Yayoi)</English>
+		<German>
+			<Text>Yayoi-Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_KHMER</Tag>
+		<English>Warband (Khmer Surin)</English>
+		<German>
+			<Text>Surin-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_MAYA</Tag>
+		<English>Warband (Mayapan)</English>
+		<German>
+			<Text>Mayapanischer Champion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_NATIVE_NORTH</Tag>
+		<English>Warband (Tribal Champion)</English>
+		<German>
+			<Text>Stammes-Champion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_NATIVE_SOUTH</Tag>
+		<English>Warband (Native Champion)</English>
+		<German>
+			<Text>Indigener Champion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_NETHERLANDS</Tag>
+		<English>Warband (Belgae Clyddabre)</English>
+		<German>
+			<Text>Belgae Clyddabre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_NORDIC</Tag>
+		<English>Warband (Nordic)</English>
+		<German>
+			<Text>Nordischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_OTTOMAN</Tag>
+		<English>Warband (Turkic)</English>
+		<German>
+			<Text>T&#252;rkischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_PERSIA</Tag>
+		<English>Warband (Kardakes)</English>
+		<German>
+			<Text>Kardake</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_POLYNESIA</Tag>
+		<English>Warband (Melanesian)</English>
+		<German>
+			<Text>Melanesischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_PONTUS</Tag>
+		<English>Warband (Phrygian)</English>
+		<German>
+			<Text>Phrygischer Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_ROME</Tag>
+		<English>Legion (Polybian)</English>
+		<German>
+			<Text>Polybischer Legion&#228;r</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_SIBERIA</Tag>
+		<English>Warband (Cherkaskul)</English>
+		<German>
+			<Text>Cherkaskul-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_STEPPE</Tag>
+		<English>Warband (Steppe)</English>
+		<German>
+			<Text>Steppenkurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_TUPI</Tag>
+		<English>Warband (Tupi Clubman)</English>
+		<German>
+			<Text>Tupi-Kurzschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HYAPIST_UKRAINE_VOLHYNIA</Tag>
+		<English>Warband (Ruthenian)</English>
+		<German>
+			<Text>Ruthenischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_AXEMAN -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_ABORIGINE</Tag>
+		<English>Axeman (Clubman)</English>
+		<German>
+			<Text>Ozeanischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_FILIPINO</Tag>
+		<English>Axeman (Bontoc)</English>
+		<German>
+			<Text>Bontoc-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NATIVE_AMERICA_DOG_SOLDIER</Tag>
+		<English>Axeman (Dog Soldier)</English>
+		<German>
+			<Text>Hundesoldat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_ALGONQUIN</Tag>
+		<English>Axeman (Huron Brave)</English>
+		<German>
+			<Text>Huron-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_APACHE</Tag>
+		<English>Axeman (Kiowa Brave)</English>
+		<German>
+			<Text>Kiowa-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_ARABIA</Tag>
+		<English>Axeman (Red Sea)</English>
+		<German>
+			<Text>Rotes-Meer-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_ARMENIA</Tag>
+		<English>Axeman (Vishap)</English>
+		<German>
+			<Text>Vischap-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_AUSTRONESIA</Tag>
+		<English>Axeman (Medang)</English>
+		<German>
+			<Text>Mataram-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_AZTEC</Tag>
+		<English>Axeman (Telpochcalli)</English>
+		<German>
+			<Text>Telpochcalli-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_BABYLON</Tag>
+		<English>Axeman (Neo Babylonian)</English>
+		<German>
+			<Text>Neubabylonischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_BANTU</Tag>
+		<English>Axeman (Luba)</English>
+		<German>
+			<Text>Luba-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_BARBARIAN</Tag>
+		<English>Axeman (Raider)</English>
+		<German>
+			<Text>Waldmensch</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_BERBER</Tag>
+		<English>Axeman (Garamantian)</English>
+		<German>
+			<Text>Garamanten-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_CARTHAGE</Tag>
+		<English>Axeman (Punic)</English>
+		<German>
+			<Text>Punischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_CELTIC</Tag>
+		<English>Axeman (Teceitos)</English>
+		<German>
+			<Text>Teceitos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_CHINA</Tag>
+		<English>Axeman (Ji Warrior)</English>
+		<German>
+			<Text>Ji-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_DRAVIDIAN</Tag>
+		<English>Axeman (Tamil)</English>
+		<German>
+			<Text>Tamilischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_DUTCH</Tag>
+		<English>Axeman (Belgae Teceitos)</English>
+		<German>
+			<Text>Belgae Teceitos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_EGYPT</Tag>
+		<English>Axeman (Armoured)</English>
+		<German>
+			<Text>Gepanzerter Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_ENGLAND</Tag>
+		<English>Axeman (Hearthweru)</English>
+		<German>
+			<Text>Hearthweru</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_ETHIOPIA</Tag>
+		<English>Axeman (Axumite)</English>
+		<German>
+			<Text>Aksumitischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_FINLAND</Tag>
+		<English>Axeman (Proto-Finnic)</English>
+		<German>
+			<Text>Protofinnischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_FRANCE</Tag>
+		<English>Axeman (Frankish)</English>
+		<German>
+			<Text>Fr&#228;nkischer Kriegsbandit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_GERMANY</Tag>
+		<English>Axeman (Saxon)</English>
+		<German>
+			<Text>S&#228;chsischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_GREECE</Tag>
+		<English>Hoplite (Citizen)</English>
+		<German>
+			<Text>Hoplit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_HAIDA_INUIT</Tag>
+		<English>Axeman (Inuit)</English>
+		<German>
+			<Text>Inuit-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_HALYCH_VOLHYNIA</Tag>
+		<English>Axeman (Halych)</English>
+		<German>
+			<Text>Halytsch-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_HUN</Tag>
+		<English>Axeman (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_INCA</Tag>
+		<English>Axeman (Champi Clubman)</English>
+		<German>
+			<Text>Champi-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_INDIAN</Tag>
+		<English>Axeman (Indus)</English>
+		<German>
+			<Text>Indus-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_IROQUOIS</Tag>
+		<English>Axeman (Onondaga Brave)</English>
+		<German>
+			<Text>Onondaga-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_ISRAEL</Tag>
+		<English>Axeman (Judean)</English>
+		<German>
+			<Text>Jud&#228;ischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_JAPAN</Tag>
+		<English>Axeman (Yayoi)</English>
+		<German>
+			<Text>Yayoi-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_KHMER</Tag>
+		<English>Axeman (Khmer Surin)</English>
+		<German>
+			<Text>Surin-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_KOREA</Tag>
+		<English>Axeman (Silla)</English>
+		<German>
+			<Text>Silla-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_LITHUANIA</Tag>
+		<English>Axeman (Baltic)</English>
+		<German>
+			<Text>Baltischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_MALI</Tag>
+		<English>Axeman (Bambara)</English>
+		<German>
+			<Text>Bambarischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_MALI</Tag>
+		<English>Axeman (Finno-Ugric)</English>
+		<German>
+			<Text>Finno-ugrischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_MAYA</Tag>
+		<English>Axeman (Mayapan)</English>
+		<German>
+			<Text>Mayapanischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_MONGOL</Tag>
+		<English>Axeman (Jurchen)</English>
+		<German>
+			<Text>Jurchen-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_NATIVE_NORTH</Tag>
+		<English>Axeman (Brave)</English>
+		<German>
+			<Text>Tomahawk-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_NATIVE_SOUTH</Tag>
+		<English>Axeman (Native)</English>
+		<German>
+			<Text>Indigener Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_NUBIA</Tag>
+		<English>Axeman (Kushite)</English>
+		<German>
+			<Text>Kusch-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_OTTOMAN</Tag>
+		<English>Axeman (Uyghur)</English>
+		<German>
+			<Text>Uigurische Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_PERSIA</Tag>
+		<English>Axeman (Takabara)</English>
+		<German>
+			<Text>Takabara</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_POLAND</Tag>
+		<English>Axeman (Topornik)</English>
+		<German>
+			<Text>Polnischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_POLYNESIA</Tag>
+		<English>Axeman (Maori)</English>
+		<German>
+			<Text>Maori-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_PONTUS</Tag>
+		<English>Hoplite (Black Sea)</English>
+		<German>
+			<Text>Schwarzmeer-Hoplit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_PORTUGAL</Tag>
+		<English>Axeman (Turodi)</English>
+		<German>
+			<Text>Turodi-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_ROME</Tag>
+		<English>Legion (Marian)</English>
+		<German>
+			<Text>Marianischer Legion&#228;r</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_SIBERIA</Tag>
+		<English>Axeman (Tagar)</English>
+		<German>
+			<Text>Tagar-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_SLAVIC</Tag>
+		<English>Axeman (Slavic)</English>
+		<German>
+			<Text>Slawischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_SPAIN</Tag>
+		<English>Axeman (Clona Tekonac)</English>
+		<German>
+			<Text>Clona Tekonac</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_TARTAR</Tag>
+		<English>Axeman (Bulgar)</English>
+		<German>
+			<Text>Tatarischer Beilk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_TRANSOXIANA</Tag>
+		<English>Axeman (Bactrian)</English>
+		<German>
+			<Text>Baktrischer Beilk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_UKRAINE_VOLHYNIA</Tag>
+		<English>Axeman (Ruthenian)</English>
+		<German>
+			<Text>Ruthenischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_VIKING</Tag>
+		<English>Axeman (Nordic)</English>
+		<German>
+			<Text>Nordischer Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AXEMAN_ZULU</Tag>
+		<English>Axeman (Ibutho)</English>
+		<German>
+			<Text>Ibutho</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_MACEMAN -->
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN</Tag>
+		<English>Man-at-Arms</English>
+		<German>
+			<Text>Waffenknecht</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_ABORIGINE</Tag>
+		<English>Man-at-Arms (Elite Warrior)</English>
+		<German>
+			<Text>Ozeanischer Elite-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_FILIPINO</Tag>
+		<English>Man-at-Arms (Moro)</English>
+		<German>
+			<Text>Moro-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_ALGONQUIN</Tag>
+		<English>Man-at-Arms (Cree Landkeeper)</English>
+		<German>
+			<Text>Cree-Landw&#228;chter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_ARABIA</Tag>
+		<English>Man-at-Arms (Haras)</English>
+		<German>
+			<Text>Haras-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_ARMENIA</Tag>
+		<English>Man-at-Arms (Gurz Infantry)</English>
+		<German>
+			<Text>Flegeltr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_AUSTRONESIA</Tag>
+		<English>Man-at-Arms (Aceh)</English>
+		<German>
+			<Text>Aceh-Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_BABYLON</Tag>
+		<English>Man-at-Arms (Ghazi)</English>
+		<German>
+			<Text>Ghazi-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_BANTU</Tag>
+		<English>Man-at-Arms (Swahili)</English>
+		<German>
+			<Text>Swahili-Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_BARBARIAN</Tag>
+		<English>Man-at-Arms (Brigand)</English>
+		<German>
+			<Text>Bandit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_BERBER</Tag>
+		<English>Man-at-Arms (Marinid)</English>
+		<German>
+			<Text>Marinidischer Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_CARTHAGE</Tag>
+		<English>Man-at-Arms (Hafsid)</English>
+		<German>
+			<Text>Hafsidischer Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_CHEROKEE</Tag>
+		<English>Man-at-Arms (Aniwaya Landkeeper)</English>
+		<German>
+			<Text>Aniwaya-Landw&#228;chter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_DRAVIDIAN</Tag>
+		<English>Man-at-Arms (Vijayanagara)</English>
+		<German>
+			<Text>Vijayanagar-Streitkolbentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_AZTEC</Tag>
+		<English>Man-at-Arms (Coyotl Priest)</English>
+		<German>
+			<Text>Coyotl-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_CELT</Tag>
+		<English>Man-at-Arms (Redshank)</English>
+		<German>
+			<Text>Rotschenkel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_CHINA</Tag>
+		<English>Man-at-Arms (Northern Dynasty)</English>
+		<German>
+			<Text>Nordchina-Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_DUTCH</Tag>
+		<English>Man-at-Arms (Goedendag)</English>
+		<German>
+			<Text>Goedendag-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_EGYPT</Tag>
+		<English>Man-at-Arms (Mamluk)</English>
+		<German>
+			<Text>Mamlukischer Angriffsinfanterist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_ENGLAND</Tag>
+		<English>Man-at-Arms (Anglo-Norman)</English>
+		<German>
+			<Text>Anglonormannischer Waffentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_ETHIOPIA</Tag>
+		<English>Man-at-Arms (Abyssinian)</English>
+		<German>
+			<Text>Abessinischer Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_FINLAND</Tag>
+		<English>Man-at-Arms (Suomi)</English>
+		<German>
+			<Text>Finnischer Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_FRANCE</Tag>
+		<English>Man-at-Arms (Gens d'Armes)</English>
+		<German>
+			<Text>Gensdarmes-K&#252;rassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_GERMAN</Tag>
+		<English>Man-at-Arms (Lehnsmann)</English>
+		<German>
+			<Text>Lehnsmann</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_GREECE</Tag>
+		<English>Man-at-Arms (Skoutatoi)</English>
+		<German>
+			<Text>Skoutatos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_HUN</Tag>
+		<English>Man-at-Arms (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Streitkolbentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_HUNGARY</Tag>
+		<English>Man-at-Arms (Magyar)</English>
+		<German>
+			<Text>Ungarischer Streitkolbentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_INCA</Tag>
+		<English>Man-at-Arms (Aucac Runa)</English>
+		<German>
+			<Text>Aucac Runa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_INDIA</Tag>
+		<English>Man-at-Arms (Rajput)</English>
+		<German>
+			<Text>Rajputischer Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_IROQUOIS</Tag>
+		<English>Man-at-Arms (Onondaga Landkeeper)</English>
+		<German>
+			<Text>Onondaga-Landw&#228;chter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_ISRAEL</Tag>
+		<English>Man-at-Arms (Judean)</English>
+		<German>
+			<Text>Jud&#228;ischer Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_JAPAN</Tag>
+		<English>Man-at-Arms (Naginata Samurai)</English>
+		<German>
+			<Text>Naginata-Samurai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_KHMER</Tag>
+		<English>Man-at-Arms (Khmer Krom)</English>
+		<German>
+			<Text>Khmer Krom-Waffenknecht</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_KOREA</Tag>
+		<English>Man-at-Arms (Choson Heavy)</English>
+		<German>
+			<Text>Joseon-Waffenknecht</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_LITHUANIA</Tag>
+		<English>Man-at-Arms (Bajoras)</English>
+		<German>
+			<Text>Bajoras</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_MALI</Tag>
+		<English>Man-at-Arms (Songhai)</English>
+		<German>
+			<Text>Songhai-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_MAYA</Tag>
+		<English>Man-at-Arms (Aguatecan)</English>
+		<German>
+			<Text>Aguateca-Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_MONGOL</Tag>
+		<English>Man-at-Arms (Arbat Soldier)</English>
+		<German>
+			<Text>Arbat-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_MUGHAL</Tag>
+		<English>Man-at-Arms (Mughal)</English>
+		<German>
+			<Text>Mughalischer Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_NATIVE_NORTH</Tag>
+		<English>Man-at-Arms (Tribal Landkeeper)</English>
+		<German>
+			<Text>Stammes-Landw&#228;chter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_NATIVE_SOUTH</Tag>
+		<English>Man-at-Arms (Native)</English>
+		<German>
+			<Text>Indigener Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_NUBIA</Tag>
+		<English>Man-at-Arms (Makurian)</English>
+		<German>
+			<Text>Makuria-Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_OTTOMAN</Tag>
+		<English>Man-at-Arms (Serdengecti)</English>
+		<German>
+			<Text>Serdenge&#231;ti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_PERSIA</Tag>
+		<English>Man-at-Arms (Daylami)</English>
+		<German>
+			<Text>Deilami-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_POLAND</Tag>
+		<English>Man-at-Arms (Zbrojny)</English>
+		<German>
+			<Text>Polnischer Streitkolbentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_POLYNESIA</Tag>
+		<English>Man-at-Arms (Maori Heavy)</English>
+		<German>
+			<Text>Maori-Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_PORTUGAL</Tag>
+		<English>Man-at-Arms (Hostes Pesado)</English>
+		<German>
+			<Text>Portugiesischer Hellebardist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_ROME</Tag>
+		<English>Man-at-Arms (Armigero)</English>
+		<German>
+			<Text>Armiger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_RUSSIA</Tag>
+		<English>Man-at-Arms (Bardiche Infantry)</English>
+		<German>
+			<Text>Berdysch-Strelez</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_SIBERIA</Tag>
+		<English>Man-at-Arms (Tashtyk Heavy Axeman)</English>
+		<German>
+			<Text>Taschtyk-Axtk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_SOUTH_CHINA</Tag>
+		<English>Man-at-Arms (Southern Dynasty)</English>
+		<German>
+			<Text>S&#252;dchina-Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_TARTAR</Tag>
+		<English>Man-at-Arms (Crimean Heavy)</English>
+		<German>
+			<Text>Tatarischer gepanzerter Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_SPAIN</Tag>
+		<English>Man-at-Arms (Aragon)</English>
+		<German>
+			<Text>Aragonischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_TRANSOXIANA</Tag>
+		<English>Man-at-Arms (Arbat)</English>
+		<German>
+			<Text>Arbat-Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_VENICE</Tag>
+		<English>Man-at-Arms (Venetian)</English>
+		<German>
+			<Text>Venetischer Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_VIKING</Tag>
+		<English>Man-at-Arms (Housecarl)</English>
+		<German>
+			<Text>Huscarl</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACEMAN_ZULU</Tag>
+		<English>Man-at-Arms (Basotho)</English>
+		<German>
+			<Text>Basotho-Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_SWORDSMAN -->
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_AFRICAN_EARLY</Tag>
+		<English>Swordsman (African)</English>
+		<German>
+			<Text>Afrikanischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_ARABIAN</Tag>
+		<English>Swordsman (Sabean)</English>
+		<German>
+			<Text>Sab&#228;ischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_FILIPINO</Tag>
+		<English>Swordsman (Gadding)</English>
+		<German>
+			<Text>Gadding Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_ARMENIA</Tag>
+		<English>Swordsman (Azat)</English>
+		<German>
+			<Text>Azat-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_AUSTRIA</Tag>
+		<English>Swordsman (Bavarian)</English>
+		<German>
+			<Text>Bayerischer Schweertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_AUSTRONESIA</Tag>
+		<English>Swordsman (Medang)</English>
+		<German>
+			<Text>Mataram-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_AZTEC</Tag>
+		<English>Swordsman (Telpochyahque)</English>
+		<German>
+			<Text>Telpochyahque</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_BABYLON</Tag>
+		<English>Swordsman (Lakhmid)</English>
+		<German>
+			<Text>Lachmidischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_BERBER</Tag>
+		<English>Swordsman (Numidian)</English>
+		<German>
+			<Text>Numidischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_CARTHAGE</Tag>
+		<English>Swordsman (Punic Shock Troop)</English>
+		<German>
+			<Text>Punischer Sto&#223;truppler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_CELT</Tag>
+		<English>Swordsman (Bataroas)</English>
+		<German>
+			<Text>Bataroas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_CHINA</Tag>
+		<English>Swordsman (Han)</English>
+		<German>
+			<Text>Han-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_CHINESE</Tag>
+		<English>Swordsman (Choson)</English>
+		<German>
+			<Text>Joseon-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_DRAVIDIAN</Tag>
+		<English>Swordsman (Tamil)</English>
+		<German>
+			<Text>Tamilischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_DUTCH</Tag>
+		<English>Swordsman (Milnaht)</English>
+		<German>
+			<Text>Milnaht</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_EGYPT</Tag>
+		<English>Phalanx (Ptolemaic Pezhetairoi)</English>
+		<German>
+			<Text>Ptolem&#228;ischer Pezhetairo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_ENGLAND</Tag>
+		<English>Swordsman (Thegn)</English>
+		<German>
+			<Text>Thane</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_FINLAND</Tag>
+		<English>Swordsman (Proto-Finnic)</English>
+		<German>
+			<Text>Protofinnischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_FRANCE</Tag>
+		<English>Swordsman (Frank)</English>
+		<German>
+			<Text>Fr&#228;nkischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_GERMAN</Tag>
+		<English>Swordsman (Alemannic)</English>
+		<German>
+			<Text>Alemannischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_GREECE</Tag>
+		<English>Phalanx (Pezhetairoi)</English>
+		<German>
+			<Text>Pezhetairos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_HUN</Tag>
+		<English>Swordsman (Nomadic)</English>
+		<German>
+			<Text>Nomadischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_INCA</Tag>
+		<English>Swordsman (Chimor Maceman)</English>
+		<German>
+			<Text>Chimor-Streitkolbentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_INDIA</Tag>
+		<English>Swordsman (Gupta)</English>
+		<German>
+			<Text>Gupta-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_ISRAEL</Tag>
+		<English>Swordsman (Maccabee)</English>
+		<German>
+			<Text>Makkab&#228;er</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_JAPAN</Tag>
+		<English>Swordsman (Bushi)</English>
+		<German>
+			<Text>Bushi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_KHMER</Tag>
+		<English>Swordsman (Khmer Surin)</English>
+		<German>
+			<Text>Surin-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_KOREA</Tag>
+		<English>Swordsman (Silla)</English>
+		<German>
+			<Text>Silla-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_LITHUANIA</Tag>
+		<English>Swordsman (Vytis)</English>
+		<German>
+			<Text>Vytis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_MAYA</Tag>
+		<English>Swordsman (Aguatecan)</English>
+		<German>
+			<Text>Aguateca-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_MONGOL</Tag>
+		<English>Swordsman (Steppe)</English>
+		<German>
+			<Text>Steppenschwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_NUBIA</Tag>
+		<English>Swordsman (Kushite)</English>
+		<German>
+			<Text>Kusch-Lakai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_OTTOMAN</Tag>
+		<English>Swordsman (Seljuk)</English>
+		<German>
+			<Text>Seldschukischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_PERSIA</Tag>
+		<English>Phalanx (Seleukid Pezhetairoi)</English>
+		<German>
+			<Text>Seleukidischer Pezhetairos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_POLAND</Tag>
+		<English>Swordsman (Miecznik)</English>
+		<German>
+			<Text>Polnischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_PONTUS</Tag>
+		<English>Phalanx (Pontic Pezhetairoi)</English>
+		<German>
+			<Text>Pontischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_PORTUGAL</Tag>
+		<English>Swordsman (Coelerni Caetratii)</English>
+		<German>
+			<Text>Coelerni Caetrati</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_ROME</Tag>
+		<English>Legion (Imperial)</English>
+		<German>
+			<Text>Imperialer Legion&#228;r</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_SLAVIC</Tag>
+		<English>Swordsman (Druzhina)</English>
+		<German>
+			<Text>Druschina</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_SPAIN</Tag>
+		<English>Swordsman (Iberian Caetratii)</English>
+		<German>
+			<Text>Iberischer Caetrati</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_TARTAR</Tag>
+		<English>Swordsman (Bulgar)</English>
+		<German>
+			<Text>Tatarischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_TRANSOXIANA</Tag>
+		<English>Swordsman (Sogdian)</English>
+		<German>
+			<Text>Sogdischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_UKRAINE_VOLHYNIA</Tag>
+		<English>Swordsman (Ruthenian)</English>
+		<German>
+			<Text>Ruthenischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_VIKING</Tag>
+		<English>Swordsman (Nordic)</English>
+		<German>
+			<Text>Nordischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSMAN_ZULU</Tag>
+		<English>Swordsman (Basotho)</English>
+		<German>
+			<Text>Basotho-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_LATE_SWORDSMAN -->
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN</Tag>
+		<English>Medieval Swordsman (Medieval Swordsman)</English>
+		<German>
+			<Text>Mittelalterlicher Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_ARMENIA</Tag>
+		<English>Medieval Swordsman (Cilician Sergeant)</English>
+		<German>
+			<Text>Kilikischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_FILIPINO</Tag>
+		<English>Medieval Swordsman (Tagalog Noble)</English>
+		<German>
+			<Text>Tagalog Edler Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_AUSTRONESIA</Tag>
+		<English>Medieval Swordsman (Majapahitan)</English>
+		<German>
+			<Text>Majapahit-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_BABYLON</Tag>
+		<English>Medieval Swordsman (Umayyad)</English>
+		<German>
+			<Text>Umayyad Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_BERBER</Tag>
+		<English>Medieval Swordsman (Moorish)</English>
+		<German>
+			<Text>Maurischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_DRAVIDIAN</Tag>
+		<English>Medieval Swordsman (Chola)</English>
+		<German>
+			<Text>Cholo-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_DUTCH</Tag>
+		<English>Medieval Swordsman (Lotharingian)</English>
+		<German>
+			<Text>Lothringischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_EGYPT</Tag>
+		<English>Medieval Swordsman (Urban)</English>
+		<German>
+			<Text>&#196;gyptischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_ENGLAND</Tag>
+		<English>Medieval Swordsman (Norman)</English>
+		<German>
+			<Text>Normannischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_ETHIOPIA</Tag>
+		<English>Medieval Swordsman (Abyssinian)</English>
+		<German>
+			<Text>Abessinischer Schweertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_EUROPE_THE_CRUSADES</Tag>
+		<English>Medieval Swordsman (Heavy)</English>
+		<German>
+			<Text>Europ&#228;ischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_FINLAND</Tag>
+		<English>Medieval Swordsman (Suomi)</English>
+		<German>
+			<Text>Finnischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_FRANCE</Tag>
+		<English>Medieval Swordsman (Capetian)</English>
+		<German>
+			<Text>Kapetinger-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_GERMAN</Tag>
+		<English>Medieval Swordsman (HRE)</English>
+		<German>
+			<Text>Schwertk&#228;mpfer des heiligen r&#246;mischen Reiches</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_GREECE</Tag>
+		<English>Medieval Swordsman (Thematikoi Pezoi)</English>
+		<German>
+			<Text>Thematikoi Pezoi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_HUNGARY</Tag>
+		<English>Medieval Swordsman (Magyar)</English>
+		<German>
+			<Text>Ungarischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_INDIA</Tag>
+		<English>Medieval Swordsman (Rajput)</English>
+		<German>
+			<Text>Rajputischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_LITHUANIA</Tag>
+		<English>Medieval Swordsman (Kardas)</English>
+		<German>
+			<Text>Kardas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_MALI</Tag>
+		<English>Medieval Swordsman (Mandinka)</English>
+		<German>
+			<Text>Mandinka-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_MUGHAL</Tag>
+		<English>Medieval Swordsman (Afghan)</English>
+		<German>
+			<Text>Afghanischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_MUSLIM</Tag>
+		<English>Medieval Swordsman (Middle Eastern)</English>
+		<German>
+			<Text>Mittel&#246;stlicher Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_OTTOMAN</Tag>
+		<English>Medieval Swordsman (Yaya)</English>
+		<German>
+			<Text>Yaya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_PERSIA</Tag>
+		<English>Medieval Swordsman (Sassanid)</English>
+		<German>
+			<Text>Sassanidischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_POLAND</Tag>
+		<English>Medieval Swordsman (Pospolite Ruszenie)</English>
+		<German>
+			<Text>Polnischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_PORTUGAL</Tag>
+		<English>Medieval Swordsman (Hostes)</English>
+		<German>
+			<Text>Portugiesischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_ROME</Tag>
+		<English>Medieval Swordsman (Spadaccino Lombardo)</English>
+		<German>
+			<Text>Lombardischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_RUSSIA</Tag>
+		<English>Medieval Swordsman (Gorodovoy Polk)</English>
+		<German>
+			<Text>Russischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_SPAIN</Tag>
+		<English>Medieval Swordsman (Iberian)</English>
+		<German>
+			<Text>Iberischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_TRANSOXIANA</Tag>
+		<English>Medieval Swordsman (Samanid)</English>
+		<German>
+			<Text>Samanidischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_UKRAINE_VOLHYNIA</Tag>
+		<English>Medieval Swordsman (Ruthenian)</English>
+		<German>
+			<Text>Ruthenischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_VIKING</Tag>
+		<English>Medieval Swordsman (Viking Party)</English>
+		<German>
+			<Text>Nordischer Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_CELT</Tag>
+		<English>Medieval Swordsman (Gallowglass)</English>
+		<German>
+			<Text>Gallowglass</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_NUBIA</Tag>
+		<English>Medieval Swordsman (Makurian)</English>
+		<German>
+			<Text>Makuria-Schwertk&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_SWORDSMAN_VENICE</Tag>
+		<English>Medieval Swordsman (Serragenti)</English>
+		<German>
+			<Text>Serragenti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_FOOT_KNIGHT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT</Tag>
+		<English>Foot Knight</English>
+		<German>
+			<Text>Ritter zu Fu&#223;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_FILIPINO</Tag>
+		<English>Foot Knight (Datu)</English>
+		<German>
+			<Text>Datu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JAPAN_SAMURAI</Tag>
+		<English>Foot Knight (Samurai)</English>
+		<German>
+			<Text>Samurai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_ARABIA</Tag>
+		<English>Foot Knight (Saracen Noble)</English>
+		<German>
+			<Text>Sarazenischer Adliger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_ARMENIA</Tag>
+		<English>Foot Knight (Malkhazakan Gund)</English>
+		<German>
+			<Text>Armenische k&#246;nigliche Wache</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CELESTIAL_GUARD</Tag>
+		<English>Foot Knight (Jin Assault Infantry)</English>
+		<German>
+			<Text>Erhabene Wache</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CELESTIAL_GUARD_SOUTH</Tag>
+		<English>Foot Knight (Zhanmadao)</English>
+		<German>
+			<Text>Zhanmadao-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_AUSTRONESIA</Tag>
+		<English>Foot Knight (Datuk)</English>
+		<German>
+			<Text>Datuk-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_AZTEC</Tag>
+		<English>Foot Knight (Cuachicqueh)</English>
+		<German>
+			<Text>Cuachic</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_BABYLON</Tag>
+		<English>Foot Knight (Abna Infantry)</English>
+		<German>
+			<Text>Abna Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_BERBER</Tag>
+		<English>Foot Knight (Moorish Noble)</English>
+		<German>
+			<Text>Maurischer Adliger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_CELT</Tag>
+		<English>Foot Knight (Muire)</English>
+		<German>
+			<Text>Muire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_DRAVIDIAN</Tag>
+		<English>Foot Knight (Vijayanagara Kshatriya)</English>
+		<German>
+			<Text>Vijayanagara-Kshatriya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_DUTCH</Tag>
+		<English>Foot Knight (Burgundian)</English>
+		<German>
+			<Text>Burgundischer Adliger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_ENGLAND</Tag>
+		<English>Foot Knight (Anglo-Norman)</English>
+		<German>
+			<Text>Anglonormannischer Ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_ETHIOPIA</Tag>
+		<English>Foot Knight (Abyssinian Shotelai)</English>
+		<German>
+			<Text>Shotel-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_FRANCE</Tag>
+		<English>Foot Knight (Banneret)</English>
+		<German>
+			<Text>Banneret zu Fu&#223;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_GERMAN</Tag>
+		<English>Foot Knight (Deutscher Adel)</English>
+		<German>
+			<Text>Deutscher Ritter zu Fu&#223;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_GREECE</Tag>
+		<English>Foot Knight (Klivanarioi)</English>
+		<German>
+			<Text>Klivanarioi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_HUN</Tag>
+		<English>Foot Knight (Nomadic Noble)</English>
+		<German>
+			<Text>Nomadischer Adliger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_HUNGARY</Tag>
+		<English>Foot Knight (Magyar Noble)</English>
+		<German>
+			<Text>Ungarischer Adliger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_INCA</Tag>
+		<English>Foot Knight (Curaca)</English>
+		<German>
+			<Text>Kuraka</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_INDIA</Tag>
+		<English>Foot Knight (Kshatriya)</English>
+		<German>
+			<Text>Kshatriya-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_ISRAEL</Tag>
+		<English>Foot Knight (Khazar Noble)</English>
+		<German>
+			<Text>Khazar Adel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_KHMER</Tag>
+		<English>Foot Knight (Cambodian Noble)</English>
+		<German>
+			<Text>Kambodschanischer Edelmann</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_KOREA</Tag>
+		<English>Foot Knight (Ssangsudo)</English>
+		<German>
+			<Text>Ssangsudo-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_LITHUANIA</Tag>
+		<English>Foot Knight (Slekta)</English>
+		<German>
+			<Text>Ausgebautes Slekta</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_MALI</Tag>
+		<English>Foot Knight (Farimba)</English>
+		<German>
+			<Text>Farimba</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_MAYA</Tag>
+		<English>Foot Knight (Quiriguan)</English>
+		<German>
+			<Text>Quiriguan-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_MONGOL</Tag>
+		<English>Foot Knight (Il-Khan)</English>
+		<German>
+			<Text>Ilchane-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_MUGHAL</Tag>
+		<English>Foot Knight (Mughal)</English>
+		<German>
+			<Text>Gepanzerter Mughalischer Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_NUBIA</Tag>
+		<English>Foot Knight (Sudanese Noble)</English>
+		<German>
+			<Text>Sudanischer Ritter zu Fu&#223;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_OTTOMAN</Tag>
+		<English>Foot Knight (Silahtar)</English>
+		<German>
+			<Text>Silahdar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_PERSIA</Tag>
+		<English>Foot Knight (Aswaran)</English>
+		<German>
+			<Text>Asbaran-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_POLAND</Tag>
+		<English>Foot Knight (Rycerz)</English>
+		<German>
+			<Text>Szlachta</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_PORTUGAL</Tag>
+		<English>Foot Knight (Fidalgo)</English>
+		<German>
+			<Text>Portugiesischer Adliger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_ROME</Tag>
+		<English>Foot Knight (Cavalieri Normanno)</English>
+		<German>
+			<Text>S&#252;deurop&#228;ischer Ritter zu Fu&#223;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_RUSSIA</Tag>
+		<English>Foot Knight (Boyar)</English>
+		<German>
+			<Text>Bojar-Ritter zu Fu&#223;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_SPAIN</Tag>
+		<English>Foot Knight (Castillan)</English>
+		<German>
+			<Text>Kastillischer Ritter zu Fu&#223;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_TATAR</Tag>
+		<English>Foot Knight (Mirza)</English>
+		<German>
+			<Text>Mirza</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_TRANSOXIANA</Tag>
+		<English>Foot Knight (Timurid)</English>
+		<German>
+			<Text>Ilchane-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_VENICE</Tag>
+		<English>Foot Knight (Dalmatian)</English>
+		<German>
+			<Text>Dalmatinischer Fu&#223;ritter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOT_KNIGHT_ZULU</Tag>
+		<English>Foot Knight (Nkosi)</English>
+		<German>
+			<Text>Zuluischer Kopfgeldj&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_LEVY -->
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_ABORIGINE</Tag>
+		<English>Levy (Aborigine)</English>
+		<German>
+			<Text>Ozeanischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_AUSTRONESIA</Tag>
+		<English>Levy (Pencak Silat)</English>
+		<German>
+			<Text>Pencak Silat-K&#228;mpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_AZTEC</Tag>
+		<English>Levy (Macehualtin)</English>
+		<German>
+			<Text>Macehualtin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_BARBARIAN</Tag>
+		<English>Levy (Local)</English>
+		<German>
+			<Text>Schurke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_CELT</Tag>
+		<English>Levy (Ceitherne)</English>
+		<German>
+			<Text>Ceitherne</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_DRAVIDIAN</Tag>
+		<English>Levy (Shudra)</English>
+		<German>
+			<Text>Shudra-Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_DUTCH</Tag>
+		<English>Levy (Frisian)</English>
+		<German>
+			<Text>Niederl&#228;ndischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_EGYPT</Tag>
+		<English>Levy (Harafisha)</English>
+		<German>
+			<Text>Harafisha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_ENGLAND</Tag>
+		<English>Levy (Billman)</English>
+		<German>
+			<Text>Hippentr&#228;ger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_FRANCE</Tag>
+		<English>Levy (Voulgier)</English>
+		<German>
+			<Text>Voulgier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_HUNGARY</Tag>
+		<English>Levy (Magyar)</English>
+		<German>
+			<Text>Ungarischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_INDIA</Tag>
+		<English>Levy (Rajput)</English>
+		<German>
+			<Text>Rajputischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_ISRAEL</Tag>
+		<English>Levy (Jewish)</English>
+		<German>
+			<Text>Jud&#228;ischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_MUGHAL</Tag>
+		<English>Levy (Mughal)</English>
+		<German>
+			<Text>Mughalischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_NATIVE_SOUTH</Tag>
+		<English>Levy (Native)</English>
+		<German>
+			<Text>Indigener Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_POLYNESIA</Tag>
+		<English>Levy (Koa)</English>
+		<German>
+			<Text>Koa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_SIBERIA</Tag>
+		<English>Levy (Yenisei)</English>
+		<German>
+			<Text>Jenissei-Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_SLAVIC</Tag>
+		<English>Levy (Slavic)</English>
+		<German>
+			<Text>Slavischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_TRANSOXIANA</Tag>
+		<English>Levy (Timurid)</English>
+		<German>
+			<Text>Timuridischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY</Tag>
+		<English>Levy</English>
+		<German>
+			<Text>Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_AFRICAN</Tag>
+		<English>Levy (African)</English>
+		<German>
+			<Text>Afrikanischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_ARAB</Tag>
+		<English>Levy (Fellah)</English>
+		<German>
+			<Text>Arabischer Fellache</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_ARABIC</Tag>
+		<English>Levy (North African Fellah)</English>
+		<German>
+			<Text>Nordafrikanischer Fellache</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_ASIAN</Tag>
+		<English>Levy (Asian)</English>
+		<German>
+			<Text>Asiatischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_EUROPEAN</Tag>
+		<English>Levy (European)</English>
+		<German>
+			<Text>Eur&#246;p&#228;ischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_INCA</Tag>
+		<English>Levy (Hatun Runa)</English>
+		<German>
+			<Text>Hatun Runa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_JAPAN</Tag>
+		<English>Levy (Yari Nomin)</English>
+		<German>
+			<Text>Yari Nomin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_KOREA</Tag>
+		<English>Levy (Righteous Militia)</English>
+		<German>
+			<Text>Partisan der Gerechten Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_NATIVE_NORTH</Tag>
+		<English>Levy (Tribal)</English>
+		<German>
+			<Text>Stammesrekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_NORDIC</Tag>
+		<English>Levy (Nordic)</English>
+		<German>
+			<Text>Nordischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_OTTOMAN</Tag>
+		<English>Levy (Azap)</English>
+		<German>
+			<Text>Azap</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_PERSIA</Tag>
+		<English>Levy (Sassanid)</English>
+		<German>
+			<Text>Sassanidischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEVY_SPAIN</Tag>
+		<English>Levy (Almogavar)</English>
+		<German>
+			<Text>Almog&#224;ver</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+</Civ4GameText>

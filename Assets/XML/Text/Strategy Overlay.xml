@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Translations for various menu options
+-->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_TITLE</Tag>
+		<English>Strategy Overlay</English>
+		<German>Strategie-Overlay</German>
+	</TEXT>
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_DOTMAPPER</Tag>
+		<English>Dot Mapper</English>
+		<German>Punkt-Werkzeug</German>
+	</TEXT>
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_PLACECITY</Tag>
+		<English>Place City</English>
+		<German>Stadt platzieren</German>
+	</TEXT>
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_REMOVECITY</Tag>
+		<English>Remove City</English>
+		<German>Stadt entfernen</German>
+	</TEXT>
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_COLORSELECT</Tag>
+		<English>Color Selection</English>
+		<German>Farbauswahl</German>
+	</TEXT>
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_SIGNS</Tag>
+		<English>Signs</English>
+		<German>Markierungen</German>
+	</TEXT>
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_ADDSIGN_TITLE</Tag>
+		<English>Add Overlay Sign</English>
+		<German>Overlay-Markierung hinzufügen</German>
+	</TEXT>
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_ADDSIGN_BODY</Tag>
+		<English>Caption for the sign</English>
+		<German>Text der Markierung</German>
+	</TEXT>
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_ADDSIGN</Tag>
+		<English>Add Sign</English>
+		<German>Markierung hinzufügen</German>
+	</TEXT>
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_REMOVESIGN</Tag>
+		<English>Remove Sign</English>
+		<German>Markierung entfernen</German>
+	</TEXT>
+	<TEXT>
+	    <Tag>TXT_KEY_STRATOVERLAY_ADDSIGN_EDITBOX_HELP</Tag>
+	    <English>Enter the text to be displayed on the sign</English>
+	    <German>Eingabe des Textes, der auf der Markierung erscheinen soll</German>
+	</TEXT>
+</Civ4GameText>

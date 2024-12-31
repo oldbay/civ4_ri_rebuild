@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PLAYER_OPTION_ADVANCED_AUTOMATIONS</Tag>
+		<English>Advanced Automations</English>
+		<French>Pilleurs Automatisés ignorent les dangers</French>
+		<German>Automatisiertes Plündern ignoriert Gefahren</German>
+		<Italian>Automated Pillaging Ignores Danger</Italian>
+		<Spanish>Automated Pillaging Ignores Danger</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAYER_OPTION_ADVANCED_AUTOMATIONS_HELP</Tag>
+		<English>Enables advanced unit automations.</English>
+		<German>Aktiviert erweiterte Einheitenautomatisierung.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAYEROPTION_BORDER_STAY_IN_BORDERS</Tag>
+		<English>Patrolling Units will not leave friendly borders</English>
+		<French>Unités patrouillent à l'intérieur de leurs frontières</French>
+		<German>Patrouillierende Einheiten werden keine freundlichen Grenzen verlassen</German>
+		<Italian>Patrolling Units will not leave friendly borders</Italian>
+		<Spanish>Patrolling Units will not leave friendly borders</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAYEROPTION_BORDER_STAY_IN_BORDERS_HELP</Tag>
+		<English>Units Automated to Border Patrol will not leave friendly territory for any reason.</English>
+		<French>Les Unités Automatisées pour la Patrouille des frontières resteront toujours à l'intérieur de leur territoire.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, patrouilliert diese nur innerhalb der freundlichen Grenzen.</German>
+		<Italian>Units Automated to Border Patrol will not leave friendly territory for any reason.</Italian>
+		<Spanish>Units Automated to Border Patrol will not leave friendly territory for any reason.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_PILLAGE</Tag>
+		<English>Automate Pillage</English>
+		<French>Pillage Automatisé</French>
+		<German>Plünderung (automatisch)</German>
+		<Italian>Automate Pillage</Italian>
+		<Spanish>Automate Pillage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_PILLAGE_HELP</Tag>
+		<English>Send the unit to search and destroy enemy's improvements</English>
+		<French>Envoie l'unité pour rechercher et détruire les aménagements de terrain ennemis.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, sucht diese nach Modernisierungen des Gegners um sie zu zerstören.</German>
+		<Italian>Send the unit to search and destroy enemy's improvements</Italian>
+		<Spanish>Send the unit to search and destroy enemy's improvements</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_HUNT</Tag>
+		<English>Automate Hunt</English>
+		<French>Traque Automatisée</French>
+		<German>Jagd (automatisch)</German>
+		<Italian>Automate Hunt</Italian>
+		<Spanish>Automate Hunt</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_BORDER_PATROL_HELP</Tag>
+		<English>Send the unit to patrol your civilization's borders and kill invading enemy units</English>
+		<French>Envoi l'unité patrouiller les frontières et tuer les envahisseurs ennemis.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, patrouilliert diese an den freundlichen Grenzen und wehrt eindringende gegnerische Einheiten ab.</German>
+		<Italian>Send the unit to patrol your civilization's borders and kill invading enemy units</Italian>
+		<Spanish>Send the unit to patrol your civilization's borders and kill invading enemy units</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_CITY_DEFENSE</Tag>
+		<English>Automate City Defense</English>
+		<French>Défense de Ville Automatisée</French>
+		<German>Stadtverteidigung (automatisch)</German>
+		<Italian>Automate City Defense</Italian>
+		<Spanish>Automate City Defense</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_CITY_DEFENSE_HELP</Tag>
+		<English>Will protect the city from nearby attackers.</English>
+		<French>L'unité protège la Ville des attaquants à proximité.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, schützt diese die Stadt vor Angreifern in der Nähe.</German>
+		<Italian>Will protect the city from nearby attackers.</Italian>
+		<Spanish>Will protect the city from nearby attackers.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_BORDER_PATROL</Tag>
+		<English>Automate Border Patrol</English>
+		<French>Patrouille Automatisée</French>
+		<German>Grenzschutz (automatisch)</German>
+		<Italian>Automate Border Patrol</Italian>
+		<Spanish>Automate Border Patrol</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_HUNT_HELP</Tag>
+		<English>Send the unit to hunt down and kill any enemy units it can find.</English>
+		<French>Envoi l'unité pour traquer et tuer toutes les unités ennemies.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, jagd und tötet diese alle feindlichen Einheiten, die sie finden kann.</German>
+		<Italian>Send the unit to hunt down and kill any enemy units it can find.</Italian>
+		<Spanish>Send the unit to hunt down and kill any enemy units it can find.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_HURRY</Tag>
+		<English>Automate Hurry</English>
+		<French>Accélération Automatisée</French>
+		<German>Beschleunigung (automatisch)</German>
+		<Italian>Automate Hurry</Italian>
+		<Spanish>Automate Hurry</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_HURRY_HELP</Tag>
+		<English>Send the unit to hurry the construction of a building in a nearby city.</English>
+		<French>Envoi l'unité pour accélérer la construction d'un bâtiment dans la ville la plus proche.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, wird diese den Bau eines Gebäudes in einer nahe gelegenen Stadt beschleunigen.</German>
+		<Italian>Send the unit to hurry the construction of a building in a nearby city.</Italian>
+		<Spanish>Send the unit to hurry the construction of a building in a nearby city.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_PIRATE</Tag>
+		<English>Automate Piracy</English>
+		<French>Piratage Automatisé</French>
+		<German>Piraterie (automatisch)</German>
+		<Italian>Automate Piracy</Italian>
+		<Spanish>Automate Piracy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_PIRATE_HELP</Tag>
+		<English>Send the unit to plunder and raid nearby settlements, and sink weak or unprotected transports.</English>
+		<French>Envoi l'unité pour piller et couller les transports sans protections et les installations maritimes.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, wird diese nahe gelegene Siedlungen plündern und überfallen sowie schwache oder ungeschützte Transporter versenken.</German>
+		<Italian>Send the unit to plunder and raid nearby settlements, and sink weak or unprotected transports.</Italian>
+		<Spanish>Send the unit to plunder and raid nearby settlements, and sink weak or unprotected transports.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_AIRSTRIKE</Tag>
+		<English>Automate Airstrike</English>
+		<French>Interception Automatisé</French>
+		<German>Luftangriff (automatisch)</German>
+		<Italian>Automate Airstrike</Italian>
+		<Spanish>Automate Airstrike</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_AIRSTRIKE_HELP</Tag>
+		<English>Send the unit to attack enemy units whereever possible.</English>
+		<French>Envoi l'unité attaquer les unités ennemies dès que possible.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, greift diese gegnerische Einheiten an, wo immer es möglich ist.</German>
+		<Italian>Send the unit to attack enemy units whereever possible.</Italian>
+		<Spanish>Send the unit to attack enemy units whereever possible.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_AIRBOMB</Tag>
+		<English>Automate Airbomb</English>
+		<French>Bombardement Automatisé</French>
+		<German>Bombardierung (automatisch)</German>
+		<Italian>Automate Airbomb</Italian>
+		<Spanish>Automate Airbomb</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_AIRBOMB_HELP</Tag>
+		<English>Send the unit to attack enemy fortifications, improvements, and cities wherevever possible.</English>
+		<French>Envoi l'unité attaquer les fortifications ennemies, les aménagement et les Villes dès que possible.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, greift diese gegnerische Befestigungen, Verbesserungen und Städte an, wo immer es möglich ist.</German>
+		<Italian>Send the unit to attack enemy fortifications, improvements, and cities wherevever possible.</Italian>
+		<Spanish>Send the unit to attack enemy fortifications, improvements, and cities wherevever possible.</Spanish>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_MISSION_ESPIONAGE_SLEEP</Tag>
+		<English>Gather Intel</English>
+		<French>Récolte d'Infos</French>
+		<German>Sammle Informationen</German>
+		<Italian>Gather Intel</Italian>
+		<Spanish>Gather Intel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_ESPIONAGE_SLEEP_HELP</Tag>
+		<English>This unit will gather intelligence and not awaken until it reaches the maximum espionage bonus</English>
+		<French>Cette Unité va récolter des Informations et devenir à nouveau active lorsqu'elle aura atteint son bonus maximum d'espionnage.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, sammelt diese solange Informationen bis sie ihr Maximum an Spionagepunkten erreicht hat.</German>
+		<Italian>This unit will gather intelligence and not awaken until it reaches the maximum espionage bonus</Italian>
+		<Spanish>This unit will gather intelligence and not awaken until it reaches the maximum espionage bonus</Spanish>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_AIR_RECON</Tag>
+		<English>Automate Air Recon</English>
+		<French>Reconnaissance aérienne Automatisée</French>
+		<German>Luftaufklärung (automatisch)</German>
+		<Italian>Automate Air Recon</Italian>
+		<Spanish>Automate Air Recon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATEAIR_RECON_HELP</Tag>
+		<English>Will recon nearby enemy emplacements.</English>
+		<French>Effectue automatiquement des opérations de reconnaissance</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, kundschaftet diese in der Nähe befindliche feindliche Stellungen aus.</German>
+		<Italian>Will recon nearby enemy emplacements.</Italian>
+		<Spanish>Will recon nearby enemy emplacements.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_UPGRADING</Tag>
+		<English>Automate Upgrade</English>
+		<French>Améliorations automatisées</French>
+		<German>Modernisieren (automatisch)</German>
+		<Italian>Automate Upgrade</Italian>
+		<Spanish>Automate Upgrade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_UPGRADING_HELP</Tag>
+		<English>Will Upgrade to New Units whenever possible.</English>
+		<French>Améliore automatiquement les Unités lorsque c'est possible.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, modernisiert diese sich wann immer es möglich ist zu einer neuen Einheit.</German>
+		<Italian>Will Upgrade to New Units whenever possible.</Italian>
+		<Spanish>Will Upgrade to New Units whenever possible.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_UPGRADING</Tag>
+		<English>Cancel Automate Upgrade</English>
+		<French>Annuler les Améliorations automatisées</French>
+		<German>Abbrechen von Modernisieren (automatisch)</German>
+		<Italian>Cancel Automate Upgrade</Italian>
+		<Spanish>Cancel Automate Upgrade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_UPGRADING_HELP</Tag>
+		<English>Cancels the Automate Upgrade Order</English>
+		<French>Annule les ordres d'Améliorations automatisées</French>
+		<German>Bricht den Automatisierten Modernisierungs-Auftrag ab.</German>
+		<Italian>Cancels the Automate Upgrade Order</Italian>
+		<Spanish>Cancels the Automate Upgrade Order</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_PROMOTIONS</Tag>
+		<English>Automate Promote</English>
+		<French>Promotions Automatisées</French>
+		<German>Befördern (automatisch)</German>
+		<Italian>Automate Promote</Italian>
+		<Spanish>Automate Promote</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_PROMOTIONS_HELP</Tag>
+		<English>Will auto-promote whenever the unit can gain a promotion</English>
+		<French>Attribue automaiquement une promotion lorsque l'unité peut en gagner</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, wählt diese selbst eine Beförderung aus, wann immer es möglich ist.</German>
+		<Italian>Will auto-promote whenever the unit can gain a promotion</Italian>
+		<Spanish>Will auto-promote whenever the unit can gain a promotion</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_PROMOTIONS</Tag>
+		<English>Cancel Automate Promote</English>
+		<French>Annuler Promotions Automatisées</French>
+		<German>Abbrechen von Befördern (automatisch)</German>
+		<Italian>Cancel Automate Promote</Italian>
+		<Spanish>Cancel Automate Promote</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_PROMOTIONS_HELP</Tag>
+		<English>Cancels the Automate Promote Order</English>
+		<French>Annule les ordres de Promotions Automatisées</French>
+		<German>Bricht den Automatisierten Beförderungs-Auftrag ab.</German>
+		<Italian>Cancels the Automate Promote Order</Italian>
+		<Spanish>Cancels the Automate Promote Order</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_PROTECT</Tag>
+		<English>Automate Protect</English>
+		<French>Automate Protect</French>
+		<German>Beschützen (automatisch)</German>
+		<Italian>Automate Protect</Italian>
+		<Spanish>Automate Protect</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_PROTECT_HELP</Tag>
+		<English>Allows selection of a unit to protect and escort.</English>
+		<French>Allows selection of a unit to protect and escort.</French>
+		<German>Erteilen Sie einer Einheit diesen Befehl, begleitet und schützt diese eine von Ihnen ausgewählte Einheit.</German>
+		<Italian>Allows selection of a unit to protect and escort.</Italian>
+		<Spanish>Allows selection of a unit to protect and escort.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CAN_NOT_AUTOMATE_PROTECT_NOT_FAST_ENOUGH</Tag>
+		<English>[COLOR_WARNING_TEXT]The %s1 is faster than your %s2. Only units with %d3 or more moves can protect a %s4.[COLOR_REVERT]</English>
+		<French>[COLOR_WARNING_TEXT]The %s1 is faster than your %s2. Only units with %d3 or more moves can protect a %s4.[COLOR_REVERT]</French>
+		<German>[COLOR_WARNING_TEXT]% s1 ist schneller als % s2. Nur Einheiten mit % d3 oder mehr Fortbewegungspunkte können % s4 schützen.[COLOR_REVERT]</German>
+		<Italian>[COLOR_WARNING_TEXT]The %s1 is faster than your %s2. Only units with %d3 or more moves can protect a %s4.[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_WARNING_TEXT]The %s1 is faster than your %s2. Only units with %d3 or more moves can protect a %s4.[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CAN_NOT_AUTOMATE_PROTECT_DIFFERENT_TEAM</Tag>
+		<English>[COLOR_WARNING_TEXT]The %s1 is not on your team![COLOR_REVERT]</English>
+		<French>[COLOR_WARNING_TEXT]The %s1 is not on your team![COLOR_REVERT]</French>
+		<German>[COLOR_WARNING_TEXT]The %s1 ist nicht in Ihrem Team![COLOR_REVERT]</German>
+		<Italian>[COLOR_WARNING_TEXT]The %s1 is not on your team![COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_WARNING_TEXT]The %s1 is not on your team![COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CAN_NOT_AUTOMATE_PROTECT_YOURSELF</Tag>
+		<English>[COLOR_WARNING_TEXT]You can not protect yourself![COLOR_REVERT]</English>
+		<French>[COLOR_WARNING_TEXT]You can not protect yourself![COLOR_REVERT]</French>
+		<German>[COLOR_WARNING_TEXT]Sie können sich nicht sebst beschützen![COLOR_REVERT]</German>
+		<Italian>[COLOR_WARNING_TEXT]You can not protect yourself![COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_WARNING_TEXT]You can not protect yourself![COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CHOOSE_UNIT_TO_SHADOW</Tag>
+		<English>Select a unit to protect :</English>
+		<French>Select a unit to protect :</French>
+		<German>Wählen Sie eine zu schützende Einheit :</German>
+		<Italian>Select a unit to protect :</Italian>
+		<Spanish>Select a unit to protect :</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_WAIT_FOR_TECH</Tag>
+		<English>Choose Desired Discovery Tech</English>
+		<French>Choose Desired Discovery Tech</French>
+		<German>Wählen Sie die Technoogie aus, die Sie entdecken möchten</German>
+		<Italian>Choose Desired Discovery Tech</Italian>
+		<Spanish>Choose Desired Discovery Tech</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_WAIT_FOR_TECH_HELP</Tag>
+		<English>Allows selection of a of the desired discovery tech. The unit will sleep until that tech becomes available to research, and then will be consumed in researching it.</English>
+		<French>Allows selection of a of the desired discovery tech. The unit will sleep until that tech becomes available to research, and then will be consumed in researching it.</French>
+		<German>Ermöglicht die Auswahl einer Technologie. Die Einheit wird schlafen, bis diese Technologie der Forschung zur Verfügung steht, und dann wird sie verbraucht, um sie zu erforschen.</German>
+		<Italian>Allows selection of a of the desired discovery tech. The unit will sleep until that tech becomes available to research, and then will be consumed in researching it.</Italian>
+		<Spanish>Allows selection of a of the desired discovery tech. The unit will sleep until that tech becomes available to research, and then will be consumed in researching it.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CHOOSE_TECH_TO_WAIT_FOR</Tag>
+		<English>Choose Your Desired Discovery :</English>
+		<French>Choose Your Desired Discovery :</French>
+		<German>Wählen Sie Ihre Technoogie aus, die Sie entdecken möchten :</German>
+		<Italian>Choose Your Desired Discovery :</Italian>
+		<Spanish>Choose Your Desired Discovery :</Spanish>
+	</TEXT>
+</Civ4GameText>

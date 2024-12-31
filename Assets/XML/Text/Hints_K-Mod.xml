@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- K-Mod hints -->
+	<!-- Style guidelines (from CIV4GameText_Strategy.xml): -->
+	<!-- Technologies should be colored COLOR_TECH_TEXT (example: [COLOR_TECH_TEXT]Bronze Working[COLOR_REVERT]) -->
+	<!-- Unit should be colored COLOR_UNIT_TEXT (example: [COLOR_UNIT_TEXT]Archers[COLOR_REVERT]) -->
+	<!-- Buildings should be colored COLOR_BUILDING_TEXT (example: [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]) -->
+	<!-- Projects should be colored COLOR_PROJECT_TEXT (example: [COLOR_PROJECT_TEXT]SS Engine[COLOR_REVERT]) -->
+	<!-- Anything else official (that should be capitalized) should be colored COLOR_HIGHLIGHT_TEXT (example: [COLOR_HIGHLIGHT_TEXT]Trade Mission[COLOR_HIGHLIGHT_TEXT] or [COLOR_HIGHLIGHT_TEXT]Islam[COLOR_HIGHLIGHT_TEXT]) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+<TEXT>
+	<Tag>TXT_KEY_BUG_HINT_INTERFACE_1</Tag>
+	<English>Press [ALT + CTRL + O] to open The Interface Options Screen.</English>
+	<German>Mit der Tastenkombination [STRG + ALT + O] lässt sich das Optionsmenü der BUG Mod aufrufen.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_1</Tag>
+	<English>If your civilization has a National Improvement that is dependent on one resource, you will be able to cultivate that resource.</English>
+	<German>Aquedukte und Krankenhäuser erhöhen Gesundheit, aber öffentliche Verkehrsmittel und Recyclinganlagen verringern Umweltverschmutzung...</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_2</Tag>
+	<English>The cultural influence of each city extends beyond its border. If you are being culturally pressured by another civilization, consider getting more culture in all nearby cities; not just the cities being pressed.</English>
+	<German>Der kulturelle Einfluss einer Stadt erstreckt sich über ihre Grenzen hinaus. Unter kulturellem Druck bietet es sich daher an, auch in benachbarten Städten mehr Kultur zu produzieren, nicht nur in den betroffenen Städten.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_3</Tag>
+	<English>Unit costs increase for each unit of that role already present. This also means that if both old and new unit have the same role, upgrade costs will always be constant.</English>
+	<German>Wälder und Dschungel helfen die Umweltverschmutzung Ihrer Zivilisation auszugleichen. Ziehen Sie in Betracht, sie zu erhalten, um dem Klimawandel entgegenzuwirken.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_4</Tag>
+	<English>If a rival civilization becomes fixated on world domination - beware! They may decide to attack you even if they appear friendly.</English>
+	<German>Wenn eine rivalisierende Zivilisation sich auf Weltherrschaft fixiert - vorsicht! Sie könnten sich entscheiden, Sie anzugreifen, selbst wenn sie freundlich erscheinen.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_5</Tag>
+	<English>A unit can have more than one role, therefore increasing the cost of several unit categories when built.</English>
+	<German>Fabriken und Industriegebiete erzeugen zusätzliche Verschmutzung mit Kohle und Öl. Benötigen Sie ihre fossilen Brennstoffe nicht, ziehen Sie in Betracht, den Zugang zu ihnen abzuschneiden, damit Ihre Bevölkerung gesünder wird.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_6</Tag>
+	<English>Units with the "leadership" warlord promotion greatly reduce the chance of cultural revolts in their city.</English>
+	<German>Einheiten mit der "Kriegsherr"-Beförderung in Städten verringern sehr die Wahrscheinlichkeit von kulturbedingten Revolten.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_7</Tag>
+	<English>When a Great General chooses to lead a unit as a warlord, it shares an immediate experience boost to all units in the group. More experience points are given to bigger groups.</English>
+	<German>Wenn ein Großer General sich dazu entschließt, eine Einheit als Kriegsherr zu führen, teilt er einmalig einige Erfahrungspunkte mit allen Einheiten der Gruppe.  Größere Gruppen erhalten dabei mehr Punkte als kleine.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_8</Tag>
+	<English>Hold down the [ALT] key and point to a building or specialist to see the net effect it would have in the current city.</English>
+	<German>Halte [Alt] gedrückt und zeige auf ein Gebäude oder einen Spezialisten um zu sehen, welchen netto Effekt es oder er in der aktüllen Stadt hätte.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_9</Tag>
+	<English>As religions grow older, they become slightly less likely to spread.</English>
+	<German>Ältere Religionen verbreiten sich ein kleines bisschen langsamer.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_10</Tag>
+	<English>If a foreign leader is Pleased with you, they will not mind being asked for a small gift.</English>
+	<German>Zufriedene Anführer anderer Zivilisationen stört es nicht, wenn man sie um etwas bittet.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_11</Tag>
+	<English>In vanilla Civ 4, sea units can enter all water tiles within their owner's border, even if they wouldn't be able to enter ocean tiles otherwise. In Realism: Invictus, this applies to land units as well, as there are certain units normally unable to enter forest and jungle.</English>
+	<German>Von Kriegsherren angeführte Einheiten können umsonst modernisiert werden und verlieren dabei auch keine Erfahrungspunkte.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_12</Tag>
+	<English>When a stack of units is attacked, the unit with the best chance of winning will usually defend first - but rookie units will attempt to protect experienced veterans and medics.</English>
+	<German>Wenn ein Einheitenstapel angegriffen wird, verteidigt normalerweise die Einheit mit der besten Siegeschance zuerst - aber grüne Einheiten werden versuchen erfahrene Veteranen und Ärzte zu beschützen.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_13</Tag>
+	<English>In the city build queue, use [CTRL] and [SHIFT] to move items up and down; and [ALT] to toggle whether or not items should repeat.</English>
+	<German>In der Bauauftragsliste einer Stadt können [Strg] und [Umschalt] benutzt werden um Einträge hoch und runter zu bewegen; und [Alt] um Einträge endlos bauen zu lassen.</German>
+</TEXT>
+<!-- replacement text for the inaccurate barbarian tip (changed english and german only)-->
+<TEXT>
+	<Tag>TXT_KEY_HINT_12</Tag>
+	<English>Barbarians will not spawn within two steps of any player's units. With careful positioning of scouts you can completely block barbarian raiding parties from forming in your area.</English>
+	<German>Barbarische Einheiten entstehen nicht auf Geländefeldern, die zwei oder weniger Schritte von Einheiten anderer Spieler entfernt sind. Ein paar gut platzierte Einheiten können so oft ganze Bereiche von Barbaren frei halten.</German>
+</TEXT>
+<!-- replacement text for the double-click tip, because I've changed the functionality of double-click -->
+<TEXT>
+	<Tag>TXT_KEY_HINT_INTERFACE_6</Tag>
+	<English>Double clicking on a stack of units will wake them all up.</English>
+	<German>Ein Doppelklick auf einen Einheitenstapel weckt sie alle auf.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_14</Tag>
+	<English>Hold the 'X' key when issuing a command to temporarily suppress automatic unit cycling.</English>
+	<German>Halte 'X' gedrückt um den automatischen Einheitenwechsel zu unterdrücken.</German>
+</TEXT>
+<TEXT>
+	<Tag>TXT_KEY_KMOD_HINT_15</Tag>
+	<English>Commerce sliders and espionage weights can be set to max/min quickly by right clicking their +/- buttons.</English>
+	<German>Die Handelsraten und Spinonagegewichtungen können durch einen Rechtsklick auf die Plus- oder Minusknöpfe schnell maximiert beziehungsweise minimiert werden.</German>
+</TEXT>
+</Civ4GameText>

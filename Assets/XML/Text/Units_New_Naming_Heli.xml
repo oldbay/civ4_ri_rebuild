@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <!-- BEGIN: UNITCLASS_GUNSHIP -->
+  <!-- <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP</Tag>
+  </TEXT> -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_EAST_BLOC</Tag>
+    <English>Gunship (Mil Mi-24 E)</English>
+    <German>
+      <Text>Mil Mi-24 E</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_UKRAINE</Tag>
+    <English>Gunship (Mil Mi-24 RCh)</English>
+    <German>
+      <Text>Mil Mi-24 RCh</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_TRANSOXIANA</Tag>
+    <English>Gunship (Mil Mi-24 P)</English>
+    <German>
+      <Text>Mil Mi-24 P</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_AUSTRONESIA</Tag>
+    <English>Gunship (Mil Mi-35 P)</English>
+    <German>
+      <Text>Mil Mi-35 P</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_MALI</Tag>
+    <English>Gunship (Mil Mi-35 M)</English>
+    <German>
+      <Text>Mil Mi-35 M</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_INCA</Tag>
+    <English>Gunship (Mil Mi-25)</English>
+    <German>
+      <Text>Mil Mi-25</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_ARMENIA</Tag>
+    <English>Gunship (Mil Mi-24 K)</English>
+    <German>
+      <Text>Mil Mi-24 K</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_HUNGARY</Tag>
+    <English>Gunship (Mil Mi-24 Csorike)</English>
+    <German>
+      <Text>Mil Mi-24 Hind Csorike</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_POLAND</Tag>
+    <English>Gunship (Mil Mi-24 W)</English>
+    <German>
+      <Text>Mil Mi-24 W</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_INDIA</Tag>
+    <English>Gunship (Mil Mi-35)</English>
+    <German>
+      <Text>Mil Mi-35</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_CARTHAGE</Tag>
+    <English>Gunship (Mil Mi-24 SuperHind)</English>
+    <German>
+      <Text>Mi-24 Super Hind</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_MONGOL</Tag>
+    <English>Gunship (Mil Mi-24 V)</English>
+    <German>
+      <Text>Mil Mi-24 V</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_ETHIOPIA</Tag>
+    <English>Gunship (Mil Mi-24 D)</English>
+    <German>
+      <Text>Mil Mi-24 D</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_RUSSIA</Tag>
+    <English>Gunship (Mil Mi-24 PN)</English>
+    <German>
+      <Text>Mil Mi-24 PN</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_FRANCE</Tag>
+    <English>Gunship (A&#233;rospatiale Gazelle)</English>
+    <German>
+      <Text>A&#233;rospatiale Gazelle</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_EGYPT</Tag>
+    <English>Gunship (ABHCO Gazelle)</English>
+    <German>
+      <Text>ABHCO Gazelle</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_BERBER</Tag>
+    <English>Gunship (A&#233;rospatiale Gazelle SA342)</English>
+    <German>
+      <Text>A&#233;rospatiale Gazelle SA342</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_CELT</Tag>
+    <English>Gunship (A&#233;rospatiale Gazelle SA342L)</English>
+    <German>
+      <Text>A&#233;rospatiale Gazelle SA342L</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_CHINA</Tag>
+    <English>Gunship (Harbin Z-9)</English>
+    <German>
+      <Text>Harbin Z-9</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_ENGLAND</Tag>
+    <English>Gunship (Westland Gazelle)</English>
+    <German>
+      <Text>Westland Gazelle</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_BABYLON</Tag>
+    <English>Gunship (A&#233;rospatiale Gazelle SA342K)</English>
+    <German>
+      <Text>A&#233;rospatiale Gazelle SA342K</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_BRAZIL</Tag>
+    <English>Gunship (Westland Lynx Mk.21)</English>
+    <German>
+      <Text>Westland Lynx Mk.21</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_ZULU</Tag>
+    <English>Gunship (Westland Lynx Mk.64)</English>
+    <German>
+      <Text>Westland Lynx Mk.64</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_KOREA</Tag>
+    <English>Gunship (Westland Lynx Mk.99)</English>
+    <German>
+      <Text>Westland Lynx Mk.99</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_GERMANY</Tag>
+    <English>Gunship (Westland Lynx Mk.88A)</English>
+    <German>
+      <Text>Westland Lynx Mk.88A</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_MUGHAL</Tag>
+    <English>Gunship (Westland Lynx HAS.3)</English>
+    <German>
+      <Text>Westland Lynx HAS.3</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_PERSIA</Tag>
+    <English>Gunship (AH-1J International)</English>
+    <German>
+      <Text>AH-1J International</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_ISRAEL</Tag>
+    <English>Gunship (AH-1 Tzefa)</English>
+    <German>
+      <Text>AH-1 Tzefa</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_JAPAN</Tag>
+    <English>Gunship (AH-1S Cobra)</English>
+    <German>
+      <Text>AH-1S Cobra</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_SPAIN</Tag>
+    <English>Gunship (Z-14 HueyCobra)</English>
+    <German>
+      <Text>Z-14 HueyCobra</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_TURKEY</Tag>
+    <English>Gunship (AH-1W Cobra)</English>
+    <German>
+      <Text>AH-1W Cobra</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GUNSHIP_WEST_BLOC</Tag>
+    <English>Gunship (AH-1 Cobra)</English>
+    <German>
+      <Text>AH-1 Cobra</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_GUNSHIP -->
+    <!-- BEGIN: UNITCLASS_HELI_TRANSPORT -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT</Tag>
+    <English>Transport Helicopter - Infantry</English>
+    <German>
+      <Text>Chinook (Infanterie)</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT_KHMER</Tag>
+    <English>Transport Helicopter - Infantry (Mil Mi-8/17-1V)</English>
+    <German>
+      <Text>Mil Mi-8/17-1V</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT_EGYPT</Tag>
+    <English>Transport Helicopter - Infantry (Mil Mi-8TS)</English>
+    <German>
+      <Text>Mil Mi-8TS</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT_BABYLON</Tag>
+    <English>Transport Helicopter - Infantry (Mil Mi-8T)</English>
+    <German>
+      <Text>Mil Mi-8T</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT_AZTEC</Tag>
+    <English>Transport Helicopter - Infantry (Mil Mi-8MTV-1s)</English>
+    <German>
+      <Text>Mil Mi-8MTV-1s</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT_INDIA</Tag>
+    <English>Transport Helicopter - Infantry (Mil Mi-8TBK)</English>
+    <German>
+      <Text>Mil Mi-8TBK</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT_RUSSIA</Tag>
+    <English>Transport Helicopter - Infantry (Mil Mi-8TV)</English>
+    <German>
+      <Text>Mil Mi-8TV</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT_UKRAINE</Tag>
+    <English>Transport Helicopter - Infantry (Mil Mi-8TV - Ukraine)</English>
+    <German>
+      <Text>Mil Mi-8TV</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_HELI_TRANSPORT -->
+    <!-- BEGIN: UNITCLASS_HELI_TRANSPORT2 -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT_TANK</Tag>
+    <English>Transport Helicopter - Tanks</English>
+    <German>
+      <Text>Chinook (Maschinerie)</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT_TANK_RUSSIA</Tag>
+    <English>Transport Helicopter - Tanks (Mil Mi-26)</English>
+    <German>
+      <Text>Mil Mi-26</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HELI_TRANSPORT_TANK_EAST_BLOC</Tag>
+    <English>Transport Helicopter - Tanks (Mil Mi-26T)</English>
+    <German>
+      <Text>Mil Mi-26T</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_HELI_TRANSPORT2 -->
+    <!-- BEGIN: UNITCLASS_MODERN_GUNSHIP -->
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP</Tag>
+    <English>Advanced Gunship</English>
+    <German>
+      <Text>Erdkampfhubschrauber</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_RUSSIA</Tag>
+    <English>Advanced Gunship (Kamov Ka-52)</English>
+    <German>
+      <Text>Kamov Ka-52</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_AMERICA</Tag>
+    <English>Advanced Gunship (AH-64 Apache)</English>
+    <German>
+      <Text>AH-64 Apache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_CHINA</Tag>
+    <English>Advanced Gunship (CAIC Z-10)</English>
+    <German>
+      <Text>CAIC Z-10</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_ENGLAND</Tag>
+    <English>Advanced Gunship (Westland WAH-64)</English>
+    <German>
+      <Text>Westland WAH-64</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_GREECE</Tag>
+    <English>Advanced Gunship (AH-64 Apache - Greece)</English>
+    <German>
+      <Text>AH-64 Apache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_JAPAN</Tag>
+    <English>Advanced Gunship (AH-64 Apache - Japan)</English>
+    <German>
+      <Text>AH-64 Apache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_ISRAEL</Tag>
+    <English>Advanced Gunship (AH-64 Apache - Israel)</English>
+    <German>
+      <Text>AH-64 Apache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_ARABIA</Tag>
+    <English>Advanced Gunship (AH-64 Apache - UAE)</English>
+    <German>
+      <Text>AH-64 Apache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_AUSTRONESIA</Tag>
+    <English>Advanced Gunship (AH-64 Apache - Indonesia)</English>
+    <German>
+      <Text>AH-64 Apache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_DUTCH</Tag>
+    <English>Advanced Gunship (AH-64 Apache - Netherlands)</English>
+    <German>
+      <Text>AH-64 Apache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_INDIA</Tag>
+    <English>Advanced Gunship (AH-64 Apache - India)</English>
+    <German>
+      <Text>AH-64 Apache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_KOREA</Tag>
+    <English>Advanced Gunship (AH-64 Apache - Korea)</English>
+    <German>
+      <Text>AH-64 Apache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_SOUTH_CHINA</Tag>
+    <English>Advanced Gunship (AH-64 Apache - Taiwan)</English>
+    <German>
+      <Text>AH-64 Apache</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_TURKEY</Tag>
+    <English>Advanced Gunship (T-129 ATAK)</English>
+    <German>
+      <Text>T-129 ATAK</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_WEST_EUROPE</Tag>
+    <English>Advanced Gunship (Eurocopter Tiger)</English>
+    <German>
+      <Text>Eurocopter Tiger</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_GERMAN</Tag>
+    <English>Advanced Gunship (Eurocopter Tiger - German)</English>
+    <German>
+      <Text>Eurocopter Tiger</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_ZULU</Tag>
+    <English>Advanced Gunship (Denel Rooivalk)</English>
+    <German>
+      <Text>Denel Rooivalk</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MODERN_GUNSHIP_ROME</Tag>
+    <English>Advanced Gunship (A129 Mangusta)</English>
+    <German>
+      <Text>A129 Mangusta</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+  </TEXT>
+  <!-- END:   UNITCLASS_MODERN_GUNSHIP -->
+</Civ4GameText>

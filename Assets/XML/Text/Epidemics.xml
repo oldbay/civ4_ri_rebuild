@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Help -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REAPER_PEDIA</Tag>
+		<English>[TAB]This is not real building, this represent epidemic strike in this city.</English>
+		<German>[TAB]Dies ist kein echtes Gebäude, dies symbolisiert nur, daß eine Seuche Ihre Stadt heim sucht.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_VACCINE_PEDIA</Tag>
+		<English>[TAB]Vaccination can be used to make you (and your team members) immune to epidemics.</English>
+		<German>[TAB]Impfstoff kann Sie (und Ihre Teammitglieder) gegen Seuchen immun machen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_VACCINE_STRATEGY</Tag>
+		<English>Vaccination can make you immune to epidemics.</English>
+		<German>Impfstoffe können Sie gegen Seuchen immun machen!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REAPER</Tag>
+		<English>Epidemic</English>
+		<German>
+			<Text>Seuche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_VACCINE</Tag>
+		<English>Vaccination</English>
+		<German>
+			<Text>Impfstoff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EPIDEMIC_STRIKE</Tag>
+		<English>%s1 is affected by an epidemic !!!</English>
+		<German>%s1 wird von einer Seuche heimgesucht !!!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EPIDEMIC_STRIKE_END</Tag>
+		<English>Epidemic in %s1 has ended.</English>
+		<German>Die Seuche in %s1 wurde besiegt!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EPIDEMIC_KILL</Tag>
+		<English>Citizens died in %s1, city size reduced to %d2.</English>
+		<German>Bürger in %s1 sterben, Stadtgröße auf %d2 gefallen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_GLOBAL_EPIDEMIC_MODIFIER</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%s1_change [ICON_EPIDEMIC] in empire</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%s1_change [ICON_EPIDEMIC] im Imperium</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GLOBAL_EPIDEMIC_MODIFIER</Tag>
+		<English>[ICON_BULLET]%s1_change [ICON_EPIDEMIC] in empire</English>
+		<German>[ICON_BULLET]%s1_change [ICON_EPIDEMIC] im Imperium</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_EPIDEMIC_MODIFIER</Tag>
+		<English>[ICON_BULLET]%s1_change [ICON_EPIDEMIC] in city</English>
+		<German>[ICON_BULLET]%s1_change [ICON_EPIDEMIC] in der Stadt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_EPIDEMIC</Tag>
+		<English>[NEWLINE][ICON_BULLET]%s1_change [ICON_EPIDEMIC] in nearby cities</English>
+		<German>[NEWLINE][ICON_BULLET]%s1_change [ICON_EPIDEMIC] in der nächsten Stadt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_EPIDEMIC_MODIFIER</Tag>
+		<English>[ICON_BULLET]%s1_change [ICON_EPIDEMIC] in nearby cities</English>
+		<German>[ICON_BULLET]%s1 [ICON_EPIDEMIC] in der nächsten Stadt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_EPIDEMIC_MODIFIER</Tag>
+		<English>%s1 [ICON_EPIDEMIC]</English>
+		<German>%s1 [ICON_EPIDEMIC]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EPIDEMIC_PROBABILITY</Tag>
+		<English>%d1 [ICON_EPIDEMIC]</English>
+		<German>%d1 [ICON_EPIDEMIC]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EPIDEMIC_PROBABILITY1</Tag>
+		<English>Epidemic Rate: %d1</English>
+		<German>Seuchenwahrscheinlichkeit: %d1</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EPIDEMIC_PROBABILITY_IMMUNE</Tag>
+		<English>0% (immune)</English>
+		<German>Die Stadt ist gegen Seuchen immun</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HANDICAP_EPIDEMIC_BASE_RATE</Tag>
+		<English>[ICON_BULLET]Epidemic rate: %s1_rate</English>
+		<German>[ICON_BULLET]Seuchenquote: %s1_rate</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HANDICAP_EPIDEMIC_POPULATION_RATE</Tag>
+		<English>[ICON_BULLET]Epidemic rate per population: %s1_rate</English>
+		<German>[ICON_BULLET]Seuchenquote pro Bevölkerung: %s1_rate</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HANDICAP_EPIDEMIC_UNHEALTH_RATE</Tag>
+		<English>[ICON_BULLET]Epidemic rate per unhealthy population: %s1_rate</English>
+		<German>[ICON_BULLET]Seuchenquote pro ungesunder Bevölkerung: %s1_rate</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HANDICAP_EPIDEMIC_TRADE_ROUTE_RATE</Tag>
+		<English>[ICON_BULLET]Epidemic rate per infected trade routes: %s1_rate</English>
+		<German>[ICON_BULLET]Seuchenquote pro infizierten Handelsweg: %s1_rate</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_MIN_TURNS</Tag>
+		<English>Epidemic for at least %d1 turns !</English>
+		<German>Seuche für (mindestens) %d1 Runden!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_MAX_TURNS</Tag>
+		<English>Epidemic will end next turn</English>
+		<German>Die Seuche wird in der Runde besiegt sein.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_BASE_RATE</Tag>
+		<English>%s1 [ICON_EPIDEMIC] base rate</English>
+		<German>%s1%% als Grundwahrscheinlichkeit</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_UNHEALTH_RATE</Tag>
+		<English>%s1 [ICON_EPIDEMIC] from unhealthiness</English>
+		<German>%s1%% durch Krankheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_BUILDINGS_MODIFIER</Tag>
+		<English>%s1 [ICON_EPIDEMIC] from buildings</English>
+		<German>%s1%% durch Gebäude</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_TERRAIN_MODIFIER</Tag>
+		<English>%s1 [ICON_EPIDEMIC] from terrain features</English>
+		<German>%s1%% durch Geländeeigenschaften</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_PLAYER_MODIFIER</Tag>
+		<English>%s1 [ICON_EPIDEMIC] from global modifiers</English>
+		<German>%s1%% durch globale Einflüsse</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_TRADE_MODIFIER</Tag>
+		<English>%s1 [ICON_EPIDEMIC] from infected trade routes</English>
+		<German>%s1%% durch die Verbindung mit befallenen Städten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_OTHER_MODIFIER</Tag>
+		<English>%s1 [ICON_EPIDEMIC] from other modifiers</English>
+		<German>%s1%% durch andere Einflüsse</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_POPULATION_RATE</Tag>
+		<English>%s1 [ICON_EPIDEMIC] from population</English>
+		<German>%s1%% durch Bevölkerung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_IMPROVEMENT_MODIFIER</Tag>
+		<English>%s1 [ICON_EPIDEMIC] from improvements</English>
+		<German>%s1%% durch Verbesserungen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_BONUS_MODIFIER</Tag>
+		<English>%s1 [ICON_EPIDEMIC] from resources</English>
+		<German>%s1%% durch Ressourcen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_TOTAL_MODIFIERS</Tag>
+		<English>Total rate: %s1 [ICON_EPIDEMIC]</English>
+		<German>Gesamtwert der Modifikatoren: %s1%%</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_EPIDEMIC_PROBABILITY</Tag>
+		<English>Probability per turn: %s1%%</English>
+		<German>Gesamtwert der Modifikatoren: %s1%%</German>
+	</TEXT>	
+</Civ4GameText>

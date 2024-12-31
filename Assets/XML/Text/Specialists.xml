@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- DESCRIPTION - START -->
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_CITIZEN_2</Tag>
+		<English>Unemployed Citizen</English>
+		<German>
+			<Text>Arbeitsloser B&#252;rger:Arbeitslose B&#252;rger</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_CITIZEN_2_PEDIA</Tag>
+		<English>[BOLD]Citizen[\BOLD][PARAGRAPH:2]Citizens increase a city's production by +1. They do not provide great person generation points, nor do they affect what kind of great person the city generates. Citizens require the construction of no buildings or wonders, and an unlimited number can always be employed. However, it is rarely worthwhile to create large numbers of Citizen specialists! An exception to that would be late-game Planned Economy civic and Collective Farming, which makes Unemployed Citizens almost self-sufficient. </English>
+		<German>
+			<Text>[BOLD]Bürger[\BOLD][PARAGRAPH:2]Citizens increase a city's production by +1. They do not provide great person generation points, nor do they affect what kind of great person the city generates. Citizens require the construction of no buildings or wonders, and an unlimited number can always be employed. However, it is rarely worthwhile to create large numbers of Citizen specialists! An exception to that would be late-game Planned Economy civic and Collective Farming, which makes Unemployed Citizens almost self-sufficient. </Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_CRAFTSMAN</Tag>
+		<English>Craftsman</English>
+		<German>
+			<Text>Handwerker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_CRAFTSMAN_PEDIA</Tag>
+		<English>[BOLD]Craftsman[\BOLD][PARAGRAPH:2]Craftsmen, unlike other specialists, do not generate Great People points. It is best to treat Craftsman slots the same way as the plots your city is working - they are a way to generate production, becoming progressively more important with the progress of technology and new advanced civics (especially in Economy and Labor categories).</English>
+		<German>
+			<Text>[BOLD]Handwerker[\BOLD][PARAGRAPH:2]Craftsmen, unlike other specialists, do not generate Great People points. It is best to treat Craftsman slots the same way as the plots your city is working - they are a way to generate production, becoming progressively more important with the progress of technology and new advanced civics (especially in Economy and Labor categories).</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_PRIEST</Tag>
+		<English>Priest</English>
+		<German>
+			<Text>Priester</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_PRIEST_PEDIA</Tag>
+		<English>[BOLD]Priest[\BOLD][PARAGRAPH:2]Priests increase a city's commerce and production by +1 each, and much more with addtional modifiers. They increase the city's great person generation rate by +3. They increase the chance that the city will generate a Great Prophet. Temples, Cathedrals, and other religious buildings are needed to create Priests.
+[BOLD]Great Prophet:[\BOLD] Great Prophets can create religious shrines - the [LINK=BUILDING_JEWISH_SHRINE]Temple of Solomon[\LINK] and the [LINK=BUILDING_CONFUCIAN_SHRINE]Kong Miao[\LINK], for example. However, Great Prophets can create religious shrines ONLY in a city where a religion was founded. Using a Great Prophet is the only way to build a religion's shrine. In addition to shrines, a Great Prophet can also construct an addtional wonder for all religions, with very varied effects depending on the particular wonder. Great Prophets can also settle in a city, providing a continuing large commerce and small production boost to that city.</English>
+		<German>
+			<Text>Priester</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_ARTIST</Tag>
+		<English>Artist</English>
+		<German>
+			<Text>K&#252;nstler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_ARTIST_PEDIA</Tag>
+		<English>[BOLD]Artist[\BOLD][PARAGRAPH:2]Artists increase a city's research by +1, and its culture by +4, and much more with addtional modifiers. They increase the city's great person generation rate by +3. They increase the chance that the city will generate a Great Artist. [LINK=BUILDING_THEATRE]Theatres[\LINK] and other centers of the arts are needed to create Artists.
+[BOLD]Great Artists:[\BOLD] Great Artists can create great works of art in a city; these are special wonders that provide a massive output of culture and another minor effect. This is extremely useful if a city is under cultural threat from a neighbor (or you wish to culturally attack those cities!). Great Artists can also "permanently settle" in a city, providing a continuing large cultural and small research boost to the city.</English>
+		<German>
+			<Text>K&#252;nstler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_SCIENTIST</Tag>
+		<English>Scientist</English>
+		<German>
+			<Text>Wissenschaftler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_SCIENTIST_PEDIA</Tag>
+		<English>[BOLD]Scientist[\BOLD][PARAGRAPH:2]Scientists increase a city's research rate by +3, and much more with addtional modifiers. They increase the city's great person generation rate by +3. They increase the chance that the city will generate a Great Scientist. [LINK=BUILDING_LIBRARY]Libraries[\LINK], [LINK=BUILDING_UNIVERSITY]Universities[\LINK], and similar research institutions are needed to create Scientists.
+[BOLD]Great Scientist:[\BOLD] Great Scientists can construct an [LINK=BUILDING_ACADEMY]Academy[\LINK], a building which greatly boots a city's scientific research as well as its culture. A civilization can only have one Academy. Alternatively, Great Scientists can construct Great Works of Science, providing even greater benefits, but going obsolete over time. Great Scientists can also settle permanently in a city, providing a large research and small production boost to the city.</English>
+		<German>
+			<Text>Wissenschaftler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_MERCHANT</Tag>
+		<English>Merchant</English>
+		<German>
+			<Text>H&#228;ndler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_MERCHANT_PEDIA</Tag>
+		<English>[BOLD]Merchant[\BOLD][PARAGRAPH:2]Merchants increase gold by +3, and much more with addtional modifiers. They increase the city's great person generation rate by +3. They increase the chance that the city will generate a Great Merchant. [LINK=BUILDING_MARKET]Markets[\LINK], [LINK=BUILDING_BANK]Banks[\LINK], and similar commercial buildings are needed to create Merchants.
+[BOLD]Great Merchants:[\BOLD] A Great Merchant can conduct a "trade mission" which will immediately give you a whole bunch of gold. To conduct a trade mission, first move the merchant to a wealthy and powerful city as far away from your cities as possible. When the merchant reaches the target city you'll be able to conduct the mission; trade missions can ONLY be carried out in foreign cities. The value of the mission increases the further away and wealthier the target city is. Later in game, Great Merchants can create enterprises, producing certain resources that can be hard to come by otherwise. Great Merchants can also settle permanently in a city, providing a continuing large commerce and small food boost to the city.</English>
+		<German>
+			<Text>H&#228;ndler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_ENGINEER</Tag>
+		<English>Engineer</English>
+		<German>
+			<Text>Ingenieur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_ENGINEER_PEDIA</Tag>
+		<English>[BOLD]Engineer[\BOLD][PARAGRAPH:2]Engineers increase a city's production by +2, and much more with addtional modifiers. They increase the city's great person generation rate by +3. They increase the chance that the city will generate a Great Engineer. [LINK=BUILDING_FORGE]Forges[\LINK], [LINK=BUILDING_FACTORY]Factories[\LINK], and similar industrial buildings are needed to create Engineers. Note that in terms of raw production, Craftsmen will usually be a better choice than Engineers, but of course they generate no Great People.
+[BOLD]Great Engineers:[\BOLD] Great Engineers can "hurry" a city's production, greatly speeding up the creation of whatever the city is presently constructing. Most early wonders can be completed in a single turn by Great Engineers, and later ones can be sped up dramatically. Great Engineers can be used late in game to create Nuclear Research Facilities. Great Engineers can permanently settle in a city, providing a continuing large production and small research boost to that city.</English>
+		<German>
+			<Text>Ingenieur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_SPY</Tag>
+		<English>Informant</English>
+		<German>
+			<Text>Informant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_PRIEST</Tag>
+		<English>Great Prophet</English>
+		<German>
+			<Text>Gro&#223;er Prophet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_ARTIST</Tag>
+		<English>Great Artist</English>
+		<German>
+			<Text>Gro&#223;er K&#252;nstler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_SCIENTIST</Tag>
+		<English>Great Scientist</English>
+		<German>
+			<Text>Gro&#223;er Wissenschaftler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_MERCHANT</Tag>
+		<English>Great Merchant</English>
+		<German>
+			<Text>Gro&#223;er H&#228;ndler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_ENGINEER</Tag>
+		<English>Great Engineer</English>
+		<German>
+			<Text>Gro&#223;er Ingenieur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_GENERAL_2</Tag>
+		<English>Great Military Instructor</English>
+		<German>
+			<Text>Großer Militärausbilder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_SPY</Tag>
+		<English>Great Spy</English>
+		<German>
+			<Text>Großer Spion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- DESCRIPTION - END -->
+	<!-- DESCRIPTION - START -->
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_SPECIALISTS_PEDIA</Tag>
+		<English>[H1]Specialists[\H1][PARAGRAPH:2]When a [LINK=CONCEPT_CITIES]City[\LINK] is first founded, all of its citizens are bound in the various requirements of day-to-day survival: hunting, fishing, tilling the land, and so forth. This may continue for some time, but eventually the city may grow large and prosperous enough that it can afford to dedicate some of its population to more rewarding pursuits. In Civilization IV, these more useful citizens are called "Specialists."[PARAGRAPH:2]There are six categories of specialists in Civilization IV: Engineer, Merchant, Scientist, Artist, Priest, and the default "Citizen" specialist. Each provides a city certain benefits.[PARAGRAPH:2][H2]Requirements for Employing Specialists[\H2][PARAGRAPH:2]At the start of the game, you may only create one kind of specialist: the Citizen, who is the least useful of all of them. Each of the other specialist types requires certain [LINK=CONCEPT_BUILDINGS]Buildings[\LINK] or [LINK=CONCEPT_WONDERS]Wonders[\LINK] to be created. Further, each building or wonder will allow a limited number of specialists. For example, building a Temple allows you to create one (and only one) Priest in its city. But if you subsequently build a Cathedral there, you can create an additional two priests, for a total of three.[PARAGRAPH:2]The [LINK=CIVIC_CASTE_SYSTEM]Caste System[\LINK] civic allows you to create as many Merchant, Scientist, and Artist specialists in a city as you desire, regardless of whether or not you have the buildings that would normally be needed to create them. Be aware, however, that there is no way to get around the limitation on the number of Engineers and Priests that a city can support; you must have either the buildings or wonders necessary to create these specialists.[PARAGRAPH:2][H2]Effects of Turning City Population into Specialists[\H2][PARAGRAPH:2]When a city increases its population, it first seeks to employ that new population working the land around the city. (See [LINK=CONCEPT_CITIES]Cities[\LINK].) If any land spaces are yet unworked, the city puts the new civilian on the space it thinks will do the most good. A city can work up to  20 spaces - fewer if the city contains deserts or peaks in its [LINK=CONCEPT_CITIES]City Radius[\LINK]. If you turn one of those working populations into a specialist, it no longer works the land. It still must eat, however, so the city's remaining working population must provide enough food for everybody. If not, the city will begin to starve. As a general rule, therefore, cities with more food will be able to create more specialists; cities that are food-poor will need all of their citizens to work the land just to prevent starvation.[PARAGRAPH:2]Once a city is working all available land, it automatically turns any additional population into specialists (keep in mind this usually will not take place until very late in the game!). It attempts to create the most useful specialist available; if no other slots are open, it creates a citizen specialist. You can also manually create specialists yourself by removing citizens from working the land (see below). When a city is about to grow past the level of [LINK=CONCEPT_HAPPINESS]Happiness[\LINK] that it can support, it is often a good idea to turn some of the population into specialists and halt growth rather than let the city increase in size and produce useless unhappy citizens.[PARAGRAPH:2][H2]Specialists and Great People[\H2][PARAGRAPH:2]In addition to their other functions described below, specialists increase a city's generation of "Great People Points" by +3 each. Specialists also help determine what kind of great person the city will generate. See [LINK=CONCEPT_GREAT_PEOPLE]Great People[\LINK] for more details.[PARAGRAPH:2][H2]How to Create a Specialist[\H2][PARAGRAPH:2]You can create a specialist on the city screen. The six types are visible on the right-hand edge of the screen. If a specialist type is grayed-out, you cannot build one. If a specialist is in full color, however, you can: click on the plus (+) sign next to the specialist you want to create. If you want to remove a specialist, click on the minus (-) sign. Creating a specialist removes one of your population points from working a tile in the City Radius.[PARAGRAPH:2]In order to manually select which tile to remove, first click on the tile that you want removed (the white circle around it should disappear). This creates a Citizen specialist. Then click on the plus (+) sign next to the specialist you want to employ, and the Citizen specialist will be replaced with the one you desire.[PARAGRAPH:2]Note that some [LINK=CONCEPT_WONDERS]Wonders[\LINK] automatically give you one or more specialists of a specific type; you can't remove or repurpose them at all. Some wonders and civics may also provide you with a free specialist in each city; in this case, you can choose which specialist to employ in each city, but cannot remove the specialist altogether.[PARAGRAPH:2][H2]Specialist Types[\H2][PARAGRAPH:2][BOLD]Engineer[\BOLD][PARAGRAPH:2]Engineers increase a city's production by +2. They increase the city's great person generation rate by +3. They increase the chance that the city will generate a Great Engineer. [LINK=BUILDING_FORGE]Forges[\LINK], [LINK=BUILDING_FACTORY]Factories[\LINK], and similar industrial buildings are needed to create Engineers.[PARAGRAPH:2][BOLD]Merchant[\BOLD][PARAGRAPH:2]Merchants increase gold by +3. They increase the city's great person generation rate by +3. They increase the chance that the city will generate a Great Merchant. [LINK=BUILDING_MARKET]Markets[\LINK], [LINK=BUILDING_BANK]Banks[\LINK], and similar commercial buildings are needed to create Merchants.[PARAGRAPH:2][BOLD]Scientist[\BOLD][PARAGRAPH:2]Scientists increase a city's research rate by +3. They increase the city's great person generation rate by +3. They increase the chance that the city will generate a Great Scientist. [LINK=BUILDING_LIBRARY]Libraries[\LINK], [LINK=BUILDING_UNIVERSITY]Universities[\LINK], and similar research institutions are needed to create Scientists.[PARAGRAPH:2][BOLD]Artist[\BOLD][PARAGRAPH:2]Artists increase a city's gold by +1, and its culture by +4. They increase the city's great person generation rate by +3. They increase the chance that the city will generate a Great Artist. [LINK=BUILDING_THEATRE]Theatres[\LINK] and other centers of the arts are needed to create Artists.[PARAGRAPH:2][BOLD]Priest[\BOLD][PARAGRAPH:2]Priests increase a city's commerce and production by +1 each. They increase the city's great person generation rate by +3. They increase the chance that the city will generate a Great Prophet. Temples, Cathedrals, and other religious buildings are needed to create Priests.[PARAGRAPH:2] [BOLD]Citizen[\BOLD][PARAGRAPH:2]Citizens increase a city's production by +1. They do not provide great person generation points, nor do they affect what kind of great person the city generates. Citizens require the construction of no buildings or wonders, and an unlimited number can always be employed. However, it is rarely worthwhile to create large numbers of Citizen specialists![PARAGRAPH:2][H2]Wonders and Civics[\H2][PARAGRAPH:2]Many wonders and civics can increase the power of specialists even further, with a variety of different effects.[PARAGRAPH:2][BOLD]Increased Great Person Points[\BOLD][PARAGRAPH:2]Several different wonders and civics increase the rate at which specialists create Great People. The [LINK=BUILDING_PARTHENON]Parthenon[\LINK] wonder increases the production of great person points by 50%% in all cities, and the [LINK=BUILDING_NATIONAL_EPIC]National Epic[\LINK] national wonder increases the rate by 100%% in the city in which it is built. The [LINK=CIVIC_PACIFISM]Pacifism[\LINK] civic also increases great person generation by 100%% in all cities.[PARAGRAPH:2][BOLD]Other Effects[\BOLD][PARAGRAPH:2]Other effects include increasing the output of the specialists themselves. For example, the [LINK=BUILDING_ANGKOR_WAT]Angkor Wat[\LINK] wonder adds +1 production to all Priest specialists, and the [LINK=BUILDING_SISTINE_CHAPEL]Sistine Chapel[\LINK] adds +2 culture to all specialists. The [LINK=CIVIC_REPRESENTATION]Representation[\LINK] civic also adds +3 research to all specialists. Since all of these effects are cumulative, specialists can become very powerful if enough attention is paid to them.[PARAGRAPH:2]</English>
+		<German>[H1]Spezialisten[\H1]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_GREAT_SPY_PEDIA</Tag>
+		<English>[H1]Great Spy and Spy Specialist[\H1][PARAGRAPH:2][BOLD]Spy Specialists[\BOLD][PARAGRAPH:1]Spy specialists give a bonus to Espionage output and increase the chance of a Great Spy appearing in a city. The [LINK=BUILDING_COURTHOUSE]Courthouse[\LINK], [LINK=BUILDING_JAIL]Jail[\LINK], [LINK=BUILDING_INTELLIGENCE_AGENCY]Intelligence Agency[\LINK], [LINK=BUILDING_NATIONAL_SECURITY]Security Bureau[\LINK], and [LINK=BUILDING_KREMLIN]Kremlin[\LINK] World Wonder allow the assignment of Spy specialists in a city.[PARAGRAPH:2][BOLD]Great Spies[\BOLD][PARAGRAPH:1]Great Spies may occasionally appear in your city through the use of Spy specialists or Espionage-related Wonders. Invisible to all other units, Great Spies can explore rival territory, and will give a massive bonus of Espionage Points against a specific civilization if you expend the unit in one of their cities. They may also join a city as a super specialist, increasing science and espionage output of a city; or they may construct a [LINK=BUILDING_SCOTLAND_YARD]Scotland Yard[\LINK] in a city, adding a significant bonus to Espionage production in that city.</English>
+		<German>[H1]Gro&#223;er Spion und Spion-Spezialist[\H1]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_GREAT_PEOPLE_PEDIA</Tag>
+		<English>[H1]Great People[\H1][PARAGRAPH:2]Time and again through history, there have arisen men and women who have profoundly changed the world around them - artists, scientists, prophets and others whose genius sets them head and shoulders above the rest. In Civilization IV, such visionaries are called "Great People."[PARAGRAPH:2]There are five different kinds of great people in the game: Great Prophets, Great Merchants, Great Artists, Great Scientists, and Great Engineers. Each has a special ability.[PARAGRAPH:2][H2]Generating Great People[\H2][PARAGRAPH:2]Great people are generated in cities. Each city generates a separate pool of "great people points" - when the city has earned enough points, it will generate a great person. The cost of generating a great person escalates throughout the game: the first great person costs 100 great people points, the second costs 200, and so forth. (The number of points needed to produce a great person is different on the Quick and Epic game speeds.)[PARAGRAPH:2]The first civilization to discover certain technologies will also receive a free great person in their capital city. For example, the first civ to discover [LINK=TECH_MUSIC]Music[\LINK] receives a Great Artist.[PARAGRAPH:2][H2]Great People Points[\H2][PARAGRAPH:2]A city generates great people points in a number of ways: by constructing [LINK=CONCEPT_WONDERS]Wonders[\LINK], by assigning citizens to be specialists, and by choosing certain [LINK=CONCEPT_CIVICS]Civics[\LINK].[PARAGRAPH:2][BOLD]Wonders:[\BOLD] A wonder will generate a certain number of great people points each turn. Further, some wonders can increase a city's (or entire civilization's!) great people point generation significantly (see the [LINK=BUILDING_PARTHENON]Parthenon[\LINK] for an example). Like specialists (see next), some wonders increase the chances of generating a specific type of great person in their city.[PARAGRAPH:2][BOLD]Specialists:[\BOLD] In each [LINK=CONCEPT_CITIES]City[\LINK] you can assign citizens to be "specialists." Each specialist provides some kind of production bonus to its city; in addition, most generate great people points (the citizen specialist being the sole exception). Further, the kinds of specialists you have in a city determine which great people you generate: if all of your specialists in a city are priests, when that city generates a great person, he or she will be a great prophet. If half the specialists are merchants and the other half artists, you'll have a fifty-fifty chance of generating a great artist or great merchant.Moving the mouse over the great person points bar will display the percentage of getting each type of great person.[PARAGRAPH:2][BOLD]Civics:[\BOLD] Some [LINK=CONCEPT_CIVICS]Civics[\LINK] increase the speed at which you generate great people.[PARAGRAPH:2][H2]Great People Characterists[\H2][PARAGRAPH:2]As mentioned above, there are five types of great people. Each type has its own special abilities, but they all share some characteristics:[PARAGRAPH:2][BOLD]Can Discover New Technologies:[\BOLD] You can expend a great person to discover a new technology. Typically this technology will be in the great person's area of expertise (prophets will usually discover religious technologies and so on), but not always. Once all of the relatively inexpensive technologies have been discovered, the great person may not be able to entirely discover a new tech, but he or she can dramatically decrease the time it takes you to discover it.[PARAGRAPH:2][BOLD]Golden Ages:[\BOLD] You can expend two or more great people to start a [LINK=CONCEPT_GOLDEN_AGE]"Golden Age"[\LINK]; see that section for more details.[PARAGRAPH:2][BOLD]Settling in Cities:[\BOLD] All great persons also have the ability to settle in a city as a sort of "super-specialist". Settling a great person in a city will add certain bonuses to that city each turn; for example, a Great Prophet will add 2 production and 5 gold to the city it settles in. [PARAGRAPH:2][H2]Special Abilities[\H2][PARAGRAPH:2] In addition to their common abilities, each great person type has other unique abilities.[PARAGRAPH:2][BOLD]Great Artists:[\BOLD] Great Artists can create great works of art in a city; this immediately gives that city additional [LINK=CONCEPT_CULTURE]Culture[\LINK] points (from 2,000 to 6,000, depending upon game speed). This is extremely useful if a city is under cultural threat from a neighbor (or you wish to culturally attack those cities!). Great Artists can also "permanently settle" in a city, providing a continuing large cultural and small research boost to the city.[PARAGRAPH:2][BOLD]Great Engineers:[\BOLD] Great Engineers can "hurry" a city's production, greatly speeding up the creation of whatever the city is presently constructing. Most early wonders can be completed in a single turn by Great Engineers, and later ones can be sped up dramatically. Great Engineers can permanently settle in a city, providing a continuing large production and small research boost to that city.[PARAGRAPH:2][BOLD]Great Merchants:[\BOLD] A Great Merchant can conduct a "trade mission" which will immediately give you a whole bunch of gold. To conduct a trade mission, first move the merchant to a wealthy and powerful city as far away from your cities as possible. When the merchant reaches the target city you'll be able to conduct the mission; trade missions can ONLY be carried out in foreign cities. The value of the mission increases the further away and wealthier the target city is. Great Merchants can also settle permanently in a city, providing a continuing large commerce and small food boost to the city.[PARAGRAPH:2][BOLD]Great Prophet:[\BOLD] Great Prophets can create religious shrines - the [LINK=BUILDING_JEWISH_SHRINE]Temple of Solomon[\LINK] and the [LINK=BUILDING_CONFUCIAN_SHRINE]Kong Miao[\LINK], for example. However, Great Prophets can create religious shrines ONLY in a city where a religion was founded. Using a Great Prophet is the only way to build a religion's shrine. Great Prophets can also settle in a city, providing a continuing large commerce and small production boost to that city.[PARAGRAPH:2][BOLD]Great Scientist:[\BOLD] Great Scientists can construct an [LINK=BUILDING_ACADEMY]Academy[\LINK], a building which greatly boots a city's scientific research as well as its culture. Great Scientists can also settle permanently in a city, providing a large research and small production boost to the city.[PARAGRAPH:2]</English>
+		<German>[H1]Gro&#223;e Pers&#246;nlichkeiten[\H1]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_GREAT_GENERALS_PEDIA</Tag>
+		<English>[H1]Great Generals[\H1][PARAGRAPH:2]Great Generals are military leaders that emerge as your civilization gains combat experience. When you have won enough battles to reach a certain threshold of total experience, a [LINK=UNIT_GREAT_GENERAL]Great General[\LINK] appears in one of your cities. Each Great General requires twice the amount of combat experience that was needed to generate the one before.[PARAGRAPH:2]Once generated, you can turn your Great General into a Warlord by joining him with another unit in the field. That action also distributes a one-time experience bonus to units in the same tile. The unit receiving the Warlord can be upgraded at no cost, and retains all of its experience when doing so. The unit also gains access to some special promotions not normally available, such as [LINK=PROMOTION_TACTICS]Tactics[\LINK], [LINK=PROMOTION_LEADERSHIP]Leadership[\LINK], and [LINK=PROMOTION_MORALE]Morale[\LINK].[PARAGRAPH:2]Alternatively, you can use your Great General to found Doctrines and Traditions. A Tradition will provide a permanent small bonus to all new units of certain type, while a Doctrine will unlock new powerful promotion options for certain units. Unlike Traditions, Doctrines go obsolete with time.</English>
+		<German>[H1]Gro&#223;e Gener&#228;le[\H1]</German>
+	</TEXT>
+	<!-- DESCRIPTION - END -->
+</Civ4GameText>

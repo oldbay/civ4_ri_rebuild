@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <!-- BEGIN: UNITCLASS_RAM -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RAM</Tag>
+		<English>Battering Ram</English>
+		<German>
+			<Text>Rammbock</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RAM_BARBARIAN</Tag>
+		<English>Battering Ram (Primitive)</English>
+		<German>
+			<Text>Primitiver Rammbock</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_RAM -->
+  <!-- BEGIN: UNITCLASS_CATAPULT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CATAPULT_CHINA</Tag>
+		<English>Catapult (Hu Dun Pao)</English>
+		<German>
+			<Text>Hu Dun Pao</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CATAPULT_GERMAN</Tag>
+		<English>Catapult (Mangonel)</English>
+		<German>
+			<Text>Mangonel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CATAPULT_ROME</Tag>
+		<English>Catapult (Onager)</English>
+		<German>
+			<Text>Onager</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_CATAPULT -->
+  <!-- BEGIN: UNITCLASS_BOMBARD -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD</Tag>
+		<English>Bombard</English>
+		<German>
+			<Text>Bombarde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_AMERICA</Tag>
+		<English>Bombard (New World Culverin)</English>
+		<German>
+			<Text>Neue Welt Feldschlange</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_ASIA</Tag>
+		<English>Bombard (Asian)</English>
+		<German>
+			<Text>Asiatische Bombarde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_AUSTRONESIA</Tag>
+		<English>Bombard (Lantaka)</English>
+		<German>
+			<Text>Lantaka</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_CARTHAGE</Tag>
+		<English>Bombard (Siege Mortar)</English>
+		<German>
+			<Text>Bronze-M&#246;rser</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_CHINA</Tag>
+		<English>Bombard (Huochong)</English>
+		<German>
+			<Text>Huochong</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_ENGLAND</Tag>
+		<English>Bombard (Ribauldequin)</English>
+		<German>
+			<Text>Ribauldequin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_FRANCE</Tag>
+		<English>Bombard (Veuglaire)</English>
+		<German>
+			<Text>Veuglaire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_OTTOMAN</Tag>
+		<English>Bombard (Kale-Kob)</English>
+		<German>
+			<Text>Kale-Kob</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_POLAND</Tag>
+		<English>Bombard (Foglerz)</English>
+		<German>
+			<Text>Russische Bombarde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_RUSSIA</Tag>
+		<English>Bombard (Pischal)</English>
+		<German>
+			<Text>Russische Bombarde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_SPAIN</Tag>
+		<English>Bombard (Culverin)</English>
+		<German>
+			<Text>Feldschlange</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOMBARD_UKRAINE_VOLHYNIA</Tag>
+		<English>Bombard (Pushkar)</English>
+		<German>
+			<Text>Ukrainische Bombarde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_BOMBARD -->
+  <!-- BEGIN: UNITCLASS_CANNON -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_ARAB</Tag>
+		<English>Cannon (Najd)</English>
+		<German>
+			<Text>Nadschd-Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_ASIA</Tag>
+		<English>Cannon (Asian)</English>
+		<German>
+			<Text>Asiatische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_AUSTRIA</Tag>
+		<English>Cannon (Feldkanone)</English>
+		<German>
+			<Text>&#214;sterreichische Feldkanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_AUSTRONESIA</Tag>
+		<English>Cannon (Mataram)</English>
+		<German>
+			<Text>Mataram-Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_AZTEC</Tag>
+		<English>Cannon (Mexican)</English>
+		<German>
+			<Text>Mexikanische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_BERBER</Tag>
+		<English>Cannon (Moorish)</English>
+		<German>
+			<Text>Maurische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_CHINA</Tag>
+		<English>Cannon (Wankouchong)</English>
+		<German>
+			<Text>Wankouchong</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_DRAVIDIAN</Tag>
+		<English>Cannon (Mysore)</English>
+		<German>
+			<Text>Mysore-Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_DUTCH</Tag>
+		<English>Cannon (Koninklijk Kanon)</English>
+		<German>
+			<Text>Niederl&#228;ndische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_EGYPT</Tag>
+		<English>Cannon (Mamluk)</English>
+		<German>
+			<Text>Mamlukische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_ENGLAND</Tag>
+		<English>Cannon (Royal)</English>
+		<German>
+			<Text>Englische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_ETHIOPIA</Tag>
+		<English>Cannon (Ras)</English>
+		<German>
+			<Text>Ras-Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_FRANCE</Tag>
+		<English>Cannon (Keller)</English>
+		<German>
+			<Text>Keller-Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_GERMANY</Tag>
+		<English>Cannon (Prussian)</English>
+		<German>
+			<Text>Preu&#223;ische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_HUNGARY</Tag>
+		<English>Cannon (Hungary)</English>
+		<German>
+			<Text>Ungarn-Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_INDIA</Tag>
+		<English>Cannon (Sepoy)</English>
+		<German>
+			<Text>Sepoy-Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_KHMER</Tag>
+		<English>Cannon (Siamese)</English>
+		<German>
+			<Text>Siamesisches Feldgesch&#252;tz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_KOREA</Tag>
+		<English>Cannon (Hwapo)</English>
+		<German>
+			<Text>Hwapo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_MALI</Tag>
+		<English>Cannon (Toucouleur)</English>
+		<German>
+			<Text>Tukulor-Feldgesch&#252;tz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_MUGHAL</Tag>
+		<English>Cannon (Mughal)</English>
+		<German>
+			<Text>Mughalische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_PERSIA</Tag>
+		<English>Cannon (Dragon Gun)</English>
+		<German>
+			<Text>Persische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_POLAND</Tag>
+		<English>Cannon (Armata)</English>
+		<German>
+			<Text>Polnische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_PORTUGAL</Tag>
+		<English>Cannon (Canh&#227;o)</English>
+		<German>
+			<Text>Portugisisches Feldgesch&#252;tz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_RUSSIA</Tag>
+		<English>Cannon (Petrine)</English>
+		<German>
+			<Text>Russische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_SPAIN</Tag>
+		<English>Cannon (Ca&#241;&#243;n)</English>
+		<German>
+			<Text>Spanische Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_TURK</Tag>
+		<English>Cannon (Topçu)</English>
+		<German>
+			<Text>Turkishe Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_VIKING</Tag>
+		<English>Cannon (Leather Gun)</English>
+		<German>
+			<Text>Lederkanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON_ZULU</Tag>
+		<English>Cannon (Griqua)</English>
+		<German>
+			<Text>Griqua-kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_CANNON -->
+  <!-- BEGIN: UNITCLASS_GUN_BATTERY -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY</Tag>
+		<English>Grand Battery</English>
+		<German>
+			<Text>Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_AFRICA</Tag>
+		<English>Grand Battery (African)</English>
+		<German>
+			<Text>Afrikanische Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_AMERICA</Tag>
+		<English>Grand Battery (Union)</English>
+		<German>
+			<Text>Kanonenbatterie der Union</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_AZTEC</Tag>
+		<English>Grand Battery (Mexican)</English>
+		<German>
+			<Text>Kanonenbatterie der Mexico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_AUSTRIA</Tag>
+		<English>Grand Battery (K.u.K)</English>
+		<German>
+			<Text>K.u.k.-Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_AUSTRONESIA</Tag>
+		<English>Grand Battery (Javanese)</English>
+		<German>
+			<Text>Javanesische Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_DRAVIDIAN</Tag>
+		<English>Grand Battery (Mysore)</English>
+		<German>
+			<Text>Mysore-Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_INDIA</Tag>
+		<English>Grand Battery (Sepoy)</English>
+		<German>
+			<Text>Mysore-Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_ENGLAND</Tag>
+		<English>Grand Battery (Royal)</English>
+		<German>
+			<Text>Englische Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_FRANCE</Tag>
+		<English>Grand Battery (Gribeauval)</English>
+		<German>
+			<Text>Gribeauval System-Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_GERMAN</Tag>
+		<English>Grand Battery (Prussian)</English>
+		<German>
+			<Text>Preu&#223;ische Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_PERSIA</Tag>
+		<English>Grand Battery (Dragon)</English>
+		<German>
+			<Text>Persische Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_PORTUGAL</Tag>
+		<English>Grand Battery (Bataria)</English>
+		<German>
+			<Text>Portugisische Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_ROME</Tag>
+		<English>Grand Battery (Cisalpine)</English>
+		<German>
+			<Text>Italienische Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_RUSSIA</Tag>
+		<English>Grand Battery (Licorne)</English>
+		<German>
+			<Text>Licorne-Batterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUN_BATTERY_VIKING</Tag>
+		<English>Grand Battery (Nordic)</English>
+		<German>
+			<Text>Nordische Kanonenbatterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_GUN_BATTERY -->
+  <!-- BEGIN: UNITCLASS_ARTILLERY -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY</Tag>
+		<English>Rifled Cannon</English>
+		<German>
+			<Text>Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_AFRICA</Tag>
+		<English>Rifled Cannon (African)</English>
+		<German>
+			<Text>Afrikanische Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_AMERICA</Tag>
+		<English>Rifled Cannon (Union)</English>
+		<German>
+			<Text>Unionskanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_AUSTRONESIA</Tag>
+		<English>Rifled Cannon (Aceh)</English>
+		<German>
+			<Text>Aceh-Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_ENGLAND</Tag>
+		<English>Rifled Cannon (Royal)</English>
+		<German>
+			<Text>Englische k&#246;nigliche Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_FRANCE</Tag>
+		<English>Rifled Cannon (Reffye)</English>
+		<German>
+			<Text>Franz&#246;sische Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_GERMAN</Tag>
+		<English>Rifled Cannon (Krupp)</English>
+		<German>
+			<Text>Deutsche Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HUNGARY</Tag>
+		<English>Rifled Cannon (Agy&#250;)</English>
+		<German>
+			<Text>Ungarische Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_JAPAN</Tag>
+		<English>Rifled Cannon (IJA)</English>
+		<German>
+			<Text>Artillerie der Kaiserlich Japanischen Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_OTTOMAN</Tag>
+		<English>Rifled Cannon (Ottoman)</English>
+		<German>
+			<Text>Osmanische Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_RUSSIA</Tag>
+		<English>Rifled Cannon (Russian)</English>
+		<German>
+			<Text>Russische Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_ARTILLERY -->
+  <!-- BEGIN: UNITCLASS_ARTILLERY_LIGHT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_LIGHT</Tag>
+		<English>Light Artillery</English>
+		<German>
+			<Text>Leichte Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_LIGHT_ENGLAND</Tag>
+		<English>Light Artillery (QF 15-pounder)</English>
+		<German>
+			<Text>QF 15-Pf&#252;nder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_LIGHT_FRANCE</Tag>
+		<English>Light Artillery (75mm Gun)</English>
+		<German>
+			<Text>75 mm-Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_LIGHT_GERMAN</Tag>
+		<English>Light Artillery (7.7cm FK 96 n.A.)</English>
+		<German>
+			<Text>Feldartillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_LIGHT_RUSSIA</Tag>
+		<English>Light Artillery (76mm Gun)</English>
+		<German>
+			<Text>76 mm-Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_ARTILLERY_LIGHT -->
+  <!-- BEGIN: UNITCLASS_ARTILLERY_HEAVY -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HEAVY</Tag>
+		<English>Heavy Artillery</English>
+		<German>
+			<Text>Schwere Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HEAVY_ENGLAND</Tag>
+		<English>Heavy Artillery (6-inch Siege Gun)</English>
+		<German>
+			<Text>M1904-Belagerungskanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HEAVY_FRANCE</Tag>
+		<English>Heavy Artillery (155mm Howitzer)</English>
+		<German>
+			<Text>155-mm-Haubitze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HEAVY_GERMANY</Tag>
+		<English>Heavy Artillery (21cm M&#246;rser 16)</English>
+		<German>
+			<Text>21-cm-M&#246;rser 16</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_ARTILLERY_HEAVY -->
+  <!-- BEGIN: UNITCLASS_ARTILLERY_HEAVY_WW2 -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HEAVY_WW2</Tag>
+		<English>Howitzer</English>
+		<German>
+			<Text>Haubitze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HEAVY_WW2_ARMENIA</Tag>
+		<English>Howitzer (M114 155mm)</English>
+		<German>
+			<Text>M114-Kanonenhaubitze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HEAVY_WW2_ENGLAND</Tag>
+		<English>Howitzer (25-pounder)</English>
+		<German>
+			<Text>Ordnance QF 25-Pf&#252;nder</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_HEAVY_WW2_RUSSIA</Tag>
+		<English>Howitzer (M-30)</English>
+		<German>
+			<Text>M-30-Kanonenhaubitze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_ARTILLERY_HEAVY_WW2 -->
+  <!-- BEGIN: UNITCLASS_ARTILLERY_SELF_PROPELLED_WW2 -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2</Tag>
+		<English>Self-Propelled Artillery</English>
+		<German>
+			<Text>Panzerartillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2_AMERICA</Tag>
+		<English>Self-Propelled Artillery (M7 Priest)</English>
+		<German>
+			<Text>M7 Priest</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2_ENGLAND</Tag>
+		<English>Self-Propelled Artillery (Bishop)</English>
+		<German>
+			<Text>Bishop</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2_FRANCE</Tag>
+		<English>Self-Propelled Artillery (Lorraine 37L)</English>
+		<German>
+			<Text>Lorraine 37L</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2_GERMAN</Tag>
+		<English>Self-Propelled Artillery (Wespe)</English>
+		<German>
+			<Text>Panzerhaubitze Wespe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2_JAPAN</Tag>
+		<English>Self-Propelled Artillery (Type 4 Ho-Ro)</English>
+		<German>
+			<Text>Typ 4 Ho-Ro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2_POLAND</Tag>
+		<English>Self-Propelled Artillery (SU-76)</English>
+		<German>
+			<Text>SU-76</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2_ROME</Tag>
+		<English>Self-Propelled Artillery (Semovente 75/18)</English>
+		<German>
+			<Text>Semovente 75/18</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2_RUSSIA</Tag>
+		<English>Self-Propelled Artillery (SU-76M)</English>
+		<German>
+			<Text>SU-76M</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY_SELF_PROPELLED_WW2_VIKING</Tag>
+		<English>Self-Propelled Artillery (Sav m/43)</English>
+		<German>
+			<Text>Sav m/43</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_ARTILLERY_SELF_PROPELLED_WW2 -->
+  <!-- BEGIN: UNITCLASS_MOBILE_ARTILLERY -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_ARABIA</Tag>
+		<English>Mobile Artillery (M 109A6)</English>
+		<German>
+			<Text>M109A6</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_CARTHAGE</Tag>
+		<English>Mobile Artillery (2S1 Gvozdika - Algeria)</English>
+		<German>
+			<Text>2S1 Gvozdika</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_CHINA</Tag>
+		<English>Mobile Artillery (PLZ-07)</English>
+		<German>
+			<Text>PLZ-07</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_DUTCH</Tag>
+		<English>Mobile Artillery (M 109A2/90)</English>
+		<German>
+			<Text>M109A2/90</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_EGYPT</Tag>
+		<English>Mobile Artillery (M 109A2/5)</English>
+		<German>
+			<Text>M109A2/5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_ETHIOPIA</Tag>
+		<English>Mobile Artillery (2S1 Gvozdika - Ethiopia)</English>
+		<German>
+			<Text>2S1 Gvozdika</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_FRANCE</Tag>
+		<English>Mobile Artillery (GCT 155mm AuF1)</English>
+		<German>
+			<Text>GCT 155mm AuF1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_GERMAN</Tag>
+		<English>Mobile Artillery (Panzerhaubitze 2000)</English>
+		<German>
+			<Text>Panzerhaubitze 2000</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_GREECE</Tag>
+		<English>Mobile Artillery (M 109A3GEA2)</English>
+		<German>
+			<Text>M109A3GEA2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_HUNGARY</Tag>
+		<English>Mobile Artillery (2S1 Gvozgyika)</English>
+		<German>
+			<Text>2S1 Gvozdika</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_INCA</Tag>
+		<English>Mobile Artillery (M 109A1)</English>
+		<German>
+			<Text>M109A1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_ISRAEL</Tag>
+		<English>Mobile Artillery (M 109A5)</English>
+		<German>
+			<Text>M109A5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_KOREA</Tag>
+		<English>Mobile Artillery (K55A1)</English>
+		<German>
+			<Text>K55A1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_MONGOL</Tag>
+		<English>Mobile Artillery (2S1 Gvozdika - Mongol)</English>
+		<German>
+			<Text>2S1 Gvozdika</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_PERSIA</Tag>
+		<English>Mobile Artillery (Raad-1)</English>
+		<German>
+			<Text>Raad-1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_POLAND</Tag>
+		<English>Mobile Artillery (2S1M Gozdzik)</English>
+		<German>
+			<Text>2S1M Gozdzik</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_PORTUGAL</Tag>
+		<English>Mobile Artillery (M 109A1/3)</English>
+		<German>
+			<Text>M109A1/3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_RUSSIA</Tag>
+		<English>Mobile Artillery (2S19 Msta-S)</English>
+		<German>
+			<Text>2S19 Msta-S</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_SPAIN</Tag>
+		<English>Mobile Artillery (M 109A3/5)</English>
+		<German>
+			<Text>M109A3/5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_UKRAINE</Tag>
+		<English>Mobile Artillery (2S1 Gvozdika - Ukraine)</English>
+		<German>
+			<Text>2S1 Gvozdika</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY_USA</Tag>
+		<English>Mobile Artillery (M 109A6 Paladin)</English>
+		<German>
+			<Text>M109A6 Paladin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+  <!-- END:   UNITCLASS_MOBILE_ARTILLERY -->
+  	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORTIFICATION_ARTILLERY</Tag>
+		<English>Emplaced Artillery</English>
+		<German>
+			<Text>Befestigte Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORTIFICATION_BOMBARD</Tag>
+		<English>Emplaced Cannon</English>
+		<German>
+			<Text>Befestigte Bombarde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORTIFICATION_CANNON</Tag>
+		<English>Emplaced Battery</English>
+		<German>
+			<Text>Befestigte Kanone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FORTIFICATION_HEAVY_ARTILLERY</Tag>
+		<English>Emplaced Missile Artillery</English>
+		<German>
+			<Text>Befestigte schwere Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MORTAR</Tag>
+		<English>Mortar</English>
+		<German>
+			<Text>Minenwerfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MORTAR_GERMAN</Tag>
+		<English>Mortar (Heer)</English>
+		<German>
+			<Text>Heer-Minenwerfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MORTAR_FRANCE</Tag>
+		<English>Mortar (Lance-Mine)</English>
+		<German>
+			<Text>Franz&#246;sische-Minenwerfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MORTAR_RUSSIA</Tag>
+		<English>Mortar (Minomet)</English>
+		<German>
+			<Text>Soviet-Minenwerfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>		
+</Civ4GameText>

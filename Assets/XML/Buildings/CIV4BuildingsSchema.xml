@@ -1,0 +1,865 @@
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Building Schema -->
+<!-- -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
+<Schema xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+	<ElementType name="Type" content="textOnly"/>
+	<ElementType name="iMaxGlobalInstances" content="textOnly" dt:type="int"/>
+	<ElementType name="iMaxTeamInstances" content="textOnly" dt:type="int"/>
+	<ElementType name="iMaxPlayerInstances" content="textOnly" dt:type="int"/>
+	<ElementType name="iExtraPlayerInstances" content="textOnly" dt:type="int"/>
+	<ElementType name="bNoLimit" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bMonument" content="textOnly" dt:type="boolean"/>
+	<!-- MOD - START - Rebuildable Buildings -->
+	<ElementType name="bRebuild" content="textOnly" dt:type="boolean"/>
+	<!-- MOD - END - Rebuildable Buildings -->
+	<ElementType name="DefaultBuilding" content="textOnly"/>
+	<ElementType name="VictoryType" content="textOnly"/>
+	<ElementType name="iThreshold" content="textOnly" dt:type="int"/>
+	<ElementType name="VictoryThreshold" content="eltOnly">
+		<element type="VictoryType"/>
+		<element type="iThreshold"/>
+	</ElementType>
+	<ElementType name="VictoryThresholds" content="eltOnly">
+		<element type="VictoryThreshold" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="BuildingClassInfo" content="eltOnly">
+		<element type="Type"/>
+		<element type="Description"/>
+		<element type="iMaxGlobalInstances"/>
+		<element type="iMaxTeamInstances"/>
+		<element type="iMaxPlayerInstances"/>
+		<element type="iExtraPlayerInstances"/>
+		<element type="bNoLimit"/>
+		<element type="bMonument"/>
+		<!-- MOD - START - Rebuild -->
+		<element type="bRebuild" minOccurs="0"/>
+		<!-- MOD - END - Rebuild -->
+		<element type="DefaultBuilding"/>
+		<element type="VictoryThresholds"/>
+	</ElementType>
+	<ElementType name="BuildingClassInfos" content="eltOnly">
+		<element type="BuildingClassInfo" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="BuildingClass" content="textOnly"/>
+	<ElementType name="SpecialBuildingType" content="textOnly"/>
+	<ElementType name="Description" content="textOnly"/>
+	<ElementType name="Civilopedia" content="textOnly"/>
+	<ElementType name="Help" content="textOnly"/>
+	<ElementType name="bRebellionRelated" content="textOnly" dt:type="boolean"/>	
+	<ElementType name="Strategy" content="textOnly"/>
+	<ElementType name="Advisor" content="textOnly"/>
+	<ElementType name="ArtDefineTag" content="textOnly"/>
+	<ElementType name="MovieDefineTag" content="textOnly"/>
+	<!-- MOD - START - Advanced Building Prerequisites -->
+	<ElementType name="TechType" content="textOnly"/>
+	<ElementType name="PrereqAndTechs" content="eltOnly">
+		<element type="TechType" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="CivicType" content="textOnly"/>
+	<ElementType name="PrereqAndCivics" content="eltOnly">
+		<element type="CivicType" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="BonusType" content="textOnly"/>
+	<ElementType name="PrereqAndBonuses" content="eltOnly">
+		<element type="BonusType" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PrereqOrBonuses" content="eltOnly">
+		<element type="BonusType" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="BuildingClassType" content="textOnly"/>
+	<ElementType name="iNumBuildingNeeded" content="textOnly" dt:type="int"/>
+	<ElementType name="PrereqGlobalBuilding" content="eltOnly">
+		<element type="BuildingClassType"/>
+		<element type="iNumBuildingNeeded"/>
+	</ElementType>
+	<ElementType name="PrereqGlobalBuildings" content="eltOnly">
+		<element type="PrereqGlobalBuilding" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PrereqAndBuildings" content="eltOnly">
+		<element type="BuildingClassType" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PrereqVictory" content="textOnly"/>
+	<ElementType name="PrereqStateReligion" content="textOnly"/>
+	<ElementType name="PrereqReligion" content="textOnly"/>
+	<ElementType name="PrereqCorporation" content="textOnly"/>
+	<ElementType name="bPrereqPower" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bPrereqNoReligion" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bPrereqCurrentStateReligion" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bInactiveWithoutPower" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bInactiveWithoutPrereqStateReligion" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bInactiveWithoutPrereqCivics" content="textOnly" dt:type="boolean"/>
+	<!-- MOD - END - Advanced Building Prerequisites -->
+	<ElementType name="HolyCity" content="textOnly"/>
+	<ElementType name="ReligionType" content="textOnly"/>
+	<ElementType name="FoundsCorporation" content="textOnly"/>
+	<ElementType name="GlobalReligionCommerce" content="textOnly"/>
+	<ElementType name="GlobalCorporationCommerce" content="textOnly"/>
+	<ElementType name="FreeStartEra" content="textOnly"/>
+	<ElementType name="MaxStartEra" content="textOnly"/>
+	<!-- MOD - START - Building Replacement -->
+	<ElementType name="ObsoleteBuildingClass" content="textOnly"/>
+	<!-- MOD - END - Building Replacement -->
+	<ElementType name="ObsoleteTech" content="textOnly"/>
+	<!-- MOD - START - Building Discontinuation -->
+	<ElementType name="DiscontinueTech" content="textOnly"/>
+	<!-- MOD - END - Building Discontinuation -->
+	<ElementType name="ProductionTraitType" content="textOnly"/>
+	<ElementType name="iProductionTrait" content="textOnly" dt:type="int"/>
+	<ElementType name="ProductionTrait" content="eltOnly">
+		<element type="ProductionTraitType"/>
+		<element type="iProductionTrait"/>
+	</ElementType>
+	<ElementType name="ProductionTraits" content="eltOnly">
+		<element type="ProductionTrait" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="HappinessTraitType" content="textOnly"/>
+	<ElementType name="iHappinessTrait" content="textOnly" dt:type="int"/>
+	<ElementType name="HappinessTrait" content="eltOnly">
+		<element type="HappinessTraitType"/>
+		<element type="iHappinessTrait"/>
+	</ElementType>
+	<ElementType name="HappinessTraits" content="eltOnly">
+		<element type="HappinessTrait" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="NoBonus" content="textOnly"/>
+	<ElementType name="PowerBonus" content="textOnly"/>
+	<ElementType name="FreeBonus" content="textOnly"/>
+	<ElementType name="iNumFreeBonuses" content="textOnly" dt:type="int"/>
+	<ElementType name="FreeBuilding" content="textOnly"/>
+	<ElementType name="bTeamShare" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bWater" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bRiver" content="textOnly" dt:type="boolean"/>
+	<!-- MOD - START - Fresh Water Aquifers -->
+	<ElementType name="bFreshWaterSource" content="textOnly" dt:type="boolean"/>
+	<!-- MOD - END - Fresh Water Aquifers -->
+	<ElementType name="bPower" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bDirtyPower" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bAreaCleanPower" content="textOnly" dt:type="boolean"/>
+	<ElementType name="DiploVoteType" content="textOnly"/>
+	<ElementType name="bForceTeamVoteEligible" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bCapital" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bGovernmentCenter" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bGoldenAge" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bAllowsNukes" content="textOnly" dt:type="boolean"/>
+	<!-- MOD - START - Unlimited Conscription -->
+	<ElementType name="bGlobalUnlimitedConscript" content="textOnly" dt:type="boolean"/>
+	<!-- MOD - END - Unlimited Conscription -->
+	<ElementType name="bMapCentering" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bNoUnhappiness" content="textOnly" dt:type="boolean"/>
+	<ElementType name="iUnhealthyPopulationModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="bBuildingOnlyHealthy" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bNeverCapture" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bNukeImmune" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bCenterInCity" content="textOnly" dt:type="boolean"/>
+	<ElementType name="iAIWeight" content="textOnly" dt:type="int"/>
+	<ElementType name="iCost" content="textOnly" dt:type="int"/>
+	<ElementType name="iHurryCostModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iAdvancedStartCost" content="textOnly" dt:type="int"/>
+	<ElementType name="iAdvancedStartCostIncrease" content="textOnly" dt:type="int"/>
+	<ElementType name="iMinAreaSize" content="textOnly" dt:type="int"/>
+	<ElementType name="iConquestProb" content="textOnly" dt:type="int"/>
+	<ElementType name="iCitiesPrereq" content="textOnly" dt:type="int"/>
+	<ElementType name="iTeamsPrereq" content="textOnly" dt:type="int"/>
+	<ElementType name="iLevelPrereq" content="textOnly" dt:type="int"/>
+	<ElementType name="iMinLatitude" content="textOnly" dt:type="int"/>
+	<ElementType name="iMaxLatitude" content="textOnly" dt:type="int"/>
+	<ElementType name="iGreatPeopleRateModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iGreatGeneralRateModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iDomesticGreatGeneralRateModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalGreatPeopleRateModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iAnarchyModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iGoldenAgeModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalHurryModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iExperience" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalExperience" content="textOnly" dt:type="int"/>
+	<ElementType name="iFoodKept" content="textOnly" dt:type="int"/>
+	<ElementType name="iAirlift" content="textOnly" dt:type="int"/>
+	<ElementType name="iAirModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iAirUnitCapacity" content="textOnly" dt:type="int"/>
+	<ElementType name="iNukeModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iNukeExplosionRand" content="textOnly" dt:type="int"/>
+	<ElementType name="iFreeSpecialist" content="textOnly" dt:type="int"/>
+	<ElementType name="iAreaFreeSpecialist" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalFreeSpecialist" content="textOnly" dt:type="int"/>
+	<ElementType name="iMaintenanceModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iWarWearinessModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalWarWearinessModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iEnemyWarWearinessModifier" content="textOnly" dt:type="int"/>
+	<!-- MOD - START - Wartime Conscription -->
+	<ElementType name="iGlobalWarConscript" content="textOnly" dt:type="int"/>
+	<!-- MOD - END - Wartime Conscription -->
+	<ElementType name="iHealRateChange" content="textOnly" dt:type="int"/>
+	<ElementType name="iSeparatism" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalSeparatism" content="textOnly" dt:type="int"/>
+	<ElementType name="iHealth" content="textOnly" dt:type="int"/>
+	<ElementType name="iAreaHealth" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalHealth" content="textOnly" dt:type="int"/>
+	<ElementType name="iHappiness" content="textOnly" dt:type="int"/>
+	<ElementType name="iAreaHappiness" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalHappiness" content="textOnly" dt:type="int"/>
+	<ElementType name="iStateReligionHappiness" content="textOnly" dt:type="int"/>
+	<ElementType name="iWorkerSpeedModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iMilitaryProductionModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iSpaceProductionModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalSpaceProductionModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iTradeRoutes" content="textOnly" dt:type="int"/>
+	<ElementType name="iCoastalTradeRoutes" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalTradeRoutes" content="textOnly" dt:type="int"/>
+	<ElementType name="iTradeRouteModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iForeignTradeRouteModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalPopulationChange" content="textOnly" dt:type="int"/>
+	<ElementType name="iFreeTechs" content="textOnly" dt:type="int"/>
+	<ElementType name="iDefense" content="textOnly" dt:type="int"/>
+	<ElementType name="iNaturalDefense" content="textOnly" dt:type="int"/>
+	<!-- MOD - START - Obsolete Defense -->
+	<ElementType name="iObsoleteSafeDefense" content="textOnly" dt:type="int"/>
+	<!-- MOD - END - Obsolete Defense -->
+	<ElementType name="iBombardDefense" content="textOnly" dt:type="int"/>
+	<!-- MOD - START - Obsolete Defense -->
+	<ElementType name="iObsoleteSafeBombardDefense" content="textOnly" dt:type="int"/>
+	<!-- MOD - END - Obsolete Defense -->
+	<ElementType name="iAllCityDefense" content="textOnly" dt:type="int"/>
+	<ElementType name="iEspionageDefense" content="textOnly" dt:type="int"/>
+	<ElementType name="iAsset" content="textOnly" dt:type="int"/>
+	<ElementType name="iPower" content="textOnly" dt:type="int"/>
+	<ElementType name="fVisibilityPriority" content="textOnly"/>
+	<ElementType name="FreePromotion" content="textOnly"/>
+	<ElementType name="CivicOption" content="textOnly"/>
+	<ElementType name="GreatPeopleUnitClass" content="textOnly"/>
+	<ElementType name="iGreatPeopleRateChange" content="textOnly" dt:type="int"/>
+	<ElementType name="iHurryAngerModifier" content="textOnly" dt:type="int"/>
+	<!-- MOD - START - Unique Buildings -->
+	<ElementType name="bUniqueBuilding" content="textOnly" dt:type="boolean"/>
+	<!-- MOD - END - Unique Buildings -->
+	<ElementType name="bIgnoreWorks" content="textOnly" dt:type="boolean"/>	
+	<!-- MOD - START - Military Disciplines -->
+	<ElementType name="bMilitaryDiscipline" content="textOnly" dt:type="boolean"/>
+	<!-- MOD - END - Military Disciplines -->
+	<ElementType name="iInsideCityCongestionThresholdChange" content="textOnly" dt:type="int"/>
+	<ElementType name="iOutsideCityCongestionThresholdChange" content="textOnly" dt:type="int"/>		
+	<ElementType name="bBorderObstacle" content="textOnly" dt:type="boolean"/>
+	<ElementType name="iYield" content="textOnly" dt:type="int"/>
+	<ElementType name="SeaPlotYieldChanges" content="eltOnly">
+		<element type="iYield" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="RiverPlotYieldChanges" content="eltOnly">
+		<element type="iYield" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="GlobalSeaPlotYieldChanges" content="eltOnly">
+		<element type="iYield" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="YieldChanges" content="eltOnly">
+		<element type="iYield" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="YieldModifiers" content="eltOnly">
+		<element type="iYield" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PowerYieldModifiers" content="eltOnly">
+		<element type="iYield" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="AreaYieldModifiers" content="eltOnly">
+		<element type="iYield" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="GlobalYieldModifiers" content="eltOnly">
+		<element type="iYield" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="iCommerce" content="textOnly" dt:type="int"/>
+	<ElementType name="CommerceChanges" content="eltOnly">
+		<element type="iCommerce" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="ObsoleteSafeCommerceChanges" content="eltOnly">
+		<element type="iCommerce" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="CommerceChangeDoubleTimes" content="eltOnly">
+		<element type="iCommerce" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="CommerceModifiers" content="eltOnly">
+		<element type="iCommerce" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="GlobalCommerceModifiers" content="eltOnly">
+		<element type="iCommerce" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<!-- MOD - START - Advanced Yield and Commerce Effects -->
+	<!--
+	<ElementType name="SpecialistExtraCommerces" content="eltOnly">
+		<element type="iCommerce" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	-->
+	<ElementType name="AllSpecialistCommerces" content="eltOnly">
+		<element type="iCommerce" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<!-- MOD - END - Advanced Yield and Commerce Effects -->
+	<ElementType name="StateReligionCommerces" content="eltOnly">
+		<element type="iCommerce" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="CommerceHappinesses" content="eltOnly">
+		<element type="iCommerce" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="iReligionChange" content="textOnly" dt:type="int"/>
+	<ElementType name="ReligionChange" content="eltOnly">
+		<element type="ReligionType"/>
+		<element type="iReligionChange"/>
+	</ElementType>
+	<ElementType name="ReligionChanges" content="eltOnly">
+		<element type="ReligionChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="SpecialistType" content="textOnly"/>
+	<ElementType name="iSpecialistCount" content="textOnly" dt:type="int"/>
+	<ElementType name="SpecialistCount" content="eltOnly">
+		<element type="SpecialistType"/>
+		<element type="iSpecialistCount"/>
+	</ElementType>
+	<ElementType name="SpecialistCounts" content="eltOnly">
+		<element type="SpecialistCount" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="iFreeSpecialistCount" content="textOnly" dt:type="int"/>
+	<ElementType name="FreeSpecialistCount" content="eltOnly">
+		<element type="SpecialistType"/>
+		<element type="iFreeSpecialistCount"/>
+	</ElementType>
+	<ElementType name="FreeSpecialistCounts" content="eltOnly">
+		<element type="FreeSpecialistCount" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="bCommerce" content="textOnly" dt:type="boolean"/>
+	<ElementType name="CommerceFlexibles" content="eltOnly">
+		<element type="bCommerce" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="bCommerceChangeOriginalOwner" content="textOnly" dt:type="boolean"/>
+	<ElementType name="CommerceChangeOriginalOwners" content="eltOnly">
+		<element type="bCommerceChangeOriginalOwner" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="ConstructSound" content="textOnly"/>
+	<ElementType name="iHealthChange" content="textOnly" dt:type="int"/>
+	<ElementType name="BonusHealthChange" content="eltOnly">
+		<element type="BonusType"/>
+		<element type="iHealthChange"/>
+	</ElementType>
+	<ElementType name="BonusHealthChanges" content="eltOnly">
+		<element type="BonusHealthChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="iHappinessChange" content="textOnly" dt:type="int"/>
+	<ElementType name="BonusHappinessChange" content="eltOnly">
+		<element type="BonusType"/>
+		<element type="iHappinessChange"/>
+	</ElementType>
+	<ElementType name="BonusHappinessChanges" content="eltOnly">
+		<element type="BonusHappinessChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="iProductonModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="BonusProductionModifier" content="eltOnly">
+		<element type="BonusType"/>
+		<element type="iProductonModifier"/>
+	</ElementType>
+	<ElementType name="BonusProductionModifiers" content="eltOnly">
+		<element type="BonusProductionModifier" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="UnitCombatType" content="textOnly"/>
+	<ElementType name="UnitCombatFreeExperience" content="eltOnly">
+		<element type="UnitCombatType"/>
+		<element type="iExperience"/>
+	</ElementType>
+	<ElementType name="UnitCombatFreeExperiences" content="eltOnly">
+		<element type="UnitCombatFreeExperience" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="DomainType" content="textOnly"/>
+	<ElementType name="DomainFreeExperience" content="eltOnly">
+		<element type="DomainType"/>
+		<element type="iExperience"/>
+	</ElementType>
+	<ElementType name="DomainFreeExperiences" content="eltOnly">
+		<element type="DomainFreeExperience" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="iProductionModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="DomainProductionModifier" content="eltOnly">
+		<element type="DomainType"/>
+		<element type="iProductionModifier"/>
+	</ElementType>
+	<ElementType name="DomainProductionModifiers" content="eltOnly">
+		<element type="DomainProductionModifier" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<!-- MOD - START - Building Heal Rate Changes -->
+	<ElementType name="DomainHealRateChange" content="eltOnly">
+		<element type="DomainType"/>
+		<element type="iHealRateChange"/>
+	</ElementType>
+	<ElementType name="DomainHealRateChanges" content="eltOnly">
+		<element type="DomainHealRateChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="UnitClassType" content="textOnly"/>
+	<ElementType name="UnitClassHealRateChange" content="eltOnly">
+		<element type="UnitClassType"/>
+		<element type="iHealRateChange"/>
+	</ElementType>
+	<ElementType name="UnitClassHealRateChanges" content="eltOnly">
+		<element type="UnitClassHealRateChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="UnitCombatHealRateChange" content="eltOnly">
+		<element type="UnitCombatType"/>
+		<element type="iHealRateChange"/>
+	</ElementType>
+	<ElementType name="UnitCombatHealRateChanges" content="eltOnly">
+		<element type="UnitCombatHealRateChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<!-- MOD - END - Building Heal Rate Changes -->
+	<!-- MOD - START - Global Terrain Double Moves -->
+	<ElementType name="TerrainType" content="textOnly"/>
+	<ElementType name="bTerrainDoubleMove" content="textOnly" dt:type="boolean"/>
+	<ElementType name="GlobalTerrainDoubleMove" content="eltOnly">
+		<element type="TerrainType"/>
+		<element type="bTerrainDoubleMove"/>
+	</ElementType>
+	<ElementType name="GlobalTerrainDoubleMoves" content="eltOnly">
+		<element type="GlobalTerrainDoubleMove" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<!-- MOD - END - Global Terrain Double Moves -->
+	<ElementType name="BuildingType" content="textOnly"/>
+	<ElementType name="BuildingHappinessChange" content="eltOnly">
+		<element type="BuildingType"/>
+		<element type="iHappinessChange"/>
+	</ElementType>
+	<ElementType name="BuildingHappinessChanges" content="eltOnly">
+		<element type="BuildingHappinessChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<!-- MOD - START - Advanced Yield and Commerce Effects -->
+	<ElementType name="SpecialistYieldChange" content="eltOnly">
+		<element type="SpecialistType"/>
+		<element type="YieldChanges"/>
+	</ElementType>
+	<ElementType name="SpecialistCommerceChange" content="eltOnly">
+		<element type="SpecialistType"/>
+		<element type="CommerceChanges"/>
+	</ElementType>
+	<ElementType name="SpecialistYieldChanges" content="eltOnly">
+		<element type="SpecialistYieldChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="GlobalSpecialistYieldChanges" content="eltOnly">
+		<element type="SpecialistYieldChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="SpecialistCommerceChanges" content="eltOnly">
+		<element type="SpecialistCommerceChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="GlobalSpecialistCommerceChanges" content="eltOnly">
+		<element type="SpecialistCommerceChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="BuildingYieldChange" content="eltOnly">
+		<element type="BuildingClassType"/>
+		<element type="YieldChanges"/>
+	</ElementType>
+	<ElementType name="BuildingCommerceChange" content="eltOnly">
+		<element type="BuildingClassType"/>
+		<element type="CommerceChanges"/>
+	</ElementType>
+	<ElementType name="BuildingYieldChanges" content="eltOnly">
+		<element type="BuildingYieldChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="GlobalBuildingYieldChanges" content="eltOnly">
+		<element type="BuildingYieldChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="BuildingCommerceChanges" content="eltOnly">
+		<element type="BuildingCommerceChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="GlobalBuildingCommerceChanges" content="eltOnly">
+		<element type="BuildingCommerceChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="ImprovementYieldChange" content="eltOnly">
+		<element type="ImprovementType"/>
+		<element type="YieldChanges"/>
+	</ElementType>
+	<ElementType name="ImprovementYieldChanges" content="eltOnly">
+		<element type="ImprovementYieldChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="GlobalImprovementYieldChanges" content="eltOnly">
+		<element type="ImprovementYieldChange" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="BonusYieldModifier" content="eltOnly">
+		<element type="BonusType"/>
+		<element type="YieldModifiers"/>
+	</ElementType>
+	<ElementType name="BonusYieldModifiers" content="eltOnly">
+		<element type="BonusYieldModifier" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<!-- MOD - END - Advanced Yield and Commerce Effects -->
+	<ElementType name="ImprovementFreeSpecialist" content="eltOnly">
+		<element type="ImprovementType"/>
+		<element type="iFreeSpecialistCount"/>
+	</ElementType>
+	<ElementType name="ImprovementFreeSpecialists" content="eltOnly">
+		<element type="ImprovementFreeSpecialist" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="ImprovementType" content="textOnly"/>
+	<ElementType name="FlavorType" content="textOnly"/>
+	<ElementType name="iFlavor" content="textOnly" dt:type="int"/>
+	<ElementType name="Flavor" content="eltOnly">
+		<element type="FlavorType"/>
+		<element type="iFlavor"/>
+	</ElementType>
+	<ElementType name="Flavors" content="eltOnly">
+		<element type="Flavor" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<!-- MOD - START - Improved Civilopedia -->
+	<ElementType name="HotKeyClass" content="textOnly"/>
+	<ElementType name="HotKeyClasses" content="eltOnly">
+		<element type="HotKeyClass" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<!-- MOD - END - Improved Civilopedia -->
+	<ElementType name="HotKey" content="textOnly"/>
+	<ElementType name="bAltDown" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bShiftDown" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bCtrlDown" content="textOnly" dt:type="boolean"/>
+	<ElementType name="iHotKeyPriority" content="textOnly" dt:type="int"/>
+	<ElementType name="iOrderPriority" content="textOnly" dt:type="int"/>
+	<ElementType name="GenericBuildingInfo" content="eltOnly">
+		<element type="Type"/>
+		<element type="Description"/>
+		<element type="ArtDefineTag"/>
+	</ElementType>
+	<ElementType name="GenericBuildingInfos" content="eltOnly">
+		<element type="GenericBuildingInfo" maxOccurs="*"/>
+	</ElementType>
+	<!-- MOD - START - Bonus Converter Buildings -->
+	<ElementType name="iBonusAmount" content="textOnly" dt:type="int"/>
+	<ElementType name="ConsumesBonus" content="eltOnly">
+		<element type="BonusType"/>
+		<element type="iBonusAmount"/>
+	</ElementType>
+	<ElementType name="ProducesBonus" content="eltOnly">
+		<element type="BonusType"/>
+		<element type="iBonusAmount"/>
+	</ElementType>
+	<ElementType name="ConsumesBonuses" content="eltOnly">
+		<element type="ConsumesBonus" minOccurs="0"/>
+	</ElementType>
+	<ElementType name="ProducesBonuses" content="eltOnly">
+		<element type="ProducesBonus" minOccurs="0"/>
+	</ElementType>
+	<!-- MOD - END - Bonus Converter Buildings -->
+	<!-- MOD - START - Building Timer -->
+	<ElementType name="iTimer" content="textOnly" dt:type="int"/>
+	<!-- MOD - END - Building Timer -->
+	<!-- MOD - START - Epidemics -->
+	<ElementType name="iEpidemicModifier" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalEpidemicModifier" content="textOnly" dt:type="int"/>
+	<!-- MOD - END - Epidemics -->
+	<!-- MOD - START - Building Defenses -->
+	<ElementType name="iDefenseBonus" content="textOnly" dt:type="int"/>
+	<ElementType name="UnitCombatDefense" content="eltOnly">
+		<element type="UnitCombatType"/>
+		<element type="iDefenseBonus"/>
+	</ElementType>
+	<ElementType name="UnitClassDefense" content="eltOnly">
+		<element type="UnitClassType"/>
+		<element type="iDefenseBonus"/>
+	</ElementType>
+	<ElementType name="UnitCombatDefenses" content="eltOnly">
+		<element type="UnitCombatDefense" minOccurs="0"/>
+	</ElementType>
+	<ElementType name="UnitClassDefenses" content="eltOnly">
+		<element type="UnitClassDefense" minOccurs="0"/>
+	</ElementType>
+	<!-- MOD - END - Building Defenses -->
+	<!-- MOD - START - Simultaneous Production -->
+	<ElementType name="iNumUnits" content="textOnly" dt:type="int"/>
+	<ElementType name="UnitCombatSimultaneousProduction" content="eltOnly">
+		<element type="UnitCombatType"/>
+		<element type="iNumUnits"/>
+	</ElementType>
+	<ElementType name="UnitCombatSimultaneousProductions" content="eltOnly">
+		<element type="UnitCombatSimultaneousProduction" minOccurs="0"/>
+	</ElementType>
+	<!-- MOD - END - Simultaneous Production -->
+	<ElementType name="BuildingInfo" content="eltOnly">
+		<element type="BuildingClass"/>
+		<element type="Type"/>
+		<element type="SpecialBuildingType"/>
+		<element type="Description"/>
+		<element type="Civilopedia"/>
+		<element type="Strategy"/>
+		<element type="Help" minOccurs="0"/>
+		<element type="bRebellionRelated" minOccurs="0"/>
+		<element type="Advisor"/>
+		<element type="ArtDefineTag"/>
+		<element type="MovieDefineTag"/>
+		<!-- MOD - START - Advanced Building Prerequisites -->
+		<element type="PrereqAndTechs"/>
+		<element type="PrereqAndCivics"/>
+		<element type="PrereqAndBonuses"/>
+		<element type="PrereqOrBonuses"/>
+		<element type="PrereqGlobalBuildings"/>
+		<element type="PrereqAndBuildings"/>
+		<element type="PrereqVictory"/>
+		<element type="PrereqStateReligion"/>
+		<element type="PrereqReligion"/>
+		<element type="PrereqCorporation"/>
+		<element type="bPrereqPower"/>
+		<element type="bPrereqNoReligion"/>
+		<element type="bPrereqCurrentStateReligion"/>
+		<element type="bInactiveWithoutPower"/>
+		<element type="bInactiveWithoutPrereqStateReligion"/>
+		<element type="bInactiveWithoutPrereqCivics"/>
+		<!-- MOD - END - Advanced Building Prerequisites -->
+		<element type="HolyCity"/>
+		<element type="ReligionType"/>
+		<element type="FoundsCorporation"/>
+		<element type="GlobalReligionCommerce"/>
+		<element type="GlobalCorporationCommerce"/>
+		<element type="FreeStartEra"/>
+		<element type="MaxStartEra"/>
+		<!-- MOD - START - Building Replacement -->
+		<element type="ObsoleteBuildingClass"/>
+		<!-- MOD - END - Building Replacement -->
+		<element type="ObsoleteTech"/>
+		<!-- MOD - START - Building Discontinuation -->
+		<element type="DiscontinueTech"/>
+		<!-- MOD - END - Building Discontinuation -->
+		<element type="ProductionTraits"/>
+		<element type="HappinessTraits"/>
+		<element type="NoBonus"/>
+		<element type="PowerBonus"/>
+		<element type="FreeBonus"/>
+		<element type="iNumFreeBonuses"/>
+		<!-- MOD - START - Bonus Converter Buildings -->
+		<element type="ConsumesBonuses" minOccurs="0"/>
+		<element type="ProducesBonuses" minOccurs="0"/>
+		<!-- MOD - END - Bonus Converter Buildings -->
+		<element type="FreeBuilding"/>
+		<element type="FreePromotion"/>
+		<element type="CivicOption"/>
+		<element type="GreatPeopleUnitClass"/>
+		<element type="iGreatPeopleRateChange"/>
+		<element type="iHurryAngerModifier"/>
+		<!-- MOD - START - Unique Buildings -->
+		<element type="bUniqueBuilding"/>
+		<!-- MOD - END - Unique Buildings -->
+		<element type="bIgnoreWorks" minOccurs="0"/>		
+		<!-- MOD - START - Military Disciplines -->
+		<element type="bMilitaryDiscipline"/>
+		<!-- MOD - END - Military Disciplines -->
+		<element type="iInsideCityCongestionThresholdChange" minOccurs="0"/>	
+		<element type="iOutsideCityCongestionThresholdChange" minOccurs="0"/>			
+		<element type="bBorderObstacle"/>
+		<element type="bTeamShare"/>
+		<element type="bWater"/>
+		<element type="bRiver"/>
+		<!-- MOD - START - Fresh Water Aquifers -->
+		<element type="bFreshWaterSource"/>
+		<!-- MOD - END - Fresh Water Aquifers -->
+		<element type="bPower"/>
+		<element type="bDirtyPower"/>
+		<element type="bAreaCleanPower"/>
+		<element type="DiploVoteType"/>
+		<element type="bForceTeamVoteEligible"/>
+		<element type="bCapital"/>
+		<element type="bGovernmentCenter"/>
+		<element type="bGoldenAge"/>
+		<element type="bAllowsNukes"/>
+		<!-- MOD - START - Unlimited Conscription -->
+		<element type="bGlobalUnlimitedConscript" minOccurs="0"/>
+		<!-- MOD - END - Unlimited Conscription -->
+		<element type="bMapCentering"/>
+		<element type="bNoUnhappiness"/>
+		<element type="iUnhealthyPopulationModifier"/>
+		<element type="bBuildingOnlyHealthy"/>
+		<element type="bNeverCapture"/>
+		<element type="bNukeImmune"/>
+		<element type="bCenterInCity"/>
+		<element type="iAIWeight"/>
+		<element type="iCost"/>
+		<!-- MOD - START - Building Timer -->
+		<element type="iTimer" minOccurs="0"/>
+		<!-- MOD - END - Building Timer -->
+		<element type="iHurryCostModifier"/>
+		<element type="iAdvancedStartCost"/>
+		<element type="iAdvancedStartCostIncrease"/>
+		<element type="iMinAreaSize"/>
+		<element type="iConquestProb"/>
+		<element type="iCitiesPrereq"/>
+		<element type="iTeamsPrereq"/>
+		<element type="iLevelPrereq"/>
+		<element type="iMinLatitude"/>
+		<element type="iMaxLatitude"/>
+		<element type="iGreatPeopleRateModifier"/>
+		<element type="iGreatGeneralRateModifier"/>
+		<element type="iDomesticGreatGeneralRateModifier"/>
+		<element type="iGlobalGreatPeopleRateModifier"/>
+		<element type="iAnarchyModifier"/>
+		<element type="iGoldenAgeModifier"/>
+		<element type="iGlobalHurryModifier"/>
+		<element type="iExperience"/>
+		<element type="iGlobalExperience"/>
+		<element type="iFoodKept"/>
+		<element type="iAirlift"/>
+		<element type="iAirModifier"/>
+		<element type="iAirUnitCapacity"/>
+		<element type="iNukeModifier"/>
+		<element type="iNukeExplosionRand"/>
+		<element type="iFreeSpecialist"/>
+		<element type="iAreaFreeSpecialist"/>
+		<element type="iGlobalFreeSpecialist"/>
+		<element type="iMaintenanceModifier"/>
+		<element type="iWarWearinessModifier"/>
+		<element type="iGlobalWarWearinessModifier"/>
+		<element type="iEnemyWarWearinessModifier"/>
+		<!-- MOD - START - Wartime Conscription -->
+		<element type="iGlobalWarConscript" minOccurs="0"/>
+		<!-- MOD - END - Wartime Conscription -->
+		<element type="iHealRateChange"/>
+		<element type="iSeparatism"/>
+		<element type="iGlobalSeparatism"/>
+		<element type="iHealth"/>
+		<element type="iAreaHealth"/>
+		<element type="iGlobalHealth"/>
+		<!-- MOD - START - Epidemics -->
+		<element type="iEpidemicModifier" minOccurs="0"/>
+		<element type="iGlobalEpidemicModifier" minOccurs="0"/>
+		<!-- MOD - END - Epidemics -->
+		<element type="iHappiness"/>
+		<element type="iAreaHappiness"/>
+		<element type="iGlobalHappiness"/>
+		<element type="iStateReligionHappiness"/>
+		<element type="iWorkerSpeedModifier"/>
+		<element type="iMilitaryProductionModifier"/>
+		<element type="iSpaceProductionModifier"/>
+		<element type="iGlobalSpaceProductionModifier"/>
+		<element type="iTradeRoutes"/>
+		<element type="iCoastalTradeRoutes"/>
+		<element type="iGlobalTradeRoutes"/>
+		<element type="iTradeRouteModifier"/>
+		<element type="iForeignTradeRouteModifier"/>
+		<element type="iGlobalPopulationChange"/>
+		<element type="iFreeTechs"/>
+		<element type="iDefense"/>
+		<element type="iNaturalDefense" minOccurs="0"/>
+		<!-- MOD - START - Obsolete Defense -->
+		<element type="iObsoleteSafeDefense"/>
+		<!-- MOD - END - Obsolete Defense -->
+		<element type="iBombardDefense"/>
+		<!-- MOD - START - Obsolete Defense -->
+		<element type="iObsoleteSafeBombardDefense"/>
+		<!-- MOD - END - Obsolete Defense -->
+		<element type="iAllCityDefense"/>
+		<element type="iEspionageDefense"/>
+		<!-- MOD - START - Building Defenses -->
+		<element type="UnitCombatDefenses" minOccurs="0"/>
+		<element type="UnitClassDefenses" minOccurs="0"/>
+		<!-- MOD - END - Building Defenses -->
+		<!-- MOD - START - Simultaneous Production -->
+		<element type="UnitCombatSimultaneousProductions" minOccurs="0"/>
+		<!-- MOD - END - Simultaneous Production -->
+		<element type="iAsset"/>
+		<element type="iPower"/>
+		<element type="fVisibilityPriority"/>
+		<element type="SeaPlotYieldChanges"/>
+		<element type="RiverPlotYieldChanges"/>
+		<element type="GlobalSeaPlotYieldChanges"/>
+		<element type="YieldChanges"/>
+		<element type="YieldModifiers" minOccurs="0"/>
+		<element type="PowerYieldModifiers" minOccurs="0"/>
+		<element type="AreaYieldModifiers" minOccurs="0"/>
+		<element type="GlobalYieldModifiers" minOccurs="0"/>
+		<element type="CommerceChanges"/>
+		<element type="ObsoleteSafeCommerceChanges"/>
+		<element type="CommerceChangeDoubleTimes"/>
+		<element type="CommerceModifiers"/>
+		<element type="GlobalCommerceModifiers"/>
+		<!-- MOD - START - Advanced Yield and Commerce Effects -->
+		<!--<element type="SpecialistExtraCommerces"/>-->
+		<element type="AllSpecialistCommerces"/>
+		<!-- MOD - END - Advanced Yield and Commerce Effects -->
+		<element type="StateReligionCommerces"/>
+		<element type="CommerceHappinesses"/>
+		<element type="ReligionChanges"/>
+		<element type="SpecialistCounts"/>
+		<element type="FreeSpecialistCounts"/>
+		<element type="CommerceFlexibles"/>
+		<element type="CommerceChangeOriginalOwners"/>
+		<element type="ConstructSound"/>
+		<element type="BonusHealthChanges"/>
+		<element type="BonusHappinessChanges"/>
+		<element type="BonusProductionModifiers"/>
+		<element type="UnitCombatFreeExperiences"/>
+		<element type="DomainFreeExperiences"/>
+		<element type="DomainProductionModifiers"/>
+		<!-- MOD - START - Building Heal Rate Changes -->
+		<element type="DomainHealRateChanges"/>
+		<element type="UnitClassHealRateChanges"/>
+		<element type="UnitCombatHealRateChanges"/>
+		<!-- MOD - END - Building Heal Rate Changes -->
+		<!-- MOD - START - Global Terrain Double Moves -->
+		<element type="GlobalTerrainDoubleMoves" minOccurs="0"/>
+		<!-- MOD - END - Global Terrain Double Moves -->
+		<element type="BuildingHappinessChanges"/>
+		<!-- MOD - START - Advanced Yield and Commerce Effects -->
+		<element type="GlobalSpecialistYieldChanges"/>
+		<element type="GlobalSpecialistCommerceChanges"/>
+		<element type="GlobalBuildingYieldChanges"/>
+		<element type="GlobalBuildingCommerceChanges"/>
+		<element type="GlobalImprovementYieldChanges"/>
+		<element type="SpecialistYieldChanges"/>
+		<element type="SpecialistCommerceChanges"/>
+		<element type="BuildingYieldChanges"/>
+		<element type="BuildingCommerceChanges"/>
+		<element type="ImprovementYieldChanges"/>
+		<element type="ImprovementFreeSpecialists"/>
+		<element type="BonusYieldModifiers"/>
+		<!-- MOD - END - Advanced Yield and Commerce Effects -->
+		<element type="Flavors"/>
+		<!-- MOD - START - Improved Civilopedia -->
+		<element type="HotKeyClasses" minOccurs="0"/>
+		<!-- MOD - END - Improved Civilopedia -->
+		<element type="HotKey"/>
+		<element type="bAltDown"/>
+		<element type="bShiftDown"/>
+		<element type="bCtrlDown"/>
+		<element type="iHotKeyPriority"/>
+		<element type="iOrderPriority" minOccurs="0"/>
+	</ElementType>
+	<ElementType name="BuildingInfos" content="eltOnly">
+		<element type="BuildingInfo" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="SpecialBuildingName" content="textOnly"/>
+	<ElementType name="SpecialBuildingDescription" content="textOnly"/>
+	<ElementType name="TechPrereq" content="textOnly"/>
+	<ElementType name="TechPrereqAnyone" content="textOnly"/>
+	<ElementType name="ArtStyleType" content="textOnly"/>
+	<ElementType name="iRequiredPopulation" content="textOnly" dt:type="int"/>
+	<ElementType name="fScale" content="textOnly"/>
+	<ElementType name="bValid" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bExclusive" content="textOnly" dt:type="boolean"/>
+	<ElementType name="Button" content="textOnly"/>
+	<ElementType name="SpecialBuildingInfo" content="eltOnly">
+		<element type="Type"/>
+		<element type="Description"/>
+		<element type="ObsoleteTech"/>
+		<!-- MOD - START - Building Discontinuation -->
+		<element type="DiscontinueTech"/>
+		<!-- MOD - END - Building Discontinuation -->
+		<element type="TechPrereq"/>
+		<element type="TechPrereqAnyone"/>
+		<element type="bValid"/>
+		<element type="bExclusive"/>
+		<element type="ProductionTraits"/>
+		<element type="Button"/>
+	</ElementType>
+	<ElementType name="SpecialBuildingInfos" content="eltOnly">
+		<element type="SpecialBuildingInfo" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="Civ4BuildingClassInfos" content="eltOnly">
+		<element type="BuildingClassInfos" minOccurs="0"/>
+	</ElementType>
+	<ElementType name="Civ4GenericBuildingInfos" content="eltOnly">
+		<element type="GenericBuildingInfos" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="Civ4BuildingInfos" content="eltOnly">
+		<element type="BuildingInfos" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="Civ4SpecialBuildingInfos" content="eltOnly">
+		<element type="SpecialBuildingInfos" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="Civ4Buildings" content="eltOnly">
+		<element type="BuildingClassInfos" minOccurs="0"/>
+		<element type="BuildingInfos" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+</Schema>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_INFLICTS_DETRIMENTS</Tag>
+    <English>[ICON_BULLET]Inflicts %s1_detriment_list</English>
+    <German>[ICON_BULLET]Verursacht %s1_detriment_list</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_DETRIMENT_INFLICTED_BY</Tag>
+    <English>Inflicted By</English>
+    <German>Verursacht durch</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_DETRIMENT_AFFECTS_ADJACENT</Tag>
+    <English>Affects adjacent tiles</English>
+    <German>Betrifft angrenzende Felder</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_DETRIMENT_AFFECTS_RANGE</Tag>
+    <English>Affects tiles within a range of %d1</English>
+    <German>Betrifft Felder im Abstand von %d1</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_DETRIMENT_COASTAL_ONLY</Tag>
+    <English>Only affects coastal tiles</English>
+    <German>Betrifft nur Küstenfelder</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_DETRIMENT_FEAR</Tag>
+    <English>Fear</English>
+    <German>Angst</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_DETRIMENT_ELEPHANT</Tag>
+    <English>Fear of Elephants</English>
+    <German>Angst vor Elefanten</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_DETRIMENT_SHORE1</Tag>
+    <English>Shore Bombardment I</English>
+    <German>Küsten Bombadierung I</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_DETRIMENT_SHORE2</Tag>
+    <English>Shore Bombardment II</English>
+    <German>Küsten Bombadierung II</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_DETRIMENT_SHORE3</Tag>
+    <English>Shore Bombardment III</English>
+    <German>Küsten Bombadierung III</German>
+  </TEXT>
+</Civ4GameText>

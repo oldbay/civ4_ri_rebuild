@@ -1,0 +1,1399 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  () -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MILITARY_TRADITION_STRATEGY</Tag>
+		<English>Traditions provide a small bonus to all newly constructed units of a particular type. There are no special prerequisites to be able to establish a tradition, except for being able to construct units of a given type.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MILITARY_DOCTRINE_STRATEGY</Tag>
+		<English>Doctrines unlock a new line of promotions that generally are more powerful than conventional promotions. These promotions are only available to new units of the type affected by the doctrine.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MELEE_TRADITION</Tag>
+		<English>Fierce</English>
+		<German>
+			<Text>Wild</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MELEE_TRADITION</Tag>
+		<English>Melee Tradition</English>
+		<German>
+			<Text>Nahkampftradition</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MELEE_TRADITION_EFFECT</Tag>
+		<English>Fierce Warriors</English>
+		<German>
+			<Text>Entschlossene Kämpfer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MELEE_TRADITION_PEDIA</Tag>
+		<English>The warriors of this nation have earned their fame as being especially brutal in melee. From their young age, citizens are trained to wield blades, and warriors' glory is the thing they take pride in most.</English>
+		<German>
+			<Text>Die Krieger dieser Nation haben Ihren Ruhm im harten Nahkampf erlangt. Seit ihrer Kindheit werden die Krieger an Ihren Waffen trainiert. Sie leben nur für den Ruhm</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RECON_TRADITION</Tag>
+		<English>Skirmisher</English>
+		<German>
+			<Text>Scharmützler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RECON_TRADITION</Tag>
+		<English>Recon Tradition</English>
+		<German>
+			<Text>Aufklärung Tradition</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RECON_TRADITION_EFFECT</Tag>
+		<English>Skirmisher Warriors</English>
+		<German>
+			<Text>Scharmützler Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RECON_TRADITION_PEDIA</Tag>
+		<English>The warriors of this nation have earned their fame as being especially efficient in harassing ennemies, striking hard and fleeding when needed. From their young age, citizens are trained to run ahead the main front line, releasing a volley of darts, javelins and arrows and then retreating behind the main battle line before the main clash.</English>
+		<German><!--TRANSLATE-->The warriors of this nation have earned their fame as being especially efficient in harassing ennemies, striking hard and fleeding when needed. From their young age, citizens are trained to run ahead the main front line, releasing a volley of darts, javelins and arrows and then retreating behind the main battle line before the main clash.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ARCHER_TRADITION</Tag>
+		<English>Sharpshooter</English>
+		<German>
+			<Text>Scharfschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARCHER_TRADITION</Tag>
+		<English>Archery Culture</English>
+		<German>
+			<Text>Kunst des Bogenschießens</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARCHER_TRADITION_PEDIA</Tag>
+		<English>This nation has cultivated a particular style of archery. Even many peasants can efficiently wield a bow, and boys learn to handle this weapon long before they grow up. Thus, the archers of this nation are universally accepted to be among the best in the world.</English>
+		<German>
+			<Text>Diese Nation hat eine spezielle Art des Bogenschiessens erfunden. Sogar Bauern können mit dem Bogen effizient umgehen, und sogar die Kinder lernen eher Schießen als zu laufen. Die Bogenschützen dieser Nation sind die Besten der Welt.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARCHER_TRADITION_EFFECT</Tag>
+		<English>Famous Archers</English>
+		<German>
+			<Text>Berühmte Bogenschützen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MOUNTED_TRADITION</Tag>
+		<English>Born in Saddle</English>
+		<German>
+			<Text>Im Sattel geboren</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOUNTED_TRADITION</Tag>
+		<English>Nomadic Lifestyle</English>
+		<German>
+			<Text>Nomadenleben</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOUNTED_TRADITION_PEDIA</Tag>
+		<English>Nomadic peoples live all their lives on horseback, and their people are often less comfortable on the ground than in saddle. Of course, this makes for excellent cavalrymen, as even men without special training can display remarkable riding skills.</English>
+		<German>
+			<Text>Nomaden verbringen ihr komplettes Leben auf dem Rücken der Pferde, und sie fühlen sich auf dem Sattel wohler als auf dem Boden. Dies macht sie zu hervoragenden Kavalleristen, die sogar ohne spezielles Training bemerkenswerte Ergebnisse erzielen.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOUNTED_TRADITION_EFFECT</Tag>
+		<English>Horsemanship Tradition</English>
+		<German>
+			<Text>Reiterschafttradition</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SIEGE_TRADITION</Tag>
+		<English>Engineering Tradition</English>
+		<German>
+			<Text>Höheres Ingenieurswesen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SIEGE_TRADITION</Tag>
+		<English>Poliorcetica Techniques</English>
+		<German>
+			<Text>Pionierausbildung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SIEGE_TRADITION_PEDIA</Tag>
+		<English>This nation's engineers are universally known to devise clever ways of breaching enemies' defences with the most basic of equipment, as well as to create really fearsome contraptions unmatched elsewhere.</English>
+		<German>
+			<Text>Die Pioniere dieser Nation sind bekannt für ihre raffinierten Methoden die feindlichen Verteidigungen mit ausgeklügelter Technik auszuschalten.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SIEGE_TRADITION_EFFECT</Tag>
+		<English>Ingenious Engineers</English>
+		<German>
+			<Text>Erfahrene Pioniere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUNPOWDER_TRADITION</Tag>
+		<English>Strict Soldiering</English>
+		<German>
+			<Text>Disziplin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GUNPOWDER_TRADITION</Tag>
+		<English>Military Drill</English>
+		<German>
+			<Text>Militärausbildung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GUNPOWDER_TRADITION_PEDIA</Tag>
+		<English>They say that military drill is in the blood of this nation's soldiers. Their discipline is unmatched, and the obey orders with eagerness rarely observed elsewhere.</English>
+		<German>Man sagt, dass die militärische Ausbildung den Soldaten dieser Nation im Blute liegt. Ihre Disziplin ist unübertroffen, und sie befolgen Befehle  mit ungekannten Eifer.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GUNPOWDER_TRADITION_EFFECT</Tag>
+		<English>Quality Recruits</English>
+		<German>
+			<Text>Hervorragende Rekruten</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ARMORED_TRADITION</Tag>
+		<English>Superior Design</English>
+		<German>
+			<Text>Verbessertes Design</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARMORED_TRADITION</Tag>
+		<English>Superior Tank Design</English>
+		<German>
+			<Text>Verbessertes Panzerdesign</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARMORED_TRADITION_PEDIA</Tag>
+		<English>This nation's design bureaus know what it takes to design a quality tank. Their creations usually wield more protection and firepower than their counterparts elsewhere; their designs are often copied, but the results are generally inferior.</English>
+		<German>Die Entwicklerwerkstätten dieser Nation wissen, wie man einen hochwertigen Panzer baut. Ihre Kreationen bieten normalerweise mehr Schutz und Feuerkraft, als die ihrer Kontrahenden.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARMORED_TRADITION_EFFECT</Tag>
+		<English>Design Bureau</English>
+		<German>
+			<Text>Entwicklungswerkstädte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_DOCTRINE_ONLY</Tag>
+		<English>Only available through doctrine</English>
+		<German>
+			<Text>Nur mit Doktrin verfügbar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TRADITION_ONLY</Tag>
+		<English>Only available through tradition</English>
+		<German>
+			<Text>Nur mit Tradition verfügbar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FLAMING0</Tag>
+		<English>Rite of Passage</English>
+		<German>
+			<Text>Übergangsritus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FLAMING1</Tag>
+		<English>Ways of the Land I</English>
+		<German>
+			<Text>Wege des Landes I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FLAMING2</Tag>
+		<English>Ways of the Land II</English>
+		<German>
+			<Text>Wege des Landes II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FLAMING3</Tag>
+		<English>Ways of the Land III</English>
+		<German>
+			<Text>Wege des Landes III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_IMPERIAL0</Tag>
+		<English>Imperial Glory</English>
+		<German>
+			<Text>Imperialer Ruhm</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_IMPERIAL1</Tag>
+		<English>Glorious I</English>
+		<German>
+			<Text>Ruhm I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_IMPERIAL2</Tag>
+		<English>Glorious II</English>
+		<German>
+			<Text>Ruhm II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_IMPERIAL3</Tag>
+		<English>Glorious III</English>
+		<German>
+			<Text>Ruhm III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ATTRITION0</Tag>
+		<English>Attrition Tactics</English>
+		<German>
+			<Text>Aufreibungstaktik</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ATTRITION1</Tag>
+		<English>Raider I</English>
+		<German>
+			<Text>Plünderer I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ATTRITION2</Tag>
+		<English>Raider II</English>
+		<German>
+			<Text>Plünderer II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ATTRITION3</Tag>
+		<English>Raider III</English>
+		<German>
+			<Text>Plünderer III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COASTAL0</Tag>
+		<English>Coastal</English>
+		<German>
+			<Text>Küstenkampf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COASTAL1</Tag>
+		<English>Pirate I</English>
+		<German>
+			<Text>Pirat I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COASTAL2</Tag>
+		<English>Pirate II</English>
+		<German>
+			<Text>Pirat II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COASTAL3</Tag>
+		<English>Pirate III</English>
+		<German>
+			<Text>Pirat III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HOLYWAR0</Tag>
+		<English>Religious</English>
+		<German>
+			<Text>Religiös</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HOLYWAR1</Tag>
+		<English>Fervor I</English>
+		<German>
+			<Text>Verbissenheit I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HOLYWAR2</Tag>
+		<English>Fervor II</English>
+		<German>
+			<Text>Verbissenheit II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HOLYWAR3</Tag>
+		<English>Fervor III</English>
+		<German>
+			<Text>Verbissenheit III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CHIVALRY0</Tag>
+		<English>Code of Honor</English>
+		<German>
+			<Text>Ehrenkodex</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CHIVALRY1</Tag>
+		<English>Chivalry I</English>
+		<German>
+			<Text>Ritterlichkeit I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CHIVALRY2</Tag>
+		<English>Chivalry II</English>
+		<German>
+			<Text>Ritterlichkeit II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CHIVALRY3</Tag>
+		<English>Chivalry III</English>
+		<German>
+			<Text>Ritterlichkeit III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GREEKFIRE0</Tag>
+		<English>Greek Fire</English>
+		<German>
+			<Text>Griechisches Feuer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GREEKFIRE1</Tag>
+		<English>Fire I</English>
+		<German>
+			<Text>Feuer I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GREEKFIRE2</Tag>
+		<English>Fire II</English>
+		<German>
+			<Text>Feuer II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GREEKFIRE3</Tag>
+		<English>Fire III</English>
+		<German>
+			<Text>Feuer III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARKSMAN0</Tag>
+		<English>Archer Training</English>
+		<German>
+			<Text>Bogentraining</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARKSMAN1</Tag>
+		<English>Marksmanship I</English>
+		<German>
+			<Text>Scharfschütze I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARKSMAN2</Tag>
+		<English>Marksmanship II</English>
+		<German>
+			<Text>Scharfschütze II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARKSMAN3</Tag>
+		<English>Marksmanship III</English>
+		<German>
+			<Text>Scharfschütze III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MANOUEVER0</Tag>
+		<English>Manoeuvre Training</English>
+		<German>
+			<Text>Manövertraining</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MANOUEVER1</Tag>
+		<English>Manoeuvre I</English>
+		<German>
+			<Text>Manöver I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MANOUEVER2</Tag>
+		<English>Manoeuvre II</English>
+		<German>
+			<Text>Manöver II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MANOUEVER3</Tag>
+		<English>Manoeuvre III</English>
+		<German>
+			<Text>Manöver III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PATRIOTIC0</Tag>
+		<English>Patriotism</English>
+		<German>
+			<Text>Patriotismus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PATRIOTIC1</Tag>
+		<English>Motherland I</English>
+		<German>
+			<Text>Vaterland I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PATRIOTIC2</Tag>
+		<English>Motherland II</English>
+		<German>
+			<Text>Vaterland II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PATRIOTIC3</Tag>
+		<English>Motherland III</English>
+		<German>
+			<Text>Vaterland III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SEAMANSHIP0</Tag>
+		<English>Shipwrights</English>
+		<German>
+			<Text>Schiffszimmerman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SEAMANSHIP1</Tag>
+		<English>Seamanship I</English>
+		<German>
+			<Text>Seemannschaft I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SEAMANSHIP2</Tag>
+		<English>Seamanship II</English>
+		<German>
+			<Text>Seemannschaft II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SEAMANSHIP3</Tag>
+		<English>Seamanship III</English>
+		<German>
+			<Text>Seemannschaft III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ENGINEERCORPS0</Tag>
+		<English>Engineer Corps</English>
+		<German>
+			<Text>Pionierkorps</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ENGINEERCORPS1</Tag>
+		<English>Siege Engineering I</English>
+		<German>
+			<Text>Belagerungstechnik I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ENGINEERCORPS2</Tag>
+		<English>Siege Engineering II</English>
+		<German>
+			<Text>Belagerungstechnik II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ENGINEERCORPS3</Tag>
+		<English>Siege Engineering III</English>
+		<German>
+			<Text>Belagerungstechnik III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TRENCH0</Tag>
+		<English>Trench Warfare</English>
+		<German>
+			<Text>Grabenkrieg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TRENCH1</Tag>
+		<English>Entrenchment I</English>
+		<German>
+			<Text>Verschanzung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TRENCH2</Tag>
+		<English>Entrenchment II</English>
+		<German>
+			<Text>Verschanzung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TRENCH3</Tag>
+		<English>Entrenchment III</English>
+		<German>
+			<Text>Verschanzung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BLITZKRIEG0</Tag>
+		<English>Blitzkrieg</English>
+		<German>
+			<Text>Blitzkrieg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BLITZKRIEG1</Tag>
+		<English>Blitzkrieg I</English>
+		<German>
+			<Text>Blitzkrieg I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BLITZKRIEG2</Tag>
+		<English>Blitzkrieg II</English>
+		<German>
+			<Text>Blitzkrieg II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BLITZKRIEG3</Tag>
+		<English>Blitzkrieg III</English>
+		<German>
+			<Text>Blitzkrieg III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MASSPRODUCTION</Tag>
+		<English>Mass Produced</English>
+		<German>
+			<Text>Massenprodukt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ARTILLERY0</Tag>
+		<English>Artillery Support</English>
+		<German>
+			<Text>Artillerieunterstützung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ARTILLERY_MOBILE</Tag>
+		<English>Mobile Artillery</English>
+		<German>
+			<Text>Mobile Artillerie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ARTILLERY_ENTRENCHED</Tag>
+		<English>Entrenched Batteries</English>
+		<German>
+			<Text>Verschanzte Batterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ARTILLERY_SUPP</Tag>
+		<English>Suppression Fire</English>
+		<German>
+			<Text>Sperrfeuer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SPECOPS</Tag>
+		<English>Spec Ops</English>
+		<German>
+			<Text>Spezialeinsatz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PROJECTION0</Tag>
+		<English>Military Power Projection</English>
+		<German>
+			<Text>Machtdemonstration</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PROJECTION1</Tag>
+		<English>Global Operations I</English>
+		<German>
+			<Text>Globale Operation I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PROJECTION2</Tag>
+		<English>Global Operations II</English>
+		<German>
+			<Text>Globale Operation II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_PROJECTION3</Tag>
+		<English>Global Operations III</English>
+		<German>
+			<Text>Globale Operation III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUERILLAWAR0</Tag>
+		<English>Guerilla Tactics</English>
+		<German>
+			<Text>Partisanenkrieg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUERILLAWAR1</Tag>
+		<English>Partisan I</English>
+		<German>
+			<Text>Partisanenkampf I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUERILLAWAR2</Tag>
+		<English>Partisan II</English>
+		<German>
+			<Text>Partisanenkampf II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUERILLAWAR3</Tag>
+		<English>Partisan III</English>
+		<German>
+			<Text>Partisanenkampf III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_NAPALM</Tag>
+		<English>Napalm</English>
+		<German>
+			<Text>Napalm</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FLAMING</Tag>
+		<English>Doctrine - Rite of Passage</English>
+		<German>
+			<Text>Doktrin - Übergangsritus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FLAMING_PEDIA</Tag>
+		<English>[TAB]A rite of passage is a ritual event that marks a person's transition from one status to another. Milestones include transitions from puberty, year 7 to high school, coming of age, marriage and death. Initiation ceremonies such as baptism, akika, confirmation and Bar or Bat Mitzvah are considered important rites of passage for people of their respective religions. Rites of passage show anthropologists what social hierarchies, values and beliefs are important in specific cultures.
+A vision quest is a rite of passage in some Native American cultures. It is usually only undertaken by young males entering adulthood. Individual Indigenous cultures have their own names for their rites of passage. "Vision quest" is an English umbrella term, and may not always be accurate or used by the cultures in question.
+Among Native American cultures who have this type of rite, it usually consists of a series of ceremonies led by Elders and supported by the young man's community. The process includes a complete fast for four days and nights, alone at a sacred site in nature which is chosen by the Elders for this purpose. Some communities have used the same sites for many generations. During this time, the young person prays and cries out to the spirits that they may have a vision, one that will help them find their purpose in life, their role in community, and how they may best serve the People. Dreams or visions may involve natural symbolism - such as animals or forces of nature - that require interpretation by Elders. After their passage into adulthood, and guided by this experience, the young person may then become an apprentice or student of an adult who has mastered this role.[PARAGRAPH:2]</English>
+		<German>[TAB]In der Antike wurde brennende Munition verwendet, um feindliche hölzerne Belagerungsmachinen zu zerstören, um Tiere (Elefanten, Pferde) zu verängstigen und leichte Infanterie zu zerstreuen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FLAMING_EFFECT</Tag>
+		<English>Rite of Passage</English>
+		<German>
+			<Text>Übergangsritus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IMPERIAL</Tag>
+		<English>Doctrine - Imperial Glory</English>
+		<German>
+			<Text>Doktrin - Imperialer Ruhm</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IMPERIAL_PEDIA</Tag>
+		<English>[TAB]Empires, such as Roman, would often create a cult of military service. Only men who served in military could attain important government positions and pursue a political carreer. Joining military was also a way of attaining full citizenship for non-citizens. This would create a powerful influx of volunteers into military, helping to improve average recruit quality and replenish military losses quickly.[PARAGRAPH:2]</English>
+		<German>[TAB]Imperien, wie das Römische Imperium, erschaffen häufig einen Militärkult. Nur gediente Männer konnten in wichtige Verwaltungs- und Regierungspositionen gelangen. Der Militärdienst war auch ein Weg für Nichtbürger volle Staatsbürgerschaft zu erlangen. Dies hatte einen Zufluß qualitativ guter Freiwilliger zur Folge, der die Lücken in den Reihen nach Schlachten schnell wieder schließen konnte.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IMPERIAL_EFFECT</Tag>
+		<English>Army Prestige</English>
+		<German>
+			<Text>Ansehen der Armee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ATTRITION</Tag>
+		<English>Doctrine - War of Attrition</English>
+		<German>
+			<Text>Doktrin - Zerrütungskrieg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ATTRITION_PEDIA</Tag>
+		<English>[TAB]The Parthian army, under the leadership of General Surena, was outnumbered, but used 1,000 heavily armed and armoured horsemen, called "cataphracts", in conjunction with 9,000 horse archers to defeat the Roman heavy infantry. The horse archers shot repeated volleys of arrows into the densely packed formation of the Roman legionaries. To sustain their barrage, the Parthians employed camels to carry additional arrow loads. [PARAGRAPH:2] Crassus sent his cavalry to scout the area ahead but they were ambushed and easily destroyed by the heavy Cataphracts for they had the element of surprise.This left the Parthian horse archers to harass the Roman infantry freely.The Romans attempted to charge the horse archers, but the Parthians feigned retreat, then turned suddenly and shot arrows at their enemy while fleeing (a custom known as the "Parthian shot"). The Romans then tried to form into a protective testudo, but the cataphracts charged back at them. The legionnaires were unable to fight effectively in their tight formation. Although the Romans' large scuta gave them some measure of protection against the volleys of arrows, many soldiers eventually collapsed from thirst and heat exhaustion even when otherwise unwounded, due to the exertion of defending themselves from the seemingly endless fusillades. The Parthian assault was devastating. [PARAGRAPH:2]"When Publius urged them to charge the enemy's mail-clad horsemen, they showed him that their hands were riveted to their shields and their feet nailed through and through to the ground, so that they were helpless either for flight or for self-defence." (Plutarch, Life of Crassus, XXV) Parthia employed the use of composite bows at this time, which were more powerful than traditional bows. Arrows fired from these bows were able to penetrate the thick legionnaires' armour, to the horror of the heavy Roman infantry. - Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Die Parthische Armee unter General Surena war zwar in der Unterzahl, besaß aber 1000 schwer bewaffnete und gepanzerte Reiter, sogenannte Kataphrakte, in Verbindung mit 9000 berittenen Bogenschützen. die die römische Legion besiegen sollte.Die Bogenschützen schossen aufeinanderfolgende Salven Ihrer Pfeile in die engen Reihen der römischen Infanterie. Um  das Sperrfeuer aufrecht zu erhalten, führten die Parther Kamele mit, die Pfeile transportierten. [PARAGRAPH:2] Crassus sandte seine Kavallerie aus, um das gebiet auszuspähen, diese wurden allerdings von den schweren Kataphrakten überascht und ausgeschaltet. Dies führte dazu, dass die berittenen Bogenschützen die römischen legionäre ungehindert beschiessen konnten. Die Römer versuchten die Bogenschützen zu stellen, doch diese zogen sich zurück, wendeten plötzlich und und schossen während der Flucht Pfeile auf die Römer. Diese bildeten eine Schutzformation, doch griffen die Kataphrakte wieder an. Es war den legionären unmöglich in ihrer Formation effektiv zu kämpfen. Trotz des guten Schutzes durch Ihre Verdeidigungsformation fielen viele Römer durch Erschöpfung, Durst und Hitze aus, obwohl unverwundet. Die schier endlosen Angriffe der Parther liessen die Römer bis zur Erschöpfung um ihr Leben kämpfen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ATTRITION_EFFECT</Tag>
+		<English>Skilled Raiders</English>
+		<German>
+			<Text>Erfahrene Plünderer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COASTAL</Tag>
+		<English>Doctrine - Coastal Raiding</English>
+		<German>
+			<Text>Doktrin - Küstenüberfall</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COASTAL_PEDIA</Tag>
+		<English>[TAB]The earliest documented incidence of piracy are the exploits of the Sea Peoples who threatened the Aegean in the 13th century BCE. In Classical Antiquity, the Tyrrhenians and Thracians were known as pirates. The island of Lemnos long resisted Greek influence and remained a haven for Thracian pirates. The Latin term pirata, from which the English "pirate" is derived, derives ultimately from Greek peira "attempt, experience", implicitly "to find luck on the sea". The word is also cognate to peril. By the 1st century BCE, there were pirate states along the Anatolian coast, threatening the commerce of the Roman Empire. When Sulla died in 78 BCE, Julius Caesar returned to Rome as a lawyer, prosecuted Sulla's supporters, and headed to the Greek town of Rhodes to study oratory. Pirates seized control of the vessel in 75 BCE, kidnapped Caesar, and held him for ransom. Caesar was insulted at the ransom demand, which was insultingly low, and promised to crucify the pirates after he was free. At his insistence, the pirates raised the ransom demand to a level in accordance with his station: his friends quickly raised the sum. After his freedom was purchasied, he assembled a small army, which captured the pirates and crucified them. -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Schon im Altertum gab es Berichte über Angriffe von Piraten. sowohl Thraker als auch Tyrrhener waren als Piraten bekannt. im 1. Jahrhunder v. Chr. gab es entlang der anatolischen Küste Piratenstädte, die den Handel des Römischen Imperiums störten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COASTAL_EFFECT</Tag>
+		<English>Seaborne People</English>
+		<German>
+			<Text>Seeleute</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLYWAR</Tag>
+		<English>Doctrine - Holy War</English>
+		<German>
+			<Text>Doktrin - Heiliger Krieg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLYWAR_PEDIA</Tag>
+		<English>[TAB]A religious war is a war justified by religious differences. It can be the legitimate forces of one state that has an established religion against those of another state with either a quite different religion or a different sect within the same religion, or, at the level below a state, it can be a faction motivated by religion attempting to spread its faith by violence either within the state or elsewhere. The French Wars of Religion, the Crusades, and the Reconquista are frequently cited historical examples.[PARAGRAPH:2] While there are undoubtedly wars fought primarily on religious grounds, wars frequently have multiple and complex causes. Saint Augustine is credited as being the first to detail a "Just War" theory within Christianity, whereby war is justifiable on religious grounds. Saint Thomas Aquinas elaborated on these criteria and his writings were used by the Roman Catholic Church to regulate the actions of European countries. In modern times religious designations are frequently used as shorthand for cultural and historical differences between combatants, giving the impression that the conflict is primarily about religious differences. For example, The Troubles in Northern Ireland are frequently seen as a conflict between Catholic and Protestant. However, the more fundamental cause is the attachment of Northern Ireland to either the Republic of Ireland or the United Kingdom. As the native Irish were mostly Catholic, and the later English-sponsored immigrants mainly Protestant, the terms become shorthand for the two cultures. It cannot be denied, however, that religion does play a part in the conflict, since churches are used as organizing points for demonstrations, and Protestants are far more likely to oppose union with the Catholic-dominated Republic. -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Als Heiligen Krieg bezeichnet man allgemein einen in religiösen bzw. pseudoreligiösen Kontexten stattfindenden und/oder damit gerechtfertigten Krieg. Generell soll durch einen heiligen Krieg im Auftrag eines Gottes oder eines höheren Gutes eine gottgewollte bzw. anderwärtig erhöhte Ordnung (wieder)gestellt bzw. die Bedrohung derselben abgewandt werden.[PARAGRAPH:2]Religionen haben sich immer mit Gewalt und Krieg auseinandergesetzt bzw. diese thematisiert und sind in Gesellschaften entstanden und gelebt worden, die mehr oder minder von Gewalt und Krieg durchdrungen waren. Generell wird Gewalt in den Religionsgemeinschaften einerseits im Kontext von Verfahrensweisen zu einer gerechten Friedensordnung und einer Selbstdefinition als Gemeinwesen gesehen andererseits kommen in allen Religionen Regeln der Einhegung und Begrenzung des Krieges und des Verhaltens des einzelnen Menschen im Kriege vor.[PARAGRAPH:2]
+Wenn im Judentum und Christentum von Gott befohlenen Kriegen gesprochen wird, so geschieht dies zumeist Bezug auf biblische Kriege und ohne konkrete Bedeutung für aktuelle Konflikte (wie z.B. bei Augustinus). Bei der Legitimation von militärischer Gewalt spielt das Konzept des heiligen Krieges, von extremen Gruppierungen abgesehen, in Judentum, Christentum und auch größtenteils im Islam kaum eine Rolle. In der kirchlichen Theorie des Gerechten Krieges wurden Kriegsgründe und Kriegführung, die auf Vernichtung von Gegnern zielten, vielmehr theoretisch ausgeschlossen; Krieg zur Rettung des Christentums blieb jedoch legitim.[PARAGRAPH:2]Wesentlich für Kriege mit religiösem Charakter ist unter anderem das Zusammenfallen von weltlicher und geistlicher Autorität oder deren starker Bezug aufeinander (vgl. Kaisertum und Papsttum im europäischen Mittelalter, Kalifat im Islam). Besonders im späten 19. Jahrhundert und beginnenden 20. Jahrhundert kam es in Europa zur Verschmelzung von sakralisiertem Nationalgedanken (siehe Nationalismus und nationalkirchlicher Religiosität und somit zum Bild eines heiligen Krieges im Dienste eines höheren, utopischen Zieles.[PARAGRAPH:2]Oft wird auch der Begriff Dschihad des Koran im Deutschen als Heiliger Krieg übersetzt. Welche Bedeutung dieser Begriff im Islam hat, behandelt der dortige Artikel.[PARAGRAPH:2]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLYWAR_EFFECT</Tag>
+		<English>Fervent Population</English>
+		<German>
+			<Text>Begeisterte Menge</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHIVALRY</Tag>
+		<English>Doctrine - Chivalry</English>
+		<German>
+			<Text>Doktrin - Rittertum</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHIVALRY_PEDIA</Tag>
+		<English>[TAB]Chivalry is a term related to the medieval institution of knighthood. It is usually associated with ideals of knightly virtues, honour and courtly love. The word comes from the French word chevalier which means knight. [PARAGRAPH:2] Between the 11th century and 15th centuries Medieval writers often used the word chivalry, but its definition was never consistent between authors, and its meaning would change on a regional basis, and even over time. Further, its modern meanings are different from its medieval meanings. Thus, the exact meaning of chivalry changes depending on the writer, the time period, and the region, so a comprehensive definition of the term is elusive. Regardless of the diverse written definitions of chivalry, the medieval knightly class was adept at the art of war, trained in fighting in armor, with horses, lances, swords and shields. Knights were taught to excel in the arms, to show courage, to be gallant, loyal and to swear off cowardice and baseness. -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Der Begriff Rittertum umfasst die Lebensweise, die Weltansicht und den Ehrenkodex der europäischen Ritterschaft des Mittelalters, die auf den gesamten Adel ausstrahlte.[PARAGRAPH:2]Mit der Ausbreitung des Lehnswesens über Deutschland war der Adel an die Spitze der Nation getreten. Die Kriege wurden hauptsächlich durch ihn geführt; er kämpfte zu Roß und war dem Krieger, der nur zu Fuß diente, weit überlegen. Darum schätzte man ein Heer meistens nur nach der Zahl der Reiter. Zu den Zeiten Karls des Großen war das fränkische Reich bereits mächtig an eisengepanzerten Reitern, wie uns der Mönch Ekkehard vom Kloster St. Gallen erzählt; aber die inneren Kämpfe unter den nachfolgenden Karolingern hatte viele wehrhafte Männer hinweggerafft. Um die Zahl der berittenen Kämpfer zu vermehren, ordnete daher Heinrich der Vogler zum Schutze gegen die reitkundigen Ungarn an, daß beim Heere nicht nur die Vornehmsten, sondern auch der älteste Sohn eines jeden Hofes zu Pferde erscheinen sollte. Der Dienst zu Ross aber erforderte einen größeren Aufwand und eine längere und anhaltendere Vorbereitung als der zu Fuß. Mit der Zeit bildeten daher die Reiter oder Ritter einen eigenen, besonderen Stand, der, obschon nicht immer mit Länderbesitz verbunden, doch ein hohes Ansehen genoß.[PARAGRAPH:2]Die Aufnahme in den Ritterstand erforderte eine vieljährige Vorbereitung. Der Sohn eines Ritters blieb bis zum siebenten Jahr unter der Obhut der Mutter, die außer der leiblichen Pflege namentlich dafür sorgte, das die ersten Begriffe von Gott und der christlichen Religion in das kindliche Gemüt gepflanzt wurden. Dann kam er an einen fremden Hof, um hier gemeinsam mit anderen Knaben in strenger Zucht sich das anzueignen, was für einen Ritter erforderlich war. Die feine, höfische Sitte lernte er besonders in der unmittelbaren Nähe der Edelfrau; bis zum vierzehnten Lebensjahr war er als Edelknabe ihrem Dienste gewidmet. Zugleich ward er von Geistlichen, fahrenden Sängern oder altbewährten Knappen in den Kenntnissen und Fertigkeiten unterrichtet, welche die höhere Bildung der damaligen Zeit ausmachten. Von großem Umfange freilich war diese Bildung nicht; sie beschränkte sich hauptsächlich auf die Kenntnis der biblischen Geschichte und die Kunde von den Sagen und Begebenheiten der Vorzeit; vor allen Dingen aber waren es Musik, Gesang und Saitenspiel, worin der junge Ritter unterrichtet wurde. Schreiben und Lesen dagegen waren nicht allgemein verbreitete Fertigkeiten. Eine der Hauptaufgaben des Edelknaben war, seine körperliche Kraft und Gewandtheit auszubilden. Er übte sich täglich im Laufen und Springen, lernte Reiten und Schwimmen, schoß mit der Armbrust, warf den schweren Stein und übte sich im Gebrauch des Schildes, des Schwertes und der Lanze.[PARAGRAPH:2]Somit umfasste das Rittertum seit dem Spätmittelalter nicht nur den eigentlichen Ritterstand, sondern die Lebensweise des gesamten christlich-europäischen Adels. Ein wichtiger Ausdruck dieser ritterlichen Lebensweise war das Turnier, das seit dem 12. Jahrhundert beim Adel äußerst beliebt war. Das Turnier diente nicht nur der Unterhaltung, sondern auch der Übung für den Krieg. Mittelalterliche Schlachten, die nach ritterlichem Kodex ausgetragen wurden, glichen eher einem großen Turnier und forderten vergleichsweise wenig Todesopfer. Die ritterlich kämpfenden Adligen waren eher darauf bedacht, ihre Gegner gefangen zu nehmen um sie gegen ein Lösegeld in die Freiheit zu entlassen. Seit dem Aufkommen von Feuerwaffen und schwerer Infanterie verlor die vom Rittertum geprägte Kampfweise ihren Nutzen. Trotzdem hielt die Kavallerie der Frühen Neuzeit an den alten Idealen fest, auch wenn sie selbst auf Feuerwaffen zurückgriff. Auch die ersten Kampfpiloten des Ersten Weltkriegs, bei denen es sich zumeist um ehemalige Kavalleristen handelte, griffen in ihren auf Fairness und Ehrenhaftigkeit bedachten Zweikämpfen am Himmel die ritterliche Vorstellungswelt auf.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHIVALRY_EFFECT</Tag>
+		<English>Chivalrious Nobility</English>
+		<German>
+			<Text>Ritterliche Ehre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREEKFIRE</Tag>
+		<English>Doctrine - Fireships</English>
+		<German>
+			<Text>Doktrin - Feuerschiff</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREEKFIRE_PEDIA</Tag>
+		<English>[TAB]Greek fire was a burning-liquid weapon used by the Byzantine Greeks, typically in naval battles to great effect as it could continue burning even on water. "Byzantine fire" was largely responsible for many Byzantine military victories, and partly the reason for the Byzantine Empire surviving as long as it did. The formula was a secret and remains a mystery to this day. As one contemporary victim of Greek fire advised his comrades, "every time they hurl the fire at us, we go down on our elbows and knees, and beseech Our Lord to save us from this danger." -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Das griechische Feuer war eine im byzantinischen Reich verwendete militärische Brandwaffe. Sein Name stammt von der Benennung der Nachbarn für die griechisch sprechenden Byzantiner, die sich selbst als (Ost-)Römer bezeichneten. Es wurde aber auch als "Seefeuer" oder "römisches Feuer" bezeichnet.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREEKFIRE_EFFECT</Tag>
+		<English>Fire Compound Production</English>
+		<German>
+			<Text>Brandmittelproduktion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MARKSMAN</Tag>
+		<English>Doctrine - Trained Archers</English>
+		<German>
+			<Text>Doktrin - Trainierte Bogenschützen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MARKSMAN_PEDIA</Tag>
+		<English>[TAB]The longbow decided a number of medieval battles fought by the English, the most significant of which were the Battle of Crecy (1346) and the Battle of Agincourt (1415), during the Hundred Years' War and followed earlier successes, notably at the Battle of Halidon Hill (1333) during the Scottish wars. The longbow corps saw particularly heavy casualties at the Battle of Patay and this loss contributed to England's eventual defeat in that war. Longbowmen armies would aim at an area and fire a rain of arrows hitting indiscriminately at anyone in the area, a decidedly un-chivalrous but highly effective means of combat. Longbows remained in use until around the 16th century, when advances in firearms made gunpowder weapons a significant factor in warfare and such units as arquebusiers and grenadiers began appearing. Before the English Civil War, a pamphlet by William Neade entitled The Double-Armed Man advocated that soldiers be trained in both the longbow and pike; this advice was not followed in anything but a few town militias. The last recorded use of bows, in an English battle, seems to have been a skirmish at Bridgnorth, in October 1642, during the English Civil War. Longbowmen remained a feature of the Royalist Army, but were not used by the Roundheads. -Wikipedia[PARAGRAPH:2]</English>
+		<German>Der Langbogen ist eine Kriegswaffe des Mittelalters, die vor allem in England zum Einsatz kam; seine Länge entspricht in etwa der Größe des Schützen - herkömmliche Bögen sind im Vergleich dazu deutlich kürzer.
+Langbögen wurden zumeist aus Eibenholz hergestellt. Da im Mittelalter die Eiben zum Bogenbau abgeholzt wurden, sind sie heute selten, sie stehen unter Naturschutz und sind deswegen heute relativ teuer. Ersatzweise wurde auch Esche und Ulme verarbeitet. Entgegen der weitläufigen Meinung wurde Haselnuss, obwohl zum Bogenbau geeignet, aufgrund seiner schlechten Wurfeigenschaften seltener verwendet. Im Haithabu-Fundkatalog sind Bögen aus Eibe, Esche und Ulme abgebildet, wo hingegen bei englischen Langbögen nur Funde aus Eibenholz existieren.
+Der Querschnitt des klassischen Langbogens weist das schmale D-Profil auf, da sich das Kernholz zusammendrücken und das Splintholz (äußeres, unverkerntes Holz) dehnen lässt. Ein Langbogen stellt besonders hohe Anforderungen an die Druckfestigkeit des Holzes, denen nur ausgesuchte Holzsorten und -qualitäten gerecht werden. Vermutlich deshalb verbreiteten sich Bögen mit breiterem Wurfarm-Querschnitt - einem Layout, wie es auch aus steinzeitlichen Funden und von späteren amerikanischen Flachbögen bekannt ist.
+Geeignete Äste oder geviertelte Stämme bilden das Rohmaterial für die Herstellung der Langbögen. Sorgfältig aus Herz und Korpus geschnitzt, verleihen die natürlichen Strukturen des Holzes dem Langbogen Eigenschaften, die schon fast mit denen heutiger Kompositbögen vergleichbar sind. Unter Erhaltung eines kompletten Jahresrings, der die Vorderseite des Bogens bildet ("Rücken"), wird die dem Kernholz zugewandte "Bauchseite" vorsichtig gleichmäßig ausgedünnt ("getillert"), bis sich eine homogene Biegung ohne Knicke oder steife Regionen ergibt. Die einfache Form des Langbogens weist schon allein aufgrund der enormen Höhe nur eine leichte Krümmung mit geraden Enden auf, im Gegensatz zu dem an den Enden geschwungenen Reiterbogen der asiatischen Steppenvölker.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MARKSMAN_EFFECT</Tag>
+		<English>Archer Guild</English>
+		<German>
+			<Text>Bogenschützengilde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANOUEVER</Tag>
+		<English>Doctrine - Manoeuvre Warfare</English>
+		<German>
+			<Text>Doktrin - Manöverkriegsführung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANOUEVER_PEDIA</Tag>
+		<English>[TAB]Military orthodoxy believes that with some exceptions, most battles between established armies have historically been fought based on an attrition warfare strategy. Closer examination, however, reveals that the view is not universally held, and many military doctrines and cultures are based on replete historical examples of maneuver warfare.
+The attritionalists' view of warfare involves moving masses of men and material against enemy strongpoints, with the emphasis on the destruction of the enemy's physical assets, success as measured by enemy combatants killed, equipment and infrastructure destroyed, and territory taken and/or occupied. Attrition warfare tends to use rigidly centralized command structures that require little or no creativity or initiative from lower-level leadership (also called top-down or "command push" tactics).
+Maneuver warfare doctrine sees styles of warfare as a spectrum with attrition warfare and maneuver warfare on opposite ends. In attrition warfare, the enemy is seen as a collection of targets to be found and destroyed. Attrition warfare exploits maneuver to bring to bear firepower to destroy enemy forces. Maneuver warfare, on the other hand, exploits firepower and attrition on key elements of opposing forces.
+Maneuver warfare advocates that strategic movement can bring about the defeat of an opposing force more efficiently than by simply contacting and destroying enemy forces until they can no longer fight. Instead, in maneuver warfare, the destruction of certain enemy targets (command and control centers, logistical bases, fire support assets, etc.) is combined with isolation of enemy forces and the exploitation by movement of enemy weaknesses.
+Bypassing and cutting off enemy strongpoints often results in the collapse of that strongpoint even where the physical damage is minimal (such as the Maginot Line). Firepower, which is used primarily to destroy as many enemy forces as possible in attrition warfare, is used to suppress or destroy enemy positions at breakthrough points during maneuver warfare. Infiltration tactics by conventional or special forces may be used extensively to cause chaos and confusion behind enemy lines.</English>
+		<German>
+			<Text>[TAB]"Der größte Feind eines guten Plans ist der Traum von einem perfekten Plan." [PARAGRAPH:2]Carl von Clausewitz[PARAGRAPH:2]</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MANOUEVER_EFFECT</Tag>
+		<English>Clausewitzian Schooling</English>
+		<German>
+			<Text>Clausewitzsche Militärtaktiken</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PATRIOTIC</Tag>
+		<English>Doctrine - Patriotic War</English>
+		<German>
+			<Text>Doktrin - Patriotischer Krieg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PATRIOTIC_PEDIA</Tag>
+		<English>[TAB]French nationalism emerged from its numerous wars with England, which involved the reconquest of the territories that made up France. The wars produced a great icon of French nationalism, Joan of Arc. The Catholic religion also played a major role after the Protestant Reformation. French nationalism became a powerful movement after the French Revolution in 1789. Napoleon Bonaparte promoted French nationalism based upon the ideals of the French Revolution such as the idea of "liberty, equality, fraternity" and justified French expansionism and French military campaigns on the claim that France had the right to spread the enlightened ideals of the French Revolution across Europe, and also to expand France into its so-called "natural borders." Napoleon's invasions of other nations had the effect of spreading the concept of nationalism outside France.
+		An event of epic proportions and momentous importance for European history, the French invasion of Russia has been the subject of much discussion among historians. The campaign's sustained role in Russian culture may be seen in Tolstoy's War and Peace, Tchaikovsky's 1812 Overture, and the identification of it with the German invasion of 1941-45, which became known as the Great Patriotic War in the Soviet Union. Leo Tolstoy was not a historian, but his extremely popular 1869 historical novel War and Peace which depicted the war as a triumph of what Lieven called the "moral strength, courage and patriotism of ordinary Russians" with military leadership a negligible factor has shaped the popular understanding of the war in both Russia and abroad from the 19th century onward. -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Die Französische Invasion von Russland war ein Wendepunkt in den napoleonischen Kriegen. Die Kampagne reduzierte die französische und alliierten Streitkräfte auf weniger als zwei Prozent der ursprünglichen Stärke.  Für Russland ist der Begriff Patriotistischer Krieg  zu einem Symbol der erstarkten nationalen Identität geworden. Ein weiterer Effekt dieses erstarkten Vaterlandsgefühls war auch das erwachende Selbstbewußtsein des Volkes, was zu der Oktoberrevolution von 1917 führte[PARAGRAPH:2]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PATRIOTIC_EFFECT</Tag>
+		<English>Motherland</English>
+		<German>
+			<Text>Vaterland</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEAMANSHIP</Tag>
+		<English>Doctrine - Superior Seamanship</English>
+		<German>
+			<Text>Überlegene Seefahrt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEAMANSHIP_PEDIA</Tag>
+		<English>[TAB]The development of large capacity, sail powered ships carrying cannon led to a rapid expansion of European navies, especially the Spanish and Portuguese navies which dominated in the Sixteenth and early Seventeenth Centuries, and ultimately helped propel the age of exploration and colonialism. The repulsion of the Spanish Armada (1588) by the Anglo-Dutch fleets revolutionised naval warfare by the success of a guns only strategy and caused a major overhaul of the Spanish navy, partly along English lines, which resulted in even greater dominance by the Spanish. From the beginning of the 17th century the Dutch began cannibalise the Portuguese Empire in the East and, with the immense wealth gained, began to challenge Spanish hegemony at sea. From the 1620s, Dutch raiders began to seriously trouble Spanish shipping and, after a number of battles which went both ways, the Dutch Navy finally broke the long dominance of the Spanish Navy in the Battle of the Downs (1639). -Wikipedia[PARAGRAPH:2]</English>
+		<German>Die entwicklung großer, mit Kanonen bewaffneter Schiffe führte zu einer schnellen Erweiterung europäischer Marinen, die die Meere des 16. und 17. Jahrhunderts beherrschten, und zur das Zeitalter der Entdeckungen und Kolonisierung einleitete.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEAMANSHIP_EFFECT</Tag>
+		<English>Sea Wolves</English>
+		<German>
+			<Text>Seebären</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENGINEERCORPS</Tag>
+		<English>Doctrine - Engineer Corps</English>
+		<German>
+			<Text>Doktrin - Pioniertrupps</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENGINEERCORPS_PEDIA</Tag>
+		<English>[TAB]At the end of the 17th century, two influential military engineers, the French Marshal Vauban and the Dutch military engineer Menno van Coehoorn, developed modern fortification to its pinnacle, refining siege warfare without fundamentally altering it: ditches would be dug; walls would be protected by glacis; and bastions would enfilade an attacker. Both engineers developed their ideas independently, but came to similar general rules regarding defensive construction and offensive action against fortifications. Both were skilled in conducting sieges and defences themselves. Before Vauban and Van Coehoorn, sieges had been somewhat slapdash operations. Vauban and Van Coehoorn refined besieging to a science with a methodical process that, if uninterrupted, would break even the strongest fortifications. -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]In den Heeren des 18. Jahrhunderts hatten der Mineur und der Sappeur (von ital. 'zappa' Hacke) diese Aufgaben wahrzunehmen. Vorgänger sind die Ingenieur- oder Genietruppen, die aus nur leichtbewaffneten Spezialhandwerkern und Schanzarbeitern ('Schanzbauern') bestanden. Daneben gab es für die Überquerung von Gewässern in manchen Armeen auch Pontoniere.
+Als Infanterie- bzw. Kavalleriepioniere bezeichnete man Ende des 19. Jahrhunderts Mannschaften der Infanterie- bzw. Kavallerie, die für einfache Pioniertätigkeiten bei ihrer Truppe ausgebildet und ausgestattet waren. Sie gehörten jedoch nicht zur technischen Truppe.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENGINEERCORPS_EFFECT</Tag>
+		<English>Engineering School</English>
+		<German>
+			<Text>Pionierschule</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRENCH</Tag>
+		<English>Doctrine - Trench War</English>
+		<German>
+			<Text>Doktrin - Grabenkrieg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRENCH_PEDIA</Tag>
+		<English>[TAB]Trench warfare is a form of war in which both opposing armies have static lines of defense. Trench warfare arose when there was a revolution in firepower without similar advances in mobility and communications. Periods of trench warfare occurred during the American Civil War (1861-65) and the Russo-Japanese War of 1904-05, and reached peak brutality and bloodshed on the Western Front in the First World War. -Wikipedia[PARAGRAPH:2]</English>
+		<German>Als Grabenkrieg bezeichnet man eine häufige Form des Stellungskriegs, bei der die Fronten aus einem System von Schützengräben bestehen. Zu solchen Grabenkämpfen im großen Stil kam es erstmals 1854 im Krimkrieg, wo der Einsatz dieser Verteidigungsidee auf den russischen Ingenieuroffizier Franz Totleben zurückging. Danach wurde unter anderem während des Amerikanischen Bürgerkriegs (1861-1865) und des Russisch-Japanischen Krieges (1904-1905) in Gräben gekämpft.
+Diese Kämpfe erreichten schließlich einen blutigen Höhepunkt in den Schützengräben des Ersten Weltkriegs. Allein in den Kämpfen vor Verdun wurden von Februar bis Dezember 1916 über 700.000 Soldaten getötet oder verletzt, doch stellte sich der Frontverlauf am Ende der Schlacht nahezu unverändert dar. Auch im Iran-Irak-Krieg von 1980 bis 1988 kam es zu verlustreichen Grabenkämpfen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRENCH_EFFECT</Tag>
+		<English>Fortified Region</English>
+		<German>
+			<Text>Festungsfront</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLITZKRIEG</Tag>
+		<English>Doctrine - Blitzkrieg</English>
+		<German>
+			<Text>Doktrin - Blitzkrieg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLITZKRIEG_PEDIA</Tag>
+		<English>[TAB]Blitzkrieg is a popular name for an offensive operational-level military doctrine which involves an initial bombardment followed by the employment of mobile forces attacking with speed and surprise to prevent an enemy from implementing a coherent defense. The founding principles of these types of operations were developed in the 19th Century by various nations, and adapted in the years after World War I, largely by the German Wehrmacht, to incorporate modern weapons and vehicles as a method to help avoid the stalemate of trench warfare and linear warfare in future conflicts. The first practical implementations of these concepts coupled with modern technology were instituted by the Wehrmacht in the opening theatres of World War II. The strategy was particularly effective in the invasions of France, The Netherlands and initial operations in the Soviet Union. These operations were dependent on surprise penetrations, general enemy unpreparedness and an inability to react swiftly enough to German offensive operations. That the German Army quickly defeated numerically and technically superior enemies in France led many analysts to believe that a new system of warfare had been invented. -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Der Blitzkrieg ist eine Form der Kriegführung des kombinierten, koordinierten Einsatzes verschiedener Teilstreitkräfte, d. h. Luft-, See- und Landstreitkräfte. Plötzliche, schnelle und unerwartete Vorstöße sollen dem Gegner im Idealfall keine Gelegenheit lassen, eine stabile Verteidigung zu organisieren. Die Theorien des Blitzkrieges wurden schon zu Beginn der 1920er Jahre vor allem von den britischen Militärhistorikern J.F.C. Fuller und Basil Liddell Hart unter dem englischen Begriff lightning warfare geschaffen. Damit sollte ein Ausweg aus den unbeweglichen Materialschlachten des Ersten Weltkriegs gefunden werden. Technische Teilaspekte dieses Konzeptes wurden jedoch schon in diesem Konflikt entwickelt, so z.B. der Panzer (Großbritannien 1916), Schlachtflieger (Deutsche Schlachtstaffeln ab 1916) sowie spezialisierte Sturmbataillone der Infanterie, die auf deutscher Seite ab dem Frühjahr 1916 zum Einsatz gelangten. Ihren ersten wirklich umfassenden Praktiker fand die Blitzkriegtaktik jedoch im Zweiten Weltkrieg in Person des deutschen Generals Heinz Guderian. Weitere bedeutende Vertreter waren z.B. die Generale Erwin Rommel, George S. Patton (beide im Zweiten Weltkrieg), Ariel Scharon (Jom-Kippur-Krieg), sowie Norman Schwarzkopf junior im ersten amerikanisch-irakischen Golfkrieg 1991.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLITZKRIEG_EFFECT</Tag>
+		<English>Panzercorps</English>
+		<German>
+			<Text>Panzertruppe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MASSPRODUCTION</Tag>
+		<English>Doctrine - Mass Production</English>
+		<German>
+			<Text>Doktrin - Massenproduktion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MASSPRODUCTION_PEDIA</Tag>
+		<English>[TAB]Military production during World War II includes the arms, ammunitions, personnel and financing which were mobilized for the war. Military production, in this article, means everything produced by the belligerents from the occupation of Austria in early 1938 to the surrender and occupation of Japan in late 1945.
+The mobilization of funds, people, natural resources and matériel for the production and supply of military equipment and military forces during World War II was a critical component of the war effort. During the conflict, the Allies outpaced the Axis powers in most production categories. Access to the funding and industrial resources necessary to sustain the war effort was linked to their respective economic and political alliances. As formerly neutral powers (such as the United States) joined the escalating conflict, territory changed hands, combatants were defeated, the balance of power shifted in favour of the Allies (as did the means to sustain the military production required to win the war). -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Viele Jahrhunderte herrschte das Handwerk im Bereich der Produktion. Zur Zeit der Industriellen Revolution wurde das Handwerk weitgehend durch Maschinen ersetzt. So bildete sich gegen Mitte des 19. Jahrhunderts in den USA durch den Antrieb der Mechanisierung das "American System of Manufactures". Es baute auf den Prinzipien der austauschbaren Teile, der speziellen Maschinen, der Konzentration auf das Fertigungsverfahren und der Arbeitsteilung auf.
+Der wahre Erfinder des Systems der austauschbaren Teile" ist aber der französische Waffenschmied "Honore Le Blanc", der dieses System bereits Mitte des 18.Jahrhunderts erfand. Da die anderen französischen Waffenschmiede darin aber eine Bedrohung für ihre Zunft sahen, konnte es sich in Frankreich nicht entwickeln. Thomas Jefferson, der zu dieser Zeit in Frankreich lebte, erkannte die Bedeutung dieser Technologie und förderte sie nach seiner Rückkehr nach Amerika. So wurde 1796 der berühmte amerikanische Erfinder Eli Whitney beauftragt 10.000 Musketen Mittels der neuen Technologie herzustellen. Ihm wurden dafür 2 Jahre Zeit gegeben, aber er brauchte insgesamt 8 Jahre, um die geforderte Menge herzustellen. Er benötigte die Zeit, um das System zu verfeinern und die Maschinen für eine solche Produktion zu bauen. Allerdings lieferte nach diesen Jahren weitere 15.000 Musketen, die er in nur 2 Jahren produzierte. Der Grundstein für die industrielle Massenproduktion war gelegt.
+Die Massenfertigung wird als direkter Nachfolger des Amerikanischen Systems angesehen. Heutzutage ist der Begriff Massenfertigung auch unter dem Namen Fordismus bekannt, unter welchem es seine Blütezeit erlebte. Um Massenfertigung erfolgreich zu betreiben, ist Massenkonsum erforderlich, da ansonsten eine Überproduktion gegeben wäre. Daher wurden unter Ford Lohnerhöhungen bei gleichzeitiger Verbilligung der Produkte angestrebt.
+Das Prinzip der Massenfertigung wird gegenwärtig in allen Teilen der Welt angewendet.
+Ein gutes Beispiel für die Massenproduktion ist die Automobilbranche. Henry Ford erklärte damals: "Sie können jede Farbe haben, solange es Schwarz ist." Dieser Leitsatz gilt schon seit langem nicht mehr.
+Da sich jedoch die Wettbewerbsbedingungen im Laufe der Zeit änderten, erschloss sich eine neue Form der Produktion, die sogenannte massgeschneiderte Massenproduktion, welche ihren Fokus auf individuelle Kundenwünsche, Flexibilität und heterogene Märkte richtet. Anwendungsbereiche dieser jungen Produktionsform sind beispielsweise die Automobil-, Computer-, Elektrowerkzeug- und Textilindustrie. Der Vorteil dieser Technik liegt in der Kombination von Standardisierung und Individualisierung.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MASSPRODUCTION_EFFECT</Tag>
+		<English>Industrial Know-Hows</English>
+		<German>
+			<Text>Industrielle Fertigkeit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARTILLERY</Tag>
+		<English>Doctrine - Artillery Schools</English>
+		<German>
+			<Text>Doktrin - Artillerieschule</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARTILLERY_PEDIA</Tag>
+		<English>[TAB]The mission of the field artillery is to destroy, neutralize, or suppress the enemy by cannon, rocket and missile fire and to help integrate all fire support assets into combined arms operations. To accomplish the field artillery mission, Training Command must train field artillery Soldiers and Marines in tactics, techniques, and procedures for the employment of fire support systems in support of the manoeuvre commander. -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Artilleriegeschütze wurden ursprünglich offen aufgestellt und direkt gerichtet (mit Sicht auf das Ziel) und feuerten in der Regel auf Kernschussweite. Mit fortschreitender Entwicklung der Geschütze, was zu höherer Reichweite und Zielgenauigkeit führte, wurden offene Artilleriestellungen einfache Ziele für die feindliche Artillerie. Aus diesem Grunde stellten während des Russisch-Japanischen Krieges 1904/05 erstmals die Japaner ihre Artillerie in gedeckten Positionen auf (z. B. hinter einem Berg oder Hügel), von denen sie das Gefechtsfeld und den Zielsektor nicht mehr direkt beobachten konnten. Die europäischen Armeen folgten dieser Vorgehensweise des indirekten Richtens rasch.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARTILLERY_EFFECT</Tag>
+		<English>Artillery School</English>
+		<German>
+			<Text>Artillerieschule</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPECOPS</Tag>
+		<English>Doctrine - Spec Ops</English>
+		<German>
+			<Text>Doktrin - Spezialeinheit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPECOPS_PEDIA</Tag>
+		<English>[TAB]Throughout the later half of the 20th century and into the 21st century, special forces have come to higher prominence, as governments have found objectives can sometimes be better achieved by a small team of anonymous specialists than a larger and much more politically controversial conventional deployment. In both Kosovo and Afghanistan, Special Forces were used to co-ordinate activities between local guerrilla fighters and air power. Typically, guerrilla fighters would engage enemy soldiers and tanks causing them to move, where they could be seen and attacked from the air.[PARAGRAPH:2]Invariably, special forces were used in military operations such as the Falklands War, The Troubles in Northern Ireland, the first and second Gulf Wars, Afghanistan, Kosovo, Bosnia, first Chechen War and second Chechen War, the Iranian Embassy siege (London), Moscow theater hostage crisis and Japanese Embassy hostage crisis (Lima). -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Eine Spezialeinheit stellt eine geschlossenen Einheit eines polizeilichen oder militärischen Verbandes dar, welche aufgrund zielorientierter Ausbildung und speziellen Trainings Aufträge mit erhöhter Gefährdungslage wahrnehmen kann. Spezialeinheiten haben in der Regel weitergehende Ausrüstung als andere Einheiten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPECOPS_EFFECT</Tag>
+		<English>Spec Ops Training</English>
+		<German>
+			<Text>Ausbildung von Spezialeinheiten</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROJECTION</Tag>
+		<English>Doctrine - Power Projection</English>
+		<German>
+			<Text>Doktrin - Machtprjektion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROJECTION_PEDIA</Tag>
+		<English>[TAB]Power projection (or force projection) is a term used in military and political science to refer to the capacity of a state to implement policy by means of force, or the threat thereof, in an area distant from its own territory. The United States Department of Defense further defines power projection as "The ability of a nation to apply all or some of its elements of national power - political, economic, informational, or military - to rapidly and effectively deploy and sustain forces in and from multiple dispersed locations to respond to crises, to contribute to deterrence, and to enhance regional stability". [PARAGRAPH:2]This ability is a crucial element of a state's power in international relations. Any state able to direct its military forces outside the limited bounds of its territory might be said to have some level of power projection capability, but the term itself is used most frequently in reference to militaries with a worldwide reach (or at least significantly broader than a state's immediate area). Even states with sizable hard power assets (such as a large standing army) may only be able to exert limited regional influence so long as they lack the means of effectively projecting their power on a global scale. Generally, only a select few states are able to overcome the logistical difficulties inherent in the deployment and direction of a modern, mechanized military force. -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Mit Machtprojektion bezeichnet man im Rahmen der Politikwissenschaft und des Militärwesens die Fähigkeit eines Staates seine Politik mit Androhung oder Anwendung von Gewalt auch weit entfernt von seinem eigenen Territorium durchzusetzen. Das Verteidigungsministerium der Vereinigten Staaten definiert in seiner Publikation J1-02: Department of Defense Dictionary of Military and Associated Terms Machtprojektion als die Fähigkeit eines Staates, alle oder einige Elemente seiner nationalen Macht - politische, wirtschaftliche, informationstechnische oder militärische - über schnelle und effektive Kräfte an weit entfernten Einsatzorten einsetzen zu können, um auf Krisen zu reagieren, um abzuschrecken und regionale Stabilität durchzusetzen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROJECTION_EFFECT</Tag>
+		<English>Global Infrastructure</English>
+		<German>
+			<Text>Globale Infrastruktur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GUERILLAWAR</Tag>
+		<English>Doctrine - Guerilla Tactics</English>
+		<German>
+			<Text>Doktrin - Partisanenkrieg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GUERILLAWAR_PEDIA</Tag>
+		<English>[TAB]Guerrilla warfare (also spelled guerilla) is a method of unconventional combat by which small groups of combatants attempt to use mobile and surprise tactics (ambushes, raids, etc) to defeat a foe, often a larger, less mobile, army. Typically the smaller guerrilla army will either use its defensive status to draw its opponent into terrain which is better suited to the former or take advantage of its greater mobility by conducting surprise attacks at vulnerable targets, often deep in enemy territory. -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Die Guerillataktik findet sich in kleinen, selbstständig operierenden Kampfeinheiten wieder, welche die taktischen Zielsetzungen der Armeeführung, meist im Hinterland des Gegners, unterstützen und dabei außerhalb ihrer Kampfeinsätze nicht als Soldaten erkennbar sind. Zur Guerillataktik gehören "nadelstichartige" militärische Operationen, die den Gegner nicht vernichten, sondern zermürben sollen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GUERILLAWAR_EFFECT</Tag>
+		<English>Guerilla Camp</English>
+		<German>
+			<Text>Partisanenlager</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NAPALM</Tag>
+		<English>Doctrine - Napalm Strikes</English>
+		<German>
+			<Text>Doktrin - Napalmeinsatz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NAPALM_PEDIA</Tag>
+		<English>[TAB]Philip Jones Griffiths describes its use in Vietnam:
+"NAPALM. The most effective "anti-personnel" weapon, it is euphemistically described as "unfamiliar cooking fluid" by those apologists for American military methods. They automatically attribute all napalm cases to domestic accidents caused by the people using gasoline instead of kerosene in their cooking stoves. Kerosene is far too expensive for the peasants, who normally use charcoal for cooking. The only "cooking fluid" they know is very "unfamiliar" - it is delivered through their roofs by U.S. planes.[PARAGRAPH:2]Some of its finer selling points were explained to me by a pilot in 1966: "We sure are pleased with those backroom boys at Dow. The original product wasn_t so hot _ if the gooks were quick they could scrape it off. So the boys started adding polystyrene - now it sticks like @#$* to a blanket. But then if the gooks jumped under water it stopped burning, so they started adding Willie Peter (WP - white phosphorous) so's to make it burn better. It'll even burn under water now. And just one drop is enough, it'll keep on burning right down to the bone so they die anyway from phosphorous poisoning." -Wikipedia[PARAGRAPH:2]</English>
+		<German>[TAB]Das Prinzip einer anhaftenden, langsambrennenden Brandmasse wurde das erste Mal im frühen Mittelalter in Form des Griechischen Feuers verwirklicht.
+Die ersten Versuche wurden zu Beginn des 2. Weltkrieges mit einer Mischung aus Benzin und Schmierseife durchgeführt. Die eigentliche Rezeptur für Napalm wurde 1942 an der Harvard-Universität entwickelt. Der erste belegte Einsatz war die Bombardierung von Tinian Town (heute San Jose) auf der Pazifikinsel Tinian am 23.07.1944 durch die USA. Danach wurde Napalm massiv im Koreakrieg sowie im Vietnamkrieg eingesetzt.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NAPALM_EFFECT</Tag>
+		<English>Napalm Production</English>
+		<German>
+			<Text>Napalmproduktion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+</Civ4GameText>

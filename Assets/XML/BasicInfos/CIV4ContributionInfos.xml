@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Basic Infos -->
+<CIV4ContributionInfos xmlns="x-schema:CIV4BasicInfoSchema.xml">
+	<!-- MOD - START - Core Game Events -->
+	<ContributionInfos>
+		<!--Changes must be reflected in CvEnums.h-->
+		<ContributionInfo>
+			<Type>CONTRIBUTION_FIXED</Type>
+			<Description>TXT_KEY_CONTRIBUTION_FIXED</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_PERCENT_CHANGE</Type>
+			<Description>TXT_KEY_CONTRIBUTION_PERCENT_CHANGE</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_PERCENT_CHANGE_TIMES_100</Type>
+			<Description>TXT_KEY_CONTRIBUTION_PERCENT_CHANGE_TIMES_100</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_POPULATION</Type>
+			<Description>TXT_KEY_CONTRIBUTION_POPULATION</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_ANGRY_POPULATION</Type>
+			<Description>TXT_KEY_CONTRIBUTION_ANGRY_POPULATION</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_UNHEALTHY_POPULATION</Type>
+			<Description>TXT_KEY_CONTRIBUTION_UNHEALTHY_POPULATION</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_RELIGION</Type>
+			<Description>TXT_KEY_CONTRIBUTION_RELIGION</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_STATE_RELIGION</Type>
+			<Description>TXT_KEY_CONTRIBUTION_STATE_RELIGION</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_NONSTATE_RELIGION</Type>
+			<Description>TXT_KEY_CONTRIBUTION_NONSTATE_RELIGION</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_MILITARY_PRESENCE</Type>
+			<Description>TXT_KEY_CONTRIBUTION_MILITARY_PRESENCE</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_SUPERIOR_MILITARY_POWER_RATIO</Type>
+			<Description>TXT_KEY_CONTRIBUTION_SUPERIOR_MILITARY_POWER_RATIO</Description>
+		</ContributionInfo>
+		<ContributionInfo>
+			<Type>CONTRIBUTION_INFERIOR_MILITARY_POWER_RATIO</Type>
+			<Description>TXT_KEY_CONTRIBUTION_INFERIOR_MILITARY_POWER_RATIO</Description>
+		</ContributionInfo>
+	</ContributionInfos>
+	<!-- MOD - END - Core Game Events -->
+</CIV4ContributionInfos>

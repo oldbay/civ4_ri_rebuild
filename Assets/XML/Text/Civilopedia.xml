@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Improved Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_TITLE</Tag>
+		<English>Civilopedia</English>
+		<German>Zivilop&#228;die</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_INDEX</Tag>
+		<English>Index</English>
+		<German>Index</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CONTENTS</Tag>
+		<English>Contents</English>
+		<German>Inhalt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SECTION_TECHNOLOGIES</Tag>
+		<English>Technologies</English>
+		<German>Technologien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SECTION_UNITS</Tag>
+		<English>Units</English>
+		<German>
+			<Text>Einheiten</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SECTION_MILITARY</Tag>
+		<English>Military</English>
+		<German>Milit&#228;r</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SECTION_BUILDINGS</Tag>
+		<English>Buildings</English>
+		<German>
+			<Text>Geb&#228;ude</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SECTION_SOCIETY</Tag>
+		<English>Society</English>
+		<German>Gesellschaft</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SECTION_WORLD</Tag>
+		<English>World</English>
+		<German>Welt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SECTION_HELP</Tag>
+		<English>Help</English>
+		<German>Hilfe</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_ALL</Tag>
+		<English>All</English>
+		<German>Alle</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_TECHNOLOGIES_ALL</Tag>
+		<English>All</English>
+		<German>Alle</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_TECHNOLOGIES_GRAPH</Tag>
+		<English>Tech Tree</English>
+		<German>Technologiebaum</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_UNITS_ALL</Tag>
+		<English>Units</English>
+		<German>Einheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_UNITS_CATEGORIES</Tag>
+		<English>Unit Categories</English>
+		<German>Einheitenkategorien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_UNITS_UPGRADE_CHART</Tag>
+		<English>Unit Upgrade Chart</English>
+		<German>Modernisierungen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_MILITARY_CONVENTIONAL_PROMOTIONS</Tag>
+		<English>Conventional Promotions</English>
+		<German>Herk&#246;mmliche Bef&#246;rderungen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_MILITARY_SPECIAL_PROMOTIONS</Tag>
+		<English>Special Promotions</English>
+		<German>Spezielle Bef&#246;rderungen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_MILITARY_PROMOTION_TREE</Tag>
+		<English>Promotion Tree</English>
+		<German>Bef&#246;rderungsbaum</German>
+	</TEXT>
+	<!-- MOD - START - Doctrines -->
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_MILITARY_DOCTRINES</Tag>
+		<English>Doctrines</English>
+		<German>Doktrinen</German>
+	</TEXT>
+	<!-- MOD - END - Doctrines -->
+	<!-- MOD - START - Traditions -->
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_MILITARY_TRADITIONS</Tag>
+		<English>Traditions</English>
+		<German>Traditionen</German>
+	</TEXT>
+	<!-- MOD - END - Traditions -->
+	<!-- MOD - START - Aid -->
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_MILITARY_AID</Tag>
+		<English>Aid</English>
+		<German>Unterst&#252;tzungen</German>
+	</TEXT>
+	<!-- MOD - END - Aid -->
+	<!-- MOD - START - Detriments -->
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_MILITARY_DETRIMENTS</Tag>
+		<English>Detriments</English>
+		<German>Sch&#228;digungen</German>
+	</TEXT>
+	<!-- MOD - END - Detriments -->
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_BUILDINGS_ALL</Tag>
+		<English>Buildings</English>
+		<German>Geb&#228;ude</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_BUILDINGS_NATIONAL_WONDERS</Tag>
+		<English>Limited Buildings</English>
+		<German>Nationalwunder</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_BUILDINGS_GREAT_WONDERS</Tag>
+		<English>Great Wonders</English>
+		<German>Weltwunder</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_BUILDINGS_GREAT_WORKS</Tag>
+		<English>Great Works</English>
+		<German>Meisterwerke</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_BUILDINGS_SEPARATISM</Tag>
+		<English>Separatism</English>
+		<German>Separatismus</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_BUILDINGS_PROJECTS</Tag>
+		<English>Projects</English>
+		<German>
+			<Text>Projekte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_BUILDINGS_UPGRADE_CHART</Tag>
+		<English>Building Upgrade Chart</English>
+		<German>Geb&#228;ude-Tabelle</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_SOCIETY_CIVILIZATIONS</Tag>
+		<English>Civilizations</English>
+		<German>
+			<Text>Zivilisationen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_SOCIETY_LEADERS</Tag>
+		<English>Leaders</English>
+		<German>
+			<Text>Staatsoberh&#228;upter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_SOCIETY_TRAITS</Tag>
+		<English>Traits</English>
+		<German>Merkmale</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_SOCIETY_CIVICS</Tag>
+		<English>Civics</English>
+		<German>
+			<Text>Staatsformen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_SOCIETY_RELIGIONS</Tag>
+		<English>Religions</English>
+		<German>
+			<Text>Religionen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_SOCIETY_SPECIALISTS</Tag>
+		<English>Specialists</English>
+		<German>
+			<Text>Spezialisten</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_SOCIETY_ERAS</Tag>
+		<English>Eras</English>
+		<German>Zeitalter</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_WORLD_BASE_TERRAIN</Tag>
+		<English>Base Terrain</English>
+		<German>
+			<Text>Gel&#228;ndearten</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_WORLD_TERRAIN_FEATURES</Tag>
+		<English>Terrain Features</English>
+		<German>
+			<Text>Gel&#228;ndeeigenschaften</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_WORLD_RESOURCES</Tag>
+		<English>Resources</English>
+		<German>
+			<Text>Ressourcen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_WORLD_IMPROVEMENTS</Tag>
+		<English>Improvements</English>
+		<German>
+			<Text>Modernisierungen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_WORLD_MAP_SIZES</Tag>
+		<English>Map Sizes</English>
+		<German>Kartengr&#246;&#223;en</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_WORLD_ROUTES</Tag>
+		<English>Routes</English>
+		<German>Routen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_DIFFICULTY_LEVELS</Tag>
+		<English>Difficulty Levels</English>
+		<German>Schwierigkeitsstufen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_CONCEPTS</Tag>
+		<English>Concepts</English>
+		<German>Konzepte</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_HINTS</Tag>
+		<English>Hints</English>
+		<German>Hinweise</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_VIEW_HOTKEY_CLASSES</Tag>
+		<English>Hotkeys</English>
+		<German>Hotkeys</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_MODE_ALL</Tag>
+		<English>All</English>
+		<German>Alle</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_MODE_GROUPED</Tag>
+		<English>Grouped</English>
+		<German>Gruppiert</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_MODE_DEFAULT_UNITS</Tag>
+		<English>Default Units</English>
+		<German>Standardeinheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_MODE_DEFAULT_BUILDINGS</Tag>
+		<English>Default Buildings</English>
+		<German>Standardgeb&#228;ude</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_MODE_CIVILIZATION</Tag>
+		<English>Civilization</English>
+		<German>Zivilisation</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_MODE_PLAYABLE</Tag>
+		<English>Playable</English>
+		<German>Spielbar</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_MODE_NONPLAYABLE</Tag>
+		<English>Non-Playable</English>
+		<German>Nicht spielbar</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_MODE_ACTIVE_GAME</Tag>
+		<English>Current Game</English>
+		<German>Aktuelles Spiel</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_MODE_ACTIVE_PLAYER</Tag>
+		<English>Current Player</English>
+		<German>Aktueller Spieler</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SORT_LEXICAL</Tag>
+		<English>Alphabetical</English>
+		<German>Alphabetisch</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SORT_LOGICAL</Tag>
+		<English>Logical</English>
+		<German>Logisch</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_BACKGROUND</Tag>
+		<English>Background</English>
+		<German>Hintergrund</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_UNIQUE_UNITS</Tag>
+		<English>Unique Units</English>
+		<German>Spezialeinheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_DISTINCTIVE_UNITS</Tag>
+		<English>Distinctive Units</English>
+		<German>Einzigartige Einheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_UNIQUE_BUILDINGS</Tag>
+		<English>Unique Buildings</English>
+		<German>Einzigartige Geb&#228;ude</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_DISTINCTIVE_BUILDINGS</Tag>
+		<English>Distinctive Buildings</English>
+		<German>Einzigartige Geb&#228;ude</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_FAV_CIVIC</Tag>
+		<English>Favorite Civic</English>
+		<German>Bevorzugte Staatsformen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_FAV_RELIGION</Tag>
+		<English>Favorite Religion</English>
+		<German>Lieblingsreligion</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_DESCRIPTION</Tag>
+		<English>Description</English>
+		<German>Beschreibung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_FILTER_PLAYABLE_ONLY</Tag>
+		<English>Playable Only</English>
+		<German>Nur spielbar</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_FAV_CIVIC_AND_RELIGION</Tag>
+		<English>Favorite Civic and Religion</English>
+		<German>Bevorzugte Staatsform und Religion</German>
+	</TEXT>
+	<!-- MOD - START - Tech Graph -->
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SCREEN_TECH_GRAPH</Tag>
+		<English>Tech Tree</English>
+		<German>Technologiebaum</German>
+	</TEXT>
+	<!-- MOD - END - Tech Graph -->
+	<!-- MOD - START - Bonus Converters -->
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_PRODUCED_BY</Tag>
+		<English>Produced by</English>
+		<German>Produziert von</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CONSUMED_BY</Tag>
+		<English>Required for</English>
+		<German>Verbraucht von</German>
+	</TEXT>
+	<!-- MOD - END - Bonus Converters -->
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CONQUEST_PROB</Tag>
+		<English>%d1% chance to be destroyed on conquest</English>
+	</TEXT>
+</Civ4GameText>

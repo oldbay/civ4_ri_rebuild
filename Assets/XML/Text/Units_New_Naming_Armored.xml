@@ -1,0 +1,2537 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1</Tag>
+		<English>Armoured Car</English>
+		<German>
+			<Text>Sp&#228;hpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_UNIT_EHRHARDT</Tag>
+		<English>Armoured Car (Ehrhardt)</English>
+		<German>
+			<Text>Panzerkraftwagen Ehrhardt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EHRHARDT_LITHUANIA</Tag>
+		<English>Armoured Car (Ehrhardt E-V/4)</English>
+		<German>
+			<Text>Ehrhardt E-V/4</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_ARABIA</Tag>
+		<English>Armoured Car (Rolls-Royce Silver Ghost)</English>
+		<German>
+			<Text>Gepanzerte Rolls-Royce Silver Ghost</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_ARMENIA</Tag>
+		<English>Armoured Car (Mgebrov-White)</English>
+		<German>
+			<Text>Mgebrov-White-Sp&#228;hpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_CELT</Tag>
+		<English>Armoured Car (Rolls-Royce)</English>
+		<German>
+			<Text>Rolls-Royce-Sp&#228;hpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_ENGLAND</Tag>
+		<English>Armoured Car (Rolls-Royce 1920 Pattern)</English>
+		<German>
+			<Text>Rolls-Royce 1920 Pattern</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_FRANCE</Tag>
+		<English>Armoured Car (Charron)</English>
+		<German>
+			<Text>Charron</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_HUNGARY</Tag>
+		<English>Armoured Car (Lancia 1Z)</English>
+		<German>
+			<Text>Lancia 1Z</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_JAPAN</Tag>
+		<English>Armoured Car (Chiyoda Type 92 Au Gata)</English>
+		<German>
+			<Text>Chiyoda Type 92 Au Gata</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_MONGOL</Tag>
+		<English>Armoured Car (Austin)</English>
+		<German>
+			<Text>Austin Sp&#228;hpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_POLAND</Tag>
+		<English>Armoured Car (Ford FT-B)</English>
+		<German>
+			<Text>Ford FT-B</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_ROME</Tag>
+		<English>Armoured Car (Lancia 1Z/1ZM)</English>
+		<German>
+			<Text>Lancia 1Z/1ZM</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_RUSSIA</Tag>
+		<English>Armoured Car (Russobalt)</English>
+		<German>
+			<Text>Russo-Balt-Sp&#228;hpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_SPAIN</Tag>
+		<English>Armoured Car (Bilbao)</English>
+		<German>
+			<Text>Bilbao Sp&#228;hpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_TRANSOXIANA</Tag>
+		<English>Armoured Car (Lancia 1ZM)</English>
+		<German>
+			<Text>Lancia 1ZM Sp&#228;hpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMORED_CAR_WW1_UKRAINE</Tag>
+		<English>Armoured Car (Austin-Putilov)</English>
+		<German>
+			<Text>Austin-Putilov Sp&#228;hpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- BEGIN: UNITCLASS_WW1_TANK -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1</Tag>
+		<English>Early Tank</English>
+		<German>
+			<Text>Früher Panzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_AMERICA</Tag>
+		<English>Early Tank (Mark VIII Liberty)</English>
+		<German>
+			<Text>Mark VIII</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_ETHIOPIA</Tag>
+		<English>Early Tank (Fiat 3000)</English>
+		<German>
+			<Text>Fiat 3000</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_HUNGARY</Tag>
+		<English>Early Tank (Lk II Vontato)</English>
+		<German>
+			<Text>Lk II Vontato</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_VIKING</Tag>
+		<English>Early Tank (Stridsvagn m/21)</English>
+		<German>
+			<Text>Stridsvagn m/21</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_RUSSIA</Tag>
+		<English>Early Tank (T-18)</English>
+		<German>
+			<Text>T-18</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_MARKV</Tag>
+		<English>Early Tank (Mark V)</English>
+		<German>
+			<Text>Mark V</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_ROME</Tag>
+		<English>Early Tank (Fiat 2000)</English>
+		<German>
+			<Text>Fiat 2000</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_FT17</Tag>
+		<English>Early Tank (Renault FT-17)</English>
+		<German>
+			<Text>Renault FT-17</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_SOUTH_CHINA</Tag>
+		<English>Early Tank (Renault FT-17 - Kuomintang)</English>
+		<German>
+			<Text>Renault FT-17</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_BRAZIL</Tag>
+		<English>Early Tank (Renault FT-17 - Brazil)</English>
+		<German>
+			<Text>Renault FT-17</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_LITHUANIA</Tag>
+		<English>Early Tank (Renault FT-17 - Lithuania)</English>
+		<German>
+			<Text>Renault FT-17</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_ARMENIA</Tag>
+		<English>Early Tank (Russkiy Reno)</English>
+		<German>
+			<Text>Russkiy Reno</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_CHINA</Tag>
+		<English>Early Tank (Renault FT-17 - Fengtian)</English>
+		<German>
+			<Text>Renault FT-17 (Fengtian)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_FINLAND</Tag>
+		<English>Early Tank (Renault FT-17 - Finland)</English>
+		<German>
+			<Text>Renault FT-17 (Finland)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_JAPAN</Tag>
+		<English>Early Tank (FT-Ko)</English>
+		<German>
+			<Text>FT-Ko</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_TURKEY</Tag>
+		<English>Early Tank (Renault FT-17 - Turkey)</English>
+		<German>
+			<Text>Renault FT-17 (Turkey)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_TRANSOXIANA</Tag>
+		<English>Early Tank (Renault FT-17 - Afghanistan)</English>
+		<German>
+			<Text>Renault FT-17 (Afghanistan)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_SPAIN</Tag>
+		<English>Early Tank (Modelo Trubia Serie A)</English>
+		<German>
+			<Text>Modelo Trubia Serie A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_POLAND</Tag>
+		<English>Early Tank (Renault FT-17 - Poland)</English>
+		<German>
+			<Text>Renault FT-17</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_GERMAN</Tag>
+		<English>Early Tank (A7V)</English>
+		<German>
+			<Text>A7V</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TANK_WW1_FRANCE</Tag>
+		<English>Early Tank (St. Chamond)</English>
+		<German>
+			<Text>Saint-Chamond</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_WW1_TANK -->
+<!-- BEGIN: UNITCLASS_LIGHT_TANK -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK</Tag>
+		<English>Light Tank</English>
+		<German>
+			<Text>Leichter Panzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_PORTUGAL</Tag>
+		<English>Light Tank (Vickers 6-ton)</English>
+		<German>
+			<Text>Vickers 6-ton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_DUTCH</Tag>
+		<English>Light Tank (Vickers M1936)</English>
+		<German>
+			<Text>Vickers M1936</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_LITHUANIA</Tag>
+		<English>Light Tank (Vickers M1937)</English>
+		<German>
+			<Text>Vickers M1937</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_ETHIOPIA</Tag>
+		<English>Light Tank (AH-IVb)</English>
+		<German>
+			<Text>AH-IVb</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_EGYPT</Tag>
+		<English>Light Tank (Vickers MK VIB)</English>
+		<German>
+			<Text>Vickers MK VIB</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_ENGLAND</Tag>
+		<English>Light Tank (Vickers MK VI)</English>
+		<German>
+			<Text>Vickers MK VI</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_ISRAEL</Tag>
+		<English>Light Tank (Hotchkiss H35)</English>
+		<German>
+			<Text>Hotchkiss H35</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_CELT</Tag>
+		<English>Light Tank (Landsverk L-60)</English>
+		<German>
+			<Text>Landsverk L-60</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_POLAND</Tag>
+		<English>Light Tank (7TP)</English>
+		<German>
+			<Text>7TP</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_JAPAN</Tag>
+		<English>Light Tank (Type 95 Ha-Go)</English>
+		<German>
+			<Text>Type 95 Ha-Go</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_AUSTRONESIA</Tag>
+		<English>Light Tank (Type 95 Ha-Go - Indonesia)</English>
+		<German>
+			<Text>Type 95 Ha-Go</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_VIKING</Tag>
+		<English>Light Tank (Stridsvagn m/37)</English>
+		<German>
+			<Text>Stridsvagn m/37</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_ROME</Tag>
+		<English>Light Tank (Fiat L6/40)</English>
+		<German>
+			<Text>Fiat L6/40</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_AMERICA</Tag>
+		<English>Light Tank (Stuart Mk.III)</English>
+		<German>
+			<Text>Stuart Mk.III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_AMERICA_2</Tag>
+		<English>Light Tank (M3A1 Stuart)</English>
+		<German>
+			<Text>M3A1 Stuart</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_AMERICA_3</Tag>
+		<English>Light Tank (M3 Stuart)</English>
+		<German>
+			<Text>M3 Stuart</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_ARABIA</Tag>
+		<English>Light Tank (Renault R35)</English>
+		<German>
+			<Text>Renault R35</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_CHINA</Tag>
+		<English>Light Tank (T-26)</English>
+		<German>
+			<Text>T-26</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_SOUTH_CHINA</Tag>
+		<English>Light Tank (T-26 - Kuomintang)</English>
+		<German>
+			<Text>T-26</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_FINLAND</Tag>
+		<English>Light Tank (T-26C)</English>
+		<German>
+			<Text>T-26C</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_TRANSOXIANA</Tag>
+		<English>Light Tank (T-26 mod. 1931)</English>
+		<German>
+			<Text>T-26 mod. 1931</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_TURKEY</Tag>
+		<English>Light Tank (T-26 mod. 1933)</English>
+		<German>
+			<Text>T-26 mod. 1933</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_SPAIN</Tag>
+		<English>Light Tank (Verdeja No.1)</English>
+		<German>
+			<Text>Verdeja No.1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_FRANCE</Tag>
+		<English>Light Tank (Renault R40)</English>
+		<German>
+			<Text>Renault R40</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_GERMAN</Tag>
+		<English>Light Tank (Pz.I)</English>
+		<German>
+			<Text>Panzerkampfwagen I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_RUSSIA</Tag>
+		<English>Light Tank (BT-7)</English>
+		<German>
+			<Text>BT-7</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_GREECE</Tag>
+		<English>Light Tank (Vickers E)</English>
+		<German>
+			<Text>Vickers Mark E</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_MONGOL</Tag>
+		<English>Light Tank (BT-2)</English>
+		<German>
+			<Text>BT-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_INCA</Tag>
+		<English>Light Tank (LTP)</English>
+		<German>
+			<Text>LTP</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_PERSIA</Tag>
+		<English>Light Tank (CKD TNHP)</English>
+		<German>
+			<Text>CKD TNHP</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIGHT_TANK_HUNGARY</Tag>
+		<English>Light Tank (38M Toldi)</English>
+		<German>
+			<Text>38M Toldi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_LIGHT_TANK -->
+	<!-- BEGIN: UNITCLASS_LATE_LIGHT_TANK -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_HUNGARY</Tag>
+		<English>Improved Light Tank (42M Toldi IIa)</English>
+		<German>
+			<Text>42M Toldi IIa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_CHINA</Tag>
+		<English>Improved Light Tank (Type 63)</English>
+		<German>
+			<Text>Type 63</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_EGYPT</Tag>
+		<English>Improved Light Tank (PT-76B - Egypt)</English>
+		<German>
+			<Text>PT-76B (Egypt)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_FINLAND</Tag>
+		<English>Improved Light Tank (PT-76B - Finland)</English>
+		<German>
+			<Text>PT-76B (Finland)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_MALI</Tag>
+		<English>Improved Light Tank (PT-76 - Mali)</English>
+		<German>
+			<Text>PT-76 (Mali)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_MAYA</Tag>
+		<English>Improved Light Tank (PT-76 - Nicaragua)</English>
+		<German>
+			<Text>PT-76 (Nicaragua)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_TRANSOXIANA</Tag>
+		<English>Improved Light Tank (PT-76 - Afghanistan)</English>
+		<German>
+			<Text>PT-76 (Afghanistan)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_UKRAINE</Tag>
+		<English>Improved Light Tank (PT-76B - Ukraine)</English>
+		<German>
+			<Text>PT-76B (Ukraine)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK</Tag>
+		<English>Improved Light Tank</English>
+		<German>
+			<Text>Moderner leichter Panzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_AXIS_GENERIC</Tag>
+		<English>Improved Light Tank (PzKpfw 38(t) Ausf. G)</English>
+		<German>
+			<Text>Verbesserter LT-38</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_FRANCE</Tag>
+		<English>Improved Light Tank (AMX-13)</English>
+		<German>
+			<Text>AMX-13</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_DUTCH</Tag>
+		<English>Improved Light Tank (AMX-13 PRLTTK)</English>
+		<German>
+			<Text>AMX-13 PRLTTK</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_BERBER</Tag>
+		<English>Improved Light Tank (AMX-13D)</English>
+		<German>
+			<Text>AMX-13D</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_ROME</Tag>
+		<English>Improved Light Tank (Carro Celere Sahariano)</English>
+		<German>
+			<Text>Carro Celere Sahariano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_AMERICA</Tag>
+		<English>Improved Light Tank (M24 Chaffee)</English>
+		<German>
+			<Text>M24 Chaffee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_ARABIA</Tag>
+		<English>Improved Light Tank (M24 - Arabia)</English>
+		<German>
+			<Text>M24 (Arabia)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_AUSTRIA</Tag>
+		<English>Improved Light Tank (M24 - Austria)</English>
+		<German>
+			<Text>M24 (Austria)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_ETHIOPIA</Tag>
+		<English>Improved Light Tank (M24 - Ethiopia)</English>
+		<German>
+			<Text>M24 (Ethiopia)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_GREECE</Tag>
+		<English>Improved Light Tank (M24 - Greece)</English>
+		<German>
+			<Text>M24 (Greece)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_KOREA</Tag>
+		<English>Improved Light Tank (M24 - Korea)</English>
+		<German>
+			<Text>M24 (Korea)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_PERSIA</Tag>
+		<English>Improved Light Tank (M24 - Iran)</English>
+		<German>
+			<Text>M24 (Iran)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_PORTUGAL</Tag>
+		<English>Improved Light Tank (M24 - Portugal)</English>
+		<German>
+			<Text>M24 (Portugal)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_SOUTH_CHINA</Tag>
+		<English>Improved Light Tank (M24 - Taiwan)</English>
+		<German>
+			<Text>M24 (Taiwan)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_SPAIN</Tag>
+		<English>Improved Light Tank (M24 - Spain)</English>
+		<German>
+			<Text>M24 (Spain)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_TURK</Tag>
+		<English>Improved Light Tank (M24 - Turkey)</English>
+		<German>
+			<Text>M24 (Turkey)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_INDIA</Tag>
+		<English>Improved Light Tank (AMX-13/75)</English>
+		<German>
+			<Text>AMX-13/75</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_VIKING</Tag>
+		<English>Improved Light Tank (Stridsvagn m/40)</English>
+		<German>
+			<Text>Stridsvagn m/40</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_ENGLAND</Tag>
+		<English>Improved Light Tank (A17 Tetrach)</English>
+		<German>
+			<Text>Tetrach (A17)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_JAPAN</Tag>
+		<English>Improved Light Tank (Type 4 Ke-Nu)</English>
+		<German>
+			<Text>Type 4 Ke-Nu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_AUSTRONESIA</Tag>
+		<English>Improved Light Tank (Type 4 Ke-Nu - Indonesia)</English>
+		<German>
+			<Text>Type 4 Ke-Nu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_POLAND</Tag>
+		<English>Improved Light Tank (T-70M)</English>
+		<German>
+			<Text>T-70M</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_RUSSIA</Tag>
+		<English>Improved Light Tank (T-70A)</English>
+		<German>
+			<Text>T-70A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_MONGOL</Tag>
+		<English>Improved Light Tank (T-70)</English>
+		<German>
+			<Text>T-70</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LATE_LIGHT_TANK_GERMAN</Tag>
+		<English>Improved Light Tank (Pz.II Ausf L "Luchs")</English>
+		<German>
+			<Text>Panzerkampfwagen II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_LATE_LIGHT_TANK -->
+		<!-- BEGIN: UNITCLASS_EARLY_MEDIUM_TANK -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK</Tag>
+		<English>Medium Tank</English>
+		<German>
+			<Text>Mittelschwerer Panzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_CELT</Tag>
+		<English>Medium Tank (Vickers Mk.D)</English>
+		<German>
+			<Text>Vickers Mk.D</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_SPAIN</Tag>
+		<English>Medium Tank (Verdeja No.2)</English>
+		<German>
+			<Text>Verdeja No.2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_EGYPT</Tag>
+		<English>Medium Tank (Matilda II)</English>
+		<German>
+			<Text>Matilda II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_DUTCH</Tag>
+		<English>Medium Tank (MTLS-1GI4)</English>
+		<German>
+			<Text>MTLS-1GI4</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_GREECE</Tag>
+		<English>Medium Tank (Vickers Mk.II)</English>
+		<German>
+			<Text>Vickers Mk.II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_VIKING</Tag>
+		<English>Medium Tank (Stridsvagn m/41)</English>
+		<German>
+			<Text>Stridsvagn m/41</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_CHINA</Tag>
+		<English>Medium Tank (Type 97 Chi-Ha - PLA)</English>
+		<German>
+			<Text>Typ 97 Chi-Ha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_SOUTH_CHINA</Tag>
+		<English>Medium Tank (Type 97 Chi-Ha - Kuomintang)</English>
+		<German>
+			<Text>Typ 97 Chi-Ha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_POLAND</Tag>
+		<English>Medium Tank (10TP)</English>
+		<German>
+			<Text>10TP</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_HUNGARY</Tag>
+		<English>Medium Tank (40M Tur&#225;n I)</English>
+		<German>
+			<Text>40M Turán I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_AMERICA</Tag>
+		<English>Medium Tank (M3A1 Grant)</English>
+		<German>
+			<Text>M3A1 Grant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_BRAZIL</Tag>
+		<English>Medium Tank (M3 Lee)</English>
+		<German>
+			<Text>M3 Lee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_ROME</Tag>
+		<English>Medium Tank (Fiat M11/39)</English>
+		<German>
+			<Text>Fiat M11/39</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_JAPAN</Tag>
+		<English>Medium Tank (Type 97 Chi-Ha)</English>
+		<German>
+			<Text>Type 97 Chi-Ha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_AUSTRONESIA</Tag>
+		<English>Medium Tank (Type 97 Chi-Ha - Indonesia)</English>
+		<German>
+			<Text>Type 97 Chi-Ha</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_GERMAN</Tag>
+		<English>Medium Tank (Pz.III)</English>
+		<German>
+			<Text>Panzerkampfwagen III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_TURKEY</Tag>
+		<English>Medium Tank (Pz.III Ausf.J/H)</English>
+		<German>
+			<Text>Panzerkampfwagen III Ausf.J/H</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_FRANCE</Tag>
+		<English>Medium Tank (Somua S-35)</English>
+		<German>
+			<Text>Somua S-35</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_ENGLAND</Tag>
+		<English>Medium Tank (Mk VI Crusader)</English>
+		<German>
+			<Text>A15 Crusader</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_INDIA</Tag>
+		<English>Medium Tank (Churchill IV)</English>
+		<German>
+			<Text>Churchill IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_RUSSIA</Tag>
+		<English>Medium Tank (T-28)</English>
+		<German>
+			<Text>T-28</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_FINLAND</Tag>
+		<English>Medium Tank (T-28 Postivaunu)</English>
+		<German>
+			<Text>T-28 Postivaunu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_T3476</Tag>
+		<English>Medium Tank (T-34/76)</English>
+		<German>
+			<Text>T-34/76</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_CARTHAGE</Tag>
+		<English>Medium Tank (T-34/76 - Tunis)</English>
+		<German>
+			<Text>T-34/76</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_MONGOL</Tag>
+		<English>Medium Tank (T-34/76 - Mongol)</English>
+		<German>
+			<Text>T-34/76</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_MEDIUM_TANK_MALI</Tag>
+		<English>Medium Tank (T-34/76 - Mali)</English>
+		<German>
+			<Text>T-34/76</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_EARLY_MEDIUM_TANK -->
+		<!-- BEGIN: UNITCLASS_MEDIUM_TANK -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK</Tag>
+		<English>Improved Medium Tank</English>
+		<German>
+			<Text>Verbesserter mittelschwerer Panzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_GREECE</Tag>
+		<English>Improved Medium Tank (Centaur)</English>
+		<German>
+			<Text>Centaur (A27L)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_ISRAEL</Tag>
+		<English>Improved Medium Tank (M50 Super Sherman)</English>
+		<German>
+			<Text>M50 Super Sherman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_VIKING</Tag>
+		<English>Improved Medium Tank (Stridsvagn m/42)</English>
+		<German>
+			<Text>Stridsvagn m/42</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_CELT</Tag>
+		<English>Improved Medium Tank (A34 Comet)</English>
+		<German>
+			<Text>A34 Comet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_FINLAND</Tag>
+		<English>Improved Medium Tank (Comet Mk I)</English>
+		<German>
+			<Text>Comet Mk I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_CHINA</Tag>
+		<English>Improved Medium Tank (Type 58)</English>
+		<German>
+			<Text>Type 58</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_ZULU</Tag>
+		<English>Improved Medium Tank (Comet Mk IB)</English>
+		<German>
+			<Text>Comet Mk IB</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_JAPAN</Tag>
+		<English>Improved Medium Tank (Type 4 Chi-To)</English>
+		<German>
+			<Text>Type 4 Chi-To</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_AUSTRONESIA</Tag>
+		<English>Improved Medium Tank (Type 4 Chi-To - Indonesia)</English>
+		<German>
+			<Text>Type 4 Chi-To</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_ROME</Tag>
+		<English>Improved Medium Tank (Carro Armato P 40)</English>
+		<German>
+			<Text>Carro Armato P 40</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_GERMAN</Tag>
+		<English>Improved Medium Tank (Pz.V Panther)</English>
+		<German>
+			<Text>Panzerkampfwagen V Panther</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_HUNGARY</Tag>
+		<English>Improved Medium Tank (44M Tas)</English>
+		<German>
+			<Text>44M Tas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_OTTOMAN</Tag>
+		<English>Improved Medium Tank (Pz.IV Ausf F2)</English>
+		<German>
+			<Text>Panzerkampfwagen IV Ausführung F2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_SPAIN</Tag>
+		<English>Improved Medium Tank (Pz.IV Ausf H)</English>
+		<German>
+			<Text>Panzerkampfwagen IV Ausführung H</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_ENGLAND</Tag>
+		<English>Improved Medium Tank (Cromwell)</English>
+		<German>
+			<Text>Mk VIII A 27M Cromwell</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_AMERICA</Tag>
+		<English>Improved Medium Tank (M4A3 Sherman)</English>
+		<German>
+			<Text>M4A3 Sherman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_PERSIA</Tag>
+		<English>Improved Medium Tank (M4 Sherman)</English>
+		<German>
+			<Text>M4 Sherman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_SOUTH_CHINA</Tag>
+		<English>Improved Medium Tank (M4A4 Sherman V)</English>
+		<German>
+			<Text>M4A4 Sherman V</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_INDIA</Tag>
+		<English>Improved Medium Tank (M4A4 Sherman VA)</English>
+		<German>
+			<Text>M4A4 Sherman VA</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_MUGHAL</Tag>
+		<English>Improved Medium Tank (M4A1 Sherman)</English>
+		<German>
+			<Text>M4A1 Sherman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_EGYPT</Tag>
+		<English>Improved Medium Tank (M4A2 Sherman)</English>
+		<German>
+			<Text>M4A2 Sherman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_FRANCE</Tag>
+		<English>Improved Medium Tank (ARL 44)</English>
+		<German>
+			<Text>ARL 44</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_RUSSIA</Tag>
+		<English>Improved Medium Tank (T-34-85)</English>
+		<German>
+			<Text>T-34/85</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_EAST_BLOC</Tag>
+		<English>Improved Medium Tank (T-34/85)</English>
+		<German>
+			<Text>T-34/85</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_POLAND</Tag>
+		<English>Improved Medium Tank (T-34/85M1)</English>
+		<German>
+			<Text>T-34/85M1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_BABYLON</Tag>
+		<English>Improved Medium Tank (T-34/85 - Iraq)</English>
+		<German>
+			<Text>T-34/85</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_TANK_ETHIOPIA</Tag>
+		<English>Improved Medium Tank (T-34/85 - Ethiopia)</English>
+		<German>
+			<Text>T-34/85</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_MEDIUM_TANK -->
+		<!-- BEGIN: UNITCLASS_MBT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT</Tag>
+		<English>MBT (Main Battle Tank)</English>
+		<German>
+			<Text>Einfacher Kampfpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_ENGLAND</Tag>
+		<English>MBT (Centurion)</English>
+		<German>
+			<Text>MBT "Centurion"</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_FRANCE</Tag>
+		<English>MBT (AMX-50)</English>
+		<German>
+			<Text>AMX-50</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_VIKING</Tag>
+		<English>MBT (Stridsvagn 81)</English>
+		<German>
+			<Text>Stridsvagn 81</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_ALLIED</Tag>
+		<English>MBT (M47/48 Patton)</English>
+		<German>
+			<Text>M47/48 Patton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_AMERICA</Tag>
+		<English>MBT (M48 Patton)</English>
+		<German>
+			<Text>M48 Patton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_ARABIA</Tag>
+		<English>MBT (M47)</English>
+		<German>
+			<Text>M47</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_AUSTRIA</Tag>
+		<English>MBT (Kampfpanzer M47)</English>
+		<German>
+			<Text>Kampfpanzer M47</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_BERBER</Tag>
+		<English>MBT (M48A3)</English>
+		<German>
+			<Text>M48A3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_GERMANY</Tag>
+		<English>MBT (Kampfpanzer M48A2C)</English>
+		<German>
+			<Text>Kampfpanzer M48A2C</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_GREECE</Tag>
+		<English>MBT (M48A5 MOLF)</English>
+		<German>
+			<Text>M48A5 MOLF</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_ISRAEL</Tag>
+		<English>MBT (E-48)</English>
+		<German>
+			<Text>E-48</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_KOREA</Tag>
+		<English>MBT (M48A3K)</English>
+		<German>
+			<Text>M48A3K</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_TURKEY</Tag>
+		<English>MBT (M48A5T1)</English>
+		<German>
+			<Text>M48A5T1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_PORTUGAL</Tag>
+		<English>MBT (M48A5)</English>
+		<German>
+			<Text>M48A5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_ROME</Tag>
+		<English>MBT (Carro Armato M47)</English>
+		<German>
+			<Text>Carro Armato M47</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_SOUTH_CHINA</Tag>
+		<English>MBT (CM-11)</English>
+		<German>
+			<Text>CM-11</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_SPAIN</Tag>
+		<English>MBT (M48A5E)</English>
+		<German>
+			<Text>M48A5E</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_RUSSIA</Tag>
+		<English>MBT (T-64)</English>
+		<German>
+			<Text>T-64</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_TRANSOXIANA</Tag>
+		<English>MBT (T-64B)</English>
+		<German>
+			<Text>T-64B</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_MONGOL</Tag>
+		<English>MBT (T-54/55)</English>
+		<German>
+			<Text>T-54/55</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_FINLAND</Tag>
+		<English>MBT (T-55 MK)</English>
+		<German>
+			<Text>T-55 MK</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_MAYA</Tag>
+		<English>MBT (T-55 M)</English>
+		<German>
+			<Text>T-55 M</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_INCA</Tag>
+		<English>MBT (Tifon-2)</English>
+		<German>
+			<Text>Tifon-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_JAPAN</Tag>
+		<English>MBT (Type 61)</English>
+		<German>
+			<Text>Typ 61</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_MALI</Tag>
+		<English>MBT (T-54)</English>
+		<German>
+			<Text>T-54</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_POLAND</Tag>
+		<English>MBT (T-55AM Merida)</English>
+		<German>
+			<Text>T-55AM Merida</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_ARMENIA</Tag>
+		<English>MBT (T-55 AK)</English>
+		<German>
+			<Text>T-55 AK</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_ETHIOPIA</Tag>
+		<English>MBT (T-55 M-1)</English>
+		<German>
+			<Text>T-55 M-1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_HUNGARY</Tag>
+		<English>MBT (T-55 A(M))</English>
+		<German>
+			<Text>T-55 A(M)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_UKRAINE</Tag>
+		<English>MBT (T-55 AGM)</English>
+		<German>
+			<Text>T-55 AGM</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_CHINA</Tag>
+		<English>MBT (Type 59)</English>
+		<German>
+			<Text>Type 59</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_PERSIA</Tag>
+		<English>MBT (Safir 74)</English>
+		<German>
+			<Text>Safir 74</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_ARABIA</Tag>
+		<English>MBT (T-54/55)</English>
+		<German>
+			<Text>T-54/55</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_BABYLON</Tag>
+		<English>MBT (T-55 Enigma)</English>
+		<German>
+			<Text>T-55 Enigma</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_MUGHAL</Tag>
+		<English>MBT (Al Zarrar)</English>
+		<German>
+			<Text>Al-Zarrar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_CARTHAGE</Tag>
+		<English>MBT (T-54/55 modified)</English>
+		<German>
+			<Text>Modifizierter T-54/55</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MBT_EGYPT</Tag>
+		<English>MBT (T-55E Ramses II)</English>
+		<German>
+			<Text>T-55E Ramses II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_MBT -->
+		<!-- BEGIN: UNITCLASS_IMPROVED_MBT -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT</Tag>
+		<English>Improved MBT</English>
+		<German>
+			<Text>Verbesserter Kampfpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_VIKING</Tag>
+		<English>Improved MBT (Stridsvagn 103)</English>
+		<German>
+			<Text>Stridsvagn 103</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_ISRAEL</Tag>
+		<English>Improved MBT (Magach 7)</English>
+		<German>
+			<Text>Magach 7</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_CHINA</Tag>
+		<English>Improved MBT (Type 88)</English>
+		<German>
+			<Text>Type 88</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_MUGHAL</Tag>
+		<English>Improved MBT (Al Khalid)</English>
+		<German>
+			<Text>Al-Khalid</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_POLAND</Tag>
+		<English>Improved MBT (T-72M1D)</English>
+		<German>
+			<Text>T-72M1D</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_FINLAND</Tag>
+		<English>Improved MBT (T-72M)</English>
+		<German>
+			<Text>T-72M</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_BABYLON</Tag>
+		<English>Improved MBT (T-72 Asad Babil)</English>
+		<German>
+			<Text>T-72 Asad Babil</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_ARMENIA</Tag>
+		<English>Improved MBT (T-72AV)</English>
+		<German>
+			<Text>T-72AV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_INDIA</Tag>
+		<English>Improved MBT (T-72 Ajeya)</English>
+		<German>
+			<Text>T-72 Ajeya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_MAYA</Tag>
+		<English>Improved MBT (T-72B)</English>
+		<German>
+			<Text>T-72B</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_ETHIOPIA</Tag>
+		<English>Improved MBT (T-72UA1)</English>
+		<German>
+			<Text>T-72UA1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_HUNGARY</Tag>
+		<English>Improved MBT (T-72M1)</English>
+		<German>
+			<Text>T-72M1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_MONGOL</Tag>
+		<English>Improved MBT (T-72)</English>
+		<German>
+			<Text>T-72</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_TRANSOXIANA</Tag>
+		<English>Improved MBT (T-72A)</English>
+		<German>
+			<Text>T-72A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_ENGLAND</Tag>
+		<English>Improved MBT (Chieftain Mk 10)</English>
+		<German>
+			<Text>Chieftain Mk 10</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_FRANCE</Tag>
+		<English>Improved MBT (AMX-30)</English>
+		<German>
+			<Text>AMX-30</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_ARAB</Tag>
+		<English>Improved MBT (AMX-30S)</English>
+		<German>
+			<Text>AMX-30S</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_JAPAN</Tag>
+		<English>Improved MBT (Type 74)</English>
+		<German>
+			<Text>Type 74</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_GERMAN</Tag>
+		<English>Improved MBT (Leopard 1A5)</English>
+		<German>
+			<Text>Leopard 1A5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_GREECE</Tag>
+		<English>Improved MBT (Leopard 1A3 GR)</English>
+		<German>
+			<Text>Leopard 1A3 GR</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_TURKEY</Tag>
+		<English>Improved MBT (Leopard 1T Volkan)</English>
+		<German>
+			<Text>Leopard 1T Volkan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_ROME</Tag>
+		<English>Improved MBT (Leopard 1A2/5)</English>
+		<German>
+			<Text>Leopard 1A2/5</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_DUTCH</Tag>
+		<English>Improved MBT (Leopard 1A2)</English>
+		<German>
+			<Text>Leopard 1A2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_AMERICA</Tag>
+		<English>Improved MBT (M60 Patton)</English>
+		<German>
+			<Text>M60 Patton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_AUSTRIA</Tag>
+		<English>Improved MBT (M60A1)</English>
+		<German>
+			<Text>M60A1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_BERBER</Tag>
+		<English>Improved MBT (M60A3TTS)</English>
+		<German>
+			<Text>M60A3TTS</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_OTTOMAN</Tag>
+		<English>Improved MBT (M60T Sabra)</English>
+		<German>
+			<Text>M60T Sabra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_EGYPT</Tag>
+		<English>Improved MBT (M60A3)</English>
+		<German>
+			<Text>M60A3</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_INCA</Tag>
+		<English>Improved MBT (Tanque Argentino Mediano)</English>
+		<German>
+			<Text>Tanque Argentino Mediano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_PERSIA</Tag>
+		<English>Improved MBT (Zulfiqar)</English>
+		<German>
+			<Text>Zulfiqar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_RUSSIA</Tag>
+		<English>Improved MBT (T-80 A)</English>
+		<German>
+			<Text>T-80 A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_KOREA</Tag>
+		<English>Improved MBT (T-80U)</English>
+		<German>
+			<Text>T-80U</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IMPROVED_MBT_UKRAINE</Tag>
+		<English>Improved MBT (T-84 Oplot-M)</English>
+		<German>
+			<Text>T-84 Oplot-M</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_IMPROVED_MBT -->
+		<!-- BEGIN: UNITCLASS_MODERN_ARMOR -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR</Tag>
+		<English>Modern MBT</English>
+		<German>
+			<Text>Kampfpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_KOREA</Tag>
+		<English>Modern MBT (K2 Black Panther)</English>
+		<German>
+			<Text>K2 Schwarzer Panther</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_BRAZIL</Tag>
+		<English>Modern MBT (EE-T1 Os&#243;rio)</English>
+		<German>
+			<Text>EE-T1 Os&#243;rio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_GERMAN</Tag>
+		<English>Modern MBT (Leopard 2A7)</English>
+		<German>
+			<Text>Leopard 2A7</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_VIKING</Tag>
+		<English>Modern MBT (Stridsvagn 122)</English>
+		<German>
+			<Text>Stridsvagn 122</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_SPAIN</Tag>
+		<English>Modern MBT (Leopard 2E)</English>
+		<German>
+			<Text>Leopard 2E</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_GREECE</Tag>
+		<English>Modern MBT (Leopard 2 HEL)</English>
+		<German>
+			<Text>Leopard 2 HEL</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_HUNGARY</Tag>
+		<English>Modern MBT (Leopard 2A7+)</English>
+		<German>
+			<Text>Leopard 2A7+</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_ZULU</Tag>
+		<English>Modern MBT (Oliphant)</English>
+		<German>
+			<Text>Olifant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_AMERICA</Tag>
+		<English>Modern MBT (Abrams M1A1)</English>
+		<German>
+			<Text>Abrams M1A1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_CHINA</Tag>
+		<English>Modern MBT (Type 99)</English>
+		<German>
+			<Text>Typ 99</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_MUGHAL</Tag>
+		<English>Modern MBT (Al Hyder)</English>
+		<German>
+			<Text>Al Hider</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_FRANCE</Tag>
+		<English>Modern MBT (AMX-56 Leclerc)</English>
+		<German>
+			<Text>AMX-56 Leclerc</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_ROME</Tag>
+		<English>Modern MBT (C1 Ariete)</English>
+		<German>
+			<Text>C1 Ariete</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_RUSSIA</Tag>
+		<English>Modern MBT (T-90A)</English>
+		<German>
+			<Text>T-90A</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_ARMENIA</Tag>
+		<English>Modern MBT (T-90S)</English>
+		<German>
+			<Text>T-90S</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_CARTHAGE</Tag>
+		<English>Modern MBT (T-90SA)</English>
+		<German>
+			<Text>T-90SA</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_INDIA</Tag>
+		<English>Modern MBT (T-90 Bhishma)</English>
+		<German>
+			<Text>T-90 Bhishma</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_JAPAN</Tag>
+		<English>Modern MBT (Type 90)</English>
+		<German>
+			<Text>MBT Typ 90</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_POLAND</Tag>
+		<English>Modern MBT (Leopard 2PL)</English>
+		<German>
+			<Text>Leopard 2PL</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_ISRAEL</Tag>
+		<English>Modern MBT (Merkava)</English>
+		<German>
+			<Text>Merkava</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_ENGLAND</Tag>
+		<English>Modern MBT (Challenger II)</English>
+		<German>
+			<Text>Challenger II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_AUSTRONESIA</Tag>
+		<English>Modern MBT (Leopard 2RI)</English>
+		<German>
+			<Text>Leopard 2RI</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_AUSTRIA</Tag>
+		<English>Modern MBT (Leopard 2A4)</English>
+		<German>
+			<Text>Leopard 2A4</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_DUTCH</Tag>
+		<English>Modern MBT (Leopard 2A6NL)</English>
+		<German>
+			<Text>Leopard 2A6NL</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_PORTUGAL</Tag>
+		<English>Modern MBT (Leopard 2A6)</English>
+		<German>
+			<Text>Leopard 2A6</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_TURKEY</Tag>
+		<English>Modern MBT (Altay)</English>
+		<German>
+			<Text>Altay MBT</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR_FINLAND</Tag>
+		<English>Modern MBT (Leopard 2A4FIN)</English>
+		<German>
+			<Text>Leopard 2A4FIN</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<!-- END:   UNITCLASS_MODERN_ARMOR -->
+	<!-- BEGIN:   UNITCLASS_FLAK -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAK</Tag>
+		<English>Mobile AA</English>
+		<German>
+			<Text>Flugabwehrpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAK_ENGLAND</Tag>
+		<English>Mobile AA (Crusader III AA)</English>
+		<German>
+			<Text>Crusader III AA</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAK_FRANCE</Tag>
+		<English>Mobile AA (25 mm Hotchkiss AA Gun)</English>
+		<German>
+			<Text>Hotchkiss 25-mm-Flugabwehrpanzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAK_GERMANY</Tag>
+		<English>Mobile AA (Flakpanzer IV Wirbelwind)</English>
+		<German>
+			<Text>Flakpanzer IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAK_HUNGARY</Tag>
+		<English>Mobile AA (40M Nimrod)</English>
+		<German>
+			<Text>40M Nimrod</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAK_JAPAN</Tag>
+		<English>Mobile AA (Type 98 Ko-Hi)</English>
+		<German>
+			<Text>Typ 98 20-mm-Flak-Halbkettenfahrzeug</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAK_ROME</Tag>
+		<English>Mobile AA (Autocannone da 90/53)</English>
+		<German>
+			<Text>Semovente 90/53</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAK_RUSSIA</Tag>
+		<English>Mobile AA (ZSU-37)</English>
+		<German>
+			<Text>ZSU-37</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLAK_VIKING</Tag>
+		<English>Mobile AA (Landsverk L-62)</English>
+		<German>
+			<Text>Landsverk L-62</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<!-- END:   UNITCLASS_FLAK -->
+	<!-- BEGIN:   UNITCLASS_EARLY_SAM -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_SAM</Tag>
+		<English>Mobile SAM</English>
+		<German>
+			<Text>FlaRak-Startfahrzeug</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_SAM_AMERICA</Tag>
+		<English>Mobile SAM (MIM-72 Chaparral)</English>
+		<German>
+			<Text>MIM-72 Chaparral</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_SAM_CHINA</Tag>
+		<English>Mobile SAM (HQ-61)</English>
+		<German>
+			<Text>HQ-61</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EARLY_SAM_RUSSIA</Tag>
+		<English>Mobile SAM (S-125 Pechora)</English>
+		<German>
+			<Text>S-125 Pechora</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<!-- END:   UNITCLASS_EARLY_SAM -->
+	<!-- BEGIN:   UNITCLASS_ADVANCED_SAM -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILESAM</Tag>
+		<English>Advanced SAM</English>
+		<German>
+			<Text>Verbessertes FlaRak-Startfahrzeug</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILESAM_AMERICA</Tag>
+		<English>Advanced SAM (MIM-104 Patriot)</English>
+		<German>
+			<Text>MIM-104 Patriot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILESAM_CHINA</Tag>
+		<English>Advanced SAM (HQ-9)</English>
+		<German>
+			<Text>HQ-9</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILESAM_PATRIOT</Tag>
+		<English>Advanced SAM (MIM-104 PAC-2)</English>
+		<German>
+			<Text>MIM-104 PAC-2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILESAM_RUSSIA</Tag>
+		<English>Advanced SAM (S-400 Triumf)</English>
+		<German>
+			<Text>S-400 Triumf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILESAM_S300</Tag>
+		<English>Advanced SAM (S-300)</English>
+		<German>
+			<Text>S-300</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+	</TEXT>	
+	<!-- END:   UNITCLASS_ADVANCED_SAM -->
+</Civ4GameText>

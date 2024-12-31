@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	Great Person Naming
+	Originally by Mexico
+  Converted to BUG module by Josh Sjoding
+-->
+<mod id="GreatPersonNaming" 
+	 name="Great Person Naming" 
+	 author="Mexico?" 
+	 version="1.0" 
+	 date="11/21/2009">
+
+  <event type="greatPersonBorn" module="GreatPersonNaming" function="onGreatPersonBorn"/>
+</mod>

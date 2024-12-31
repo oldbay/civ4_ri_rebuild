@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	Unit Naming
+	Options Game Text
+	Copyright (c) 2009 The BUG Mod.
+-->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__ENABLED_TEXT</Tag>
+		<English>Enabled</English>
+		<German>Aktivieren</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__ENABLED_HOVER</Tag>
+		<English>When checked, uses the formats on this tab and in the INI file to name the player's units.</English>
+		<German>Aktiviert die Benennung eigener Einheiten mit Hilfe der Regeln hier und in der entsprechenden INI-Datei</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__USEADVANCED_TEXT</Tag>
+		<English>Use Advanced Methods</English>
+		<German>Erweitertes System verwenden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__USEADVANCED_HOVER</Tag>
+		<English>When checked, the advanced naming conventions in 'Adv Unit Naming.ini' file will be used  (see ini file for Era_UnitClass options).</English>
+		<German>Verwendet die erweiterten Benennungsregeln, die sich in der Datei "Adv Unit Naming.ini" befinden  (siehe INI-Datei für "Era_UnitClass"-Optionen)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_TEXT</Tag>
+		<English>Naming Convention: DEFAULT</English>
+		<German>Benennungsregel: DEFAULT</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_HOVER</Tag>
+		<English>Enter the user defined naming convention (see help file for further information). Names can be built from plain text and format codes that appear between matching carets (^).[NEWLINE][ICON_BULLET]e.g. "^cv^ ^ut^ from ^ct^" --> "American Archer from Boston"[NEWLINE][BOLD]General Codes[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]civ4[COLOR_REVERT] - Use built-in Civ4 names[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]rd[COLOR_REVERT] - Random name[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]rc[COLOR_REVERT] - Random civ-related name[NEWLINE][BOLD]Unit Info Codes[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ct[COLOR_REVERT] - City where unit was built (e.g. Boston)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cv[COLOR_REVERT] - Civilization that built the unit in adjective form (e.g. American)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ut[COLOR_REVERT] - Unit type (e.g. Archer)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cb[COLOR_REVERT] - Combat type (e.g. Melee)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]dm[COLOR_REVERT] - Domain type (e.g. Water)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ld[COLOR_REVERT] - Leader that built the unit (e.g. Roosevelt)[NEWLINE][BOLD]Counting Codes[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][a][COLOR_REVERT] - Count across all units[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][u][COLOR_REVERT] - Count per unit type[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][c][COLOR_REVERT] - Count per city[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][t][COLOR_REVERT] - Count per unit/city combination[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][b][COLOR_REVERT] - Count per combat type[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][d][COLOR_REVERT] - Count per domain[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]tt1[f][x:y][COLOR_REVERT] - Count up to a number chosen between x and y[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]tt1[f][x][COLOR_REVERT] - Count from x, incrementing each time tt1 code is reset[NEWLINE][NEWLINE]* f in [f] is one of s, A, a, p, g, n, o, r (see help file)</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel (siehe Hilfe-Datei für weitere Information). Die Benennung kann aus Klartext und Formatierungscodes zwischen zwei Zirkumflexen (^) bestehen:[NEWLINE][ICON_BULLET]z.B. "^cv^ ^ut^ aus ^ct^" --> "Amerikanischer Bogenschütze aus Boston"[NEWLINE][BOLD]Allgemeine Codes[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]civ4[COLOR_REVERT] - Standard Civ4-Namen verwenden[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]rd[COLOR_REVERT] - Zufälliger Name[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]rc[COLOR_REVERT] - Zufälliger zivilisationsbezogener Name[NEWLINE][BOLD]Codes für Einheiteninfos[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ct[COLOR_REVERT] - Name der Stadt, die eine Einheit aufgestellt hat (z.B. Boston)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cv[COLOR_REVERT] - Adjektiv der Zivilisation, die eine Einheit aufgestellt hat (z.B. amerikanisch)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ut[COLOR_REVERT] - Einheitentyp (z.B. Bogenschütze)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cb[COLOR_REVERT] - Einheitenklasse (z.B. Nahkampf)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]dm[COLOR_REVERT] - Einsatzgebiet einer Einheit (z.B. Wasser)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ld[COLOR_REVERT] - Name des Oberhaupts, das eine Einheit aufgestellt hat (z.B. Roosevelt)[NEWLINE][BOLD]Nummerierungscodes[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][a][COLOR_REVERT] - Nummerierung über alle Einheiten[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][u][COLOR_REVERT] - Nummerierung über alle Einheiten gleichen Typs[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][c][COLOR_REVERT] - Nummerierung pro Stadt[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][t][COLOR_REVERT] - Nummerierung pro Einheitentyp/Stadt in Kombination[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][b][COLOR_REVERT] - Nummerierung pro Einheitenklasse[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][d][COLOR_REVERT] - Nummerierung pro Einsatzgebiet einer Einheit[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]tt1[f][x:y][COLOR_REVERT] - Nummerierung mit einer festgelegten Zahl zwischen x und y[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]tt2[f][x][COLOR_REVERT] - Nummerierung beginnt mit x und wächst jedes Mal an, wenn der Code tt auf 1 zurückgesetzt wird[NEWLINE][NEWLINE]* f in [f] kann auch s, A, a, p, g, n, o, r sein (siehe Hilfe-Datei)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_AIR_TEXT</Tag>
+		<English>Naming Convention: Combat[AIR]</English>
+		<German>Benennungsregel: Kampf[LUFT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_AIR_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'AIR'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Lufteinheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ARCHER_TEXT</Tag>
+		<English>Naming Convention: Combat[ARCHER]</English>
+		<German>Benennungsregel: Kampf[BOGENSCHÜTZEN]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ARCHER_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'ARCHER'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Bogenschützeneinheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ARMOR_TEXT</Tag>
+		<English>Naming Convention: Combat[ARMOR]</English>
+		<German>Benennungsregel: Kampf[GEPANZERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ARMOR_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'ARMOR'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Gepanzerte Einheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_GUN_TEXT</Tag>
+		<English>Naming Convention: Combat[GUN]</English>
+		<German>Benennungsregel: Kampf[SCHIEßPULVER]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_GUN_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'GUN'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Schießpulvereinheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_HELICOPTER_TEXT</Tag>
+		<English>Naming Convention: Combat[HELICOPTER]</English>
+		<German>Benennungsregel: Kampf[HUBSCHRAUBER]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_HELICOPTER_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'HELICOPTER'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Hubschrauber</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_MELEE_TEXT</Tag>
+		<English>Naming Convention: Combat[MELEE]</English>
+		<German>Benennungsregel: Kampf[NAHKAMPF]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_MELEE_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'MELEE'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Nahkampfeinheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_MOUNTED_TEXT</Tag>
+		<English>Naming Convention: Combat[CHARGE MOUNTED]</English>
+		<German>Benennungsregel: Kampf[BERITTEN]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_MOUNTED_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'MOUNTED'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Berittene Einheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_TEXT</Tag>
+		<English>Naming Convention: Combat[NAVAL]</English>
+		<German>Benennungsregel: Kampf[MARINE]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'NAVAL'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Marineeinheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NONE_TEXT</Tag>
+		<English>Naming Convention: Combat[None]</English>
+		<German>Benennungsregel: Kampf[Keine]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NONE_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'None'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Nicht-Kampfeinheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_RECON_TEXT</Tag>
+		<English>Naming Convention: Combat[RECON]</English>
+		<German>Benennungsregel: Kampf[AUFKLÄRUNG]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_RECON_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'RECON'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Aufklärungseinheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_SIEGE_TEXT</Tag>
+		<English>Naming Convention: Combat[SIEGE]</English>
+		<German>Benennungsregel: Kampf[BELAGERUNG]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_SIEGE_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'SIEGE'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Belagerungswaffen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_MOUNTED_LIGHT_TEXT</Tag>
+		<English>Naming Convention: Combat[RANGED MOUNTED]</English>
+		<German>Benennungsregel: Kampf[BELAGERUNG]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_MOUNTED_LIGHT_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'RANGED MOUNTED'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Belagerungswaffen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_TORPEDO_BOAT_TEXT</Tag>
+		<English>Naming Convention: Combat[TORPEDO BOAT]</English>
+		<German>Benennungsregel: Kampf[BELAGERUNG]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_TORPEDO_BOAT_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'TORPEDO BOAT'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Belagerungswaffen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_DESTROYER_TEXT</Tag>
+		<English>Naming Convention: Combat[DESTROYER]</English>
+		<German>Benennungsregel: Kampf[BELAGERUNG]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_DESTROYER_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'DESTROYER'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Belagerungswaffen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_CRUISER_TEXT</Tag>
+		<English>Naming Convention: Combat[CRUISER]</English>
+		<German>Benennungsregel: Kampf[BELAGERUNG]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_CRUISER_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'CRUISER'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Belagerungswaffen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_CAPITAL_SHIP_TEXT</Tag>
+		<English>Naming Convention: Combat[CAPITAL SHIP]</English>
+		<German>Benennungsregel: Kampf[BELAGERUNG]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_CAPITAL_SHIP_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'CAPITAL SHIP'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Belagerungswaffen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_CARRIER_TEXT</Tag>
+		<English>Naming Convention: Combat[CARRIER]</English>
+		<German>Benennungsregel: Kampf[BELAGERUNG]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_CARRIER_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'CARRIER'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Belagerungswaffen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_SUBMARINE_TEXT</Tag>
+		<English>Naming Convention: Combat[SUBMARINE]</English>
+		<German>Benennungsregel: Kampf[BELAGERUNG]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_SUBMARINE_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'SUBMARINE'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Belagerungswaffen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_SAILING_SHIP_TEXT</Tag>
+		<English>Naming Convention: Combat[SAILING SHIP]</English>
+		<German>Benennungsregel: Kampf[BELAGERUNG]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_SAILING_SHIP_HOVER</Tag>
+		<English>Enter the user defined naming convention for combat units 'SAILING SHIP'.</English>
+		<German>Eingabe der benutzerdefinierten Benennungsregel für Belagerungswaffen</German>
+	</TEXT>	
+</Civ4GameText>

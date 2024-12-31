@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_NEW_BARBIE</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]%s1 has united the Barbarians and formed a new empire![COLOR_REVERT]</English>
+	</TEXT>
+</Civ4GameText>

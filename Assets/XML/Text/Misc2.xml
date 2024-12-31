@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_REVOLUTIONS</Tag>
+		<English>No Revolutions</English>
+    <German>Keine Revolutionen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_REVOLUTIONS_HELP</Tag>
+		<English>Separatism will not be tracked and cities cannot revolt from separatism</English>
+    <German>Der Separatismus wird nicht verfolgt und St&#228;dte k&#246;nnen sich nicht vom Separatismus auflehnen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_BARBARIAN_CIV</Tag>
+		<English>No Barbarian Civs</English>
+    <German>Keine barbarischen Zivilisationen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_BARBARIAN_CIV_HELP</Tag>
+		<English>Barbarians will not settle down to form civilizations</English>
+    <German>Barbaren werden sich nicht niederlassen, um Zivilisationen zu bilden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_TECH_TRANSFER</Tag>
+		<English>No Technology Transfer</English>
+    <German>Kein Technologietransfer</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_TECH_TRANSFER_HELP</Tag>
+		<English>Technologies will not be transferred with open borders</English>
+    <German>Technologien werden nicht &#252;ber Offene Grenzen verbreitet</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_CITY_NAMING</Tag>
+		<English>No Dynamic City Naming</English>
+    <German>Keine dynamische Stadtbenennung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_CITY_NAMING_HELP</Tag>
+		<English>There will be no leader-specific city names, and civilizations will not be renaming cities they take</English>
+    <German>Es wird keine f&#252;hrerspezifischen St&#228;dtenamen geben, und Zivilisationen werden die St&#228;dte, die sie einnehmen, nicht umbenennen</German>
+	</TEXT>
+	<!-- MOD - START - Per City Research Cost -->
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_PER_CITY_RESEARCH_COST</Tag>
+		<English>No Per-City Research Cost</English>
+    <German>Keine Pro-STadt Forschungskosten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_PER_CITY_RESEARCH_COST_HELP</Tag>
+		<English>Technology costs will not increase as a team builds more cities</English>
+    <German>Forschungskosten werden nicht erh&#246;ht, wenn ein Team mehr St&#228;dte baut</German>
+	</TEXT>
+	<!-- MOD - END - Per City Research Cost -->
+	<!-- MOD - START - Optional Unit Cost Scaling -->
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_UNIT_COST_SCALING</Tag>
+		<English>No Unit Cost Scaling</English>
+    <German>Keine Einheitenkosten Skalierung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_UNIT_COST_SCALING_HELP</Tag>
+		<English>The cost of units within a class or role will not increase as more are produced</English>
+    <German>Die Einheitenkosten innerhalb einer Klasse oder Rolle werden nicht erh&#246;ht, wenn mehr davon produziert werden</German>
+	</TEXT>
+	<!-- MOD - END - Optional Unit Cost Scaling -->
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_HOLY_CITY_MIGRATION</Tag>
+		<English>Holy City Migration</English>
+    <German>Heilige Stadt Verlegung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_HOLY_CITY_MIGRATION_HELP</Tag>
+		<English>Holy cities will migrate to more suitable homelands</English>
+    <German>Heilige St&#228;dte werden zu geeigneteren L&#228;ndern verlegt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_RELIGION_SHOCK</Tag>
+		<English>No Religion Shock</English>
+    <German>Kein Religionsschock</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_RELIGION_SHOCK_HELP</Tag>
+		<English>Founding a religion does not wipe out earlier religions around it</English>
+    <German>Die Gr&#252;ndung einer Religion l&#246;scht fr&#252;here Religionen nicht</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_REBELLIONS</Tag>
+		<English>No Slave/Serf Rebellions</English>
+    <German>Keine Sklaven- / Serbenaufst&#228;nde</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_REBELLIONS_HELP</Tag>
+		<English>Under civic of Slavery and Serfdom, no hostile rebel units will spawn</English>
+    <German>Unter Sklaverei und Leibeigenschaft werden keine feindlichen Rebelleneinheiten erscheinen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_DYNAMIC_CIV_NAMES</Tag>
+		<English>No Dynamic Civ Name Changes</English>
+    <German>Keine dynamischen &#196;nderungen des Civ-Namens</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_DYNAMIC_CIV_NAMES_HELP</Tag>
+		<English>Civ names will not change dynamically based on their civics and other factors</English>
+    <German>Zivilisationsnamen &#228;ndern sich nicht dynamisch basierend auf ihrer Zivilisation und anderen Faktoren</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_DYNAMIC_CIV_FLAGS</Tag>
+		<English>No Dynamic Civ Flag Changes</English>
+    <German>Keine dynamischen &#196;nderungen der Staatsflagge</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_DYNAMIC_CIV_FLAGS_HELP</Tag>
+		<English>Civ flags will not change dynamically based on their civics and other factors</English>
+    <German>Staatsb&#252;rgerkennzeichen &#228;ndern sich nicht dynamisch basierend auf ihrer Staatsb&#252;rgerkunde und anderen Faktoren</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_PROTECT_VALUABLE_UNITS</Tag>
+		<English>Protect Valuable Units</English>
+    <German>Wertvolle Einheiten besch&#252;tzen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_PROTECT_VALUABLE_UNITS_HELP</Tag>
+		<English>Valuable units will be witheld from combat when they are badly damaged</English>
+    <German>Wertvolle Einheiten werden werden vor dem Kampf zur&#252;ckgehalten, wenn sie stark besch&#228;digt sind</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_AI_PLAYS_TO_WIN</Tag>
+		<English>AI Plays To Win</English>
+    <German>KI spielt, um zu gewinnen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_AI_PLAYS_TO_WIN_HELP</Tag>
+		<English>AI plays with an understanding of victory conditions and strategies</English>
+    <German>Die KI spielt mit einem Verst&#228;ndnis von Siegbedingungen und Strategien</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_AHEAD</Tag>
+		<English>No Ahead of Time Technology Cost Adjustment</English>
+    <German>Keine vorzeitige Anpassung der Technologiekosten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_NO_AHEAD_HELP</Tag>
+		<English>The cost of technologies will not be adjusted depending on in-game calendar date</English>
+    <German>Die Kosten f&#252;r Technologien werden nicht abhängig vom Kalenderdatum im Spiel angepasst</German>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_IDW</Tag>
+		<English>Influence-Driven War</English>
+    <German>Einflussgetriebener Krieg</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_IDW_HELP</Tag>
+		<English>Combat wins result in culture shifts; defenceless cities with high culture have a chance to spawn irregulars to defend them</English>
+    <German>Kampfsiege f&#252;hren zu kulturellen Veränderungen; wehrlose St&#228;dte mit hoher Kultur haben die Chance, Freisch&#228;rler zu spawnen, um sie zu verteidigen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GRAPHICOPTION_GRAPHICAL_PAGING</Tag>
+		<English>Graphical Paging</English>
+    <German>Grafiken auslagern</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GRAPHICOPTION_GRAPHICAL_PAGING_HELP</Tag>
+		<English>Decreases memory pressure by paging out offscreen graphics</English>
+    <German>Verringert den Arbeitsspeicherdruck, indem Offscreen-Grafiken ausgelagert werden</German>
+	</TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_OPEN_BORDERS_FREE_CITY_COMMERCE</Tag>
+    <English>[ICON_BULLET]%D1%F2 from Open Borders</English>
+    <German>[ICON_BULLET]%D1%F2 durch Offenen Grenzen</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_TECH_TRANSFER_FREE_CITY_COMMERCE</Tag>
+    <English>[ICON_BULLET]%D1%F2 from Tech Transfer</English>
+    <German>[ICON_BULLET]%D1%F2 durch Technologietransfer</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_YIELD_OPEN_BORDERS</Tag>
+    <English>[ICON_BULLET]%D1%%%F2 from Open Borders</English>
+    <German>[ICON_BULLET]%D1%%%F2 durch Offenen Grenzen</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_YIELD_TECH_TRANSFER</Tag>
+    <English>[ICON_BULLET]%D1%%%F2 from Tech Transfer</English>
+    <German>[ICON_BULLET]%D1%%%F2 durch Technologietransfer</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_YIELD_AHEAD_OF_TIME</Tag>
+    <English>[ICON_BULLET]%D1%%%F2 more expensive from being ahead of time</English>
+    <German>[ICON_BULLET]%D1%%%F2 von sein der Zeit voraus</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME</Tag>
+    <English>Current game year: %s1%%</English>
+    <German>%s1%% von sein der Zeit voraus</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_CLAS_AT_100</Tag>
+    <English>[TAB]Classical tech:[TAB][TAB]+100%
+	Medieval tech:[TAB][TAB]+200%
+	Renaissance tech: [TAB][TAB]+300%
+	Industrial tech:[TAB][TAB]+400%
+	Modern tech:[TAB][TAB][TAB]+500%
+	=======================
+	
+	Next change: [TAB][TAB][TAB]2000 BC
+	Classical tech: [TAB][TAB]+50%
+	
+	</English>
+    <German>[TAB] Klassische Technologie: +100%
+	Mittelalterliche Technologie: +200%
+	Renaissance-Technologie: +300%
+	Industrietechnologie: +400%
+	Moderne Technologie: +500%
+	=======================
+
+	Nächste Änderung: 2000 v. Chr
+	Klassische Technologie: +50%</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_CLAS_AT_50</Tag>
+    <English>[TAB]Classical tech:[TAB][TAB]+50%
+	Medieval tech:[TAB][TAB]+200%
+	Renaissance tech: [TAB][TAB]+300%
+	Industrial tech:[TAB][TAB]+400%
+	Modern tech:[TAB][TAB][TAB]+500%
+	=======================
+	
+	Next change: [TAB][TAB][TAB]1200 BC
+	Classical tech: [TAB][TAB]+0%
+	
+	</English>
+    <German>[TAB] Klassische Technologie: +50%
+	Mittelalterliche Technologie: +200%
+	Renaissance-Technologie: +300%
+	Industrietechnologie: +400%
+	Moderne Technologie: +500%
+	=======================
+
+	Nächste Änderung: 1200 v. Chr
+	Klassische Technologie: +0%</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_MED_AT_100</Tag>
+    <English>[TAB]Classical tech:[TAB][TAB]+0%
+	Medieval tech:[TAB][TAB]+100%
+	Renaissance tech: [TAB][TAB]+200%
+	Industrial tech:[TAB][TAB]+300%
+	Modern tech:[TAB][TAB][TAB]+400%
+	=======================
+	
+	Next change: [TAB][TAB][TAB]0 AD
+	Medieval tech: [TAB][TAB][TAB]+50%
+	
+	</English>
+    <German>[TAB] Klassische Technologie: +0%
+	Mittelalterliche Technologie: +100%
+	Renaissance-Technologie: +200%
+	Industrietechnologie: +300%
+	Moderne Technologie: +400%
+	=======================
+
+	Nächste Änderung: 0 n. Chr
+	Mittelalterliche Technologie: +50%</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_MED_AT_50</Tag>
+    <English>[TAB]Classical tech:[TAB][TAB]+0%
+	Medieval tech:[TAB][TAB]+50%
+	Renaissance tech: [TAB][TAB]+200%
+	Industrial tech:[TAB][TAB]+300%
+	Modern tech:[TAB][TAB][TAB]+400%
+	=======================
+	
+	Next change: [TAB][TAB][TAB]400 AD
+	Medieval tech: [TAB][TAB][TAB]+0%
+	
+	</English>
+    <German>[TAB] Klassische Technologie: +0%
+	Mittelalterliche Technologie: +50%
+	Renaissance-Technologie: +200%
+	Industrietechnologie: +300%
+	Moderne Technologie: +400%
+	=======================
+
+	Nächste Änderung: 400 n. Chr
+	Mittelalterliche Technologie: +0%</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_REN_AT_100</Tag>
+    <English>[TAB]Classical tech:[TAB][TAB]+0%
+	Medieval tech:[TAB][TAB]+0%
+	Renaissance tech: [TAB][TAB]+100%
+	Industrial tech:[TAB][TAB]+200%
+	Modern tech:[TAB][TAB][TAB]+300%
+	=======================
+	
+	Next change: [TAB][TAB][TAB]1100 AD
+	Renaissance tech: [TAB][TAB]+50%
+	
+	</English>
+    <German>[TAB] Klassische Technologie: +0%
+	Mittelalterliche Technologie: +0%
+	Renaissance-Technologie: +100%
+	Industrietechnologie: +200%
+	Moderne Technologie: +300%
+	=======================
+
+	Nächste Änderung: 1100 n. Chr
+	Renaissance-Technologie: +50%</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_REN_AT_50</Tag>
+    <English>[TAB]Classical tech:[TAB][TAB]+0%
+	Medieval tech:[TAB][TAB]+0%
+	Renaissance tech: [TAB][TAB]+50%
+	Industrial tech:[TAB][TAB]+200%
+	Modern tech:[TAB][TAB][TAB]+300%
+	=======================
+	
+	Next change: [TAB][TAB][TAB]1400 AD
+	Renaissance tech: [TAB][TAB]+0%
+	
+	</English>
+    <German>[TAB] Klassische Technologie: +0%
+	Mittelalterliche Technologie: +0%
+	Renaissance-Technologie: +50%
+	Industrietechnologie: +200%
+	Moderne Technologie: +300%
+	=======================
+
+	Nächste Änderung: 1400 n. Chr
+	Renaissance-Technologie: +0%</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_IND_AT_100</Tag>
+    <English>[TAB]Classical tech:[TAB][TAB]+0%
+	Medieval tech:[TAB][TAB]+0%
+	Renaissance tech: [TAB][TAB]+0%
+	Industrial tech:[TAB][TAB]+100%
+	Modern tech:[TAB][TAB][TAB]+200%
+	=======================
+	
+	Next change: [TAB][TAB][TAB]1600 AD
+	Industrial tech: [TAB][TAB]+50%
+	
+	</English>
+    <German>[TAB] Klassische Technologie: +0%
+	Mittelalterliche Technologie: +0%
+	Renaissance-Technologie: +0%
+	Industrietechnologie: +100%
+	Moderne Technologie: +200%
+	=======================
+
+	Nächste Änderung: 0 n. Chr
+	Industrietechnologie Technologie: +50%</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_IND_AT_50</Tag>
+    <English>[TAB]Classical tech:[TAB][TAB]+0%
+	Medieval tech:[TAB][TAB]+0%
+	Renaissance tech: [TAB][TAB]+0%
+	Industrial tech:[TAB][TAB]+50%
+	Modern tech:[TAB][TAB][TAB]+200%
+	=======================
+	
+	Next change: [TAB][TAB][TAB]1750 AD
+	Industrial tech: [TAB][TAB]+0%
+	
+	</English>
+    <German>[TAB] Klassische Technologie: +0%
+	Mittelalterliche Technologie: +0%
+	Renaissance-Technologie: +0%
+	Industrietechnologie: +50%
+	Moderne Technologie: +200%
+	=======================
+
+	Nächste Änderung: 1750 n. Chr
+	Industrietechnologie Technologie: +0%</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_MOD_AT_100</Tag>
+    <English>[TAB]Classical tech:[TAB][TAB]+0%
+	Medieval tech:[TAB][TAB]+0%
+	Renaissance tech: [TAB][TAB]+0%
+	Industrial tech:[TAB][TAB]+0%
+	Modern tech:[TAB][TAB][TAB]+100%
+	=======================
+	
+	Next change: [TAB][TAB][TAB]1910 AD
+	Modern tech: [TAB][TAB][TAB]+50%
+	
+	</English>
+    <German>[TAB] Klassische Technologie: +0%
+	Mittelalterliche Technologie: +0%
+	Renaissance-Technologie: +0%
+	Industrietechnologie: +0%
+	Moderne Technologie: +100%
+	=======================
+
+	Nächste Änderung: 1910 n. Chr
+	Moderne Technologie: +50%</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_MOD_AT_50</Tag>
+    <English>[TAB]Classical tech:[TAB][TAB]+0%
+	Medieval tech:[TAB][TAB]+0%
+	Renaissance tech: [TAB][TAB]+0%
+	Industrial tech:[TAB][TAB]+0%
+	Modern tech:[TAB][TAB][TAB]+50%
+	=======================
+	
+	Next change: [TAB][TAB][TAB]1940 AD
+	Modern tech: [TAB][TAB][TAB]+0%
+	
+	</English>
+    <German>[TAB] Klassische Technologie: +0%
+	Mittelalterliche Technologie: +0%
+	Renaissance-Technologie: +0%
+	Industrietechnologie: +0%
+	Moderne Technologie: +50%
+	=======================
+
+	Nächste Änderung: 1940 n. Chr
+	Moderne Technologie: +0%</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_CLAS_50</Tag>
+    <English>[TAB]Turns until change: [TAB]%d1</English>
+    <German>[TAB]Wenden bis zur Änderung: %d1</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_HELP_WIDGET_AHEAD_OF_TIME_NONE</Tag>
+    <English>[TAB]No ahead-of-time tech cost increases apply</English>
+    <German>[TAB]Es gelten keine vorzeitigen technischen Kostensteigerungen </German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_BRON_ERA_AHEAD</Tag>
+    <English>At the height of the Bronze Age, the complex societies begin to create ideas and institutions that will be the basis of all future civilizations (Classical techs ahead of time malus halved)</English>
+    <German>Auf dem H&#246;hepunkt der Bronzezeit beginnen die komplexen Gesellschaften, Ideen und Institutionen zu schaffen, die die Grundlage aller zuk&#252;nftigen Zivilisationen bilden werden (klassische Techniker Zeit-voraus Malus halbiert)</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_CLAS_ERA_AHEAD</Tag>
+    <English>As the knowledge of iron working slowly becomes commonplace, the world emerges from the Bronze Age into the Iron Age (Classical techs no longer ahead of time)</English>
+    <German>Da das Wissen &#252;ber die Eisenverarbeitung langsam allt&#228;glich wird, r&#252;ckt die Welt von der Bronzezeit in die Eisenzeit vor (klassische Techniker sind der Zeit nicht mehr voraus)</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_IMP_ERA_AHEAD</Tag>
+    <English>As the new millenium dawns, grand empires of the Classical age unite vast regions and assimilate great sums of knowledge that humanity will look back to for ages to come (Medieval techs ahead of time malus halved)</English>
+    <German>Mit Beginn des neuen Jahrtausends vereinen gro&#223;e Reiche des klassischen Zeitalters weite Regionen und nehmen gro&#223;e Wissenssummen auf, auf die die Menschheit in den kommenden Zeitaltern zur&#252;ckblicken wird (mittelalterliche Techniker vorzeitig halbiert Malus)</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_MED_ERA_AHEAD</Tag>
+    <English>As old empires give way to the newly founded kingdoms, and feudal hierarchies gradually form, the world enters what will be known as Post-Classical era or the Middle Ages (Medieval techs no longer ahead of time)</English>
+    <German>W&#228;hrend alte Reiche den neu gegr&#252;ndeten K&#246;nigreichen weichen und sich allm&#228;hlich feudale Hierarchien bilden, tritt die Welt in das sogenannte Mittelalter ein (mittelalterliche Techniker sind der Zeit nicht mehr voraus)</German>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_CRUS_ERA_AHEAD</Tag>
+    <English>Vast trade networks, spread of major religions and long-distance warfare at the height of post-classical era facilitate the global spread of knowledge, sowing seeds of further change (Renaissance techs ahead of time malus halved)</English>
+    <German>Riesige Handelsnetzwerke, die Verbreitung gro&#223;er Religionen und Fernkriege auf dem H&#246;hepunkt der postklassischen &#196;ra erleichtern die weltweite Verbreitung von Wissen und s&#228;en Samen f&#252;r weitere Ver&#228;nderungen (Renaissance-Techniker vor Malus halbiert)</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_REN_ERA_AHEAD</Tag>
+    <English>As feudal structures gradually deteriorate, cities grow and the world stands on a precipice of new discoveries, the Early Modern era begins (Renaissance techs no longer ahead of time)</English>
+    <German>W&#228;hrend sich die feudalen Strukturen allm&#228;hlich verschlechtern, die St&#228;dte wachsen und die Welt auf einem Abgrund neuer Entdeckungen steht, beginnt die fr&#252;he Neuzeit (Renaissance-Techniker nicht mehr der Zeit voraus)</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_NAT_ERA_AHEAD</Tag>
+    <English>As technological progess and social change result in an ever-quickening pace of change, the modern concept of statehood begins to crystallize (Industrial techs ahead of time malus halved)</English>
+    <German>Da technologischer Fortschritt und sozialer Wandel zu einem immer schnelleren Wandel f&#252;hren, beginnt sich das moderne Konzept der Staatlichkeit zu kristallisieren (Industrietechniker halbieren Malus vorzeitig)</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_IND_ERA_AHEAD</Tag>
+    <English>As new inventions and discoveries change the very way people view the world and disrupt the old social fabric, Late Modern era dawns (Industrial techs no longer ahead of time)</English>
+    <German>W&#228;hrend neue Erfindungen und Entdeckungen die Sichtweise der Menschen auf die Welt ver&#228;ndern und das alte soziale Gef&#252;ge zerst&#246;ren, bricht die Sp&#228;tmoderne an (Industrietechniker sind nicht mehr der Zeit voraus)</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_WW_ERA_AHEAD</Tag>
+    <English>Rapid advance of the industrial era has ushered an age of unprecedented change; will these advances serve to bring the world closer together through new means of communication and transport, or will the world drown in blood due to new mechanized ways of waging war and the rise of new radical ideologies? (Modern techs ahead of time malus halved)</English>
+    <German>Der rasche Fortschritt des Industriezeitalters hat ein Zeitalter beispielloser Ver&#228;nderungen eingel&#228;utet. Werden diese Fortschritte dazu dienen, die Welt durch neue Kommunikations- und Transportmittel n&#228;her zusammenzubringen, oder wird die Welt aufgrund neuer mechanisierter Kriegsweisen und des Aufstiegs neuer radikaler Ideologien im Blut ertrinken? (Moderne Techniker vorzeitig Malus halbiert)</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_MOD_ERA_AHEAD</Tag>
+    <English>Ever striving forward, the humankind managed to create the greatest wonders and the greatest horrors it has ever known; what lies ahead for the planet? (Modern techs no longer ahead of time)</English>
+    <German>Die Menschheit war stets bem&#252;ht, die gr&#246;ßten Wunder und Schrecken zu erschaffen, die sie je erlebt hat. Was erwartet den Planeten in der Zukunft? (Moderne Techniker sind der Zeit nicht mehr voraus)</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_TECH_ERA</Tag>
+    <English>[ICON_BULLET]%s1_Era Era</English>
+    <German>[ICON_BULLET]%s1_Era Era</German>
+  </TEXT>
+	<!-- MOD - START - Tech Graph -->
+	<TEXT>
+		<Tag>TXT_KEY_ALL_CIVILIZATIONS</Tag>
+		<English>All Civilizations</English>
+    <German>Alle Zivilsationen</German>
+	</TEXT>
+	<!-- MOD - END - Tech Graph -->
+	<TEXT>
+		<Tag>TXT_KEY_TECH_DISCONTINUES</Tag>
+		<!-- s1_Name = Building Name -->
+		<English>[COLOR_WARNING_TEXT]Discontinues [LINK=literal]%s1_Name[\LINK][COLOR_REVERT]</English>
+    <German>[COLOR_WARNING_TEXT]Unterbricht [LINK=literal]%s1_Name[\LINK][COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_DISCONTINUES_NO_LINK</Tag>
+		<!-- s1_Name = Building Name -->
+		<English>[COLOR_WARNING_TEXT]Discontinues %s1_Name[COLOR_REVERT]</English>
+    <German>[COLOR_WARNING_TEXT]Unterbricht %s1_Name[COLOR_REVERT]</German>
+	</TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_DISCONTINUED_WITH</Tag>
+    <!-- s1_Name = Tech Name -->
+    <English>[COLOR_WARNING_TEXT]Discontinued with [LINK=literal]%s1_TechName[\LINK][COLOR_REVERT]</English>
+    <German>[COLOR_WARNING_TEXT]Unterbrochen mit [LINK=literal]%s1_TechName[\LINK][COLOR_REVERT]</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_OBSOLETES</Tag>
+    <!-- s1_Name = Building Name -->
+    <English>[COLOR_WARNING_TEXT]Obsoletes [LINK=%s1_Type]%s2_Name[\LINK][COLOR_REVERT]</English>
+    <German>[COLOR_WARNING_TEXT]Veraltet: [LINK=%s1_Type]%s2_Name[\LINK][COLOR_REVERT]</German></TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OBSOLETE</Tag>
+		<English>[COLOR_WARNING_TEXT]Obsolete[COLOR_REVERT]</English>
+    <German>[COLOR_WARNING_TEXT]Veraltet[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DISABLED</Tag>
+		<English>[COLOR_WARNING_TEXT]Disabled[COLOR_REVERT]</English>
+		<German>[COLOR_WARNING_TEXT]Deaktiviert[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INACTIVE</Tag>
+		<English>[COLOR_WARNING_TEXT]Inactive[COLOR_REVERT]</English>
+		<German>[COLOR_WARNING_TEXT]Inaktiv[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONSUMES</Tag>
+		<English>Requires[SPACE]</English>
+		<German>Verbraucht[SPACE]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRODUCES</Tag>
+		<English>Produces[SPACE]</English>
+		<German>Produziert[SPACE]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AVAILABLE</Tag>
+		<English>available</English>
+		<German>verf&#252;gbar</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WORKER_SPEED_MODIFIER_FASTER</Tag>
+		<English>[ICON_BULLET]Workers Build Improvements %d1_Mod%% Faster</English>
+		<German>[ICON_BULLET]Bautrupps errichten Modernisierungen %d1_Mod%% schneller</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WORKER_SPEED_MODIFIER_SLOWER</Tag>
+		<English>[ICON_BULLET]Workers Build Improvements %d1_Mod%% Slower</English>
+    <German>[ICON_BULLET]Arbeiter bauen Modernisierungen %d1_Mod%% langsamer</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_PRODUCTION_MODIFIER_FASTER</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%d1%% Faster Production of[SPACE]</English>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%d1%% schnellere Produktion f&#252;r:[SPACE]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_PRODUCTION_MODIFIER_SLOWER</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]%d1%% Slower Production of[SPACE]</English>
+    <German>[NEWLINE][SPACE][SPACE][ICON_BULLET]%d1%% Langsamere Produktion f&#252;r:[SPACE]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WORLD_SIZE_DIMENSIONS</Tag>
+		<English>%d1_Width x %d2_Height</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RESEARCH_PERCENT</Tag>
+		<English>[ICON_BULLET]%d1_Percent%% research costs</English>
+    <German>[ICON_BULLET]%d1_Percent%% Forschungskosten</German>
+	</TEXT>
+	<!-- MOD - START - Per City Research Cost -->
+	<TEXT>
+		<Tag>TXT_KEY_PER_CITY_RESEARCH_COST_MODIFIER</Tag>
+		<English>[ICON_BULLET]%d1_Modifier%% increased research cost per city</English>
+    <German>[ICON_BULLET]%d1_Modifier%% erh&#246;ht Forschungskosten pro Stadt</German>
+	</TEXT>
+	<!-- MOD - END - Per City Research Cost -->
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_PROFIT_PERCENT</Tag>
+		<English>[ICON_BULLET]%d1_Percent%% trade profit</English>
+    <German>[ICON_BULLET]%d1_Percent%%Handelsgewinn</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STARTING_FREE_UNITS</Tag>
+		<English>[ICON_BULLET]Free support for %d1_Units units</English>
+    <German>[ICON_BULLET]Freie Unterhaltskosten f&#252;r %d1_Units Einheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COST_PERCENT</Tag>
+		<English>[ICON_BULLET]%d1_Percent%% maintenance costs from units</English>
+    <German>[ICON_BULLET]%d1_Percent%% Unterhaltskosten von Einheiten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DISTANCE_MAINT_PERCENT</Tag>
+		<English>[ICON_BULLET]%d1_Percent%% maintenance costs from distance to palace</English>
+    <German>[ICON_BULLET]%d1_Percent%% Unterhaltskosten wegen Entfernung zum Palast</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NUM_CITIES_MAINT_PERCENT</Tag>
+		<English>[ICON_BULLET]%d1_Percent%% maintenance costs from number of cities</English>
+    <German>[ICON_BULLET]%d1_Percent%% Unterhaltskosten wegen Anzahl der St&#228;dte</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COLONY_MAINT_PERCENT</Tag>
+		<English>[ICON_BULLET]%d1_Percent%% colony maintenance costs</English>
+    <German>[ICON_BULLET]%d1_Percent%% Kolonie Unterhaltskosten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_UPKEEP_PERCENT</Tag>
+		<English>[ICON_BULLET]%d1_Percent%% maintenance costs from civics</English>
+    <German>[ICON_BULLET]%d1_Percent%% Unterhaltskosten durch B&#252;rger</German>
+	</TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_INFLATION_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% inflation</English>
+	<German>[ICON_BULLET]%d1_Percent%% Inflation</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNOWNED_TILES_PER_GAME_ANIMAL</Tag>
+    <English>[ICON_BULLET]Animal density: 1 per %d1_Tiles</English>
+	<German>[ICON_BULLET]Tierdichte: 1 pro %d1_Tiles</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNOWNED_TILES_PER_BARBARIAN_UNIT</Tag>
+    <English>[ICON_BULLET]Barbarian unit density: 1 per %d1_Tiles</English>
+	<German>[ICON_BULLET]Barbareneinheitendichte: 1 pro %d1_Tiles</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNOWNED_WATER_TILES_PER_BARBARIAN_UNIT</Tag>
+    <English>[ICON_BULLET]Barbarian boat density: 1 per %d1_Tiles</English>
+	<German>[ICON_BULLET]Barbarenbootedichte: 1 pro %d1_Tiles</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNOWNED_TILES_PER_BARBARIAN_CITY</Tag>
+    <English>[ICON_BULLET]Barbarian city density: 1 per %d1_Tiles</English>
+	<German>[ICON_BULLET]Barbarenstadtdichte: 1 pro %d1_Tiles</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_TRAIN_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI unit training costs</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Einheiten Produktionskosten</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_WORLD_TRAIN_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI world unit training costs</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Welteinheiten Produktionskosten</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_CONSTRUCT_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI building costs</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Geb&#228;udekosten</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_WORLD_CONSTRUCT_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI world wonder costs</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Weltwunderkosten</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_CREATE_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI project costs</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Projektkosten</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_WORLD_CREATE_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI world project costs</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Weltprojektkosten</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_CIVIC_UPKEEP_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI maintenance costs from civics</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Unterhaltskosten durch B&#252;rger</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_UNIT_COST_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI maintenence costs from units</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Unterhaltskosten durch Einheiten</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_UNIT_SUPPLY_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI unit supply costs</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Einheitenversorgungskosten</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_UNIT_UPGRADE_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI unit upgrade costs</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Einheitenaufwertungskosten</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_AI_INFLATION_PERCENT</Tag>
+    <English>[ICON_BULLET]%d1_Percent%% AI inflation</English>
+	<German>[ICON_BULLET]%d1_Percent%% KI Inflation</German>
+  </TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WAR_WEARINESS_MOD</Tag>
+		<English>[ICON_BULLET]%D1_WarWearMod%% War [ICON_UNHAPPY]</English>
+		<German>[ICON_BULLET]%D1_WarWearMod%% [ICON_UNHAPPY] wegen Krieg</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AI_WAR_WEARINESS_MOD</Tag>
+		<English>[ICON_BULLET]%D1_WarWearMod%% AI War [ICON_UNHAPPY]</English>
+    <German>[ICON_BULLET]%D1_WarWearMod%% KI Krieg [ICON_UNHAPPY]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HANDICAP_AI_ERA_MOD</Tag>
+		<English>[ICON_BULLET]%D1_EraMod%% AI costs per era</English>
+    <German>[ICON_BULLET]%D1_EraMod%% KI Kosten pro &#196;ra</German>
+	</TEXT>
+	<!-- MOD - START - Unit Attack Defense mod -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_MOD_VS_COMBAT</Tag>
+		<!-- %s2_Type = TXT_KEY_UNITCOMBAT_ -->
+		<English>[ICON_BULLET]%D1_Change%% Attack vs. [LINK=%s2_Type]%s3_Name[\LINK]</English>
+		<German>[ICON_BULLET]%D1_Change%% Angriff gegen Einheit [LINK=%s2_Type]%s3_Name[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DEFENSE_MOD_VS_COMBAT</Tag>
+		<!-- %s2_Type = TXT_KEY_UNIT_ -->
+		<English>[ICON_BULLET]%D1_Change%% Defense vs. [LINK=%s2_Type]%s3_Name[\LINK]</English>
+		<German>[ICON_BULLET]%D1_Change%% Verteidigung gegen [LINK=%s2_Type]%s3_Name[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COMBAT_MESSAGE_COMBAT_DEFENSE</Tag>
+		<English>(Combat Defense: %D1%%)</English>
+		<German>(Verteidigung Kampf: %D1%%)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COMBAT_MESSAGE_COMBAT_ATTACK</Tag>
+		<English>(Combat Attack: %D1%%)</English>
+		<German>(Angriff Kampf: %D1%%)</German>
+	</TEXT>
+	<!-- MOD - END - Unit Attack Defense mod -->
+	<!-- MOD - START - Advanced Experience Limits -->
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXTRA_BARBARIAN_XP_VALUE_TEXT</Tag>
+		<English>[ICON_BULLET]Can gain %d1_Change additional experience points from Barbarians</English>
+    <German>[ICON_BULLET]Kann %d1_Change zus&#228;tzliche Erfahrungspunkte von Barbaren erhalten</German>
+	</TEXT>
+	<!-- MOD - END - Advanced Experience Limits -->
+	<!-- MOD - START - Unit Roles -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ROLE_COST_MOD</Tag>
+		<English>Each Unit in Play Increases Role Costs by %d1%%</English>
+    <German>Jede Einheit im Spiel erh&#246;ht die Rollenkosten um %d1%%</German>
+	</TEXT>
+	<!-- MOD - END - Unit Roles -->
+	<TEXT>
+		<Tag>TXT_KEY_MISC_GP_BORN</Tag>
+		<English>%s2_CityName is now home to %s1_GPName!</English>
+		<German>Die Gro&#223;e Pers&#246;nlichkeit %s1_GPName wurde in %s2_CityName geboren!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_GP_BORN_SOMEWHERE</Tag>
+		<English>A faraway city became the home of %s1_GPName!</English>
+		<German>Die Gro&#223;e Pers&#246;nlichkeit %s1_GPName wurde in einem fernen Land geboren!</German>
+	</TEXT>
+	<!-- MOD - START - Fresh Water Aquifers -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROVIDES_FRESH_WATER</Tag>
+		<English>[NEWLINE][ICON_BULLET]Provides a source of Fresh Water</English>
+    <German>[NEWLINE][ICON_BULLET]Stellt eine Frischwasserquelle zur Verf&#252;gung</German>
+	</TEXT>
+	<!-- MOD - END - Fresh Water Aquifers -->
+	<!-- MOD - START - Advanced Yield and Commerce Effects -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FROM_SOURCE_ALL_CITIES</Tag>
+		<English>[SPACE]to [COLOR_UNIT_TEXT][LINK=literal]%s1_SourceName[\LINK][COLOR_REVERT] in All Cities</English>
+    <German>[SPACE]zu [COLOR_UNIT_TEXT][LINK=literal]%s1_SourceName[\LINK][COLOR_REVERT] in allen St&#228;dten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FROM_SOURCE</Tag>
+		<English>[SPACE]to [COLOR_UNIT_TEXT][LINK=literal]%s1_SourceName[\LINK][COLOR_REVERT]</English>
+    <German>[SPACE]zu [COLOR_UNIT_TEXT][LINK=literal]%s1_SourceName[\LINK][COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FROM_BUILDING</Tag>
+		<English>[SPACE]from [COLOR_BUILDING_TEXT][LINK=literal]%s1_BuildingName[\LINK][COLOR_REVERT]</English>
+    <German>[SPACE]von [COLOR_BUILDING_TEXT][LINK=literal]%s1_BuildingName[\LINK][COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FROM_BUILDING_ALL_CITIES</Tag>
+		<English>[SPACE]from [COLOR_BUILDING_TEXT][LINK=literal]%s1_BuildingName[\LINK][COLOR_REVERT] in All Cities</English>
+    <German>[SPACE]von [COLOR_BUILDING_TEXT][LINK=literal]%s1_BuildingName[\LINK][COLOR_REVERT] in allen St&#228;dten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_CHANGE_FROM</Tag>
+		<English>[ICON_BULLET]%D1_Change%F2_Icon from[SPACE]</English>
+		<German>[ICON_BULLET]%D1_Change%F2_Icon durch die Modernisierung[SPACE]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COMMERCE_CHANGE_FROM</Tag>
+		<English>[ICON_BULLET]%D1_Change%F2_Icon from[SPACE]</English>
+		<German>[ICON_BULLET]%D1_Change%F2_Icon durch die Modernisierung[SPACE]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ALL_CITIES</Tag>
+		<English>[SPACE](All Cities)</English>
+    <German>[SPACE](Alle St&#228;dte)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_TECH_EFFECT</Tag>
+		<English>[LINK=literal]%s1_CivicName[\LINK]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_TRAIT_EFFECT</Tag>
+		<English>[LINK=literal]%s1_TraitName[\LINK]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_CIVIC_EFFECT</Tag>
+		<English>[LINK=literal]%s1_CivicName[\LINK]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_BUILDING_EFFECT</Tag>
+		<English>[COLOR_BUILDING_TEXT][LINK=literal]%s1_BuildingName[\LINK][COLOR_REVERT]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_BUILDING_EFFECT_ALL_CITIES</Tag>
+		<English>[COLOR_BUILDING_TEXT][LINK=literal]%s1_BuildingName[\LINK][COLOR_REVERT] (All Cities)</English>
+    <German>[COLOR_BUILDING_TEXT][LINK=literal]%s1_BuildingName[\LINK][COLOR_REVERT] (Alle St&#228;dte)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ROUTE_EFFECT</Tag>
+		<English>[LINK=literal]%s1_RouteName[\LINK]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_WITH_IRRIGATION_QUALIFIER</Tag>
+		<English>(with Irrigation)</English>
+    <German>(mit Bew&#228;sserung)</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_WITH_IRRIGATION_WITH_TECH</Tag>
+		<English>[SPACE]with Irrigation and [LINK=%s1_TechType][COLOR_TECH_TEXT]%s2_TechName[COLOR_REVERT][\LINK]</English>
+    <German>[SPACE]mit Bew&#228;sserung und [LINK=%s1_TechType][COLOR_TECH_TEXT]%s2_TechName[COLOR_REVERT][\LINK]</German>
+	</TEXT>
+	<!-- MOD - END - Advanced Yield and Commerce Effects -->
+	<!-- MOD - START - Unlimited Conscription -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UNLIMITED_CONSCRIPTION_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]Can draft an unlimited number of units</English>
+    <German>[ICON_BULLET]Kann eine unbegrenzte Anzahl von Einheiten erstellen</German>
+	</TEXT>
+	<!-- MOD - END - Unlimited Conscription -->
+	<!-- MOD - START - Wartime Conscription -->
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WARTIME_CONSCRIPTION</Tag>
+		<English>[ICON_BULLET]Conscripts %d1 [NUM1:unit:units] upon declaration of war</English>
+    <German>[ICON_BULLET]%d1 [NUM1:unit:units] nach Kriegserkl&#228;rung einberufen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WARTIME_CONSCRIPTION_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]Conscripts %d1 [NUM1:unit:units] in all cities upon declaration of war</English>
+    <German>[ICON_BULLET]%d1 [NUM1:unit:units] in allen St&#228;dten nach Kriegserkl&#228;rung einberufen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_OUR_UNITS_CONSCRIPTED_FOR_WAR</Tag>
+		<English>Our people have heard the call of the motherland! %d1_UnitsConscripted [NUM1:unit has:units have] been drafted for our war with %s2_EnemyTeamName!</English>
+    <German>Unsere Leute haben den Ruf des Mutterlandes geh&#246;rt! %d1_UnitsConscripted [NUM1:unit has:units have] wurden f&#252;r unseren Krieg mit %s2_EnemyTeamName entworfen!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ENEMY_UNITS_CONSCRIPTED_FOR_WAR</Tag>
+		<English>The %s1_EnemyCivAdjective people have rallied troops for their war with us!</English>
+    <German>Die %s1_EnemyCivAdjective Leute haben Truppen f&#252;r ihren Krieg mit uns gesammelt!</German>
+	</TEXT>
+	<!-- MOD - END - Wartime Conscription -->
+	<!-- MOD - START - Feature Damage Immunity -->
+	<TEXT>
+		<Tag>TXT_KEY_MISC_FEATURE_DAMAGE_IMMUNITY</Tag>
+		<English>[ICON_BULLET]Immune to damage from</English>
+    <German>[ICON_BULLET]Immun gegen Schaden von</German>
+	</TEXT>
+	<!-- MOD - END - Feature Damage Immunity -->
+	<TEXT>
+		<Tag>TXT_KEY_MISC_CIV_DESTROYED</Tag>
+		<English>The %s1_CivAdj civilization has been conquered!!</English>
+		<German>Die %s1:3_CivAdj Zivilisation wurde erobert!!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ANGER_OCCUPIED</Tag>
+		<English>+%d1_Change[ICON_UNHAPPY]: "We resent being ruled by a foreign culture."</English>
+		<German>+%d1_Change[ICON_UNHAPPY]: "Wir lehnen es ab, von einer fremden Kultur beherrscht zu werden."</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EXCLUSIVE</Tag>
+		<English>[COLOR_WARNING_TEXT]Only one [LINK=literal]%s1_Special[\LINK] per city[COLOR_REVERT]</English>
+		<German>[COLOR_WARNING_TEXT]Veraltet durch die Technologie [LINK=literal]%s1_TechName[\LINK][COLOR_REVERT]</German>
+	</TEXT>
+	  <TEXT>
+    <Tag>TXT_KEY_MISC_YOU_UNIT_DESTROYED_ROUTE</Tag>
+    <English>Your %s1_UnitName has destroyed a %s2_RouteName!</English>
+    <German>Eure Einheit %s1_UnitName hat eine Modernisierung %s2_RouteName zerst&#246;rt!</German></TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_YOU_ROUTE_WAS_DESTROYED</Tag>
+    <English>A %s1_RouteName has been destroyed by a %s3_civ_adjective %s2_UnitName!</English>
+    <German>Eine Modernisierung %s1_RouteName wurde zerst&#246;rt - %s2_UnitName (%s3_civ_adjective)!</German></TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_YOU_UNIT_FAIL_DESTROY_ROUTE</Tag>
+    <English>Your %s1_UnitName has failed to destroy the %s2_RouteName!</English>
+    <German>Eurer Einheit %s1_UnitName ist es nicht gelungen, die Modernisierung %s2_RouteName zu zerst&#246;ren!</German></TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_INTERFACEMODE_AIRBOMB_HELP</Tag>
+    <English>Order the air unit to bomb the city, improvement or route in the selected tile</English>
+    <German>Order the air unit to bomb the city, improvement or route in the selected tile</German></TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_ENEMY_POP_REDUCED_TO</Tag>
+    <English>Our %s1 reduced the population of %s2 to %d3</English>
+    <German>Unser %s1 hat die Bevölkerung von %s2 auf %d3 reduziert</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MISC_YOU_POP_REDUCED_TO</Tag>
+    <English>The population of %s2 was reduced to %d3 by enemy %s1!</English>
+    <German>Die Bevölkerung von %s2 wurde durch feindliche %s1 auf %d3 reduziert!</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PLOT_NUCLEAR_WINTER_EFFECT</Tag>
+    <English>Nuclear winter effect</English>
+    <German>Nuklearer Wintereffekt</German>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_NUCLEAR_WINTER_UNHEALTHINESS</Tag>
+    <English>+%d1_Change[ICON_UNHEALTHY]: "We feel the effects of nuclear winter!"</English>
+    <German>+%d1_Change[ICON_UNHEALTHY]: "Wir spüren die Auswirkungen des nuklearen Winters!"</German>
+  </TEXT>
+  <TEXT>
+		<Tag>TXT_KEY_BUILDING_GOLD_PER_GLOBAL</Tag>
+		<English>[SPACE]Up to %d1[ICON_GOLD] per turn (based on map size)</English>
+		<German>[SPACE]pro Stadt mit der Religion %F1_RelIcon</German>
+	</TEXT>   
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RELIGION_PERCENTAGE_WITH</Tag>
+		<English>[SPACE]from world % of %F1_RelIcon</English>
+		<German>[SPACE]pro Stadt mit der Religion %F1_RelIcon</German>
+	</TEXT>  
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_DIFFERENT_IDEOLOGY_THEMCOM</Tag>
+		<English>%D1: "You are an enemy of the free world."</English>
+		<German>%D1: "Sie sind Feinde der freien Welt."</German>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_DIFFERENT_IDEOLOGY_USCOM</Tag>
+		<English>%D1: "You are an enemy of the working class."</English>
+		<German>%D1: "Sie sind Feinde der Arbeiterklasse."</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REQUIRES_RIVER</Tag>
+		<English>[NEWLINE][ICON_BULLET]Requires River</English>
+		<German>[NEWLINE][ICON_BULLET]Erfordert Fluss</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REQUIRES_WATER</Tag>
+		<English>[NEWLINE][ICON_BULLET]Requires Coast</English>
+		<German>[NEWLINE][ICON_BULLET]Erfordert Küste</German>
+	</TEXT>		
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATURAL_DEFENSE_MOD</Tag>
+		<English>[ICON_BULLET]%d1_Mod%% Defense (Against All Units)</English>
+		<French>[ICON_BULLET]%d1_Mod%% en d&#233;fense (Contre toutes les unit&#233;s)</French>
+		<German>[ICON_BULLET]%d1_Mod%% Verteidigung (gegen alle Einheiten)</German>
+		<Italian>[ICON_BULLET]%d1_Mod%% alla difesa (Contro tutte le unità)</Italian>
+		<Spanish>[ICON_BULLET]%d1_Mod%% a la defensa (Contra todas las unidades)</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_MISC_FREE_BARBARIAN_WIN</Tag>
+		<English>Your %s1_UnitName has miraculously prevailed over a %s3_owner_adjective %s2_EnUName!</English>
+		<German>Eure Einheit %s1_UnitName hat sich wie durch ein Wunder gegen ein %s2_EnUName (%s3_owner_adjective) durchgesetzt!</German>
+	</TEXT>	
+</Civ4GameText>
