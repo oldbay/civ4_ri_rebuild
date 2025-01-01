@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------------------------
 //  Copyright (c) 2003 Firaxis Games, Inc. All rights reserved.
 //------------------------------------------------------------------------------------------------
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CvInfos.h"
 #include "CvGlobals.h"
 #include "CvArtFileMgr.h"

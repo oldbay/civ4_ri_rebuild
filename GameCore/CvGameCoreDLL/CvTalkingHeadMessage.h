@@ -3,6 +3,8 @@
 #ifndef TALKINGHEADMESSAGE_H
 #define TALKINGHEADMESSAGE_H
 
+#include "CvGameCoreDLL.h"
+
 class CvTalkingHeadMessage
 {
 public:

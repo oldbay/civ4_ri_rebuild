@@ -5,6 +5,7 @@
 #ifndef CIV4_TEAM_AI_H
 #define CIV4_TEAM_AI_H
 
+#include "CvGameCoreDLL.h"
 #include "CvTeam.h"
 
 class CvTeamAI : public CvTeam
@@ -95,7 +96,7 @@ public:
 	int AI_startWarVal(TeamTypes eTarget, WarPlanTypes eWarPlan) const; // K-Mod
 	int AI_endWarVal(TeamTypes eTeam) const;
 
-	int CvTeamAI::AI_knownTechValModifier(TechTypes eTech) const; // K-Mod
+    int AI_knownTechValModifier(TechTypes eTech) const; // K-Mod
 
 	int AI_techTradeVal(TechTypes eTech, TeamTypes eTeam) const;
 	DenialTypes AI_techTrade(TechTypes eTech, TeamTypes eTeam) const;

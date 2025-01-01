@@ -1,6 +1,6 @@
 // teamAI.cpp
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CvTeamAI.h"
 #include "CvPlayerAI.h"
 #include "CvRandom.h"

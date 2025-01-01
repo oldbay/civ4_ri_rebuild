@@ -25,7 +25,10 @@
 CvGlobals.h
 CvGlobals.cpp
 
-Выяснить работу _USRDLL !
+
+Ошибки headers
+--------------
+CvFractal.h - ?
 
 
 

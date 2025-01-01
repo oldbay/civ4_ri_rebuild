@@ -5,7 +5,10 @@
 
 #include <string>
 #include "CvGameCoreDLL.h"
+
+#if not defined(__GNUC__)
 #pragma warning( disable: 4251 )		// needs to have dll-interface to be used by clients of class
+#endif
 
 //
 // simple string classes, based on stl, but with a few helpers
@@ -43,9 +46,10 @@ public:
 			int iLen = strlen(s);
 			if (iLen)
 			{
-				wchar *w = new wchar[iLen+1];
-				swprintf(w, L"%S", s);	// convert
-				assign(w);
+                wchar *w = new wchar[iLen+1];
+                //swprintf(w, L"%S", s);	// convert
+                swprintf(w, iLen, L"%S", s);	// convert
+                assign(w);
 				delete [] w;
 			}
 		}
@@ -245,9 +249,14 @@ public:
 	// FString compatibility
 	bool IsEmpty() const { return empty();	}
 	const char* GetCString() const 	{ return c_str(); }							// convert
-	int CompareNoCase( const char* lpsz ) const { return _stricmp(lpsz, c_str()); }
-	int CompareNoCase( const char* lpsz, int iLength ) const { return _strnicmp(lpsz, c_str(), iLength);  }
-	void Format( LPCSTR lpszFormat, ... );
+#if defined(__GNUC__)
+    int CompareNoCase( const char* lpsz ) const { return strcasecmp(lpsz, c_str()); }
+    int CompareNoCase( const char* lpsz, int iLength ) const { return strncasecmp(lpsz, c_str(), iLength);  }
+#else
+    int CompareNoCase( const char* lpsz ) const { return _stricmp(lpsz, c_str()); }
+    int CompareNoCase( const char* lpsz, int iLength ) const { return _strnicmp(lpsz, c_str(), iLength);  }
+#endif
+    void Format( LPCSTR lpszFormat, ... );
 	int GetLength() const { return size(); }
 	int Replace( char chOld, char chNew );
 
@@ -318,7 +327,11 @@ inline bool CvString::formatv(std::string & out, const char * fmt, va_list args)
 	do
 	{
 		int maxlen = 2047+2048*attempts;
-		len = _vsnprintf(pbuf,maxlen,fmt,args);
+#if defined(__GNUC__)
+        len = vsnprintf(pbuf,maxlen,fmt,args);
+#else
+        len = _vsnprintf(pbuf,maxlen,fmt,args);
+#endif
 		attempts++;
 		success = (len>=0 && len<=maxlen);
 		if (!success)
@@ -361,7 +374,11 @@ inline bool CvWString::formatv(std::wstring & out, const wchar * fmt, va_list ar
 	do
 	{
 		int maxlen = 2047+2048*attempts;
-		len = _vsnwprintf(pbuf,maxlen,fmt,args);
+#if defined(__GNUC__)
+        len = vswprintf(pbuf,maxlen,fmt,args);
+#else
+        len = _vsnwprintf(pbuf,maxlen,fmt,args);
+#endif
 		attempts++;
 		success = (len>=0 && len<=maxlen);
 		if (!success)

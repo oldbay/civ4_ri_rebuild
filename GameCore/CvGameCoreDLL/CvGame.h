@@ -522,8 +522,8 @@ public:
 	int getReplayMessagePlotX(uint i) const;
 	int getReplayMessagePlotY(uint i) const;
 	PlayerTypes getReplayMessagePlayer(uint i) const;
-	LPCWSTR getReplayMessageText(uint i) const;
-	uint getNumReplayMessages() const;
+    LPCWSTR getReplayMessageText(uint i) const;
+    uint getNumReplayMessages() const;
 	ColorTypes getReplayMessageColor(uint i) const;
 
 	virtual void read(FDataStreamBase* pStream);
@@ -764,8 +764,12 @@ protected:
 	int m_iNumSessions;
 
 	std::vector<PlotExtraYield> m_aPlotExtraYields;
-	std::vector<PlotExtraCost> m_aPlotExtraCosts;
-	stdext::hash_map<VoteSourceTypes, ReligionTypes> m_mapVoteSourceReligions;
+    std::vector<PlotExtraCost> m_aPlotExtraCosts;
+#if defined(__GNUC__)
+    using m_mapVoteSourceReligions = std::unordered_map<VoteSourceTypes, ReligionTypes>;
+#else
+    stdext::hash_map<VoteSourceTypes, ReligionTypes> m_mapVoteSourceReligions;
+#endif
 	std::vector<EventTriggerTypes> m_aeInactiveTriggers;
 
 	// CACHE: cache frequently used values

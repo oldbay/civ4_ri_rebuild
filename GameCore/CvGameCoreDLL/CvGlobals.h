@@ -922,7 +922,8 @@ public:
 	int getUSE_ON_UNIT_SELECTED_CALLBACK();
 	int getUSE_ON_UPDATE_CALLBACK();
 	int getUSE_ON_UNIT_CREATED_CALLBACK();
-	int getUSE_ON_UNIT_LOST_CALLBACK();
+    int getUSE_ON_UNIT_LOST_CALLBACK();
+
 	// K-Mod
 	inline bool getUSE_AI_UNIT_UPDATE_CALLBACK() { return m_bUSE_AI_UNIT_UPDATE_CALLBACK; }
 	inline bool getUSE_AI_DO_DIPLO_CALLBACK() { return m_bUSE_AI_DO_DIPLO_CALLBACK; }
@@ -946,15 +947,15 @@ public:
 #if defined(__GNUC__)
     // TO DOO - need detect press keys in linux!!!
     // more reliable versions of the 'gDLL->xxxKey' functions:
-    inline bool altKey() { return (true & 0x8000); }
-    inline bool ctrlKey() { return (true & 0x8000); }
-    inline bool shiftKey() { return (true & 0x8000); }
+    inline bool altKey() { return (false & 0x8000); }
+    inline bool ctrlKey() { return (false & 0x8000); }
+    inline bool shiftKey() { return (false & 0x8000); }
     // MOD - START - Aid and Detriments
-    inline bool spaceKey() { return (true & 0x8000); }
+    inline bool spaceKey() { return (false & 0x8000); }
     // MOD - END - Aid and Detriments
     // NOTE: I've replaced all calls to the gDLL key functions with calls to these functions.
 
-    inline bool suppressCycling() { return (true & 0x8000); } // hold X to temporarily suppress automatic unit cycling.
+    inline bool suppressCycling() { return (false & 0x8000); } // hold X to temporarily suppress automatic unit cycling.
 #else
     // more reliable versions of the 'gDLL->xxxKey' functions:
 	inline bool altKey() { return (GetKeyState(VK_MENU) & 0x8000); }
@@ -966,8 +967,8 @@ public:
 	// NOTE: I've replaced all calls to the gDLL key functions with calls to these functions.
 
 	inline bool suppressCycling() { return (GetKeyState('X') & 0x8000); } // hold X to temporarily suppress automatic unit cycling.
-    // K-Mod end
 #endif
+    // K-Mod end
 
 	DllExport int getMAX_CIV_PLAYERS();
 	int getMAX_PLAYERS();

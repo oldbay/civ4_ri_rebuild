@@ -24,6 +24,9 @@
 //
 // Stream abstract base class
 //
+
+#include "CvGameCoreDLL.h"
+
 class FDataStreamBase
 {
 public:

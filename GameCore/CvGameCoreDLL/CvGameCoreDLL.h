@@ -12,9 +12,20 @@
 #include <iostream>
 #include <unordered_map>
 #include <vector>
+#include <cstring>
+#include <inttypes.h>
 #include <stdint.h>
+#include <stddef.h>
 
-#ifdef UNICODE //replace tchar.h
+//DWORD
+#define DWORD uint32_t
+
+//__int64
+//#define __int64 int
+#define __int64 int64_t
+
+//replace tchar.h
+#ifdef UNICODE
 #define _tcslen     wcslen
 #define _tcscpy     wcscpy
 #define _tcscpy_s   wcscpy_s
@@ -33,6 +44,13 @@
 #define _vstprintf      vswprintf
 #define _tscanf     wscanf
 #define TCHAR wchar_t
+//??
+#define LPSTR char*
+#define LPCSTR const char*
+#define LPWSTR wchar_t*
+#define LPCWSTR const wchar_t*
+#define LPTSTR wchar_t*
+#define LPCTSTR const wchar_t*
 
 #else
 
@@ -54,7 +72,23 @@
 #define _vstprintf      vsprintf
 #define _tscanf     scanf
 #define TCHAR char
-#endif //end replace tchar
+//??
+#define LPSTR char*
+#define LPCSTR const char*
+#define LPWSTR wchar_t*
+#define LPCWSTR const wchar_t*
+#define LPTSTR char*
+#define LPCTSTR const char*
+#endif
+//end replace tchar
+
+//POINT
+struct POINT {
+    double x, y;
+};
+
+//__forceinline
+#define __forceinline __attribute__((always_inline))
 
 #else
 #pragma warning( disable: 4530 )	// C++ exception handler used, but unwind semantics are not enabled
@@ -62,7 +96,7 @@
 #include <windows.h>
 #include <MMSystem.h>
 #include <tchar.h>
-#endif
+#endif //OS Select
 
 #if defined _DEBUG && !defined USE_MEMMANAGER
 #define USE_MEMMANAGER
@@ -173,12 +207,12 @@ namespace NiAnimationKey
 	};
 };
 
+
 #if defined(__GNUC__)
-typedef unsigned int qword;
+typedef unsigned int qword; //???
 #else
 typedef unsigned __int64 qword;
-#endif //Os Select
-
+#endif
 typedef unsigned char    byte;
 typedef unsigned short   word;
 typedef unsigned int     uint;
@@ -208,15 +242,9 @@ typedef wchar_t          wchar;
 #define M_PI       3.14159265358979323846
 #define fM_PI		3.141592654f		//!< Pi (float)
 
-#if defined(__GNUC__)
-inline uint32_t FtoDW( float f ) { return *(uint32_t*)&f; }
-inline float DWtoF( dword n ) { return *(float*)&n; }
-inline float MaxFloat() { return DWtoF(0x7f7fffff); }
-#else
 __forceinline DWORD FtoDW( float f ) { return *(DWORD*)&f; }
 __forceinline float DWtoF( dword n ) { return *(float*)&n; }
 __forceinline float MaxFloat() { return DWtoF(0x7f7fffff); }
-#endif
 
 void startProfilingDLL(bool longLived);
 void stopProfilingDLL(bool longLived);

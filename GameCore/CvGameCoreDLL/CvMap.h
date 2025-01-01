@@ -236,17 +236,17 @@ public:
 	DllExport CvPlot* plot(int iX, int iY) const;													// Exposed to Python
 #if (defined(__GNUC__) || defined(_USRDLL))
 //#ifdef _USRDLL
-	__forceinline CvPlot* plotINLINE(int iX, int iY) const
+    __forceinline CvPlot* plotINLINE(int iX, int iY) const
 	{
 		if ((iX == INVALID_PLOT_COORD) || (iY == INVALID_PLOT_COORD))
 		{
-			return NULL;
+            return NULL;
 		}
 		int iMapX = coordRange(iX, getGridWidthINLINE(), isWrapXINLINE());
 		int iMapY = coordRange(iY, getGridHeightINLINE(), isWrapYINLINE());
 		return ((isPlotINLINE(iMapX, iMapY)) ? &(m_pMapPlots[plotNumINLINE(iMapX, iMapY)]) : NULL);
 	}
-	__forceinline CvPlot* plotSorenINLINE(int iX, int iY) const
+    __forceinline CvPlot* plotSorenINLINE(int iX, int iY) const
 	{
 		if ((iX == INVALID_PLOT_COORD) || (iY == INVALID_PLOT_COORD))
 		{
@@ -278,13 +278,13 @@ public:
 	void invalidateBorderDangerCache(TeamTypes eTeam);
 
 	// MOD - Fort indexing
-	void CvMap::insertFort(XYCoords xy);
-	void CvMap::deleteFort(XYCoords xy);
-	CLLNode<XYCoords>* CvMap::deleteFortsNode(CLLNode<XYCoords>* pNode);
-	CLLNode<XYCoords>* CvMap::nextFortsNode(CLLNode<XYCoords>* pNode) const;
-	int CvMap::getLengthForts() const;
-	CLLNode<XYCoords>* CvMap::headFortsNode() const;
-	void CvMap::rebuildFortIndex();
+    void insertFort(XYCoords xy);
+    void deleteFort(XYCoords xy);
+    CLLNode<XYCoords>* deleteFortsNode(CLLNode<XYCoords>* pNode);
+    CLLNode<XYCoords>* nextFortsNode(CLLNode<XYCoords>* pNode) const;
+    int getLengthForts() const;
+    CLLNode<XYCoords>* headFortsNode() const;
+    void rebuildFortIndex();
 	// MOD - END - Fort indexing
 
 	// Serialization:

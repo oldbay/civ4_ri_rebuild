@@ -19,6 +19,8 @@
 #define		FFREELISTARRAYBASE_H
 #pragma		once
 
+#include "CvGameCoreDLL.h"
+
 namespace FFreeList
 {
 	enum
@@ -58,7 +60,8 @@ public:
 	// Returns the number of elements in the array (NOTE: this is a non-packed array, so this value is NOT the last iIndex in the array...)
 	int getCount()	const {	return m_iLastIndex - m_iFreeListCount + 1;	}
 
-	virtual void removeAll() = 0;
+    virtual void removeAll() = 0;
+
 protected:
 	int m_iFreeListHead;
 	int m_iFreeListCount;

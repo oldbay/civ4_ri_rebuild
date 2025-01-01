@@ -110,9 +110,16 @@ public:
 	}
 
 	void Read( FDataStreamBase* pStream );
-	void Write( FDataStreamBase* pStream );
+    void Write( FDataStreamBase* pStream );
+
+    using FFreeListArrayBase<T>::getCount;
+    using FFreeListArrayBase<T>::getIndexAfterLast;
 
 protected:
+    using FFreeListArrayBase<T>::m_iFreeListHead;
+    using FFreeListArrayBase<T>::m_iFreeListCount;
+    using FFreeListArrayBase<T>::m_iLastIndex;
+    using FFreeListArrayBase<T>::m_iNumSlots;
 
 	struct FFreeListTrashArrayNode
 	{

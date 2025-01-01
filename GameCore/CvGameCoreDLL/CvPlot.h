@@ -9,7 +9,9 @@
 #include "LinkedList.h"
 #include <bitset>
 
+#if not defined(__GNUC__)
 #pragma warning( disable: 4251 )		// needs to have dll-interface to be used by clients of class
+#endif
 
 class CvArea;
 class CvMap;
@@ -98,8 +100,9 @@ public:
 	// MOD - END - Bonus Converters
 
 	// MOD - START - Fort indexing
-	void CvPlot::updateFortIndex();
-	// MOD - END - Fort indexing
+    //void CvPlot::updateFortIndex();
+    void updateFortIndex();
+    // MOD - END - Fort indexing
 
 	bool isAdjacentToArea(int iAreaID) const;
 	bool isAdjacentToArea(const CvArea* pArea) const;																						// Exposed to Python

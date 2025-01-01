@@ -5,10 +5,11 @@
 #ifndef CIV4_FRACTAL_H
 #define CIV4_FRACTAL_H
 
+#include "CvGameCoreDLL.h"
+
 class CvRandom;
 class CvFractal
 {
-
 public:
 
 	enum DllExport FracVals		// Exposed to Python

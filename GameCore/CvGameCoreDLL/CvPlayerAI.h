@@ -6,7 +6,7 @@
 #define CIV4_PLAYER_AI_H
 
 #include "CvPlayer.h"
-#include "AI_defines.h"
+#include "AI_Defines.h"
 
 class CvEventTriggerInfo;
 

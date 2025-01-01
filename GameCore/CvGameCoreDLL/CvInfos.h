@@ -13,8 +13,12 @@
 #ifndef CV_INFO_H
 #define CV_INFO_H
 
+#include "CvGameCoreDLL.h"
+
+#if not defined(__GNUC__)
 #pragma warning( disable: 4251 )		// needs to have dll-interface to be used by clients of class
 #pragma warning( disable: 4127 )
+#endif
 
 class CvXMLLoadUtility;
 
@@ -3482,7 +3486,7 @@ public:
 	//void setDerivativeCiv(int iCiv);
 	int getNumDerivativeCivs() const;																// Exposed to Python
 	CivilizationTypes getFirstDerivative() const;																// Exposed to Python
-	CivilizationTypes CvCivilizationInfo::getNDerivative(int i) const;							// Exposed to Python
+    CivilizationTypes getNDerivative(int i) const;							// Exposed to Python
 	CvDerivativeCivData getDerivativeCiv(int i) const;																// Exposed to Python
 	int getDerivative(int i) const;																// Exposed to Python
 	// MOD - END - Multiple Derivative Civs
