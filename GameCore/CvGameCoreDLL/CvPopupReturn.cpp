@@ -1,4 +1,4 @@
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CvPopupReturn.h"
 
 #define CvPopup_SetAtGrow(kArray, iIdx, kValue)\

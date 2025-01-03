@@ -1,6 +1,8 @@
 #ifndef CV_MESSAGE_DATA
 #define CV_MESSAGE_DATA
 
+#include "CvGameCoreDLL.h"
+
 class FDataStreamBase;
 
 class CvMessageData

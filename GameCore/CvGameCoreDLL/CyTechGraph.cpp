@@ -1,5 +1,6 @@
 // MOD - START - Tech Graph
-#include "CvGameCoreDLL.h"
+
+//#include "CvGameCoreDLL.h"
 #include "CyTechGraph.h"
 
 //

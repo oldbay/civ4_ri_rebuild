@@ -2,7 +2,7 @@
 // Python wrapper class for CvGame 
 // 
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CyDeal.h"
 #include "CvDeal.h"
 

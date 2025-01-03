@@ -3,6 +3,8 @@
 #include <vector>
 #include "FAStarNode.h"
 
+#include "CvGameCoreDLL.h"
+
 struct CvPathSettings
 {
 	CvPathSettings(const CvSelectionGroup* pGroup = 0, int iFlags = 0, int iMaxPath = -1, int iHW = -1);

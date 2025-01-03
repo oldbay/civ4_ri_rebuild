@@ -28,8 +28,7 @@ CvGlobals.cpp
 
 Ошибки headers
 --------------
-CvFractal.h - ?
-
+в CvXMLLoadUtility.h ошибка на объявление CvDLLUtilityIFaceBase -?
 
 
 Python API & SDK

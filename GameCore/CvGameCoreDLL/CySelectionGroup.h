@@ -2,11 +2,12 @@
 
 #ifndef CySelectionGroup_h
 #define CySelectionGroup_h
+
 //
 // Python wrapper class for CySelectionGroup
 //  
-//
 
+#include "CvGameCoreDLL.h"
 //#include "CvEnums.h"
 
 struct MissionData;

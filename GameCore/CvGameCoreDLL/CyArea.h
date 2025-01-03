@@ -7,6 +7,8 @@
 // Python wrapper class for CvArea
 //
 
+#include "CvGameCoreDLL.h"
+
 class CyCity;
 class CvArea;
 class CyArea 

@@ -3,11 +3,13 @@
 #ifndef CyPlot_h
 #define CyPlot_h
 
-//#include "CvEnums.h"
-
 //
 // Python wrapper class for CvPlot
 // 
+
+#include "CvGameCoreDLL.h"
+//#include "CvEnums.h"
+
 class CyArea;
 class CvPlot;
 class CyUnit;

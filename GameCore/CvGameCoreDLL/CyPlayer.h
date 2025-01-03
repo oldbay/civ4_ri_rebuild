@@ -6,6 +6,7 @@
 // Python wrapper class for CvPlayer 
 // 
 
+#include "CvGameCoreDLL.h"
 //#include "CvEnums.h"
 //#include "CvStructs.h"
 

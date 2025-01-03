@@ -1,8 +1,8 @@
 //
 // Python wrapper class for CySelectionGroup
 // 
-//
-#include "CvGameCoreDLL.h"
+
+//#include "CvGameCoreDLL.h"
 #include "CySelectionGroup.h"
 #include "CvSelectionGroup.h"
 #include "CvPlot.h"

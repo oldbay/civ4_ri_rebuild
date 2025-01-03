@@ -2,7 +2,7 @@
 // Python wrapper class for CvPlot 
 // 
 //
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CyPlot.h"
 #include "CyCity.h"
 #include "CyArea.h"

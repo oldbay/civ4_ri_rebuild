@@ -252,6 +252,7 @@ set(Headers
     "FAStarNode.h"
     "FDataStreamBase.h"
     "FDialogTemplate.h"
+    "KmodPathFinder.h"
     "FFreeListArray.h"
     "FFreeListArrayBase.h"
     "FFreeListTrashArray.h"

@@ -1,6 +1,6 @@
 // team.cpp
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CvDefines.h"
 #include "CvGameCoreUtils.h"
 #include "CvGlobals.h"

@@ -61,7 +61,7 @@ class Cv##name##ArtInfoItem : public CvArtFileMgr::ArtInfoItem \
 \
 static Cv##name##ArtInfoItem* g##name##ArtInfoItem; \
 \
-CvArtInfo##name##* CvArtFileMgr::get##name##ArtInfo( const char *szArtDefineTag ) const \
+CvArtInfo##name* CvArtFileMgr::get##name##ArtInfo( const char *szArtDefineTag ) const \
 { \
 	FAssertMsg(szArtDefineTag, "NULL string on art info lookup?"); \
 	ArtInfo##name##MapType::const_iterator it = m_map##name##ArtInfos->find( szArtDefineTag );\
@@ -90,7 +90,7 @@ void Cv##name##ArtInfoItem::deInit() \
 	} \
 	ARTFILEMGR.m_pa##name##ArtInfo.clear(); \
 } \
-CvArtInfo##name##& CvArtFileMgr::get##name##ArtInfo(int i) { return *(m_pa##name##ArtInfo[i]); }
+CvArtInfo##name& CvArtFileMgr::get##name##ArtInfo(int i) { return *(m_pa##name##ArtInfo[i]); }
 
 #define ART_INFO_INST(name) g##name##ArtInfoItem = new  Cv##name##ArtInfoItem();
 

@@ -1,4 +1,4 @@
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CvMapGenerator.h"
 #include "CvMap.h"
 #include "CvFractal.h"

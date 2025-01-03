@@ -18,7 +18,9 @@
 #include "CvInfos.h"
 //#include "CvEnums.h"
 
+#if not defined(__GNUC__)
 #pragma warning( disable: 4251 )	// needs to have dll-interface to be used by clients of class
+#endif
 
 class CvCity;
 class CvDeal;

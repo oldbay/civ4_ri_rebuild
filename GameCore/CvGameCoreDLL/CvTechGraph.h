@@ -4,6 +4,8 @@
 #ifndef CvTechGraph_H
 #define CvTechGraph_H
 
+#include "CvGameCoreDLL.h"
+
 struct CvTechGraphIcon
 {
 	const TCHAR* szTexture;

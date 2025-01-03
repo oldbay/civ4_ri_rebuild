@@ -72,4 +72,4 @@ private:
 	CvReplayInfo m_replay;
 };
 
-#endif __CY_Replay_H__
+#endif //__CY_Replay_H__

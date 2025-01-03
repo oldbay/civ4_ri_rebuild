@@ -10,6 +10,8 @@
 //  Copyright (c) 2002 Firaxis Games, Inc. All rights reserved.
 //------------------------------------------------------------------------------------------------
 
+#include "CvGameCoreDLL.h"
+
 class FDataStream;
 #define CvPopup_SetAtGrow(kArray, iIdx, kValue)\
 	if((int)kArray.size() <= iIdx) kArray.resize(iIdx+1);\

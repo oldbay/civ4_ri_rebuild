@@ -20,4 +20,4 @@ private:
 	CvHallOfFameInfo m_hallOfFame;
 };
 
-#endif __CY_HallOfFame_H__
+#endif //__CY_HallOfFame_H__

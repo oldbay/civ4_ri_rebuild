@@ -7,6 +7,8 @@
 // Python wrapper class for CyGameTextMgr
 //
 
+#include "CvGameCoreDLL.h"
+
 class CvGameTextMgr;
 class CyCity;
 class CyUnit;

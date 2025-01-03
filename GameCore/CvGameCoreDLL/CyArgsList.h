@@ -6,6 +6,9 @@
 //
 // type for input args to python functions
 //
+
+#include "CvGameCoreDLL.h"
+
 class CyArgsList
 {
 public:

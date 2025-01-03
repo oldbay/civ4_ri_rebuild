@@ -14,6 +14,8 @@
 //-----------------------------------------------------------------------------
 //
 
+#include "CvGameCoreDLL.h"
+
 class CvMapGenerator;
 class CyPlot;
 class CyMapGenerator

@@ -1,4 +1,4 @@
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CyArgsList.h"
 #include "CyGlobalContext.h"
 #include "CvDLLPythonIFaceBase.h"

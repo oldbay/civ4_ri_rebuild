@@ -4,6 +4,8 @@
 #ifndef CyTechGraph_H
 #define CyTechGraph_H
 
+#include "CvGameCoreDLL.h"
+
 class CvTechGraph;
 class CvTechGraphColumn;
 class CvTechGraphPanel;

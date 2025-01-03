@@ -5,6 +5,7 @@
 #ifndef CIV4_TEAM_H
 #define CIV4_TEAM_H
 
+#include "CvGameCoreDLL.h"
 //#include "CvEnums.h"
 
 class CvArea;

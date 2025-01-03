@@ -2,6 +2,8 @@
 #ifndef CVREPLAYMESSAGE_H
 #define CVREPLAYMESSAGE_H
 
+#include "CvGameCoreDLL.h"
+
 class CvReplayMessage
 {
 public:

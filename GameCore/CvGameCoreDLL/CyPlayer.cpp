@@ -2,7 +2,7 @@
 // Python wrapper class for CvPlayer 
 //
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CyPlayer.h"
 #include "CyUnit.h"
 #include "CyCity.h"

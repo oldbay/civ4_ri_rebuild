@@ -1,4 +1,4 @@
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CyGameCoreUtils.h"
 #include "CvGameCoreUtils.h"
 #include "CyPlot.h"

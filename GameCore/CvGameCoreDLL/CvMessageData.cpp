@@ -1,4 +1,4 @@
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CvMessageData.h"
 #include "FDataStreamBase.h"
 #include "CvDLLUtilityIFaceBase.h"

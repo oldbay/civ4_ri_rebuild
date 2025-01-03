@@ -2,11 +2,13 @@
 
 #ifndef CyTeam_h
 #define CyTeam_h
+
 //
 // Python wrapper class for CvTeam
 // 
 
-// //#include "CvEnums.h"
+#include "CvGameCoreDLL.h"
+//#include "CvEnums.h"
 
 class CvTeam;
 class CyArea;

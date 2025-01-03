@@ -6,6 +6,7 @@
 #ifndef CY_DEAL_H
 #define CY_DEAL_H
 
+#include "CvGameCoreDLL.h"
 //#include "CvEnums.h"
 //#include "CvStructs.h"
 

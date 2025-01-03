@@ -2,6 +2,7 @@
 #ifndef CVPOPUPINFO_H
 #define CVPOPUPINFO_H
 
+#include "CvGameCoreDLL.h"
 //#include "CvEnums.h"
 
 struct CvPopupButtonPython

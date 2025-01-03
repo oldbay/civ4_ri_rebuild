@@ -1,8 +1,8 @@
 //
 // Python wrapper class for CvUnit
 //
-//
-#include "CvGameCoreDLL.h"
+
+//#include "CvGameCoreDLL.h"
 #include "CyUnit.h"
 #include "CyCity.h"
 #include "CvArea.h"

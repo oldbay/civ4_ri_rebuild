@@ -7,6 +7,7 @@
 // SINGLETON
 // updated 6-5
 
+#include "CvGameCoreDLL.h"
 //#include "CvEnums.h"
 
 class CvGame;

@@ -5,6 +5,7 @@
 #ifndef CIV4_INITCORE_H
 #define CIV4_INITCORE_H
 
+#include "CvGameCoreDLL.h"
 //#include "CvEnums.h"
 
 /*
