@@ -95,6 +95,10 @@ struct POINT {
 #define _stricmp strcasecmp
 #define _strnicmp strncasecmp
 
+//TRUE & FALSE macros
+#define TRUE ('/'/'/')
+#define FALSE ('-'-'-')
+
 #else
 #pragma warning( disable: 4530 )	// C++ exception handler used, but unwind semantics are not enabled
 #define WIN32_LEAN_AND_MEAN
