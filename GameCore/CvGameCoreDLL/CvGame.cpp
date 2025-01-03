@@ -9284,10 +9284,12 @@ void CvGame::read(FDataStreamBase* pStream)
 
 	{
 		clearReplayMessageMap();
-		ReplayMessageList::_Alloc::size_type iSize;
-		pStream->Read(&iSize);
-		for (ReplayMessageList::_Alloc::size_type i = 0; i < iSize; i++)
-		{
+        //ReplayMessageList::_Alloc::size_type iSize; //old?
+        ReplayMessageList::size_type iSize;
+        pStream->Read(&iSize);
+        //for (ReplayMessageList::_Alloc::size_type i = 0; i < iSize; i++) //old?
+        for (ReplayMessageList::size_type i = 0; i < iSize; i++)
+        {
 			CvReplayMessage* pMessage = new CvReplayMessage(0);
 			if (NULL != pMessage)
 			{
@@ -9372,7 +9374,13 @@ void CvGame::read(FDataStreamBase* pStream)
 	{
 		if (!isNetworkMultiPlayer())
 		{
-			m_sorenRand.reseed(timeGetTime());
+
+            #if defined(__GNUC__)
+            int millisec_since_epoch = std::chrono::duration_cast<std::chrono::milliseconds>(std::chrono::system_clock::now().time_since_epoch()).count();
+            m_sorenRand.reseed(millisec_since_epoch);
+            #else
+            m_sorenRand.reseed(timeGetTime());
+            #endif
 		}
 	}
 
@@ -9523,8 +9531,9 @@ void CvGame::write(FDataStreamBase* pStream)
 	m_mapRand.write(pStream);
 	m_sorenRand.write(pStream);
 
-	ReplayMessageList::_Alloc::size_type iSize = m_listReplayMessages.size();
-	pStream->Write(iSize);
+    //ReplayMessageList::_Alloc::size_type iSize = m_listReplayMessages.size(); //old?
+    ReplayMessageList::size_type iSize = m_listReplayMessages.size();
+    pStream->Write(iSize);
 	ReplayMessageList::const_iterator it;
 	for (it = m_listReplayMessages.begin(); it != m_listReplayMessages.end(); ++it)
 	{
@@ -9551,7 +9560,11 @@ void CvGame::write(FDataStreamBase* pStream)
 	}
 
 	pStream->Write(m_mapVoteSourceReligions.size());
-	for (stdext::hash_map<VoteSourceTypes, ReligionTypes>::iterator it = m_mapVoteSourceReligions.begin(); it != m_mapVoteSourceReligions.end(); ++it)
+    #if defined(__GNUC__)
+    for (std::unordered_map<VoteSourceTypes, ReligionTypes>::iterator it = m_mapVoteSourceReligions.begin(); it != m_mapVoteSourceReligions.end(); ++it)
+    #else
+    for (stdext::hash_map<VoteSourceTypes, ReligionTypes>::iterator it = m_mapVoteSourceReligions.begin(); it != m_mapVoteSourceReligions.end(); ++it)
+    #endif
 	{
 		pStream->Write(it->first);
 		pStream->Write(it->second);
@@ -9965,9 +9978,13 @@ void CvGame::removePlotExtraCost(int iX, int iY)
 
 ReligionTypes CvGame::getVoteSourceReligion(VoteSourceTypes eVoteSource) const
 {
-	stdext::hash_map<VoteSourceTypes, ReligionTypes>::const_iterator it;
+    #if defined(__GNUC__)
+    std::unordered_map<VoteSourceTypes, ReligionTypes>::const_iterator it;
+    #else
+    stdext::hash_map<VoteSourceTypes, ReligionTypes>::const_iterator it;
+    #endif
 
-	it = m_mapVoteSourceReligions.find(eVoteSource);
+    it = m_mapVoteSourceReligions.find(eVoteSource);
 	if (it == m_mapVoteSourceReligions.end())
 	{
 		return NO_RELIGION;

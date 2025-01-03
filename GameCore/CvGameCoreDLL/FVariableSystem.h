@@ -39,7 +39,7 @@ enum eVariableType
 class FVariable;
 
 #if defined(__GNUC__)
-    using FVariableHash = std::unordered_map< std::string, FVariable * >;
+    typedef std::unordered_map< std::string, FVariable * > FVariableHash;
 #else
     typedef stdext::hash_map< std::string, FVariable * > FVariableHash;
 #endif

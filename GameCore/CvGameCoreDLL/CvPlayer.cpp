@@ -12814,7 +12814,12 @@ void CvPlayer::setStartTime(uint uiStartTime)
 
 uint CvPlayer::getTotalTimePlayed() const
 {
-	return ((timeGetTime() - m_uiStartTime)/1000);
+    #if defined(__GNUC__)
+    int millisec_since_epoch = std::chrono::duration_cast<std::chrono::milliseconds>(std::chrono::system_clock::now().time_since_epoch()).count();
+    return ((millisec_since_epoch - m_uiStartTime)/1000);
+    #else
+    return ((timeGetTime() - m_uiStartTime)/1000);
+    #endif
 }
 
 
@@ -20983,10 +20988,12 @@ void CvPlayer::read(FDataStreamBase* pStream)
 	ReadStreamableFFreeListTrashArray(m_eventsTriggered, pStream);
 
 	{
-		CvMessageQueue::_Alloc::size_type iSize;
-		pStream->Read(&iSize);
-		for (CvMessageQueue::_Alloc::size_type i = 0; i < iSize; i++)
-		{
+        //CvMessageQueue::_Alloc::size_type iSize; //old?
+        CvMessageQueue::size_type iSize;
+        pStream->Read(&iSize);
+        //for (CvMessageQueue::_Alloc::size_type i = 0; i < iSize; i++) //old?
+        for (CvMessageQueue::size_type i = 0; i < iSize; i++)
+        {
 			CvTalkingHeadMessage message;
 			message.read(*pStream);
 			m_listGameMessages.push_back(message);
@@ -20995,10 +21002,12 @@ void CvPlayer::read(FDataStreamBase* pStream)
 
 	{
 		clearPopups();
-		CvPopupQueue::_Alloc::size_type iSize;
-		pStream->Read(&iSize);
-		for (CvPopupQueue::_Alloc::size_type i = 0; i < iSize; i++)
-		{
+        //CvPopupQueue::_Alloc::size_type iSize; //old?
+        CvPopupQueue::size_type iSize;
+        pStream->Read(&iSize);
+        //for (CvPopupQueue::_Alloc::size_type i = 0; i < iSize; i++) //old?
+        for (CvPopupQueue::size_type i = 0; i < iSize; i++)
+        {
 			CvPopupInfo* pInfo = new CvPopupInfo();
 			if (NULL != pInfo)
 			{
@@ -21010,10 +21019,12 @@ void CvPlayer::read(FDataStreamBase* pStream)
 
 	{
 		clearDiplomacy();
-		CvDiploQueue::_Alloc::size_type iSize;
-		pStream->Read(&iSize);
-		for (CvDiploQueue::_Alloc::size_type i = 0; i < iSize; i++)
-		{
+        //CvDiploQueue::_Alloc::size_type iSize; //old?
+        CvDiploQueue::size_type iSize;
+        pStream->Read(&iSize);
+        //for (CvDiploQueue::_Alloc::size_type i = 0; i < iSize; i++) //old?
+        for (CvDiploQueue::size_type i = 0; i < iSize; i++)
+        {
 			CvDiploParameters* pDiplo = new CvDiploParameters(NO_PLAYER);
 			if (NULL != pDiplo)
 			{
@@ -21611,8 +21622,9 @@ void CvPlayer::write(FDataStreamBase* pStream)
 	WriteStreamableFFreeListTrashArray(m_eventsTriggered, pStream);
 
 	{
-		CvMessageQueue::_Alloc::size_type iSize = m_listGameMessages.size();
-		pStream->Write(iSize);
+        //CvMessageQueue::_Alloc::size_type iSize = m_listGameMessages.size(); //old?
+        CvMessageQueue::size_type iSize = m_listGameMessages.size();
+        pStream->Write(iSize);
 		CvMessageQueue::iterator it;
 		for (it = m_listGameMessages.begin(); it != m_listGameMessages.end(); ++it)
 		{
@@ -21632,8 +21644,9 @@ void CvPlayer::write(FDataStreamBase* pStream)
 		{
 			gDLL->getInterfaceIFace()->getDisplayedButtonPopups(currentPopups);
 		}
-		CvPopupQueue::_Alloc::size_type iSize = m_listPopups.size() + currentPopups.size();
-		pStream->Write(iSize);
+        //CvPopupQueue::_Alloc::size_type iSize = m_listPopups.size() + currentPopups.size(); //old?
+        CvPopupQueue::size_type iSize = m_listPopups.size() + currentPopups.size();
+        pStream->Write(iSize);
 		CvPopupQueue::iterator it;
 		for (it = currentPopups.begin(); it != currentPopups.end(); ++it)
 		{
@@ -21654,8 +21667,9 @@ void CvPlayer::write(FDataStreamBase* pStream)
 	}
 
 	{
-		CvDiploQueue::_Alloc::size_type iSize = m_listDiplomacy.size();
-		pStream->Write(iSize);
+        //CvDiploQueue::_Alloc::size_type iSize = m_listDiplomacy.size(); //old?
+        CvDiploQueue::size_type iSize = m_listDiplomacy.size();
+        pStream->Write(iSize);
 		CvDiploQueue::iterator it;
 		for (it = m_listDiplomacy.begin(); it != m_listDiplomacy.end(); ++it)
 		{

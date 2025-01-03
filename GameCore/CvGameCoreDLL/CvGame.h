@@ -765,11 +765,11 @@ protected:
 
 	std::vector<PlotExtraYield> m_aPlotExtraYields;
     std::vector<PlotExtraCost> m_aPlotExtraCosts;
-#if defined(__GNUC__)
-    using m_mapVoteSourceReligions = std::unordered_map<VoteSourceTypes, ReligionTypes>;
-#else
+    #if defined(__GNUC__)
+    std::unordered_map<VoteSourceTypes, ReligionTypes> m_mapVoteSourceReligions;
+    #else
     stdext::hash_map<VoteSourceTypes, ReligionTypes> m_mapVoteSourceReligions;
-#endif
+    #endif
 	std::vector<EventTriggerTypes> m_aeInactiveTriggers;
 
 	// CACHE: cache frequently used values

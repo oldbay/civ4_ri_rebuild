@@ -16,6 +16,7 @@
 #include <inttypes.h>
 #include <stdint.h>
 #include <stddef.h>
+#include <chrono>
 
 //DWORD
 #define DWORD uint32_t

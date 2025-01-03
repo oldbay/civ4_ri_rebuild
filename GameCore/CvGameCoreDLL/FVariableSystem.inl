@@ -11,8 +11,16 @@
 //  Copyright (c) 2002-2004 Firaxis Games, Inc. All rights reserved.
 //------------------------------------------------------------------------------------------------
 
+#include "CvGameCoreDLL.h"
+
+
+#if defined(__GNUC__)
+typedef std::unordered_map< std::string, FVariable *>::const_iterator VSIteratorC;
+typedef std::unordered_map< std::string, FVariable *>::iterator VSIterator;
+#else
 typedef stdext::hash_map< std::string, FVariable *>::const_iterator VSIteratorC;
 typedef stdext::hash_map< std::string, FVariable *>::iterator VSIterator;
+#endif
 
 //---------------------------------------------------------------------------------------
 // inline FVariable::~FVariable()
