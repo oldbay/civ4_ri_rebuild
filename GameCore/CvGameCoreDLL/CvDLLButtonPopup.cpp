@@ -2798,7 +2798,7 @@ bool CvDLLButtonPopup::launchSelectShadowUnitPopup(CvPopup* pPopup, CvPopupInfo 
 	{
 		pShadowUnits[iUnit] = aShadowUnits[iUnit];
 	}
-	info.setData2((int)pShadowUnits);
+    info.setData2((int)(size_t)pShadowUnits);
 	info.setData3(0);
 
 	gDLL->getInterfaceIFace()->popupAddGenericButton(pPopup, gDLL->getText("TXT_KEY_NEVER_MIND"), NULL, -1, WIDGET_GENERAL);

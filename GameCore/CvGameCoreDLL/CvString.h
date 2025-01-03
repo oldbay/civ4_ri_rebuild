@@ -249,13 +249,8 @@ public:
 	// FString compatibility
 	bool IsEmpty() const { return empty();	}
 	const char* GetCString() const 	{ return c_str(); }							// convert
-#if defined(__GNUC__)
-    int CompareNoCase( const char* lpsz ) const { return strcasecmp(lpsz, c_str()); }
-    int CompareNoCase( const char* lpsz, int iLength ) const { return strncasecmp(lpsz, c_str(), iLength);  }
-#else
     int CompareNoCase( const char* lpsz ) const { return _stricmp(lpsz, c_str()); }
     int CompareNoCase( const char* lpsz, int iLength ) const { return _strnicmp(lpsz, c_str(), iLength);  }
-#endif
     void Format( LPCSTR lpszFormat, ... );
 	int GetLength() const { return size(); }
 	int Replace( char chOld, char chNew );

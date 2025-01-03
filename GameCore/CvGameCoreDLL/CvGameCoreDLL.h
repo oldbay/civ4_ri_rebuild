@@ -90,6 +90,10 @@ struct POINT {
 //__forceinline
 #define __forceinline __attribute__((always_inline))
 
+//_str*cmp
+#define _stricmp strcasecmp
+#define _strnicmp strncasecmp
+
 #else
 #pragma warning( disable: 4530 )	// C++ exception handler used, but unwind semantics are not enabled
 #define WIN32_LEAN_AND_MEAN
