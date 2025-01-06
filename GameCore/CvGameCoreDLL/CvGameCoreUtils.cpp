@@ -3665,7 +3665,11 @@ bool isPickableName(const TCHAR* szName)
 	{
 		int iLen = _tcslen(szName);
 
-		if (!_tcsicmp(&szName[iLen-6], "NOPICK"))
+        #if defined(__GNUC__)
+        if (!std::strcmp(&szName[iLen-6], "NOPICK"))
+        #else
+        if (!_tcsicmp(&szName[iLen-6], "NOPICK"))
+        #endif
 		{
 			return false;
 		}
@@ -3813,12 +3817,10 @@ void getActivityTypeString(CvWString& szString, ActivityTypes eActivityType)
 	case ACTIVITY_SENTRY: szString = L"ACTIVITY_SENTRY"; break;
 	case ACTIVITY_INTERCEPT: szString = L"ACTIVITY_INTERCEPT"; break;
 	case ACTIVITY_MISSION: szString = L"ACTIVITY_MISSION"; break;
-// K-Mod. There were some missing activity strings...
-#define case_string(x) case x: szString = L#x; break;
-	case_string(ACTIVITY_PATROL)
-	case_string(ACTIVITY_PLUNDER)
-#undef case_string
-// K-Mod end
+    // K-Mod. There were some missing activity strings...
+    case ACTIVITY_PATROL: szString = L"ACTIVITY_PATROL"; break;
+    case ACTIVITY_PLUNDER: szString = L"ACTIVITY_PLUNDER"; break;
+    // K-Mod end
 
 	default: szString = CvWString::format(L"UNKNOWN_ACTIVITY(%d)", eActivityType); break;
 	}
@@ -3917,25 +3919,23 @@ void getMissionAIString(CvWString& szString, MissionAITypes eMissionAI)
 	// MOD - START - Inquisition
 	case MISSIONAI_REMOVE_RELIGION: szString = L"MISSIONAI_REMOVE_RELIGION"; break;
 	// MOD - END - Inquisition
-// K-Mod
-#define mission_string(x) case x: szString = L#x; break;
-	mission_string(MISSIONAI_GUARD_COAST)
-	mission_string(MISSIONAI_REINFORCE)
-	mission_string(MISSIONAI_SPREAD_CORPORATION)
-	mission_string(MISSIONAI_RECON_SPY)
-	mission_string(MISSIONAI_JOIN_CITY)
-	mission_string(MISSIONAI_TRADE)
-	mission_string(MISSIONAI_INFILTRATE)
-	mission_string(MISSIONAI_CHOKE)
-	mission_string(MISSIONAI_HEAL)
-	mission_string(MISSIONAI_RETREAT)
-	mission_string(MISSIONAI_PATROL)
-	mission_string(MISSIONAI_DEFEND)
-	mission_string(MISSIONAI_COUNTER_ATTACK)
-	mission_string(MISSIONAI_UPGRADE)
-	mission_string(MISSIONAI_STRANDED)
-#undef mission_string
-// K-Mod end
+    // K-Mod
+    case MISSIONAI_GUARD_COAST: szString = L"MISSIONAI_GUARD_COAST"; break;
+    case MISSIONAI_REINFORCE: szString = L"MISSIONAI_REINFORCE"; break;
+    case MISSIONAI_SPREAD_CORPORATION: szString = L"MISSIONAI_SPREAD_CORPORATION"; break;
+    case MISSIONAI_RECON_SPY: szString = L"MISSIONAI_RECON_SPY"; break;
+    case MISSIONAI_JOIN_CITY: szString = L"MISSIONAI_JOIN_CITY"; break;
+    case MISSIONAI_TRADE: szString = L"MISSIONAI_TRADE"; break;
+    case MISSIONAI_INFILTRATE: szString = L"MISSIONAI_INFILTRATE"; break;
+    case MISSIONAI_CHOKE: szString = L"MISSIONAI_CHOKE"; break;
+    case MISSIONAI_HEAL: szString = L"MISSIONAI_HEAL"; break;
+    case MISSIONAI_RETREAT: szString = L"MISSIONAI_RETREAT"; break;
+    case MISSIONAI_PATROL: szString = L"MISSIONAI_PATROL"; break;
+    case MISSIONAI_DEFEND: szString = L"MISSIONAI_DEFEND"; break;
+    case MISSIONAI_COUNTER_ATTACK: szString = L"MISSIONAI_COUNTER_ATTACK"; break;
+    case MISSIONAI_UPGRADE: szString = L"MISSIONAI_UPGRADE"; break;
+    case MISSIONAI_STRANDED: szString = L"MISSIONAI_STRANDED"; break;
+    // K-Mod end
 
 	default: szString = CvWString::format(L"UNKOWN_MISSION_AI(%d)", eMissionAI); break;
 	}

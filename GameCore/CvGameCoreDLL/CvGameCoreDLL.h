@@ -17,6 +17,8 @@
 #include <stdint.h>
 #include <stddef.h>
 #include <chrono>
+#include <cstring>
+#include <stdbool.h>
 
 //DWORD
 #define DWORD uint32_t
@@ -96,6 +98,7 @@ struct POINT {
 #define _strnicmp strncasecmp
 
 //TRUE & FALSE macros
+#define BOOL bool
 #define TRUE ('/'/'/')
 #define FALSE ('-'-'-')
 

@@ -4966,8 +4966,8 @@ bool CvGameTextMgr::setCombatPlotHelp(CvWStringBuffer &szString, CvPlot* pPlot)
 void createTestFontString(CvWStringBuffer& szString)
 {
 	int iI;
-	szString.assign(L"!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[Χ]^_`abcdefghijklmnopqrstuvwxyz\n");
-	szString.append(L"{}~\\ίΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡÒΣΤΥΦΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώÿΏ΅«»°™©®€£Ά”‘“…’");
+	szString.assign(L"!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[Π§]^_`abcdefghijklmnopqrstuvwxyz\n");
+	szString.append(L"{}~\\Π―ΠΠ‘Π’Π“Π”Π•Π–Π—ΠΠ™ΠΠ›ΠΠΠΠΠ Π΅ΠΆΠ£Π¤Π¥Π¦Π¨Π©ΠªΠ«Π¬Π­Π®ΡΠ―Π°Π±Π²Π³Π΄ΠµΠ¶Π·ΠΈΠΉΠΊΠ»ΠΌΠ½ΠΎΠΏΡ€ΡΡ‚ΡƒΡ„Ρ…Ρ†Ρ‡ΡΡ‰ΡΡ‹ΡΡΡΡΡ—ΠΒ«Β»Β°Π‰ΠΠ‹Ρ™ΡΡ›β„ΆΒ©Β®Π‚ΠΡβ€β€β€β€¦β€™");
 	for (iI=0;iI<NUM_YIELD_TYPES;++iI)
 		szString.append(CvWString::format(L"%c", GC.getYieldInfo((YieldTypes) iI).getChar()));
 
@@ -8244,7 +8244,7 @@ void CvGameTextMgr::parseSpecialistHelp(CvWStringBuffer &szHelpString, Specialis
 		{
 			bool bStarted = false;
 			CvWString szStart;
-			szStart.Format(L"\n"SETCOLR L"(%s", TEXT_COLOR("COLOR_LIGHT_GREY"), gDLL->getText("TXT_KEY_ACTUAL_EFFECTS").GetCString());
+            szStart.Format(L"\n" SETCOLR L"(%s", TEXT_COLOR("COLOR_LIGHT_GREY"), gDLL->getText("TXT_KEY_ACTUAL_EFFECTS").GetCString());
 
 			// Yield
 			int aiYields[NUM_YIELD_TYPES];
@@ -12000,7 +12000,7 @@ void CvGameTextMgr::setBuildingNetEffectsHelp(CvWStringBuffer &szBuffer, Buildin
 	{
 		bool bStarted = false;
 		CvWString szStart;
-		szStart.Format(L"\n"SETCOLR L"(%s", TEXT_COLOR("COLOR_LIGHT_GREY"), gDLL->getText("TXT_KEY_ACTUAL_EFFECTS").GetCString());
+        szStart.Format(L"\n" SETCOLR L"(%s", TEXT_COLOR("COLOR_LIGHT_GREY"), gDLL->getText("TXT_KEY_ACTUAL_EFFECTS").GetCString());
 
 		// Defense
 		int iDefense = pCity->getAdditionalDefenseByBuilding(eBuilding);
@@ -18704,7 +18704,7 @@ void CvGameTextMgr::getAttitudeString(CvWStringBuffer& szBuffer, PlayerTypes ePl
 		
 		// MOD - START - Trait Attitude Modifier
 		iAttitudeChange = 0;
-		for (iI=0; iI < GC.getNumTraitInfos(); iI++)
+        for (int iI=0; iI < GC.getNumTraitInfos(); iI++)
 		{
 			if (GET_PLAYER(eTargetPlayer).hasTrait((TraitTypes)iI))
 			{
@@ -20085,7 +20085,7 @@ void CvGameTextMgr::parseLeaderHeadHelp(CvWStringBuffer &szBuffer, PlayerTypes e
 #define trait_info(x) do { \
 	if (kFoundSet.b##x) \
 	{ \
-		szBuffer.append(CvWString::format(L"%s"L#x, bFirst? L"" : L", ")); \
+        szBuffer.append(CvWString::format(L"%s" L#x, bFirst? L"" : L", ")); \
 		bFirst = false; \
 	} \
 } while (0)
@@ -20102,7 +20102,7 @@ void CvGameTextMgr::parseLeaderHeadHelp(CvWStringBuffer &szBuffer, PlayerTypes e
 #define flavour_info(x) do { \
 	if (kPlayer.AI_getFlavorValue(FLAVOR_##x)) \
 	{ \
-		szBuffer.append(CvWString::format(L"%s"L#x L"=%d", bFirst? L"" : L", ", kPlayer.AI_getFlavorValue(FLAVOR_##x))); \
+        szBuffer.append(CvWString::format(L"%s" L#x L"=%d", bFirst? L"" : L", ", kPlayer.AI_getFlavorValue(FLAVOR_##x))); \
 		bFirst = false; \
 	} \
 } while (0)
