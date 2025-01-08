@@ -8,7 +8,11 @@
 
 void CyInfoPythonInterface2()
 {
-	OutputDebugString("Python Extension Module - CyInfoPythonInterface2\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyInfoPythonInterface2\n";
+    #else
+    OutputDebugString("Python Extension Module - CyInfoPythonInterface2\n");
+    #endif
 
 	python::class_<CvBuildingClassInfo, python::bases<CvInfoBase> >("CvBuildingClassInfo")
 		.def("getMaxGlobalInstances", &CvBuildingClassInfo::getMaxGlobalInstances, "int ()")

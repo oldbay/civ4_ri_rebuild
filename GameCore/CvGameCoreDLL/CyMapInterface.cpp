@@ -15,7 +15,11 @@
 
 void CyMapPythonInterface()
 {
-	OutputDebugString("Python Extension Module - CyMapPythonInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyMapPythonInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CyMapPythonInterface\n");
+    #endif
 
 	python::class_<CyMap>("CyMap")
 		.def("isNone", &CyMap::isNone, "bool () - valid CyMap() interface")

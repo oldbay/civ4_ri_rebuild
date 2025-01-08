@@ -682,7 +682,9 @@ bool CyGame::isRequireStateReligionForReligionRemoval() const
 
 void CyGame::setRequireStateReligionForReligionRemoval(bool bNewValue)
 {
-	return m_pGame ? m_pGame->setRequireStateReligionForReligionRemoval(bNewValue) : false;
+    //return m_pGame ? m_pGame->setRequireStateReligionForReligionRemoval(bNewValue) : false; //PORT OLD
+    if (m_pGame)
+        m_pGame->setRequireStateReligionForReligionRemoval(bNewValue);
 }
 
 bool CyGame::isRequireCityOwnerStateReligionMatchForReligionRemoval() const
@@ -692,7 +694,9 @@ bool CyGame::isRequireCityOwnerStateReligionMatchForReligionRemoval() const
 
 void CyGame::setRequireCityOwnerStateReligionMatchForReligionRemoval(bool bNewValue)
 {
-	return m_pGame ? m_pGame->setRequireCityOwnerStateReligionMatchForReligionRemoval(bNewValue) : false;
+    //return m_pGame ? m_pGame->setRequireCityOwnerStateReligionMatchForReligionRemoval(bNewValue) : false; //PORT OLD
+    if (m_pGame)
+        m_pGame->setRequireCityOwnerStateReligionMatchForReligionRemoval(bNewValue);
 }
 
 bool CyGame::isRequireOpenBordersForReligionRemoval() const
@@ -702,7 +706,9 @@ bool CyGame::isRequireOpenBordersForReligionRemoval() const
 
 void CyGame::setRequireOpenBordersForReligionRemoval(bool bNewValue)
 {
-	return m_pGame ? m_pGame->setRequireOpenBordersForReligionRemoval(bNewValue) : false;
+    //return m_pGame ? m_pGame->setRequireOpenBordersForReligionRemoval(bNewValue) : false; //PORT OLD
+    if (m_pGame)
+        m_pGame->setRequireOpenBordersForReligionRemoval(bNewValue);
 }
 // MOD - END - Inquisition
 

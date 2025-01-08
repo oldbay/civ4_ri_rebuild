@@ -1667,7 +1667,7 @@ void CvXMLLoadUtility::SetGlobalClassInfo(std::vector<T*>& aInfos, const char* s
 				gDLL->getXMLIFace()->SetToChild(m_pFXml);
 
 				// loop through each tag
-				for (std::vector<T*>::iterator it = aInfos.begin(); it != aInfos.end(); ++it)
+                for (typename std::vector<T*>::iterator it = aInfos.begin(); it != aInfos.end(); ++it)
 				{
 					SkipToNextVal();	// skip to the next non-comment node
 

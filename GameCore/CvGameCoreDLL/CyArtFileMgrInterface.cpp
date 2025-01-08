@@ -8,7 +8,11 @@
 
 void CyArtFileMgrPythonInterface()
 {
-	OutputDebugString("Python Extension Module - CyArtFileMgrPythonInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyArtFileMgrPythonInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CyArtFileMgrPythonInterface\n");
+    #endif
 
 	python::class_<CyArtFileMgr>("CyArtFileMgr")
 		.def("isNone", &CyArtFileMgr::isNone, "bool () - Checks to see if pointer points to a real object")

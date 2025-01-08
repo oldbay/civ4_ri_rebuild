@@ -7,7 +7,11 @@
 
 void CyAreaPythonInterface()
 {
-	OutputDebugString("Python Extension Module - CyAreaPythonInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyAreaPythonInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CyAreaPythonInterface\n");
+    #endif
 
 	python::class_<CyArea>("CyArea")
 		.def("isNone", &CyArea::isNone, "bool () - Returns whether the pointer points to a real Area")

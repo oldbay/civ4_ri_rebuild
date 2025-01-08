@@ -8,9 +8,13 @@
 
 void CyInfoPythonInterface3()
 {
-	OutputDebugString("Python Extension Module - CyInfoPythonInterface3\n");
-	
-	python::class_<CvYieldInfo, python::bases<CvInfoBase> >("CvYieldInfo")
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyInfoPythonInterface3\n";
+    #else
+    OutputDebugString("Python Extension Module - CyInfoPythonInterface3\n");
+    #endif
+
+    python::class_<CvYieldInfo, python::bases<CvInfoBase> >("CvYieldInfo")
 		.def("getChar", &CvYieldInfo::getChar, "int ()")
 		.def("getHillsChange", &CvYieldInfo::getHillsChange, "int ()")
 		.def("getPeakChange", &CvYieldInfo::getPeakChange, "int ()")

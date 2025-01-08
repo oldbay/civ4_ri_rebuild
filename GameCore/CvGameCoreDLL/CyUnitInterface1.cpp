@@ -23,7 +23,11 @@ BOOST_PYTHON_MEMBER_FUNCTION_OVERLOADS(CyUnit_maxXPValue_overloads, CyUnit::maxX
 
 void CyUnitPythonInterface1(python::class_<CyUnit>& x)
 {
-	OutputDebugString("Python Extension Module - CyUnitPythonInterface1\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyUnitPythonInterface1\n";
+    #else
+    OutputDebugString("Python Extension Module - CyUnitPythonInterface1\n");
+    #endif
 
 	x
 		.def("isNone", &CyUnit::isNone, "bool () - Is this a valid unit instance?")

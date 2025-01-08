@@ -314,7 +314,6 @@ set(Sources
     "CvTeam.cpp"
     "CvTeamAI.cpp"
     "CvTechGraph.cpp"
-    "CvTextScreens.cpp"
     "CvUnit.cpp"
     "CvUnitAI.cpp"
     "CvXMLLoadUtility.cpp"

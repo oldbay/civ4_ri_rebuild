@@ -16,7 +16,11 @@
 
 void CyGlobalContextPythonInterface4(python::class_<CyGlobalContext>& x)
 {
-	OutputDebugString("Python Extension Module - CyGlobalContextPythonInterface1\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyGlobalContextPythonInterface1\n";
+    #else
+    OutputDebugString("Python Extension Module - CyGlobalContextPythonInterface1\n");
+    #endif
 
 	x
 		.def("getNumTechInfos", &CyGlobalContext::getNumTechInfos, "() - Total Technology Infos XML\\Technologies\\CIV4TechInfos.xml")

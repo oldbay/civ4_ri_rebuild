@@ -10,9 +10,13 @@
 
 void CyGameCoreUtilsPythonInterface()
 {
-	OutputDebugString("Python Extension Module - CyGameCoreUtilsPythonInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyGameCoreUtilsPythonInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CyGameCoreUtilsPythonInterface\n");
+    #endif
 
-	python::def("cyIntRange", cyIntRange,"int (int iNum, int iLow, int iHigh)");
+    python::def("cyIntRange", cyIntRange,"int (int iNum, int iLow, int iHigh)");
 	python::def("cyFloatRange", cyFloatRange,"float (float fNum, float fLow, float fHigh)");
 	python::def("dxWrap", cyDxWrap,"int (int iDX)");
 	python::def("dyWrap", cyDyWrap,"int (int iDY)");

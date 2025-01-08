@@ -16,7 +16,11 @@
 
 void CyGlobalContextPythonInterface1(python::class_<CyGlobalContext>& x)
 {
-	OutputDebugString("Python Extension Module - CyGlobalContextPythonInterface1\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyGlobalContextPythonInterface1\n";
+    #else
+    OutputDebugString("Python Extension Module - CyGlobalContextPythonInterface1\n");
+    #endif
 
 	x
 		.def("isDebugBuild", &CyGlobalContext::isDebugBuild, "() - returns true if running a debug build")

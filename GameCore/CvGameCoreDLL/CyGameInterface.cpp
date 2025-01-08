@@ -11,7 +11,11 @@
 
 void CyGamePythonInterface()
 {
-	OutputDebugString("Python Extension Module - CyGamePythonInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyGamePythonInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CyGamePythonInterface\n");
+    #endif
 
 	python::class_<CyGame>("CyGame")
 		.def("isNone", &CyGame::isNone, "CyGame* () - is the instance valid?")

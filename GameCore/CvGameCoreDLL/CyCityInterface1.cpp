@@ -13,7 +13,11 @@
 
 void CyCityPythonInterface1(python::class_<CyCity>& x)
 {
-	OutputDebugString("Python Extension Module - CyCityPythonInterface1\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyCityPythonInterface1\n";
+    #else
+    OutputDebugString("Python Extension Module - CyCityPythonInterface1\n");
+    #endif
 
 	x
 		.def("isNone", &CyCity::isNone, "void () - is the instance valid?")

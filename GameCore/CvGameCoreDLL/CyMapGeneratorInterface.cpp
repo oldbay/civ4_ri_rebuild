@@ -10,7 +10,11 @@
 
 void CyMapGeneratorPythonInterface()
 {
-	OutputDebugString("Python Extension Module - CyMapGeneratorPythonInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyMapGeneratorPythonInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CyMapGeneratorPythonInterface\n");
+    #endif
 
 	python::class_<CyMapGenerator>("CyMapGenerator")
 		.def("isNone", &CyMapGenerator::isNone, "bool () - valid CyMapGenerator() interface")

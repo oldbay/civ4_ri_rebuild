@@ -9,7 +9,11 @@
 
 void CyTechGraphPythonInterface()
 {
-	OutputDebugString("Python Extension Module - CyTechGraphPythonInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyTechGraphPythonInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CyTechGraphPythonInterface\n");
+    #endif
 
 	python::class_<CvTechGraphIcon>("CvTechGraphIcon")
 		.def_readwrite("eWidgetType", &CvTechGraphIcon::eWidgetType)

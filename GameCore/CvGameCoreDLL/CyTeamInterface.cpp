@@ -8,7 +8,11 @@
 
 void CyTeamPythonInterface()
 {
-	OutputDebugString("Python Extension Module - CyTeamPythonInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyTeamPythonInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CyTeamPythonInterface\n");
+    #endif
 
 	python::class_<CyTeam>("CyTeam")
 		.def("isNone", &CyTeam::isNone, "bool () - is this instance valid?")

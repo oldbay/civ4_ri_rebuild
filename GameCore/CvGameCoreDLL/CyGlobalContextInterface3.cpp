@@ -14,7 +14,11 @@
 
 void CyGlobalContextPythonInterface3(python::class_<CyGlobalContext>& x)
 {
-	OutputDebugString("Python Extension Module - CyGlobalContextPythonInterface3\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyGlobalContextPythonInterface3\n";
+    #else
+    OutputDebugString("Python Extension Module - CyGlobalContextPythonInterface3\n");
+    #endif
 
 	x
 		.def("getAttitudeInfo", &CyGlobalContext::getAttitudeInfo, python::return_value_policy<python::reference_existing_object>(), "AttitudeInfo (int id)")

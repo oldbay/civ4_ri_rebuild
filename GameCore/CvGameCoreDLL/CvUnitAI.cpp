@@ -21979,11 +21979,13 @@ bool CvUnitAI::AI_retreatToCity(bool bPrimary, bool bPrioritiseAirlift, int iMax
 	// and pass 2 is always skipped because it's a useless test.
 	// -- and I've renumbered the passes.
 	CvPlot* pBestPlot = NULL;
-	int iShortestPath = MAX_INT;
+    int iShortestPath = MAX_INT;
+    int iPass; //PORT NEW
 
 	// f1rpo (bugfix): Domain check added; otherwise, plot danger isn't checked for ships.
-	for (int iPass = (getGroup()->canDefend() && getDomainType() == DOMAIN_LAND ? 1 : 0) ; iPass < 3; iPass++)
-	{
+    //for (int iPass = (getGroup()->canDefend() && getDomainType() == DOMAIN_LAND ? 1 : 0) ; iPass < 3; iPass++) //PORT OLD
+    for (iPass = (getGroup()->canDefend() && getDomainType() == DOMAIN_LAND ? 1 : 0) ; iPass < 3; iPass++)
+    {
 		int iLoop;
 		bool bNeedsAirlift = false;
 		for (CvCity* pLoopCity = GET_PLAYER(getOwnerINLINE()).firstCity(&iLoop); pLoopCity != NULL; pLoopCity = GET_PLAYER(getOwnerINLINE()).nextCity(&iLoop))

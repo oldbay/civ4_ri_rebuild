@@ -13,7 +13,11 @@
 
 void CySelectionGroupInterface()
 {
-	OutputDebugString("Python Extension Module - CySelectionGroupInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CySelectionGroupInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CySelectionGroupInterface\n");
+    #endif
 
 	python::class_<CySelectionGroup>("CySelectionGroup")
 		.def("isNone", &CySelectionGroup::isNone, "bool () - is this CySelectionGroup instance valid?")

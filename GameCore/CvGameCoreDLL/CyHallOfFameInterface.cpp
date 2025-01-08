@@ -9,7 +9,11 @@
 
 void CyHallOfFameInterface()
 {
-	OutputDebugString("Python Extension Module - CyReplayInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyReplayInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CyReplayInterface\n");
+    #endif
 
 	python::class_<CyReplayInfo>("CyReplayInfo")
 		.def("isNone", &CyReplayInfo::isNone, "bool () - Returns whether or not this is a valid object")

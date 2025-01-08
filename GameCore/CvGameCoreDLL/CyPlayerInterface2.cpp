@@ -15,7 +15,11 @@
 
 void CyPlayerPythonInterface2(python::class_<CyPlayer>& x)
 {
-	OutputDebugString("Python Extension Module - CyPlayerPythonInterface2\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyPlayerPythonInterface2\n";
+    #else
+    OutputDebugString("Python Extension Module - CyPlayerPythonInterface2\n");
+    #endif
 
 	// set the docstring of the current module scope 
 	python::scope().attr("__doc__") = "Civilization IV Player Class"; 

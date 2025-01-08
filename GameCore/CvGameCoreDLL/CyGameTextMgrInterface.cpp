@@ -7,7 +7,11 @@
 
 void CyGameTextMgrInterface()
 {
-	OutputDebugString("Python Extension Module - CyTextMgr\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyTextMgr\n";
+    #else
+    OutputDebugString("Python Extension Module - CyTextMgr\n");
+    #endif
 
 	python::class_<CyGameTextMgr>("CyGameTextMgr")
 		.def("isNone", &CyGameTextMgr::isNone, "bool () - Checks to see if pointer points to a real object")

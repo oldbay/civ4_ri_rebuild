@@ -8,7 +8,11 @@
 
 void CyInfoPythonInterface1()
 {
-	OutputDebugString("Python Extension Module - CyInfoPythonInterface1\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyInfoPythonInterface1\n";
+    #else
+    OutputDebugString("Python Extension Module - CyInfoPythonInterface1\n");
+    #endif
 
 	python::class_<CvInfoBase>("CvInfoBase")
 

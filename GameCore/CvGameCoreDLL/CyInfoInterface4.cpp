@@ -8,7 +8,11 @@
 
 void CyInfoPythonInterface4()
 {
-	OutputDebugString("Python Extension Module - CyInfoPythonInterface4\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyInfoPythonInterface4\n";
+    #else
+    OutputDebugString("Python Extension Module - CyInfoPythonInterface4\n");
+    #endif
 
 	// MOD - START - Core Game Events
 	python::class_<CvGameEventInfo, python::bases<CvInfoBase> >("CvGameEventInfo")

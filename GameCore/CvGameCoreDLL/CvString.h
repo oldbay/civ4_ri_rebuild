@@ -47,8 +47,11 @@ public:
 			if (iLen)
 			{
                 wchar *w = new wchar[iLen+1];
-                //swprintf(w, L"%S", s);	// convert
-                swprintf(w, iLen, L"%S", s);	// convert
+                #if defined(__GNUC__)
+                wprintf(w, L"%S", s);	// convert
+                #else
+                swprintf(w, L"%S", s);	// convert
+                #endif
                 assign(w);
 				delete [] w;
 			}

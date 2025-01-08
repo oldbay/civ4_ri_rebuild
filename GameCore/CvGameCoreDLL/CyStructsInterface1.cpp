@@ -11,7 +11,11 @@
 
 void CyStructsPythonInterface1()
 {
-	OutputDebugString("Python Extension Module - CyStructsPythonInterface1\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyStructsPythonInterface1\n";
+    #else
+    OutputDebugString("Python Extension Module - CyStructsPythonInterface1\n");
+    #endif
 
 	python::class_<NiPoint3>("NiPoint3")
 		.def(python::init<float, float, float>())	// ctor which takes 3 floats

@@ -1,8 +1,8 @@
 #include "CvGameCoreDLL.h"
 #include"CvEnums.h"
 
-#include "CvGameCoreDLLUnDefNew.h"
-# include <boost/python/enum.hpp>
+#include "CvGameCoreDLLUndefNew.h"
+#include <boost/python/enum.hpp>
 #include "CvGameCoreDLLDefNew.h"
 
 //
@@ -11,7 +11,11 @@
 
 void CyEnumsPythonInterface()
 {
-	OutputDebugString("Python Extension Module - CyEnumsPythonInterface\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyEnumsPythonInterface\n";
+    #else
+    OutputDebugString("Python Extension Module - CyEnumsPythonInterface\n");
+    #endif
 
 	python::enum_<GameStateTypes>("GameStateTypes")
 		.value("GAMESTATE_ON", GAMESTATE_ON)

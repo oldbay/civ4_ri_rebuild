@@ -24,7 +24,11 @@ BOOST_PYTHON_MEMBER_FUNCTION_OVERLOADS(CyPlot_isCity_overloads, CyPlot::isCity, 
 
 void CyPlotPythonInterface1(python::class_<CyPlot>& x)
 {
-	OutputDebugString("Python Extension Module - CyPlotPythonInterface1\n");
+    #if defined(__GNUC__)
+    std::clog << "Python Extension Module - CyPlotPythonInterface1\n";
+    #else
+    OutputDebugString("Python Extension Module - CyPlotPythonInterface1\n");
+    #endif
 
 	x
 		.def("isNone", &CyPlot::isNone, "bool ()")
