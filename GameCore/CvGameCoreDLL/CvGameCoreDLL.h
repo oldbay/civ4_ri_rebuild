@@ -20,6 +20,11 @@
 #include <cstring>
 #include <stdbool.h>
 
+//???
+//#include <stdarg.h>
+//#include <wchar.h>
+//???
+
 //DWORD
 #define DWORD uint32_t
 

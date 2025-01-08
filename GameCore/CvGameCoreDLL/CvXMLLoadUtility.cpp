@@ -26,8 +26,13 @@ static const int kBufSize = 2048;
 void CvXMLLoadUtility::logMsg(char* format, ... )
 {
 	static char buf[kBufSize];
-	_vsnprintf( buf, kBufSize-4, format, (char*)(&format+1) );
-	gDLL->logMsg("xml.log", buf);
+    #if defined(__GNUC__)
+    //vsnprintf( buf, kBufSize-4, format, (char*)(&format+1) ); //???
+    printf( buf, kBufSize-4, format, (char*)(&format+1) ); //???
+    #else
+    _vsnprintf( buf, kBufSize-4, format, (char*)(&format+1) );
+    #endif
+    gDLL->logMsg("xml.log", buf);
 }
 
 bool CvXMLLoadUtility::CreateFXml()
@@ -115,7 +120,7 @@ void CvXMLLoadUtility::ResetGlobalEffectInfo()
 
 	GC.getEffectInfo().clear();
 
-	LoadGlobalClassInfo(GC.getEffectInfo(), "CIV4EffectInfos", "Misc", "Civ4EffectInfos/EffectInfos/EffectInfo", false, false);
+    LoadGlobalClassInfo(GC.getEffectInfo(), "CIV4EffectInfos", "Misc", "Civ4EffectInfos/EffectInfos/EffectInfo", false);
 }
 
 
@@ -324,7 +329,7 @@ int CvXMLLoadUtility::FindInInfoClass(const TCHAR* pszVal, bool hideAssert)
 
 	if(!hideAssert)
 	{
-		if (_tcscmp(pszVal,"NONE")!=0 && _tcscmp(pszVal,"")!=0)
+        if (strcmp(pszVal,"NONE")!=0 && strcmp(pszVal,"")!=0)
 		{
 			char errorMsg[1024];
 			sprintf(errorMsg, "Tag: %s in Info class was incorrect \n Current XML file is: %s", pszVal, GC.getCurrentXMLFile().GetCString());
@@ -349,9 +354,14 @@ bool CvXMLLoadUtility::LoadCivXml(FXml* pFXml, const TCHAR* szFilename)
 {
 	char szLog[256];
 	sprintf(szLog, "LoadCivXml (%s)", szFilename);
-	PROFILE(szLog);
-	OutputDebugString(szLog);
-	OutputDebugString("\n");
+    PROFILE(szLog);
+#if defined(__GNUC__)
+    std::clog << szLog;
+    std::clog << "\n";
+#else
+    OutputDebugString(szLog);
+    OutputDebugString("\n");
+#endif
 
 	CvString szPath = szFilename;
 	CvString fsFilename = szFilename;

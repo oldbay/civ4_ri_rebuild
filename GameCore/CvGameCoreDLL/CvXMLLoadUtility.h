@@ -19,6 +19,11 @@
 #include "CvInfos.h"
 #include "CvGlobals.h"
 
+//???
+#include "CvDLLXMLIFaceBase.h"
+#include "FVariableSystem.h"
+//???
+
 class FXmlSchemaCache;
 class FXml;
 class CvGameText;
@@ -453,7 +458,7 @@ void CvXMLLoadUtility::SetEconomicEffectMap(std::map<std::pair<InfoType, EffectT
 
 									if (iValue != 0)
 									{
-										std::pair<std::map<std::pair<InfoType, EffectType>, int>::iterator, bool> it = map.insert(std::make_pair(std::make_pair(eInfo, eEffect), iValue));
+                                        std::pair<typename std::map<std::pair<InfoType, EffectType>, int>::iterator, bool> it = map.insert(std::make_pair(std::make_pair(eInfo, eEffect), iValue));
 
 										if (!it.second)
 										{
@@ -488,7 +493,7 @@ void CvXMLLoadUtility::SetEconomicEffectLookup(const std::map<std::pair<InfoType
 	int** ppiLookup = *pppiLookup;
 
 	// Copy data from the map (a binary tree which is properly sorted) to the lookup array
-	for (std::map<std::pair<InfoType, EffectType>, int>::const_iterator it = map.begin(); it != map.end(); ++it)
+    for (typename std::map<std::pair<InfoType, EffectType>, int>::const_iterator it = map.begin(); it != map.end(); ++it)
 	{
 		ppiLookup[(*it).first.first][(*it).first.second] = (*it).second;
 	}
@@ -520,7 +525,7 @@ void CvXMLLoadUtility::SetEconomicEffectEnumeration(const std::map<std::pair<Inf
 
 	// Copy data from the map (a binary tree which is properly sorted) to the enumeration array
 	int i = 0;
-	for (std::map<std::pair<InfoType, EffectType>, int>::const_iterator it = map.begin(); it != map.end(); ++it)
+    for (typename std::map<std::pair<InfoType, EffectType>, int>::const_iterator it = map.begin(); it != map.end(); ++it)
 	{
 		T kOutput = { (*it).first.first, (*it).first.second, (*it).second };
 		paEnumeration[i++] = kOutput;
