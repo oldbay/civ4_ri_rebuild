@@ -1,12 +1,13 @@
 #pragma once
 
-#include "CvGameCoreDLL.h"
+#include "CvStructs.h"
+
 
 // MOD - START - Population Metrics
 template <typename TKey>
 inline int TurnValueMap<TKey>::getTurnValue(TKey eKey, int iTurn) const
 {
-	data::const_iterator it = aValues.find(std::make_pair(eKey, iTurn));
+    typename data::const_iterator it = aValues.find(std::make_pair(eKey, iTurn));
 	if (it!=aValues.end())
 	{
 		return it->second;
@@ -19,7 +20,7 @@ inline void TurnValueMap<TKey>::setTurnValue(TKey eKey, int iTurn, int iValue)
 {
 	if (iValue != 0)
 	{
-		std::pair<data::iterator, bool> it = aValues.insert(std::make_pair(std::make_pair(eKey, iTurn), iValue));
+        std::pair<typename data::iterator, bool> it = aValues.insert(std::make_pair(std::make_pair(eKey, iTurn), iValue));
 
 		if (it.second)
 		{
@@ -40,7 +41,7 @@ inline void TurnValueMap<TKey>::setTurnValue(TKey eKey, int iTurn, int iValue)
 	}
 	else
 	{
-		data::iterator it = aValues.find(std::make_pair(eKey, iTurn));
+        typename data::iterator it = aValues.find(std::make_pair(eKey, iTurn));
 		if (it != aValues.end())
 		{
 			// Deleted entry
@@ -58,7 +59,7 @@ inline void TurnValueMap<TKey>::changeTurnValue(TKey eKey, int iTurn, int iChang
 {
 	if (iChange != 0)
 	{
-		std::pair<data::iterator, bool> it = aValues.insert(std::make_pair(std::make_pair(eKey, iTurn), iChange));
+        std::pair<typename data::iterator, bool> it = aValues.insert(std::make_pair(std::make_pair(eKey, iTurn), iChange));
 
 		if (it.second)
 		{
@@ -92,7 +93,7 @@ inline void TurnValueMap<TKey>::changeTurnValue(TKey eKey, int iTurn, int iChang
 template <typename TKey>
 inline TurnValueStats TurnValueMap<TKey>::getStats(TKey eKey) const
 {
-	keyed_stats::const_iterator it = aKeyedStats.find(eKey);
+    typename keyed_stats::const_iterator it = aKeyedStats.find(eKey);
 	if (it != aKeyedStats.end())
 	{
 		return it->second;
@@ -230,7 +231,7 @@ inline void TurnValueMap<TKey>::write(FDataStreamBase* pStream)
 		return;
 	}
 
-	for (data::const_iterator it = aValues.begin(); it != aValues.end();)
+    for (typename data::const_iterator it = aValues.begin(); it != aValues.end();)
 	{
 		TKey eStreamKey = it->first.first;
 
@@ -261,7 +262,7 @@ inline void TurnValueMap<TKey>::write(FDataStreamBase* pStream)
 			// Scan the upcoming values in order to determine the most efficient encoding
 			TurnValueMap<TKey>::data::const_iterator scan = it;
 			for (++scan; scan != end && iChunkLength < MAX_UNSIGNED_SHORT; ++scan, iChunkLength++)
-			{
+            {
 				int iLoopTurn = scan->first.second;
 				if (iLoopTurn != iStartTurn + iChunkLength)
 				{
@@ -382,7 +383,7 @@ inline void TurnValueMap<TKey>::write(FDataStreamBase* pStream)
 template <typename TKey>
 inline void TurnValueMap<TKey>::updateGlobalStats()
 {
-	data::const_iterator it=aValues.begin();
+    typename data::const_iterator it=aValues.begin();
 	if (it != aValues.end())
 	{
 		kGlobalStats.iNumValues = 0;
@@ -445,7 +446,7 @@ inline void TurnValueMap<TKey>::updateKeyedStats()
 {
 	aKeyedStats.clear();
 
-	data::const_iterator it=aValues.begin();
+    typename data::const_iterator it=aValues.begin();
 	if (it != aValues.end())
 	{
 		TKey eKey = it->first.first;
@@ -476,7 +477,7 @@ inline void TurnValueMap<TKey>::updateKeyedStats(TKey eKey)
 {
 	TurnValueStats kStats = TurnValueStats();
 
-	for (data::const_iterator it=aValues.lower_bound(std::make_pair(eKey, 0)); it != aValues.end(); ++it)
+    for (typename data::const_iterator it=aValues.lower_bound(std::make_pair(eKey, 0)); it != aValues.end(); ++it)
 	{
 		if (it->first.first != eKey)
 		{
@@ -498,7 +499,7 @@ inline void TurnValueMap<TKey>::updateKeyedStats(TKey eKey)
 
 	if (kStats.iNumValues > 0)
 	{
-		std::pair<keyed_stats::iterator, bool> it = aKeyedStats.insert(std::make_pair(eKey, kStats));
+        std::pair<typename keyed_stats::iterator, bool> it = aKeyedStats.insert(std::make_pair(eKey, kStats));
 		if (!it.second)
 		{
 			it.first->second.iNumValues = kStats.iNumValues;
@@ -508,7 +509,7 @@ inline void TurnValueMap<TKey>::updateKeyedStats(TKey eKey)
 	}
 	else
 	{
-		keyed_stats::iterator it = aKeyedStats.find(eKey);
+        typename keyed_stats::iterator it = aKeyedStats.find(eKey);
 		if (it != aKeyedStats.end())
 		{
 			aKeyedStats.erase(it);
@@ -521,7 +522,7 @@ inline void TurnValueMap<TKey>::updateKeyedStats(TKey eKey, int iCountChange, in
 {
 	FAssert(iCountChange == 1);
 
-	std::pair<keyed_stats::iterator, bool> it = aKeyedStats.insert(std::make_pair(eKey, TurnValueStats(1, iValue, iValue)));
+    std::pair<typename keyed_stats::iterator, bool> it = aKeyedStats.insert(std::make_pair(eKey, TurnValueStats(1, iValue, iValue)));
 	if (!it.second)
 	{
 		it.first->second.iNumValues += iCountChange;
@@ -536,9 +537,9 @@ inline void TurnValueMap<TKey>::updateKeyedStats(TKey eKey, int iCountChange, in
 	FAssert(iCountChange == -1 || iCountChange == 0);
 	FAssert(aKeyedStats.size() > 0);
 
-	keyed_stats::iterator it = aKeyedStats.find(eKey);
+    typename keyed_stats::iterator it = aKeyedStats.find(eKey);
 	if (it != aKeyedStats.end())
-	{
+    {
 		it->second.iNumValues += iCountChange;
 		if (it->second.iNumValues == 0)
 		{

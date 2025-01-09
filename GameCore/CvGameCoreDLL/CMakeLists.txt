@@ -221,6 +221,7 @@ set(Headers
     "CvStatistics.h"
     "CvString.h"
     "CvStructs.h"
+    "CvStructs.inl"
     "CvTalkingHeadMessage.h"
     "CvTeam.h"
     "CvTeamAI.h"
@@ -259,6 +260,7 @@ set(Headers
     "FInputDevice.h"
     "FProfiler.h"
     "FVariableSystem.h"
+    "FVariableSystem.inl"
     "LinkedList.h"
     "resource.h"
 )

@@ -11,7 +11,7 @@
 //  Copyright (c) 2002-2004 Firaxis Games, Inc. All rights reserved.
 //------------------------------------------------------------------------------------------------
 
-#include "CvGameCoreDLL.h"
+#include "FVariableSystem.h"
 
 
 #if defined(__GNUC__)
@@ -402,8 +402,10 @@ inline bool FVariableSystem::GetValue( const char * szVariable, float & fValue )
 			{
 				return false;
 			}
-			fValue = (float)_wtof(szValue);
-		}
+            //fValue = (float)_wtof(szValue); //PORT OLD
+            wchar * e;
+            fValue = (float)std::wcstod(szValue, &e); //PORT NEW
+        }
 		break;
 	default:
 		assert(false);
@@ -457,8 +459,10 @@ inline bool FVariableSystem::GetValue( const char * szVariable, double & dValue 
 			{
 				return false;
 			}
-			dValue = _wtof(szValue);
-		}
+            //dValue = _wtof(szValue); //PORT OLD
+            wchar * e;
+            dValue = std::wcstod(szValue, &e); //PORT NEW
+        }
 		break;
 	default:
 		assert(false);

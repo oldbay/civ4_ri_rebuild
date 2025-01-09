@@ -20,6 +20,7 @@
 #include <cstring>
 #include <stdbool.h>
 #include <float.h>
+#include <cstdlib>
 
 //???
 //#include <stdarg.h>
