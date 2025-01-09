@@ -6603,8 +6603,9 @@ void CvGameTextMgr::setPlotHelp(CvWStringBuffer& szString, CvPlot* pPlot)
 /*************************************************************************************************/
 /* UNOFFICIAL_PATCH                         END                                                  */
 /*************************************************************************************************/
-	}
-	szString.assign(CvWString::format(L"<font=1>%s</font>", szString));
+    }
+    //szString.assign(CvWString::format(L"<font=1>%s</font>", szString)); //PORT OLD
+    szString.assign(CvWString::format(L"<font=1>%s</font>", szString.getCString())); //PORT NEW
 }
 
 // MOD - START - Aid and Detriments
@@ -20085,12 +20086,12 @@ void CvGameTextMgr::parseLeaderHeadHelp(CvWStringBuffer &szBuffer, PlayerTypes e
 #define trait_info(x) do { \
 	if (kFoundSet.b##x) \
 	{ \
-        szBuffer.append(CvWString::format(L"%s" L#x, bFirst? L"" : L", ")); \
+        szBuffer.append(CvWString::format(L"%s" L"#x", bFirst? L"" : L", ")); \
 		bFirst = false; \
-	} \
+    } \
 } while (0)
 
-		trait_info(Ambitious);
+        trait_info(Ambitious);
 		trait_info(Defensive);
 		trait_info(EasyCulture);
 		trait_info(Expansive);
@@ -20102,7 +20103,7 @@ void CvGameTextMgr::parseLeaderHeadHelp(CvWStringBuffer &szBuffer, PlayerTypes e
 #define flavour_info(x) do { \
 	if (kPlayer.AI_getFlavorValue(FLAVOR_##x)) \
 	{ \
-        szBuffer.append(CvWString::format(L"%s" L#x L"=%d", bFirst? L"" : L", ", kPlayer.AI_getFlavorValue(FLAVOR_##x))); \
+        szBuffer.append(CvWString::format(L"%s" L"#x" L"=%d", bFirst? L"" : L", ", kPlayer.AI_getFlavorValue(FLAVOR_##x))); \
 		bFirst = false; \
 	} \
 } while (0)

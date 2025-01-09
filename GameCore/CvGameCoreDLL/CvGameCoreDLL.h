@@ -19,6 +19,7 @@
 #include <chrono>
 #include <cstring>
 #include <stdbool.h>
+#include <float.h>
 
 //???
 //#include <stdarg.h>

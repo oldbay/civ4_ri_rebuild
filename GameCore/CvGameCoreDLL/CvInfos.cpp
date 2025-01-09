@@ -6105,7 +6105,13 @@ const TCHAR* CvUnitInfo::getEarlyArtDefineTag(int i, UnitArtStyleTypes eStyle) c
 		}
 	}
 
-	return (m_paszEarlyArtDefineTags) ? m_paszEarlyArtDefineTags[i] : NULL;
+    //return (m_paszEarlyArtDefineTags) ? m_paszEarlyArtDefineTags[i] : NULL; //PORT OLD
+    if (m_paszEarlyArtDefineTags) {
+        return m_paszEarlyArtDefineTags[i];
+    }
+    else {
+        return NULL;
+    } //PORT NEW
 }
 
 void CvUnitInfo::setEarlyArtDefineTag(int i, const TCHAR* szVal)
@@ -6134,7 +6140,13 @@ const TCHAR* CvUnitInfo::getLateArtDefineTag(int i, UnitArtStyleTypes eStyle) co
 
 	}
 
-	return (m_paszLateArtDefineTags) ? m_paszLateArtDefineTags[i] : NULL;
+    //return (m_paszLateArtDefineTags) ? m_paszLateArtDefineTags[i] : NULL; //PORT OLD
+    if (m_paszLateArtDefineTags) {
+        return m_paszLateArtDefineTags[i];
+    }
+    else {
+        return NULL;
+    } //PORT NEW
 }
 
 void CvUnitInfo::setLateArtDefineTag(int i, const TCHAR* szVal)
@@ -6163,7 +6175,13 @@ const TCHAR* CvUnitInfo::getMiddleArtDefineTag(int i, UnitArtStyleTypes eStyle) 
 
 	}
 
-	return (m_paszMiddleArtDefineTags) ? m_paszMiddleArtDefineTags[i] : NULL;
+    //return (m_paszMiddleArtDefineTags) ? m_paszMiddleArtDefineTags[i] : NULL; //PORT OLD
+    if (m_paszMiddleArtDefineTags) {
+        return m_paszMiddleArtDefineTags[i];
+    }
+    else {
+        return NULL;
+    } //PORT NEW
 }
 
 void CvUnitInfo::setMiddleArtDefineTag(int i, const TCHAR* szVal)
@@ -6177,7 +6195,13 @@ const TCHAR* CvUnitInfo::getUnitNames(int i) const
 {
 	FAssertMsg(i < getNumUnitNames(), "Index out of bounds");
 	FAssertMsg(i > -1, "Index out of bounds");
-	return (m_paszUnitNames) ? m_paszUnitNames[i] : NULL;
+    //return (m_paszUnitNames) ? m_paszUnitNames[i] : NULL; //PORT OLD
+    if (m_paszUnitNames) {
+        return m_paszUnitNames[i];
+    }
+    else {
+        return NULL;
+    } //PORT NEW
 }
 
 const TCHAR* CvUnitInfo::getFormationType() const
@@ -9975,8 +9999,9 @@ bool CvUnitClassInfo::readPass3()
 		m_iDefaultUnitIndex = NO_UNIT;
 
 		TCHAR	szMessage[1024];
-		snprintf( szMessage, 1024, "%s was specified as the default unit for %s, but the unit is not a member of that unit class.\n\nCurrent XML file is: %s", m_aszExtraXMLforPass3[0], getType(), GC.getCurrentXMLFile());
-		gDLL->MessageBox(szMessage, "XML Load Error");
+        //snprintf( szMessage, 1024, "%s was specified as the default unit for %s, but the unit is not a member of that unit class.\n\nCurrent XML file is: %s", m_aszExtraXMLforPass3[0], getType(), GC.getCurrentXMLFile()); //PORT OLD
+        snprintf( szMessage, 1024, "%s was specified as the default unit for %s, but the unit is not a member of that unit class.\n\nCurrent XML file is: %s", m_aszExtraXMLforPass3[0].c_str(), getType(), GC.getCurrentXMLFile().c_str()); //PORT NEW
+        gDLL->MessageBox(szMessage, "XML Load Error");
 	}
 	m_aszExtraXMLforPass3.clear();
 	// MOD - START - Robust XML Loader
@@ -15207,8 +15232,9 @@ bool CvBuildingClassInfo::readPass3()
 		m_iDefaultBuildingIndex = NO_BUILDING;
 
 		TCHAR	szMessage[1024];
-		snprintf( szMessage, 1024, "%s was specified as the default building for %s, but the building is not a member of that building class.\n\nCurrent XML file is: %s", m_aszExtraXMLforPass3[0], getType(), GC.getCurrentXMLFile());
-		gDLL->MessageBox(szMessage, "XML Load Error");
+        //snprintf( szMessage, 1024, "%s was specified as the default building for %s, but the building is not a member of that building class.\n\nCurrent XML file is: %s", m_aszExtraXMLforPass3[0], getType(), GC.getCurrentXMLFile()); //PORT OLD
+        snprintf( szMessage, 1024, "%s was specified as the default building for %s, but the building is not a member of that building class.\n\nCurrent XML file is: %s", m_aszExtraXMLforPass3[0].c_str(), getType(), GC.getCurrentXMLFile().c_str()); //PORT NEW
+        gDLL->MessageBox(szMessage, "XML Load Error");
 	}
 	m_aszExtraXMLforPass3.clear();
 	// MOD - END - Robust XML Loader
@@ -25802,15 +25828,17 @@ bool CvAnimationPathInfo::read(CvXMLLoadUtility* pXML)
 	gDLL->getXMLIFace()->NextSibling(pXML->GetXML());
 	do
 	{
-		if ( pXML->GetChildXmlValByName( szTempString, _T("Category") ))
-		{
+        //if ( pXML->GetChildXmlValByName( szTempString, _T("Category") )) //PORT OLD
+        if ( pXML->GetChildXmlValByName( szTempString, "Category" )) //PORT NEW
+        {
 			iCurrentCategory = pXML->FindInInfoClass( szTempString);
 			fParameter = 0.0f;
 		}
 		else
 		{
-			pXML->GetChildXmlValByName( szTempString, _T("Operator"));
-			iCurrentCategory = GC.getTypesEnum(szTempString);
+            //pXML->GetChildXmlValByName( szTempString, _T("Operator")); //PORT OLD
+            pXML->GetChildXmlValByName( szTempString, "Operator"); //PORT NEW
+            iCurrentCategory = GC.getTypesEnum(szTempString);
 			iCurrentCategory = ((int)ANIMOP_FIRST) + iCurrentCategory;
 			if ( !pXML->GetChildXmlValByName( &fParameter, "Parameter" ) )
 			{
