@@ -108,8 +108,9 @@ int CvDLLPythonIFaceBase::putSeqInArray(PyObject* src, T** aDst)
 	for (i=0;i<size;i++)
 	{
 		PyObject* item = PySequence_GetItem(src, i); /* Can't fail */
-		FAssertMsg(PyInt_Check(item), "sequence item is not an int");
-        (*aDst)[i] = (T)PyLong_AsLong(item);
+        FAssertMsg(PyInt_Check(item), "sequence item is not an int");
+        //(*aDst)[i] = (T)PyInt_AsLong(item); //PORT OLD
+        (*aDst)[i] = (T)PyLong_AsLong(item); //PORT NEW
 		Py_DECREF(item);
 	}
 	return size;
@@ -159,8 +160,9 @@ int CvDLLPythonIFaceBase::putStringSeqInArray(PyObject* src, T** aDst)
 	{
 		PyObject* item = PySequence_GetItem(src, i); /* Can't fail */
 		FAssertMsg(PyString_Check(item), "sequence item is not a string");
-        (*aDst)[i] = (T)PyUnicode_AsUTF8(item);
-		Py_DECREF(item);
+        //(*aDst)[i] = (T)PyString_AsString(item); //PORT OLD
+        (*aDst)[i] = (T)PyUnicode_AsUTF8String(item); //PORT NEW
+        Py_DECREF(item);
 	}
 	return size;
 }

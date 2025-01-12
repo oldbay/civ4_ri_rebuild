@@ -5030,8 +5030,11 @@ TechTypes CvPlayerAI::AI_bestTech(int iMaxPathLength, bool bFreeTech, bool bAsyn
 	std::vector<int> viBonusClassHave(GC.getNumBonusClassInfos(), 0);
 
 	// Find make lists of which bonuses we have / don't have / can see. This is used for tech evaluation
-	for (int iI = 0; iI < GC.getNumBonusInfos(); iI++)
-	{
+
+    //for (int iI = 0; iI < GC.getNumBonusInfos(); iI++) //PORT OLD
+    int iI; //PORT NEW
+    for (iI = 0; iI < GC.getNumBonusInfos(); iI++) //PORT NEW
+    {
 	    TechTypes eRevealTech = (TechTypes)GC.getBonusInfo((BonusTypes)iI).getTechReveal();
 	    BonusClassTypes eBonusClass = (BonusClassTypes)GC.getBonusInfo((BonusTypes)iI).getBonusClassType();
 	    if (eRevealTech != NO_TECH)
@@ -5349,16 +5352,19 @@ TechTypes CvPlayerAI::AI_bestTech(int iMaxPathLength, bool bFreeTech, bool bAsyn
 					{
 						techs_in_path.insert(techs[j].second);
 						// Note: since this tech isn't a prereqs, it can go anywhere in our path. Try to research highest values first.
-						for (int k = 0; k < (int)tech_paths.back().second.size(); ++k)
-						{
-							if (techs[j].first < techs[tech_paths.back().second[k]].first)
+
+                        //for (int k = 0; k < (int)tech_paths.back().second.size(); ++k) //PORT OLD: k to k_res_hig
+                        int k_res_hig; //PORT NEW - declare k_res_hig
+                        for (k_res_hig = 0; k_res_hig < (int)tech_paths.back().second.size(); ++k_res_hig)
+                        {
+                            if (techs[j].first < techs[tech_paths.back().second[k_res_hig]].first)
 							{
 								// Note: we'll need to recalculate the total value.
-								tech_paths.back().second.insert(tech_paths.back().second.begin()+k, j);
+                                tech_paths.back().second.insert(tech_paths.back().second.begin()+k_res_hig, j);
 								break;
 							}
 						}
-						if (k == tech_paths.back().second.size())
+                        if (k_res_hig == tech_paths.back().second.size())
 						{
 							// haven't added it yet
 							tech_paths.back().second.push_back(j);

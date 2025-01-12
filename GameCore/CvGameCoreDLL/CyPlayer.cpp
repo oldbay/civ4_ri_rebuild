@@ -107,12 +107,18 @@ CyUnit* CyPlayer::initUnit(int /*UnitTypes*/ iIndex, int iX, int iY, UnitAITypes
 
 void CyPlayer::setFlagDecal(std::wstring szFlagDecal, bool bUpdate)
 {
-	return m_pPlayer ? m_pPlayer->setFlagDecal(szFlagDecal, true) : NULL;
+    //return m_pPlayer ? m_pPlayer->setFlagDecal(szFlagDecal, true) : NULL; //PORT OLD
+    if (m_pPlayer){
+        return m_pPlayer->setFlagDecal(szFlagDecal, true);
+    } //PORT NEW
 }
 
 void CyPlayer::disbandUnit(bool bAnnounce)
 {
-	return m_pPlayer ? m_pPlayer->disbandUnit(bAnnounce) : NULL;
+    //return m_pPlayer ? m_pPlayer->disbandUnit(bAnnounce) : NULL; //PORT OLD
+    if (m_pPlayer){
+        return m_pPlayer->disbandUnit(bAnnounce);
+    } //PORT NEW
 }
 
 void CyPlayer::killUnits()
@@ -221,7 +227,10 @@ bool CyPlayer::isWhiteFlag()
 
 void CyPlayer::setWhiteFlag(bool bNewValue)
 {
-	return m_pPlayer ? m_pPlayer->setWhiteFlag(bNewValue) : NULL;
+    //return m_pPlayer ? m_pPlayer->setWhiteFlag(bNewValue) : NULL; //PORT OLD
+    if (m_pPlayer){
+        return m_pPlayer->setWhiteFlag(bNewValue);
+    } //PORT NEW
 }
 
 std::wstring CyPlayer::getStateReligionName(int iForm)
@@ -236,12 +245,24 @@ std::wstring CyPlayer::getStateReligionKey( )
 
 std::wstring CyPlayer::getBestAttackUnitName(int iForm)
 {
-	return m_pPlayer ? m_pPlayer->getBestAttackUnitName((uint)iForm) : std::wstring();
+    //return m_pPlayer ? m_pPlayer->getBestAttackUnitName((uint)iForm) : std::wstring(); //PORT OLD
+    if (m_pPlayer){
+        return m_pPlayer->getBestAttackUnitName((uint)iForm);
+    }
+    else {
+        return std::wstring();
+    } //PORT NEW
 }
 
 std::wstring CyPlayer::getWorstEnemyName()
 {
-	return m_pPlayer ? m_pPlayer->getWorstEnemyName() : std::wstring();
+    //return m_pPlayer ? m_pPlayer->getWorstEnemyName() : std::wstring(); //PORT OLD
+    if (m_pPlayer) {
+        return m_pPlayer->getWorstEnemyName();
+    }
+    else {
+        return std::wstring();
+    } //PORT NEW
 }
 
 std::wstring CyPlayer::getBestAttackUnitKey()

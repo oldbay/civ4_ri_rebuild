@@ -21,10 +21,10 @@
 #include <stdbool.h>
 #include <float.h>
 #include <cstdlib>
+#include <wchar.h>
 
 //???
 //#include <stdarg.h>
-//#include <wchar.h>
 //???
 
 //DWORD
@@ -103,6 +103,10 @@ struct POINT {
 //_str*cmp
 #define _stricmp strcasecmp
 #define _strnicmp strncasecmp
+
+//_wcs*cmp
+#define _wcsicmp wcscasecmp
+#define _wcsnicmp wcsncasecmp
 
 //TRUE & FALSE macros
 #define BOOL bool

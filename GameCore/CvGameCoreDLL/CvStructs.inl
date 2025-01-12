@@ -237,7 +237,7 @@ inline void TurnValueMap<TKey>::write(FDataStreamBase* pStream)
 
 		// Find the end of the set of values for this key and count how many there are
 		int iSeriesLength = 0;
-		TurnValueMap<TKey>::data::const_iterator end;
+        typename TurnValueMap<TKey>::data::const_iterator end;
 		for (end = it; end != aValues.end(); ++end, ++iSeriesLength)
 		{
 			if (end->first.first != eStreamKey)
@@ -260,7 +260,7 @@ inline void TurnValueMap<TKey>::write(FDataStreamBase* pStream)
 			byte iEncodingSize = 1;
 
 			// Scan the upcoming values in order to determine the most efficient encoding
-			TurnValueMap<TKey>::data::const_iterator scan = it;
+            typename TurnValueMap<TKey>::data::const_iterator scan = it;
 			for (++scan; scan != end && iChunkLength < MAX_UNSIGNED_SHORT; ++scan, iChunkLength++)
             {
 				int iLoopTurn = scan->first.second;

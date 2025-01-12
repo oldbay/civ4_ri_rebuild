@@ -9,7 +9,8 @@
 
 void CyArgsList::add(int i) 
 { 
-	push_back(PyInt_FromLong(i)); 
+    //push_back(PyInt_FromLong(i)); //PORT OLD
+    push_back(PyLong_FromLong(i)); //PORT NEW
 }
 
 void CyArgsList::add(float f) 
@@ -26,7 +27,8 @@ void CyArgsList::add(void* p)
 // add null-terminated string
 void CyArgsList::add(const char* s)
 {
-	push_back(PyString_FromString(s));
+    //push_back(PyString_FromString(s)); //PORT OLD
+    push_back(PyUnicode_FromString(s)); //PORT NEW
 }
 
 // add null-terminated string
@@ -41,7 +43,8 @@ void CyArgsList::add(const wchar* s)
 // add data string
 void CyArgsList::add(const char* buf, int iLength)
 {
-	push_back(PyString_FromStringAndSize(buf, iLength));
+    //push_back(PyString_FromStringAndSize(buf, iLength)); //PORT OLD
+    push_back(PyUnicode_FromStringAndSize(buf, iLength)); //PORT NEW
 }
 
 // add float list
@@ -67,8 +70,9 @@ void CyArgsList::add(const byte* buf, int iLength)
 	int i;
 	for(i=0;i<iLength;i++)
 	{
-		PyObject* pItem=PyInt_FromLong(buf[i]);		// new ref
-		FAssertMsg(pItem, "failed creating PyInt");
+        //PyObject* pItem=PyInt_FromLong(buf[i]);		// new ref //PORT OLD
+        PyObject* pItem=PyLong_FromLong(buf[i]);		// new ref //PORT NEW
+        FAssertMsg(pItem, "failed creating PyInt");
 		PyList_SetItem(pList, i, pItem);				// steals the ref, no unref necesary
 	}
 	push_back(pList);
@@ -82,8 +86,9 @@ void CyArgsList::add(const int* buf, int iLength)
 	int i;
 	for(i=0;i<iLength;i++)
 	{
-		PyObject* pItem=PyInt_FromLong(buf[i]);		// new ref
-		FAssertMsg(pItem, "failed creating PyInt");
+        //PyObject* pItem=PyInt_FromLong(buf[i]);		// new ref //PORT OLD
+        PyObject* pItem=PyLong_FromLong(buf[i]);		// new ref //PORT NEW
+        FAssertMsg(pItem, "failed creating PyInt");
 		PyList_SetItem(pList, i, pItem);				// steals the ref, no unref necesary
 	}
 	push_back(pList);
