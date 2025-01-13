@@ -1,10 +1,13 @@
 
-GameCore/CvGameCoreDLL/build
-!GameCore/CvGameCoreDLL/build/.lock
-
 GameCore/CvGameCoreDLL/x64/Debug
 !GameCore/CvGameCoreDLL/x64/Debug/.lock
 
 GameCore/CvGameCoreDLL/x64/Release
 !GameCore/CvGameCoreDLL/x64/Release/.lock
+
+GameCore/CvGameCoreDLL/x64/Release-light
+!GameCore/CvGameCoreDLL/x64/Release-light/.lock
+
+GameCore/CvGameCoreDLL/x64/Release-symbols
+!GameCore/CvGameCoreDLL/x64/Release-symbols/.lock
 
