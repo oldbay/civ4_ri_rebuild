@@ -3742,8 +3742,10 @@ const wchar* CvPlayer::getName(uint uiForm) const
 // This sets the name of the player, ie Peter or Montezuma
 void CvPlayer::setName(std::wstring szNewValue)
 {
-	if ( isCityNameValid(CvWString(szNewValue), false))
-	{
+    //if ( isCityNameValid(CvWString(szNewValue), false)) //PORT OLD
+    CvWString NewValueCvWstring = CvWString(szNewValue);
+    if ( isCityNameValid(NewValueCvWstring, false)) //PORT NEW
+    {
 		m_szName = szNewValue;
 		gDLL->getInterfaceIFace()->setDirty(Score_DIRTY_BIT, true);
 		gDLL->getInterfaceIFace()->setDirty(Foreign_Screen_DIRTY_BIT, true);
@@ -13253,7 +13255,7 @@ void CvPlayer::onTurnLogging() const
 		{
 			CvWStringBuffer szBuffer;
 			GAMETEXT.setScoreHelp(szBuffer, getID());
-			logBBAI("%S", szBuffer);
+            //logBBAI("%S", szBuffer); //PORT OLD
 
 			int iGameTurn = GC.getGameINLINE().getGameTurn();
 			logBBAI("  Total Score: %d, Population Score: %d (%d total pop), Land Score: %d, Tech Score: %d, Wonder Score: %d", calculateScore(), getPopScore(false), getTotalPopulation(), getLandScore(false), getTechScore(), getWondersScore());
