@@ -35,7 +35,9 @@
 /* BETTER_BTS_AI_MOD                       END                                                  */
 /************************************************************************************************/
 // MOD - START - Graphical Paging (45deg)
+#if not defined(__GNUC__) //PORT OLD
 #include <psapi.h>
+#endif //PORT NEW
 // MOD - END - Graphical Paging (45deg)
 #define STANDARD_MINIMAP_ALPHA		(0.75f)
 
@@ -375,6 +377,7 @@ int findOldestEvictablePagingEntry()
 	return iResult;
 }
 
+#if not defined(__GNUC__) //PORT OLD
 #define DEFAULT_MAX_WORKING_SET_THRESHOLD_BEFORE_EVICTION ((size_t)1024*(size_t)1024*(size_t)1024*(size_t)2)
 #define DEFAULT_OS_MEMORY_ALLOWANCE ((size_t)1024*(size_t)1024*(size_t)512)
 
@@ -411,12 +414,17 @@ bool NeedToFreeMemory()
 		return false;
 	}
 }
+#endif //PORT NEW
 
 static bool bFoundEvictable = true;
 
 void CvPlot::EvictGraphicsIfNecessary()
 {
-	while(bFoundEvictable && NeedToFreeMemory())
+    #if defined(__GNUC__)
+    while(bFoundEvictable) //PORT NEW
+    #else
+    while(bFoundEvictable && NeedToFreeMemory()) //PORT OLD
+    #endif
 	{
 		int iEvictionIndex = findOldestEvictablePagingEntry();
 
@@ -6208,7 +6216,11 @@ CvString CvPlot::pickFeatureDummyTag(int mouseX, int mouseY)
 		return gDLL->getFeatureIFace()->pickDummyTag(m_pFeatureSymbol, mouseX, mouseY);
 	}
 
-	return NULL;
+    #if defined(__GNUC__)
+    return 0; //PORT NEW
+    #else
+    return NULL; //PORT OLD
+    #endif
 }
 
 void CvPlot::resetFeatureModel()
@@ -9969,8 +9981,12 @@ CvString CvPlot::getScriptData() const
 
 void CvPlot::setScriptData(const char* szNewValue)
 {
-	SAFE_DELETE_ARRAY(m_szScriptData);
-	m_szScriptData = _strdup(szNewValue);
+    SAFE_DELETE_ARRAY(m_szScriptData);
+    #if defined(__GNUC__)
+    m_szScriptData = strdup(szNewValue); //PORT NEW
+    #else
+    m_szScriptData = _strdup(szNewValue); //PORT OLD
+    #endif
 }
 
 // Protected Functions...
