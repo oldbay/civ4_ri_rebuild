@@ -8,7 +8,9 @@
 #define		LINKEDLIST_H
 #pragma		once
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "FDataStreamBase.h"
 
 template <class tVARTYPE> class CLinkList;
 

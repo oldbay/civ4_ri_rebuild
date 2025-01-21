@@ -3,7 +3,8 @@
 #ifndef BETTERBTSAI_H
 #define BETTERBTSAI_H
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
 
 // AI decision making logging
 

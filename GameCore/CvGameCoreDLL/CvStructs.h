@@ -5,8 +5,12 @@
 
 // structs.h
 
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
 #include "CvString.h"
+#include "CvEnums.h"
+#include "FDataStreamBase.h"
+#include "FFreeListArrayBase.h"
 
 // XXX these should not be in the DLL per se (if the user changes them, we are screwed...)
 

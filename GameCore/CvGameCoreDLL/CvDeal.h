@@ -6,7 +6,7 @@
 #define CIV4_DEAL_H
 
 //#include "CvStructs.h"
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "LinkedList.h"
 
 class CvDeal

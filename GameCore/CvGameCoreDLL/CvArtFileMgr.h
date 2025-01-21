@@ -16,7 +16,8 @@
 #ifndef CIV4_ARTFILEMGR_H
 #define CIV4_ARTFILEMGR_H
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
 
 // Class:			CvArtFileMgr
 // Purpose:		To Manage the Locations of Art Assets

@@ -1,6 +1,6 @@
 // CvDeal.cpp
 
-//#include "CvGameCoreDLL.h"
+#include "CvGameCoreDLL.h"
 #include "CvGlobals.h"
 #include "CvGameAI.h"
 #include "CvTeamAI.h"

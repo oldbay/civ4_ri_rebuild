@@ -10,7 +10,10 @@
 //  Copyright (c) 2002 Firaxis Games, Inc. All rights reserved.
 //------------------------------------------------------------------------------------------------
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvString.h"
+#include "FDataStreamBase.h"
 
 class FDataStream;
 #define CvPopup_SetAtGrow(kArray, iIdx, kValue)\

@@ -21,7 +21,10 @@ static inline int ROUND_DIVIDE(int a, int b)
 // All globals and global types should be contained in this class
 //
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "FDataStreamBase.h"
 
 class FProfiler;
 class CvDLLUtilityIFaceBase;

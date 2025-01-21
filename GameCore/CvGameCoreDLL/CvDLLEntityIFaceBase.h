@@ -5,8 +5,10 @@
 
 #pragma warning(disable:4100) 
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "FAssert.h"
 
 //
 // abstract class containing entity-related functions that the DLL needs

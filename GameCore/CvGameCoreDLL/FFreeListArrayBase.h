@@ -19,7 +19,8 @@
 #define		FFREELISTARRAYBASE_H
 #pragma		once
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
 
 namespace FFreeList
 {

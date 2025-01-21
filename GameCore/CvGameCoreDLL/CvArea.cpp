@@ -1,6 +1,6 @@
 // area.cpp
 
-//#include "CvGameCoreDLL.h"
+#include "CvGameCoreDLL.h"
 #include "CvArea.h"
 #include "CvMap.h"
 #include "CvPlot.h"

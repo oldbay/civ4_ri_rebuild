@@ -160,6 +160,7 @@ set(no_group_source_files
 source_group("" FILES ${no_group_source_files})
 
 set(Headers
+    "CvDepends.h"
     "AI_Defines.h"
     "BetterBTSAI.h"
     "CvArea.h"

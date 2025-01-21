@@ -15,7 +15,8 @@ Calls out to the CvAppInterface Python module to check user options.
 #ifndef BUG_OPTIONS_H
 #define BUG_OPTIONS_H
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
 
 // Must use existing module because the DLL cannot see new modules in CustomAssets
 #define PYBugOptionsModule PYCivModule

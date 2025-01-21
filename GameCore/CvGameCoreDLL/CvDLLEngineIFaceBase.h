@@ -3,9 +3,11 @@
 #ifndef CvDLLEngineIFaceBase_h
 #define CvDLLEngineIFaceBase_h
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
-//#include "CvStructs.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "CvStructs.h"
+#include "CvCity.h"
 
 //
 // abstract interface for CvEngine functions used by DLL
