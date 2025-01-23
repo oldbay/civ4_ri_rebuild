@@ -12,6 +12,7 @@
 //------------------------------------------------------------------------------------------------
 
 #include "FVariableSystem.h"
+#include "FDataStreamBase.h"
 
 
 #if defined(__GNUC__)

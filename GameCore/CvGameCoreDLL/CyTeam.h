@@ -7,8 +7,10 @@
 // Python wrapper class for CvTeam
 // 
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 //#include "CvEnums.h"
+#include "CvDepends.h"
+#include "CvTeam.h"
 
 class CvTeam;
 class CyArea;

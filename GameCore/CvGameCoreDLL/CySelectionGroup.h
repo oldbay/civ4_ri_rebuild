@@ -7,8 +7,9 @@
 // Python wrapper class for CySelectionGroup
 //  
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
 
 struct MissionData;
 

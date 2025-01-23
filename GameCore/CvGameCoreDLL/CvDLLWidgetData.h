@@ -3,8 +3,11 @@
 #ifndef _CVDLLWIDGETDATA_H_
 #define _CVDLLWIDGETDATA_H_
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "CvStructs.h"
+#include "CvString.h"
 
 class CvDLLWidgetData
 {

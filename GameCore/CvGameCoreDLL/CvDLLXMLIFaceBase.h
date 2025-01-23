@@ -7,7 +7,8 @@
 // abstract interface for FXml functions used by DLL
 //
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
 
 class FXml;
 class FXmlSchemaCache;

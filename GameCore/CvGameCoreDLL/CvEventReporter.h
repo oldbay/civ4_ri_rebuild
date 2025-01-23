@@ -4,6 +4,7 @@
 #define CvEventReporter_h
 
 #include "CvStatistics.h"
+#include "CvPlayer.h"
 #include "CvDllPythonEvents.h"
 
 //

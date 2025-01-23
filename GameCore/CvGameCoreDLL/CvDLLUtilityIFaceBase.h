@@ -3,7 +3,10 @@
 #ifndef CvDLLUtilityIFaceBase_h
 #define CvDLLUtilityIFaceBase_h
 
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvEnums.h"
+#include "CvStructs.h"
+#include "CvString.h"
 #include "LinkedList.h"
 
 //

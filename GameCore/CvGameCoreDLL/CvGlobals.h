@@ -25,6 +25,7 @@ static inline int ROUND_DIVIDE(int a, int b)
 #include "CvDepends.h"
 #include "CvEnums.h"
 #include "FDataStreamBase.h"
+#include "CvString.h"
 
 class FProfiler;
 class CvDLLUtilityIFaceBase;

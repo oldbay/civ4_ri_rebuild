@@ -5,7 +5,12 @@
 #ifndef CIV4_GAME_H
 #define CIV4_GAME_H
 
+//#include "CvGameCoreDLL.h"
 //#include "CvStructs.h"
+#include "CvDepends.h"
+#include "CvInfos.h"
+#include "FFreeListTrashArray.h"
+#include "CvArea.h"
 #include "CvDeal.h"
 #include "CvRandom.h"
 

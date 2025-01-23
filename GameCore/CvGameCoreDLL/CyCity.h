@@ -6,8 +6,9 @@
 // Python wrapper class for CvCity 
 // 
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
 #include <string>
 #include <boost/python/tuple.hpp>
 

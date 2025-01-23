@@ -5,8 +5,9 @@
 #ifndef CIV4_TEAM_AI_H
 #define CIV4_TEAM_AI_H
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 #include "CvTeam.h"
+#include "FAssert.h"
 
 class CvTeamAI : public CvTeam
 {

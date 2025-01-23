@@ -1,6 +1,7 @@
 #pragma once
 
 #include "CvStructs.h"
+#include "FAssert.h"
 
 
 // MOD - START - Population Metrics

@@ -14,7 +14,12 @@
 //-----------------------------------------------------------------------------
 //
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include <boost/python/list.hpp>
+
+namespace python = boost::python; //PORT NEW
 
 class CvMapGenerator;
 class CyPlot;

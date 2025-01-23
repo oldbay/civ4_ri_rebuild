@@ -3,8 +3,9 @@
 #ifndef CIV4_MAPGENERATOR_H
 #define CIV4_MAPGENERATOR_H
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
 
 #if not defined(__GNUC__)
 #pragma warning( disable: 4251 )		// needs to have dll-interface to be used by clients of class

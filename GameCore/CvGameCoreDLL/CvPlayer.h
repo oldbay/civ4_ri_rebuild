@@ -5,12 +5,14 @@
 #ifndef CIV4_PLAYER_H
 #define CIV4_PLAYER_H
 
+//#include "CvGameCoreDLL.h"
 #include "CvCityAI.h"
 #include "CvUnitAI.h"
 #include "CvSelectionGroupAI.h"
 #include "CvPlotGroup.h"
 #include "LinkedList.h"
 #include "CvTalkingHeadMessage.h"
+#include "FFreeListTrashArray.h"
 
 class CvDiploParameters;
 class CvPopupInfo;

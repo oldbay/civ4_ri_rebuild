@@ -5,8 +5,11 @@
 #ifndef CIV4_INITCORE_H
 #define CIV4_INITCORE_H
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "CvString.h"
+#include "FDataStreamBase.h"
 
 /*
 ** K-Mod, 8/dec/10, karadoc

@@ -7,7 +7,10 @@
 // Python wrapper functions for DLL 
 //
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "CvStructs.h"
 
 class CyCity;
 class CyPlot;

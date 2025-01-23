@@ -8,8 +8,9 @@
 // SINGLETON
 //
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
 
 class CyPlot;
 class CvMap;

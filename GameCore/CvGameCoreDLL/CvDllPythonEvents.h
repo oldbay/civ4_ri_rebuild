@@ -1,7 +1,11 @@
 #ifndef CIV4_DLL_PYTHON_EVENTS_H
 #define CIV4_DLL_PYTHON_EVENTS_H
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "CvUnit.h"
+#include "CvPlot.h"
 
 class CyArgsList;
 

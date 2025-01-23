@@ -5,8 +5,10 @@
 #ifndef CIV4_DEAL_H
 #define CIV4_DEAL_H
 
-//#include "CvStructs.h"
 //#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "CvStructs.h"
 #include "LinkedList.h"
 
 class CvDeal

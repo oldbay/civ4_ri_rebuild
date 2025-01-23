@@ -7,8 +7,15 @@
 // abstract class containing CvInterface functions that the DLL needs
 //
 
-//#include "CvStructs.h"
-#include "LinkedList.h"
+
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvStructs.h"
+#include "FFreeListTrashArray.h"
+#include "CvGlobals.h"
+#include "CvGameAI.h"
+#include "CvPlayerAI.h"
+//#include "LinkedList.h"
 
 class CvUnit;
 class CvCity;

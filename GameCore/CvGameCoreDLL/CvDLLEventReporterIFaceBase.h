@@ -8,7 +8,9 @@
 // Creator- Mustafa Thamer
 //
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
 
 class CvUnit;
 class CvCity;

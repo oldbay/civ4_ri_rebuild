@@ -3,7 +3,11 @@
 #include <vector>
 #include "FAStarNode.h"
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvPlot.h"
+#include "CvSelectionGroup.h"
+#include "FAssert.h"
 
 struct CvPathSettings
 {

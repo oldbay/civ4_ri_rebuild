@@ -7,7 +7,8 @@
 // Python wrapper class for CvArtFileMgr
 //
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
 
 class CvArtFileMgr;
 class CvArtInfoInterface;

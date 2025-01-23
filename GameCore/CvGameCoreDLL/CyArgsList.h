@@ -7,7 +7,9 @@
 // type for input args to python functions
 //
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "FAssert.h"
 
 class CyArgsList
 {

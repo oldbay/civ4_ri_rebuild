@@ -3,8 +3,11 @@
 
 #pragma once
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
 #include "CvEnums.h"
+#include "CvString.h"
+#include "FDataStreamBase.h"
 
 class CvReplayMessage;
 

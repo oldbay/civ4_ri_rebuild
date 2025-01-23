@@ -5,10 +5,12 @@
 #ifndef CIV4_GAMECORE_UTILS_H
 #define CIV4_GAMECORE_UTILS_H
 
-
-//#include "CvStructs.h"
+//#include "CvGameCoreDLL.h"
+#include "CvStructs.h"
 #include "CvGlobals.h"
+#include "CvSelectionGroup.h"
 #include "CvMap.h"
+#include "FAssert.h"
 
 #if not defined(__GNUC__)
 #ifndef _USRDLL

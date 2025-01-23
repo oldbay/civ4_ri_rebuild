@@ -7,8 +7,9 @@
 // Python wrapper class for CvPlot
 // 
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
 
 class CyArea;
 class CvPlot;

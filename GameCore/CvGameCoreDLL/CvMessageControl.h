@@ -1,7 +1,9 @@
 #ifndef CV_MESSAGE_CONTROL
 #define CV_MESSAGE_CONTROL
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
 
 class CvMessageControl
 {

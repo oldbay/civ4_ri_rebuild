@@ -7,8 +7,9 @@
 // SINGLETON
 // updated 6-5
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvEnums.h"
+#include "CvDepends.h"
 
 class CvGame;
 class CvGameAI;

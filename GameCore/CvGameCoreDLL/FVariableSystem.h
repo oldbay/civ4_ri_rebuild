@@ -17,7 +17,8 @@
 #define		FVARIABLESYSTEM_H
 #pragma		once
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
 
 //! Represents the different types of data an FVariable can represent.
 enum eVariableType

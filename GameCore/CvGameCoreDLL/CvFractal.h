@@ -5,7 +5,8 @@
 #ifndef CIV4_FRACTAL_H
 #define CIV4_FRACTAL_H
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
 
 class CvRandom;
 class CvFractal

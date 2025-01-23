@@ -6,9 +6,16 @@
 // Python wrapper class for CvPlayer 
 // 
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
-//#include "CvStructs.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "CvStructs.h"
+#include "CvPlayer.h"
+
+#include <boost/python/list.hpp>
+#include <boost/python.hpp>
+
+namespace python = boost::python; //PORT NEW
 
 class CyUnit;
 class CvPlayer;

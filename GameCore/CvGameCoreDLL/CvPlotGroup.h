@@ -5,7 +5,9 @@
 #ifndef CIV4_PLOT_GROUP_H
 #define CIV4_PLOT_GROUP_H
 
-//#include "CvStructs.h"
+//#include "CvGameCoreDLL.h"
+#include "CvStructs.h"
+#include "CvCity.h"
 #include "LinkedList.h"
 
 class CvPlot;

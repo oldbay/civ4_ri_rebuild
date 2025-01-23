@@ -4,7 +4,9 @@
 #ifndef CvTechGraph_H
 #define CvTechGraph_H
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
 
 struct CvTechGraphIcon
 {

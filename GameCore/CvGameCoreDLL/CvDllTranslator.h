@@ -1,7 +1,9 @@
 #ifndef CV_DLL_TRANSLATOR_H
 #define CV_DLL_TRANSLATOR_H
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvString.h"
 
 class CvDllTranslator
 {

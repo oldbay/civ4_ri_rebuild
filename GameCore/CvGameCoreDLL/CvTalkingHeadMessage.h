@@ -3,7 +3,11 @@
 #ifndef TALKINGHEADMESSAGE_H
 #define TALKINGHEADMESSAGE_H
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "CvString.h"
+#include "FDataStreamBase.h"
 
 class CvTalkingHeadMessage
 {

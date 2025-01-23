@@ -3,8 +3,11 @@
 #ifndef _CVSTATISTICS_H_
 #define _CVSTATISTICS_H_
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "CvString.h"
+#include "FDataStreamBase.h"
 
 class CvCity;
 class CvUnit;

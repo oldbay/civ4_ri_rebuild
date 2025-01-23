@@ -3,7 +3,7 @@
 #define CVDIPLOPARAMETERS_H
 
 #include "LinkedList.h"
-//#include "CvStructs.h"
+#include "CvStructs.h"
 #include "FVariableSystem.h"
 
 class CvDiploParameters

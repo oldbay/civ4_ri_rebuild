@@ -12,9 +12,10 @@
 //-----------------------------------------------------------------------------
 //
 
-
+//#include "CvGameCoreDLL.h"
 #include "CvArea.h"
 #include "CvPlot.h"
+#include "FFreeListTrashArray.h"
 
 
 class FAStar;
@@ -311,7 +312,7 @@ protected:
 
 	CvPlot* m_pMapPlots;
 
-	FFreeListTrashArray<CvArea> m_areas;
+    FFreeListTrashArray<CvArea> m_areas;
 	// MOD - START - Fort indexing
 	CLinkList<XYCoords> m_forts;
 	// MOD - END - Fort indexing

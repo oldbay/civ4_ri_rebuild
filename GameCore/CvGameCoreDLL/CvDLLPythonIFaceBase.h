@@ -9,9 +9,13 @@
 // Copyright 2005 Firaxis Games
 //
 
-#include "CvGameCoreDLL.h"
+//#include "CvGameCoreDLL.h"
 //#include "CvEnums.h"
-# include <boost/python/object.hpp>
+#include "CvDepends.h"
+#include "CvString.h"
+#include "FAssert.h"
+#include <boost/python/object.hpp>
+
 namespace python = boost::python;
 
 class CvUnit;

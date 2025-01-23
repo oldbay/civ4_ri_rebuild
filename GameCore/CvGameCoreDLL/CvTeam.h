@@ -5,8 +5,12 @@
 #ifndef CIV4_TEAM_H
 #define CIV4_TEAM_H
 
-#include "CvGameCoreDLL.h"
-//#include "CvEnums.h"
+//#include "CvGameCoreDLL.h"
+#include "CvDepends.h"
+#include "CvEnums.h"
+#include "CvString.h"
+#include "CvPlot.h"
+#include "FDataStreamBase.h"
 
 class CvArea;
 
