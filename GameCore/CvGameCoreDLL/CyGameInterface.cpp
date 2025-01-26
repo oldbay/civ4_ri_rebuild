@@ -1,6 +1,7 @@
 #include "CvGameCoreDLL.h"
 #include "CyGame.h"
 #include "CvRandom.h"
+#include "CyPlot.h" //PORT NEW
 #include "CyCity.h"
 #include "CyDeal.h"
 #include "CyReplayInfo.h"

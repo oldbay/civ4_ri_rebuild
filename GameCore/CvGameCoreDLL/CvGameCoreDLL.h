@@ -6,6 +6,11 @@
 //
 // Boost Python
 //
+
+//ignore BOOST deprecated headers
+#define BOOST_BIND_GLOBAL_PLACEHOLDERS // rewrite global placeholders //PORT NEW
+#define BOOST_ALLOW_DEPRECATED_HEADERS //to doo rewrite boost deprecated headers //PORT NEW
+
 # include <boost/python/list.hpp>
 # include <boost/python/tuple.hpp>
 # include <boost/python/class.hpp>

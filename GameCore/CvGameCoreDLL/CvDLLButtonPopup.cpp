@@ -46,7 +46,8 @@ static enum MainMenuOptions
 	MM_GAME_DETAILS,
 	MM_PLAYER_DETAILS,
 	MM_CANCEL,
-};
+//}; //PORT OLD
+} main_menu_options; //PORT NEW
 // K-Mod end
 
 CvDLLButtonPopup& CvDLLButtonPopup::getInstance()

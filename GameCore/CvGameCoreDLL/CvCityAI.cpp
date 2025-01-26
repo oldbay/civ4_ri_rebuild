@@ -1118,7 +1118,7 @@ void CvCityAI::AI_chooseProduction()
 
 	if( !(bDefenseWar && iWarSuccessRating < -50) && !bDanger )
 	{
-		if ((iExistingWorkers == 0))
+        if (iExistingWorkers == 0)
 		{
 /***
 **** K-Mod, 10/sep/10, Karadoc
@@ -9951,7 +9951,8 @@ bool CvCityAI::AI_bestSpreadUnit(bool bMissionary, bool bExecutive, int iBaseCha
 		}
 	}
 	
-	return (*eBestSpreadUnit != NULL);
+    //return (*eBestSpreadUnit != NULL); //PORT OLD
+    return (*eBestSpreadUnit != 0); //PORT NEW
 }
 
 bool CvCityAI::AI_chooseBuilding(int iFocusFlags, int iMaxTurns, int iMinThreshold, int iOdds)

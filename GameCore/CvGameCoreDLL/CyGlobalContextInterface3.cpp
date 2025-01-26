@@ -12,6 +12,7 @@
 #include "CvInfos.h"
 #include "CyTeam.h"
 
+
 void CyGlobalContextPythonInterface3(python::class_<CyGlobalContext>& x)
 {
     #if defined(__GNUC__)

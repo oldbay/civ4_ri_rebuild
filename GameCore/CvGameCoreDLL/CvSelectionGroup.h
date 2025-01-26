@@ -5,7 +5,8 @@
 #ifndef CIV4_GROUP_H
 #define CIV4_GROUP_H
 
-//#include "CvStructs.h"
+#include "CvStructs.h"
+#include "CvCity.h"
 #include "LinkedList.h"
 #include "KmodPathFinder.h"
 

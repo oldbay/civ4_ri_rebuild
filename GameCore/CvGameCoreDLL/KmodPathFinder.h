@@ -1,19 +1,24 @@
 #pragma once
 
+#ifndef KMOD_PATH_FINDER_H
+#define KMOD_PATH_FINDER_H
+
 #include <vector>
 #include "FAStarNode.h"
 
 //#include "CvGameCoreDLL.h"
 #include "CvDepends.h"
 #include "CvPlot.h"
-#include "CvSelectionGroup.h"
+//#include "CvUnit.h" // or CvSelectionGroup.h // PORT NEW ???
 #include "FAssert.h"
+
+class CvSelectionGroup; // or unclude CvUnit.h PORT NEW ???
 
 struct CvPathSettings
 {
-	CvPathSettings(const CvSelectionGroup* pGroup = 0, int iFlags = 0, int iMaxPath = -1, int iHW = -1);
+    CvPathSettings(const CvSelectionGroup* pGroup = 0, int iFlags = 0, int iMaxPath = -1, int iHW = -1);
 
-	CvSelectionGroup* pGroup;
+    CvSelectionGroup* pGroup;
 	int iFlags;
 	int iMaxPath;
 	int iHeuristicWeight;
@@ -41,7 +46,7 @@ public:
 	CvPlot* GetPathFirstPlot() const;
 	CvPlot* GetPathEndTurnPlot() const;
 	void SetSettings(const CvPathSettings& new_settings);
-	void SetSettings(const CvSelectionGroup* pGroup, int iFlags = 0, int iMaxPath = -1, int iHW=-1) { SetSettings(CvPathSettings(pGroup, iFlags, iMaxPath, iHW)); }
+    void SetSettings(const CvSelectionGroup* pGroup, int iFlags = 0, int iMaxPath = -1, int iHW=-1) { SetSettings(CvPathSettings(pGroup, iFlags, iMaxPath, iHW)); }
 	void Reset();
 
 protected:
@@ -69,3 +74,5 @@ protected:
 	static int admissible_scaled_weight;
 	static int admissible_base_weight;
 };
+
+#endif

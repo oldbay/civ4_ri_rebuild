@@ -2,6 +2,7 @@
 #include "CyCity.h"
 #include "CyPlot.h"
 #include "CyArea.h"
+#include "CyUnit.h" //PORT NEW
 #include "CvInfos.h"
 
 //# include <boost/python/manage_new_object.hpp>

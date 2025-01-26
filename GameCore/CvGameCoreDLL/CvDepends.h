@@ -23,10 +23,7 @@
 #include <float.h>
 #include <cstdlib>
 #include <wchar.h>
-
-//???
-//#include <stdarg.h>
-//???
+#include <stdarg.h>
 
 //DWORD
 #define DWORD uint32_t
@@ -99,7 +96,7 @@ struct POINT {
 };
 
 //__forceinline
-#define __forceinline __attribute__((always_inline))
+#define __forceinline inline __attribute__((always_inline))
 
 //_str*cmp
 #define _stricmp strcasecmp

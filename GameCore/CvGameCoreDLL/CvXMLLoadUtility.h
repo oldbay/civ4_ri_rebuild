@@ -339,7 +339,8 @@ private:
 	CvWString CreateKeyStringFromKBCode(const TCHAR* pszHotKey);
 
 	void orderHotkeyInfo(int** ppiSortedIndex, int* pHotkeyIndex, int iLength);
-	void logMsg(char* format, ... );
+    //void logMsg(char* format, ... ); //PORT OLD
+    void logMsg(const char* format, ... ); //PORT NEW
 };
 
 #if (defined(__GNUC__) || defined(_USRDLL))

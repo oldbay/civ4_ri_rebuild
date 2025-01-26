@@ -1,5 +1,7 @@
 #include "CvGameCoreDLL.h"
 #include "CyGameTextMgr.h"
+#include "CyDeal.h" //PORT NEW
+#include "CyUnit.h" //PORT NEW
 
 //
 // published python interface for CyGameTextMgr

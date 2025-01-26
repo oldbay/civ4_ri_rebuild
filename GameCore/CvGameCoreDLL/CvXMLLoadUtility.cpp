@@ -23,7 +23,9 @@ static const int kBufSize = 2048;
 //
 // for logging
 //
-void CvXMLLoadUtility::logMsg(char* format, ... )
+
+//void CvXMLLoadUtility::logMsg(char* format, ... ) //PORT OLD
+void CvXMLLoadUtility::logMsg(const char* format, ... ) //PORT NEW
 {
 	static char buf[kBufSize];
     #if defined(__GNUC__)
