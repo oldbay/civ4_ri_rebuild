@@ -21,6 +21,9 @@
 #include "CvDepends.h"
 #include "CvInfos.h"
 #include "CvGlobals.h"
+#include "FVariableSystem.h"
+#include "CvDLLUtilityIFaceBase.h"
+#include "CvDLLXMLIFaceBase.h"
 
 //???
 //#include "CvDLLXMLIFaceBase.h"

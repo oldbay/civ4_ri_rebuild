@@ -5,8 +5,8 @@
 #ifndef CIV4_DLL_BUTTON_POPUP_H
 #define CIV4_DLL_BUTTON_POPUP_H
 
-//#include "CvEnums.h"
 //#include "CvGameCoreDLL.h"
+//#include "CvEnums.h"
 #include "CvDepends.h"
 #include "CvPopupInfo.h"
 #include "CvPopupReturn.h"
