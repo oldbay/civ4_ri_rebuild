@@ -1,6 +1,6 @@
 // buttonPopup.cpp
 
-//#include "CvGameCoreDLL.h"
+#include "CvGameCoreDLL.h"
 #include "CvDLLButtonPopup.h"
 #include "CvGlobals.h"
 #include "CvPlayerAI.h"

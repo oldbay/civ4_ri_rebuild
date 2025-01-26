@@ -1,6 +1,6 @@
 // game.cpp
 
-//#include "CvGameCoreDLL.h"
+#include "CvGameCoreDLL.h"
 #include "CvInitCore.h"
 #include "CvDLLPythonIFaceBase.h"
 #include "CyArgsList.h"

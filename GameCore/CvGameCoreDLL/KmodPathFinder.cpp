@@ -1,6 +1,6 @@
 
 
-//#include "CvGameCoreDLL.h"
+#include "CvGameCoreDLL.h"
 #include "KmodPathFinder.h"
 #include "CvGameCoreUtils.h"
 

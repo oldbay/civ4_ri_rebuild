@@ -9,7 +9,7 @@
 //-----------------------------------------------------------------------------
 //
 
-//#include "CvGameCoreDLL.h"
+#include "CvGameCoreDLL.h"
 #include "CyMapGenerator.h"
 #include "CvGlobals.h"
 #include "CvDLLPythonIFaceBase.h"
