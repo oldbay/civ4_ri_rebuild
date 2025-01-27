@@ -10,10 +10,6 @@ if(NOT CMAKE_VS_PLATFORM_NAME)
 endif()
 message("${CMAKE_VS_PLATFORM_NAME} architecture in use")
 
-#if(NOT ("${CMAKE_VS_PLATFORM_NAME}" STREQUAL "Win32"))
-#    message(FATAL_ERROR "${CMAKE_VS_PLATFORM_NAME} arch is not supported!")
-#endif()
-
 ################################################################################
 # Include headers dirs
 ################################################################################
@@ -371,6 +367,22 @@ set(ALL_FILES
 )
 
 ################################################################################
+# Depands
+################################################################################
+   #"boost/python/list.hpp"
+   #"boost/python/tuple"
+   #"boost/python/class"
+   #"boost/python/manage_new_object"
+   #"boost/python/return_value_policy"
+   #"boost/python/object"
+   #"boost_python/def"
+
+set (Depends
+   "boost_python39"
+   "python3.9"
+)
+
+################################################################################
 # Target
 ################################################################################
 add_executable(${PROJECT_NAME} ${ALL_FILES})
@@ -389,7 +401,17 @@ set_target_properties(${PROJECT_NAME} PROPERTIES
 ################################################################################
 # Compile and link options
 ################################################################################
-if(MSVC)
+if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+    add_library(
+        CvGameCoreDLL SHARED ${Sources}
+    )
+    #target_link_libraries(
+    #    CvGameCoreDLL ${Headers}
+    #)
+    target_link_libraries(
+        CvGameCoreDLL ${Depends}
+    )
+elseif(MSVC)
     target_compile_options(${PROJECT_NAME} PRIVATE
         ${DEFAULT_CXX_DEBUG_INFORMATION_FORMAT};
         ${DEFAULT_CXX_EXCEPTION_HANDLING}
