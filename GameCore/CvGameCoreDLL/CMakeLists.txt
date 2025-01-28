@@ -15,7 +15,11 @@ message("${CMAKE_VS_PLATFORM_NAME} architecture in use")
 ################################################################################
 
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
-    include_directories("/usr/include/python3.9")
+    find_package(PythonLibs REQUIRED)
+    include_directories(${PYTHON_INCLUDE_DIRS})
+    link_directories(${PYTHON_LIBRARY})
+    #include_directories("/usr/include/python3.9")
+    #link_directories("/usr/lib/x86_64-linux-gnu/")
 endif()
 
 
@@ -36,7 +40,10 @@ set(CMAKE_CONFIGURATION_TYPES
 ################################################################################
 # Global compiler options
 ################################################################################
-if(MSVC)
+if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+    #set(CMAKE_POSITION_INDEPENDENT_CODE ON)
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIE")
+elseif(MSVC)
     # remove default flags provided with CMake for MSVC
     set(CMAKE_CXX_FLAGS "")
     set(CMAKE_CXX_FLAGS_ASSERT "")
@@ -134,8 +141,6 @@ endif(WITH_LOG_AI)
 # Source groups
 ################################################################################
 set(no_group_source_files
-    "CvStructs.inl"
-    "FVariableSystem.inl"
     "Makefile"
     "Makefile.settings.default.mk"
     "Makefile.settings.mk"
@@ -369,17 +374,23 @@ set(ALL_FILES
 ################################################################################
 # Depands
 ################################################################################
-   #"boost/python/list.hpp"
-   #"boost/python/tuple"
-   #"boost/python/class"
-   #"boost/python/manage_new_object"
-   #"boost/python/return_value_policy"
-   #"boost/python/object"
-   #"boost_python/def"
+   #"/usr/lib/x86_64-linux-gnu/"
+   #"boost_program_options"
+   #"boost_system"
+   #"boost_python39"
+   #"/usr/lib/python3.9/config-3.9-x86_64-linux-gnu"
+   #"/usr/lib"
+   #"python3.9"
+   #"crypt"
+   #"pthread"
+   #"dl"
+   #"util"
+   #"m"
 
 set (Depends
+   "boost_program_options"
+   "boost_system"
    "boost_python39"
-   "python3.9"
 )
 
 ################################################################################
@@ -405,11 +416,9 @@ if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
     add_library(
         CvGameCoreDLL SHARED ${Sources}
     )
-    #target_link_libraries(
-    #    CvGameCoreDLL ${Headers}
-    #)
     target_link_libraries(
-        CvGameCoreDLL ${Depends}
+        #CvGameCoreDLL ${Depends}
+        CvGameCoreDLL ${Depends} ${PYTHON_LIBRARIES}
     )
 elseif(MSVC)
     target_compile_options(${PROJECT_NAME} PRIVATE
