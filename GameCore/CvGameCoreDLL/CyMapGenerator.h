@@ -19,7 +19,7 @@
 #include "CvEnums.h"
 #include <boost/python/list.hpp>
 
-namespace python = boost::python; //PORT NEW
+//namespace python = boost::python; //PORT NEW
 
 class CvMapGenerator;
 class CyPlot;

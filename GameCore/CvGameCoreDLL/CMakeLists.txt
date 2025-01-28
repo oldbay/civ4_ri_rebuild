@@ -18,8 +18,6 @@ if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
     find_package(PythonLibs REQUIRED)
     include_directories(${PYTHON_INCLUDE_DIRS})
     link_directories(${PYTHON_LIBRARY})
-    #include_directories("/usr/include/python3.9")
-    #link_directories("/usr/lib/x86_64-linux-gnu/")
 endif()
 
 
@@ -41,57 +39,65 @@ set(CMAKE_CONFIGURATION_TYPES
 # Global compiler options
 ################################################################################
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
-    #set(CMAKE_POSITION_INDEPENDENT_CODE ON)
-    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIE")
+    #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIE -shared")
+    #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -shared")
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
 elseif(MSVC)
     # remove default flags provided with CMake for MSVC
-    set(CMAKE_CXX_FLAGS "")
-    set(CMAKE_CXX_FLAGS_ASSERT "")
-    set(CMAKE_CXX_FLAGS_ASSERTFAST "")
-    set(CMAKE_CXX_FLAGS_DEBUG "")
-    set(CMAKE_CXX_FLAGS_PROFILE "")
-    set(CMAKE_CXX_FLAGS_RELEASE "")
-    set(CMAKE_CXX_FLAGS_RELEASEFAST "")
-    set(CMAKE_CXX_FLAGS_RELEASEOPTI "")
+    #set(CMAKE_CXX_FLAGS "")
+    #set(CMAKE_CXX_FLAGS_ASSERT "")
+    #set(CMAKE_CXX_FLAGS_ASSERTFAST "")
+    #set(CMAKE_CXX_FLAGS_DEBUG "")
+    #set(CMAKE_CXX_FLAGS_PROFILE "")
+    #set(CMAKE_CXX_FLAGS_RELEASE "")
+    #set(CMAKE_CXX_FLAGS_RELEASEFAST "")
+    #set(CMAKE_CXX_FLAGS_RELEASEOPTI "")
 endif()
 
 ################################################################################
 # Global linker options
 ################################################################################
-if(MSVC)
+if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+    #set(CMAKE_EXE_LINKER_FLAGS "-fPIE -shared")
+    #set(CMAKE_SHARED_LINKER_FLAGS "-fPIE -shared")
+    #set(CMAKE_EXE_LINKER_FLAGS "-shared")
+    #set(CMAKE_SHARED_LINKER_FLAGS "-shared")
+    set(CMAKE_EXE_LINKER_FLAGS "-shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
+    set(CMAKE_SHARED_LINKER_FLAGS "-shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
+elseif(MSVC)
     # remove default flags provided with CMake for MSVC
-    set(CMAKE_EXE_LINKER_FLAGS "")
-    set(CMAKE_MODULE_LINKER_FLAGS "")
-    set(CMAKE_SHARED_LINKER_FLAGS "")
-    set(CMAKE_STATIC_LINKER_FLAGS "")
-    set(CMAKE_EXE_LINKER_FLAGS_ASSERT "${CMAKE_EXE_LINKER_FLAGS}")
-    set(CMAKE_MODULE_LINKER_FLAGS_ASSERT "${CMAKE_MODULE_LINKER_FLAGS}")
-    set(CMAKE_SHARED_LINKER_FLAGS_ASSERT "${CMAKE_SHARED_LINKER_FLAGS}")
-    set(CMAKE_STATIC_LINKER_FLAGS_ASSERT "${CMAKE_STATIC_LINKER_FLAGS}")
-    set(CMAKE_EXE_LINKER_FLAGS_ASSERTFAST "${CMAKE_EXE_LINKER_FLAGS}")
-    set(CMAKE_MODULE_LINKER_FLAGS_ASSERTFAST "${CMAKE_MODULE_LINKER_FLAGS}")
-    set(CMAKE_SHARED_LINKER_FLAGS_ASSERTFAST "${CMAKE_SHARED_LINKER_FLAGS}")
-    set(CMAKE_STATIC_LINKER_FLAGS_ASSERTFAST "${CMAKE_STATIC_LINKER_FLAGS}")
-    set(CMAKE_EXE_LINKER_FLAGS_DEBUG "${CMAKE_EXE_LINKER_FLAGS}")
-    set(CMAKE_MODULE_LINKER_FLAGS_DEBUG "${CMAKE_MODULE_LINKER_FLAGS}")
-    set(CMAKE_SHARED_LINKER_FLAGS_DEBUG "${CMAKE_SHARED_LINKER_FLAGS}")
-    set(CMAKE_STATIC_LINKER_FLAGS_DEBUG "${CMAKE_STATIC_LINKER_FLAGS}")
-    set(CMAKE_EXE_LINKER_FLAGS_PROFILE "${CMAKE_EXE_LINKER_FLAGS}")
-    set(CMAKE_MODULE_LINKER_FLAGS_PROFILE "${CMAKE_MODULE_LINKER_FLAGS}")
-    set(CMAKE_SHARED_LINKER_FLAGS_PROFILE "${CMAKE_SHARED_LINKER_FLAGS}")
-    set(CMAKE_STATIC_LINKER_FLAGS_PROFILE "${CMAKE_STATIC_LINKER_FLAGS}")
-    set(CMAKE_EXE_LINKER_FLAGS_RELEASE "${CMAKE_EXE_LINKER_FLAGS}")
-    set(CMAKE_MODULE_LINKER_FLAGS_RELEASE "${CMAKE_MODULE_LINKER_FLAGS}")
-    set(CMAKE_SHARED_LINKER_FLAGS_RELEASE "${CMAKE_SHARED_LINKER_FLAGS}")
-    set(CMAKE_STATIC_LINKER_FLAGS_RELEASE "${CMAKE_STATIC_LINKER_FLAGS}")
-    set(CMAKE_EXE_LINKER_FLAGS_RELEASEFAST "${CMAKE_EXE_LINKER_FLAGS}")
-    set(CMAKE_MODULE_LINKER_FLAGS_RELEASEFAST "${CMAKE_MODULE_LINKER_FLAGS}")
-    set(CMAKE_SHARED_LINKER_FLAGS_RELEASEFAST "${CMAKE_SHARED_LINKER_FLAGS}")
-    set(CMAKE_STATIC_LINKER_FLAGS_RELEASEFAST "${CMAKE_STATIC_LINKER_FLAGS}")
-    set(CMAKE_EXE_LINKER_FLAGS_RELEASEOPTI "${CMAKE_EXE_LINKER_FLAGS}")
-    set(CMAKE_MODULE_LINKER_FLAGS_RELEASEOPTI "${CMAKE_MODULE_LINKER_FLAGS}")
-    set(CMAKE_SHARED_LINKER_FLAGS_RELEASEOPTI "${CMAKE_SHARED_LINKER_FLAGS}")
-    set(CMAKE_STATIC_LINKER_FLAGS_RELEASEOPTI "${CMAKE_STATIC_LINKER_FLAGS}")
+    #set(CMAKE_EXE_LINKER_FLAGS "")
+    #set(CMAKE_MODULE_LINKER_FLAGS "")
+    #set(CMAKE_SHARED_LINKER_FLAGS "")
+    #set(CMAKE_STATIC_LINKER_FLAGS "")
+    #set(CMAKE_EXE_LINKER_FLAGS_ASSERT "${CMAKE_EXE_LINKER_FLAGS}")
+    #set(CMAKE_MODULE_LINKER_FLAGS_ASSERT "${CMAKE_MODULE_LINKER_FLAGS}")
+    #set(CMAKE_SHARED_LINKER_FLAGS_ASSERT "${CMAKE_SHARED_LINKER_FLAGS}")
+    #set(CMAKE_STATIC_LINKER_FLAGS_ASSERT "${CMAKE_STATIC_LINKER_FLAGS}")
+    #set(CMAKE_EXE_LINKER_FLAGS_ASSERTFAST "${CMAKE_EXE_LINKER_FLAGS}")
+    #set(CMAKE_MODULE_LINKER_FLAGS_ASSERTFAST "${CMAKE_MODULE_LINKER_FLAGS}")
+    #set(CMAKE_SHARED_LINKER_FLAGS_ASSERTFAST "${CMAKE_SHARED_LINKER_FLAGS}")
+    #set(CMAKE_STATIC_LINKER_FLAGS_ASSERTFAST "${CMAKE_STATIC_LINKER_FLAGS}")
+    #set(CMAKE_EXE_LINKER_FLAGS_DEBUG "${CMAKE_EXE_LINKER_FLAGS}")
+    #set(CMAKE_MODULE_LINKER_FLAGS_DEBUG "${CMAKE_MODULE_LINKER_FLAGS}")
+    #set(CMAKE_SHARED_LINKER_FLAGS_DEBUG "${CMAKE_SHARED_LINKER_FLAGS}")
+    #set(CMAKE_STATIC_LINKER_FLAGS_DEBUG "${CMAKE_STATIC_LINKER_FLAGS}")
+    #set(CMAKE_EXE_LINKER_FLAGS_PROFILE "${CMAKE_EXE_LINKER_FLAGS}")
+    #set(CMAKE_MODULE_LINKER_FLAGS_PROFILE "${CMAKE_MODULE_LINKER_FLAGS}")
+    #set(CMAKE_SHARED_LINKER_FLAGS_PROFILE "${CMAKE_SHARED_LINKER_FLAGS}")
+    #set(CMAKE_STATIC_LINKER_FLAGS_PROFILE "${CMAKE_STATIC_LINKER_FLAGS}")
+    #set(CMAKE_EXE_LINKER_FLAGS_RELEASE "${CMAKE_EXE_LINKER_FLAGS}")
+    #set(CMAKE_MODULE_LINKER_FLAGS_RELEASE "${CMAKE_MODULE_LINKER_FLAGS}")
+    #set(CMAKE_SHARED_LINKER_FLAGS_RELEASE "${CMAKE_SHARED_LINKER_FLAGS}")
+    #set(CMAKE_STATIC_LINKER_FLAGS_RELEASE "${CMAKE_STATIC_LINKER_FLAGS}")
+    #set(CMAKE_EXE_LINKER_FLAGS_RELEASEFAST "${CMAKE_EXE_LINKER_FLAGS}")
+    #set(CMAKE_MODULE_LINKER_FLAGS_RELEASEFAST "${CMAKE_MODULE_LINKER_FLAGS}")
+    #set(CMAKE_SHARED_LINKER_FLAGS_RELEASEFAST "${CMAKE_SHARED_LINKER_FLAGS}")
+    #set(CMAKE_STATIC_LINKER_FLAGS_RELEASEFAST "${CMAKE_STATIC_LINKER_FLAGS}")
+    #set(CMAKE_EXE_LINKER_FLAGS_RELEASEOPTI "${CMAKE_EXE_LINKER_FLAGS}")
+    #set(CMAKE_MODULE_LINKER_FLAGS_RELEASEOPTI "${CMAKE_MODULE_LINKER_FLAGS}")
+    #set(CMAKE_SHARED_LINKER_FLAGS_RELEASEOPTI "${CMAKE_SHARED_LINKER_FLAGS}")
+    #set(CMAKE_STATIC_LINKER_FLAGS_RELEASEOPTI "${CMAKE_STATIC_LINKER_FLAGS}")
 endif()
 
 ################################################################################
@@ -121,7 +127,8 @@ set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 ################################################################################
 # Sub-projects
 ################################################################################
-set(PROJECT_NAME CvGameCoreDLL.2012)
+#set(PROJECT_NAME CvGameCoreDLL.2012)
+set(PROJECT_NAME CvGameCoreDLL)
 
 ################################################################################
 #options suported by the cmake builder
@@ -374,20 +381,7 @@ set(ALL_FILES
 ################################################################################
 # Depands
 ################################################################################
-   #"/usr/lib/x86_64-linux-gnu/"
-   #"boost_program_options"
-   #"boost_system"
-   #"boost_python39"
-   #"/usr/lib/python3.9/config-3.9-x86_64-linux-gnu"
-   #"/usr/lib"
-   #"python3.9"
-   #"crypt"
-   #"pthread"
-   #"dl"
-   #"util"
-   #"m"
-
-set (Depends
+set (BOOST_Depends
    "boost_program_options"
    "boost_system"
    "boost_python39"
@@ -396,7 +390,14 @@ set (Depends
 ################################################################################
 # Target
 ################################################################################
-add_executable(${PROJECT_NAME} ${ALL_FILES})
+if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+    add_library(
+        #${PROJECT_NAME} SHARED ${Sources}
+        ${PROJECT_NAME} SHARED ${ALL_FILES}
+    )
+elseif(MSVC)
+    #add_executable(${PROJECT_NAME} ${ALL_FILES})
+endif()
 
 use_props(${PROJECT_NAME} "${CMAKE_CONFIGURATION_TYPES}" "${DEFAULT_CXX_PROPS}")
 set_target_properties(${PROJECT_NAME} PROPERTIES
@@ -413,19 +414,15 @@ set_target_properties(${PROJECT_NAME} PROPERTIES
 # Compile and link options
 ################################################################################
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
-    add_library(
-        CvGameCoreDLL SHARED ${Sources}
-    )
     target_link_libraries(
-        #CvGameCoreDLL ${Depends}
-        CvGameCoreDLL ${Depends} ${PYTHON_LIBRARIES}
+        ${PROJECT_NAME} ${BOOST_Depends} ${PYTHON_LIBRARIES}
     )
 elseif(MSVC)
-    target_compile_options(${PROJECT_NAME} PRIVATE
-        ${DEFAULT_CXX_DEBUG_INFORMATION_FORMAT};
-        ${DEFAULT_CXX_EXCEPTION_HANDLING}
-    )
-    target_link_options(${PROJECT_NAME} PRIVATE
-        /DEBUG:FULL
-    )
+    #target_compile_options(${PROJECT_NAME} PRIVATE
+    #    ${DEFAULT_CXX_DEBUG_INFORMATION_FORMAT};
+    #    ${DEFAULT_CXX_EXCEPTION_HANDLING}
+    #)
+    #target_link_options(${PROJECT_NAME} PRIVATE
+    #    /DEBUG:FULL
+    #)
 endif()
