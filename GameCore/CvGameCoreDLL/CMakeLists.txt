@@ -39,9 +39,9 @@ set(CMAKE_CONFIGURATION_TYPES
 # Global compiler options
 ################################################################################
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
-    #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIE -shared")
     #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -shared")
-    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIC -shared")
+    #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
 elseif(MSVC)
     # remove default flags provided with CMake for MSVC
     #set(CMAKE_CXX_FLAGS "")
@@ -58,12 +58,12 @@ endif()
 # Global linker options
 ################################################################################
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
-    #set(CMAKE_EXE_LINKER_FLAGS "-fPIE -shared")
-    #set(CMAKE_SHARED_LINKER_FLAGS "-fPIE -shared")
     #set(CMAKE_EXE_LINKER_FLAGS "-shared")
     #set(CMAKE_SHARED_LINKER_FLAGS "-shared")
-    set(CMAKE_EXE_LINKER_FLAGS "-shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
-    set(CMAKE_SHARED_LINKER_FLAGS "-shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
+    set(CMAKE_EXE_LINKER_FLAGS "-fPIC -shared")
+    set(CMAKE_SHARED_LINKER_FLAGS "-fPIC -shared")
+    #set(CMAKE_EXE_LINKER_FLAGS "-shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
+    #set(CMAKE_SHARED_LINKER_FLAGS "-shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
 elseif(MSVC)
     # remove default flags provided with CMake for MSVC
     #set(CMAKE_EXE_LINKER_FLAGS "")
@@ -259,6 +259,7 @@ set(Headers
     "FVariableSystem.inl"
     "LinkedList.h"
     "resource.h"
+    "SelfMod.h"
 )
 source_group("Headers" FILES ${Headers})
 
@@ -369,6 +370,7 @@ set(Sources
     "FAssert.cpp"
     "FDialogTemplate.cpp"
     "KmodPathFinder.cpp"
+    "SelfMod.cpp"
 )
 source_group("Sources" FILES ${Sources})
 
@@ -392,8 +394,8 @@ set (BOOST_Depends
 ################################################################################
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
     add_library(
-        #${PROJECT_NAME} SHARED ${Sources}
-        ${PROJECT_NAME} SHARED ${ALL_FILES}
+        ${PROJECT_NAME} MODULE ${ALL_FILES}
+        #${PROJECT_NAME} SHARED ${ALL_FILES}
     )
 elseif(MSVC)
     #add_executable(${PROJECT_NAME} ${ALL_FILES})

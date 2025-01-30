@@ -1,6 +1,9 @@
 // smcpoc: New implementation file; see comment in header.
 #include "CvGameCoreDLL.h"
 #include "SelfMod.h"
+
+#if not defined(__GNUC__) // windows memory manager //PORT OLD
+
 // This should arguably go in CvGameCoreDLL.h instead ...
 #include <algorithm>
 // ... and this in FAssert.h, but let's try to keep our changes local. */
@@ -299,3 +302,5 @@ void Civ4BeyondSwordMods::patchPlotIndicatorSize()
 	PlotIndicatorSizePatch patch(iScreenHeight);
 	patch.apply();
 }
+
+#endif

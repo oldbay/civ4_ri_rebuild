@@ -8,8 +8,7 @@
 #include "FProfiler.h"
 #include "CvDLLInterfaceIFaceBase.h"
 
-
-#if defined(__GNUC__)
+#if defined(__GNUC__) // PORT NEW
 
 void start() __attribute__ ((constructor));
 void finish() __attribute__ ((destructor));
@@ -21,7 +20,29 @@ void finish() {
     std::clog << "DLL_PROCESS_DETACH\n";
 }
 
-#else
+//
+// enable dll profiler if necessary, clear history
+//
+void startProfilingDLL(bool longLived)
+{
+    if (GC.isDLLProfilerEnabled())
+    {
+        gDLL->ProfilerBegin();
+    }
+}
+
+//
+// dump profile stats on-screen
+//
+void stopProfilingDLL(bool longLived)
+{
+    if (GC.isDLLProfilerEnabled())
+    {
+        gDLL->ProfilerEnd();
+    }
+}
+
+#else // windows memory manager & endpoint dll //PORT OLD
 #include <psapi.h>
 
 #ifdef MEMORY_TRACKING
@@ -548,20 +569,20 @@ bool IFPPythonCall(const char* callerFn, const char* moduleName, const char* fxn
 void startProfilingDLL(bool longLived)
 {
 #ifdef USE_INTERNAL_PROFILER
-	if ( longLived )
-	{
-		isInLongLivedSection = true;
-	}
-	else if (GC.isDLLProfilerEnabled() && !isInLongLivedSection)
-	{
-		IFPBegin();
-		IFPBeginSample(&rootSample__);
-	}
+    if ( longLived )
+    {
+        isInLongLivedSection = true;
+    }
+    else if (GC.isDLLProfilerEnabled() && !isInLongLivedSection)
+    {
+        IFPBegin();
+        IFPBeginSample(&rootSample__);
+    }
 #else
-	if (GC.isDLLProfilerEnabled())
-	{
-		gDLL->ProfilerBegin();
-	}
+    if (GC.isDLLProfilerEnabled())
+    {
+        gDLL->ProfilerBegin();
+    }
 #endif
 }
 
@@ -571,20 +592,20 @@ void startProfilingDLL(bool longLived)
 void stopProfilingDLL(bool longLived)
 {
 #ifdef USE_INTERNAL_PROFILER
-	if ( longLived )
-	{
-		isInLongLivedSection = false;
-	}
-	else if (GC.isDLLProfilerEnabled() && !isInLongLivedSection)
-	{
-		IFPEndSample(&rootSample__);
-		IFPEnd();
-	}
+    if ( longLived )
+    {
+        isInLongLivedSection = false;
+    }
+    else if (GC.isDLLProfilerEnabled() && !isInLongLivedSection)
+    {
+        IFPEndSample(&rootSample__);
+        IFPEnd();
+    }
 #else
-	if (GC.isDLLProfilerEnabled())
-	{
-		gDLL->ProfilerEnd();
-	}
+    if (GC.isDLLProfilerEnabled())
+    {
+        gDLL->ProfilerEnd();
+    }
 #endif
 }
 

@@ -15,7 +15,7 @@
 #include <boost/python/list.hpp>
 #include <boost/python.hpp>
 
-namespace python = boost::python; //PORT NEW
+//namespace python = boost::python; //PORT NEW
 
 class CyUnit;
 class CvPlayer;

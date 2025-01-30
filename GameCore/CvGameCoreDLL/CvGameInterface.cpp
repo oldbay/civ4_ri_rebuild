@@ -3144,11 +3144,13 @@ void CvGame::setScreenDimensions(int iWidth, int iHeight)
 	m_iScreenWidth = iWidth;
 	if (m_iScreenHeight != iHeight)
 	{
-		m_iScreenHeight = iHeight;
-		/*	Do this as soon as we know the screen dimensions, before a
+        m_iScreenHeight = iHeight;
+        #if not defined(__GNUC__) // windows memory manager //PORT OLD
+        /*	Do this as soon as we know the screen dimensions, before a
 			plot indicator gets created for the initially selected units. */
 		if (m_iScreenHeight > 0)
-			smc::BtS_EXE.patchPlotIndicatorSize();
+            smc::BtS_EXE.patchPlotIndicatorSize();
+        #endif
 	}
 }
 
