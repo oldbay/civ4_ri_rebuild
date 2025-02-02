@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC  -std=c++11 -Wall -DHAVE_INTTYPES_NETINET_IN_H -g -shared  -o example.so CMakeFiles/example.dir/library.cpp.o CMakeFiles/example.dir/example.cpp.o  /usr/lib/x86_64-linux-gnu/libpython3.9.so /usr/lib/x86_64-linux-gnu/libboost_python39.so.1.74.0 

@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CvGameCoreDLL.2012",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CvGameCoreDLL.2012::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CvGameCoreDLL.2012-Release-20b7b50b135ffbb9a56a.json",
+					"name" : "CvGameCoreDLL.2012",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oldbay/PROJECT/civ4/sdk/RealismInvictus/GIT/GameCore/CvGameCoreDLL/x64/Release",
+		"source" : "/home/oldbay/PROJECT/civ4/sdk/RealismInvictus/GIT/GameCore/CvGameCoreDLL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

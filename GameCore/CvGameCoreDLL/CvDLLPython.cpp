@@ -41,8 +41,11 @@ void CyMessageControlInterface();
 //
 //
 //
-DllExport void DLLPublishToPython()
+//DllExport void DLLPublishToPython() //disable integration to game core //PORT OLD
+BOOST_PYTHON_MODULE(CvPythonExtensions) // creeate init boot python module //PORT NEW
 {
+    namespace python = boost::python; // namespace to boost python module //PORT NEW
+
 	CyEnumsPythonInterface();
 	CyGamePythonInterface();
 	CyRandomPythonInterface();

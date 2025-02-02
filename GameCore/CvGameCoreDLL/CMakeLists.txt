@@ -15,9 +15,16 @@ message("${CMAKE_VS_PLATFORM_NAME} architecture in use")
 ################################################################################
 
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+
+    # find python package
     find_package(PythonLibs REQUIRED)
     include_directories(${PYTHON_INCLUDE_DIRS})
-    link_directories(${PYTHON_LIBRARY})
+    #link_directories(${PYTHON_LIBRARY})
+
+    # experiment for boost as find_package
+    #find_package(Boost COMPONENTS python3 REQUIRED)
+    #include_directories(${Boost_INCLUDE_DIR})
+
 endif()
 
 
@@ -39,8 +46,15 @@ set(CMAKE_CONFIGURATION_TYPES
 # Global compiler options
 ################################################################################
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
-    #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -shared")
-    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIC -shared")
+
+    # find flags
+    ##set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -shared")
+    ##set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIC -shared")
+    ##set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -Wall -DHAVE_INTTYPES_NETINET_IN_H") #-Wall get all warnings
+
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -DHAVE_INTTYPES_NETINET_IN_H")
+
+    # detect undefined symbol error
     #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
 elseif(MSVC)
     # remove default flags provided with CMake for MSVC
@@ -58,10 +72,21 @@ endif()
 # Global linker options
 ################################################################################
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
-    #set(CMAKE_EXE_LINKER_FLAGS "-shared")
-    #set(CMAKE_SHARED_LINKER_FLAGS "-shared")
-    set(CMAKE_EXE_LINKER_FLAGS "-fPIC -shared")
-    set(CMAKE_SHARED_LINKER_FLAGS "-fPIC -shared")
+
+    # find flags
+    ##set(CMAKE_EXE_LINKER_FLAGS "-shared")
+    ##set(CMAKE_SHARED_LINKER_FLAGS "-shared")
+
+    ##set(CMAKE_EXE_LINKER_FLAGS "-fPIC -shared")
+    ##set(CMAKE_SHARED_LINKER_FLAGS "-fPIC -shared")
+
+    ##set(CMAKE_EXE_LINKER_FLAGS "-std=c++11 -Wall -DHAVE_INTTYPES_NETINET_IN_H") #-Wall get all warnings
+    ##set(CMAKE_SHARED_LINKER_FLAGS "-std=c++11 -Wall -DHAVE_INTTYPES_NETINET_IN_H") #-Wall get all warnings
+
+    set(CMAKE_EXE_LINKER_FLAGS "-std=c++11 -DHAVE_INTTYPES_NETINET_IN_H")
+    set(CMAKE_SHARED_LINKER_FLAGS "-std=c++11 -DHAVE_INTTYPES_NETINET_IN_H")
+
+    # detect undefined symbol error for python library
     #set(CMAKE_EXE_LINKER_FLAGS "-shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
     #set(CMAKE_SHARED_LINKER_FLAGS "-shared -Wl,-soname,libpython3.9.so.1.0 -Wl,--no-undefined")
 elseif(MSVC)
@@ -127,8 +152,12 @@ set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 ################################################################################
 # Sub-projects
 ################################################################################
-#set(PROJECT_NAME CvGameCoreDLL.2012)
-set(PROJECT_NAME CvGameCoreDLL)
+
+# name for shared library
+#set(PROJECT_NAME CvGameCoreDLL)
+
+# name for python module
+set(PROJECT_NAME CvPythonExtensions)
 
 ################################################################################
 #options suported by the cmake builder
@@ -394,20 +423,24 @@ set (BOOST_Depends
 ################################################################################
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
     add_library(
-        ${PROJECT_NAME} MODULE ${ALL_FILES}
+        # create shared library
         #${PROJECT_NAME} SHARED ${ALL_FILES}
+
+        # create python module
+        ${PROJECT_NAME} MODULE ${ALL_FILES}
     )
+    set_target_properties(${PROJECT_NAME} PROPERTIES PREFIX "")
 elseif(MSVC)
     #add_executable(${PROJECT_NAME} ${ALL_FILES})
+    #use_props(${PROJECT_NAME} "${CMAKE_CONFIGURATION_TYPES}" "${DEFAULT_CXX_PROPS}")
+    #set_target_properties(${PROJECT_NAME} PROPERTIES
+    #    VS_GLOBAL_KEYWORD "MakeFileProj"
+    #)
+    #set_target_properties(${PROJECT_NAME} PROPERTIES
+    #    INTERPROCEDURAL_OPTIMIZATION_RELEASEOPTI "TRUE"
+    #)
 endif()
 
-use_props(${PROJECT_NAME} "${CMAKE_CONFIGURATION_TYPES}" "${DEFAULT_CXX_PROPS}")
-set_target_properties(${PROJECT_NAME} PROPERTIES
-    VS_GLOBAL_KEYWORD "MakeFileProj"
-)
-set_target_properties(${PROJECT_NAME} PROPERTIES
-    INTERPROCEDURAL_OPTIMIZATION_RELEASEOPTI "TRUE"
-)
 ################################################################################
 # Compile definitions
 ################################################################################
@@ -418,6 +451,9 @@ set_target_properties(${PROJECT_NAME} PROPERTIES
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
     target_link_libraries(
         ${PROJECT_NAME} ${BOOST_Depends} ${PYTHON_LIBRARIES}
+
+        # experiment for boost as find_package
+        #${PROJECT_NAME} ${PYTHON_LIBRARIES} ${Boost_INCLUDE_DIR}
     )
 elseif(MSVC)
     #target_compile_options(${PROJECT_NAME} PRIVATE

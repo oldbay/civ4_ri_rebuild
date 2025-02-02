@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oldbay/PROJECT/boost_python_examples/boost_python_impex/PROJECT/boost_python_impex/example.cpp
+cstdio
+-
+example.h
+/home/oldbay/PROJECT/boost_python_examples/boost_python_impex/PROJECT/boost_python_impex/example.h
+
+/home/oldbay/PROJECT/boost_python_examples/boost_python_impex/PROJECT/boost_python_impex/example.h
+cstdint
+-
+
+/home/oldbay/PROJECT/boost_python_examples/boost_python_impex/PROJECT/boost_python_impex/library.cpp
+boost/python.hpp
+-
+boost/python/stl_iterator.hpp
+-
+example.h
+/home/oldbay/PROJECT/boost_python_examples/boost_python_impex/PROJECT/boost_python_impex/example.h
+
