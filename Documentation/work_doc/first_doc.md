@@ -9,11 +9,12 @@
 ./util_cmake_converter -s ../GIT/GameCore/CvGameCoreDLL/CvGameCoreDLL.2012.sln
 ```
 
+В linux создание успешное но потребовалась корректировка. 
+Ещё нужно будет смотреть всё это в windows!
+
 
 Точка входа
 -----------
-
-Внимание на
 
  * CvGameCoreDLL.h
  * CvGameCoreDLL.cpp
@@ -31,6 +32,11 @@ CvGlobals.cpp
 в CvXMLLoadUtility.h ошибка на объявление CvDLLUtilityIFaceBase -?
 
 
+CvDLLDataStreamIFaceBase.h
+--------------------------
+Он пустой - зачем он нужен ???
+
+
 Python API & SDK
 ----------------
 
@@ -46,9 +52,8 @@ from CvPythonExtensions import *
 либо сам сдк должен буть ещё слинкован с недоступной (закрытой) частью кода.
 
 
-Есть подозрение что базовый python модуль описани в CvDLLPython.cpp
+Определёно большая часть объектов с которые предоставляются из пакета CvPythonExtension в python - 
+беруться из sCvDLLPython.cpp!
+Остаётся выяснить что помимо представленного в sdk должен отдавать в python CvPythonExtension ?!! 
 
 
-CvDLLDataStreamIFaceBase.h
---------------------------
-Он пустой - зачем он нужен ???
