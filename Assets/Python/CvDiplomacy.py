@@ -11,6 +11,8 @@ from CvPythonExtensions import (
     TeamTypes,
     WarPlanTypes,
 )
+from CvPythonEngine import CyDiplomacy
+
 import CvUtil
 import PyHelpers
 

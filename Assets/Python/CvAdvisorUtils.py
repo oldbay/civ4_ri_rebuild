@@ -4,7 +4,27 @@
 # CvAdvisorUtils
 
 
-from CvPythonExtensions import *
+from CvPythonExtensions import (
+    CommerceTypes,
+    CyGame,
+    CyGlobalContext,
+    BonusTypes,
+    BuildingTypes,
+    ButtonPopupTypes,
+    DomainTypes,
+    FeatTypes,
+    isLimitedUnitClass,
+    isLimitedWonderClass,
+    ReligionTypes,
+    OrderTypes,
+    UnitTypes,
+    UnitAITypes,
+    isNationalWonderClass,
+    PlayerOptionTypes,
+    YieldTypes,
+)
+from CvPythonEngine import CyTranslator, CyPopupInfo
+
 import PyHelpers
 
 
@@ -890,12 +910,26 @@ def cityAdvise(pCity, iPlayer):
                             popupInfo.setData1(pCity.getID())
                             popupInfo.setData2(OrderTypes.ORDER_CONSTRUCT)
                             popupInfo.setData3(eBestBuilding)
-                            popupInfo.setText(localText.getText("TXT_KEY_POPUP_CULTURE_DEMAND", (pCity.getNameKey(), gc.getBuildingInfo(eBestBuilding).getTextKey())))
+                            popupInfo.setText(
+                                localText.getText(
+                                    "TXT_KEY_POPUP_CULTURE_DEMAND",
+                                    (
+                                        pCity.getNameKey(),
+                                        gc.getBuildingInfo(eBestBuilding).getTextKey()
+                                    )
+                                )
+                            )
                             popupInfo.setOnClickedPythonCallback("cityWarningOnClickedCallback")
                             popupInfo.setOnFocusPythonCallback("cityWarningOnFocusCallback")
-                            popupInfo.addPythonButton(localText.getText("TXT_KEY_POPUP_DEMAND_AGREE", ()), "")
-                            popupInfo.addPythonButton(localText.getText("TXT_KEY_POPUP_DEMAND_REFUSE", ()), "")
-                            popupInfo.addPythonButton(localText.getText("TXT_KEY_POPUP_DEMAND_EXAMINE", ()), "")
+                            popupInfo.addPythonButton(
+                                localText.getText("TXT_KEY_POPUP_DEMAND_AGREE", ()), ""
+                            )
+                            popupInfo.addPythonButton(
+                                localText.getText("TXT_KEY_POPUP_DEMAND_REFUSE", ()), ""
+                            )
+                            popupInfo.addPythonButton(
+                                localText.getText("TXT_KEY_POPUP_DEMAND_EXAMINE", ()), ""
+                            )
                             popupInfo.addPopup(iPlayer)
                             g_iAdvisorNags += 1
 
@@ -904,8 +938,16 @@ def cityAdvise(pCity, iPlayer):
                 # K-Mod
                 if (gc.getGame().getGameTurn() + 8) % 40 == pCity.getGameTurnFounded() % 40:
 
-                    if ((pCity.getBaseCommerceRate(CommerceTypes.COMMERCE_GOLD) > 10 and pCity.findCommerceRateRank(CommerceTypes.COMMERCE_GOLD) <= (gc.getPlayer(iPlayer).getNumCities() + 1) / 2)
-                            or (gc.getPlayer(iPlayer).getCommercePercent(CommerceTypes.COMMERCE_GOLD) > 20 and pCity.findYieldRateRank(YieldTypes.YIELD_COMMERCE) <= (gc.getPlayer(iPlayer).getNumCitie s() + 2) / 3)):
+                    if (
+                        (
+                            pCity.getBaseCommerceRate(CommerceTypes.COMMERCE_GOLD) > 10 and
+                            pCity.findCommerceRateRank(CommerceTypes.COMMERCE_GOLD) <= (gc.getPlayer(iPlayer).getNumCities() + 1) / 2
+                        ) or
+                        (
+                            gc.getPlayer(iPlayer).getCommercePercent(CommerceTypes.COMMERCE_GOLD) > 20 and
+                            pCity.findYieldRateRank(YieldTypes.YIELD_COMMERCE) <= (gc.getPlayer(iPlayer).getNumCities() + 2) / 3
+                        )
+                    ):
                 # K-Mod end
 
                         iBestValue = 0
@@ -950,8 +992,16 @@ def cityAdvise(pCity, iPlayer):
                 # K-Mod
                 if (gc.getGame().getGameTurn() + 10) % 40 == pCity.getGameTurnFounded() % 40:
 
-                    if ((pCity.getBaseCommerceRate(CommerceTypes.COMMERCE_RESEARCH) > 10 and pCity.findCommerceRateRank(CommerceTypes.COMMERCE_RESEARCH) <= (gc.getPlayer(iPlayer).getNumCities() + 1) / 2)
-                            or (gc.getPlayer(iPlayer).getCommercePercent(CommerceTypes.COMMERCE_RESEARCH) > 20 and pCity.findYieldRateRank(YieldTypes.YIELD_COMMERCE) <= (gc.getPlayer(iPlayer).getNumCitie s() + 2) / 3)):
+                    if (
+                        (
+                            pCity.getBaseCommerceRate(CommerceTypes.COMMERCE_RESEARCH) > 10 and
+                            pCity.findCommerceRateRank(CommerceTypes.COMMERCE_RESEARCH) <= (gc.getPlayer(iPlayer).getNumCities() + 1) / 2
+                        ) or
+                        (
+                            gc.getPlayer(iPlayer).getCommercePercent(CommerceTypes.COMMERCE_RESEARCH) > 20 and
+                            pCity.findYieldRateRank(YieldTypes.YIELD_COMMERCE) <= (gc.getPlayer(iPlayer).getNumCities() + 2) / 3
+                        )
+                    ):
                 # K-Mod end
 
                         iBestValue = 0

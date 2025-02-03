@@ -4,6 +4,7 @@
 # CvCameraControls
 
 from CvPythonExtensions import *
+from CvPythonEngine import *
 
 #import CvUtil
 
@@ -349,6 +350,7 @@ class CvCameraControls:
 ######################
 # Update / Input Handlers
 ######################
+
 
     def isActive(self):
         if (self.bRotate or self.bZoom or self.bTurn or self.bPitch):
