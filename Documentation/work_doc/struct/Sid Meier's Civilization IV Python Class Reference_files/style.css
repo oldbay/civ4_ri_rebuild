@@ -1,0 +1,155 @@
+/* Body text */
+
+BODY {
+	background: white;
+	font-family: Verdana;
+	font-size: 12px;
+	color: black;
+}
+
+BODY.grey {
+	background: #eeeeee;
+}
+
+SPAN {
+	font-family: Verdana;
+	font-size: 13px;
+	font-weight: bold;
+	color: black;
+}
+
+SPAN.italic {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+}
+
+SPAN.italic_sm {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 11px;
+}
+
+SPAN.sm {
+	font-weight: normal;
+	font-size: 11px;
+}
+
+SPAN.tree {
+	font-weight: normal;
+	line-height: 1
+}
+
+SPAN.int {
+	color: red;
+}
+
+SPAN.void {
+	color: blue;
+}
+
+SPAN.type {
+	color: maroon;
+}
+
+SPAN.float {
+	color: olive;
+}
+
+SPAN.long {
+	color: teal;
+}
+
+SPAN.bool {
+	color: orange;
+}
+
+SPAN.string {
+	color: magenta;
+}
+
+SPAN.tuple {
+	color: navy;
+}
+
+SPAN.list {
+	color: purple;
+}
+
+SPAN.class {
+	color: green;
+}
+
+SPAN.unknown {
+	color: lime;
+}
+
+SPAN.code {
+	font-family: Courier;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+SPAN.h1 {
+	font-size: 20px;
+	font-weight: bold;
+	color: green;
+}
+
+SPAN.h2 {
+	font-size: 16px;
+	font-weight: bold;
+	color: black;
+}
+
+SPAN.h2_sm {
+	font-size: 16px;
+	font-weight: normal;
+	color: black;
+}
+
+SPAN.footer {
+	font-size: 10px;
+	font-style: italic;
+	font-weight: normal;
+	color: gray;
+}
+
+/* Links */
+
+A { 
+	text-decoration: none;
+	color: green;
+}
+
+A.type { 
+	text-decoration: none;
+	color: maroon;
+}
+
+A.index { 
+	font-size: 11px;
+	text-decoration: none;
+	color: green;
+}
+
+A.black { 
+	text-decoration: none;
+	color: black;
+}
+
+A.cf { 
+	text-decoration: none;
+	color: green;
+}
+
+A.tf { 
+	text-decoration: none;
+	color: maroon;
+}
+
+A IMG {
+	text-decoration: none;
+	color: #eeeeee;
+	border: 0px;
+}

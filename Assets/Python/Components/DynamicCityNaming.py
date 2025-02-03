@@ -18,1174 +18,1174 @@ PyPlayer = PyHelpers.PyPlayer
 dLeaderCities = {
 # America
 'LEADER_THOMAS_JEFFERSON'	: [("Philadelphia", 8, "-1"), ("New York", 9, "VARIETY_NEW_YORK"), ("Boston", 7, "-1"), ("Charleston", 7, "-1"), ("Baltimore", 7, "-1"), ("Northern Liberties", 6, "-1"), ("Salem", 6, "-1"), ("Newport", 5, "-1"), 
-								("Providence", 5, "-1"), ("Marblehead", 4, "-1"), ("Southwark", 6, "-1"), ("Norfolk", 5, "-1"), ("Gloucester", 4, "-1"), ("Newburyport", 5, "-1"), ("Portsmouth", 5, "-1"), ("Sherburne", 5, "-1"), ("Middleborough", 5, "-1"), 
-								("New Haven", 4, "-1"), ("Richmond", 5, "-1"), ("Albany", 6, "-1"), ("Petersburg", 4, "-1"), ("Alexandria", 3, "-1"), ("Hartford", 3, "-1"), ("Hudson", 3, "-1"), ("Nantucket", 5, "-1"), ("Schenectady", 4, "-1"), 
-								("New Bedford", 4, "-1"), ("Savannah", 4, "-1"), ("Pittsburgh", 3, "-1"), ("Lancaster", 3, "-1"), ("Portland", 5, "VARIETY_CHINOOK"), ("Georgetown", 4, "-1"), ("Washington", 10, "-1"), ("New Orleans", 6, "-1"), 
-								("Brooklyn", 2, "-1"), ("Lexington", 2, "-1")],
+                                    ("Providence", 5, "-1"), ("Marblehead", 4, "-1"), ("Southwark", 6, "-1"), ("Norfolk", 5, "-1"), ("Gloucester", 4, "-1"), ("Newburyport", 5, "-1"), ("Portsmouth", 5, "-1"), ("Sherburne", 5, "-1"), ("Middleborough", 5, "-1"), 
+                                                                ("New Haven", 4, "-1"), ("Richmond", 5, "-1"), ("Albany", 6, "-1"), ("Petersburg", 4, "-1"), ("Alexandria", 3, "-1"), ("Hartford", 3, "-1"), ("Hudson", 3, "-1"), ("Nantucket", 5, "-1"), ("Schenectady", 4, "-1"), 
+                                                                ("New Bedford", 4, "-1"), ("Savannah", 4, "-1"), ("Pittsburgh", 3, "-1"), ("Lancaster", 3, "-1"), ("Portland", 5, "VARIETY_CHINOOK"), ("Georgetown", 4, "-1"), ("Washington", 10, "-1"), ("New Orleans", 6, "-1"), 
+                                                                ("Brooklyn", 2, "-1"), ("Lexington", 2, "-1")],
 'LEADER_ABRAHAM_LINCOLN'	: [("Washington", 9, "-1"), ("New York", 8, "VARIETY_NEW_YORK"), ("Boston", 7, "-1"), ("Baltimore", 7, "-1"), ("Philadelphia", 7, "-1"), ("New Orleans", 6, "-1"), ("Cincinnati", 6, "-1"), ("Brooklyn", 7, "-1"), 
-								("St. Louis", 6, "-1"), ("San Francisco", 5, "-1"), ("Albany", 5, "-1"), ("Jersey City", 4, "-1"), ("Cambridge", 4, "-1"), ("Pittsburgh", 5, "-1"), ("Louisville", 5, "-1"), ("Charleston", 5, "-1"), ("Buffalo", 5, "-1"), 
-								("Providence", 5, "-1"), ("Newark", 5, "-1"), ("Memphis", 3, "-1"), ("Rochester", 4, "-1"), ("Lowell", 4, "-1"), ("Utica", 3, "VARIETY_UTICA"), ("Chicago", 6, "VARIETY_CHICAGO"), ("Troy", 4, "-1"), ("Richmond", 4, "-1"), 
-								("Indianapolis", 2, "VARIETY_INDIANAPOLIS"), ("Syracuse", 3, "-1"), ("Allegheny", 3, "-1"), ("Detroit", 5, "VARIETY_DETROIT"), ("Portland", 3, "VARIETY_CHINOOK"), ("Wilmington", 2, "-1"), ("New Haven", 4, "-1"), 
-								("Salem", 2, "-1"), ("Milwaukee", 4, "-1")],
+                                   ("St. Louis", 6, "-1"), ("San Francisco", 5, "-1"), ("Albany", 5, "-1"), ("Jersey City", 4, "-1"), ("Cambridge", 4, "-1"), ("Pittsburgh", 5, "-1"), ("Louisville", 5, "-1"), ("Charleston", 5, "-1"), ("Buffalo", 5, "-1"), 
+                                                                ("Providence", 5, "-1"), ("Newark", 5, "-1"), ("Memphis", 3, "-1"), ("Rochester", 4, "-1"), ("Lowell", 4, "-1"), ("Utica", 3, "VARIETY_UTICA"), ("Chicago", 6, "VARIETY_CHICAGO"), ("Troy", 4, "-1"), ("Richmond", 4, "-1"), 
+                                                                ("Indianapolis", 2, "VARIETY_INDIANAPOLIS"), ("Syracuse", 3, "-1"), ("Allegheny", 3, "-1"), ("Detroit", 5, "VARIETY_DETROIT"), ("Portland", 3, "VARIETY_CHINOOK"), ("Wilmington", 2, "-1"), ("New Haven", 4, "-1"), 
+                                                                ("Salem", 2, "-1"), ("Milwaukee", 4, "-1")],
 'LEADER_JAMES_K_POLK'		: [("Washington", 9, "-1"), ("New York", 8, "VARIETY_NEW_YORK"), ("Boston", 7, "-1"), ("Baltimore", 7, "-1"), ("Philadelphia", 7, "-1"), ("New Orleans", 7, "-1"), ("Cincinnati", 7, "-1"), ("Brooklyn", 6, "-1"), 
-								("St. Louis", 6, "-1"), ("Spring Garden", 6, "-1"), ("Albany", 6, "-1"), ("Northern Liberties", 5, "-1"), ("Kensington", 5, "-1"), ("Pittsburgh", 5, "-1"), ("Louisville", 5, "-1"), ("Charleston", 5, "-1"), ("Buffalo", 5, "-1"), 
-								("Providence", 5, "-1"), ("Newark", 4, "-1"), ("Southwark", 4, "-1"), ("Rochester", 4, "-1"), ("Lowell", 4, "-1"), ("Williamsburgh", 4, "-1"), ("Chicago", 3, "VARIETY_CHICAGO"), ("Troy", 3, "-1"), ("Richmond", 3, "-1"), 
-								("Moyamensing", 3, "-1"), ("Syracuse", 3, "-1"), ("Allegheny", 3, "-1"), ("Detroit", 3, "VARIETY_DETROIT"), ("Portland", 2, "VARIETY_CHINOOK"), ("Mobile", 2, "-1"), ("New Haven", 2, "-1"), ("Salem", 2, "-1"), 
-								("Milwaukee", 2, "-1")],
+                                        ("St. Louis", 6, "-1"), ("Spring Garden", 6, "-1"), ("Albany", 6, "-1"), ("Northern Liberties", 5, "-1"), ("Kensington", 5, "-1"), ("Pittsburgh", 5, "-1"), ("Louisville", 5, "-1"), ("Charleston", 5, "-1"), ("Buffalo", 5, "-1"), 
+                                                                ("Providence", 5, "-1"), ("Newark", 4, "-1"), ("Southwark", 4, "-1"), ("Rochester", 4, "-1"), ("Lowell", 4, "-1"), ("Williamsburgh", 4, "-1"), ("Chicago", 3, "VARIETY_CHICAGO"), ("Troy", 3, "-1"), ("Richmond", 3, "-1"), 
+                                                                ("Moyamensing", 3, "-1"), ("Syracuse", 3, "-1"), ("Allegheny", 3, "-1"), ("Detroit", 3, "VARIETY_DETROIT"), ("Portland", 2, "VARIETY_CHINOOK"), ("Mobile", 2, "-1"), ("New Haven", 2, "-1"), ("Salem", 2, "-1"), 
+                                                                ("Milwaukee", 2, "-1")],
 'LEADER_FRANKLIN_ROOSEVELT'	: [("Washington", 9, "-1"), ("New York", 8, "VARIETY_NEW_YORK"), ("Chicago", 7, "VARIETY_CHICAGO"), ("Philadelphia", 7, "-1"), ("Detroit", 7, "VARIETY_DETROIT"), ("Los Angeles", 7, "-1"), ("Cleveland", 6, "-1"), 
-								("Baltimore", 6, "-1"), ("St. Louis", 6, "-1"), ("Boston", 6, "-1"), ("Pittsburgh", 6, "-1"), ("San Francisco", 6, "-1"), ("Milwaukee", 5, "-1"), ("Buffalo", 5, "-1"), ("New Orleans", 5, "-1"), ("Minneapolis", 5, "-1"), 
-								("Cincinnati", 5, "-1"), ("Newark", 5, "-1"), ("Kansas City", 4, "VARIETY_KANSAS"), ("Indianapolis", 4, "VARIETY_INDIANAPOLIS"), ("Houston", 4, "-1"), ("Seattle", 4, "VARIETY_SEATTLE"), ("Rochester", 4, "-1"), 
-								("Denver", 4, "-1"), ("Louisville", 4, "-1"), ("Columbus", 4, "-1"), ("Portland", 4, "VARIETY_CHINOOK"), ("Atlanta", 4, "-1"), ("Oakland", 4, "-1"), ("Jersey City", 4, "-1"), ("Dallas", 3, "VARIETY_DALLAS"), 
-								("Memphis", 2, "-1"), ("St. Paul", 2, "-1"), ("Toledo", 2, "-1"), ("Birmingham", 2, "-1"), ("San Antonio", 2, "VARIETY_SANANTONIO")],
+                                      ("Baltimore", 6, "-1"), ("St. Louis", 6, "-1"), ("Boston", 6, "-1"), ("Pittsburgh", 6, "-1"), ("San Francisco", 6, "-1"), ("Milwaukee", 5, "-1"), ("Buffalo", 5, "-1"), ("New Orleans", 5, "-1"), ("Minneapolis", 5, "-1"), 
+                                                                ("Cincinnati", 5, "-1"), ("Newark", 5, "-1"), ("Kansas City", 4, "VARIETY_KANSAS"), ("Indianapolis", 4, "VARIETY_INDIANAPOLIS"), ("Houston", 4, "-1"), ("Seattle", 4, "VARIETY_SEATTLE"), ("Rochester", 4, "-1"), 
+                                                                ("Denver", 4, "-1"), ("Louisville", 4, "-1"), ("Columbus", 4, "-1"), ("Portland", 4, "VARIETY_CHINOOK"), ("Atlanta", 4, "-1"), ("Oakland", 4, "-1"), ("Jersey City", 4, "-1"), ("Dallas", 3, "VARIETY_DALLAS"), 
+                                                                ("Memphis", 2, "-1"), ("St. Paul", 2, "-1"), ("Toledo", 2, "-1"), ("Birmingham", 2, "-1"), ("San Antonio", 2, "VARIETY_SANANTONIO")],
 'LEADER_THEODORE_ROOSEVELT'	: [("Washington", 9, "-1"), ("New York", 8, "VARIETY_NEW_YORK"), ("Chicago", 7, "VARIETY_CHICAGO"), ("Philadelphia", 7, "-1"), ("St. Louis", 6, "-1"), ("Boston", 6, "-1"), ("Cleveland", 6, "-1"), ("Baltimore", 6, "-1"), 
-								("Pittsburgh", 6, "-1"), ("Detroit", 5, "VARIETY_DETROIT"), ("Buffalo", 5, "-1"), ("San Francisco", 5, "-1"), ("Milwaukee", 4, "-1"), ("Cincinnati", 4, "-1"), ("Newark", 4, "-1"), ("New Orleans", 4, "-1"), 
-								("Los Angeles", 4, "-1"), ("Minneapolis", 4, "-1"), ("Jersey City", 3, "-1"), ("Kansas City", 3, "-1"), ("Seattle", 3, "VARIETY_SEATTLE"), ("Indianapolis", 3, "VARIETY_INDIANAPOLIS"), ("Providence", 3, "-1"), 
-								("Louisville", 3, "-1"), ("Rochester", 3, "-1"), ("St. Paul", 3, "-1"), ("Denver", 3, "-1"), ("Portland", 3, "VARIETY_CHINOOK"), ("Columbus", 2, "-1"), ("Toledo", 2, "-1"), ("Atlanta", 2, "-1"), 
-								("Oakland", 2, "-1"), ("Worcester", 2, "-1"), ("Syracuse", 2, "-1"), ("New Haven", 2, "-1")],
+                                      ("Pittsburgh", 6, "-1"), ("Detroit", 5, "VARIETY_DETROIT"), ("Buffalo", 5, "-1"), ("San Francisco", 5, "-1"), ("Milwaukee", 4, "-1"), ("Cincinnati", 4, "-1"), ("Newark", 4, "-1"), ("New Orleans", 4, "-1"), 
+                                                                ("Los Angeles", 4, "-1"), ("Minneapolis", 4, "-1"), ("Jersey City", 3, "-1"), ("Kansas City", 3, "-1"), ("Seattle", 3, "VARIETY_SEATTLE"), ("Indianapolis", 3, "VARIETY_INDIANAPOLIS"), ("Providence", 3, "-1"), 
+                                                                ("Louisville", 3, "-1"), ("Rochester", 3, "-1"), ("St. Paul", 3, "-1"), ("Denver", 3, "-1"), ("Portland", 3, "VARIETY_CHINOOK"), ("Columbus", 2, "-1"), ("Toledo", 2, "-1"), ("Atlanta", 2, "-1"), 
+                                                                ("Oakland", 2, "-1"), ("Worcester", 2, "-1"), ("Syracuse", 2, "-1"), ("New Haven", 2, "-1")],
 'LEADER_WASHINGTON'			: [("Philadelphia", 9, "-1"), ("New York", 8, "VARIETY_NEW_YORK"), ("Boston", 7, "-1"), ("Charleston", 7, "-1"), ("Baltimore", 7, "-1"), ("Northern Liberties", 6, "-1"), ("Salem", 6, "-1"), ("Newport", 6, "-1"), 
-								("Providence", 6, "-1"), ("Marblehead", 6, "-1"), ("Southwark", 6, "-1"), ("Norfolk", 3, "-1"), ("Gloucester", 5, "-1"), ("Newburyport", 5, "-1"), ("Portsmouth", 5, "-1"), ("Sherburne", 5, "-1"), ("Middleborough", 5, "-1"), 
-								("New Haven", 4, "-1"), ("Richmond", 4, "-1"), ("Albany", 4, "-1"), ("Petersburg", 3, "-1"), ("Alexandria", 3, "-1"), ("Hartford", 3, "-1"), ("Hudson", 3, "-1"), ("Nantucket", 2, "-1"), ("Schenectady", 2, "-1"), 
-								("New London", 2, "-1"), ("Savannah", 2, "-1"), ("New Bedford", 2, "-1"), ("Lancaster", 2, "-1"), ("Portland", 2, "-1"), ("Georgetown", 2, "-1")],
+                                              ("Providence", 6, "-1"), ("Marblehead", 6, "-1"), ("Southwark", 6, "-1"), ("Norfolk", 3, "-1"), ("Gloucester", 5, "-1"), ("Newburyport", 5, "-1"), ("Portsmouth", 5, "-1"), ("Sherburne", 5, "-1"), ("Middleborough", 5, "-1"), 
+                                                                ("New Haven", 4, "-1"), ("Richmond", 4, "-1"), ("Albany", 4, "-1"), ("Petersburg", 3, "-1"), ("Alexandria", 3, "-1"), ("Hartford", 3, "-1"), ("Hudson", 3, "-1"), ("Nantucket", 2, "-1"), ("Schenectady", 2, "-1"), 
+                                                                ("New London", 2, "-1"), ("Savannah", 2, "-1"), ("New Bedford", 2, "-1"), ("Lancaster", 2, "-1"), ("Portland", 2, "-1"), ("Georgetown", 2, "-1")],
 # Arabia
 'LEADER_BILQUIS'			: [("Ma'rib", 9, "-1"), ("Sana'a", 8, "-1"), ("Sirwah", 7, "-1"), ("Najran", 6, "-1"), ("Axum", 6, "-1"), ("dhu-'Adan", 6, "-1"), ("Qani'", 6, "-1"), ("Adulis", 5, "-1"), ("Zafar", 5, "-1"), 
-								("Makhwan", 5, "-1"), ("Maddaban", 5, "-1"), ("Shabwat", 5, "-1"), ("Coloe", 4, "-1"), ("Avalites", 4, "-1"), ("Timna'", 4, "-1"), ("Ma'in", 4, "-1"), ("Shabwa", 4, "-1"), ("Samharm", 3, "-1"), 
-								("Al-Mukha", 3, "-1"), ("Qataban", 3, "-1"), ("Thoma", 3, "-1"), ("Matara", 3, "-1"), ("Zeila", 3, "-1")],
+                                           ("Makhwan", 5, "-1"), ("Maddaban", 5, "-1"), ("Shabwat", 5, "-1"), ("Coloe", 4, "-1"), ("Avalites", 4, "-1"), ("Timna'", 4, "-1"), ("Ma'in", 4, "-1"), ("Shabwa", 4, "-1"), ("Samharm", 3, "-1"), 
+                                                                ("Al-Mukha", 3, "-1"), ("Qataban", 3, "-1"), ("Thoma", 3, "-1"), ("Matara", 3, "-1"), ("Zeila", 3, "-1")],
 'LEADER_HARUN_AL_RASHID'	: [("Baghdad", 9, "VARIETY_BAGHDAD"), ("Al-Raqqah", 8, "VARIETY_RAKKA"), ("Mecca", 8, "-1"), ("Medina", 7, "-1"), ("Dimashq", 7, "VARIETY_DAMASCUS"), ("Al-Iskandariyyah", 7, "VARIETY_ALEXANDRIA"), ("Qayrawan", 6, "VARIETY_KAIROUAN"), 
-								("Aleppo", 6, "VARIETY_ALEPPO"), ("Mosul", 6, "VARIETY_ASSYRIAN"), ("Al-Quds", 6, "VARIETY_JERUSALEM"), ("Fustat", 6, "-1"), ("Sana'a", 6, "-1"), ("Basra", 6, "VARIETY_BASRA"), ("Isfahan", 4, "-1"), ("Rashid", 4, "VARIETY_ROSETTA"), 
-								("Hamadan", 4, "VARIETY_HAMADAN"), ("Rayy", 5, "VARIETY_REY"), ("Kalikala", 5, "VARIETY_KARIN"), ("Fars", 5, "-1"), ("Samarra", 5, "-1"), ("Muscat", 4, "-1"), ("Barqah", 4, "VARIETY_CYRENAICA"), ("Kufa", 4, "-1"), 
-								("Nishapur", 3, "-1"), ("Antakiyyah", 2, "VARIETY_ANTIOCH"), ("Homs", 2, "VARIETY_HOMS"), ("Shiraz", 2, "-1"), ("Tarabulus", 2, "VARIETY_TRIPOLI"), ("Tadmor", 2, "VARIETY_PALMYRA"), ("Siraf", 2, "-1"), ("Tabriz", 2, "-1"), 
-								("Jeddah", 2, "-1"), ("Wasit", 2, "-1"), ("Tikrit", 2, "-1"), ("Akka", 2, "VARIETY_ACRE")],
+                                   ("Aleppo", 6, "VARIETY_ALEPPO"), ("Mosul", 6, "VARIETY_ASSYRIAN"), ("Al-Quds", 6, "VARIETY_JERUSALEM"), ("Fustat", 6, "-1"), ("Sana'a", 6, "-1"), ("Basra", 6, "VARIETY_BASRA"), ("Isfahan", 4, "-1"), ("Rashid", 4, "VARIETY_ROSETTA"), 
+                                                                ("Hamadan", 4, "VARIETY_HAMADAN"), ("Rayy", 5, "VARIETY_REY"), ("Kalikala", 5, "VARIETY_KARIN"), ("Fars", 5, "-1"), ("Samarra", 5, "-1"), ("Muscat", 4, "-1"), ("Barqah", 4, "VARIETY_CYRENAICA"), ("Kufa", 4, "-1"), 
+                                                                ("Nishapur", 3, "-1"), ("Antakiyyah", 2, "VARIETY_ANTIOCH"), ("Homs", 2, "VARIETY_HOMS"), ("Shiraz", 2, "-1"), ("Tarabulus", 2, "VARIETY_TRIPOLI"), ("Tadmor", 2, "VARIETY_PALMYRA"), ("Siraf", 2, "-1"), ("Tabriz", 2, "-1"), 
+                                                                ("Jeddah", 2, "-1"), ("Wasit", 2, "-1"), ("Tikrit", 2, "-1"), ("Akka", 2, "VARIETY_ACRE")],
 'LEADER_IBN_SAUD'			: [("Riyadh", 9, "VARIETY_RIYADH"), ("Jeddah", 8, "-1"), ("Mecca", 8, "-1"), ("Medina", 7, "-1"), ("Hofuf", 7, "-1"), ("Ta'if", 7, "-1"), ("Dammam", 7, "-1"), ("Khamis Mushait", 6, "-1"), ("Buraidah", 6, "-1"), ("Khobar", 6, "-1"), 
-								("Tabuk", 6, "-1"), ("Ha'il", 5, "-1"), ("Hafar Al-Batin", 5, "-1"), ("Jubail", 5, "-1"), ("Al-Kharj", 5, "-1"), ("Qatif", 5, "-1"), ("Abha", 5, "-1"), ("Najran", 4, "-1"), ("Yanbu", 4, "-1"), ("Al Qunfudhah", 4, "-1"), 
-								("Al Zulfi", 3, "-1"), ("Al Bahah", 3, "-1"), ("Dhahran", 3, "-1"), ("Gurayat", 3, "-1"), ("Hautat Sudair", 2, "-1"), ("Al Jawf", 2, "-1"), ("Muzahmiyya", 2, "-1"), ("Ar Rass", 2, "-1"), ("Sharurah", 2, "-1"), 
-								("Unaizah", 2, "-1"), ("Saihat", 2, "-1"), ("Riyadh Al-Khabra", 2, "-1"), ("Khafji", 2, "-1"), ("Al Majma'ah", 2, "-1"), ("Al-Omran", 2, "-1"), ("Sakakah", 2, "-1")],
+                                            ("Tabuk", 6, "-1"), ("Ha'il", 5, "-1"), ("Hafar Al-Batin", 5, "-1"), ("Jubail", 5, "-1"), ("Al-Kharj", 5, "-1"), ("Qatif", 5, "-1"), ("Abha", 5, "-1"), ("Najran", 4, "-1"), ("Yanbu", 4, "-1"), ("Al Qunfudhah", 4, "-1"), 
+                                                                ("Al Zulfi", 3, "-1"), ("Al Bahah", 3, "-1"), ("Dhahran", 3, "-1"), ("Gurayat", 3, "-1"), ("Hautat Sudair", 2, "-1"), ("Al Jawf", 2, "-1"), ("Muzahmiyya", 2, "-1"), ("Ar Rass", 2, "-1"), ("Sharurah", 2, "-1"), 
+                                                                ("Unaizah", 2, "-1"), ("Saihat", 2, "-1"), ("Riyadh Al-Khabra", 2, "-1"), ("Khafji", 2, "-1"), ("Al Majma'ah", 2, "-1"), ("Al-Omran", 2, "-1"), ("Sakakah", 2, "-1")],
 'LEADER_MUAWIYAH_I'			: [("Mecca", 8, "-1"), ("Medina", 8, "-1"), ("Al-Raqqah", 7, "VARIETY_RAKKA"), ("Dimashq", 9, "VARIETY_DAMASCUS"), ("Al-Iskandariyyah", 7, "VARIETY_ALEXANDRIA"), ("Aleppo", 6, "VARIETY_ALEPPO"), ("Mosul", 6, "VARIETY_ASSYRIAN"), 
-								("Al-Quds", 6, "VARIETY_JERUSALEM"), ("Fustat", 6, "-1"), ("Sana'a", 6, "-1"), ("Basra", 6, "VARIETY_BASRA"), ("Isfahan", 4, "-1"), ("Rashid", 4, "VARIETY_ROSETTA"), ("Hamadan", 4, "VARIETY_HAMADAN"), ("Rayy", 5, "VARIETY_REY"), 
-								("Kalikala", 5, "VARIETY_KARIN"), ("Fars", 5, "-1"), ("Samarra", 5, "-1"), ("Muscat", 4, "-1"), ("Barqah", 4, "VARIETY_CYRENAICA"), ("Kufa", 4, "-1"), ("Nishapur", 3, "-1"), ("Antakiyyah", 2, "VARIETY_ANTIOCH"), 
-								("Homs", 2, "VARIETY_HOMS"), ("Shiraz", 2, "-1"), ("Tarabulus", 2, "VARIETY_TRIPOLI"), ("Tadmor", 2, "VARIETY_PALMYRA"), ("Siraf", 2, "-1"), ("Tabriz", 2, "-1"), ("Jeddah", 2, "-1"), ("Wasit", 2, "-1"), ("Tikrit", 2, "-1"), 
-								("Akka", 2, "VARIETY_ACRE"), ("Hunayn", 2, "-1"), ("Ta'if", 2, "-1"), ("Tabuk", 4, "-1"), ("Ar-Ramlah", 3, "-1"), ("Khaybar", 3, "-1"), ("Qayrawan", 6, "VARIETY_KAIROUAN")],
+                                              ("Al-Quds", 6, "VARIETY_JERUSALEM"), ("Fustat", 6, "-1"), ("Sana'a", 6, "-1"), ("Basra", 6, "VARIETY_BASRA"), ("Isfahan", 4, "-1"), ("Rashid", 4, "VARIETY_ROSETTA"), ("Hamadan", 4, "VARIETY_HAMADAN"), ("Rayy", 5, "VARIETY_REY"), 
+                                                                ("Kalikala", 5, "VARIETY_KARIN"), ("Fars", 5, "-1"), ("Samarra", 5, "-1"), ("Muscat", 4, "-1"), ("Barqah", 4, "VARIETY_CYRENAICA"), ("Kufa", 4, "-1"), ("Nishapur", 3, "-1"), ("Antakiyyah", 2, "VARIETY_ANTIOCH"), 
+                                                                ("Homs", 2, "VARIETY_HOMS"), ("Shiraz", 2, "-1"), ("Tarabulus", 2, "VARIETY_TRIPOLI"), ("Tadmor", 2, "VARIETY_PALMYRA"), ("Siraf", 2, "-1"), ("Tabriz", 2, "-1"), ("Jeddah", 2, "-1"), ("Wasit", 2, "-1"), ("Tikrit", 2, "-1"), 
+                                                                ("Akka", 2, "VARIETY_ACRE"), ("Hunayn", 2, "-1"), ("Ta'if", 2, "-1"), ("Tabuk", 4, "-1"), ("Ar-Ramlah", 3, "-1"), ("Khaybar", 3, "-1"), ("Qayrawan", 6, "VARIETY_KAIROUAN")],
 'LEADER_SALADIN'			: [("Al-Quahira", 9, "VARIETY_CAIRO"),("Mecca", 8, "-1"), ("Medina", 8, "-1"), ("Al-Raqqah", 7, "VARIETY_RAKKA"), ("Dimashq", 7, "VARIETY_DAMASCUS"), ("Al-Iskandariyyah", 5, "VARIETY_ALEXANDRIA"), ("Aleppo", 6, "VARIETY_ALEPPO"), 
-								("Mayyafariqin", 6, "VARIETY_SILVAN"), ("Al-Quds", 6, "VARIETY_JERUSALEM"), ("Dumyat", 6, "VARIETY_DAMIETTA"), ("Zabid", 6, "-1"), ("Bosra", 6, "VARIETY_BOSRA"), ("Baʿalbek", 4, "-1"), ("Rashid", 4, "VARIETY_ROSETTA"), 
-								("Al-Karak", 4, "-1"), ("Ayla", 4, "-1"), ("Kalikala", 5, "VARIETY_KARIN"), ("Manbij", 5, "-1"), ("Samarra", 5, "-1"), ("Aswan", 4, "-1"), ("Barqah", 4, "VARIETY_CYRENAICA"), ("Kufa", 4, "-1"), ("Bilbeis", 3, "-1"), 
-								("Antakiyyah", 4, "VARIETY_ANTIOCH"), ("Homs", 2, "VARIETY_HOMS"), ("Irbil", 2, "VARIETY_ARBELA"), ("Tartus", 2, "-1"), ("Tadmor", 4, "VARIETY_PALMYRA"), ("Siraf", 2, "-1"), ("Hattin", 2, "-1"), ("Jeddah", 2, "-1"), 
-								("Edessa", 2, "VARIETY_EDESSA"), ("Tikrit", 2, "-1"), ("Yanbu", 2, "-1"), ("Hunayn", 2, "-1"), ("Ta'if", 2, "-1"), ("Tabuk", 4, "-1"), ("Ar-Ramlah", 3, "-1"), ("Khaybar", 3, "-1"), ("Ascalon", 6, "VARIETY_ASCALON")],
+                                           ("Mayyafariqin", 6, "VARIETY_SILVAN"), ("Al-Quds", 6, "VARIETY_JERUSALEM"), ("Dumyat", 6, "VARIETY_DAMIETTA"), ("Zabid", 6, "-1"), ("Bosra", 6, "VARIETY_BOSRA"), ("Baʿalbek", 4, "-1"), ("Rashid", 4, "VARIETY_ROSETTA"), 
+                                                                ("Al-Karak", 4, "-1"), ("Ayla", 4, "-1"), ("Kalikala", 5, "VARIETY_KARIN"), ("Manbij", 5, "-1"), ("Samarra", 5, "-1"), ("Aswan", 4, "-1"), ("Barqah", 4, "VARIETY_CYRENAICA"), ("Kufa", 4, "-1"), ("Bilbeis", 3, "-1"), 
+                                                                ("Antakiyyah", 4, "VARIETY_ANTIOCH"), ("Homs", 2, "VARIETY_HOMS"), ("Irbil", 2, "VARIETY_ARBELA"), ("Tartus", 2, "-1"), ("Tadmor", 4, "VARIETY_PALMYRA"), ("Siraf", 2, "-1"), ("Hattin", 2, "-1"), ("Jeddah", 2, "-1"), 
+                                                                ("Edessa", 2, "VARIETY_EDESSA"), ("Tikrit", 2, "-1"), ("Yanbu", 2, "-1"), ("Hunayn", 2, "-1"), ("Ta'if", 2, "-1"), ("Tabuk", 4, "-1"), ("Ar-Ramlah", 3, "-1"), ("Khaybar", 3, "-1"), ("Ascalon", 6, "VARIETY_ASCALON")],
 'LEADER_UMAR'				: [("Mecca", 9, "-1"), ("Medina", 8, "-1"), ("Al-Raqqah", 7, "VARIETY_RAKKA"), ("Dimashq", 7, "VARIETY_DAMASCUS"), ("Al-Iskandariyyah", 7, "VARIETY_ALEXANDRIA"), ("Aleppo", 6, "VARIETY_ALEPPO"), ("Mosul", 6, "VARIETY_ASSYRIAN"), 
-								("Al-Quds", 6, "VARIETY_JERUSALEM"), ("Fustat", 6, "-1"), ("Sana'a", 6, "-1"), ("Basra", 6, "VARIETY_BASRA"), ("Isfahan", 4, "-1"), ("Rashid", 4, "VARIETY_ROSETTA"), ("Hamadan", 4, "VARIETY_HAMADAN"), ("Rayy", 5, "VARIETY_REY"), 
-								("Kalikala", 5, "VARIETY_KARIN"), ("Fars", 5, "-1"), ("Samarra", 5, "-1"), ("Muscat", 4, "-1"), ("Barqah", 4, "VARIETY_CYRENAICA"), ("Kufa", 4, "-1"), ("Nishapur", 3, "-1"), ("Antakiyyah", 2, "VARIETY_ANTIOCH"), 
-								("Homs", 2, "VARIETY_HOMS"), ("Shiraz", 2, "-1"), ("Tarabulus", 2, "VARIETY_TRIPOLI"), ("Tadmor", 2, "VARIETY_PALMYRA"), ("Siraf", 2, "-1"), ("Tabriz", 2, "-1"), ("Jeddah", 2, "-1"), ("Wasit", 2, "-1"), ("Tikrit", 2, "-1"), 
-								("Akka", 2, "VARIETY_ACRE"), ("Hunayn", 2, "-1"), ("Ta'if", 2, "-1"), ("Tabuk", 4, "-1"), ("Ar-Ramlah", 3, "-1"), ("Khaybar", 3, "-1")],
+                                                ("Al-Quds", 6, "VARIETY_JERUSALEM"), ("Fustat", 6, "-1"), ("Sana'a", 6, "-1"), ("Basra", 6, "VARIETY_BASRA"), ("Isfahan", 4, "-1"), ("Rashid", 4, "VARIETY_ROSETTA"), ("Hamadan", 4, "VARIETY_HAMADAN"), ("Rayy", 5, "VARIETY_REY"), 
+                                                                ("Kalikala", 5, "VARIETY_KARIN"), ("Fars", 5, "-1"), ("Samarra", 5, "-1"), ("Muscat", 4, "-1"), ("Barqah", 4, "VARIETY_CYRENAICA"), ("Kufa", 4, "-1"), ("Nishapur", 3, "-1"), ("Antakiyyah", 2, "VARIETY_ANTIOCH"), 
+                                                                ("Homs", 2, "VARIETY_HOMS"), ("Shiraz", 2, "-1"), ("Tarabulus", 2, "VARIETY_TRIPOLI"), ("Tadmor", 2, "VARIETY_PALMYRA"), ("Siraf", 2, "-1"), ("Tabriz", 2, "-1"), ("Jeddah", 2, "-1"), ("Wasit", 2, "-1"), ("Tikrit", 2, "-1"), 
+                                                                ("Akka", 2, "VARIETY_ACRE"), ("Hunayn", 2, "-1"), ("Ta'if", 2, "-1"), ("Tabuk", 4, "-1"), ("Ar-Ramlah", 3, "-1"), ("Khaybar", 3, "-1")],
 # Armenia
 'LEADER_ARGISHTI'			: [("Tushpa", 9, "VARIETY_VAN"), ("Erebuni", 8, "VARIETY_YEREVAN"), ("Argishtikhinili", 8, "VARIETY_ARMAVIR"), ("Ardini", 7, "-1"), ("Ordaklu", 7, "-1"), ("Bastam", 6, "-1"), ("Anashi", 6, "-1"), ("Amimu", 6, "-1"), 
-								("Menuaini", 5, "-1"), ("Delibala", 5, "-1"), ("Ushnu", 5, "-1"), ("Tashtepe", 5, "-1"), ("Arzashkun", 4, "-1"), ("Manazkert", 4, "VARIETY_MANZIKERT"), ("Ardini", 4, "-1"), ("Horom", 4, "-1"), ("Kelashin", 4, "-1"), 
-								("Sugunia", 3, "-1"), ("Gilzan", 3, "-1"), ("Izirtu", 3, "-1"), ("Yeraskh", 3, "-1"), ("Kef Kalesi", 3, "-1"), ("Sardurikhinili", 3, "-1")],
+                                            ("Menuaini", 5, "-1"), ("Delibala", 5, "-1"), ("Ushnu", 5, "-1"), ("Tashtepe", 5, "-1"), ("Arzashkun", 4, "-1"), ("Manazkert", 4, "VARIETY_MANZIKERT"), ("Ardini", 4, "-1"), ("Horom", 4, "-1"), ("Kelashin", 4, "-1"), 
+                                                                ("Sugunia", 3, "-1"), ("Gilzan", 3, "-1"), ("Izirtu", 3, "-1"), ("Yeraskh", 3, "-1"), ("Kef Kalesi", 3, "-1"), ("Sardurikhinili", 3, "-1")],
 'LEADER_THOROS_II'			: [("Sis", 9, "-1"), ("Ayas", 8, "VARIETY_AYAS"), ("Korykos", 8, "VARIETY_KORYKOS"), ("Msis", 8, "VARIETY_MSIS"), ("Tarson", 7, "VARIETY_TARSUS"), ("Hromkla", 7, "VARIETY_HROMKLA"), ("Anazarva", 6, "VARIETY_HITTITE"), 
-								("Vahka", 6, "VARIETY_VAHKA"), ("Kovara", 6, "VARIETY_KOVARA"), ("Sarvandikar", 6, "-1"), ("Kuklak", 6, "VARIETY_KUKLAK"), ("T'il Hamtun", 6, "VARIETY_HAMTUN"), ("Hadjin", 6, "VARIETY_HADJIN"), 
-								("Seleukeia Trachea", 5, "VARIETY_SELEUKEIA"), ("Lampron", 5, "-1"), ("Baberon", 5, "VARIETY_BABERON"), ("Aintab", 4, "VARIETY_AINTAB"), ("Alexandretta", 3, "VARIETY_ALEXANDRETTA"), ("Anamur", 3, "-1"), 
-								("Mersin", 3, "VARIETY_MERSIN"), ("Pozanti", 3, "VARIETY_POZANTI"), ("Adana", 3, "-1"), ("Tyana", 3, "-1"), ("Ulnia", 3, "VARIETY_ULNIA")],
+                                             ("Vahka", 6, "VARIETY_VAHKA"), ("Kovara", 6, "VARIETY_KOVARA"), ("Sarvandikar", 6, "-1"), ("Kuklak", 6, "VARIETY_KUKLAK"), ("T'il Hamtun", 6, "VARIETY_HAMTUN"), ("Hadjin", 6, "VARIETY_HADJIN"), 
+                                                                ("Seleukeia Trachea", 5, "VARIETY_SELEUKEIA"), ("Lampron", 5, "-1"), ("Baberon", 5, "VARIETY_BABERON"), ("Aintab", 4, "VARIETY_AINTAB"), ("Alexandretta", 3, "VARIETY_ALEXANDRETTA"), ("Anamur", 3, "-1"), 
+                                                                ("Mersin", 3, "VARIETY_MERSIN"), ("Pozanti", 3, "VARIETY_POZANTI"), ("Adana", 3, "-1"), ("Tyana", 3, "-1"), ("Ulnia", 3, "VARIETY_ULNIA")],
 'LEADER_TIGRANES'			: [("Tigranakert", 9, "-1"), ("Artashat", 8, "VARIETY_ARTASHAT"), ("Armavir", 8, "VARIETY_ARMAVIR"), ("Yervandashat", 8, "-1"), ("Karkatiokert", 7, "VARIETY_KARKATIOKERT"), ("Tarson", 7, "VARIETY_TARSUS"), 
-								("Damaskos", 7, "VARIETY_DAMASCUS"), ("Nakhijevan", 6, "-1"), ("Her", 6, "VARIETY_HER"), ("Karin", 6, "VARIETY_KARIN"), ("Arsamosata", 6, "-1"), ("Manazkert", 6, "VARIETY_MANZIKERT"), ("Pinik", 4, "-1"), 
-								("Moks", 6, "-1"), ("Tosp", 6, "VARIETY_VAN"), ("Baghaberd", 6, "-1"), ("Shushi", 6, "-1"), ("Paytakaran", 6, "-1"), ("Partav", 6, "VARIETY_PARTAV"), ("Ardahan", 6, "-1"), 
-								("Voghtik", 6, "VARIETY_OLTU"), ("Mtsbin", 5, "VARIETY_NISIBIS"), ("Kharani", 5, "VARIETY_CARRHAE"), ("Palmyra", 5, "VARIETY_PALMYRA"), ("Antioch", 5, "VARIETY_ANTIOCH"), 
-								("Laodicea", 5, "VARIETY_LATAKIA"), ("Malatya", 5, "VARIETY_MALATYA"), ("Edessa", 5, "VARIETY_EDESSA"), ("Samosata", 5, "-1"), ("Beyrut", 5, "VARIETY_BEIRUT"), ("Erebuni", 5, "VARIETY_YEREVAN")],
+                                            ("Damaskos", 7, "VARIETY_DAMASCUS"), ("Nakhijevan", 6, "-1"), ("Her", 6, "VARIETY_HER"), ("Karin", 6, "VARIETY_KARIN"), ("Arsamosata", 6, "-1"), ("Manazkert", 6, "VARIETY_MANZIKERT"), ("Pinik", 4, "-1"), 
+                                                                ("Moks", 6, "-1"), ("Tosp", 6, "VARIETY_VAN"), ("Baghaberd", 6, "-1"), ("Shushi", 6, "-1"), ("Paytakaran", 6, "-1"), ("Partav", 6, "VARIETY_PARTAV"), ("Ardahan", 6, "-1"), 
+                                                                ("Voghtik", 6, "VARIETY_OLTU"), ("Mtsbin", 5, "VARIETY_NISIBIS"), ("Kharani", 5, "VARIETY_CARRHAE"), ("Palmyra", 5, "VARIETY_PALMYRA"), ("Antioch", 5, "VARIETY_ANTIOCH"), 
+                                                                ("Laodicea", 5, "VARIETY_LATAKIA"), ("Malatya", 5, "VARIETY_MALATYA"), ("Edessa", 5, "VARIETY_EDESSA"), ("Samosata", 5, "-1"), ("Beyrut", 5, "VARIETY_BEIRUT"), ("Erebuni", 5, "VARIETY_YEREVAN")],
 'LEADER_TIRIDATES_I'		: [("Tigranakert", 8, "-1"), ("Neronia", 9, "VARIETY_ARTASHAT"), ("Armavir", 8, "VARIETY_ARMAVIR"), ("Yervandashat", 8, "-1"), ("Karkatiokert", 6, "VARIETY_KARKATIOKERT"), ("Garni", 8, "-1"), 
-								("Rhandeia", 7, "-1"), ("Nakhijevan", 6, "-1"), ("Her", 6, "VARIETY_HER"), ("Karin", 6, "VARIETY_KARIN"), ("Arsamosata", 7, "-1"), ("Manazkert", 6, "VARIETY_MANZIKERT"), ("Pinik", 4, "-1"), 
-								("Moks", 6, "-1"), ("Tosp", 6, "VARIETY_VAN"), ("Baghaberd", 6, "-1"), ("Shushi", 6, "-1"), ("Paytakaran", 6, "-1"), ("Partav", 6, "VARIETY_PARTAV"), ("Ardahan", 6, "-1"), 
-								("Voghtik", 6, "VARIETY_OLTU"), ("Mtsbin", 5, "VARIETY_NISIBIS"), ("Vagharshapat", 5, "VARIETY_VAGHARSHAPAT"), ("Zarehavan ", 5, "-1"), ("Bagaran", 5, "-1"), 
-								("Vardanakert", 5, "-1"), ("Palu", 5, "-1"), ("Np'rkert", 5, "VARIETY_SILVAN"), ("Zarishat", 5, "-1"), ("Tsolakert", 5, "VARIETY_IGDIR"), ("Tirakatar", 5, "-1"), ("Artahan", 5, "-1")],
+                                       ("Rhandeia", 7, "-1"), ("Nakhijevan", 6, "-1"), ("Her", 6, "VARIETY_HER"), ("Karin", 6, "VARIETY_KARIN"), ("Arsamosata", 7, "-1"), ("Manazkert", 6, "VARIETY_MANZIKERT"), ("Pinik", 4, "-1"), 
+                                                                ("Moks", 6, "-1"), ("Tosp", 6, "VARIETY_VAN"), ("Baghaberd", 6, "-1"), ("Shushi", 6, "-1"), ("Paytakaran", 6, "-1"), ("Partav", 6, "VARIETY_PARTAV"), ("Ardahan", 6, "-1"), 
+                                                                ("Voghtik", 6, "VARIETY_OLTU"), ("Mtsbin", 5, "VARIETY_NISIBIS"), ("Vagharshapat", 5, "VARIETY_VAGHARSHAPAT"), ("Zarehavan ", 5, "-1"), ("Bagaran", 5, "-1"), 
+                                                                ("Vardanakert", 5, "-1"), ("Palu", 5, "-1"), ("Np'rkert", 5, "VARIETY_SILVAN"), ("Zarishat", 5, "-1"), ("Tsolakert", 5, "VARIETY_IGDIR"), ("Tirakatar", 5, "-1"), ("Artahan", 5, "-1")],
 'LEADER_TIRIDATES_III'		: [("Tigranakert", 8, "-1"), ("Artashat", 8, "VARIETY_ARTASHAT"), ("Armavir", 8, "VARIETY_ARMAVIR"), ("Yervandashat", 8, "-1"), ("Karkatiokert", 6, "VARIETY_KARKATIOKERT"), ("Garni", 6, "-1"), 
-								("Rhandeia", 7, "-1"), ("Nakhijevan", 6, "-1"), ("Her", 6, "VARIETY_HER"), ("Karin", 6, "VARIETY_KARIN"), ("Arsamosata", 7, "-1"), ("Manazkert", 6, "VARIETY_MANZIKERT"), ("Pinik", 4, "-1"), 
-								("Moks", 6, "-1"), ("Tosp", 6, "VARIETY_VAN"), ("Baghaberd", 6, "-1"), ("Shushi", 6, "-1"), ("Paytakaran", 6, "-1"), ("Partav", 6, "VARIETY_PARTAV"), ("Ardahan", 6, "-1"), 
-								("Voghtik", 6, "VARIETY_OLTU"), ("Mtsbin", 5, "VARIETY_NISIBIS"), ("Etchmiadzin", 9, "VARIETY_VAGHARSHAPAT"), ("Zarehavan ", 5, "-1"), ("Bagaran", 5, "-1"), 
-								("Vardanakert", 5, "-1"), ("Palu", 5, "-1"), ("Np'rkert", 5, "VARIETY_SILVAN"), ("Zarishat", 5, "-1"), ("Tsolakert", 5, "VARIETY_IGDIR"), ("Tirakatar", 5, "-1"), ("Artahan", 5, "-1")],
+                                         ("Rhandeia", 7, "-1"), ("Nakhijevan", 6, "-1"), ("Her", 6, "VARIETY_HER"), ("Karin", 6, "VARIETY_KARIN"), ("Arsamosata", 7, "-1"), ("Manazkert", 6, "VARIETY_MANZIKERT"), ("Pinik", 4, "-1"), 
+                                                                ("Moks", 6, "-1"), ("Tosp", 6, "VARIETY_VAN"), ("Baghaberd", 6, "-1"), ("Shushi", 6, "-1"), ("Paytakaran", 6, "-1"), ("Partav", 6, "VARIETY_PARTAV"), ("Ardahan", 6, "-1"), 
+                                                                ("Voghtik", 6, "VARIETY_OLTU"), ("Mtsbin", 5, "VARIETY_NISIBIS"), ("Etchmiadzin", 9, "VARIETY_VAGHARSHAPAT"), ("Zarehavan ", 5, "-1"), ("Bagaran", 5, "-1"), 
+                                                                ("Vardanakert", 5, "-1"), ("Palu", 5, "-1"), ("Np'rkert", 5, "VARIETY_SILVAN"), ("Zarishat", 5, "-1"), ("Tsolakert", 5, "VARIETY_IGDIR"), ("Tirakatar", 5, "-1"), ("Artahan", 5, "-1")],
 # Austronesia
 'LEADER_HAYAM_WURUK'		: [("Wilwatikta", 9, "-1"), ("Kahuripan", 8, "-1"), ("Daha", 8, "-1"), ("Keling", 8, "-1"), ("Lasem", 8, "-1"), ("Lumajang", 8, "-1"), ("Hujung Galuh", 8, "-1"), ("Pajang", 8, "-1"), ("Palembang", 7, "-1"), ("Tumasik", 7, "-1"), 
-								("Kedah", 7, "-1"), ("Makassar", 7, "-1"), ("Pakuan", 7, "-1"), ("Banjar", 7, "-1"), ("Berunai", 7, "-1"), ("Samudra", 7, "-1"), ("Ternate", 6, "-1"), ("Tidore", 6, "-1"), ("Pahang", 6, "-1"), ("Kalapa", 6, "-1"), 
-								("Sukadana", 6, "-1"), ("Tanjung", 6, "-1"), ("Jambi", 6, "-1"), ("Barus", 6, "-1"), ("Kalanten", 5, "-1"), ("Lombok", 5, "-1"), ("Dompu", 5, "-1"), ("Bima", 5, "-1"), ("Sapi", 5, "-1"), ("Timur", 5, "-1"), ("Patani", 5, "-1"), 
-								("Perlak", 5, "-1"), ("Kelang", 5, "-1"), ("Tuban", 4, "-1"), ("Madura", 4, "-1")],
+                                       ("Kedah", 7, "-1"), ("Makassar", 7, "-1"), ("Pakuan", 7, "-1"), ("Banjar", 7, "-1"), ("Berunai", 7, "-1"), ("Samudra", 7, "-1"), ("Ternate", 6, "-1"), ("Tidore", 6, "-1"), ("Pahang", 6, "-1"), ("Kalapa", 6, "-1"), 
+                                                                ("Sukadana", 6, "-1"), ("Tanjung", 6, "-1"), ("Jambi", 6, "-1"), ("Barus", 6, "-1"), ("Kalanten", 5, "-1"), ("Lombok", 5, "-1"), ("Dompu", 5, "-1"), ("Bima", 5, "-1"), ("Sapi", 5, "-1"), ("Timur", 5, "-1"), ("Patani", 5, "-1"), 
+                                                                ("Perlak", 5, "-1"), ("Kelang", 5, "-1"), ("Tuban", 4, "-1"), ("Madura", 4, "-1")],
 'LEADER_ISKANDAR_MUDA'		: [("Kutaraja", 9, "-1"), ("Pasai", 8, "-1"), ("Peureulak", 8, "-1"), ("Pariaman", 8, "-1"), ("Padang", 8, "-1"), ("Indrapura", 8, "-1"), ("Muko-Muko", 8, "-1"), ("Weh", 8, "-1"), ("Johor", 7, "-1"), ("Pahang", 7, "-1"), 
-								("Kedah", 7, "-1"), ("Nias", 7, "-1"), ("Siak", 7, "-1"), ("Trengganu", 7, "-1"), ("Indragiri", 7, "-1"), ("Rengat", 7, "-1"), ("Simeulue", 6, "-1"), ("Siberut", 6, "-1"), ("Aru", 6, "-1"), ("Deli", 6, "-1"), 
-								("Lhokseumawe", 6, "-1"), ("Pariaman", 6, "-1"), ("Pedir", 6, "-1"), ("Langsa", 6, "-1"), ("Lamuri", 5, "-1"), ("Rantau Prapat", 5, "-1"), ("Samalanga", 5, "-1"), ("Langsar", 5, "-1"), ("Arun", 5, "-1"), ("Kluang", 5, "-1"), 
-								("Pineueng", 5, "-1"), ("Unu", 5, "-1"), ("Bambi", 5, "-1"), ("Satun", 5, "-1"), ("Ulee Lheue", 5, "-1")],
+                                         ("Kedah", 7, "-1"), ("Nias", 7, "-1"), ("Siak", 7, "-1"), ("Trengganu", 7, "-1"), ("Indragiri", 7, "-1"), ("Rengat", 7, "-1"), ("Simeulue", 6, "-1"), ("Siberut", 6, "-1"), ("Aru", 6, "-1"), ("Deli", 6, "-1"), 
+                                                                ("Lhokseumawe", 6, "-1"), ("Pariaman", 6, "-1"), ("Pedir", 6, "-1"), ("Langsa", 6, "-1"), ("Lamuri", 5, "-1"), ("Rantau Prapat", 5, "-1"), ("Samalanga", 5, "-1"), ("Langsar", 5, "-1"), ("Arun", 5, "-1"), ("Kluang", 5, "-1"), 
+                                                                ("Pineueng", 5, "-1"), ("Unu", 5, "-1"), ("Bambi", 5, "-1"), ("Satun", 5, "-1"), ("Ulee Lheue", 5, "-1")],
 'LEADER_PARAMESWARA'		: [("Malacca", 9, "-1"), ("Pattani", 8, "-1"), ("Kelantan", 8, "-1"), ("Trengganu", 8, "-1"), ("Pahang", 8, "-1"), ("Temasek", 8, "-1"), ("Tanjung Pinang", 8, "-1"), ("Selangor", 8, "-1"), ("Singora", 7, "-1"), ("Rokan", 7, "-1"), 
-								("Kedah", 7, "-1"), ("Indrapura", 7, "-1"), ("Rengat", 7, "-1"), ("Johor", 7, "-1"), ("Indragiri", 7, "-1"), ("Kuantan", 7, "-1"), ("Muar", 6, "-1"), ("Sening Ujong", 6, "-1"), ("Klang", 6, "-1"), ("Penang", 6, "-1"), 
-								("Kubang Pasu", 6, "-1"), ("Pariaman", 6, "-1")],
+                                       ("Kedah", 7, "-1"), ("Indrapura", 7, "-1"), ("Rengat", 7, "-1"), ("Johor", 7, "-1"), ("Indragiri", 7, "-1"), ("Kuantan", 7, "-1"), ("Muar", 6, "-1"), ("Sening Ujong", 6, "-1"), ("Klang", 6, "-1"), ("Penang", 6, "-1"), 
+                                                                ("Kubang Pasu", 6, "-1"), ("Pariaman", 6, "-1")],
 'LEADER_SUKARNO'			: [("Jakarta", 9, "VARIETY_JAKARTA"), ("Surabaya", 8, "-1"), ("Bandung", 8, "-1"), ("Bekasi", 8, "-1"), ("Medan", 8, "-1"), ("Tangerang", 7, "-1"), ("Depok", 7, "-1"), ("Semarang", 7, "-1"), ("Palembang", 7, "-1"), 
-								("Makassar", 7, "-1"), ("Batam", 7, "-1"), ("Pekanbaru", 7, "-1"), ("Bogor", 7, "-1"), ("Padang", 7, "-1"), ("Bandar Lampung", 6, "-1"), ("Denpasar", 6, "-1"), ("Malang", 6, "-1"), ("Samarinda", 6, "-1"), 
-								("Tasikmalaya", 6, "-1"), ("Banjarmasin", 6, "-1"), ("Jambi", 6, "-1"), ("Serang", 6, "-1"), ("Cimahi", 6, "-1"), ("Balikpapan", 6, "-1"), ("Pontianak", 6, "-1"), ("Surakarta", 5, "-1"), ("Cilegon", 5, "-1"), 
-								("Manado", 5, "-1"), ("Mataram", 5, "-1"), ("Yogyakarta", 5, "-1"), ("Kupang", 5, "-1"), ("Ambon", 5, "-1"), ("Sukabumi", 5, "-1"), ("Cirebon", 5, "-1"), ("Palu", 5, "-1"), ("Dumai", 5, "-1"), ("Pekalongan", 5, "-1"), 
-								("Kediri", 5, "-1"), ("Bengkulu", 5, "-1")],
+                                           ("Makassar", 7, "-1"), ("Batam", 7, "-1"), ("Pekanbaru", 7, "-1"), ("Bogor", 7, "-1"), ("Padang", 7, "-1"), ("Bandar Lampung", 6, "-1"), ("Denpasar", 6, "-1"), ("Malang", 6, "-1"), ("Samarinda", 6, "-1"), 
+                                                                ("Tasikmalaya", 6, "-1"), ("Banjarmasin", 6, "-1"), ("Jambi", 6, "-1"), ("Serang", 6, "-1"), ("Cimahi", 6, "-1"), ("Balikpapan", 6, "-1"), ("Pontianak", 6, "-1"), ("Surakarta", 5, "-1"), ("Cilegon", 5, "-1"), 
+                                                                ("Manado", 5, "-1"), ("Mataram", 5, "-1"), ("Yogyakarta", 5, "-1"), ("Kupang", 5, "-1"), ("Ambon", 5, "-1"), ("Sukabumi", 5, "-1"), ("Cirebon", 5, "-1"), ("Palu", 5, "-1"), ("Dumai", 5, "-1"), ("Pekalongan", 5, "-1"), 
+                                                                ("Kediri", 5, "-1"), ("Bengkulu", 5, "-1")],
 'LEADER_SULTAN_AGUNG'		: [("Karta", 9, "-1"), ("Surabaya", 8, "-1"), ("Sumenep", 8, "-1"), ("Cirebon", 8, "-1"), ("Kotagede", 8, "-1"), ("Sukadana", 8, "-1"), ("Lasem", 8, "-1"), ("Tuban", 8, "-1"), ("Imogiri", 7, "-1"), ("Pajang", 7, "-1"), 
-								("Demak", 7, "-1"), ("Pati", 7, "-1"), ("Jepara", 7, "-1"), ("Kediri", 7, "-1"), ("Kendal", 7, "-1"), ("Pekalongan", 7, "-1"), ("Tegal", 7, "-1"), ("Sumedang", 6, "-1"), ("Ciamis", 6, "-1"), ("Wirasaba", 6, "-1"), 
-								("Malang", 6, "-1"), ("Pasuruan", 6, "-1"), ("Gresik", 6, "-1"), ("Pakuan", 6, "-1"), ("Madiun", 5, "-1"), ("Ponorogo", 5, "-1"), ("Jipang", 5, "-1"), ("Jagaraga", 5, "-1"), ("Kota Gede", 5, "-1"), ("Mojokerto", 5, "-1"), 
-								("Pamekasan", 5, "-1"), ("Tembayat", 5, "-1"), ("Ukur", 5, "-1"), ("Arosbaya", 4, "-1"), ("Madura", 4, "-1")],
+                                        ("Demak", 7, "-1"), ("Pati", 7, "-1"), ("Jepara", 7, "-1"), ("Kediri", 7, "-1"), ("Kendal", 7, "-1"), ("Pekalongan", 7, "-1"), ("Tegal", 7, "-1"), ("Sumedang", 6, "-1"), ("Ciamis", 6, "-1"), ("Wirasaba", 6, "-1"), 
+                                                                ("Malang", 6, "-1"), ("Pasuruan", 6, "-1"), ("Gresik", 6, "-1"), ("Pakuan", 6, "-1"), ("Madiun", 5, "-1"), ("Ponorogo", 5, "-1"), ("Jipang", 5, "-1"), ("Jagaraga", 5, "-1"), ("Kota Gede", 5, "-1"), ("Mojokerto", 5, "-1"), 
+                                                                ("Pamekasan", 5, "-1"), ("Tembayat", 5, "-1"), ("Ukur", 5, "-1"), ("Arosbaya", 4, "-1"), ("Madura", 4, "-1")],
 # Aztec
 'LEADER_ACAMAPICHTLI'		: [("Tenochtitlan", 9, "-1"), ("Texcoco", 8, "-1"), ("Tlacopan", 8, "-1"), ("Coixtlahuaca", 7, "-1"), ("Cotaxtla", 7, "-1"), ("Cuauhnahuac", 7, "-1"), ("Cuilapan", 7, "-1"), ("Huatusco", 7, "-1"), ("Malinalco", 7, "-1"), 
-								("Ocuilan", 7, "-1"), ("Soconusco", 7, "-1"), ("Tepeaca", 7, "-1"), ("Tlapacoyan", 7, "-1"), ("Tlatlauhquitepec", 7, "-1"), ("Tlaxiaco", 7, "-1"), ("Toluca", 7, "-1"), ("Atlan", 6, "-1"), ("Atotonilco", 6, "-1"), 
-								("Axocopan", 6, "-1"), ("Cihuatlan", 6, "-1"), ("Cuahuacan", 6, "-1"), ("Huaxtepec", 6, "-1"), ("Oxitipan", 6, "-1"), ("Quiauhteopan", 6, "-1"), ("Tepecoacuilco", 6, "-1"), ("Tlachco", 6, "-1"), ("Tlacozauhtitlan", 6, "-1"), 
-								("Tlapan", 6, "-1"), ("Tochpan", 6, "-1"), ("Tochtepec", 6, "-1"), ("Tzicoac", 6, "-1"), ("Xilotepec", 6, "-1"), ("Xocotilan", 6, "-1"), ("Yoaltepec", 6, "-1"), ("Chiapan", 5, "-1"), ("Ixtlahuaca", 5, "-1"), 
-								("Misantla", 5, "-1"), ("Ocuituco", 5, "-1"), ("Xalapa", 5, "-1"), ("Cempoalatl", 5, "-1"), ("Zompaynco", 5, "-1")],
+                                        ("Ocuilan", 7, "-1"), ("Soconusco", 7, "-1"), ("Tepeaca", 7, "-1"), ("Tlapacoyan", 7, "-1"), ("Tlatlauhquitepec", 7, "-1"), ("Tlaxiaco", 7, "-1"), ("Toluca", 7, "-1"), ("Atlan", 6, "-1"), ("Atotonilco", 6, "-1"), 
+                                                                ("Axocopan", 6, "-1"), ("Cihuatlan", 6, "-1"), ("Cuahuacan", 6, "-1"), ("Huaxtepec", 6, "-1"), ("Oxitipan", 6, "-1"), ("Quiauhteopan", 6, "-1"), ("Tepecoacuilco", 6, "-1"), ("Tlachco", 6, "-1"), ("Tlacozauhtitlan", 6, "-1"), 
+                                                                ("Tlapan", 6, "-1"), ("Tochpan", 6, "-1"), ("Tochtepec", 6, "-1"), ("Tzicoac", 6, "-1"), ("Xilotepec", 6, "-1"), ("Xocotilan", 6, "-1"), ("Yoaltepec", 6, "-1"), ("Chiapan", 5, "-1"), ("Ixtlahuaca", 5, "-1"), 
+                                                                ("Misantla", 5, "-1"), ("Ocuituco", 5, "-1"), ("Xalapa", 5, "-1"), ("Cempoalatl", 5, "-1"), ("Zompaynco", 5, "-1")],
 'LEADER_AHUITZOTL'			: [("Tenochtitlan", 9, "-1"), ("Texcoco", 8, "-1"), ("Tlacopan", 8, "-1"), ("Coixtlahuaca", 7, "-1"), ("Cotaxtla", 7, "-1"), ("Cuauhnahuac", 7, "-1"), ("Cuilapan", 7, "-1"), ("Huatusco", 7, "-1"), ("Malinalco", 7, "-1"), 
-								("Ocuilan", 7, "-1"), ("Soconusco", 7, "-1"), ("Tepeaca", 7, "-1"), ("Tlapacoyan", 7, "-1"), ("Tlatlauhquitepec", 7, "-1"), ("Tlaxiaco", 7, "-1"), ("Toluca", 7, "-1"), ("Atlan", 6, "-1"), ("Atotonilco", 6, "-1"), 
-								("Axocopan", 6, "-1"), ("Cihuatlan", 6, "-1"), ("Cuahuacan", 6, "-1"), ("Huaxtepec", 6, "-1"), ("Oxitipan", 6, "-1"), ("Quiauhteopan", 6, "-1"), ("Tepecoacuilco", 6, "-1"), ("Tlachco", 6, "-1"), ("Tlacozauhtitlan", 6, "-1"), 
-								("Tlapan", 6, "-1"), ("Tochpan", 6, "-1"), ("Tochtepec", 6, "-1"), ("Tzicoac", 6, "-1"), ("Xilotepec", 6, "-1"), ("Xocotilan", 6, "-1"), ("Yoaltepec", 6, "-1"), ("Chiapan", 5, "-1"), ("Ixtlahuaca", 5, "-1"), 
-								("Misantla", 5, "-1"), ("Ocuituco", 5, "-1"), ("Xalapa", 5, "-1"), ("Cempoalatl", 5, "-1"), ("Zompaynco", 5, "-1")],
+                                             ("Ocuilan", 7, "-1"), ("Soconusco", 7, "-1"), ("Tepeaca", 7, "-1"), ("Tlapacoyan", 7, "-1"), ("Tlatlauhquitepec", 7, "-1"), ("Tlaxiaco", 7, "-1"), ("Toluca", 7, "-1"), ("Atlan", 6, "-1"), ("Atotonilco", 6, "-1"), 
+                                                                ("Axocopan", 6, "-1"), ("Cihuatlan", 6, "-1"), ("Cuahuacan", 6, "-1"), ("Huaxtepec", 6, "-1"), ("Oxitipan", 6, "-1"), ("Quiauhteopan", 6, "-1"), ("Tepecoacuilco", 6, "-1"), ("Tlachco", 6, "-1"), ("Tlacozauhtitlan", 6, "-1"), 
+                                                                ("Tlapan", 6, "-1"), ("Tochpan", 6, "-1"), ("Tochtepec", 6, "-1"), ("Tzicoac", 6, "-1"), ("Xilotepec", 6, "-1"), ("Xocotilan", 6, "-1"), ("Yoaltepec", 6, "-1"), ("Chiapan", 5, "-1"), ("Ixtlahuaca", 5, "-1"), 
+                                                                ("Misantla", 5, "-1"), ("Ocuituco", 5, "-1"), ("Xalapa", 5, "-1"), ("Cempoalatl", 5, "-1"), ("Zompaynco", 5, "-1")],
 'LEADER_BENITO_JUAREZ'		: [("Mexico", 9, "-1"), ("Guadalajara", 8, "VARIETY_GUADALAJARA"), ("Puebla", 8, "-1"), ("Leon", 8, "-1"), ("Morelia", 8, "-1"), ("Oaxaca", 8, "-1"), ("Veracruz", 8, "-1"), ("San Luis Potosi", 7, "-1"), ("Zapopan", 7, "-1"), 
-								("Ecatepec", 7, "-1"), ("El Paso del Norte", 7, "-1"), ("Pachuca", 7, "-1"), ("Zapopan", 7, "-1"), ("Zacatecas", 7, "-1"), ("Acapulco", 7, "-1"), ("Tuxtla Gutierrez", 7, "-1"), ("Monterrey", 7, "-1"), ("Guadalupe", 7, "-1"), 
-								("Merida", 6, "-1"), ("Chihuahua", 6, "-1"), ("Durango", 6, "-1"), ("Culiacan", 6, "-1"), ("Saltillo", 6, "-1"), ("Reynosa", 6, "-1"), ("Queretaro", 6, "-1"), ("Tlaxcala", 5, "-1"), ("Hermosillo", 5, "-1"), ("Cancun", 5, "-1"), 
-								("Chimalhuacan", 5, "-1"), ("Morelia", 5, "-1"), ("Tlaquepaque", 5, "-1"), ("Matamoros", 5, "-1"), ("Xalapa", 5, "-1"), ("Mazatlan", 4, "-1"), ("Queretaro", 4, "-1")],
+                                         ("Ecatepec", 7, "-1"), ("El Paso del Norte", 7, "-1"), ("Pachuca", 7, "-1"), ("Zapopan", 7, "-1"), ("Zacatecas", 7, "-1"), ("Acapulco", 7, "-1"), ("Tuxtla Gutierrez", 7, "-1"), ("Monterrey", 7, "-1"), ("Guadalupe", 7, "-1"), 
+                                                                ("Merida", 6, "-1"), ("Chihuahua", 6, "-1"), ("Durango", 6, "-1"), ("Culiacan", 6, "-1"), ("Saltillo", 6, "-1"), ("Reynosa", 6, "-1"), ("Queretaro", 6, "-1"), ("Tlaxcala", 5, "-1"), ("Hermosillo", 5, "-1"), ("Cancun", 5, "-1"), 
+                                                                ("Chimalhuacan", 5, "-1"), ("Morelia", 5, "-1"), ("Tlaquepaque", 5, "-1"), ("Matamoros", 5, "-1"), ("Xalapa", 5, "-1"), ("Mazatlan", 4, "-1"), ("Queretaro", 4, "-1")],
 'LEADER_MONTEZUMA'			: [("Tenochtitlan", 9, "-1"), ("Texcoco", 8, "-1"), ("Tlacopan", 8, "-1"), ("Coixtlahuaca", 7, "-1"), ("Cotaxtla", 7, "-1"), ("Cuauhnahuac", 7, "-1"), ("Cuilapan", 7, "-1"), ("Huatusco", 7, "-1"), ("Malinalco", 7, "-1"), 
-								("Ocuilan", 7, "-1"), ("Soconusco", 7, "-1"), ("Tepeaca", 7, "-1"), ("Tlapacoyan", 7, "-1"), ("Tlatlauhquitepec", 7, "-1"), ("Tlaxiaco", 7, "-1"), ("Toluca", 7, "-1"), ("Atlan", 6, "-1"), ("Atotonilco", 6, "-1"), 
-								("Axocopan", 6, "-1"), ("Cihuatlan", 6, "-1"), ("Cuahuacan", 6, "-1"), ("Huaxtepec", 6, "-1"), ("Oxitipan", 6, "-1"), ("Quiauhteopan", 6, "-1"), ("Tepecoacuilco", 6, "-1"), ("Tlachco", 6, "-1"), ("Tlacozauhtitlan", 6, "-1"), 
-								("Tlapan", 6, "-1"), ("Tochpan", 6, "-1"), ("Tochtepec", 6, "-1"), ("Tzicoac", 6, "-1"), ("Xilotepec", 6, "-1"), ("Xocotilan", 6, "-1"), ("Yoaltepec", 6, "-1"), ("Chiapan", 5, "-1"), ("Ixtlahuaca", 5, "-1"), 
-								("Misantla", 5, "-1"), ("Ocuituco", 5, "-1"), ("Xalapa", 5, "-1"), ("Cempoalatl", 5, "-1"), ("Zompaynco", 5, "-1")],
+                                             ("Ocuilan", 7, "-1"), ("Soconusco", 7, "-1"), ("Tepeaca", 7, "-1"), ("Tlapacoyan", 7, "-1"), ("Tlatlauhquitepec", 7, "-1"), ("Tlaxiaco", 7, "-1"), ("Toluca", 7, "-1"), ("Atlan", 6, "-1"), ("Atotonilco", 6, "-1"), 
+                                                                ("Axocopan", 6, "-1"), ("Cihuatlan", 6, "-1"), ("Cuahuacan", 6, "-1"), ("Huaxtepec", 6, "-1"), ("Oxitipan", 6, "-1"), ("Quiauhteopan", 6, "-1"), ("Tepecoacuilco", 6, "-1"), ("Tlachco", 6, "-1"), ("Tlacozauhtitlan", 6, "-1"), 
+                                                                ("Tlapan", 6, "-1"), ("Tochpan", 6, "-1"), ("Tochtepec", 6, "-1"), ("Tzicoac", 6, "-1"), ("Xilotepec", 6, "-1"), ("Xocotilan", 6, "-1"), ("Yoaltepec", 6, "-1"), ("Chiapan", 5, "-1"), ("Ixtlahuaca", 5, "-1"), 
+                                                                ("Misantla", 5, "-1"), ("Ocuituco", 5, "-1"), ("Xalapa", 5, "-1"), ("Cempoalatl", 5, "-1"), ("Zompaynco", 5, "-1")],
 'LEADER_NEZAHUALCOYOTL'		: [("Otompan", 8, "-1"), ("Texcoco", 9, "-1"), ("Huexotla", 8, "-1"), ("Coixtlahuaca", 7, "-1"), ("Cotaxtla", 7, "-1"), ("Cuauhnahuac", 7, "-1"), ("Cuilapan", 7, "-1"), ("Huatusco", 7, "-1"), ("Malinalco", 7, "-1"), 
-								("Ocuilan", 7, "-1"), ("Soconusco", 7, "-1"), ("Tepeaca", 7, "-1"), ("Tlapacoyan", 7, "-1"), ("Tlatlauhquitepec", 7, "-1"), ("Tlaxiaco", 7, "-1"), ("Toluca", 7, "-1"), ("Atlan", 6, "-1"), ("Atotonilco", 6, "-1"), 
-								("Axocopan", 6, "-1"), ("Cihuatlan", 8, "-1"), ("Cuahuacan", 6, "-1"), ("Huaxtepec", 6, "-1"), ("Oxitipan", 6, "-1"), ("Quiauhteopan", 6, "-1"), ("Tepecoacuilco", 6, "-1"), ("Tlachco", 6, "-1"), ("Tlacozauhtitlan", 6, "-1"), 
-								("Tlapan", 6, "-1"), ("Tochpan", 6, "-1"), ("Tochtepec", 6, "-1"), ("Tulantzino", 6, "-1"), ("Cuauhchinanco", 8, "-1"), ("Xicotepec", 8, "-1"), ("Chiconauhlt", 8, "-1"), ("Tepechpan", 8, "-1"), ("Acolman", 8, "-1"), 
-								("Teotihuacan", 8, "-1"), ("Tezoyucan", 8, "-1"), ("Tepetlaoztoc", 8, "-1"), ("Chimalhuacan", 8, "-1"), ("Coatlichan", 8, "-1")],
+                                          ("Ocuilan", 7, "-1"), ("Soconusco", 7, "-1"), ("Tepeaca", 7, "-1"), ("Tlapacoyan", 7, "-1"), ("Tlatlauhquitepec", 7, "-1"), ("Tlaxiaco", 7, "-1"), ("Toluca", 7, "-1"), ("Atlan", 6, "-1"), ("Atotonilco", 6, "-1"), 
+                                                                ("Axocopan", 6, "-1"), ("Cihuatlan", 8, "-1"), ("Cuahuacan", 6, "-1"), ("Huaxtepec", 6, "-1"), ("Oxitipan", 6, "-1"), ("Quiauhteopan", 6, "-1"), ("Tepecoacuilco", 6, "-1"), ("Tlachco", 6, "-1"), ("Tlacozauhtitlan", 6, "-1"), 
+                                                                ("Tlapan", 6, "-1"), ("Tochpan", 6, "-1"), ("Tochtepec", 6, "-1"), ("Tulantzino", 6, "-1"), ("Cuauhchinanco", 8, "-1"), ("Xicotepec", 8, "-1"), ("Chiconauhlt", 8, "-1"), ("Tepechpan", 8, "-1"), ("Acolman", 8, "-1"), 
+                                                                ("Teotihuacan", 8, "-1"), ("Tezoyucan", 8, "-1"), ("Tepetlaoztoc", 8, "-1"), ("Chimalhuacan", 8, "-1"), ("Coatlichan", 8, "-1")],
 'LEADER_TLACAELEL'			: [("Tenochtitlan", 9, "-1"), ("Texcoco", 8, "-1"), ("Tlacopan", 8, "-1"), ("Coixtlahuaca", 7, "-1"), ("Cotaxtla", 7, "-1"), ("Cuauhnahuac", 7, "-1"), ("Cuilapan", 7, "-1"), ("Huatusco", 7, "-1"), ("Malinalco", 7, "-1"), 
-								("Ocuilan", 7, "-1"), ("Soconusco", 7, "-1"), ("Tepeaca", 7, "-1"), ("Tlapacoyan", 7, "-1"), ("Tlatlauhquitepec", 7, "-1"), ("Tlaxiaco", 7, "-1"), ("Toluca", 7, "-1"), ("Atlan", 6, "-1"), ("Atotonilco", 6, "-1"), 
-								("Axocopan", 6, "-1"), ("Cihuatlan", 6, "-1"), ("Cuahuacan", 6, "-1"), ("Huaxtepec", 6, "-1"), ("Oxitipan", 6, "-1"), ("Quiauhteopan", 6, "-1"), ("Tepecoacuilco", 6, "-1"), ("Tlachco", 6, "-1"), ("Tlacozauhtitlan", 6, "-1"), 
-								("Tlapan", 6, "-1"), ("Tochpan", 6, "-1"), ("Tochtepec", 6, "-1"), ("Tzicoac", 6, "-1"), ("Xilotepec", 6, "-1"), ("Xocotilan", 6, "-1"), ("Yoaltepec", 6, "-1"), ("Chiapan", 5, "-1"), ("Ixtlahuaca", 5, "-1"), 
-								("Misantla", 5, "-1"), ("Ocuituco", 5, "-1"), ("Xalapa", 5, "-1"), ("Cempoalatl", 5, "-1"), ("Zompaynco", 5, "-1")],
+                                             ("Ocuilan", 7, "-1"), ("Soconusco", 7, "-1"), ("Tepeaca", 7, "-1"), ("Tlapacoyan", 7, "-1"), ("Tlatlauhquitepec", 7, "-1"), ("Tlaxiaco", 7, "-1"), ("Toluca", 7, "-1"), ("Atlan", 6, "-1"), ("Atotonilco", 6, "-1"), 
+                                                                ("Axocopan", 6, "-1"), ("Cihuatlan", 6, "-1"), ("Cuahuacan", 6, "-1"), ("Huaxtepec", 6, "-1"), ("Oxitipan", 6, "-1"), ("Quiauhteopan", 6, "-1"), ("Tepecoacuilco", 6, "-1"), ("Tlachco", 6, "-1"), ("Tlacozauhtitlan", 6, "-1"), 
+                                                                ("Tlapan", 6, "-1"), ("Tochpan", 6, "-1"), ("Tochtepec", 6, "-1"), ("Tzicoac", 6, "-1"), ("Xilotepec", 6, "-1"), ("Xocotilan", 6, "-1"), ("Yoaltepec", 6, "-1"), ("Chiapan", 5, "-1"), ("Ixtlahuaca", 5, "-1"), 
+                                                                ("Misantla", 5, "-1"), ("Ocuituco", 5, "-1"), ("Xalapa", 5, "-1"), ("Cempoalatl", 5, "-1"), ("Zompaynco", 5, "-1")],
 # Berber
 'LEADER_ABD_AL_RAHMAN'		: [("Fez", 9, "-1"), ("Marrakesh", 8, "VARIETY_MARRAKESH"), ("Rabat", 8, "-1"), ("Mogador", 7, "-1"), ("Tangier", 7, "VARIETY_TANGIER"), ("Larache", 7, "-1"), ("Tafilet", 7, "-1"), ("Sale", 7, "-1"), ("Kenitra", 6, "-1"), 
-								("Tetouan", 6, "-1"), ("Tuat", 6, "-1"), ("Ain Salah", 6, "-1"), ("Meknes", 8, "-1"), ("Safi", 6, "-1"), ("Oujda", 6, "-1"), ("Figuig", 6, "-1"), ("Settat", 6, "-1"), ("Beni Mellal", 5, "-1"), ("Mehedya", 5, "-1"), 
-								("Agadir", 5, "-1"), ("ad-Dar al-Bayda", 5, "VARIETY_CASABLANCA"), ("Temara", 5, "-1"), ("El Jadida", 5, "-1"), ("Khenifra", 5, "-1"), ("Taza", 5, "-1"), ("Fedala", 5, "-1"), ("Khemisset", 4, "-1"), ("Sidi Ifni", 4, "-1"), 
-								("Azrou", 4, "-1"), ("Ifrane", 4, "-1"), ("Ksar Es Souk", 4, "-1"), ("Taroudant", 4, "-1"), ("Zraqten", 4, "-1"), ("Telouet", 4, "-1"), ("Asilah", 4, "-1"), ("Sijilmasa", 4, "-1"), ("Ouazzane", 4, "-1"), ("Tiznit", 4, "-1"), 
-								("Ouarzazate", 4, "-1"), ("Taourirt", 4, "-1"), ("El Hajeb", 4, "-1"), ("Sefrou", 4, "-1"), ("Chefchaouen", 4, "-1")],
+                                         ("Tetouan", 6, "-1"), ("Tuat", 6, "-1"), ("Ain Salah", 6, "-1"), ("Meknes", 8, "-1"), ("Safi", 6, "-1"), ("Oujda", 6, "-1"), ("Figuig", 6, "-1"), ("Settat", 6, "-1"), ("Beni Mellal", 5, "-1"), ("Mehedya", 5, "-1"), 
+                                                                ("Agadir", 5, "-1"), ("ad-Dar al-Bayda", 5, "VARIETY_CASABLANCA"), ("Temara", 5, "-1"), ("El Jadida", 5, "-1"), ("Khenifra", 5, "-1"), ("Taza", 5, "-1"), ("Fedala", 5, "-1"), ("Khemisset", 4, "-1"), ("Sidi Ifni", 4, "-1"), 
+                                                                ("Azrou", 4, "-1"), ("Ifrane", 4, "-1"), ("Ksar Es Souk", 4, "-1"), ("Taroudant", 4, "-1"), ("Zraqten", 4, "-1"), ("Telouet", 4, "-1"), ("Asilah", 4, "-1"), ("Sijilmasa", 4, "-1"), ("Ouazzane", 4, "-1"), ("Tiznit", 4, "-1"), 
+                                                                ("Ouarzazate", 4, "-1"), ("Taourirt", 4, "-1"), ("El Hajeb", 4, "-1"), ("Sefrou", 4, "-1"), ("Chefchaouen", 4, "-1")],
 'LEADER_ABDELKADER'			: [("Tagdemt", 9, "-1"), ("Biskra", 8, "-1"), ("Mascara", 8, "-1"), ("Tlemcen", 7, "-1"), ("Miliana", 7, "-1"), ("Medea", 7, "-1"), ("Blida", 7, "-1"), ("Tizi Ouzou", 7, "-1"), ("Boghari", 6, "-1"), ("Tiaret", 6, "-1"), 
-								("Saida", 6, "-1"), ("Sebdou", 6, "-1"), ("Sidi Brahim", 6, "-1"), ("Sidi Bel Abbes", 6, "-1"), ("Marnia", 6, "-1"), ("M'Sila", 6, "-1"), ("Bou Saada", 6, "-1"), ("Ain Defla", 6, "-1"), ("Tbessa", 5, "VARIETY_TEBESSA"), 
-								("Batna", 5, "-1"), ("Souk Ahras", 5, "-1"), ("Cherchell", 5, "-1"), ("Laghouat", 5, "-1"), ("Ain Sefra", 5, "-1"), ("Touggourt", 5, "-1"), ("Aflou", 5, "-1"), ("Djelfa", 5, "-1"), ("Negrine", 4, "-1"), ("Tamacine", 4, "-1"), 
-								("Wargla", 4, "-1"), ("Metlili", 4, "-1"), ("El Kantara", 4, "-1"), ("Xencelt", 4, "-1"), ("El Oued", 4, "-1"), ("Medjana", 4, "-1"), ("Bordj Bou Arreridj", 4, "-1"), ("Kalaa", 4, "-1"), ("Akbou", 4, "-1"), ("Seddouk", 4, "-1"), 
-								("El Milia", 4, "-1"), ("Djidjelli", 4, "-1"), ("Dellys", 4, "-1"), ("Souk El Ghoziane", 4, "-1")],
+                                              ("Saida", 6, "-1"), ("Sebdou", 6, "-1"), ("Sidi Brahim", 6, "-1"), ("Sidi Bel Abbes", 6, "-1"), ("Marnia", 6, "-1"), ("M'Sila", 6, "-1"), ("Bou Saada", 6, "-1"), ("Ain Defla", 6, "-1"), ("Tbessa", 5, "VARIETY_TEBESSA"), 
+                                                                ("Batna", 5, "-1"), ("Souk Ahras", 5, "-1"), ("Cherchell", 5, "-1"), ("Laghouat", 5, "-1"), ("Ain Sefra", 5, "-1"), ("Touggourt", 5, "-1"), ("Aflou", 5, "-1"), ("Djelfa", 5, "-1"), ("Negrine", 4, "-1"), ("Tamacine", 4, "-1"), 
+                                                                ("Wargla", 4, "-1"), ("Metlili", 4, "-1"), ("El Kantara", 4, "-1"), ("Xencelt", 4, "-1"), ("El Oued", 4, "-1"), ("Medjana", 4, "-1"), ("Bordj Bou Arreridj", 4, "-1"), ("Kalaa", 4, "-1"), ("Akbou", 4, "-1"), ("Seddouk", 4, "-1"), 
+                                                                ("El Milia", 4, "-1"), ("Djidjelli", 4, "-1"), ("Dellys", 4, "-1"), ("Souk El Ghoziane", 4, "-1")],
 'LEADER_AHMAD_AL_MANSUR'	: [("Fez", 9, "-1"), ("Marrakesh", 8, "VARIETY_MARRAKESH"), ("Rabat", 8, "-1"), ("Mogador", 7, "VARIETY_MOGADOR"), ("Djenne", 8, "-1"), ("Larache", 7, "-1"), ("Tafilet", 7, "-1"), ("Sale", 7, "-1"), ("Kenitra", 6, "-1"), 
-								("Tetouan", 6, "-1"), ("Tuat", 6, "-1"), ("Debdou", 7, "-1"), ("Meknes", 8, "-1"), ("Safi", 6, "-1"), ("Gao", 7, "-1"), ("Timbuktu", 6, "-1"), ("Ksar el-Kebir", 6, "-1"), ("Beni Mellal", 5, "-1"), ("Mehedya", 5, "-1"), 
-								("Agadir", 5, "-1"), ("Ksar es-Seghir", 5, "-1"), ("Temara", 5, "-1"), ("Asilah", 5, "-1"), ("Khenifra", 5, "-1"), ("Taza", 5, "-1"), ("Fedala", 5, "-1"), ("Khemisset", 4, "-1"), ("Sidi Ifni", 4, "-1"), ("Azrou", 4, "-1"), 
-								("Ifrane", 4, "-1"), ("Ksar Es Souk", 4, "-1"), ("Taroudant", 6, "-1"), ("Zraqten", 4, "-1"), ("Telouet", 4, "-1"), ("Asilah", 4, "-1"), ("Sijilmasa", 7, "-1"), ("Ouazzane", 4, "-1"), ("Tiznit", 4, "-1"), ("Ouarzazate", 4, "-1"), 
-								("Taourirt", 4, "-1"), ("El Hajeb", 4, "-1"), ("Sefrou", 4, "-1"), ("Chefchaouen", 4, "-1")],
+                                   ("Tetouan", 6, "-1"), ("Tuat", 6, "-1"), ("Debdou", 7, "-1"), ("Meknes", 8, "-1"), ("Safi", 6, "-1"), ("Gao", 7, "-1"), ("Timbuktu", 6, "-1"), ("Ksar el-Kebir", 6, "-1"), ("Beni Mellal", 5, "-1"), ("Mehedya", 5, "-1"), 
+                                                                ("Agadir", 5, "-1"), ("Ksar es-Seghir", 5, "-1"), ("Temara", 5, "-1"), ("Asilah", 5, "-1"), ("Khenifra", 5, "-1"), ("Taza", 5, "-1"), ("Fedala", 5, "-1"), ("Khemisset", 4, "-1"), ("Sidi Ifni", 4, "-1"), ("Azrou", 4, "-1"), 
+                                                                ("Ifrane", 4, "-1"), ("Ksar Es Souk", 4, "-1"), ("Taroudant", 6, "-1"), ("Zraqten", 4, "-1"), ("Telouet", 4, "-1"), ("Asilah", 4, "-1"), ("Sijilmasa", 7, "-1"), ("Ouazzane", 4, "-1"), ("Tiznit", 4, "-1"), ("Ouarzazate", 4, "-1"), 
+                                                                ("Taourirt", 4, "-1"), ("El Hajeb", 4, "-1"), ("Sefrou", 4, "-1"), ("Chefchaouen", 4, "-1")],
 'LEADER_KAHINA'				: [("Kasantina", 8, "VARIETY_NUMIDIAN"), ("Tbessa", 8, "VARIETY_TEBESSA"), ("Dougga", 8, "VARIETY_THUGGA"), ("Russicada", 7, "-1"), ("Cartenna", 7, "VARIETY_CARTENNAS"), ("Igilgili", 7, "-1"), ("Saldae", 7, "-1"), ("Zucchabar", 7, "-1"), 
-								("Bida", 6, "-1"), ("Arzew", 6, "-1"), ("Siga", 6, "-1"), ("Altava", 6, "-1"), ("Rusadir", 6, "-1"), ("Auzia", 6, "-1"), ("Setif", 6, "VARIETY_SETIF"), ("Capsa", 6, "-1"), ("Iol", 6, "-1"), ("Awjila", 5, "-1"), 
-								("Tunes", 5, "-1"), ("Bulla", 5, "-1"), ("Sabratha", 5, "-1"), ("Ruspa", 5, "-1"), ("Pupput", 5, "-1"), ("Maktar", 5, "-1"), ("Simitthu", 5, "-1"), ("Tabarka", 5, "-1"), ("Vaga", 4, "-1"), ("Thubursicum", 4, "-1"), 
-								("Thibilis", 4, "-1"), ("Thagaste", 4, "-1"), ("Nicives", 4, "-1"), ("Mutugenna", 4, "-1"), ("Mileum", 4, "-1"), ("Mesarfelta", 4, "-1"), ("Madauros", 4, "-1"), ("Fussala", 4, "-1"), ("Cuicul", 4, "-1"), ("Calama", 4, "-1"), 
-								("Zama", 4, "-1"), ("Xencelt", 8, "-1"), ("Ghadames", 9, "-1"), ("Meskiana", 8, "-1"), ("Thysdrus", 7, "-1")],
+                                                  ("Bida", 6, "-1"), ("Arzew", 6, "-1"), ("Siga", 6, "-1"), ("Altava", 6, "-1"), ("Rusadir", 6, "-1"), ("Auzia", 6, "-1"), ("Setif", 6, "VARIETY_SETIF"), ("Capsa", 6, "-1"), ("Iol", 6, "-1"), ("Awjila", 5, "-1"), 
+                                                                ("Tunes", 5, "-1"), ("Bulla", 5, "-1"), ("Sabratha", 5, "-1"), ("Ruspa", 5, "-1"), ("Pupput", 5, "-1"), ("Maktar", 5, "-1"), ("Simitthu", 5, "-1"), ("Tabarka", 5, "-1"), ("Vaga", 4, "-1"), ("Thubursicum", 4, "-1"), 
+                                                                ("Thibilis", 4, "-1"), ("Thagaste", 4, "-1"), ("Nicives", 4, "-1"), ("Mutugenna", 4, "-1"), ("Mileum", 4, "-1"), ("Mesarfelta", 4, "-1"), ("Madauros", 4, "-1"), ("Fussala", 4, "-1"), ("Cuicul", 4, "-1"), ("Calama", 4, "-1"), 
+                                                                ("Zama", 4, "-1"), ("Xencelt", 8, "-1"), ("Ghadames", 9, "-1"), ("Meskiana", 8, "-1"), ("Thysdrus", 7, "-1")],
 'LEADER_MASSINISSA'			: [("Cirta", 9, "VARIETY_NUMIDIAN"), ("Tbessa", 8, "VARIETY_TEBESSA"), ("Dougga", 8, "VARIETY_THUGGA"), ("Russicada", 7, "-1"), ("Cartenna", 7, "VARIETY_CARTENNAS"), ("Igilgili", 7, "-1"), ("Saldae", 7, "-1"), ("Zucchabar", 7, "-1"), 
-								("Bida", 6, "-1"), ("Arzew", 6, "-1"), ("Siga", 6, "-1"), ("Altava", 6, "-1"), ("Rusadir", 6, "-1"), ("Auzia", 6, "-1"), ("Setif", 6, "VARIETY_SETIF"), ("Capsa", 6, "-1"), ("Iol", 6, "-1"), ("Awjila", 5, "-1"), 
-								("Tunes", 5, "-1"), ("Bulla", 5, "-1"), ("Sabratha", 5, "-1"), ("Ruspa", 5, "-1"), ("Pupput", 5, "-1"), ("Maktar", 5, "-1"), ("Simitthu", 5, "-1"), ("Tabarka", 5, "-1"), ("Vaga", 4, "-1"), ("Thubursicum", 4, "-1"), 
-								("Thibilis", 4, "-1"), ("Thagaste", 4, "-1"), ("Nicives", 4, "-1"), ("Mutugenna", 4, "-1"), ("Mileum", 4, "-1"), ("Mesarfelta", 4, "-1"), ("Madauros", 4, "-1"), ("Fussala", 4, "-1"), ("Cuicul", 4, "-1"), ("Calama", 4, "-1"), 
-								("Zama", 4, "-1"), ("Rusucurru", 4, "-1")],
+                                              ("Bida", 6, "-1"), ("Arzew", 6, "-1"), ("Siga", 6, "-1"), ("Altava", 6, "-1"), ("Rusadir", 6, "-1"), ("Auzia", 6, "-1"), ("Setif", 6, "VARIETY_SETIF"), ("Capsa", 6, "-1"), ("Iol", 6, "-1"), ("Awjila", 5, "-1"), 
+                                                                ("Tunes", 5, "-1"), ("Bulla", 5, "-1"), ("Sabratha", 5, "-1"), ("Ruspa", 5, "-1"), ("Pupput", 5, "-1"), ("Maktar", 5, "-1"), ("Simitthu", 5, "-1"), ("Tabarka", 5, "-1"), ("Vaga", 4, "-1"), ("Thubursicum", 4, "-1"), 
+                                                                ("Thibilis", 4, "-1"), ("Thagaste", 4, "-1"), ("Nicives", 4, "-1"), ("Mutugenna", 4, "-1"), ("Mileum", 4, "-1"), ("Mesarfelta", 4, "-1"), ("Madauros", 4, "-1"), ("Fussala", 4, "-1"), ("Cuicul", 4, "-1"), ("Calama", 4, "-1"), 
+                                                                ("Zama", 4, "-1"), ("Rusucurru", 4, "-1")],
 'LEADER_YUSUF_IBN_TASHFIN'	: [("Fez", 8, "-1"), ("Marrakesh", 9, "VARIETY_MARRAKESH"), ("Rabat", 7, "-1"), ("Mogador", 7, "VARIETY_MOGADOR"), ("Qurtuba", 8, "VARIETY_CORDOBA"), ("Garnatah", 7, "VARIETY_GRANADA"), ("Aoudaghost", 7, "-1"), ("Sale", 7, "-1"), 
-								("Kenitra", 6, "-1"), ("Tetouan", 6, "-1"), ("Taghaza", 6, "-1"), ("Balansiyya", 7, "VARIETY_VALENCIA"), ("Meknes", 7, "-1"), ("Safi", 6, "-1"), ("Lixbuna", 7, "VARIETY_LISBON"), ("Marriya", 6, "VARIETY_ALMERIA"), 
-								("Ksar el-Kebir", 6, "-1"), ("Batalyaws", 5, "VARIETY_BADAJOZ"), ("Al-Ma'mura", 5, "-1"), ("Mursiya", 5, "VARIETY_MURCIA"), ("Ksar es-Seghir", 5, "-1"), ("Tlemcen", 7, "-1"), ("Dzayer", 5, "VARIETY_ALGIERS"), 
-								("Isbiliya", 5, "VARIETY_SEVILLE"), ("Malaqah", 5, "VARIETY_MALAGA"), ("Fedala", 5, "-1"), ("Oran", 4, "-1"), ("Tahert", 4, "-1"), ("Taoudenni", 4, "-1"), ("Aghmat", 7, "-1"), ("Tenes", 4, "VARIETY_CARTENNAS"), ("Taroudant", 6, "-1"), 
-								("Qadis", 4, "VARIETY_CADIZ"), ("Mayurqa", 4, "VARIETY_MAJORCA"), ("Asilah", 4, "-1"), ("Sijilmasa", 7, "-1"), ("Ouazzane", 4, "-1"), ("Azougui", 4, "-1"), ("Beni Hammad", 4, "-1"), ("Bejaia", 4, "-1"), 
-								("Zaragoza", 7, "VARIETY_ZARAGOZA"), ("Tulaytullah", 4, "VARIETY_TOLEDO"), ("Sebtah", 8, "VARIETY_CEUTA")],
+                                     ("Kenitra", 6, "-1"), ("Tetouan", 6, "-1"), ("Taghaza", 6, "-1"), ("Balansiyya", 7, "VARIETY_VALENCIA"), ("Meknes", 7, "-1"), ("Safi", 6, "-1"), ("Lixbuna", 7, "VARIETY_LISBON"), ("Marriya", 6, "VARIETY_ALMERIA"), 
+                                                                ("Ksar el-Kebir", 6, "-1"), ("Batalyaws", 5, "VARIETY_BADAJOZ"), ("Al-Ma'mura", 5, "-1"), ("Mursiya", 5, "VARIETY_MURCIA"), ("Ksar es-Seghir", 5, "-1"), ("Tlemcen", 7, "-1"), ("Dzayer", 5, "VARIETY_ALGIERS"), 
+                                                                ("Isbiliya", 5, "VARIETY_SEVILLE"), ("Malaqah", 5, "VARIETY_MALAGA"), ("Fedala", 5, "-1"), ("Oran", 4, "-1"), ("Tahert", 4, "-1"), ("Taoudenni", 4, "-1"), ("Aghmat", 7, "-1"), ("Tenes", 4, "VARIETY_CARTENNAS"), ("Taroudant", 6, "-1"), 
+                                                                ("Qadis", 4, "VARIETY_CADIZ"), ("Mayurqa", 4, "VARIETY_MAJORCA"), ("Asilah", 4, "-1"), ("Sijilmasa", 7, "-1"), ("Ouazzane", 4, "-1"), ("Azougui", 4, "-1"), ("Beni Hammad", 4, "-1"), ("Bejaia", 4, "-1"), 
+                                                                ("Zaragoza", 7, "VARIETY_ZARAGOZA"), ("Tulaytullah", 4, "VARIETY_TOLEDO"), ("Sebtah", 8, "VARIETY_CEUTA")],
 # Carthage
 'LEADER_BARBAROSSA'			: [("Tunis", 9, "-1"), ("Oran", 8, "-1"), ("Algiers", 8, "-1"), ("Bona", 7, "-1"), ("Sale", 7, "-1"), ("Djerba", 7, "-1"), ("Tabarka", 7, "-1"), ("Ghar al Milh", 7, "-1"), ("Sfax", 6, "-1"), ("Bizerte", 6, "VARIETY_BIZERTE"), 
-								("Sousse", 6, "VARIETY_SOUSSE"), ("Bayda", 6, "-1"), ("Derna", 6, "-1"), ("Tripoli", 6, "-1"), ("Tlemcen", 6, "-1"), ("Capri", 6, "-1"), ("Bougie", 6, "-1"), ("Cherchell", 5, "-1"), ("Jijel", 5, "-1"), ("Mahdia", 5, "-1"), 
-								("Miliana", 5, "-1"), ("Medea", 5, "-1"), ("Tenes", 5, "VARIETY_CARTENNAS"), ("Monastir", 5, "-1"), ("Tarhuna", 5, "-1"), ("Misrata", 5, "-1"), ("Gafsa", 4, "-1"), ("Gharyan", 4, "-1"), ("Taorga", 4, "-1"), ("Tagiora", 4, "-1"), 
-								("Mers El Kebir", 4, "-1"), ("Kairouan", 4, "-1"), ("Tataouine", 4, "-1"), ("Rades", 4, "-1"), ("Ḥalq el-Wad", 4, "-1"), ("Qassasa", 4, "-1"), ("Mostaganem", 4, "-1"), ("Constantine", 4, "VARIETY_NUMIDIAN")],
+                                              ("Sousse", 6, "VARIETY_SOUSSE"), ("Bayda", 6, "-1"), ("Derna", 6, "-1"), ("Tripoli", 6, "-1"), ("Tlemcen", 6, "-1"), ("Capri", 6, "-1"), ("Bougie", 6, "-1"), ("Cherchell", 5, "-1"), ("Jijel", 5, "-1"), ("Mahdia", 5, "-1"), 
+                                                                ("Miliana", 5, "-1"), ("Medea", 5, "-1"), ("Tenes", 5, "VARIETY_CARTENNAS"), ("Monastir", 5, "-1"), ("Tarhuna", 5, "-1"), ("Misrata", 5, "-1"), ("Gafsa", 4, "-1"), ("Gharyan", 4, "-1"), ("Taorga", 4, "-1"), ("Tagiora", 4, "-1"), 
+                                                                ("Mers El Kebir", 4, "-1"), ("Kairouan", 4, "-1"), ("Tataouine", 4, "-1"), ("Rades", 4, "-1"), ("Ḥalq el-Wad", 4, "-1"), ("Qassasa", 4, "-1"), ("Mostaganem", 4, "-1"), ("Constantine", 4, "VARIETY_NUMIDIAN")],
 'LEADER_ELISSA'				: [("Qart-Hadasht", 9, "VARIETY_CARTHAGE"), ("Atiq", 8, "VARIETY_UTICA"), ("Hippo Acra", 8, "VARIETY_BIZERTE"), ("Hippo Regius", 8, "VARIETY_ANNABA"), ("Kerkouane", 8, "-1"), ("Adrumet", 7, "VARIETY_SOUSSE"), ("Leptis", 7, "VARIETY_LEPTIS"), ("Taynat", 7, "VARIETY_THAENAE"), 
-								("Tabraqa", 6, "-1"), ("Gorza", 6, "VARIETY_UZALIS"), ("Sicca", 6, "-1"), ("Tbugga", 6, "VARIETY_THUGGA"), ("Vaga", 6, "-1"), ("Bulla", 6, "VARIETY_BULLA"), ("Tburba", 6, "VARIETY_THUBURBO"), ("Naraggara", 6, "-1"), 
-								("Leptis Magna", 5, "-1"), ("Oyat", 5, "VARIETY_TRIPOLI"), ("Saldae", 5, "-1"), ("Iol", 5, "-1"), ("Qart-Tinis", 5, "VARIETY_CARTENNAS"), ("Rusadir", 5, "-1"), ("Tingi", 5, "VARIETY_TANGIER"), ("Lixus", 5, "-1"), ("Shalat", 5, "VARIETY_SALA"),	("Iboshim", 5, "VARIETY_IBIZA"), ("Rusucurru", 5, "VARIETY_DELLYS"), ("Rusucurru", 5, "VARIETY_DELLYS"),	
-								("Arambys", 4, "VARIETY_MOGADOR"), ("Myriandrus", 4, "-1"), ("Kittim", 4, "VARIETY_KITION"), ("Jaffa", 4, "-1"), ("Motya", 4, "-1"), ("Kapara", 4, "VARIETY_SOLUNTUM"), ("Ziz", 4, "VARIETY_PALERMO"), ("Olbia", 4, "-1"), ("Akko", 4, "VARIETY_ACRE"), ("Karaly", 4, "VARIETY_CAGLIARI"),
-								("Aynook", 4, "-1"), ("Thapsus", 7, "-1"), ("Aspis", 7, "VARIETY_ASPIS"), ("Anpa", 4, "-1"), ("Sarepta", 4, "-1"), ("Sewa", 4, "VARIETY_NUMIDIAN"), ("Tipasa", 4, "-1"), ("Lilybaion", 4, "-1"), ("Maleth", 4, "VARIETY_MDINA")],
+                                                  ("Tabraqa", 6, "-1"), ("Gorza", 6, "VARIETY_UZALIS"), ("Sicca", 6, "-1"), ("Tbugga", 6, "VARIETY_THUGGA"), ("Vaga", 6, "-1"), ("Bulla", 6, "VARIETY_BULLA"), ("Tburba", 6, "VARIETY_THUBURBO"), ("Naraggara", 6, "-1"), 
+                                                                ("Leptis Magna", 5, "-1"), ("Oyat", 5, "VARIETY_TRIPOLI"), ("Saldae", 5, "-1"), ("Iol", 5, "-1"), ("Qart-Tinis", 5, "VARIETY_CARTENNAS"), ("Rusadir", 5, "-1"), ("Tingi", 5, "VARIETY_TANGIER"), ("Lixus", 5, "-1"), ("Shalat", 5, "VARIETY_SALA"),	("Iboshim", 5, "VARIETY_IBIZA"), ("Rusucurru", 5, "VARIETY_DELLYS"), ("Rusucurru", 5, "VARIETY_DELLYS"),	
+                                                                ("Arambys", 4, "VARIETY_MOGADOR"), ("Myriandrus", 4, "-1"), ("Kittim", 4, "VARIETY_KITION"), ("Jaffa", 4, "-1"), ("Motya", 4, "-1"), ("Kapara", 4, "VARIETY_SOLUNTUM"), ("Ziz", 4, "VARIETY_PALERMO"), ("Olbia", 4, "-1"), ("Akko", 4, "VARIETY_ACRE"), ("Karaly", 4, "VARIETY_CAGLIARI"),
+                                                                ("Aynook", 4, "-1"), ("Thapsus", 7, "-1"), ("Aspis", 7, "VARIETY_ASPIS"), ("Anpa", 4, "-1"), ("Sarepta", 4, "-1"), ("Sewa", 4, "VARIETY_NUMIDIAN"), ("Tipasa", 4, "-1"), ("Lilybaion", 4, "-1"), ("Maleth", 4, "VARIETY_MDINA")],
 'LEADER_GENSERIC'			: [("Carthage", 9, "VARIETY_CARTHAGE"), ("Utica", 8, "VARIETY_UTICA"), ("Hippo Diarrhytus", 8, "VARIETY_BIZERTE"), ("Hippo Regius", 8, "VARIETY_ANNABA"), ("Zama", 8, "-1"), ("Hunericopolis", 7, "VARIETY_SOUSSE"), ("Ariana", 7, "-1"), ("Leptis Parva", 7, "VARIETY_LEPTIS"), 
-								("Thaenae", 7, "VARIETY_THAENAE"), ("Thabraca", 6, "-1"), ("Uzalis", 6, "VARIETY_UZALIS"), ("Caput Vada", 6, "-1"), ("Sicca Veneria", 6, "-1"), ("Thugga", 6, "VARIETY_THUGGA"), ("Vaga", 6, "-1"), ("Tricamarum", 6, "-1"), ("Thuburbo", 6, "-1"), 
-								("Naraggara", 6, "-1"), ("Leptis Magna", 5, "-1"), ("Oea", 7, "VARIETY_TRIPOLI"), ("Saldae", 8, "-1"), ("Caesarea", 8, "-1"), ("Cartennae", 5, "-1"), ("Rusadir", 5, "-1"), ("Tingis", 5, "VARIETY_TANGIER"), ("Sufes", 5, "-1"), 
-								("Sufetula", 5, "-1"), ("Caralis", 6, "VARIETY_CAGLIARI"), ("Leptiminus", 4, "-1"), ("Aggar", 4, "-1"), ("Mactaris", 4, "-1"), ("Mustis", 4, "-1"), ("Pupput", 4, "-1"), ("Ruspae", 4, "-1"), ("Olbia", 4, "-1"), 
-								("Ruspina", 4, "-1"), ("Thelepte", 4, "-1"), ("Thapsus", 7, "-1"), ("Clupea", 7, "VARIETY_ASPIS"), ("Thysdrus", 4, "-1"), ("Uzita", 4, "-1"), ("Constantine", 4, "VARIETY_NUMIDIAN"), ("Tipasa", 4, "-1"), ("Bavagaliana", 4, "-1"), 
-								("Limata", 4, "-1")],	
+                                            ("Thaenae", 7, "VARIETY_THAENAE"), ("Thabraca", 6, "-1"), ("Uzalis", 6, "VARIETY_UZALIS"), ("Caput Vada", 6, "-1"), ("Sicca Veneria", 6, "-1"), ("Thugga", 6, "VARIETY_THUGGA"), ("Vaga", 6, "-1"), ("Tricamarum", 6, "-1"), ("Thuburbo", 6, "-1"), 
+                                                                ("Naraggara", 6, "-1"), ("Leptis Magna", 5, "-1"), ("Oea", 7, "VARIETY_TRIPOLI"), ("Saldae", 8, "-1"), ("Caesarea", 8, "-1"), ("Cartennae", 5, "-1"), ("Rusadir", 5, "-1"), ("Tingis", 5, "VARIETY_TANGIER"), ("Sufes", 5, "-1"), 
+                                                                ("Sufetula", 5, "-1"), ("Caralis", 6, "VARIETY_CAGLIARI"), ("Leptiminus", 4, "-1"), ("Aggar", 4, "-1"), ("Mactaris", 4, "-1"), ("Mustis", 4, "-1"), ("Pupput", 4, "-1"), ("Ruspae", 4, "-1"), ("Olbia", 4, "-1"), 
+                                                                ("Ruspina", 4, "-1"), ("Thelepte", 4, "-1"), ("Thapsus", 7, "-1"), ("Clupea", 7, "VARIETY_ASPIS"), ("Thysdrus", 4, "-1"), ("Uzita", 4, "-1"), ("Constantine", 4, "VARIETY_NUMIDIAN"), ("Tipasa", 4, "-1"), ("Bavagaliana", 4, "-1"), 
+                                                                ("Limata", 4, "-1")],	
 'LEADER_HABIB_BOURGUIBA'	: [("Tunis", 9, "-1"), ("Sfax", 8, "-1"), ("Sousse", 8, "VARIETY_SOUSSE"), ("At-Tadaman", 7, "-1"), ("Kairouan", 7, "-1"), ("Bizerte", 7, "VARIETY_BIZERTE"), ("Gabes", 7, "-1"), ("La Soukra", 7, "-1"), ("Ariana", 7, "-1"), 
-								("Sidi Hassine", 7, "-1"), ("Mohamedia", 7, "-1"), ("Fouchana", 7, "-1"), ("El Mourouj", 7, "-1"), ("Gafsa", 6, "-1"), ("Raoued", 6, "-1"), ("Monastir", 6, "-1"), ("La Marsa", 6, "-1"), ("Ben Arous", 6, "-1"), 
-								("Kasserine", 6, "-1"), ("Douar Hicher", 6, "-1"), ("Houmt El Souk", 5, "-1"), ("Le Kram", 5, "-1"), ("Hammamet", 5, "-1"), ("Zarzis", 5, "-1"), ("Le Bardo", 5, "-1"), ("Medenine", 5, "-1"), ("Nabeul", 5, "-1"), 
-								("Tataouine", 4, "-1"), ("Ben Gardane", 4, "-1"), ("Midoun", 4, "-1"), ("Beja", 4, "-1"), ("M'saken", 4, "-1"), ("Oued Ellil", 4, "-1"), ("Rades", 4, "-1"), ("Moknine", 4, "-1"), ("El Kef", 4, "-1"), ("Kalaa Kebira", 4, "-1"), 
-								("Sakiet Ezzit", 4, "-1"), ("Mahdia", 4, "-1"), ("Jemmal", 4, "-1")],			
+                                   ("Sidi Hassine", 7, "-1"), ("Mohamedia", 7, "-1"), ("Fouchana", 7, "-1"), ("El Mourouj", 7, "-1"), ("Gafsa", 6, "-1"), ("Raoued", 6, "-1"), ("Monastir", 6, "-1"), ("La Marsa", 6, "-1"), ("Ben Arous", 6, "-1"), 
+                                                                ("Kasserine", 6, "-1"), ("Douar Hicher", 6, "-1"), ("Houmt El Souk", 5, "-1"), ("Le Kram", 5, "-1"), ("Hammamet", 5, "-1"), ("Zarzis", 5, "-1"), ("Le Bardo", 5, "-1"), ("Medenine", 5, "-1"), ("Nabeul", 5, "-1"), 
+                                                                ("Tataouine", 4, "-1"), ("Ben Gardane", 4, "-1"), ("Midoun", 4, "-1"), ("Beja", 4, "-1"), ("M'saken", 4, "-1"), ("Oued Ellil", 4, "-1"), ("Rades", 4, "-1"), ("Moknine", 4, "-1"), ("El Kef", 4, "-1"), ("Kalaa Kebira", 4, "-1"), 
+                                                                ("Sakiet Ezzit", 4, "-1"), ("Mahdia", 4, "-1"), ("Jemmal", 4, "-1")],			
 'LEADER_HANNIBAL'			: [("Qart-Hadasht", 9, "VARIETY_CARTHAGE"), ("Atiq", 8, "VARIETY_UTICA"), ("Hippo Acra", 6, "VARIETY_BIZERTE"), ("Hippo Regius", 8, "VARIETY_ANNABA"), ("Kerkouane", 8, "-1"), ("Adrumet", 7, "VARIETY_SOUSSE"), ("Leptis", 7, "VARIETY_LEPTIS"), ("Taynat", 7, "VARIETY_THAENAE"), 
-								("Tabraqa", 6, "-1"), ("Gorza", 5, "VARIETY_UZALIS"),	("Iboshim", 5, "VARIETY_IBIZA"), ("Sicca", 6, "-1"), ("Tbugga", 6, "VARIETY_THUGGA"), ("Vaga", 6, "-1"), ("Bulla", 6, "VARIETY_BULLA"), ("Tburba", 6, "VARIETY_THUBURBO"), ("Naraggara", 6, "-1"), 
-								("Leptis Magna", 6, "-1"), ("Oyat", 7, "VARIETY_TRIPOLI"), ("Saldae", 5, "-1"), ("Iol", 5, "-1"), ("Qart-Tinis", 5, "VARIETY_CARTENNAS"), ("Rusadir", 5, "-1"), ("Tingi", 6, "VARIETY_TANGIER"), ("Lixus", 5, "-1"), ("Shalat", 5, "VARIETY_SALA"),	
-								("Arambys", 4, "VARIETY_MOGADOR"), ("Gades", 7, "VARIETY_CADIZ"), ("Carthago Nova", 8, "VARIETY_CARTAGENA"), ("Malaka", 4, "-1"), ("Motya", 4, "-1"), ("Soluntum", 4, "-1"), ("Ziz", 4, "VARIETY_PALERMO"), ("Olbia", 6, "-1"), 
-								("Karaly", 6, "VARIETY_CAGLIARI"), ("Tharros", 5, "-1"), ("Thapsus", 5, "-1"), ("Mago", 5, "VARIETY_MENORCA"), ("Aspis", 4, "VARIETY_ASPIS"), ("Thymiaterium", 4, "-1"), ("Volubilis", 4, "-1"), ("Sewa", 4, "VARIETY_NUMIDIAN"), ("Tipasa", 4, "-1"), 
-								("Lilybaion", 4, "-1"), ("Maleth", 6, "VARIETY_MDINA")],
+                                            ("Tabraqa", 6, "-1"), ("Gorza", 5, "VARIETY_UZALIS"),	("Iboshim", 5, "VARIETY_IBIZA"), ("Sicca", 6, "-1"), ("Tbugga", 6, "VARIETY_THUGGA"), ("Vaga", 6, "-1"), ("Bulla", 6, "VARIETY_BULLA"), ("Tburba", 6, "VARIETY_THUBURBO"), ("Naraggara", 6, "-1"), 
+                                                                ("Leptis Magna", 6, "-1"), ("Oyat", 7, "VARIETY_TRIPOLI"), ("Saldae", 5, "-1"), ("Iol", 5, "-1"), ("Qart-Tinis", 5, "VARIETY_CARTENNAS"), ("Rusadir", 5, "-1"), ("Tingi", 6, "VARIETY_TANGIER"), ("Lixus", 5, "-1"), ("Shalat", 5, "VARIETY_SALA"),	
+                                                                ("Arambys", 4, "VARIETY_MOGADOR"), ("Gades", 7, "VARIETY_CADIZ"), ("Carthago Nova", 8, "VARIETY_CARTAGENA"), ("Malaka", 4, "-1"), ("Motya", 4, "-1"), ("Soluntum", 4, "-1"), ("Ziz", 4, "VARIETY_PALERMO"), ("Olbia", 6, "-1"), 
+                                                                ("Karaly", 6, "VARIETY_CAGLIARI"), ("Tharros", 5, "-1"), ("Thapsus", 5, "-1"), ("Mago", 5, "VARIETY_MENORCA"), ("Aspis", 4, "VARIETY_ASPIS"), ("Thymiaterium", 4, "-1"), ("Volubilis", 4, "-1"), ("Sewa", 4, "VARIETY_NUMIDIAN"), ("Tipasa", 4, "-1"), 
+                                                                ("Lilybaion", 4, "-1"), ("Maleth", 6, "VARIETY_MDINA")],
 'LEADER_HANNO'				: [("Qart-Hadasht", 9, "VARIETY_CARTHAGE"), ("Atiq", 8, "VARIETY_UTICA"), ("Hippo Acra", 8, "VARIETY_BIZERTE"), ("Hippo Regius", 8, "VARIETY_ANNABA"), ("Kerkouane", 8, "-1"), ("Adrumet", 7, "VARIETY_SOUSSE"), ("Leptis", 7, "VARIETY_LEPTIS"), ("Taynat", 7, "VARIETY_THAENAE"), 
-								("Tabraqa", 6, "-1"), ("Gorza", 6, "VARIETY_UZALIS"),	("Iboshim", 5, "VARIETY_IBIZA"), ("Sicca", 6, "-1"), ("Tbugga", 6, "VARIETY_THUGGA"), ("Vaga", 6, "-1"), ("Bulla", 6, "VARIETY_BULLA"), ("Tburba", 6, "VARIETY_THUBURBO"), ("Naraggara", 6, "-1"), 
-								("Leptis Magna", 5, "-1"), ("Oyat", 5, "VARIETY_TRIPOLI"), ("Saldae", 5, "-1"), ("Iol", 5, "-1"), ("Qart-Tinis", 5, "VARIETY_CARTENNAS"), ("Rusadir", 5, "-1"), ("Tingi", 5, "VARIETY_TANGIER"), ("Lixus", 5, "-1"), ("Shalat", 5, "VARIETY_SALA"),	
-								("Arambys", 4, "VARIETY_MOGADOR"), ("Gades", 4, "VARIETY_CADIZ"), ("Carthago Nova", 4, "VARIETY_CARTAGENA"), ("Malaka", 4, "-1"), ("Motya", 4, "-1"), ("Soluntum", 4, "-1"), ("Ziz", 4, "VARIETY_PALERMO"), ("Olbia", 4, "-1"), 
-								("Karaly", 4, "VARIETY_CAGLIARI"), ("Tharros", 4, "-1"), ("Thapsus", 7, "-1"), ("Aspis", 7, "VARIETY_ASPIS"), ("Thymiaterium", 4, "-1"), ("Volubilis", 4, "-1"), ("Sewa", 4, "VARIETY_NUMIDIAN"), ("Tipasa", 4, "-1"), 
-								("Lilybaion", 4, "-1"), ("Maleth", 4, "VARIETY_MDINA")],
+                                                 ("Tabraqa", 6, "-1"), ("Gorza", 6, "VARIETY_UZALIS"),	("Iboshim", 5, "VARIETY_IBIZA"), ("Sicca", 6, "-1"), ("Tbugga", 6, "VARIETY_THUGGA"), ("Vaga", 6, "-1"), ("Bulla", 6, "VARIETY_BULLA"), ("Tburba", 6, "VARIETY_THUBURBO"), ("Naraggara", 6, "-1"), 
+                                                                ("Leptis Magna", 5, "-1"), ("Oyat", 5, "VARIETY_TRIPOLI"), ("Saldae", 5, "-1"), ("Iol", 5, "-1"), ("Qart-Tinis", 5, "VARIETY_CARTENNAS"), ("Rusadir", 5, "-1"), ("Tingi", 5, "VARIETY_TANGIER"), ("Lixus", 5, "-1"), ("Shalat", 5, "VARIETY_SALA"),	
+                                                                ("Arambys", 4, "VARIETY_MOGADOR"), ("Gades", 4, "VARIETY_CADIZ"), ("Carthago Nova", 4, "VARIETY_CARTAGENA"), ("Malaka", 4, "-1"), ("Motya", 4, "-1"), ("Soluntum", 4, "-1"), ("Ziz", 4, "VARIETY_PALERMO"), ("Olbia", 4, "-1"), 
+                                                                ("Karaly", 4, "VARIETY_CAGLIARI"), ("Tharros", 4, "-1"), ("Thapsus", 7, "-1"), ("Aspis", 7, "VARIETY_ASPIS"), ("Thymiaterium", 4, "-1"), ("Volubilis", 4, "-1"), ("Sewa", 4, "VARIETY_NUMIDIAN"), ("Tipasa", 4, "-1"), 
+                                                                ("Lilybaion", 4, "-1"), ("Maleth", 4, "VARIETY_MDINA")],
 # Celts
 'LEADER_BRENNUS'			: [("Sena", 9, "VARIETY_SENA"), ("Bononia", 8, "VARIETY_BOLOGNA"), ("Noreia", 8, "-1"), ("Gorgobina", 6, "-1"), ("Akileja", 7, "VARIETY_AQUILEIA"), ("Brixia", 7, "VARIETY_BRESCIA"), ("Verona", 6, "-1"), 
-								("Medhelanon", 8, "VARIETY_MILAN"), ("Cremona", 6, "-1"), ("Mutna", 6, "VARIETY_MODENA"), ("Ticinum", 7, "VARIETY_PAVIA"), ("Oscela", 7, "-1"), ("Bilitio", 6, "-1"), ("Bergomum", 7, "VARIETY_BERGAMO"), 
-								("Eporedia", 6, "VARIETY_IVREA"), ("Segusio", 7, "-1"), ("Taurasia", 6, "VARIETY_TURIN"), ("Novaria", 7, "VARIETY_NOVARA"), ("Este", 5, "-1"), ("Patavium", 5, "VARIETY_PADUA"), ("Acelum", 5, "-1"), ("Opitergium", 5, "-1"), 
-								("Tergeste", 5, "VARIETY_TRIEST"), ("Stalia", 5, "VARIETY_LIGURIAN"), ("Belodunum", 5, "VARIETY_BELLUNO"), ("Ravenna", 5, "-1"), ("Solona", 4, "-1"), ("Atria", 4, "-1"), ("Sedunum", 4, "-1"), ("Octodurus", 4, "VARIETY_MARTIGNY"), 
-								("Acerrae", 4, "-1"), ("Kainua", 4, "-1"), ("Comum", 4, "-1"), ("Pola", 4, "-1"), ("Mantua", 4, "-1"), ("Turicon", 4, "VARIETY_ZURICH"), ("Genava", 4, "VARIETY_GENEVE"), ("Noviodunum", 4, "VARIETY_NEVERS"), 
-								("Bibracte", 8, "VARIETY_GAUL"), ("Vesontio", 7, "VARIETY_BESANCON"), ("Gergovia", 7, "VARIETY_CLERMONT"), ("Avaricon", 7, "VARIETY_BOURGES"), ("Cenabum", 7, "VARIETY_ORLEANS"), ("Carnutum", 6, "VARIETY_CHARTRES"), ("Alesia", 6, "-1"), 
-								("Tolosa", 6, "VARIETY_VISIGOTH")],
+                                           ("Medhelanon", 8, "VARIETY_MILAN"), ("Cremona", 6, "-1"), ("Mutna", 6, "VARIETY_MODENA"), ("Ticinum", 7, "VARIETY_PAVIA"), ("Oscela", 7, "-1"), ("Bilitio", 6, "-1"), ("Bergomum", 7, "VARIETY_BERGAMO"), 
+                                                                ("Eporedia", 6, "VARIETY_IVREA"), ("Segusio", 7, "-1"), ("Taurasia", 6, "VARIETY_TURIN"), ("Novaria", 7, "VARIETY_NOVARA"), ("Este", 5, "-1"), ("Patavium", 5, "VARIETY_PADUA"), ("Acelum", 5, "-1"), ("Opitergium", 5, "-1"), 
+                                                                ("Tergeste", 5, "VARIETY_TRIEST"), ("Stalia", 5, "VARIETY_LIGURIAN"), ("Belodunum", 5, "VARIETY_BELLUNO"), ("Ravenna", 5, "-1"), ("Solona", 4, "-1"), ("Atria", 4, "-1"), ("Sedunum", 4, "-1"), ("Octodurus", 4, "VARIETY_MARTIGNY"), 
+                                                                ("Acerrae", 4, "-1"), ("Kainua", 4, "-1"), ("Comum", 4, "-1"), ("Pola", 4, "-1"), ("Mantua", 4, "-1"), ("Turicon", 4, "VARIETY_ZURICH"), ("Genava", 4, "VARIETY_GENEVE"), ("Noviodunum", 4, "VARIETY_NEVERS"), 
+                                                                ("Bibracte", 8, "VARIETY_GAUL"), ("Vesontio", 7, "VARIETY_BESANCON"), ("Gergovia", 7, "VARIETY_CLERMONT"), ("Avaricon", 7, "VARIETY_BOURGES"), ("Cenabum", 7, "VARIETY_ORLEANS"), ("Carnutum", 6, "VARIETY_CHARTRES"), ("Alesia", 6, "-1"), 
+                                                                ("Tolosa", 6, "VARIETY_VISIGOTH")],
 'LEADER_BRIAN_BORU'			: [("Tara", 10, "-1"), ("Baile Atha Luain", 9, "VARIETY_ATHLONE"), ("Luimneach", 9, "VARIETY_LIMERICK"), ("Baile Atha Cliath", 8, "VARIETY_DUBLIN"), ("Ard Mhacha", 9, "VARIETY_ARMAGH"), ("Kincora", 8, "-1"), 
-								("Corcaigh", 8, "VARIETY_CORK"), ("Port Lairge", 8, "VARIETY_WATERFORD"), ("Cruachan", 8, "-1"), ("Carn Fraoich", 7, "-1"), ("Cill Chainnigh", 7, "VARIETY_KILKENNY"), ("Dun Ailinne", 7, "-1"), ("Grianan Ailigh", 7, "-1"), 
-								("Clontarf", 6, "-1"), ("Nas na Riogh", 6, "VARIETY_NAAS"), ("Eas Ruaidh", 5, "-1"), ("Antrim", 6, "-1"), ("Raith Mor", 5, "-1"), ("Loch Garman", 7, "VARIETY_WEXFORD"), ("Dun Dealgan", 5, "VARIETY_DUNDALK"), 
-								("Leitirceanainn", 4, "VARIETY_LETTERKENNY"), ("Droim Chliabh", 5, "-1"), ("Carraig Phadraig", 7, "VARIETY_CASHEL"), ("Emain Macha", 7, "-1"), ("Leixlip", 4, "VARIETY_LEIXLIP"), ("Tulach Mhor", 4, "VARIETY_TULLAMORE"), 
-								("Cill Airne", 4, "VARIETY_KILLARNEY"), ("Arklow", 5, "-1"), ("Crich Liathain", 4, "-1"), ("Tailteann", 6, "-1"), ("Tlachtgha", 5, "-1"), ("Brug Rig", 4, "-1"), ("Cnobha", 4, "-1"), ("Dun na nGall", 4, "VARIETY_DONEGAL"), 
-								("Ceanannas", 4, "VARIETY_KELLS")],
+                                              ("Corcaigh", 8, "VARIETY_CORK"), ("Port Lairge", 8, "VARIETY_WATERFORD"), ("Cruachan", 8, "-1"), ("Carn Fraoich", 7, "-1"), ("Cill Chainnigh", 7, "VARIETY_KILKENNY"), ("Dun Ailinne", 7, "-1"), ("Grianan Ailigh", 7, "-1"), 
+                                                                ("Clontarf", 6, "-1"), ("Nas na Riogh", 6, "VARIETY_NAAS"), ("Eas Ruaidh", 5, "-1"), ("Antrim", 6, "-1"), ("Raith Mor", 5, "-1"), ("Loch Garman", 7, "VARIETY_WEXFORD"), ("Dun Dealgan", 5, "VARIETY_DUNDALK"), 
+                                                                ("Leitirceanainn", 4, "VARIETY_LETTERKENNY"), ("Droim Chliabh", 5, "-1"), ("Carraig Phadraig", 7, "VARIETY_CASHEL"), ("Emain Macha", 7, "-1"), ("Leixlip", 4, "VARIETY_LEIXLIP"), ("Tulach Mhor", 4, "VARIETY_TULLAMORE"), 
+                                                                ("Cill Airne", 4, "VARIETY_KILLARNEY"), ("Arklow", 5, "-1"), ("Crich Liathain", 4, "-1"), ("Tailteann", 6, "-1"), ("Tlachtgha", 5, "-1"), ("Brug Rig", 4, "-1"), ("Cnobha", 4, "-1"), ("Dun na nGall", 4, "VARIETY_DONEGAL"), 
+                                                                ("Ceanannas", 4, "VARIETY_KELLS")],
 'LEADER_VERCINGETORIX'		: [("Gergovia", 10, "VARIETY_CLERMONT"), ("Avaricon", 9, "VARIETY_BOURGES"), ("Alesia", 9, "VARIETY_ALESIA"), ("Lugdunum", 8, "VARIETY_BURGUNDIAN"), ("Vesontio", 8, "VARIETY_BESANCON"), ("Lutetia", 8, "VARIETY_PARIS"), ("Bibracte", 8, "VARIETY_GAUL"), 
-								("Matisco", 7, "VARIETY_MACON"), ("Diviodunum", 7, "VARIETY_DIJON"), ("Andematunnum", 7, "VARIETY_LANGRES"), ("Noviodunum", 7, "VARIETY_NEVERS"), ("Gorgobina", 7, "-1"), ("Cenabum", 7, "VARIETY_ORLEANS"), 
-								("Agedincum", 7, "VARIETY_SENS"), ("Meledunum", 7, "VARIETY_MELUN"), ("Durocorteron", 7, "VARIETY_REIMS"), ("Bibrax", 7, "VARIETY_LAON"), ("Decetia", 6, "VARIETY_DECIZE"), ("Burdigala", 6, "VARIETY_BORDEAUX"), 
-								("Bratuspantium", 6, "VARIETY_BEAUVAIS"), ("Samarobriva", 6, "VARIETY_AMIENS"), ("Nemetocenna", 6, "VARIETY_ARRAS"), ("Genava", 6, "VARIETY_GENEVE"), ("Cabillonum", 6, "VARIETY_CHALON"), ("Magetobriga", 6, "VARIETY_AMAGE"), 
-								("Atuatuca", 5, "VARIETY_TONGEREN"), ("Lemonum", 5, "VARIETY_POITIERS"), ("Aunedonnacum", 5, "VARIETY_AULNAY"), ("Vindinium", 5, "VARIETY_LEMANS"), ("Darioritum", 5, "VARIETY_VANNES"), ("Roazhon", 5, "VARIETY_RENNES"), 
-								("Uxellodunum", 5, "VARIETY_VAYRAC"), ("Divodurum", 5, "VARIETY_METZ"), ("Vellaunodunum", 4, "-1"), ("Argentomagus", 4, "-1"), ("Veromandorum", 4, "-1")],
+                                         ("Matisco", 7, "VARIETY_MACON"), ("Diviodunum", 7, "VARIETY_DIJON"), ("Andematunnum", 7, "VARIETY_LANGRES"), ("Noviodunum", 7, "VARIETY_NEVERS"), ("Gorgobina", 7, "-1"), ("Cenabum", 7, "VARIETY_ORLEANS"), 
+                                                                ("Agedincum", 7, "VARIETY_SENS"), ("Meledunum", 7, "VARIETY_MELUN"), ("Durocorteron", 7, "VARIETY_REIMS"), ("Bibrax", 7, "VARIETY_LAON"), ("Decetia", 6, "VARIETY_DECIZE"), ("Burdigala", 6, "VARIETY_BORDEAUX"), 
+                                                                ("Bratuspantium", 6, "VARIETY_BEAUVAIS"), ("Samarobriva", 6, "VARIETY_AMIENS"), ("Nemetocenna", 6, "VARIETY_ARRAS"), ("Genava", 6, "VARIETY_GENEVE"), ("Cabillonum", 6, "VARIETY_CHALON"), ("Magetobriga", 6, "VARIETY_AMAGE"), 
+                                                                ("Atuatuca", 5, "VARIETY_TONGEREN"), ("Lemonum", 5, "VARIETY_POITIERS"), ("Aunedonnacum", 5, "VARIETY_AULNAY"), ("Vindinium", 5, "VARIETY_LEMANS"), ("Darioritum", 5, "VARIETY_VANNES"), ("Roazhon", 5, "VARIETY_RENNES"), 
+                                                                ("Uxellodunum", 5, "VARIETY_VAYRAC"), ("Divodurum", 5, "VARIETY_METZ"), ("Vellaunodunum", 4, "-1"), ("Argentomagus", 4, "-1"), ("Veromandorum", 4, "-1")],
 'LEADER_EAMON_DE_VALERA'	: [("Dublin", 10, "VARIETY_DUBLIN"), ("Cork", 9, "VARIETY_CORK"), ("Limerick", 8, "VARIETY_LIMERICK"), ("Galway", 8, "VARIETY_GALWAY"), ("Waterford", 8, "VARIETY_WATERFORD"), ("Drogheda", 7, "-1"), ("Dundalk", 7, "VARIETY_DUNDALK"), 
-								("Bray", 7, "-1"), ("Navan", 7, "-1"), ("Ennis", 8, "-1"), ("Kilkenny", 7, "VARIETY_KILKENNY"), ("Tralee", 7, "-1"), ("Carlow", 7, "-1"), ("Droichead Nua", 6, "-1"), ("Naas", 6, "VARIETY_NAAS"), ("Athlone", 6, "-1"), 
-								("Portlaoise", 6, "-1"), ("Mullingar", 6, "-1"), ("Wexford", 6, "VARIETY_WEXFORD"), ("Balbriggan", 5, "-1"), ("Letterkenny", 5, "VARIETY_LETTERKENNY"), ("Sligo", 5, "-1"), ("Clonmel", 5, "-1"), ("Greystones", 5, "-1"), 
-								("Leixlip", 4, "VARIETY_LEIXLIP"), ("Tullamore", 4, "VARIETY_TULLAMORE"), ("Killarney", 4, "VARIETY_KILLARNEY"), ("Arklow", 4, "-1"), ("Cobh", 4, "-1"), ("Castlebar", 4, "-1"), ("Donegal", 4, "VARIETY_DONEGAL"), 
-								("Midleton", 4, "-1")],
+                                   ("Bray", 7, "-1"), ("Navan", 7, "-1"), ("Ennis", 8, "-1"), ("Kilkenny", 7, "VARIETY_KILKENNY"), ("Tralee", 7, "-1"), ("Carlow", 7, "-1"), ("Droichead Nua", 6, "-1"), ("Naas", 6, "VARIETY_NAAS"), ("Athlone", 6, "-1"), 
+                                                                ("Portlaoise", 6, "-1"), ("Mullingar", 6, "-1"), ("Wexford", 6, "VARIETY_WEXFORD"), ("Balbriggan", 5, "-1"), ("Letterkenny", 5, "VARIETY_LETTERKENNY"), ("Sligo", 5, "-1"), ("Clonmel", 5, "-1"), ("Greystones", 5, "-1"), 
+                                                                ("Leixlip", 4, "VARIETY_LEIXLIP"), ("Tullamore", 4, "VARIETY_TULLAMORE"), ("Killarney", 4, "VARIETY_KILLARNEY"), ("Arklow", 4, "-1"), ("Cobh", 4, "-1"), ("Castlebar", 4, "-1"), ("Donegal", 4, "VARIETY_DONEGAL"), 
+                                                                ("Midleton", 4, "-1")],
 'LEADER_ROBERT_THE_BRUCE'	: [("Dun Eideann", 10, "VARIETY_EDINBURGH"), ("Peairt", 9, "VARIETY_PERTH"), ("Sruighlea", 9, "VARIETY_STIRLING"), ("Obar Dheathain", 8, "VARIETY_ABERDEEN"), ("Dundee", 8, "-1"), ("Lanark", 8, "-1"), ("Dunfermline", 7, "-1"), 
-								("Elgin", 8, "-1"), ("Forres", 7, "-1"), ("Linlithgow", 7, "-1"), ("Montrose", 7, "-1"), ("Peebles", 6, "-1"), ("Rutherglen", 7, "-1"), ("Roxburgh", 6, "-1"), ("Tain", 6, "-1"), ("Haddington", 6, "-1"), ("Renfrew", 5, "-1"), 
-								("Arbroath", 7, "-1"), ("Methven", 4, "-1"), ("St Andrews", 7, "-1"), ("Rathlin", 4, "-1"), ("Melrose", 4, "-1"), ("Berwick", 4, "-1"), ("Dumfries", 6, "-1"), ("Falkirk", 7, "-1"), ("Bannockburn", 8, "-1"), ("Dunbar", 5, "-1"), 
-								("Paisley", 4, "-1"), ("Jedburgh", 4, "-1"), ("Cumnock", 4, "-1"), ("Selkirk", 7, "-1"), ("Brechin", 6, "-1")],
+                                    ("Elgin", 8, "-1"), ("Forres", 7, "-1"), ("Linlithgow", 7, "-1"), ("Montrose", 7, "-1"), ("Peebles", 6, "-1"), ("Rutherglen", 7, "-1"), ("Roxburgh", 6, "-1"), ("Tain", 6, "-1"), ("Haddington", 6, "-1"), ("Renfrew", 5, "-1"), 
+                                                                ("Arbroath", 7, "-1"), ("Methven", 4, "-1"), ("St Andrews", 7, "-1"), ("Rathlin", 4, "-1"), ("Melrose", 4, "-1"), ("Berwick", 4, "-1"), ("Dumfries", 6, "-1"), ("Falkirk", 7, "-1"), ("Bannockburn", 8, "-1"), ("Dunbar", 5, "-1"), 
+                                                                ("Paisley", 4, "-1"), ("Jedburgh", 4, "-1"), ("Cumnock", 4, "-1"), ("Selkirk", 7, "-1"), ("Brechin", 6, "-1")],
 'LEADER_JAMES_IV_SCOTLAND'	: [("Edinburgh", 10, "VARIETY_EDINBURGH"), ("Perth", 8, "VARIETY_PERTH"), ("Stirling", 9, "VARIETY_STIRLING"), ("Aberdeen", 8, "VARIETY_ABERDEEN"), ("Dundee", 8, "-1"), ("Lanark", 8, "-1"), ("Dunfermline", 7, "-1"), ("Elgin", 8, "-1"), ("Forres", 7, "-1"), 
-								("Linlithgow", 7, "-1"), ("Montrose", 7, "-1"), ("Peebles", 6, "-1"), ("Rutherglen", 7, "-1"), ("Roxburgh", 6, "-1"), ("Tain", 6, "-1"), ("Haddington", 6, "-1"), ("Renfrew", 5, "-1"), ("Arbroath", 7, "-1"), ("Methven", 4, "-1"), 
-								("St Andrews", 7, "-1"), ("Rathlin", 4, "-1"), ("Melrose", 4, "-1"), ("Berwick", 4, "-1"), ("Dumfries", 6, "-1"), ("Falkirk", 7, "-1"), ("Bannockburn", 8, "-1"), ("Dunbar", 5, "-1"), ("Paisley", 4, "-1"), ("Jedburgh", 4, "-1"), 
-								("Cumnock", 4, "-1"), ("Selkirk", 7, "-1"), ("Brechin", 6, "-1"), ("Falkland", 8, "-1")],
+                                     ("Linlithgow", 7, "-1"), ("Montrose", 7, "-1"), ("Peebles", 6, "-1"), ("Rutherglen", 7, "-1"), ("Roxburgh", 6, "-1"), ("Tain", 6, "-1"), ("Haddington", 6, "-1"), ("Renfrew", 5, "-1"), ("Arbroath", 7, "-1"), ("Methven", 4, "-1"), 
+                                                                ("St Andrews", 7, "-1"), ("Rathlin", 4, "-1"), ("Melrose", 4, "-1"), ("Berwick", 4, "-1"), ("Dumfries", 6, "-1"), ("Falkirk", 7, "-1"), ("Bannockburn", 8, "-1"), ("Dunbar", 5, "-1"), ("Paisley", 4, "-1"), ("Jedburgh", 4, "-1"), 
+                                                                ("Cumnock", 4, "-1"), ("Selkirk", 7, "-1"), ("Brechin", 6, "-1"), ("Falkland", 8, "-1")],
 # China
 'LEADER_CAO_CAO'			: [("Xuchang", 10, "-1"), ("Luoyang", 9, "VARIETY_ZHOU"), ("Chang'an", 9, "VARIETY_XIAN"), ("Taiyuan", 9, "VARIETY_TAIYUAN"), ("Jixian", 9, "VARIETY_BEIJING"), ("Ye", 8, "-1"), ("Linzi", 8, "-1"), ("Shouchun", 8, "-1"), ("Pizhou", 8, "-1"), 
-								("Jianye", 8, "VARIETY_NANJING"), ("Changguang", 7, "-1"), ("Zhongshan", 7, "-1"), ("Changshan", 7, "-1"), ("Anding", 7, "-1"), ("Longxi", 7, "-1"), ("Xiping", 7, "-1"), ("Nanyang", 7, "-1"), ("Runan", 7, "-1"), 
-								("Henei", 7, "-1"), ("Chenliu", 7, "-1"), ("Pei", 7, "-1"), ("Pengchang", 7, "-1"), ("Xiapei", 7, "-1"), ("Hancheng", 7, "VARIETY_YANGZHOU"), ("Anxi", 6, "-1"), ("An", 6, "-1"), ("Weichang", 6, "-1"), ("Guangzong", 6, "-1"), 
-								("Quliang", 6, "-1"), ("Tongdi", 6, "-1"), ("Boping", 6, "-1"), ("Shangcai", 6, "-1"), ("Rang", 6, "-1")],
+                                           ("Jianye", 8, "VARIETY_NANJING"), ("Changguang", 7, "-1"), ("Zhongshan", 7, "-1"), ("Changshan", 7, "-1"), ("Anding", 7, "-1"), ("Longxi", 7, "-1"), ("Xiping", 7, "-1"), ("Nanyang", 7, "-1"), ("Runan", 7, "-1"), 
+                                                                ("Henei", 7, "-1"), ("Chenliu", 7, "-1"), ("Pei", 7, "-1"), ("Pengchang", 7, "-1"), ("Xiapei", 7, "-1"), ("Hancheng", 7, "VARIETY_YANGZHOU"), ("Anxi", 6, "-1"), ("An", 6, "-1"), ("Weichang", 6, "-1"), ("Guangzong", 6, "-1"), 
+                                                                ("Quliang", 6, "-1"), ("Tongdi", 6, "-1"), ("Boping", 6, "-1"), ("Shangcai", 6, "-1"), ("Rang", 6, "-1")],
 'LEADER_QIN_SHI_HUANG'		: [("Xianyang", 10, "VARIETY_XIAN"), ("Luoyang", 9, "VARIETY_ZHOU"), ("Taiyuan", 9, "VARIETY_TAIYUAN"), ("Handan", 9, "-1"), ("Changsha", 9, "VARIETY_CHANGSHA"), ("Guangyang", 9, "VARIETY_BEIJING"), ("Neishi", 8, "-1"), ("Longxi", 8, "-1"), 
-								("Shang", 8, "-1"), ("Jiuyuan", 8, "-1"), ("Yunzhong", 8, "-1"), ("Beidi", 8, "-1"), ("Ba", 8, "-1"), ("Shu", 8, "-1"), ("Qianzhong", 8, "-1"), ("Nan", 8, "-1"), ("Hengshan", 8, "-1"), ("Jiujiang", 8, "-1"), ("Huiji", 8, "-1"), 
-								("Minzhong", 8, "-1"), ("Nanhai", 8, "-1"), ("Guilin", 8, "-1"), ("Xiang", 8, "-1"), ("Sanchuan", 7, "-1"), ("Nanyang", 7, "-1"), ("Yingchuan", 7, "-1"), ("Chen", 7, "-1"), ("Dong", 7, "-1"), ("Dang", 7, "-1"), 
-								("Sishui", 7, "-1"), ("Jibei", 7, "-1"), ("Xue", 7, "-1"), ("Linzi", 7, "-1"), ("Jiaodong", 7, "-1"), ("Langya", 7, "-1"), ("Donghai", 7, "-1"), ("Hedong", 6, "-1"), ("Henei", 6, "-1"), ("Shangdang", 6, "-1"), 
-								("Handan", 6, "-1"), ("Julu", 6, "-1"), ("Yanmen", 6, "-1"), ("Dai", 6, "-1"), ("Shanggu", 6, "-1"), ("Yuyang", 6, "-1"), ("Liaodong", 6, "-1"), ("Moling", 8, "VARIETY_NANJING"), ("Hancheng", 8, "VARIETY_YANGZHOU")], 
+                                         ("Shang", 8, "-1"), ("Jiuyuan", 8, "-1"), ("Yunzhong", 8, "-1"), ("Beidi", 8, "-1"), ("Ba", 8, "-1"), ("Shu", 8, "-1"), ("Qianzhong", 8, "-1"), ("Nan", 8, "-1"), ("Hengshan", 8, "-1"), ("Jiujiang", 8, "-1"), ("Huiji", 8, "-1"), 
+                                                                ("Minzhong", 8, "-1"), ("Nanhai", 8, "-1"), ("Guilin", 8, "-1"), ("Xiang", 8, "-1"), ("Sanchuan", 7, "-1"), ("Nanyang", 7, "-1"), ("Yingchuan", 7, "-1"), ("Chen", 7, "-1"), ("Dong", 7, "-1"), ("Dang", 7, "-1"), 
+                                                                ("Sishui", 7, "-1"), ("Jibei", 7, "-1"), ("Xue", 7, "-1"), ("Linzi", 7, "-1"), ("Jiaodong", 7, "-1"), ("Langya", 7, "-1"), ("Donghai", 7, "-1"), ("Hedong", 6, "-1"), ("Henei", 6, "-1"), ("Shangdang", 6, "-1"), 
+                                                                ("Handan", 6, "-1"), ("Julu", 6, "-1"), ("Yanmen", 6, "-1"), ("Dai", 6, "-1"), ("Shanggu", 6, "-1"), ("Yuyang", 6, "-1"), ("Liaodong", 6, "-1"), ("Moling", 8, "VARIETY_NANJING"), ("Hancheng", 8, "VARIETY_YANGZHOU")], 
 'LEADER_TANG'				: [("Luoyang", 9, "VARIETY_ZHOU"), ("Chang'an", 10, "VARIETY_XIAN"), ("Beidu", 9, "VARIETY_TAIYUAN"), ("Youzhou", 8, "VARIETY_BEIJING"), ("Hangzhou", 8, "VARIETY_HANGZHOU"), ("Guangzhou", 8, "VARIETY_GUANGZHOU"), 
-								("Fuzhou", 8, "VARIETY_FUZHOU"), ("Weizhou", 8, "-1"), ("Shengzhou", 8, "VARIETY_NANJING"), ("Puzhou", 8, "-1"), ("Yizhou", 8, "VARIETY_CHENGDU"), ("Shanzhou", 8, "-1"), ("Liangzhou", 7, "-1"), ("Xiangzhou", 7, "-1"), 
-								("Qianzhou", 7, "-1"), ("Hongzhou", 7, "-1"), ("Suzhou", 7, "-1"), ("Dunhuang", 7, "-1"), ("Zangzhou", 7, "-1"), ("Beizhou", 7, "-1"), ("Huazhou", 7, "-1"), ("Bianzhou", 7, "-1"), ("Yangzhou", 7, "VARIETY_YANGZHOU"), 
-								("Runzhou", 7, "-1"), ("Kashgar", 6, "VARIETY_KASHGAR"), ("Kucha", 6, "-1"), ("Hotan", 6, "-1"), ("Karasahr", 6, "-1"), ("Songping", 6, "-1"), ("Tingzhou", 6, "VARIETY_BESHBALIK"), ("Yunzhong", 6, "-1"), ("Xincheng", 6, "-1"), 
-								("Liaodongcheng", 6, "-1"), ("Pingzhou", 6, "-1"), ("Liaoxi", 6, "-1")], 
+                                                ("Fuzhou", 8, "VARIETY_FUZHOU"), ("Weizhou", 8, "-1"), ("Shengzhou", 8, "VARIETY_NANJING"), ("Puzhou", 8, "-1"), ("Yizhou", 8, "VARIETY_CHENGDU"), ("Shanzhou", 8, "-1"), ("Liangzhou", 7, "-1"), ("Xiangzhou", 7, "-1"), 
+                                                                ("Qianzhou", 7, "-1"), ("Hongzhou", 7, "-1"), ("Suzhou", 7, "-1"), ("Dunhuang", 7, "-1"), ("Zangzhou", 7, "-1"), ("Beizhou", 7, "-1"), ("Huazhou", 7, "-1"), ("Bianzhou", 7, "-1"), ("Yangzhou", 7, "VARIETY_YANGZHOU"), 
+                                                                ("Runzhou", 7, "-1"), ("Kashgar", 6, "VARIETY_KASHGAR"), ("Kucha", 6, "-1"), ("Hotan", 6, "-1"), ("Karasahr", 6, "-1"), ("Songping", 6, "-1"), ("Tingzhou", 6, "VARIETY_BESHBALIK"), ("Yunzhong", 6, "-1"), ("Xincheng", 6, "-1"), 
+                                                                ("Liaodongcheng", 6, "-1"), ("Pingzhou", 6, "-1"), ("Liaoxi", 6, "-1")], 
 'LEADER_CHINESE_LEADER'		: [("Shanghai", 9, "-1"), ("Xi'an", 7, "VARIETY_XIAN"), ("Taiyuan", 7, "VARIETY_TAIYUAN"), ("Beijing", 10, "VARIETY_BEIJING"), ("Tianjin", 9, "-1"), ("Shenyang", 8, "-1"), ("Chongqing", 8, "VARIETY_CHONGQING"), ("Wuhan", 8, "-1"), 
-								("Nanjing", 8, "VARIETY_NANJING"), ("Chengdu", 8, "VARIETY_CHENGDU"), ("Haerbin", 8, "-1"), ("Guangzhou", 8, "VARIETY_GUANGZHOU"), ("Changchun", 7, "-1"), ("Dalian", 7, "VARIETY_DALIAN"), ("Ji'nan", 7, "-1"), 
-								("Hangzhou", 7, "VARIETY_HANGZHOU"), ("Lanzhou", 6, "-1"), ("Qingdao", 6, "-1"), ("Fushun", 6, "-1"), ("Anshan", 6, "-1"), ("Wenzhou", 6, "-1"), ("Taiyuan", 6, "-1"), ("Shijiazhuang", 6, "-1"), ("Changsha", 6, "VARIETY_CHANGSHA"), 
-								("Baotou", 6, "-1"), ("Guiyang", 5, "-1"), ("Urumqi", 5, "VARIETY_URUMQI"), ("Qiqihaer", 5, "-1"), ("Tangshan", 5, "-1"), ("Nanchang", 5, "-1"), ("Wuxi", 5, "-1"), ("Jilin", 5, "-1"), ("Yichun", 5, "-1"), ("Zhengzhou", 5, "-1"), 
-								("Fuzhou", 5, "VARIETY_FUZHOU")], 
+                                          ("Nanjing", 8, "VARIETY_NANJING"), ("Chengdu", 8, "VARIETY_CHENGDU"), ("Haerbin", 8, "-1"), ("Guangzhou", 8, "VARIETY_GUANGZHOU"), ("Changchun", 7, "-1"), ("Dalian", 7, "VARIETY_DALIAN"), ("Ji'nan", 7, "-1"), 
+                                                                ("Hangzhou", 7, "VARIETY_HANGZHOU"), ("Lanzhou", 6, "-1"), ("Qingdao", 6, "-1"), ("Fushun", 6, "-1"), ("Anshan", 6, "-1"), ("Wenzhou", 6, "-1"), ("Taiyuan", 6, "-1"), ("Shijiazhuang", 6, "-1"), ("Changsha", 6, "VARIETY_CHANGSHA"), 
+                                                                ("Baotou", 6, "-1"), ("Guiyang", 5, "-1"), ("Urumqi", 5, "VARIETY_URUMQI"), ("Qiqihaer", 5, "-1"), ("Tangshan", 5, "-1"), ("Nanchang", 5, "-1"), ("Wuxi", 5, "-1"), ("Jilin", 5, "-1"), ("Yichun", 5, "-1"), ("Zhengzhou", 5, "-1"), 
+                                                                ("Fuzhou", 5, "VARIETY_FUZHOU")], 
 'LEADER_WEN_OF_SUI'			: [("Luoyang", 9, "VARIETY_ZHOU"), ("Daxing", 10, "VARIETY_XIAN"), ("Taiyuan", 8, "VARIETY_TAIYUAN"), ("Chengdu", 8, "VARIETY_CHENGDU"), ("Jixian", 7, "VARIETY_BEIJING"), ("Jiangdu", 7, "VARIETY_YANGZHOU"), ("Changsha", 7, "VARIETY_CHANGSHA"), 
-								("Guangzhou", 7, "VARIETY_GUANGZHOU"), ("Jingzhou", 6, "-1"), ("Jianye", 9, "VARIETY_NANJING"), ("Liangzhou", 6, "-1"), ("Jizhou", 6, "-1"), ("Yangzhou", 6, "VARIETY_YANGZHOU"), ("Qingzhou", 6, "VARIETY_GYEONGJU"), ("Xuzhou", 6, "-1"), 
-								("Yingzhou", 5, "-1"), ("Daizhou", 5, "-1"), ("Xiazhou", 5, "-1"), ("Lingzhou", 5, "-1"), ("Tingzhou", 5, "-1"), ("Xizhou", 5, "-1"), ("Shenzhou", 5, "-1"), ("Yuanzhou", 5, "-1"), ("Songzhou", 5, "-1"), ("Maozhou", 5, "-1"), 
-								("Yazhou", 5, "-1"), ("Qiongzhou", 5, "-1"), ("Wuzhou", 5, "-1"), ("Luzhou", 5, "-1"), ("Tanzhou", 5, "-1"), ("Gongzhou", 5, "-1"), ("Anzhou", 5, "-1"), ("Fuzhou", 5, "VARIETY_FUZHOU"), ("Yuezhou", 5, "-1")],
+                                              ("Guangzhou", 7, "VARIETY_GUANGZHOU"), ("Jingzhou", 6, "-1"), ("Jianye", 9, "VARIETY_NANJING"), ("Liangzhou", 6, "-1"), ("Jizhou", 6, "-1"), ("Yangzhou", 6, "VARIETY_YANGZHOU"), ("Qingzhou", 6, "VARIETY_GYEONGJU"), ("Xuzhou", 6, "-1"), 
+                                                                ("Yingzhou", 5, "-1"), ("Daizhou", 5, "-1"), ("Xiazhou", 5, "-1"), ("Lingzhou", 5, "-1"), ("Tingzhou", 5, "-1"), ("Xizhou", 5, "-1"), ("Shenzhou", 5, "-1"), ("Yuanzhou", 5, "-1"), ("Songzhou", 5, "-1"), ("Maozhou", 5, "-1"), 
+                                                                ("Yazhou", 5, "-1"), ("Qiongzhou", 5, "-1"), ("Wuzhou", 5, "-1"), ("Luzhou", 5, "-1"), ("Tanzhou", 5, "-1"), ("Gongzhou", 5, "-1"), ("Anzhou", 5, "-1"), ("Fuzhou", 5, "VARIETY_FUZHOU"), ("Yuezhou", 5, "-1")],
 'LEADER_WUDI'				: [("Luoyang", 9, "VARIETY_ZHOU"), ("Chang'an", 10, "VARIETY_XIAN"), ("Taiyuan", 8, "VARIETY_TAIYUAN"), ("Chengdu", 9, "VARIETY_CHENGDU"), ("Fanyang", 7, "VARIETY_BEIJING"), ("Changsha", 8, "VARIETY_CHANGSHA"), ("Panyu", 7, "VARIETY_GUANGZHOU"), 
-								("Jingzhou", 6, "-1"), ("Jianye", 7, "VARIETY_NANJING"), ("Guzang", 7, "-1"), ("Jinyang", 6, "-1"), ("Xindu", 6, "-1"), ("Longbian", 6, "-1"), ("Pengcheng", 6, "-1"), ("Linqiu", 6, "-1"), ("Zhuoxian", 6, "-1"), 
-								("Chenxian", 6, "-1"), ("Xiangping", 6, "-1"), ("Jixian", 6, "-1"), ("Nanzheng", 6, "-1"), ("Dianchi", 6, "-1"), ("Jianwei", 5, "-1"), ("Shu", 5, "-1"), ("Ba", 5, "-1"), ("Hanzhong", 5, "-1"), ("Longxi", 5, "-1"), 
-								("Wuyuan", 5, "-1"), ("Shanggu", 5, "-1"), ("Qi", 5, "-1"), ("Loulan", 5, "-1"), ("Jiuquan", 5, "-1"), ("Quyan", 5, "-1"), ("Wu", 5, "-1"), ("Hefei", 5, "-1"), ("Linzi", 8, "-1"),	("Jincheng", 8, "-1"), 
-								("Jiaozhi", 8, "VARIETY_HANOI"), ("Dunhuang", 8, "-1"), ("Fulu", 7, "-1"), ("Ganzhou", 7, "-1"), ("Luolang", 8, "VARIETY_PYONGYANG")],
+                                                ("Jingzhou", 6, "-1"), ("Jianye", 7, "VARIETY_NANJING"), ("Guzang", 7, "-1"), ("Jinyang", 6, "-1"), ("Xindu", 6, "-1"), ("Longbian", 6, "-1"), ("Pengcheng", 6, "-1"), ("Linqiu", 6, "-1"), ("Zhuoxian", 6, "-1"), 
+                                                                ("Chenxian", 6, "-1"), ("Xiangping", 6, "-1"), ("Jixian", 6, "-1"), ("Nanzheng", 6, "-1"), ("Dianchi", 6, "-1"), ("Jianwei", 5, "-1"), ("Shu", 5, "-1"), ("Ba", 5, "-1"), ("Hanzhong", 5, "-1"), ("Longxi", 5, "-1"), 
+                                                                ("Wuyuan", 5, "-1"), ("Shanggu", 5, "-1"), ("Qi", 5, "-1"), ("Loulan", 5, "-1"), ("Jiuquan", 5, "-1"), ("Quyan", 5, "-1"), ("Wu", 5, "-1"), ("Hefei", 5, "-1"), ("Linzi", 8, "-1"),	("Jincheng", 8, "-1"), 
+                                                                ("Jiaozhi", 8, "VARIETY_HANOI"), ("Dunhuang", 8, "-1"), ("Fulu", 7, "-1"), ("Ganzhou", 7, "-1"), ("Luolang", 8, "VARIETY_PYONGYANG")],
 # Dravida
 'LEADER_KARIKALA_CHOLA'		: [("Urayur", 10, "-1"), ("Kaveripattinam", 10, "VARIETY_KAVERIPATTINAM"), ("Nagapattinam", 9, "-1"), ("Venni", 8, "-1"), ("Kanchipuram", 8, "-1"), ("Madurai", 8, "-1"), ("Korkai", 8, "-1"), ("Pattanam", 7, "-1"), 
-								("Kudavayil", 7, "-1"), ("Pazhayarai", 7, "-1"), ("Mayiladuthurai", 7, "-1"), ("Pudukkottai", 7, "-1"), ("Thondi", 7, "-1"), ("Punnata", 7, "-1"), ("Karur", 7, "-1"), ("Kottar", 7, "-1"), ("Kanyakumari", 7, "-1"), 
-								("Kayalpatnam", 7, "-1"), ("Dhanushkodi", 6, "-1"), ("Rameswaram", 6, "-1"), ("Perungarai", 6, "-1"), ("Mavilangai", 6, "-1"), ("Mahabalipuram", 7, "-1"), ("Vanchi Muthur", 6, "-1"), ("Amaravati", 7, "-1"), 
-								("Kadiyalur", 6, "-1"), ("Kodumbalur", 6, "-1"), ("Tripuranthakam", 6, "-1"), ("Pithapuram", 6, "-1"), ("Thiruvalangadu", 6, "-1"), ("Dhanyakatakam", 6, "-1"), ("Mahodayapuram", 6, "-1"), ("Vedapuri", 6, "-1")],
+                                          ("Kudavayil", 7, "-1"), ("Pazhayarai", 7, "-1"), ("Mayiladuthurai", 7, "-1"), ("Pudukkottai", 7, "-1"), ("Thondi", 7, "-1"), ("Punnata", 7, "-1"), ("Karur", 7, "-1"), ("Kottar", 7, "-1"), ("Kanyakumari", 7, "-1"), 
+                                                                ("Kayalpatnam", 7, "-1"), ("Dhanushkodi", 6, "-1"), ("Rameswaram", 6, "-1"), ("Perungarai", 6, "-1"), ("Mavilangai", 6, "-1"), ("Mahabalipuram", 7, "-1"), ("Vanchi Muthur", 6, "-1"), ("Amaravati", 7, "-1"), 
+                                                                ("Kadiyalur", 6, "-1"), ("Kodumbalur", 6, "-1"), ("Tripuranthakam", 6, "-1"), ("Pithapuram", 6, "-1"), ("Thiruvalangadu", 6, "-1"), ("Dhanyakatakam", 6, "-1"), ("Mahodayapuram", 6, "-1"), ("Vedapuri", 6, "-1")],
 'LEADER_KRISHNADEVARAYA'	: [("Vijayanagara", 10, "-1"), ("Raichur", 9, "-1"), ("Hampi", 9, "-1"), ("Anantapur", 9, "-1"), ("Penukonda", 9, "-1"), ("Kanchipuram", 8, "-1"), ("Madurai", 8, "-1"), ("Vengi", 8, "-1"), ("Thanjavur", 8, "-1"), 
-								("Polonnaruwa", 8, "-1"), ("Tirupati", 7, "-1"), ("Chandragiri", 7, "-1"), ("Kadapa", 7, "-1"), ("Kadiri", 7, "-1"), ("Kolar", 7, "-1"), ("Bangalore", 7, "-1"), ("Tumkur", 7, "-1"), ("Srirangapatna", 7, "-1"), 
-								("Mysore", 7, "-1"), ("Anantapur", 7, "-1"), ("Gooty", 7, "-1"), ("Guntakal", 7, "-1"), ("Adoni", 7, "-1"), ("Raichur", 7, "-1"), ("Ballari", 7, "-1"), ("Koppal", 7, "-1"), ("Dharwad", 7, "-1"), 
-								("Gokak", 7, "-1"), ("Kolhapur", 7, "-1"), ("Dabhol", 7, "-1"), ("Mangalore", 7, "-1"), ("Karwar", 7, "-1"), ("Kannur", 7, "-1")],		
+                                   ("Polonnaruwa", 8, "-1"), ("Tirupati", 7, "-1"), ("Chandragiri", 7, "-1"), ("Kadapa", 7, "-1"), ("Kadiri", 7, "-1"), ("Kolar", 7, "-1"), ("Bangalore", 7, "-1"), ("Tumkur", 7, "-1"), ("Srirangapatna", 7, "-1"), 
+                                                                ("Mysore", 7, "-1"), ("Anantapur", 7, "-1"), ("Gooty", 7, "-1"), ("Guntakal", 7, "-1"), ("Adoni", 7, "-1"), ("Raichur", 7, "-1"), ("Ballari", 7, "-1"), ("Koppal", 7, "-1"), ("Dharwad", 7, "-1"), 
+                                                                ("Gokak", 7, "-1"), ("Kolhapur", 7, "-1"), ("Dabhol", 7, "-1"), ("Mangalore", 7, "-1"), ("Karwar", 7, "-1"), ("Kannur", 7, "-1")],		
 'LEADER_KRISHNA_RAJA_WADIYAR_IV': [("Mysore", 10, "-1"), ("Bangalore", 9, "-1"), ("Shimoga", 8, "-1"), ("Tumkur", 8, "-1"), ("Chitradurga", 7, "-1"), ("Chikmagalur", 7, "-1"), ("Chikkaballapur", 7, "-1"), ("Kallar", 7, "-1"), ("Hassan", 7, "-1"), 
-								("Honnali", 6, "-1"), ("Davanagere", 6, "-1"), ("Harihar", 6, "-1"), ("Shikaripur", 6, "-1"), ("Tarikere", 6, "-1"), ("Sringeri", 6, "-1"), ("Hosadurga", 6, "-1"), ("Hiriyur",6, "-1"), ("Chamarajanagar", 6, "-1"), 
-								("Maddur", 6, "-1"), ("Nanjangud", 6, "-1"), ("Hunsur", 6, "-1"), ("Holenarasipura", 6, "-1"), ("Haranhalli", 6, "-1"), ("Seringapatam", 6, "-1"), ("Soraba", 5, "-1"), ("Nagar", 5, "-1"), ("Hoskote", 5, "-1"), ("Sira", 5, "-1"), 
-								("Gubbi", 5, "-1"), ("Sakleshpur", 5, "-1"), ("Mudigere", 5, "-1"), ("Honnavalli", 5, "-1"), ("Doddaballapura", 5, "-1")],		
+                                   ("Honnali", 6, "-1"), ("Davanagere", 6, "-1"), ("Harihar", 6, "-1"), ("Shikaripur", 6, "-1"), ("Tarikere", 6, "-1"), ("Sringeri", 6, "-1"), ("Hosadurga", 6, "-1"), ("Hiriyur",6, "-1"), ("Chamarajanagar", 6, "-1"), 
+                                                                ("Maddur", 6, "-1"), ("Nanjangud", 6, "-1"), ("Hunsur", 6, "-1"), ("Holenarasipura", 6, "-1"), ("Haranhalli", 6, "-1"), ("Seringapatam", 6, "-1"), ("Soraba", 5, "-1"), ("Nagar", 5, "-1"), ("Hoskote", 5, "-1"), ("Sira", 5, "-1"), 
+                                                                ("Gubbi", 5, "-1"), ("Sakleshpur", 5, "-1"), ("Mudigere", 5, "-1"), ("Honnavalli", 5, "-1"), ("Doddaballapura", 5, "-1")],		
 'LEADER_KULOTHUNGA_CHOLA_I'	: [("Tiruchirappalli", 8, "-1"), ("Kaveripattinam", 7, "VARIETY_KAVERIPATTINAM"), ("Nagapattinam", 9, "-1"), ("Venni", 8, "-1"), ("Kanchipuram", 9, "-1"), ("Madurai", 8, "-1"), ("Korkai", 8, "-1"), ("Pattanam", 7, "-1"), 
-								("Kudavayil", 7, "-1"), ("Pazhayarai", 7, "-1"), ("Mayiladuthurai", 7, "-1"), ("Pudukkottai", 7, "-1"), ("Thondi", 7, "-1"), ("Punnata", 7, "-1"), ("Karur", 7, "-1"), ("Kottar", 7, "-1"), ("Kanyakumari", 7, "-1"), 
-								("Kayalpatnam", 7, "-1"), ("Dhanushkodi", 6, "-1"), ("Rameswaram", 6, "-1"), ("Perungarai", 6, "-1"), ("Mavilangai", 6, "-1"), ("Mahabalipuram", 7, "-1"), ("Vanchi Muthur", 6, "-1"), ("Amaravati", 7, "-1"), 
-								("Kadiyalur", 6, "-1"), ("Kodumbalur", 6, "-1"), ("Tripuranthakam", 6, "-1"), ("Pithapuram", 6, "-1"), ("Thiruvalangadu", 6, "-1"), ("Dhanyakatakam", 6, "-1"), ("Mahodayapuram", 6, "-1"), ("Vedapuri", 6, "-1"), 
-								("Gangaikonda Cholapuram", 10, "-1"), ("Thanjavur", 9, "-1"), ("Vengi", 9, "-1"), ("Anuradhapura", 8, "-1"), ("Polonnaruwa", 8, "-1")],
+                                      ("Kudavayil", 7, "-1"), ("Pazhayarai", 7, "-1"), ("Mayiladuthurai", 7, "-1"), ("Pudukkottai", 7, "-1"), ("Thondi", 7, "-1"), ("Punnata", 7, "-1"), ("Karur", 7, "-1"), ("Kottar", 7, "-1"), ("Kanyakumari", 7, "-1"), 
+                                                                ("Kayalpatnam", 7, "-1"), ("Dhanushkodi", 6, "-1"), ("Rameswaram", 6, "-1"), ("Perungarai", 6, "-1"), ("Mavilangai", 6, "-1"), ("Mahabalipuram", 7, "-1"), ("Vanchi Muthur", 6, "-1"), ("Amaravati", 7, "-1"), 
+                                                                ("Kadiyalur", 6, "-1"), ("Kodumbalur", 6, "-1"), ("Tripuranthakam", 6, "-1"), ("Pithapuram", 6, "-1"), ("Thiruvalangadu", 6, "-1"), ("Dhanyakatakam", 6, "-1"), ("Mahodayapuram", 6, "-1"), ("Vedapuri", 6, "-1"), 
+                                                                ("Gangaikonda Cholapuram", 10, "-1"), ("Thanjavur", 9, "-1"), ("Vengi", 9, "-1"), ("Anuradhapura", 8, "-1"), ("Polonnaruwa", 8, "-1")],
 'LEADER_TIPU_SULTAN'		: [("Mysore", 9, "-1"), ("Bangalore", 9, "-1"), ("Shimoga", 8, "-1"), ("Tumkur", 8, "-1"), ("Chitradurga", 8, "-1"), ("Chikmagalur", 7, "-1"), ("Madikeri", 7, "-1"), ("Kallar", 7, "-1"), ("Hassan", 7, "-1"),	("Honnali", 6, "-1"), 
-								("Davanagere", 6, "-1"), ("Harihar", 6, "-1"), ("Shikaripur", 6, "-1"), ("Tarikere", 6, "-1"), ("Sringeri", 6, "-1"), ("Hosadurga", 6, "-1"), ("Hiriyur",6, "-1"), ("Chamarajanagar", 6, "-1"), ("Maddur", 6, "-1"), 
-								("Nanjangud", 6, "-1"), ("Hunsur", 6, "-1"), ("Holenarasipura", 6, "-1"), ("Haranhalli", 6, "-1"), ("Seringapatam", 6, "-1"), ("Soraba", 5, "-1"), ("Nagar", 5, "-1"), ("Hoskote", 5, "-1"), ("Sira", 7, "-1"), ("Gubbi", 5, "-1"), 
-								("Sakleshpur", 5, "-1"), ("Mudigere", 5, "-1"), ("Honnavalli", 5, "-1"), ("Doddaballapura", 5, "-1"), ("Srirangapatna", 10, "-1"), ("Coimbatore", 7, "-1"),	("Calicut", 8, "-1"), ("Mangalore", 8, "-1"), ("Dharwar", 8, "-1"), 
-								("Bellary", 8, "-1"), ("Gooty", 8, "-1"), ("Hydernagar", 7, "-1"), ("Gurramkonda", 7, "-1"), ("Erode", 7, "-1")],									
+                                       ("Davanagere", 6, "-1"), ("Harihar", 6, "-1"), ("Shikaripur", 6, "-1"), ("Tarikere", 6, "-1"), ("Sringeri", 6, "-1"), ("Hosadurga", 6, "-1"), ("Hiriyur",6, "-1"), ("Chamarajanagar", 6, "-1"), ("Maddur", 6, "-1"), 
+                                                                ("Nanjangud", 6, "-1"), ("Hunsur", 6, "-1"), ("Holenarasipura", 6, "-1"), ("Haranhalli", 6, "-1"), ("Seringapatam", 6, "-1"), ("Soraba", 5, "-1"), ("Nagar", 5, "-1"), ("Hoskote", 5, "-1"), ("Sira", 7, "-1"), ("Gubbi", 5, "-1"), 
+                                                                ("Sakleshpur", 5, "-1"), ("Mudigere", 5, "-1"), ("Honnavalli", 5, "-1"), ("Doddaballapura", 5, "-1"), ("Srirangapatna", 10, "-1"), ("Coimbatore", 7, "-1"),	("Calicut", 8, "-1"), ("Mangalore", 8, "-1"), ("Dharwar", 8, "-1"), 
+                                                                ("Bellary", 8, "-1"), ("Gooty", 8, "-1"), ("Hydernagar", 7, "-1"), ("Gurramkonda", 7, "-1"), ("Erode", 7, "-1")],									
 # Egypt
 'LEADER_AKHENATON'			: [("Akhetaten", 10, "VARIETY_AMARNA"), ("Waset", 9, "VARIETY_THEBES"), ("Men-Nefer", 9, "VARIETY_MEMPHIS"), ("Abu", 8, "VARIETY_ELEPHANTINE"), ("Awanu", 8, "VARIETY_HELIOPOLIS"), ("Abdju", 8, "VARIETY_ABYDOS"), 
-								("Khemenu", 8, "VARIETY_HERMOPOLIS"), ("Azzati", 7, "VARIETY_GAZA"), ("Megiddo", 7, "-1"), ("Beit She'an", 7, "-1"), ("Gubal", 7, "VARIETY_BYBLOS"), ("Lachish", 7, "-1"), ("Buhen", 7, "-1"), 
-								("Swenett", 7, "VARIETY_ASWAN"), ("Khem", 6, "VARIETY_LETOPOLIS"), ("Zau", 6, "VARIETY_SAIS"), ("Khasut", 6, "VARIETY_XOIS"), ("Dmi en Hor", 6, "VARIETY_DAMANHUR"), ("Pi-Atom", 6, "VARIETY_PITHOM"), 
-								("Djedu", 6, "VARIETY_BUSIRIS"), ("Hut-Heryib", 6, "VARIETY_ATHRIBIS"), ("Taremu", 6, "VARIETY_LEONTOPOLIS"), ("Tjebnutjer", 6, "VARIETY_SEBENNYTOS"), ("Tjaru", 6, "VARIETY_SILE"), ("Edfu", 7, "VARIETY_EDFU"), 
-								("Per-Banebdjedet", 6, "VARIETY_MENDES"), ("Per-Bast", 6, "VARIETY_BUBASTIS"), ("Nekhen", 6, "VARIETY_HIERAKONPOLIS"), ("Gebtu", 6, "VARIETY_QIFT"), ("Hu-Sekhem", 6, "VARIETY_HU"), ("Djew-Qa", 6, "VARIETY_ANTAEOPOLIS"), 
-								("Shashotep", 6, "VARIETY_HYPSELIS"), ("Zawty", 6, "VARIETY_ASYUT"), ("Shedet", 7, "VARIETY_FAIYUM")],
+                                             ("Khemenu", 8, "VARIETY_HERMOPOLIS"), ("Azzati", 7, "VARIETY_GAZA"), ("Megiddo", 7, "-1"), ("Beit She'an", 7, "-1"), ("Gubal", 7, "VARIETY_BYBLOS"), ("Lachish", 7, "-1"), ("Buhen", 7, "-1"), 
+                                                                ("Swenett", 7, "VARIETY_ASWAN"), ("Khem", 6, "VARIETY_LETOPOLIS"), ("Zau", 6, "VARIETY_SAIS"), ("Khasut", 6, "VARIETY_XOIS"), ("Dmi en Hor", 6, "VARIETY_DAMANHUR"), ("Pi-Atom", 6, "VARIETY_PITHOM"), 
+                                                                ("Djedu", 6, "VARIETY_BUSIRIS"), ("Hut-Heryib", 6, "VARIETY_ATHRIBIS"), ("Taremu", 6, "VARIETY_LEONTOPOLIS"), ("Tjebnutjer", 6, "VARIETY_SEBENNYTOS"), ("Tjaru", 6, "VARIETY_SILE"), ("Edfu", 7, "VARIETY_EDFU"), 
+                                                                ("Per-Banebdjedet", 6, "VARIETY_MENDES"), ("Per-Bast", 6, "VARIETY_BUBASTIS"), ("Nekhen", 6, "VARIETY_HIERAKONPOLIS"), ("Gebtu", 6, "VARIETY_QIFT"), ("Hu-Sekhem", 6, "VARIETY_HU"), ("Djew-Qa", 6, "VARIETY_ANTAEOPOLIS"), 
+                                                                ("Shashotep", 6, "VARIETY_HYPSELIS"), ("Zawty", 6, "VARIETY_ASYUT"), ("Shedet", 7, "VARIETY_FAIYUM")],
 'LEADER_BAIBARS'			: [("Cairo", 10, "VARIETY_CAIRO"), ("Alexandria", 9, "VARIETY_ALEXANDRIA"), ("Damascus", 9, "VARIETY_DAMASCUS"), ("Aleppo", 9, "VARIETY_ALEPPO"), ("Hama", 8, "VARIETY_HAMA"), ("Al-Quds", 8, "VARIETY_JERUSALEM"), 
-								("Tarabulus", 8, "VARIETY_TRIPOLI"), ("Aswan", 8, "VARIETY_ASWAN"), ("Barca", 7, "VARIETY_CYRENAICA"), ("Mansoura", 7, "-1"), ("Damietta", 7, "VARIETY_DAMIETTA"), ("Gaza", 7, "VARIETY_GAZA"), ("Jaffa", 7, "-1"), 
-								("Qasr Ibrim", 6, "-1"), ("Qus", 7, "VARIETY_QUS"), ("Akhmim", 6, "VARIETY_AKHMIM"), ("El Ashmunein", 6, "VARIETY_HERMOPOLIS"), ("El Bahnasa", 6, "VARIETY_BAHNASA"), ("Faiyum", 6, "VARIETY_FAIYUM"), 
-								("Atfih", 6, "VARIETY_BUSIRIS"), ("Bilbeis", 6, "-1"), ("Damanhur", 6, "VARIETY_DAMANHUR"), ("Arish", 6, "VARIETY_ARISH"), ("Ayla", 6, "VARIETY_AQABA"), ("Karak", 6, "-1"), ("Esna", 5, "VARIETY_ESNA"), 
-								("Huw", 5, "VARIETY_HU"), ("Balyana", 5, "VARIETY_ABYDOS"), ("Qulzum", 5, "VARIETY_SUEZ"), ("Siwa", 5, "-1"), ("Jaghbub", 5, "-1"), ("Awjila", 5, "-1"), ("Rashid", 7, "VARIETY_ROSETTA"), ("Minya", 5, "-1")],
+                                           ("Tarabulus", 8, "VARIETY_TRIPOLI"), ("Aswan", 8, "VARIETY_ASWAN"), ("Barca", 7, "VARIETY_CYRENAICA"), ("Mansoura", 7, "-1"), ("Damietta", 7, "VARIETY_DAMIETTA"), ("Gaza", 7, "VARIETY_GAZA"), ("Jaffa", 7, "-1"), 
+                                                                ("Qasr Ibrim", 6, "-1"), ("Qus", 7, "VARIETY_QUS"), ("Akhmim", 6, "VARIETY_AKHMIM"), ("El Ashmunein", 6, "VARIETY_HERMOPOLIS"), ("El Bahnasa", 6, "VARIETY_BAHNASA"), ("Faiyum", 6, "VARIETY_FAIYUM"), 
+                                                                ("Atfih", 6, "VARIETY_BUSIRIS"), ("Bilbeis", 6, "-1"), ("Damanhur", 6, "VARIETY_DAMANHUR"), ("Arish", 6, "VARIETY_ARISH"), ("Ayla", 6, "VARIETY_AQABA"), ("Karak", 6, "-1"), ("Esna", 5, "VARIETY_ESNA"), 
+                                                                ("Huw", 5, "VARIETY_HU"), ("Balyana", 5, "VARIETY_ABYDOS"), ("Qulzum", 5, "VARIETY_SUEZ"), ("Siwa", 5, "-1"), ("Jaghbub", 5, "-1"), ("Awjila", 5, "-1"), ("Rashid", 7, "VARIETY_ROSETTA"), ("Minya", 5, "-1")],
 'LEADER_GAMAL_ABDEL_NASSER'	: [("Cairo", 10, "VARIETY_CAIRO"), ("Alexandria", 9, "VARIETY_ALEXANDRIA"), ("Port Said", 8, "-1"), ("Tanta", 8, "-1"), ("Suez", 8, "VARIETY_SUEZ"), ("El Mahalla", 8, "-1"), ("Mansoura", 7, "-1"), ("Asyut", 7, "VARIETY_ASYUT"), 
-								("Zagazig", 7, "VARIETY_BUBASTIS"), ("Ismailia", 6, "-1"), ("Faiyum", 6, "VARIETY_FAIYUM"), ("Aswan", 6, "VARIETY_ASWAN"), ("Kafr ad-Dawwar", 6, "-1"), ("Giza", 5, "-1"), ("Shubra El Kheima", 5, "-1"), 
-								("Luxor", 5, "VARIETY_THEBES"), ("Damietta", 5, "VARIETY_DAMIETTA"), ("Minya", 5, "-1"), ("Damanhur", 5, "VARIETY_DAMANHUR"), ("Beni Suef", 5, "-1"), ("Hurghada", 5, "-1"), ("Qena", 5, "-1"), ("Sohag", 5, "-1"), 
-								("Shibin El Kom", 5, "-1"), ("Banha", 5, "-1"), ("Arish", 5, "VARIETY_ARISH"), ("Talkha", 4, "-1"), ("Kafr El Sheikh", 4, "-1"), ("Mallawi", 4, "-1"), ("Dekernes", 4, "-1"), ("Bilbeis", 4, "-1"), ("Desouk", 4, "-1"), 
-								("Edfu", 4, "VARIETY_EDFU"), ("Mersa Matruh", 4, "VARIETY_AMUNIA")],
+                                      ("Zagazig", 7, "VARIETY_BUBASTIS"), ("Ismailia", 6, "-1"), ("Faiyum", 6, "VARIETY_FAIYUM"), ("Aswan", 6, "VARIETY_ASWAN"), ("Kafr ad-Dawwar", 6, "-1"), ("Giza", 5, "-1"), ("Shubra El Kheima", 5, "-1"), 
+                                                                ("Luxor", 5, "VARIETY_THEBES"), ("Damietta", 5, "VARIETY_DAMIETTA"), ("Minya", 5, "-1"), ("Damanhur", 5, "VARIETY_DAMANHUR"), ("Beni Suef", 5, "-1"), ("Hurghada", 5, "-1"), ("Qena", 5, "-1"), ("Sohag", 5, "-1"), 
+                                                                ("Shibin El Kom", 5, "-1"), ("Banha", 5, "-1"), ("Arish", 5, "VARIETY_ARISH"), ("Talkha", 4, "-1"), ("Kafr El Sheikh", 4, "-1"), ("Mallawi", 4, "-1"), ("Dekernes", 4, "-1"), ("Bilbeis", 4, "-1"), ("Desouk", 4, "-1"), 
+                                                                ("Edfu", 4, "VARIETY_EDFU"), ("Mersa Matruh", 4, "VARIETY_AMUNIA")],
 'LEADER_HATSHEPSUT'			: [("Rhakotis", 6, "VARIETY_ALEXANDRIA"), ("Waset", 10, "VARIETY_THEBES"), ("Men-Nefer", 9, "VARIETY_MEMPHIS"), ("Abu", 8, "VARIETY_ELEPHANTINE"), ("Awanu", 8, "VARIETY_HELIOPOLIS"), ("Abdju", 8, "VARIETY_ABYDOS"), 
-								("Khemenu", 8, "VARIETY_HERMOPOLIS"), ("Azzati", 7, "VARIETY_GAZA"), ("Megiddo", 7, "-1"), ("Beit She'an", 7, "-1"), ("Gubal", 7, "VARIETY_BYBLOS"), ("Lachish", 7, "-1"), ("Buhen", 7, "-1"), 
-								("Swenett", 7, "VARIETY_ASWAN"), ("Khem", 6, "VARIETY_LETOPOLIS"), ("Zau", 6, "VARIETY_SAIS"), ("Khasut", 6, "VARIETY_XOIS"), ("Dmi en Hor", 6, "VARIETY_DAMANHUR"), ("Pi-Atom", 6, "VARIETY_PITHOM"), 
-								("Djedu", 6, "VARIETY_BUSIRIS"), ("Hut-Heryib", 6, "VARIETY_ATHRIBIS"), ("Taremu", 6, "VARIETY_LEONTOPOLIS"), ("Tjebnutjer", 6, "VARIETY_SEBENNYTOS"), ("Tjaru", 6, "VARIETY_SILE"), ("Edfu", 7, "VARIETY_EDFU"), 
-								("Per-Banebdjedet", 6, "VARIETY_MENDES"), ("Per-Bast", 6, "VARIETY_BUBASTIS"), ("Nekhen", 6, "VARIETY_HIERAKONPOLIS"), ("Gebtu", 8, "VARIETY_QIFT"), ("Hu-Sekhem", 6, "VARIETY_HU"), ("Djew-Qa", 6, "VARIETY_ANTAEOPOLIS"), 
-								("Shashotep", 6, "VARIETY_HYPSELIS"), ("Zawty", 6, "VARIETY_ASYUT"), ("Shedet", 7, "VARIETY_FAIYUM")],
+                                              ("Khemenu", 8, "VARIETY_HERMOPOLIS"), ("Azzati", 7, "VARIETY_GAZA"), ("Megiddo", 7, "-1"), ("Beit She'an", 7, "-1"), ("Gubal", 7, "VARIETY_BYBLOS"), ("Lachish", 7, "-1"), ("Buhen", 7, "-1"), 
+                                                                ("Swenett", 7, "VARIETY_ASWAN"), ("Khem", 6, "VARIETY_LETOPOLIS"), ("Zau", 6, "VARIETY_SAIS"), ("Khasut", 6, "VARIETY_XOIS"), ("Dmi en Hor", 6, "VARIETY_DAMANHUR"), ("Pi-Atom", 6, "VARIETY_PITHOM"), 
+                                                                ("Djedu", 6, "VARIETY_BUSIRIS"), ("Hut-Heryib", 6, "VARIETY_ATHRIBIS"), ("Taremu", 6, "VARIETY_LEONTOPOLIS"), ("Tjebnutjer", 6, "VARIETY_SEBENNYTOS"), ("Tjaru", 6, "VARIETY_SILE"), ("Edfu", 7, "VARIETY_EDFU"), 
+                                                                ("Per-Banebdjedet", 6, "VARIETY_MENDES"), ("Per-Bast", 6, "VARIETY_BUBASTIS"), ("Nekhen", 6, "VARIETY_HIERAKONPOLIS"), ("Gebtu", 8, "VARIETY_QIFT"), ("Hu-Sekhem", 6, "VARIETY_HU"), ("Djew-Qa", 6, "VARIETY_ANTAEOPOLIS"), 
+                                                                ("Shashotep", 6, "VARIETY_HYPSELIS"), ("Zawty", 6, "VARIETY_ASYUT"), ("Shedet", 7, "VARIETY_FAIYUM")],
 'LEADER_MEHMET_ALIPASHA'	: [("Cairo", 10, "VARIETY_CAIRO"), ("Alexandria", 9, "VARIETY_ALEXANDRIA"), ("Port Said", 8, "-1"), ("Tanta", 7, "-1"), ("Suez", 8, "VARIETY_SUEZ"), ("El Mahalla", 6, "-1"), ("Mansoura", 7, "-1"), ("Asyut", 8, "VARIETY_ASYUT"), 
-								("Zagazig", 6, "VARIETY_BUBASTIS"), ("Ismailia", 7, "-1"), ("Faiyum", 7, "VARIETY_FAIYUM"), ("Aswan", 8, "VARIETY_ASWAN"), ("Rosetta", 6, "VARIETY_ROSETTA"), ("Giza", 5, "-1"), ("Akhmim", 7, "VARIETY_AKHMIM"), 
-								("Luxor", 7, "VARIETY_THEBES"), ("Damietta", 6, "VARIETY_DAMIETTA"), ("Minya", 7, "-1"), ("Damanhur", 5, "VARIETY_DAMANHUR"), ("Beni Suef", 7, "-1"), ("Girga", 7, "-1"), ("Qena", 5, "-1"), ("Sohag", 6, "-1"), 
-								("Shibin El Kom", 5, "-1"), ("Banha", 5, "-1"), ("Arish", 5, "VARIETY_ARISH"), ("Siwa", 6, "VARIETY_SIWA"), ("Denqiun", 4, "-1"), ("Mallawi", 4, "-1"), ("Dekernes", 4, "-1"), ("Bilbeis", 4, "-1"), ("Desouk", 4, "-1"), 
-								("Edfu", 4, "VARIETY_EDFU"), ("Mersa Matruh", 4, "VARIETY_AMUNIA")],
+                                   ("Zagazig", 6, "VARIETY_BUBASTIS"), ("Ismailia", 7, "-1"), ("Faiyum", 7, "VARIETY_FAIYUM"), ("Aswan", 8, "VARIETY_ASWAN"), ("Rosetta", 6, "VARIETY_ROSETTA"), ("Giza", 5, "-1"), ("Akhmim", 7, "VARIETY_AKHMIM"), 
+                                                                ("Luxor", 7, "VARIETY_THEBES"), ("Damietta", 6, "VARIETY_DAMIETTA"), ("Minya", 7, "-1"), ("Damanhur", 5, "VARIETY_DAMANHUR"), ("Beni Suef", 7, "-1"), ("Girga", 7, "-1"), ("Qena", 5, "-1"), ("Sohag", 6, "-1"), 
+                                                                ("Shibin El Kom", 5, "-1"), ("Banha", 5, "-1"), ("Arish", 5, "VARIETY_ARISH"), ("Siwa", 6, "VARIETY_SIWA"), ("Denqiun", 4, "-1"), ("Mallawi", 4, "-1"), ("Dekernes", 4, "-1"), ("Bilbeis", 4, "-1"), ("Desouk", 4, "-1"), 
+                                                                ("Edfu", 4, "VARIETY_EDFU"), ("Mersa Matruh", 4, "VARIETY_AMUNIA")],
 'LEADER_PTOLEMY_SOTER'		: [("Alexandria", 10, "VARIETY_ALEXANDRIA"), ("Diospolis Megale", 9, "VARIETY_THEBES"), ("Memphis", 9, "VARIETY_MEMPHIS"), ("Naucratis", 9, "-1"), ("Ptolemais Hermiou", 9, "-1"), ("Koptos", 8, "VARIETY_QIFT"), 
-								("Oxyrhynchus", 8, "VARIETY_BAHNASA"), ("Hermopolis", 8, "VARIETY_HERMOPOLIS"), ("Syene", 8, "VARIETY_ASWAN"), ("Klysma", 8, "VARIETY_SUEZ"), ("Pelousion", 8, "VARIETY_PELUSIUM"), ("Cyrene", 8, "VARIETY_CYRENAICA"), 
-								("Rosetta", 7, "VARIETY_ROSETTA"), ("Buto", 7, "VARIETY_BUTO"), ("Sais", 7, "VARIETY_SAIS"), ("Heliopolis", 7, "VARIETY_HELIOPOLIS"), ("Ptolemais Euergetis", 7, "VARIETY_FAIYUM"), ("Heracleopolis", 7, "-1"), 
-								("Panopolis", 7, "VARIETY_AKHMIM"), ("Leucos Limen", 7, "VARIETY_QUSAIR"), ("Ammonia", 7, "VARIETY_SIWA"), ("Paraitonion", 7, "VARIETY_AMUNIA"), ("Elephantine", 7, "VARIETY_ELEPHANTINE"), ("Leontopolis", 6, "VARIETY_LEONTOPOLIS"), 
-								("Abydos", 6, "VARIETY_ABYDOS"), ("Antaeopolis", 6, "VARIETY_ANTAEOPOLIS"), ("Bubastis", 6, "VARIETY_BUBASTIS"), ("Hierakonpolis", 6, "VARIETY_HIERAKONPOLIS"), ("Lycopolis", 6, "VARIETY_ASYUT"), 
-								("Hermopolis Mikra", 6, "VARIETY_DAMANHUR"), ("Apollinopolis Magna", 6, "VARIETY_EDFU"), ("Hypselis", 6, "VARIETY_HYPSELIS"), ("Heroonopolis", 6, "VARIETY_PITHOM"), ("Plynos Limen", 6, "VARIETY_SALLUM")],
+                                         ("Oxyrhynchus", 8, "VARIETY_BAHNASA"), ("Hermopolis", 8, "VARIETY_HERMOPOLIS"), ("Syene", 8, "VARIETY_ASWAN"), ("Klysma", 8, "VARIETY_SUEZ"), ("Pelousion", 8, "VARIETY_PELUSIUM"), ("Cyrene", 8, "VARIETY_CYRENAICA"), 
+                                                                ("Rosetta", 7, "VARIETY_ROSETTA"), ("Buto", 7, "VARIETY_BUTO"), ("Sais", 7, "VARIETY_SAIS"), ("Heliopolis", 7, "VARIETY_HELIOPOLIS"), ("Ptolemais Euergetis", 7, "VARIETY_FAIYUM"), ("Heracleopolis", 7, "-1"), 
+                                                                ("Panopolis", 7, "VARIETY_AKHMIM"), ("Leucos Limen", 7, "VARIETY_QUSAIR"), ("Ammonia", 7, "VARIETY_SIWA"), ("Paraitonion", 7, "VARIETY_AMUNIA"), ("Elephantine", 7, "VARIETY_ELEPHANTINE"), ("Leontopolis", 6, "VARIETY_LEONTOPOLIS"), 
+                                                                ("Abydos", 6, "VARIETY_ABYDOS"), ("Antaeopolis", 6, "VARIETY_ANTAEOPOLIS"), ("Bubastis", 6, "VARIETY_BUBASTIS"), ("Hierakonpolis", 6, "VARIETY_HIERAKONPOLIS"), ("Lycopolis", 6, "VARIETY_ASYUT"), 
+                                                                ("Hermopolis Mikra", 6, "VARIETY_DAMANHUR"), ("Apollinopolis Magna", 6, "VARIETY_EDFU"), ("Hypselis", 6, "VARIETY_HYPSELIS"), ("Heroonopolis", 6, "VARIETY_PITHOM"), ("Plynos Limen", 6, "VARIETY_SALLUM")],
 'LEADER_RAMESSES'			: [("Pi-Ramesses", 10, "VARIETY_PI-RAMESSES"), ("Waset", 9, "VARIETY_THEBES"), ("Men-Nefer", 9, "VARIETY_MEMPHIS"), ("Abu", 8, "VARIETY_ELEPHANTINE"), ("Awanu", 8, "VARIETY_HELIOPOLIS"), ("Abdju", 8, "VARIETY_ABYDOS"), 
-								("Khemenu", 8, "VARIETY_HERMOPOLIS"), ("Azzati", 7, "VARIETY_GAZA"), ("Megiddo", 7, "-1"), ("Beit She'an", 7, "-1"), ("Gubal", 7, "VARIETY_BYBLOS"), ("Lachish", 7, "-1"), ("Buhen", 7, "-1"), 
-								("Swenett", 7, "VARIETY_ASWAN"), ("Khem", 6, "VARIETY_LETOPOLIS"), ("Zau", 6, "VARIETY_SAIS"), ("Khasut", 6, "VARIETY_XOIS"), ("Dmi en Hor", 6, "VARIETY_DAMANHUR"), ("Pi-Atom", 6, "VARIETY_PITHOM"), 
-								("Djedu", 6, "VARIETY_BUSIRIS"), ("Hut-Heryib", 6, "VARIETY_ATHRIBIS"), ("Taremu", 6, "VARIETY_LEONTOPOLIS"), ("Tjebnutjer", 6, "VARIETY_SEBENNYTOS"), ("Tjaru", 6, "VARIETY_SILE"), ("Edfu", 7, "VARIETY_EDFU"), 
-								("Per-Banebdjedet", 6, "VARIETY_MENDES"), ("Per-Bast", 6, "VARIETY_BUBASTIS"), ("Nekhen", 6, "VARIETY_HIERAKONPOLIS"), ("Gebtu", 6, "VARIETY_QIFT"), ("Hu-Sekhem", 6, "VARIETY_HU"), ("Djew-Qa", 6, "VARIETY_ANTAEOPOLIS"), 
-								("Shashotep", 6, "VARIETY_HYPSELIS"), ("Zawty", 6, "VARIETY_ASYUT"), ("Shedet", 7, "VARIETY_FAIYUM")],
+                                            ("Khemenu", 8, "VARIETY_HERMOPOLIS"), ("Azzati", 7, "VARIETY_GAZA"), ("Megiddo", 7, "-1"), ("Beit She'an", 7, "-1"), ("Gubal", 7, "VARIETY_BYBLOS"), ("Lachish", 7, "-1"), ("Buhen", 7, "-1"), 
+                                                                ("Swenett", 7, "VARIETY_ASWAN"), ("Khem", 6, "VARIETY_LETOPOLIS"), ("Zau", 6, "VARIETY_SAIS"), ("Khasut", 6, "VARIETY_XOIS"), ("Dmi en Hor", 6, "VARIETY_DAMANHUR"), ("Pi-Atom", 6, "VARIETY_PITHOM"), 
+                                                                ("Djedu", 6, "VARIETY_BUSIRIS"), ("Hut-Heryib", 6, "VARIETY_ATHRIBIS"), ("Taremu", 6, "VARIETY_LEONTOPOLIS"), ("Tjebnutjer", 6, "VARIETY_SEBENNYTOS"), ("Tjaru", 6, "VARIETY_SILE"), ("Edfu", 7, "VARIETY_EDFU"), 
+                                                                ("Per-Banebdjedet", 6, "VARIETY_MENDES"), ("Per-Bast", 6, "VARIETY_BUBASTIS"), ("Nekhen", 6, "VARIETY_HIERAKONPOLIS"), ("Gebtu", 6, "VARIETY_QIFT"), ("Hu-Sekhem", 6, "VARIETY_HU"), ("Djew-Qa", 6, "VARIETY_ANTAEOPOLIS"), 
+                                                                ("Shashotep", 6, "VARIETY_HYPSELIS"), ("Zawty", 6, "VARIETY_ASYUT"), ("Shedet", 7, "VARIETY_FAIYUM")],
 # England
 'LEADER_ALFRED_THE_GREAT'	: [("Lundenburh", 10, "VARIETY_LONDON"), ("Wintanceaster", 9, "VARIETY_WINCHESTER"), ("Cantwareburh", 8, "VARIETY_CANTERBURY"), ("Escanceaster", 8, "VARIETY_EXETER"), ("Cippanhamme", 7, "VARIETY_CHIPPENHAM"), 
-								("Athelney", 7, "-1"), ("Oxenaforda", 7, "VARIETY_OXFORD"), ("Dornwaraceaster", 7, "VARIETY_DORCHESTER"), ("Dofras", 7, "VARIETY_DOVER"), ("Werham", 7, "VARIETY_WAREHAM"), ("Ethandun", 7, "VARIETY_EDINGTON"), 
-								("Wantage", 7, "-1"), ("Licidfelth", 7, "VARIETY_LICHFIELD"), ("Hrofesceaster", 7, "VARIETY_ROCHESTER"), ("Legaceaster", 6, "VARIETY_CHESTER"), ("Haestingaceaster", 6, "VARIETY_PEVENSEY"), ("Haestingas", 6, "VARIETY_HASTINGS"), 
-								("Sandwic", 6, "VARIETY_SANDWICH"), ("Aet Bathum", 6, "VARIETY_BATH"), ("Readingum", 6, "VARIETY_READING"), ("Scrobbesburh", 6, "VARIETY_SHROPSHIRE"), ("Hamwic", 6, "VARIETY_SOUTHAMPTON"), 
-								("Sceptesberie", 6, "VARIETY_SHAFTESBURY"), ("Axanbrycg", 5, "VARIETY_AXBRIDGE"), ("Apuldre", 5, "VARIETY_APPLEDORE"), ("Wallingaforda", 7, "VARIETY_WALLINGFORD"), ("Wygraceaster", 5, "VARIETY_WORCESTER"), 
-								("Cisseceaster", 5, "VARIETY_CHICHESTER"), ("Lawe", 5, "VARIETY_LEWES"), ("Wiltune", 5, "VARIETY_WILTON"), ("Malmesbyrig", 5, "VARIETY_MALMESBURY"), ("Buccingahamme", 5, "VARIETY_BUCKINGHAM"), 
-								("Suthriganaweorc", 5, "VARIETY_SOUTHWARK"), ("Crecgelade", 5, "VARIETY_CRICKLADE")],
+                                    ("Athelney", 7, "-1"), ("Oxenaforda", 7, "VARIETY_OXFORD"), ("Dornwaraceaster", 7, "VARIETY_DORCHESTER"), ("Dofras", 7, "VARIETY_DOVER"), ("Werham", 7, "VARIETY_WAREHAM"), ("Ethandun", 7, "VARIETY_EDINGTON"), 
+                                                                ("Wantage", 7, "-1"), ("Licidfelth", 7, "VARIETY_LICHFIELD"), ("Hrofesceaster", 7, "VARIETY_ROCHESTER"), ("Legaceaster", 6, "VARIETY_CHESTER"), ("Haestingaceaster", 6, "VARIETY_PEVENSEY"), ("Haestingas", 6, "VARIETY_HASTINGS"), 
+                                                                ("Sandwic", 6, "VARIETY_SANDWICH"), ("Aet Bathum", 6, "VARIETY_BATH"), ("Readingum", 6, "VARIETY_READING"), ("Scrobbesburh", 6, "VARIETY_SHROPSHIRE"), ("Hamwic", 6, "VARIETY_SOUTHAMPTON"), 
+                                                                ("Sceptesberie", 6, "VARIETY_SHAFTESBURY"), ("Axanbrycg", 5, "VARIETY_AXBRIDGE"), ("Apuldre", 5, "VARIETY_APPLEDORE"), ("Wallingaforda", 7, "VARIETY_WALLINGFORD"), ("Wygraceaster", 5, "VARIETY_WORCESTER"), 
+                                                                ("Cisseceaster", 5, "VARIETY_CHICHESTER"), ("Lawe", 5, "VARIETY_LEWES"), ("Wiltune", 5, "VARIETY_WILTON"), ("Malmesbyrig", 5, "VARIETY_MALMESBURY"), ("Buccingahamme", 5, "VARIETY_BUCKINGHAM"), 
+                                                                ("Suthriganaweorc", 5, "VARIETY_SOUTHWARK"), ("Crecgelade", 5, "VARIETY_CRICKLADE")],
 'LEADER_CHURCHILL'			: [("London", 10, "VARIETY_LONDON"), ("Manchester", 9, "VARIETY_MANCHESTER"), ("Birmingham", 9, "-1"), ("Liverpool", 9, "VARIETY_LIVERPOOL"), ("Glasgow", 8, "VARIETY_GLASGOW"), ("Leeds", 8, "-1"), ("Bristol", 8, "VARIETY_BRISTOL"), 
-								("Nottingham", 7, "VARIETY_NOTTINGHAM"), ("Kingston upon Hull", 6, "-1"), ("Bradford", 6, "-1"), ("Newcastle", 6, "VARIETY_NEWCASTLE"), ("Leicester", 6, "VARIETY_LEICESTER"), ("Stoke-on-Trent", 6, "-1"), 
-								("Coventry", 6, "-1"), ("Portsmouth", 6, "VARIETY_PORTSMOUTH"), ("Plymouth", 6, "VARIETY_PLYMOUTH"), ("Sunderland", 5, "-1"), ("Southampton", 5, "VARIETY_SOUTHAMPTON"), ("Salford", 5, "-1"), ("Bolton", 5, "-1"), 
-								("Wolverhampton", 5, "-1"), ("Brighton", 5, "-1"), ("Southend-on-Sea", 5, "-1"), ("Middlesbrough", 4, "-1"), ("Blackpool", 4, "-1"), ("Bournemouth", 4, "-1"), ("Birkenhead", 4, "-1"), ("Stockport", 4, "-1"), 
-								("Derby", 4, "VARIETY_DERBY"), ("Huddersfield", 4, "-1"), ("Oldham", 4, "-1"), ("Norwich", 4, "VARIETY_NORWICH"), ("Preston", 4, "-1"), ("Gateshead", 4, "-1")],
+                                             ("Nottingham", 7, "VARIETY_NOTTINGHAM"), ("Kingston upon Hull", 6, "-1"), ("Bradford", 6, "-1"), ("Newcastle", 6, "VARIETY_NEWCASTLE"), ("Leicester", 6, "VARIETY_LEICESTER"), ("Stoke-on-Trent", 6, "-1"), 
+                                                                ("Coventry", 6, "-1"), ("Portsmouth", 6, "VARIETY_PORTSMOUTH"), ("Plymouth", 6, "VARIETY_PLYMOUTH"), ("Sunderland", 5, "-1"), ("Southampton", 5, "VARIETY_SOUTHAMPTON"), ("Salford", 5, "-1"), ("Bolton", 5, "-1"), 
+                                                                ("Wolverhampton", 5, "-1"), ("Brighton", 5, "-1"), ("Southend-on-Sea", 5, "-1"), ("Middlesbrough", 4, "-1"), ("Blackpool", 4, "-1"), ("Bournemouth", 4, "-1"), ("Birkenhead", 4, "-1"), ("Stockport", 4, "-1"), 
+                                                                ("Derby", 4, "VARIETY_DERBY"), ("Huddersfield", 4, "-1"), ("Oldham", 4, "-1"), ("Norwich", 4, "VARIETY_NORWICH"), ("Preston", 4, "-1"), ("Gateshead", 4, "-1")],
 'LEADER_ELIZABETH'			: [("London", 10, "VARIETY_LONDON"), ("Norwich", 9, "VARIETY_NORWICH"), ("Bristol", 9, "VARIETY_BRISTOL"), ("Newcastle", 9, "VARIETY_NEWCASTLE"), ("Coventry", 8, "-1"), ("Exeter", 8, "VARIETY_EXETER"), ("Salisbury", 8, "VARIETY_SALISBURY"), 
-								("Ipswich", 7, "VARIETY_IPSWICH"), ("King's Lynn", 7, "VARIETY_LYNN"), ("Canterbury", 7, "VARIETY_CANTERBURY"), ("Reading", 7, "VARIETY_READING"), ("Colchester", 7, "VARIETY_COLCHESTER"), ("Bury St Edmunds", 6, "-1"), 
-								("Lavenham", 6, "-1"), ("York", 6, "VARIETY_YORK"), ("Totnes", 6, "-1"), ("Worcester", 6, "VARIETY_WORCESTER"), ("Gloucester", 6, "VARIETY_GLOUCESTER"), ("Lincoln", 6, "VARIETY_LINCOLN"), ("Hereford", 6, "-1"), 
-								("Great Yarmouth", 5, "VARIETY_YARMOUTH"), ("Kingston upon Hull", 5, "-1"), ("Boston", 5, "-1"), ("Southampton", 5, "VARIETY_SOUTHAMPTON"), ("Hadleigh", 4, "-1"), ("Wisbech", 4, "-1"), ("Shrewsbury", 4, "-1"), 
-								("Oxford", 6, "VARIETY_OXFORD"), ("Leicester", 4, "VARIETY_LEICESTER"), ("Cambridge", 5, "VARIETY_CAMBRIDGE"), ("Ely", 4, "-1"), ("Northampton", 4, "-1"), ("Nottingham", 4, "VARIETY_NOTTINGHAM"), 
-								("Winchester", 4, "VARIETY_WINCHESTER")],
+                                             ("Ipswich", 7, "VARIETY_IPSWICH"), ("King's Lynn", 7, "VARIETY_LYNN"), ("Canterbury", 7, "VARIETY_CANTERBURY"), ("Reading", 7, "VARIETY_READING"), ("Colchester", 7, "VARIETY_COLCHESTER"), ("Bury St Edmunds", 6, "-1"), 
+                                                                ("Lavenham", 6, "-1"), ("York", 6, "VARIETY_YORK"), ("Totnes", 6, "-1"), ("Worcester", 6, "VARIETY_WORCESTER"), ("Gloucester", 6, "VARIETY_GLOUCESTER"), ("Lincoln", 6, "VARIETY_LINCOLN"), ("Hereford", 6, "-1"), 
+                                                                ("Great Yarmouth", 5, "VARIETY_YARMOUTH"), ("Kingston upon Hull", 5, "-1"), ("Boston", 5, "-1"), ("Southampton", 5, "VARIETY_SOUTHAMPTON"), ("Hadleigh", 4, "-1"), ("Wisbech", 4, "-1"), ("Shrewsbury", 4, "-1"), 
+                                                                ("Oxford", 6, "VARIETY_OXFORD"), ("Leicester", 4, "VARIETY_LEICESTER"), ("Cambridge", 5, "VARIETY_CAMBRIDGE"), ("Ely", 4, "-1"), ("Northampton", 4, "-1"), ("Nottingham", 4, "VARIETY_NOTTINGHAM"), 
+                                                                ("Winchester", 4, "VARIETY_WINCHESTER")],
 'LEADER_HENRY_V'			: [("London", 10, "VARIETY_LONDON"), ("York", 9, "VARIETY_YORK"), ("Bristol", 9, "VARIETY_BRISTOL"), ("Coventry", 8, "-1"), ("Norwich", 8, "VARIETY_NORWICH"), ("Lincoln", 8, "VARIETY_LINCOLN"), ("Bishop's Lynn", 8, "VARIETY_LYNN"), 
-								("Colchester", 7, "VARIETY_COLCHESTER"), ("Boston", 7, "-1"), ("Beverley", 7, "-1"), ("Newcastle", 7, "VARIETY_NEWCASTLE"), ("Canterbury", 7, "VARIETY_CANTERBURY"), ("Bury St Edmunds", 6, "-1"), ("Oxford", 6, "VARIETY_OXFORD"), 
-								("Gloucester", 6, "VARIETY_GLOUCESTER"), ("Leicester", 6, "VARIETY_LEICESTER"), ("Shrewsbury", 6, "-1"), ("Great Yarmouth", 5, "VARIETY_YARMOUTH"), ("Hereford", 5, "-1"), ("Cambridge", 5, "VARIETY_CAMBRIDGE"), 
-								("Ely", 5, "-1"), ("Plymouth", 5, "VARIETY_PLYMOUTH"), ("Exeter", 5, "VARIETY_EXETER"), ("Kingston upon Hull", 5, "-1"), ("Worcester", 5, "VARIETY_WORCESTER"), ("Ipswich", 5, "VARIETY_IPSWICH"), ("Northampton", 4, "-1"), 
-								("Nottingham", 4, "VARIETY_NOTTINGHAM"), ("Winchester", 4, "VARIETY_WINCHESTER"), ("Stamford", 3, "-1"), ("Spalding", 3, "-1"), ("Scarborough", 3, "-1"), ("Derby", 3, "VARIETY_DERBY"), ("Southampton", 3, "VARIETY_SOUTHAMPTON"), 
-								("Reading", 3, "VARIETY_READING")],
+                                           ("Colchester", 7, "VARIETY_COLCHESTER"), ("Boston", 7, "-1"), ("Beverley", 7, "-1"), ("Newcastle", 7, "VARIETY_NEWCASTLE"), ("Canterbury", 7, "VARIETY_CANTERBURY"), ("Bury St Edmunds", 6, "-1"), ("Oxford", 6, "VARIETY_OXFORD"), 
+                                                                ("Gloucester", 6, "VARIETY_GLOUCESTER"), ("Leicester", 6, "VARIETY_LEICESTER"), ("Shrewsbury", 6, "-1"), ("Great Yarmouth", 5, "VARIETY_YARMOUTH"), ("Hereford", 5, "-1"), ("Cambridge", 5, "VARIETY_CAMBRIDGE"), 
+                                                                ("Ely", 5, "-1"), ("Plymouth", 5, "VARIETY_PLYMOUTH"), ("Exeter", 5, "VARIETY_EXETER"), ("Kingston upon Hull", 5, "-1"), ("Worcester", 5, "VARIETY_WORCESTER"), ("Ipswich", 5, "VARIETY_IPSWICH"), ("Northampton", 4, "-1"), 
+                                                                ("Nottingham", 4, "VARIETY_NOTTINGHAM"), ("Winchester", 4, "VARIETY_WINCHESTER"), ("Stamford", 3, "-1"), ("Spalding", 3, "-1"), ("Scarborough", 3, "-1"), ("Derby", 3, "VARIETY_DERBY"), ("Southampton", 3, "VARIETY_SOUTHAMPTON"), 
+                                                                ("Reading", 3, "VARIETY_READING")],
 'LEADER_OLIVER_CROMWELL'	: [("London", 10, "VARIETY_LONDON"), ("Norwich", 9, "VARIETY_NORWICH"), ("Bristol", 9, "VARIETY_BRISTOL"), ("Newcastle", 9, "VARIETY_NEWCASTLE"), ("York", 9, "VARIETY_YORK"), ("Exeter", 8, "VARIETY_EXETER"), ("Ipswich", 8, "VARIETY_IPSWICH"), 
-								("Great Yarmouth", 8, "VARIETY_YARMOUTH"), ("Oxford", 8, "VARIETY_OXFORD"), ("Cambridge", 8, "VARIETY_CAMBRIDGE"), ("Canterbury", 8, "VARIETY_CANTERBURY"), ("Worcester", 7, "VARIETY_WORCESTER"), ("Deptford", 7, "-1"), 
-								("Shrewsbury", 7, "-1"), ("Salisbury", 7, "VARIETY_SALISBURY"), ("Colchester", 7, "VARIETY_COLCHESTER"), ("Greenwich", 7, "-1"), ("Kingston upon Hull", 7, "-1"), ("Coventry", 7, "-1"), ("Chester", 7, "VARIETY_CHESTER"), 
-								("Plymouth", 6, "VARIETY_PLYMOUTH"), ("Portsmouth", 6, "VARIETY_PORTSMOUTH"), ("King's Lynn", 6, "VARIETY_LYNN"), ("Rochester", 6, "VARIETY_ROCHESTER"), ("Lincoln", 6, "VARIETY_LINCOLN"), ("Bury St Edmunds", 5, "-1"), 
-								("Dover", 5, "VARIETY_DOVER"), ("Nottingham", 5, "VARIETY_NOTTINGHAM"), ("Gloucester", 5, "VARIETY_GLOUCESTER"), ("Winchester", 5, "VARIETY_WINCHESTER"), ("Lavenham", 4, "-1"), ("Totnes", 4, "-1"), ("Hereford", 4, "-1"), 
-								("Boston", 4, "-1"), ("Southampton", 4, "VARIETY_SOUTHAMPTON"), ("Hadleigh", 4, "-1"), ("Wisbech", 4, "-1"), ("Leicester", 4, "VARIETY_LEICESTER"), ("Northampton", 4, "-1")],
+                                   ("Great Yarmouth", 8, "VARIETY_YARMOUTH"), ("Oxford", 8, "VARIETY_OXFORD"), ("Cambridge", 8, "VARIETY_CAMBRIDGE"), ("Canterbury", 8, "VARIETY_CANTERBURY"), ("Worcester", 7, "VARIETY_WORCESTER"), ("Deptford", 7, "-1"), 
+                                                                ("Shrewsbury", 7, "-1"), ("Salisbury", 7, "VARIETY_SALISBURY"), ("Colchester", 7, "VARIETY_COLCHESTER"), ("Greenwich", 7, "-1"), ("Kingston upon Hull", 7, "-1"), ("Coventry", 7, "-1"), ("Chester", 7, "VARIETY_CHESTER"), 
+                                                                ("Plymouth", 6, "VARIETY_PLYMOUTH"), ("Portsmouth", 6, "VARIETY_PORTSMOUTH"), ("King's Lynn", 6, "VARIETY_LYNN"), ("Rochester", 6, "VARIETY_ROCHESTER"), ("Lincoln", 6, "VARIETY_LINCOLN"), ("Bury St Edmunds", 5, "-1"), 
+                                                                ("Dover", 5, "VARIETY_DOVER"), ("Nottingham", 5, "VARIETY_NOTTINGHAM"), ("Gloucester", 5, "VARIETY_GLOUCESTER"), ("Winchester", 5, "VARIETY_WINCHESTER"), ("Lavenham", 4, "-1"), ("Totnes", 4, "-1"), ("Hereford", 4, "-1"), 
+                                                                ("Boston", 4, "-1"), ("Southampton", 4, "VARIETY_SOUTHAMPTON"), ("Hadleigh", 4, "-1"), ("Wisbech", 4, "-1"), ("Leicester", 4, "VARIETY_LEICESTER"), ("Northampton", 4, "-1")],
 'LEADER_VICTORIA'			: [("London", 10, "VARIETY_LONDON"), ("Manchester", 9, "VARIETY_MANCHESTER"), ("Birmingham", 9, "-1"), ("Liverpool", 9, "VARIETY_LIVERPOOL"), ("Sheffield", 8, "-1"), ("Leeds", 8, "VARIETY_LEEDS"), ("Bristol", 8, "VARIETY_BRISTOL"), 
-								("Bradford", 7, "-1"), ("Plymouth", 7, "VARIETY_PLYMOUTH"), ("Kingston upon Hull", 7, "-1"), ("Nottingham", 7, "VARIETY_NOTTINGHAM"), ("Salford", 7, "-1"), ("Newcastle", 7, "VARIETY_NEWCASTLE"), ("Stoke-on-Trent", 7, "-1"), 
-								("Leicester", 7, "VARIETY_LEICESTER"), ("Portsmouth", 6, "VARIETY_PORTSMOUTH"), ("Bolton", 6, "-1"), ("Sunderland", 6, "-1"), ("Oldham", 6, "-1"), ("Blackburn", 6, "-1"), ("Brighton", 6, "-1"), ("Derby", 5, "VARIETY_DERBY"), 
-								("Preston", 5, "-1"), ("Norwich", 5, "VARIETY_NORWICH"), ("Birkenhead", 5, "-1"), ("Gateshead", 5, "-1"), ("Halifax", 5, "-1"), ("Southampton", 5, "VARIETY_SOUTHAMPTON"), ("South Shields", 5, "VARIETY_SHIELDS"), 
-								("Wolverhampton", 4, "-1"), ("Huddersfield", 4, "-1"), ("Middlesbrough", 4, "-1"), ("Burnley", 4, "-1"), ("Walsall", 4, "-1"), ("Stockport", 4, "-1")],
+                                            ("Bradford", 7, "-1"), ("Plymouth", 7, "VARIETY_PLYMOUTH"), ("Kingston upon Hull", 7, "-1"), ("Nottingham", 7, "VARIETY_NOTTINGHAM"), ("Salford", 7, "-1"), ("Newcastle", 7, "VARIETY_NEWCASTLE"), ("Stoke-on-Trent", 7, "-1"), 
+                                                                ("Leicester", 7, "VARIETY_LEICESTER"), ("Portsmouth", 6, "VARIETY_PORTSMOUTH"), ("Bolton", 6, "-1"), ("Sunderland", 6, "-1"), ("Oldham", 6, "-1"), ("Blackburn", 6, "-1"), ("Brighton", 6, "-1"), ("Derby", 5, "VARIETY_DERBY"), 
+                                                                ("Preston", 5, "-1"), ("Norwich", 5, "VARIETY_NORWICH"), ("Birkenhead", 5, "-1"), ("Gateshead", 5, "-1"), ("Halifax", 5, "-1"), ("Southampton", 5, "VARIETY_SOUTHAMPTON"), ("South Shields", 5, "VARIETY_SHIELDS"), 
+                                                                ("Wolverhampton", 4, "-1"), ("Huddersfield", 4, "-1"), ("Middlesbrough", 4, "-1"), ("Burnley", 4, "-1"), ("Walsall", 4, "-1"), ("Stockport", 4, "-1")],
 # Ethiopia
 'LEADER_HAILE_SELASSIE'		: [("Addis Abeba", 10, "-1"), ("Dire Dawa", 9, "-1"), ("Awasa", 9, "-1"), ("Bahir Dar", 9, "-1"), ("Harar", 9, "-1"), ("Mekele", 9, "-1"), ("Gonder", 8, "-1"), ("Jijiga", 8, "-1"), ("Debre Zeyit", 8, "-1"), 
-								("Nazret", 8, "-1"), ("Asela", 8, "-1"), ("Akaki Beseka", 8, "-1"), ("Jima", 8, "-1"), ("Debre Mark'os", 8, "-1"), ("Dese", 8, "-1"), ("Negele", 7, "-1"), ("Goba", 7, "-1"), ("Asbe Teferi", 7, "-1"), ("Shashemeni", 7, "-1"), 
-								("Yirga 'Alem", 7, "-1"), ("Gore", 7, "-1"), ("Gambela", 7, "-1"), ("Gimbi", 7, "-1"), ("Fiche", 7, "-1"), ("Maych'ew", 7, "-1"), ("Adwa", 7, "-1"), ("Aksum", 7, "-1"), ("Adigrat", 7, "-1"), ("Bati", 7, "-1"), 
-								("Debre Birhan", 7, "-1"), ("Nek'emte", 7, "-1"), ("Asayita", 7, "-1"), ("Gode", 7, "-1")],
+                                          ("Nazret", 8, "-1"), ("Asela", 8, "-1"), ("Akaki Beseka", 8, "-1"), ("Jima", 8, "-1"), ("Debre Mark'os", 8, "-1"), ("Dese", 8, "-1"), ("Negele", 7, "-1"), ("Goba", 7, "-1"), ("Asbe Teferi", 7, "-1"), ("Shashemeni", 7, "-1"), 
+                                                                ("Yirga 'Alem", 7, "-1"), ("Gore", 7, "-1"), ("Gambela", 7, "-1"), ("Gimbi", 7, "-1"), ("Fiche", 7, "-1"), ("Maych'ew", 7, "-1"), ("Adwa", 7, "-1"), ("Aksum", 7, "-1"), ("Adigrat", 7, "-1"), ("Bati", 7, "-1"), 
+                                                                ("Debre Birhan", 7, "-1"), ("Nek'emte", 7, "-1"), ("Asayita", 7, "-1"), ("Gode", 7, "-1")],
 'LEADER_MENELIK_II'			: [("Addis Abeba", 10, "-1"), ("Mekele", 9, "-1"), ("Awasa", 8, "-1"), ("Bahir Dar", 8, "-1"), ("Harar", 9, "-1"), ("Gonder", 9, "-1"), ("Metemma", 8, "-1"), ("Magdala", 8, "VARIETY_MAGDALA"), 
-								("Ankober", 8, "-1"), ("Asela", 8, "-1"), ("Akaki Beseka", 8, "-1"), ("Jima", 8, "-1"), ("Debre Mark'os", 8, "-1"), ("Dese", 8, "-1"), ("Negele", 7, "-1"), ("Goba", 9, "-1"), ("Asbe Teferi", 7, "-1"), ("Shashemeni", 7, "-1"), 
-								("Yirga 'Alem", 7, "-1"), ("Gore", 7, "-1"), ("Gambela", 7, "-1"), ("Gimbi", 7, "-1"), ("Fiche", 7, "-1"), ("Maych'ew", 7, "-1"), ("Adwa", 9, "-1"), ("Aksum", 7, "-1"), ("Adigrat", 7, "-1"), ("Bati", 7, "-1"), 
-								("Debre Birhan", 9, "-1"), ("Nek'emte", 7, "-1"), ("Asayita", 7, "-1"), ("Gode", 7, "-1")],
+                                              ("Ankober", 8, "-1"), ("Asela", 8, "-1"), ("Akaki Beseka", 8, "-1"), ("Jima", 8, "-1"), ("Debre Mark'os", 8, "-1"), ("Dese", 8, "-1"), ("Negele", 7, "-1"), ("Goba", 9, "-1"), ("Asbe Teferi", 7, "-1"), ("Shashemeni", 7, "-1"), 
+                                                                ("Yirga 'Alem", 7, "-1"), ("Gore", 7, "-1"), ("Gambela", 7, "-1"), ("Gimbi", 7, "-1"), ("Fiche", 7, "-1"), ("Maych'ew", 7, "-1"), ("Adwa", 9, "-1"), ("Aksum", 7, "-1"), ("Adigrat", 7, "-1"), ("Bati", 7, "-1"), 
+                                                                ("Debre Birhan", 9, "-1"), ("Nek'emte", 7, "-1"), ("Asayita", 7, "-1"), ("Gode", 7, "-1")],
 'LEADER_MENTEWAB'			: [("Qwara", 9, "-1"), ("Mekele", 9, "-1"), ("Awasa", 8, "-1"), ("Walalah", 9, "-1"), ("Debarwa", 8, "-1"), ("Gonder", 10, "-1"), ("Kubar", 8, "-1"), ("Magdala", 8, "VARIETY_MAGDALA"), 
-								("Gorobela", 8, "-1"), ("Manadeley", 8, "-1"), ("Lalibela", 9, "-1"), ("Hirmata", 8, "-1"), ("Debre Berhan", 8, "-1"), ("Wasal", 8, "-1"), ("Malbarde", 7, "-1"), ("Goba", 9, "-1"), ("Mertule Mariam", 7, "-1"), 
-								("Debre Werq", 7, "-1"), ("Nekemte", 7, "-1"), ("Filakit Gereger", 7, "-1"), ("Mendefera", 7, "-1"), ("Inda Selassie", 7, "-1"), ("Metemma", 7, "-1"), ("Anderaccha", 7, "-1"), ("Adwa", 7, "-1"), ("Aksum", 7, "-1"), 
-								("Adigrat", 7, "-1"), ("Bati", 7, "-1"), ("Debre Libanos", 7, "-1"), ("Nek'emte", 7, "-1"), ("Gunda Gunde", 7, "-1"), ("Debre Abbay", 7, "-1")],
+                                            ("Gorobela", 8, "-1"), ("Manadeley", 8, "-1"), ("Lalibela", 9, "-1"), ("Hirmata", 8, "-1"), ("Debre Berhan", 8, "-1"), ("Wasal", 8, "-1"), ("Malbarde", 7, "-1"), ("Goba", 9, "-1"), ("Mertule Mariam", 7, "-1"), 
+                                                                ("Debre Werq", 7, "-1"), ("Nekemte", 7, "-1"), ("Filakit Gereger", 7, "-1"), ("Mendefera", 7, "-1"), ("Inda Selassie", 7, "-1"), ("Metemma", 7, "-1"), ("Anderaccha", 7, "-1"), ("Adwa", 7, "-1"), ("Aksum", 7, "-1"), 
+                                                                ("Adigrat", 7, "-1"), ("Bati", 7, "-1"), ("Debre Libanos", 7, "-1"), ("Nek'emte", 7, "-1"), ("Gunda Gunde", 7, "-1"), ("Debre Abbay", 7, "-1")],
 'LEADER_TEWODROS_II'		: [("Qwara", 9, "-1"), ("Mekele", 9, "-1"), ("Awasa", 8, "-1"), ("Bahir Dar", 8, "-1"), ("Harar", 9, "-1"), ("Gonder", 9, "-1"), ("Metemma", 8, "-1"), ("Magdala", 10, "VARIETY_MAGDALA"), 
-								("Ankober", 8, "-1"), ("Asela", 8, "-1"), ("Akaki Beseka", 8, "-1"), ("Jima", 8, "-1"), ("Debre Mark'os", 8, "-1"), ("Dese", 8, "-1"), ("Negele", 7, "-1"), ("Goba", 9, "-1"), ("Asbe Teferi", 7, "-1"), ("Shashemeni", 7, "-1"), 
-								("Yirga 'Alem", 7, "-1"), ("Gore", 7, "-1"), ("Gambela", 7, "-1"), ("Gimbi", 7, "-1"), ("Fiche", 7, "-1"), ("Maych'ew", 7, "-1"), ("Adwa", 9, "-1"), ("Aksum", 7, "-1"), ("Adigrat", 7, "-1"), ("Bati", 7, "-1"), 
-								("Debre Birhan", 9, "-1"), ("Nek'emte", 7, "-1"), ("Asayita", 7, "-1"), ("Gode", 7, "-1")],
+                                       ("Ankober", 8, "-1"), ("Asela", 8, "-1"), ("Akaki Beseka", 8, "-1"), ("Jima", 8, "-1"), ("Debre Mark'os", 8, "-1"), ("Dese", 8, "-1"), ("Negele", 7, "-1"), ("Goba", 9, "-1"), ("Asbe Teferi", 7, "-1"), ("Shashemeni", 7, "-1"), 
+                                                                ("Yirga 'Alem", 7, "-1"), ("Gore", 7, "-1"), ("Gambela", 7, "-1"), ("Gimbi", 7, "-1"), ("Fiche", 7, "-1"), ("Maych'ew", 7, "-1"), ("Adwa", 9, "-1"), ("Aksum", 7, "-1"), ("Adigrat", 7, "-1"), ("Bati", 7, "-1"), 
+                                                                ("Debre Birhan", 9, "-1"), ("Nek'emte", 7, "-1"), ("Asayita", 7, "-1"), ("Gode", 7, "-1")],
 'LEADER_ZARA_YAQOB'			: [("Qwara", 9, "-1"), ("Mekele", 9, "-1"), ("Awasa", 8, "-1"), ("Walalah", 9, "-1"), ("Debarwa", 8, "-1"), ("Gonder", 9, "-1"), ("Kubar", 8, "-1"), ("Magdala", 8, "VARIETY_MAGDALA"), 
-								("Gorobela", 8, "-1"), ("Manadeley", 8, "-1"), ("Lalibela", 9, "-1"), ("Hirmata", 8, "-1"), ("Debre Berhan", 10, "-1"), ("Wasal", 8, "-1"), ("Malbarde", 7, "-1"), ("Goba", 9, "-1"), ("Mertule Mariam", 7, "-1"), 
-								("Debre Werq", 7, "-1"), ("Nekemte", 7, "-1"), ("Filakit Gereger", 7, "-1"), ("Mendefera", 7, "-1"), ("Inda Selassie", 7, "-1"), ("Metemma", 7, "-1"), ("Anderaccha", 7, "-1"), ("Adwa", 7, "-1"), ("Aksum", 7, "-1"), 
-								("Adigrat", 7, "-1"), ("Bati", 7, "-1"), ("Debre Libanos", 7, "-1"), ("Nek'emte", 7, "-1"), ("Gunda Gunde", 7, "-1"), ("Debre Abbay", 7, "-1")],
+                                              ("Gorobela", 8, "-1"), ("Manadeley", 8, "-1"), ("Lalibela", 9, "-1"), ("Hirmata", 8, "-1"), ("Debre Berhan", 10, "-1"), ("Wasal", 8, "-1"), ("Malbarde", 7, "-1"), ("Goba", 9, "-1"), ("Mertule Mariam", 7, "-1"), 
+                                                                ("Debre Werq", 7, "-1"), ("Nekemte", 7, "-1"), ("Filakit Gereger", 7, "-1"), ("Mendefera", 7, "-1"), ("Inda Selassie", 7, "-1"), ("Metemma", 7, "-1"), ("Anderaccha", 7, "-1"), ("Adwa", 7, "-1"), ("Aksum", 7, "-1"), 
+                                                                ("Adigrat", 7, "-1"), ("Bati", 7, "-1"), ("Debre Libanos", 7, "-1"), ("Nek'emte", 7, "-1"), ("Gunda Gunde", 7, "-1"), ("Debre Abbay", 7, "-1")],
 # France
 'LEADER_DE_GAULLE'			: [("Paris", 10, "VARIETY_PARIS"), ("Lyons", 9, "VARIETY_BURGUNDIAN"), ("Marseille", 9, "VARIETY_MARSEILLE"), ("Toulouse", 8, "VARIETY_VISIGOTH"), ("Nice", 8, "VARIETY_NICE"), ("Bordeaux", 7, "VARIETY_BORDEAUX"), 
-								("Nantes", 7, "VARIETY_NANTES"), ("Strasbourg", 7, "VARIETY_ALEMANNI"), ("Saint-Etienne", 7, "VARIETY_ETIENNE"), ("Le Havre", 7, "-1"), ("Lille", 6, "-1"), ("Rennes", 6, "VARIETY_RENNES"), ("Toulon", 6, "VARIETY_TOULON"), 
-								("Montpellier", 6, "-1"), ("Grenoble", 6, "VARIETY_GRENOBLE"), ("Brest", 6, "-1"), ("Reims", 6, "VARIETY_REIMS"), ("Clermont", 6, "VARIETY_CLERMONT"), ("Dijon", 6, "VARIETY_DIJON"), ("Le Mans", 5, "VARIETY_LEMANS"), 
-								("Limoges", 5, "VARIETY_LIMOGES"), ("Angers", 5, "VARIETY_ANGERS"), ("Tours", 5, "VARIETY_TOURS"), ("Nimes", 5, "VARIETY_NIMES"), ("Nancy", 5, "VARIETY_NANCY"), ("Rouen", 5, "VARIETY_ROUEN"), ("Amiens", 5, "VARIETY_AMIENS"), 
-								("Villeurbanne", 5, "VARIETY_VILLEURBANE"), ("Mulhouse", 4, "VARIETY_MULHOUSE"), ("Roubaix", 4, "-1"), ("Caen", 4, "-1"), ("Metz", 4, "VARIETY_METZ"), ("Besancon", 4, "VARIETY_BESANCON"), ("Boulogne-sur-Seine", 4, "-1"), 
-								("Perpignan", 4, "-1"), ("Orleans", 4, "VARIETY_ORLEANS"), ("Tourcoing", 4, "-1")],
+                                             ("Nantes", 7, "VARIETY_NANTES"), ("Strasbourg", 7, "VARIETY_ALEMANNI"), ("Saint-Etienne", 7, "VARIETY_ETIENNE"), ("Le Havre", 7, "-1"), ("Lille", 6, "-1"), ("Rennes", 6, "VARIETY_RENNES"), ("Toulon", 6, "VARIETY_TOULON"), 
+                                                                ("Montpellier", 6, "-1"), ("Grenoble", 6, "VARIETY_GRENOBLE"), ("Brest", 6, "-1"), ("Reims", 6, "VARIETY_REIMS"), ("Clermont", 6, "VARIETY_CLERMONT"), ("Dijon", 6, "VARIETY_DIJON"), ("Le Mans", 5, "VARIETY_LEMANS"), 
+                                                                ("Limoges", 5, "VARIETY_LIMOGES"), ("Angers", 5, "VARIETY_ANGERS"), ("Tours", 5, "VARIETY_TOURS"), ("Nimes", 5, "VARIETY_NIMES"), ("Nancy", 5, "VARIETY_NANCY"), ("Rouen", 5, "VARIETY_ROUEN"), ("Amiens", 5, "VARIETY_AMIENS"), 
+                                                                ("Villeurbanne", 5, "VARIETY_VILLEURBANE"), ("Mulhouse", 4, "VARIETY_MULHOUSE"), ("Roubaix", 4, "-1"), ("Caen", 4, "-1"), ("Metz", 4, "VARIETY_METZ"), ("Besancon", 4, "VARIETY_BESANCON"), ("Boulogne-sur-Seine", 4, "-1"), 
+                                                                ("Perpignan", 4, "-1"), ("Orleans", 4, "VARIETY_ORLEANS"), ("Tourcoing", 4, "-1")],
 'LEADER_HENRI'				: [("Paris", 10, "VARIETY_PARIS"), ("Marseille", 9, "VARIETY_MARSEILLE"), ("Lyons", 9, "VARIETY_BURGUNDIAN"), ("Rouen", 9, "VARIETY_ROUEN"), ("Arles", 7, "VARIETY_ARLES"), ("Bordeaux", 8, "VARIETY_BORDEAUX"), 
-								("Metz", 7, "VARIETY_METZ"), ("Montpellier", 7, "-1"), ("Narbonne", 7, "VARIETY_NARBONNE"), ("Nimes", 7, "VARIETY_NIMES"), ("Aix-en-Provence", 7, "VARIETY_AIX"), ("Amiens", 7, "VARIETY_AMIENS"), ("Bourges", 7, "VARIETY_BOURGES"), 
-								("Caen", 7, "-1"), ("Dijon", 7, "VARIETY_DIJON"), ("Grenoble", 7, "VARIETY_GRENOBLE"), ("Riom", 7, "VARIETY_RIOM"), ("Poitiers", 7, "VARIETY_POITIERS"), ("Toulouse", 7, "VARIETY_VISIGOTH"), ("Nantes", 7, "VARIETY_NANTES"), 
-								("Limoges", 8, "VARIETY_LIMOGES"), ("Orleans", 8, "VARIETY_ORLEANS"), ("Moulins", 8, "-1"), ("Soissons", 8, "VARIETY_SOISSONS"), ("Montauban", 6, "-1"), ("Alencon", 6, "-1"), ("Rennes", 6, "VARIETY_RENNES"), 
-								("Pau", 5, "-1"), ("La Rochelle", 5, "VARIETY_ROCHELLE"), ("Nevers", 5, "VARIETY_NEVERS"), ("Tours", 5, "VARIETY_TOURS"), ("Troyes", 5, "VARIETY_TROYES"), ("Angers", 5, "VARIETY_ANGERS")],
+                                                 ("Metz", 7, "VARIETY_METZ"), ("Montpellier", 7, "-1"), ("Narbonne", 7, "VARIETY_NARBONNE"), ("Nimes", 7, "VARIETY_NIMES"), ("Aix-en-Provence", 7, "VARIETY_AIX"), ("Amiens", 7, "VARIETY_AMIENS"), ("Bourges", 7, "VARIETY_BOURGES"), 
+                                                                ("Caen", 7, "-1"), ("Dijon", 7, "VARIETY_DIJON"), ("Grenoble", 7, "VARIETY_GRENOBLE"), ("Riom", 7, "VARIETY_RIOM"), ("Poitiers", 7, "VARIETY_POITIERS"), ("Toulouse", 7, "VARIETY_VISIGOTH"), ("Nantes", 7, "VARIETY_NANTES"), 
+                                                                ("Limoges", 8, "VARIETY_LIMOGES"), ("Orleans", 8, "VARIETY_ORLEANS"), ("Moulins", 8, "-1"), ("Soissons", 8, "VARIETY_SOISSONS"), ("Montauban", 6, "-1"), ("Alencon", 6, "-1"), ("Rennes", 6, "VARIETY_RENNES"), 
+                                                                ("Pau", 5, "-1"), ("La Rochelle", 5, "VARIETY_ROCHELLE"), ("Nevers", 5, "VARIETY_NEVERS"), ("Tours", 5, "VARIETY_TOURS"), ("Troyes", 5, "VARIETY_TROYES"), ("Angers", 5, "VARIETY_ANGERS")],
 'LEADER_LOUIS_IX_THE_SAINT'	: [("Paris", 10, "VARIETY_PARIS"), ("Orleans", 9, "VARIETY_ORLEANS"), ("Bourges", 8, "VARIETY_BOURGES"), ("Tours", 8, "VARIETY_TOURS"), ("Rouen", 8, "VARIETY_ROUEN"), ("Narbonne", 4, "VARIETY_NARBONNE"), 
-								("Nimes", 4, "VARIETY_NIMES"), ("Mende", 4, "-1"), ("Evreux", 4, "VARIETY_EVREUX"), ("Bayeux", 4, "VARIETY_BAYEUX"), ("Reims", 7, "VARIETY_REIMS"), ("Toulouse", 6, "VARIETY_VISIGOTH"), ("Cahors", 3, "VARIETY_CAHORS"), 
-								("Albi", 3, "VARIETY_ALBI"), ("Poitiers", 3, "VARIETY_POITIERS"), ("Clermont", 3, "VARIETY_CLERMONT"), ("Agen", 3, "VARIETY_AGEN"), ("Angers", 6, "VARIETY_ANGERS"), ("Le Mans", 3, "VARIETY_LEMANS"), ("Arles", 3, "VARIETY_ARLES"), 
-								("Marseille", 3, "VARIETY_MARSEILLE"), ("Nevers", 6, "VARIETY_NEVERS"), ("Senlis", 3, "VARIETY_SENLIS"), ("Alencon", 6, "-1"), ("Limoges", 3, "VARIETY_LIMOGES"), ("Caen", 5, "-1"), ("Blois", 5, "VARIETY_BLOIS"), 
-								("Chartres", 5, "VARIETY_CHARTRES"), ("Saintes", 2, "VARIETY_SAINTES"), ("Chinon", 2, "-1"), ("Dijon", 2, "VARIETY_DIJON"), ("Carcassonne", 2, "VARIETY_CARCASSONNE"), ("Angouleme", 2, "VARIETY_ANGOULEME")],
+                                      ("Nimes", 4, "VARIETY_NIMES"), ("Mende", 4, "-1"), ("Evreux", 4, "VARIETY_EVREUX"), ("Bayeux", 4, "VARIETY_BAYEUX"), ("Reims", 7, "VARIETY_REIMS"), ("Toulouse", 6, "VARIETY_VISIGOTH"), ("Cahors", 3, "VARIETY_CAHORS"), 
+                                                                ("Albi", 3, "VARIETY_ALBI"), ("Poitiers", 3, "VARIETY_POITIERS"), ("Clermont", 3, "VARIETY_CLERMONT"), ("Agen", 3, "VARIETY_AGEN"), ("Angers", 6, "VARIETY_ANGERS"), ("Le Mans", 3, "VARIETY_LEMANS"), ("Arles", 3, "VARIETY_ARLES"), 
+                                                                ("Marseille", 3, "VARIETY_MARSEILLE"), ("Nevers", 6, "VARIETY_NEVERS"), ("Senlis", 3, "VARIETY_SENLIS"), ("Alencon", 6, "-1"), ("Limoges", 3, "VARIETY_LIMOGES"), ("Caen", 5, "-1"), ("Blois", 5, "VARIETY_BLOIS"), 
+                                                                ("Chartres", 5, "VARIETY_CHARTRES"), ("Saintes", 2, "VARIETY_SAINTES"), ("Chinon", 2, "-1"), ("Dijon", 2, "VARIETY_DIJON"), ("Carcassonne", 2, "VARIETY_CARCASSONNE"), ("Angouleme", 2, "VARIETY_ANGOULEME")],
 'LEADER_LOUIS_XIV'			: [("Paris", 10, "VARIETY_PARIS"), ("Marseille", 9, "VARIETY_MARSEILLE"), ("Lyons", 9, "VARIETY_BURGUNDIAN"), ("Rouen", 9, "VARIETY_ROUEN"), ("Arles", 7, "VARIETY_ARLES"), ("Bordeaux", 8, "VARIETY_BORDEAUX"), 
-								("Metz", 7, "VARIETY_METZ"), ("Montpellier", 7, "-1"), ("Narbonne", 7, "VARIETY_NARBONNE"), ("Nimes", 7, "VARIETY_NIMES"), ("Aix-en-Provence", 7, "VARIETY_AIX"), ("Amiens", 7, "VARIETY_AMIENS"), ("Bourges", 7, "VARIETY_BOURGES"), 
-								("Caen", 7, "-1"), ("Dijon", 7, "VARIETY_DIJON"), ("Grenoble", 7, "VARIETY_GRENOBLE"), ("Riom", 7, "VARIETY_RIOM"), ("Poitiers", 7, "VARIETY_POITIERS"), ("Toulouse", 7, "VARIETY_VISIGOTH"), ("Nantes", 7, "VARIETY_NANTES"), 
-								("Limoges", 8, "VARIETY_LIMOGES"), ("Orleans", 8, "VARIETY_ORLEANS"), ("Moulins", 8, "-1"), ("Soissons", 8, "VARIETY_SOISSONS"), ("Montauban", 6, "-1"), ("Alencon", 6, "-1"), ("Besancon", 6, "VARIETY_BESANCON"), 
-								("Valenciennes", 7, "VARIETY_VALENCIENNES"), ("La Rochelle", 7, "VARIETY_ROCHELLE"), ("Strasbourg", 7, "VARIETY_ALEMANNI"), ("Lille", 7, "-1"), ("Roussillon", 7, "-1"), ("Arras", 7, "VARIETY_ARRAS")],
+                                             ("Metz", 7, "VARIETY_METZ"), ("Montpellier", 7, "-1"), ("Narbonne", 7, "VARIETY_NARBONNE"), ("Nimes", 7, "VARIETY_NIMES"), ("Aix-en-Provence", 7, "VARIETY_AIX"), ("Amiens", 7, "VARIETY_AMIENS"), ("Bourges", 7, "VARIETY_BOURGES"), 
+                                                                ("Caen", 7, "-1"), ("Dijon", 7, "VARIETY_DIJON"), ("Grenoble", 7, "VARIETY_GRENOBLE"), ("Riom", 7, "VARIETY_RIOM"), ("Poitiers", 7, "VARIETY_POITIERS"), ("Toulouse", 7, "VARIETY_VISIGOTH"), ("Nantes", 7, "VARIETY_NANTES"), 
+                                                                ("Limoges", 8, "VARIETY_LIMOGES"), ("Orleans", 8, "VARIETY_ORLEANS"), ("Moulins", 8, "-1"), ("Soissons", 8, "VARIETY_SOISSONS"), ("Montauban", 6, "-1"), ("Alencon", 6, "-1"), ("Besancon", 6, "VARIETY_BESANCON"), 
+                                                                ("Valenciennes", 7, "VARIETY_VALENCIENNES"), ("La Rochelle", 7, "VARIETY_ROCHELLE"), ("Strasbourg", 7, "VARIETY_ALEMANNI"), ("Lille", 7, "-1"), ("Roussillon", 7, "-1"), ("Arras", 7, "VARIETY_ARRAS")],
 'LEADER_PHILIP_II_AUGUSTUS'	: [("Paris", 10, "VARIETY_PARIS"), ("Orleans", 9, "VARIETY_ORLEANS"), ("Rouen", 8, "VARIETY_ROUEN"), ("Angers", 8, "VARIETY_ANGERS"), ("Toulouse", 8, "VARIETY_VISIGOTH"), ("Dijon", 8, "VARIETY_DIJON"),
-								("Bourges", 8, "VARIETY_BOURGES"), ("Chartres", 7, "VARIETY_CHARTRES"), ("Tours", 7, "VARIETY_TOURS"), ("Amiens", 7, "VARIETY_AMIENS"), ("Reims", 7, "VARIETY_REIMS"), ("Clermont", 6, "VARIETY_CLERMONT"), 
-								("Rennes", 6, "VARIETY_RENNES"), ("Boulogne", 6, "VARIETY_BOULOGNE"), ("Poitiers", 5, "VARIETY_POITIERS"), ("Nantes", 5, "VARIETY_NANTES"), ("Brest", 5, "-1"), ("Carcassonne", 5, "VARIETY_CARCASSONNE"), ("La Rochelle", 5, "VARIETY_ROCHELLE"), 
-								("Caen", 5, "-1"), ("Narbonne", 4, "VARIETY_NARBONNE"), ("Nimes", 4, "VARIETY_NIMES"), ("Calais", 4, "VARIETY_CALAIS"), ("Cherbourg", 4, "VARIETY_CHERBOURG"), ("Nevers", 3, "VARIETY_NEVERS"), ("Montpellier", 3, "-1"), 
-								("Mantes", 2, "-1"), ("Montségur", 2, "-1"), ("Foix", 2, "-1"), ("Agen", 2, "VARIETY_AGEN"), ("Arras", 2, "VARIETY_ARRAS"), ("Troyes", 2, "VARIETY_TROYES"), ("Le Puy", 2, "VARIETY_LEPUY"), ("Evreux", 2, "VARIETY_EVREUX"), 
-								("Langres", 2, "VARIETY_LANGRES"), ("Cahors", 2, "VARIETY_CAHORS")],
+                                      ("Bourges", 8, "VARIETY_BOURGES"), ("Chartres", 7, "VARIETY_CHARTRES"), ("Tours", 7, "VARIETY_TOURS"), ("Amiens", 7, "VARIETY_AMIENS"), ("Reims", 7, "VARIETY_REIMS"), ("Clermont", 6, "VARIETY_CLERMONT"), 
+                                                                ("Rennes", 6, "VARIETY_RENNES"), ("Boulogne", 6, "VARIETY_BOULOGNE"), ("Poitiers", 5, "VARIETY_POITIERS"), ("Nantes", 5, "VARIETY_NANTES"), ("Brest", 5, "-1"), ("Carcassonne", 5, "VARIETY_CARCASSONNE"), ("La Rochelle", 5, "VARIETY_ROCHELLE"), 
+                                                                ("Caen", 5, "-1"), ("Narbonne", 4, "VARIETY_NARBONNE"), ("Nimes", 4, "VARIETY_NIMES"), ("Calais", 4, "VARIETY_CALAIS"), ("Cherbourg", 4, "VARIETY_CHERBOURG"), ("Nevers", 3, "VARIETY_NEVERS"), ("Montpellier", 3, "-1"), 
+                                                                ("Mantes", 2, "-1"), ("Montségur", 2, "-1"), ("Foix", 2, "-1"), ("Agen", 2, "VARIETY_AGEN"), ("Arras", 2, "VARIETY_ARRAS"), ("Troyes", 2, "VARIETY_TROYES"), ("Le Puy", 2, "VARIETY_LEPUY"), ("Evreux", 2, "VARIETY_EVREUX"), 
+                                                                ("Langres", 2, "VARIETY_LANGRES"), ("Cahors", 2, "VARIETY_CAHORS")],
 'LEADER_NAPOLEON'			: [("Paris", 10, "VARIETY_PARIS"), ("Lyons", 9, "VARIETY_BURGUNDIAN"), ("Marseille", 9, "VARIETY_MARSEILLE"), ("Bordeaux", 9, "VARIETY_BORDEAUX"), ("Rouen", 8, "VARIETY_ROUEN"), ("Nantes", 8, "VARIETY_NANTES"), ("Lille", 8, "-1"), 
-								("Toulouse", 8, "VARIETY_VISIGOTH"), ("Strasbourg", 8, "VARIETY_ALEMANNI"), ("Orleans", 7, "VARIETY_ORLEANS"), ("Metz", 7, "VARIETY_METZ"), ("Amiens", 7, "VARIETY_AMIENS"), ("Nimes", 7, "VARIETY_NIMES"), ("Caen", 7, "-1"), 
-								("Montpellier", 7, "-1"), ("Angers", 7, "VARIETY_ANGERS"), ("Reims", 7, "VARIETY_REIMS"), ("Clermont", 7, "VARIETY_CLERMONT"), ("Toulon", 7, "VARIETY_TOULON"), ("Nancy", 7, "VARIETY_NANCY"), ("Rennes", 7, "VARIETY_RENNES"), 
-								("Besancon", 6, "VARIETY_BESANCON"), ("Avignon", 6, "VARIETY_AVIGNON"), ("Troyes", 6, "VARIETY_TROYES"), ("Beziers", 6, "VARIETY_BEZIERS"), ("Armeville", 6, "VARIETY_ETIENNE"), ("Brest", 6, "-1"), ("Montauban", 6, "-1"), 
-								("Dunkerque", 6, "VARIETY_DUNKIRK"), ("Limoges", 6, "VARIETY_LIMOGES"), ("Tours", 6, "VARIETY_TOURS"), ("Poitiers", 6, "VARIETY_POITIERS"), ("Grenoble", 6, "VARIETY_GRENOBLE"), ("Arles", 6, "VARIETY_ARLES"), 
-								("Belfort", 6, "-1"), ("Dijon", 6, "VARIETY_DIJON")],
+                                            ("Toulouse", 8, "VARIETY_VISIGOTH"), ("Strasbourg", 8, "VARIETY_ALEMANNI"), ("Orleans", 7, "VARIETY_ORLEANS"), ("Metz", 7, "VARIETY_METZ"), ("Amiens", 7, "VARIETY_AMIENS"), ("Nimes", 7, "VARIETY_NIMES"), ("Caen", 7, "-1"), 
+                                                                ("Montpellier", 7, "-1"), ("Angers", 7, "VARIETY_ANGERS"), ("Reims", 7, "VARIETY_REIMS"), ("Clermont", 7, "VARIETY_CLERMONT"), ("Toulon", 7, "VARIETY_TOULON"), ("Nancy", 7, "VARIETY_NANCY"), ("Rennes", 7, "VARIETY_RENNES"), 
+                                                                ("Besancon", 6, "VARIETY_BESANCON"), ("Avignon", 6, "VARIETY_AVIGNON"), ("Troyes", 6, "VARIETY_TROYES"), ("Beziers", 6, "VARIETY_BEZIERS"), ("Armeville", 6, "VARIETY_ETIENNE"), ("Brest", 6, "-1"), ("Montauban", 6, "-1"), 
+                                                                ("Dunkerque", 6, "VARIETY_DUNKIRK"), ("Limoges", 6, "VARIETY_LIMOGES"), ("Tours", 6, "VARIETY_TOURS"), ("Poitiers", 6, "VARIETY_POITIERS"), ("Grenoble", 6, "VARIETY_GRENOBLE"), ("Arles", 6, "VARIETY_ARLES"), 
+                                                                ("Belfort", 6, "-1"), ("Dijon", 6, "VARIETY_DIJON")],
 'LEADER_NAPOLEON_III'		: [("Paris", 10, "VARIETY_PARIS"), ("Lyons", 9, "VARIETY_BURGUNDIAN"), ("Marseille", 9, "VARIETY_MARSEILLE"), ("Bordeaux", 8, "VARIETY_BORDEAUX"), ("Lille", 8, "-1"), ("Toulouse", 7, "VARIETY_VISIGOTH"), ("Rouen", 7, "VARIETY_ROUEN"), 
-								("Nantes", 7, "VARIETY_NANTES"), ("Saint-Etienne", 6, "VARIETY_ETIENNE"), ("Strasbourg", 6, "VARIETY_ALEMANNI"), ("Brest", 6, "-1"), ("Toulon", 6, "VARIETY_TOULON"), ("Le Havre", 6, "-1"), ("Roubaix", 5, "-1"), 
-								("Amiens", 5, "VARIETY_AMIENS"), ("Reims", 5, "VARIETY_REIMS"), ("Nimes", 5, "VARIETY_NIMES"), ("Mulhouse", 5, "VARIETY_MULHOUSE"), ("Montpellier", 6, "-1"), ("Angers", 5, "VARIETY_ANGERS"), ("Metz", 5, "VARIETY_METZ"), 
-								("Limoges", 5, "VARIETY_LIMOGES"), ("Nice", 5, "VARIETY_NICE"), ("Nancy", 5, "VARIETY_NANCY"), ("Rennes", 4, "VARIETY_RENNES"), ("Orleans", 4, "VARIETY_ORLEANS"), ("Besancon", 4, "VARIETY_BESANCON"), 
-								("Le Mans", 4, "VARIETY_LEMANS"), ("Tours", 4, "VARIETY_TOURS"), ("Caen", 4, "-1"), ("Grenoble", 4, "VARIETY_GRENOBLE"), ("Boulogne", 4, "VARIETY_BOULOGNE"), ("Dijon", 3, "VARIETY_DIJON"), ("Tourcoing", 3, "-1"), 
-								("Clermont", 3, "VARIETY_CLERMONT"), ("Lorient", 3, "-1"), ("Cherbourg", 3, "VARIETY_CHERBOURG"), ("Sedan", 3, "-1")],
+                                        ("Nantes", 7, "VARIETY_NANTES"), ("Saint-Etienne", 6, "VARIETY_ETIENNE"), ("Strasbourg", 6, "VARIETY_ALEMANNI"), ("Brest", 6, "-1"), ("Toulon", 6, "VARIETY_TOULON"), ("Le Havre", 6, "-1"), ("Roubaix", 5, "-1"), 
+                                                                ("Amiens", 5, "VARIETY_AMIENS"), ("Reims", 5, "VARIETY_REIMS"), ("Nimes", 5, "VARIETY_NIMES"), ("Mulhouse", 5, "VARIETY_MULHOUSE"), ("Montpellier", 6, "-1"), ("Angers", 5, "VARIETY_ANGERS"), ("Metz", 5, "VARIETY_METZ"), 
+                                                                ("Limoges", 5, "VARIETY_LIMOGES"), ("Nice", 5, "VARIETY_NICE"), ("Nancy", 5, "VARIETY_NANCY"), ("Rennes", 4, "VARIETY_RENNES"), ("Orleans", 4, "VARIETY_ORLEANS"), ("Besancon", 4, "VARIETY_BESANCON"), 
+                                                                ("Le Mans", 4, "VARIETY_LEMANS"), ("Tours", 4, "VARIETY_TOURS"), ("Caen", 4, "-1"), ("Grenoble", 4, "VARIETY_GRENOBLE"), ("Boulogne", 4, "VARIETY_BOULOGNE"), ("Dijon", 3, "VARIETY_DIJON"), ("Tourcoing", 3, "-1"), 
+                                                                ("Clermont", 3, "VARIETY_CLERMONT"), ("Lorient", 3, "-1"), ("Cherbourg", 3, "VARIETY_CHERBOURG"), ("Sedan", 3, "-1")],
 # Germany
 'LEADER_KONRAD_ADENAUER'	: [("Bonn", 10, "VARIETY_BONN"), ("Hamburg", 9, "VARIETY_HAMBURG"), ("Munchen", 8, "VARIETY_MUNICH"), ("Koln", 8, "VARIETY_COLOGNE"), ("Essen", 7, "VARIETY_ESSEN"), ("Frankfurt", 7, "VARIETY_FRANKFURT"), 
-								("Dusseldorf", 7, "VARIETY_DUSSELDORF"), ("Dortmund", 7, "VARIETY_DORTMUND"), ("Stuttgart", 7, "VARIETY_STUTTGART"), ("Duisburg", 7, "VARIETY_DUISBURG"), ("Bremen", 7, "VARIETY_BREMEN"), ("Hannover", 7, "VARIETY_HANNOVER"), 
-								("Nurnberg", 7, "VARIETY_NURNBERG"), ("Bochum", 6, "-1"), ("Wuppertal", 6, "-1"), ("Gelsenkirchen", 6, "-1"), ("Mannheim", 6, "VARIETY_MANNHEIM"), ("Bielefeld", 6, "VARIETY_BIELEFELD"), ("Karlsruhe", 6, "VARIETY_KARLSRUHE"), 
-								("Kiel", 6, "VARIETY_KIEL"), ("Braunschweig", 6, "VARIETY_BRUNSWICK"), ("Monchengladbach", 6, "-1"), ("Wiesbaden", 6, "VARIETY_WIESBADEN"), ("Augsburg", 6, "VARIETY_AUGSBURG"), ("Munster", 6, "VARIETY_MUNSTER"), 
-								("Oberhausen", 5, "-1"), ("Lubeck", 5, "VARIETY_VANDAL"), ("Hagen", 5, "-1"), ("Krefeld", 5, "VARIETY_KREFELD"), ("Aachen", 5, "VARIETY_AACHEN"), ("Kassel", 5, "VARIETY_KASSEL"), ("Saarbrucken", 5, "VARIETY_SAARBRUCKEN"), 
-								("Herne", 5, "-1"), ("Mulheim", 4, "-1"), ("Solingen", 4, "-1"), ("Ludwigshafen", 4, "-1")],
+                                   ("Dusseldorf", 7, "VARIETY_DUSSELDORF"), ("Dortmund", 7, "VARIETY_DORTMUND"), ("Stuttgart", 7, "VARIETY_STUTTGART"), ("Duisburg", 7, "VARIETY_DUISBURG"), ("Bremen", 7, "VARIETY_BREMEN"), ("Hannover", 7, "VARIETY_HANNOVER"), 
+                                                                ("Nurnberg", 7, "VARIETY_NURNBERG"), ("Bochum", 6, "-1"), ("Wuppertal", 6, "-1"), ("Gelsenkirchen", 6, "-1"), ("Mannheim", 6, "VARIETY_MANNHEIM"), ("Bielefeld", 6, "VARIETY_BIELEFELD"), ("Karlsruhe", 6, "VARIETY_KARLSRUHE"), 
+                                                                ("Kiel", 6, "VARIETY_KIEL"), ("Braunschweig", 6, "VARIETY_BRUNSWICK"), ("Monchengladbach", 6, "-1"), ("Wiesbaden", 6, "VARIETY_WIESBADEN"), ("Augsburg", 6, "VARIETY_AUGSBURG"), ("Munster", 6, "VARIETY_MUNSTER"), 
+                                                                ("Oberhausen", 5, "-1"), ("Lubeck", 5, "VARIETY_VANDAL"), ("Hagen", 5, "-1"), ("Krefeld", 5, "VARIETY_KREFELD"), ("Aachen", 5, "VARIETY_AACHEN"), ("Kassel", 5, "VARIETY_KASSEL"), ("Saarbrucken", 5, "VARIETY_SAARBRUCKEN"), 
+                                                                ("Herne", 5, "-1"), ("Mulheim", 4, "-1"), ("Solingen", 4, "-1"), ("Ludwigshafen", 4, "-1")],
 'LEADER_ADOLF_HITLER'		: [("Berlin", 10, "VARIETY_BERLIN"), ("Wien", 9, "VARIETY_WIEN"), ("Hamburg", 9, "VARIETY_HAMBURG"), ("Munchen", 8, "VARIETY_MUNICH"), ("Koln", 8, "VARIETY_COLOGNE"), ("Leipzig", 8, "VARIETY_LEIPZIG"), ("Essen", 7, "VARIETY_ESSEN"), 
-								("Dresden", 7, "VARIETY_DRESDEN"), ("Breslau", 7, "VARIETY_WROCLAW"), ("Frankfurt", 7, "VARIETY_FRANKFURT"), ("Dortmund", 7, "VARIETY_DORTMUND"), ("Dusseldorf", 7, "VARIETY_DUSSELDORF"), ("Hannover", 6, "VARIETY_HANNOVER"), 
-								("Stuttgart", 6, "VARIETY_STUTTGART"), ("Duisburg", 6, "VARIETY_DUISBURG"), ("Nurnberg", 6, "VARIETY_NURNBERG"), ("Wuppertal", 6, "-1"), ("Konigsberg", 5, "VARIETY_KONIGSBERG"), ("Bremen", 5, "VARIETY_BREMEN"), 
-								("Chemnitz", 4, "VARIETY_CHEMNITZ"), ("Magdeburg", 4, "VARIETY_MAGDEBURG"), ("Gelsenkirchen", 4, "-1"), ("Bochum", 4, "-1"), ("Mannheim", 4, "VARIETY_MANNHEIM"), ("Halle", 4, "VARIETY_HALLE"), ("Kiel", 4, "VARIETY_KIEL"), 
-								("Kassel", 4, "VARIETY_KASSEL"), ("Graz", 4, "VARIETY_GRAZ"), ("Braunschweig", 3, "VARIETY_BRUNSWICK"), ("Oberhausen", 3, "-1"), ("Wiesbaden", 3, "VARIETY_WIESBADEN"), ("Augsburg", 3, "VARIETY_AUGSBURG"), 
-								("Lubeck", 3, "VARIETY_VANDAL"), ("Krefeld", 3, "VARIETY_KREFELD"), ("Aachen", 3, "VARIETY_AACHEN"), ("Karlsruhe", 3, "VARIETY_KARLSRUHE")],
+                                        ("Dresden", 7, "VARIETY_DRESDEN"), ("Breslau", 7, "VARIETY_WROCLAW"), ("Frankfurt", 7, "VARIETY_FRANKFURT"), ("Dortmund", 7, "VARIETY_DORTMUND"), ("Dusseldorf", 7, "VARIETY_DUSSELDORF"), ("Hannover", 6, "VARIETY_HANNOVER"), 
+                                                                ("Stuttgart", 6, "VARIETY_STUTTGART"), ("Duisburg", 6, "VARIETY_DUISBURG"), ("Nurnberg", 6, "VARIETY_NURNBERG"), ("Wuppertal", 6, "-1"), ("Konigsberg", 5, "VARIETY_KONIGSBERG"), ("Bremen", 5, "VARIETY_BREMEN"), 
+                                                                ("Chemnitz", 4, "VARIETY_CHEMNITZ"), ("Magdeburg", 4, "VARIETY_MAGDEBURG"), ("Gelsenkirchen", 4, "-1"), ("Bochum", 4, "-1"), ("Mannheim", 4, "VARIETY_MANNHEIM"), ("Halle", 4, "VARIETY_HALLE"), ("Kiel", 4, "VARIETY_KIEL"), 
+                                                                ("Kassel", 4, "VARIETY_KASSEL"), ("Graz", 4, "VARIETY_GRAZ"), ("Braunschweig", 3, "VARIETY_BRUNSWICK"), ("Oberhausen", 3, "-1"), ("Wiesbaden", 3, "VARIETY_WIESBADEN"), ("Augsburg", 3, "VARIETY_AUGSBURG"), 
+                                                                ("Lubeck", 3, "VARIETY_VANDAL"), ("Krefeld", 3, "VARIETY_KREFELD"), ("Aachen", 3, "VARIETY_AACHEN"), ("Karlsruhe", 3, "VARIETY_KARLSRUHE")],
 'LEADER_BISMARCK'			: [("Berlin", 10, "VARIETY_BERLIN"), ("Munchen", 9, "VARIETY_MUNICH"), ("Breslau", 9, "VARIETY_WROCLAW"), ("Hamburg", 9, "VARIETY_HAMBURG"), ("Leipzig", 8, "VARIETY_LEIPZIG"), ("Koln", 8, "VARIETY_COLOGNE"), 
-								("Dresden", 8, "VARIETY_DRESDEN"), ("Magdeburg", 8, "VARIETY_MAGDEBURG"), ("Frankfurt", 7, "VARIETY_FRANKFURT"), ("Hannover", 7, "VARIETY_HANNOVER"), ("Konigsberg", 7, "VARIETY_KONIGSBERG"), 
-								("Dusseldorf", 7, "VARIETY_DUSSELDORF"), ("Nurnberg", 7, "VARIETY_NURNBERG"), ("Stuttgart", 7, "VARIETY_STUTTGART"), ("Chemnitz", 7, "VARIETY_CHEMNITZ"), ("Bremen", 7, "VARIETY_BREMEN"), ("Stettin", 7, "VARIETY_STETTIN"), 
-								("Dortmund", 6, "VARIETY_DORTMUND"), ("Essen", 6, "VARIETY_ESSEN"), ("Charlottenburg", 6, "-1"), ("Kiel", 6, "VARIETY_KIEL"), ("Duisburg", 6, "VARIETY_DUISBURG"), ("Karlsruhe", 5, "VARIETY_KARLSRUHE"), 
-								("Darmstadt", 5, "VARIETY_DARMSTADT"), ("Schwerin", 5, "VARIETY_SCHWERIN"), ("Weimar", 5, "VARIETY_WEIMAR"), ("Neustrelitz", 5, "-1"), ("Oldenburg", 5, "-1"), ("Altenburg", 4, "-1"), ("Braunschweig", 4, "VARIETY_BRUNSWICK"), 
-								("Meiningen", 4, "VARIETY_MEININGEN"), ("Coburg", 4, "-1"), ("Gotha", 4, "VARIETY_GOTHA"), ("Dessau", 4, "VARIETY_DESSAU"), ("Ratzeburg", 4, "VARIETY_RATZEBURG"), ("Lubeck", 4, "VARIETY_VANDAL")],
+                                            ("Dresden", 8, "VARIETY_DRESDEN"), ("Magdeburg", 8, "VARIETY_MAGDEBURG"), ("Frankfurt", 7, "VARIETY_FRANKFURT"), ("Hannover", 7, "VARIETY_HANNOVER"), ("Konigsberg", 7, "VARIETY_KONIGSBERG"), 
+                                                                ("Dusseldorf", 7, "VARIETY_DUSSELDORF"), ("Nurnberg", 7, "VARIETY_NURNBERG"), ("Stuttgart", 7, "VARIETY_STUTTGART"), ("Chemnitz", 7, "VARIETY_CHEMNITZ"), ("Bremen", 7, "VARIETY_BREMEN"), ("Stettin", 7, "VARIETY_STETTIN"), 
+                                                                ("Dortmund", 6, "VARIETY_DORTMUND"), ("Essen", 6, "VARIETY_ESSEN"), ("Charlottenburg", 6, "-1"), ("Kiel", 6, "VARIETY_KIEL"), ("Duisburg", 6, "VARIETY_DUISBURG"), ("Karlsruhe", 5, "VARIETY_KARLSRUHE"), 
+                                                                ("Darmstadt", 5, "VARIETY_DARMSTADT"), ("Schwerin", 5, "VARIETY_SCHWERIN"), ("Weimar", 5, "VARIETY_WEIMAR"), ("Neustrelitz", 5, "-1"), ("Oldenburg", 5, "-1"), ("Altenburg", 4, "-1"), ("Braunschweig", 4, "VARIETY_BRUNSWICK"), 
+                                                                ("Meiningen", 4, "VARIETY_MEININGEN"), ("Coburg", 4, "-1"), ("Gotha", 4, "VARIETY_GOTHA"), ("Dessau", 4, "VARIETY_DESSAU"), ("Ratzeburg", 4, "VARIETY_RATZEBURG"), ("Lubeck", 4, "VARIETY_VANDAL")],
 'LEADER_FREDERICK'			: [("Berlin", 10, "VARIETY_BERLIN"), ("Danzig", 9, "VARIETY_DANZIG"), ("Konigsberg", 9, "VARIETY_KONIGSBERG"), ("Breslau", 9, "VARIETY_WROCLAW"), ("Posen", 8, "VARIETY_POZNAN"), ("Kulm", 8, "VARIETY_CHELMNO"), 
-								("Stettin", 8, "VARIETY_STETTIN"), ("Kolberg", 8, "VARIETY_KOLBERG"), ("Potsdam", 8, "VARIETY_POTSDAM"), ("Magdeburg", 8, "VARIETY_MAGDEBURG"), ("Stendal", 7, "VARIETY_STENDAL"), ("Marienburg", 7, "VARIETY_MALBORK"), 
-								("Halle", 7, "VARIETY_HALLE"), ("Lodsch", 7, "VARIETY_LODZ"), ("Minden", 7, "VARIETY_MINDEN"), ("Bromberg", 6, "VARIETY_BYDGOSZCZ"), ("Tilsit", 6, "VARIETY_TILSIT"), ("Bielefeld", 6, "VARIETY_BIELEFELD"), 
-								("Stargard", 6, "VARIETY_STARGARD"), ("Halberstadt", 6, "-1"), ("Allenstein", 6, "VARIETY_OLSZTYN"), ("Plotsk", 6, "VARIETY_PLOCK"), ("Neisse", 5, "VARIETY_NYSA"), ("Salzwedel", 5, "-1"), ("Gnesen", 5, "VARIETY_GNIEZNO"), 
-								("Tannenberg", 5, "VARIETY_STEBARK"), ("Ruppin", 5, "VARIETY_RUPPIN"), ("Zorndorf", 5, "VARIETY_SARBINOWO"), ("Eylau", 5, "VARIETY_EYLAU"), ("Kunersdorf", 4, "VARIETY_KUNOWICE"), ("Thorn", 4, "VARIETY_TORUN"), 
-								("Hamm", 4, "-1"), ("Coslin", 4, "VARIETY_KOSZALIN"), ("Leuthen", 4, "VARIETY_LUTYNIA"), ("Ohlau", 4, "VARIETY_OLAWA"), ("Kustrin", 4, "VARIETY_KOSTRZYN")],
+                                             ("Stettin", 8, "VARIETY_STETTIN"), ("Kolberg", 8, "VARIETY_KOLBERG"), ("Potsdam", 8, "VARIETY_POTSDAM"), ("Magdeburg", 8, "VARIETY_MAGDEBURG"), ("Stendal", 7, "VARIETY_STENDAL"), ("Marienburg", 7, "VARIETY_MALBORK"), 
+                                                                ("Halle", 7, "VARIETY_HALLE"), ("Lodsch", 7, "VARIETY_LODZ"), ("Minden", 7, "VARIETY_MINDEN"), ("Bromberg", 6, "VARIETY_BYDGOSZCZ"), ("Tilsit", 6, "VARIETY_TILSIT"), ("Bielefeld", 6, "VARIETY_BIELEFELD"), 
+                                                                ("Stargard", 6, "VARIETY_STARGARD"), ("Halberstadt", 6, "-1"), ("Allenstein", 6, "VARIETY_OLSZTYN"), ("Plotsk", 6, "VARIETY_PLOCK"), ("Neisse", 5, "VARIETY_NYSA"), ("Salzwedel", 5, "-1"), ("Gnesen", 5, "VARIETY_GNIEZNO"), 
+                                                                ("Tannenberg", 5, "VARIETY_STEBARK"), ("Ruppin", 5, "VARIETY_RUPPIN"), ("Zorndorf", 5, "VARIETY_SARBINOWO"), ("Eylau", 5, "VARIETY_EYLAU"), ("Kunersdorf", 4, "VARIETY_KUNOWICE"), ("Thorn", 4, "VARIETY_TORUN"), 
+                                                                ("Hamm", 4, "-1"), ("Coslin", 4, "VARIETY_KOSZALIN"), ("Leuthen", 4, "VARIETY_LUTYNIA"), ("Ohlau", 4, "VARIETY_OLAWA"), ("Kustrin", 4, "VARIETY_KOSTRZYN")],
 'LEADER_FRIEDRICH_HOHENSTAUFEN'	: [("Aachen", 10, "VARIETY_AACHEN"), ("Palermo", 9, "VARIETY_PALERMO"), ("Mainz", 8, "VARIETY_MAINZ"), ("Trier", 8, "VARIETY_TRIER"), ("Koln", 8, "VARIETY_COLOGNE"), ("Prag", 8, "VARIETY_PRAGUE"), ("Heidelberg", 8, "-1"), 
-								("Brandenburg", 8, "VARIETY_BRANDENBURG"), ("Magdeburg", 7, "VARIETY_MAGDEBURG"), ("Braunschweig", 7, "VARIETY_BRUNSWICK"), ("Neapel", 7, "VARIETY_NAPLES"), ("Pavia", 7, "VARIETY_PAVIA"), ("Worms", 7, "VARIETY_WORMS"), 
-								("Wirten", 7, "VARIETY_VERDUN"), ("Augsburg", 7, "VARIETY_AUGSBURG"), ("Mailand", 7, "VARIETY_MILAN"), ("Salzburg", 7, "VARIETY_SALZBURG"), ("Messina", 6, "VARIETY_MESSINA"), ("Salerno", 6, "VARIETY_SALERNO"), 
-								("Goslar", 6, "VARIETY_GOSLAR"), ("Bremen", 6, "VARIETY_BREMEN"), ("Lubeck", 6, "VARIETY_VANDAL"), ("Tull", 5, "VARIETY_TOUL"), ("Marseille", 5, "VARIETY_MARSEILLE"), ("Bisanz", 5, "VARIETY_BESANCON"), 
-								("Florenz", 5, "VARIETY_FLORENCE"), ("Arles", 5, "VARIETY_ARLES"), ("Ulm", 5, "-1"), ("Wurzburg", 4, "VARIETY_WURZBURG"), ("Hamburg", 4, "VARIETY_HAMBURG"), ("Konstanz", 4, "VARIETY_KONSTANZ"), ("Wien", 4, "VARIETY_WIEN"), 
-								("Erfurt", 4, "VARIETY_ERFURT"), ("Syrakus", 4, "VARIETY_SYRACUSE"), ("Brixen", 4, "VARIETY_BRESCIA"), ("Utrecht", 4, "VARIETY_UTRECHT")],
+                                          ("Brandenburg", 8, "VARIETY_BRANDENBURG"), ("Magdeburg", 7, "VARIETY_MAGDEBURG"), ("Braunschweig", 7, "VARIETY_BRUNSWICK"), ("Neapel", 7, "VARIETY_NAPLES"), ("Pavia", 7, "VARIETY_PAVIA"), ("Worms", 7, "VARIETY_WORMS"), 
+                                                                ("Wirten", 7, "VARIETY_VERDUN"), ("Augsburg", 7, "VARIETY_AUGSBURG"), ("Mailand", 7, "VARIETY_MILAN"), ("Salzburg", 7, "VARIETY_SALZBURG"), ("Messina", 6, "VARIETY_MESSINA"), ("Salerno", 6, "VARIETY_SALERNO"), 
+                                                                ("Goslar", 6, "VARIETY_GOSLAR"), ("Bremen", 6, "VARIETY_BREMEN"), ("Lubeck", 6, "VARIETY_VANDAL"), ("Tull", 5, "VARIETY_TOUL"), ("Marseille", 5, "VARIETY_MARSEILLE"), ("Bisanz", 5, "VARIETY_BESANCON"), 
+                                                                ("Florenz", 5, "VARIETY_FLORENCE"), ("Arles", 5, "VARIETY_ARLES"), ("Ulm", 5, "-1"), ("Wurzburg", 4, "VARIETY_WURZBURG"), ("Hamburg", 4, "VARIETY_HAMBURG"), ("Konstanz", 4, "VARIETY_KONSTANZ"), ("Wien", 4, "VARIETY_WIEN"), 
+                                                                ("Erfurt", 4, "VARIETY_ERFURT"), ("Syrakus", 4, "VARIETY_SYRACUSE"), ("Brixen", 4, "VARIETY_BRESCIA"), ("Utrecht", 4, "VARIETY_UTRECHT")],
 'LEADER_OTTO'				: [("Aachen", 10, "VARIETY_AACHEN"), ("Magdeburg", 9, "VARIETY_MAGDEBURG"), ("Mainz", 8, "VARIETY_MAINZ"), ("Trier", 8, "VARIETY_TRIER"), ("Koln", 8, "VARIETY_COLOGNE"), ("Regensburg", 8, "VARIETY_REGENSBURG"), 
-								("Heidelberg", 8, "-1"), ("Brandenburg", 8, "VARIETY_BRANDENBURG"), ("Prag", 7, "VARIETY_PRAGUE"), ("Luttich", 7, "VARIETY_LIEGE"), ("Speyer", 7, "VARIETY_SPEYER"), ("Pavia", 7, "VARIETY_PAVIA"), ("Worms", 7, "VARIETY_WORMS"), 
-								("Wirten", 7, "VARIETY_VERDUN"), ("Augsburg", 7, "VARIETY_AUGSBURG"), ("Mailand", 7, "VARIETY_MILAN"), ("Salzburg", 7, "VARIETY_SALZBURG"), ("Frankfurt", 6, "VARIETY_FRANKFURT"), ("Strassburg", 6, "VARIETY_ALEMANNI"), 
-								("Goslar", 6, "VARIETY_GOSLAR"), ("Bremen", 6, "VARIETY_BREMEN"), ("Trient", 6, "VARIETY_TRENT"), ("Tull", 5, "VARIETY_TOUL"), ("Brunn", 5, "VARIETY_BRNO"), ("Fulda", 5, "-1"), ("Florenz", 5, "VARIETY_FLORENCE"), 
-								("Triest", 5, "VARIETY_TRIEST"), ("Ulm", 5, "-1"), ("Wurzburg", 4, "VARIETY_WURZBURG"), ("Hamburg", 4, "VARIETY_HAMBURG"), ("Konstanz", 4, "VARIETY_KONSTANZ"), ("Wien", 4, "VARIETY_WIEN"), ("Erfurt", 4, "VARIETY_ERFURT"), 
-								("Turin", 4, "VARIETY_TURIN"), ("Brixen", 4, "VARIETY_BRESCIA"), ("Utrecht", 4, "VARIETY_UTRECHT")],
+                                                ("Heidelberg", 8, "-1"), ("Brandenburg", 8, "VARIETY_BRANDENBURG"), ("Prag", 7, "VARIETY_PRAGUE"), ("Luttich", 7, "VARIETY_LIEGE"), ("Speyer", 7, "VARIETY_SPEYER"), ("Pavia", 7, "VARIETY_PAVIA"), ("Worms", 7, "VARIETY_WORMS"), 
+                                                                ("Wirten", 7, "VARIETY_VERDUN"), ("Augsburg", 7, "VARIETY_AUGSBURG"), ("Mailand", 7, "VARIETY_MILAN"), ("Salzburg", 7, "VARIETY_SALZBURG"), ("Frankfurt", 6, "VARIETY_FRANKFURT"), ("Strassburg", 6, "VARIETY_ALEMANNI"), 
+                                                                ("Goslar", 6, "VARIETY_GOSLAR"), ("Bremen", 6, "VARIETY_BREMEN"), ("Trient", 6, "VARIETY_TRENT"), ("Tull", 5, "VARIETY_TOUL"), ("Brunn", 5, "VARIETY_BRNO"), ("Fulda", 5, "-1"), ("Florenz", 5, "VARIETY_FLORENCE"), 
+                                                                ("Triest", 5, "VARIETY_TRIEST"), ("Ulm", 5, "-1"), ("Wurzburg", 4, "VARIETY_WURZBURG"), ("Hamburg", 4, "VARIETY_HAMBURG"), ("Konstanz", 4, "VARIETY_KONSTANZ"), ("Wien", 4, "VARIETY_WIEN"), ("Erfurt", 4, "VARIETY_ERFURT"), 
+                                                                ("Turin", 4, "VARIETY_TURIN"), ("Brixen", 4, "VARIETY_BRESCIA"), ("Utrecht", 4, "VARIETY_UTRECHT")],
 # Greece
 'LEADER_ALEXANDER'			: [("Pella", 10, "-1"), ("Athinai", 9, "VARIETY_ATHENS"), ("Alexandria", 9, "VARIETY_ALEXANDRIA"), ("Babylon", 9, "VARIETY_BAGHDAD"), ("Persepolis", 9, "VARIETY_PERSEPOLIS"), ("Damaskos", 8, "VARIETY_DAMASCUS"), 
-								("Hierousalem", 8, "VARIETY_JERUSALEM"), ("Sardis", 8, "-1"), ("Gordion", 8, "VARIETY_GORDIUM"), ("Memphis", 8, "-1"), ("Arbela", 8, "VARIETY_ARBELA"), ("Susa", 8, "VARIETY_SHUSH"), ("Ecbatana", 8, "-1"), 
-								("Bactra", 8, "VARIETY_BALKH"), ("Korinthos", 7, "VARIETY_CORINTH"), ("Thebes", 7, "VARIETY_THEBES"), ("Gaza", 7, "VARIETY_GAZA"), ("Cyrene", 7, "VARIETY_CYRENAICA"), ("Ancyra", 7, "VARIETY_ANKARA"), ("Nineveh", 7, "VARIETY_ASSYRIAN"), 
-								("Alexandria Ariana", 7, "VARIETY_HERAT"), ("Maracanda", 7, "VARIETY_SAMARKAND"), ("Bucephala", 7, "-1"), ("Patala", 7, "VARIETY_MOHENJO-DARO"), ("Chaeronea", 6, "-1"), ("Ephesos", 6, "VARIETY_EFES"), 
-								("Miletos", 6, "VARIETY_MILETUS"), ("Perga", 6, "-1"), ("Myriandrus", 6, "-1"), ("Alexandria ad Issum", 6, "VARIETY_ALEXANDRETTA"), ("Thapsacus", 6, "VARIETY_EUROPOS"), ("Arados", 6, "VARIETY_ARWAD"), ("Gaugamela", 6, "-1"), 
-								("Opis", 6, "-1"), ("Zadracarta", 6, "VARIETY_GORGAN"), ("Alexandria in the Caucasus", 6, "VARIETY_BAGRAM"), ("Alexandria in Arachosia", 6, "VARIETY_KANDAHAR"), ("Alexandria in Margiana", 6, "VARIETY_MARGIANA"), 
-								("Alexandria Eschate", 6, "VARIETY_KHUJAND"), ("Alexandria Opiana", 6, "VARIETY_GHAZNI"), ("Alexandria by the Latmos", 6, "VARIETY_ALINDA"), ("Alexandria Charax", 6, "VARIETY_BASRA")],
+                                             ("Hierousalem", 8, "VARIETY_JERUSALEM"), ("Sardis", 8, "-1"), ("Gordion", 8, "VARIETY_GORDIUM"), ("Memphis", 8, "-1"), ("Arbela", 8, "VARIETY_ARBELA"), ("Susa", 8, "VARIETY_SHUSH"), ("Ecbatana", 8, "-1"), 
+                                                                ("Bactra", 8, "VARIETY_BALKH"), ("Korinthos", 7, "VARIETY_CORINTH"), ("Thebes", 7, "VARIETY_THEBES"), ("Gaza", 7, "VARIETY_GAZA"), ("Cyrene", 7, "VARIETY_CYRENAICA"), ("Ancyra", 7, "VARIETY_ANKARA"), ("Nineveh", 7, "VARIETY_ASSYRIAN"), 
+                                                                ("Alexandria Ariana", 7, "VARIETY_HERAT"), ("Maracanda", 7, "VARIETY_SAMARKAND"), ("Bucephala", 7, "-1"), ("Patala", 7, "VARIETY_MOHENJO-DARO"), ("Chaeronea", 6, "-1"), ("Ephesos", 6, "VARIETY_EFES"), 
+                                                                ("Miletos", 6, "VARIETY_MILETUS"), ("Perga", 6, "-1"), ("Myriandrus", 6, "-1"), ("Alexandria ad Issum", 6, "VARIETY_ALEXANDRETTA"), ("Thapsacus", 6, "VARIETY_EUROPOS"), ("Arados", 6, "VARIETY_ARWAD"), ("Gaugamela", 6, "-1"), 
+                                                                ("Opis", 6, "-1"), ("Zadracarta", 6, "VARIETY_GORGAN"), ("Alexandria in the Caucasus", 6, "VARIETY_BAGRAM"), ("Alexandria in Arachosia", 6, "VARIETY_KANDAHAR"), ("Alexandria in Margiana", 6, "VARIETY_MARGIANA"), 
+                                                                ("Alexandria Eschate", 6, "VARIETY_KHUJAND"), ("Alexandria Opiana", 6, "VARIETY_GHAZNI"), ("Alexandria by the Latmos", 6, "VARIETY_ALINDA"), ("Alexandria Charax", 6, "VARIETY_BASRA")],
 'LEADER_BASIL'				: [("Konstantinoupolis", 10, "VARIETY_CONSTANTINOPLE"), ("Thessalonica", 9, "VARIETY_THESSALONIKI"), ("Antiochia", 9, "VARIETY_ANTIOCH"), ("Neapolis", 8, "VARIETY_NAPLES"), ("Nicaea", 8, "VARIETY_NICAEA"), 
-								("Hadrianoupolis", 8, "VARIETY_EDIRNE"), ("Herakleia", 8, "VARIETY_HERACLEA"), ("Athinai", 8, "VARIETY_ATHENS"), ("Ancyra", 8, "VARIETY_ANKARA"), ("Trebizond", 8, "VARIETY_TREBIZOND"), ("Varna", 8, "-1"), ("Korinthos", 7, "VARIETY_CORINTH"), 
-								("Varis", 7, "VARIETY_BARI"), ("Sirmion", 7, "VARIETY_GEPID"), ("Dyrrachion", 7, "VARIETY_DURRES"), ("Smyrna", 7, "VARIETY_SMYRNA"), ("Nicomedia", 7, "VARIETY_IZMIT"), ("Attaleia", 7, "VARIETY_ANTALYA"), 
-								("Sebasteia", 7, "VARIETY_SEBASTIA"), ("Seleukeia Trachea", 7, "VARIETY_SELEUKEIA"), ("Dorystolon", 6, "VARIETY_SILISTRA"), ("Skoupoi", 6, "VARIETY_SKOPJE"), ("Rhaousin", 6, "VARIETY_RAGUSA"), 
-								("Naupactos", 6, "VARIETY_LEPANTO"), ("Samosata", 6, "VARIETY_SAMOSATA"), ("Lefkosia", 5, "VARIETY_NICOSIA"), ("Chandax", 5, "VARIETY_HERAKLION"), ("Telouch", 5, "VARIETY_AINTAB"), ("Melitene", 5, "VARIETY_MALATYA"), 
-								("Gangra", 5, "VARIETY_GANGRA"), ("Koloneia", 5, "VARIETY_COLONIA"), ("Amorion", 5, "VARIETY_AMORIUM"), ("Amaseia", 5, "VARIETY_AMASIA"), ("Thebes", 5, "VARIETY_THEBAI"), ("Arcadiopolis", 5, "VARIETY_LULE"), 
-								("Serres", 5, "VARIETY_SERRES")],
+                                                 ("Hadrianoupolis", 8, "VARIETY_EDIRNE"), ("Herakleia", 8, "VARIETY_HERACLEA"), ("Athinai", 8, "VARIETY_ATHENS"), ("Ancyra", 8, "VARIETY_ANKARA"), ("Trebizond", 8, "VARIETY_TREBIZOND"), ("Varna", 8, "-1"), ("Korinthos", 7, "VARIETY_CORINTH"), 
+                                                                ("Varis", 7, "VARIETY_BARI"), ("Sirmion", 7, "VARIETY_GEPID"), ("Dyrrachion", 7, "VARIETY_DURRES"), ("Smyrna", 7, "VARIETY_SMYRNA"), ("Nicomedia", 7, "VARIETY_IZMIT"), ("Attaleia", 7, "VARIETY_ANTALYA"), 
+                                                                ("Sebasteia", 7, "VARIETY_SEBASTIA"), ("Seleukeia Trachea", 7, "VARIETY_SELEUKEIA"), ("Dorystolon", 6, "VARIETY_SILISTRA"), ("Skoupoi", 6, "VARIETY_SKOPJE"), ("Rhaousin", 6, "VARIETY_RAGUSA"), 
+                                                                ("Naupactos", 6, "VARIETY_LEPANTO"), ("Samosata", 6, "VARIETY_SAMOSATA"), ("Lefkosia", 5, "VARIETY_NICOSIA"), ("Chandax", 5, "VARIETY_HERAKLION"), ("Telouch", 5, "VARIETY_AINTAB"), ("Melitene", 5, "VARIETY_MALATYA"), 
+                                                                ("Gangra", 5, "VARIETY_GANGRA"), ("Koloneia", 5, "VARIETY_COLONIA"), ("Amorion", 5, "VARIETY_AMORIUM"), ("Amaseia", 5, "VARIETY_AMASIA"), ("Thebes", 5, "VARIETY_THEBAI"), ("Arcadiopolis", 5, "VARIETY_LULE"), 
+                                                                ("Serres", 5, "VARIETY_SERRES")],
 'LEADER_IOANNIS_METAXAS'	: [("Athens", 10, "VARIETY_ATHENS"), ("Thessaloniki", 9, "VARIETY_THESSALONIKI"), ("Patras", 8, "VARIETY_PATRAS"), ("Heraklion", 8, "VARIETY_HERAKLION"), ("Larissa", 8, "VARIETY_LARISSA"), ("Volos", 7, "VARIETY_VOLOS"), 
-								("Ioannina", 7, "VARIETY_IOANNINA"), ("Kavala", 7, "-1"), ("Agrinio", 7, "VARIETY_ARGINIO"), ("Chalcis", 7, "VARIETY_NEGROPONTE"), ("Chania", 7, "VARIETY_CHANIA"), ("Serres", 7, "VARIETY_SERRES"), 
-								("Trikala", 6, "VARIETY_TRIKALA"), ("Lamia", 6, "VARIETY_LAMIA"), ("Kalamata", 6, "-1"), ("Katerini", 6, "-1"), ("Alexandroupoli", 5, "VARIETY_ALEXANDROUPOLI"), ("Veria", 5, "VARIETY_VERIA"), ("Drama", 5, "-1"), 
-								("Xanthi", 5, "VARIETY_XANTHI"), ("Komotini", 5, "VARIETY_KOMOTINI"), ("Kozani", 5, "-1"), ("Kerkyra", 5, "VARIETY_CORFU"), ("Karditsa", 5, "-1"), ("Pyrgos", 4, "-1"), ("Korinthos", 4, "VARIETY_CORINTH"), ("Ptolemaida", 4, "VARIETY_KAILARIA"), 
-								("Mytilene", 4, "-1"), ("Rethymno", 3, "VARIETY_RETIMO"), ("Chios", 3, "-1"), ("Giannitsa", 3, "VARIETY_GIANNITSA"), ("Aigio", 3, "-1"), ("Argos", 3, "-1"), ("Megara", 3, "-1"), ("Naousa", 3, "VARIETY_NAOUSA"), 
-								("Thebes", 4, "VARIETY_THEBAI")],	
+                                   ("Ioannina", 7, "VARIETY_IOANNINA"), ("Kavala", 7, "-1"), ("Agrinio", 7, "VARIETY_ARGINIO"), ("Chalcis", 7, "VARIETY_NEGROPONTE"), ("Chania", 7, "VARIETY_CHANIA"), ("Serres", 7, "VARIETY_SERRES"), 
+                                                                ("Trikala", 6, "VARIETY_TRIKALA"), ("Lamia", 6, "VARIETY_LAMIA"), ("Kalamata", 6, "-1"), ("Katerini", 6, "-1"), ("Alexandroupoli", 5, "VARIETY_ALEXANDROUPOLI"), ("Veria", 5, "VARIETY_VERIA"), ("Drama", 5, "-1"), 
+                                                                ("Xanthi", 5, "VARIETY_XANTHI"), ("Komotini", 5, "VARIETY_KOMOTINI"), ("Kozani", 5, "-1"), ("Kerkyra", 5, "VARIETY_CORFU"), ("Karditsa", 5, "-1"), ("Pyrgos", 4, "-1"), ("Korinthos", 4, "VARIETY_CORINTH"), ("Ptolemaida", 4, "VARIETY_KAILARIA"), 
+                                                                ("Mytilene", 4, "-1"), ("Rethymno", 3, "VARIETY_RETIMO"), ("Chios", 3, "-1"), ("Giannitsa", 3, "VARIETY_GIANNITSA"), ("Aigio", 3, "-1"), ("Argos", 3, "-1"), ("Megara", 3, "-1"), ("Naousa", 3, "VARIETY_NAOUSA"), 
+                                                                ("Thebes", 4, "VARIETY_THEBAI")],	
 'LEADER_JOHN_II_KOMNENOS'	: [("Konstantinoupolis", 10, "VARIETY_CONSTANTINOPLE"), ("Thessalonica", 9, "VARIETY_THESSALONIKI"), ("Antiochia", 9, "VARIETY_ANTIOCH"), ("Sinope", 8, "-1"), ("Nicaea", 8, "VARIETY_NICAEA"), ("Hadrianoupolis", 8, "VARIETY_EDIRNE"), 
-								("Sozopolis", 8, "VARIETY_SOZOPOLIS"), ("Athinai", 8, "VARIETY_ATHENS"), ("Ancyra", 8, "VARIETY_ANKARA"), ("Trebizond", 8, "VARIETY_TREBIZOND"), ("Varna", 8, "-1"), ("Korinthos", 7, "VARIETY_CORINTH"), ("Monemvasia", 7, "VARIETY_MONEMVASIA"), 
-								("Sirmion", 7, "VARIETY_GEPID"), ("Dyrrachion", 7, "VARIETY_DURRES"), ("Smyrna", 7, "VARIETY_SMYRNA"), ("Nicomedia", 7, "VARIETY_IZMIT"), ("Attaleia", 7, "VARIETY_ANTALYA"), ("Sardis", 7, "-1"), 
-								("Seleukeia Trachea", 7, "VARIETY_SELEUKEIA"), ("Dorystolon", 6, "VARIETY_SILISTRA"), ("Skoupoi", 6, "VARIETY_SKOPJE"), ("Rhaousin", 6, "VARIETY_RAGUSA"), ("Naupactos", 6, "VARIETY_LEPANTO"), ("Tzurulum", 6, "VARIETY_TZURULUM"), 
-								("Lefkosia", 5, "VARIETY_NICOSIA"), ("Chandax", 5, "VARIETY_HERAKLION"), ("Cyzicus", 5, "VARIETY_CYZICUS"), ("Melitene", 5, "VARIETY_MALATYA"), ("Gangra", 5, "VARIETY_GANGRA"), ("Philippopolis", 5, "VARIETY_THRACIAN"), 
-								("Amorion", 5, "VARIETY_AMORIUM"), ("Amaseia", 5, "VARIETY_AMASIA"), ("Thebes", 5, "VARIETY_THEBAI"), ("Arcadiopolis", 5, "VARIETY_LULE"), ("Serres", 5, "VARIETY_SERRES")],	
+                                    ("Sozopolis", 8, "VARIETY_SOZOPOLIS"), ("Athinai", 8, "VARIETY_ATHENS"), ("Ancyra", 8, "VARIETY_ANKARA"), ("Trebizond", 8, "VARIETY_TREBIZOND"), ("Varna", 8, "-1"), ("Korinthos", 7, "VARIETY_CORINTH"), ("Monemvasia", 7, "VARIETY_MONEMVASIA"), 
+                                                                ("Sirmion", 7, "VARIETY_GEPID"), ("Dyrrachion", 7, "VARIETY_DURRES"), ("Smyrna", 7, "VARIETY_SMYRNA"), ("Nicomedia", 7, "VARIETY_IZMIT"), ("Attaleia", 7, "VARIETY_ANTALYA"), ("Sardis", 7, "-1"), 
+                                                                ("Seleukeia Trachea", 7, "VARIETY_SELEUKEIA"), ("Dorystolon", 6, "VARIETY_SILISTRA"), ("Skoupoi", 6, "VARIETY_SKOPJE"), ("Rhaousin", 6, "VARIETY_RAGUSA"), ("Naupactos", 6, "VARIETY_LEPANTO"), ("Tzurulum", 6, "VARIETY_TZURULUM"), 
+                                                                ("Lefkosia", 5, "VARIETY_NICOSIA"), ("Chandax", 5, "VARIETY_HERAKLION"), ("Cyzicus", 5, "VARIETY_CYZICUS"), ("Melitene", 5, "VARIETY_MALATYA"), ("Gangra", 5, "VARIETY_GANGRA"), ("Philippopolis", 5, "VARIETY_THRACIAN"), 
+                                                                ("Amorion", 5, "VARIETY_AMORIUM"), ("Amaseia", 5, "VARIETY_AMASIA"), ("Thebes", 5, "VARIETY_THEBAI"), ("Arcadiopolis", 5, "VARIETY_LULE"), ("Serres", 5, "VARIETY_SERRES")],	
 'LEADER_PERICLES'			: [("Athinai", 10, "VARIETY_ATHENS"), ("Argos", 9, "-1"), ("Megara", 9, "-1"), ("Thebes", 9, "VARIETY_THEBAI"), ("Delphi", 8, "VARIETY_DELPHI"), ("Pagasae", 8, "-1"), ("Eretria", 8, "-1"),	("Potidaea", 8, "-1"), 
-								("Sigeion", 8, "-1"), ("Mytilene", 8, "-1"), ("Phocaea", 8, "VARIETY_PHOCAEA"), ("Ephesos", 8, "VARIETY_EFES"), ("Miletos", 8, "VARIETY_MILETUS"), ("Ialysos", 8, "-1"), ("Chalcis", 7, "VARIETY_NEGROPONTE"), ("Oreus", 7, "-1"), 
-								("Torone", 7, "-1"), ("Thasos", 7, "VARIETY_THASOS"), ("Naxos", 7, "-1"), ("Paros", 7, "-1"), ("Chios", 7, "-1"), ("Cyzicus", 7, "VARIETY_CYZICUS"), ("Byzantion", 7, "VARIETY_CONSTANTINOPLE"), ("Andros", 7, "-1"), 
-								("Antandros", 7, "-1"), ("Abdera", 7, "-1"), ("Ainos", 7, "VARIETY_AINOS"), ("Prokonnesos", 6, "VARIETY_MARMARA"), ("Aigina", 6, "-1"), ("Pagae", 6, "-1"), ("Kythnos", 6, "VARIETY_THERMIA"), ("Siphnos", 6, "-1"), 
-								("Plataea", 6, "-1"), ("Leros", 6, "-1"), ("Eresos", 6, "-1"), ("Iasos", 6, "-1")],	
+                                            ("Sigeion", 8, "-1"), ("Mytilene", 8, "-1"), ("Phocaea", 8, "VARIETY_PHOCAEA"), ("Ephesos", 8, "VARIETY_EFES"), ("Miletos", 8, "VARIETY_MILETUS"), ("Ialysos", 8, "-1"), ("Chalcis", 7, "VARIETY_NEGROPONTE"), ("Oreus", 7, "-1"), 
+                                                                ("Torone", 7, "-1"), ("Thasos", 7, "VARIETY_THASOS"), ("Naxos", 7, "-1"), ("Paros", 7, "-1"), ("Chios", 7, "-1"), ("Cyzicus", 7, "VARIETY_CYZICUS"), ("Byzantion", 7, "VARIETY_CONSTANTINOPLE"), ("Andros", 7, "-1"), 
+                                                                ("Antandros", 7, "-1"), ("Abdera", 7, "-1"), ("Ainos", 7, "VARIETY_AINOS"), ("Prokonnesos", 6, "VARIETY_MARMARA"), ("Aigina", 6, "-1"), ("Pagae", 6, "-1"), ("Kythnos", 6, "VARIETY_THERMIA"), ("Siphnos", 6, "-1"), 
+                                                                ("Plataea", 6, "-1"), ("Leros", 6, "-1"), ("Eresos", 6, "-1"), ("Iasos", 6, "-1")],	
 'LEADER_THEMISTOCLES'		: [("Athinai", 10, "VARIETY_ATHENS"), ("Argos", 8, "-1"), ("Megara", 9, "-1"), ("Thebes", 9, "VARIETY_THEBAI"), ("Delphi", 8, "VARIETY_DELPHI"), ("Pagasae", 8, "-1"), ("Eretria", 8, "-1"),	("Sparta", 9, "-1"), ("Korinthos", 9, "VARIETY_CORINTH"), 
-								("Tegea", 8, "-1"), ("Messene", 8, "-1"), ("Olympia", 8, "-1"), ("Ambracia", 8, "-1"), ("Troezen", 8, "VARIETY_DAMALA"), ("Chalcis", 7, "VARIETY_NEGROPONTE"), ("Oreus", 7, "-1"), ("Elis", 7, "-1"), ("Anactorium", 7, "-1"), 
-								("Naxos", 7, "-1"), ("Paros", 7, "-1"), ("Methoni", 7, "-1"), ("Phlius", 7, "-1"), ("Leukas", 7, "VARIETY_LEFKADA"), ("Andros", 7, "-1"), ("Mykonos", 7, "-1"), ("Tinos", 7, "-1"), ("Melos", 7, "-1"), ("Keos", 6, "-1"), 
-								("Aigina", 6, "-1"), ("Pagae", 6, "-1"), ("Kythnos", 6, "VARIETY_THERMIA"), ("Siphnos", 6, "-1"), ("Plataea", 6, "-1"), ("Salamis", 6, "-1"), ("Thermopylae", 6, "-1"), ("Marathon", 6, "-1")],									
+                                        ("Tegea", 8, "-1"), ("Messene", 8, "-1"), ("Olympia", 8, "-1"), ("Ambracia", 8, "-1"), ("Troezen", 8, "VARIETY_DAMALA"), ("Chalcis", 7, "VARIETY_NEGROPONTE"), ("Oreus", 7, "-1"), ("Elis", 7, "-1"), ("Anactorium", 7, "-1"), 
+                                                                ("Naxos", 7, "-1"), ("Paros", 7, "-1"), ("Methoni", 7, "-1"), ("Phlius", 7, "-1"), ("Leukas", 7, "VARIETY_LEFKADA"), ("Andros", 7, "-1"), ("Mykonos", 7, "-1"), ("Tinos", 7, "-1"), ("Melos", 7, "-1"), ("Keos", 6, "-1"), 
+                                                                ("Aigina", 6, "-1"), ("Pagae", 6, "-1"), ("Kythnos", 6, "VARIETY_THERMIA"), ("Siphnos", 6, "-1"), ("Plataea", 6, "-1"), ("Salamis", 6, "-1"), ("Thermopylae", 6, "-1"), ("Marathon", 6, "-1")],									
 # Hungary
 'LEADER_ARPAD'				: [("Buda", 9, "VARIETY_BUDA"), ("Esztergom", 7, "VARIETY_ESZTERGOM"), ("Gyulafehérvár", 8, "VARIETY_ALBAIULIA"), ("Kolozsvár", 6, "VARIETY_CLUJ"), ("Szeged", 6, "VARIETY_SZEGED"), ("Pozsony", 7, "VARIETY_POZSONY"), 
-								("Eger", 4, "VARIETY_EGER"), ("Pécs", 5, "VARIETY_PECS"), ("Sopron", 4, "VARIETY_SOPRON"), ("Nyitra", 4, "VARIETY_NITRA"), ("Zalavár", 5, "VARIETY_ZALAVAR"), ("Veszprém", 4, "VARIETY_VESZPREM"), ("Kalocsa", 4, "VARIETY_KALOCSA"), 
-								("Várad", 6, "VARIETY_ORADEA"), ("Torda", 5, "VARIETY_TURDA"), ("Szatmár", 3, "VARIETY_SZATMAR"), ("Somogyvár", 3, "VARIETY_SOMOGYVAR"), ("Kaposvár", 3, "VARIETY_KAPOSVAR"), ("Sárvár", 3, "VARIETY_SARVAR"), 
-								("Komárom", 3, "VARIETY_KOMAROM"), ("Szolnok", 3, "VARIETY_SZOLNOK"), ("Szeghalom", 2, "-1"), ("Salgótarján", 2, "VARIETY_SALGOTARJAN"), ("Sziszek", 2, "VARIETY_SZISZEK"), ("Pusztaszer", 2, "-1"), ("Zimony", 2, "VARIETY_ZEMUN"), 
-								("Vukovár", 2, "-1"), ("Munkács", 2, "VARIETY_MUKACHEVO"), ("Szerencs", 2, "-1"), ("Alpár", 2, "-1"), ("Poroszló", 2, "-1"), ("Debrecen", 5, "VARIETY_DEBRECEN")], 
+                                                 ("Eger", 4, "VARIETY_EGER"), ("Pécs", 5, "VARIETY_PECS"), ("Sopron", 4, "VARIETY_SOPRON"), ("Nyitra", 4, "VARIETY_NITRA"), ("Zalavár", 5, "VARIETY_ZALAVAR"), ("Veszprém", 4, "VARIETY_VESZPREM"), ("Kalocsa", 4, "VARIETY_KALOCSA"), 
+                                                                ("Várad", 6, "VARIETY_ORADEA"), ("Torda", 5, "VARIETY_TURDA"), ("Szatmár", 3, "VARIETY_SZATMAR"), ("Somogyvár", 3, "VARIETY_SOMOGYVAR"), ("Kaposvár", 3, "VARIETY_KAPOSVAR"), ("Sárvár", 3, "VARIETY_SARVAR"), 
+                                                                ("Komárom", 3, "VARIETY_KOMAROM"), ("Szolnok", 3, "VARIETY_SZOLNOK"), ("Szeghalom", 2, "-1"), ("Salgótarján", 2, "VARIETY_SALGOTARJAN"), ("Sziszek", 2, "VARIETY_SZISZEK"), ("Pusztaszer", 2, "-1"), ("Zimony", 2, "VARIETY_ZEMUN"), 
+                                                                ("Vukovár", 2, "-1"), ("Munkács", 2, "VARIETY_MUKACHEVO"), ("Szerencs", 2, "-1"), ("Alpár", 2, "-1"), ("Poroszló", 2, "-1"), ("Debrecen", 5, "VARIETY_DEBRECEN")], 
 'LEADER_ISTVAN'				: [("Buda", 5, "VARIETY_BUDA"), ("Esztergom", 6, "VARIETY_ESZTERGOM"), ("Szeged", 3, "VARIETY_SZEGED"), ("Székesfehérvár", 4, "VARIETY_SZEKESFEHERVAR"), ("Kolozsvár", 4, "VARIETY_CLUJ"), ("Pozsony", 3, "VARIETY_POZSONY"), 
-								("Eger", 3, "VARIETY_EGER"), ("Debrecen", 3, "VARIETY_DEBRECEN"), ("Gyulafehérvár", 3, "VARIETY_ALBAIULIA"), ("Kassa", 2, "VARIETY_KOSICE"), ("Kalocsa", 3, "VARIETY_KALOCSA"), ("Visegrád", 2, "VARIETY_VISEGRAD"), 
-								("Györ", 4, "VARIETY_GYOR"), ("Pécs", 3, "VARIETY_PECS"), ("Bács", 3, "VARIETY_BACS"), ("Dömös", 1, "-1"), ("Vác", 2, "VARIETY_VAC"), ("Várkony", 2, "VARIETY_VRAKUN"), ("Várad", 3, "VARIETY_ORADEA"), 
-								("Zalavár", 2, "VARIETY_ZALAVAR"), ("Somogyvár", 1, "VARIETY_SOMOGYVAR"), ("Nyitra", 3, "VARIETY_NITRA"), ("Hont", 1, "-1"), ("Csongrád", 1, "VARIETY_CSONGRAD"), ("Szolnok", 1, "VARIETY_SZOLNOK"), 
-								("Pécsvárad", 1, "VARIETY_PECSVARAD"), ("Bakonybél", 1, "-1"), ("Sárvár", 1, "VARIETY_SARVAR")], 
+                                                  ("Eger", 3, "VARIETY_EGER"), ("Debrecen", 3, "VARIETY_DEBRECEN"), ("Gyulafehérvár", 3, "VARIETY_ALBAIULIA"), ("Kassa", 2, "VARIETY_KOSICE"), ("Kalocsa", 3, "VARIETY_KALOCSA"), ("Visegrád", 2, "VARIETY_VISEGRAD"), 
+                                                                ("Györ", 4, "VARIETY_GYOR"), ("Pécs", 3, "VARIETY_PECS"), ("Bács", 3, "VARIETY_BACS"), ("Dömös", 1, "-1"), ("Vác", 2, "VARIETY_VAC"), ("Várkony", 2, "VARIETY_VRAKUN"), ("Várad", 3, "VARIETY_ORADEA"), 
+                                                                ("Zalavár", 2, "VARIETY_ZALAVAR"), ("Somogyvár", 1, "VARIETY_SOMOGYVAR"), ("Nyitra", 3, "VARIETY_NITRA"), ("Hont", 1, "-1"), ("Csongrád", 1, "VARIETY_CSONGRAD"), ("Szolnok", 1, "VARIETY_SZOLNOK"), 
+                                                                ("Pécsvárad", 1, "VARIETY_PECSVARAD"), ("Bakonybél", 1, "-1"), ("Sárvár", 1, "VARIETY_SARVAR")], 
 'LEADER_BELA_IV'			: [("Buda", 8, "VARIETY_BUDA"), ("Esztergom", 6, "VARIETY_ESZTERGOM"), ("Szeged", 3, "VARIETY_SZEGED"), ("Székesfehérvár", 4, "VARIETY_SZEKESFEHERVAR"), ("Kolozsvár", 4, "VARIETY_CLUJ"), ("Pozsony", 3, "VARIETY_POZSONY"), 
-								("Eger", 3, "VARIETY_EGER"), ("Debrecen", 3, "VARIETY_DEBRECEN"), ("Gyulafehérvár", 3, "VARIETY_ALBAIULIA"), ("Kassa", 2, "VARIETY_KOSICE"), ("Kalocsa", 3, "VARIETY_KALOCSA"), ("Zagrab", 3, "VARIETY_ZAGREB"), 
-								("Visegrád", 2, "VARIETY_VISEGRAD"), ("Györ", 4, "VARIETY_GYOR"), ("Pécs", 3, "VARIETY_PECS"), ("Bács", 3, "VARIETY_BACS"), ("Dömös", 1, "-1"), ("Vác", 2, "VARIETY_VAC"), ("Várkony", 2, "VARIETY_VRAKUN"), 
-								("Várad", 3, "VARIETY_ORADEA"), ("Zalavár", 2, "VARIETY_ZALAVAR"), ("Somogyvár", 1, "VARIETY_SOMOGYVAR"), ("Nyitra", 3, "VARIETY_NITRA"), ("Hont", 1, "-1"), ("Csongrád", 1, "VARIETY_CSONGRAD"), ("Szolnok", 1, "VARIETY_SZOLNOK"), 
-								("Pécsvárad", 1, "VARIETY_PECSVARAD"), ("Bakonybél", 1, "-1"), ("Sárvár", 1, "VARIETY_SARVAR"), ("Pélmonostor", 2, "VARIETY_BELY"), ("Temesvár", 2, "VARIETY_TIMISOARA")],
+                                           ("Eger", 3, "VARIETY_EGER"), ("Debrecen", 3, "VARIETY_DEBRECEN"), ("Gyulafehérvár", 3, "VARIETY_ALBAIULIA"), ("Kassa", 2, "VARIETY_KOSICE"), ("Kalocsa", 3, "VARIETY_KALOCSA"), ("Zagrab", 3, "VARIETY_ZAGREB"), 
+                                                                ("Visegrád", 2, "VARIETY_VISEGRAD"), ("Györ", 4, "VARIETY_GYOR"), ("Pécs", 3, "VARIETY_PECS"), ("Bács", 3, "VARIETY_BACS"), ("Dömös", 1, "-1"), ("Vác", 2, "VARIETY_VAC"), ("Várkony", 2, "VARIETY_VRAKUN"), 
+                                                                ("Várad", 3, "VARIETY_ORADEA"), ("Zalavár", 2, "VARIETY_ZALAVAR"), ("Somogyvár", 1, "VARIETY_SOMOGYVAR"), ("Nyitra", 3, "VARIETY_NITRA"), ("Hont", 1, "-1"), ("Csongrád", 1, "VARIETY_CSONGRAD"), ("Szolnok", 1, "VARIETY_SZOLNOK"), 
+                                                                ("Pécsvárad", 1, "VARIETY_PECSVARAD"), ("Bakonybél", 1, "-1"), ("Sárvár", 1, "VARIETY_SARVAR"), ("Pélmonostor", 2, "VARIETY_BELY"), ("Temesvár", 2, "VARIETY_TIMISOARA")],
 'LEADER_LOUIS_I'			: [("Buda", 8, "VARIETY_BUDA"), ("Esztergom", 6, "VARIETY_ESZTERGOM"), ("Szeged", 3, "VARIETY_SZEGED"), ("Székesfehérvár", 4, "VARIETY_SZEKESFEHERVAR"), ("Kolozsvár", 4, "VARIETY_CLUJ"), ("Pozsony", 3, "VARIETY_POZSONY"), 
-								("Eger", 3, "VARIETY_EGER"), ("Debrecen", 3, "VARIETY_DEBRECEN"), ("Gyulafehérvár", 3, "VARIETY_ALBAIULIA"), ("Kassa", 2, "VARIETY_KOSICE"), ("Kalocsa", 3, "VARIETY_KALOCSA"), ("Zagrab", 3, "VARIETY_ZAGREB"), 
-								("Visegrád", 5, "VARIETY_VISEGRAD"), ("Györ", 4, "VARIETY_GYOR"), ("Pécs", 3, "VARIETY_PECS"), ("Bács", 3, "VARIETY_BACS"), ("Dömös", 1, "-1"), ("Vác", 2, "VARIETY_VAC"), ("Várkony", 2, "VARIETY_VRAKUN"), 
-								("Várad", 3, "VARIETY_ORADEA"), ("Zalavár", 2, "VARIETY_ZALAVAR"), ("Somogyvár", 1, "VARIETY_SOMOGYVAR"), ("Nyitra", 3, "VARIETY_NITRA"), ("Hont", 1, "-1"), ("Csongrád", 1, "VARIETY_CSONGRAD"), ("Szolnok", 1, "VARIETY_SZOLNOK"), 
-								("Pécsvárad", 1, "VARIETY_PECSVARAD"), ("Bakonybél", 1, "-1"), ("Sárvár", 1, "VARIETY_SARVAR"), ("Pélmonostor", 2, "VARIETY_BELY"), ("Temesvár", 2, "VARIETY_TIMISOARA"), ("Szombathely", 4, "VARIETY_SZOMBATHELY"), 
-								("Körmöcbánya", 4, "VARIETY_KREMNICA"), ("Nagyszeben", 3, "VARIETY_SIBIU"), ("Eszék", 3, "VARIETY_OSIJEK")],
+                                           ("Eger", 3, "VARIETY_EGER"), ("Debrecen", 3, "VARIETY_DEBRECEN"), ("Gyulafehérvár", 3, "VARIETY_ALBAIULIA"), ("Kassa", 2, "VARIETY_KOSICE"), ("Kalocsa", 3, "VARIETY_KALOCSA"), ("Zagrab", 3, "VARIETY_ZAGREB"), 
+                                                                ("Visegrád", 5, "VARIETY_VISEGRAD"), ("Györ", 4, "VARIETY_GYOR"), ("Pécs", 3, "VARIETY_PECS"), ("Bács", 3, "VARIETY_BACS"), ("Dömös", 1, "-1"), ("Vác", 2, "VARIETY_VAC"), ("Várkony", 2, "VARIETY_VRAKUN"), 
+                                                                ("Várad", 3, "VARIETY_ORADEA"), ("Zalavár", 2, "VARIETY_ZALAVAR"), ("Somogyvár", 1, "VARIETY_SOMOGYVAR"), ("Nyitra", 3, "VARIETY_NITRA"), ("Hont", 1, "-1"), ("Csongrád", 1, "VARIETY_CSONGRAD"), ("Szolnok", 1, "VARIETY_SZOLNOK"), 
+                                                                ("Pécsvárad", 1, "VARIETY_PECSVARAD"), ("Bakonybél", 1, "-1"), ("Sárvár", 1, "VARIETY_SARVAR"), ("Pélmonostor", 2, "VARIETY_BELY"), ("Temesvár", 2, "VARIETY_TIMISOARA"), ("Szombathely", 4, "VARIETY_SZOMBATHELY"), 
+                                                                ("Körmöcbánya", 4, "VARIETY_KREMNICA"), ("Nagyszeben", 3, "VARIETY_SIBIU"), ("Eszék", 3, "VARIETY_OSIJEK")],
 'LEADER_MATTHIAS_CORVINUS'	: [("Buda", 8, "VARIETY_BUDA"), ("Bécs", 5, "VARIETY_WIEN"), ("Boroszló", 3, "VARIETY_WROCLAW"), ("Visegrád", 6, "VARIETY_VISEGRAD"), ("Esztergom", 6, "VARIETY_ESZTERGOM"), ("Szeged", 3, "VARIETY_SZEGED"), 
-								("Székesfehérvár", 4, "VARIETY_SZEKESFEHERVAR"), ("Kolozsvár", 6, "VARIETY_CLUJ"), ("Pozsony", 3, "VARIETY_POZSONY"), ("Eger", 3, "VARIETY_EGER"), ("Debrecen", 3, "VARIETY_DEBRECEN"), ("Gyulafehérvár", 3, "VARIETY_ALBAIULIA"), 
-								("Hunyad", 4, "VARIETY_HUNYAD"), ("Kassa", 3, "VARIETY_KOSICE"), ("Kalocsa", 2, "VARIETY_KALOCSA"), ("Pécs", 5, "VARIETY_PECS"), ("Nándorfehérvár", 5, "VARIETY_BELGRADE"), ("Zagrab", 4, "VARIETY_ZAGREB"), 
-								("Alamóc", 4, "VARIETY_OLOMOUC"), ("Regede", 2, "VARIETY_RADKERSBURG"), ("Berén", 3, "VARIETY_BRNO"), ("Beszterce", 2, "VARIETY_BISTRITA"), ("Temesvár", 2, "VARIETY_TIMISOARA"), ("Szarajevó", 2, "VARIETY_SARAJEVO"), 
-								("Újvidék", 2, "VARIETY_NOVISAD"), ("Homonna", 2, "VARIETY_HUMENNE"), ("Szekszárd", 2, "VARIETY_SZEKSZARD")], 
+                                     ("Székesfehérvár", 4, "VARIETY_SZEKESFEHERVAR"), ("Kolozsvár", 6, "VARIETY_CLUJ"), ("Pozsony", 3, "VARIETY_POZSONY"), ("Eger", 3, "VARIETY_EGER"), ("Debrecen", 3, "VARIETY_DEBRECEN"), ("Gyulafehérvár", 3, "VARIETY_ALBAIULIA"), 
+                                                                ("Hunyad", 4, "VARIETY_HUNYAD"), ("Kassa", 3, "VARIETY_KOSICE"), ("Kalocsa", 2, "VARIETY_KALOCSA"), ("Pécs", 5, "VARIETY_PECS"), ("Nándorfehérvár", 5, "VARIETY_BELGRADE"), ("Zagrab", 4, "VARIETY_ZAGREB"), 
+                                                                ("Alamóc", 4, "VARIETY_OLOMOUC"), ("Regede", 2, "VARIETY_RADKERSBURG"), ("Berén", 3, "VARIETY_BRNO"), ("Beszterce", 2, "VARIETY_BISTRITA"), ("Temesvár", 2, "VARIETY_TIMISOARA"), ("Szarajevó", 2, "VARIETY_SARAJEVO"), 
+                                                                ("Újvidék", 2, "VARIETY_NOVISAD"), ("Homonna", 2, "VARIETY_HUMENNE"), ("Szekszárd", 2, "VARIETY_SZEKSZARD")], 
 'LEADER_MIKLOS_HORTHY'		: [("Budapest", 6, "VARIETY_BUDA"), ("Debrecen", 5, "VARIETY_DEBRECEN"), ("Szeged", 5, "VARIETY_SZEGED"), ("Pécs", 5, "VARIETY_PECS"), ("Sopron", 5, "VARIETY_SOPRON"), ("Eger", 4, "VARIETY_EGER"), 
-								("Esztergom", 4, "VARIETY_ESZTERGOM"), ("Székesfehérvár", 4, "VARIETY_SZEKESFEHERVAR"), ("Miskolc", 4, "VARIETY_MISKOLC"), ("Szombathely", 4, "VARIETY_SZOMBATHELY"), ("Nyíregyháza", 3, "-1"), ("Györ", 5, "VARIETY_GYOR"), 
-								("Kecskemét", 3, "-1"), ("Szolnok", 3, "VARIETY_SZOLNOK"), ("Veszprém", 3, "VARIETY_VESZPREM"), ("Békéscsaba", 3, "VARIETY_BEKESCSABA"), ("Zalaegerszeg", 3, "VARIETY_ZALAEGERSZEG"), ("Komárom", 3, "VARIETY_KOMAROM"), 
-								("Baja", 3, "VARIETY_BAJA"), ("Szekszárd", 3, "VARIETY_SZEKSZARD"),	("Gyula", 3, "VARIETY_GYULA"), ("Cegléd", 2, "VARIETY_CEGLED"), ("Kaposvár", 2, "VARIETY_KAPOSVAR"), ("Tatabánya", 2, "VARIETY_TATABANYA"),	
-								("Érd", 2, "VARIETY_ERD"), ("Nagykanizsa", 2, "VARIETY_NAGYKANIZSA"), ("Hódmezövásárhely", 2, "VARIETY_HODMEZOVASARHELY"), ("Salgótarján", 2, "VARIETY_SALGOTARJAN"), ("Vác", 2, "VARIETY_VAC"), ("Pápa", 2, "-1"), 
-								("Csongrád", 2, "-1"), ("Csanád", 2, "-1"), ("Szentes", 2, "-1"), ("Orosháza", 2, "-1"), ("Bonyhád", 1, "-1"), ("Kiskunfélegyháza", 1, "VARIETY_KISKUNFELEGYHAZA"), ("Hajdúböszörmény", 1, "-1"), ("Ózd", 1, "-1"), 
-								("Gyöngyös", 1, "-1"), ("Nyírbátor", 1, "-1"), ("Gödöllö", 1, "VARIETY_GODOLLO"), ("Dunakeszi", 1, "-1"), ("Ajka", 1, "-1"), ("Mosonmagyaróvár", 1, "VARIETY_MOSONMAGYAROVAR"), ("Kiskunhalas", 1, "VARIETY_KISKUNHALLAS")],
+                                         ("Esztergom", 4, "VARIETY_ESZTERGOM"), ("Székesfehérvár", 4, "VARIETY_SZEKESFEHERVAR"), ("Miskolc", 4, "VARIETY_MISKOLC"), ("Szombathely", 4, "VARIETY_SZOMBATHELY"), ("Nyíregyháza", 3, "-1"), ("Györ", 5, "VARIETY_GYOR"), 
+                                                                ("Kecskemét", 3, "-1"), ("Szolnok", 3, "VARIETY_SZOLNOK"), ("Veszprém", 3, "VARIETY_VESZPREM"), ("Békéscsaba", 3, "VARIETY_BEKESCSABA"), ("Zalaegerszeg", 3, "VARIETY_ZALAEGERSZEG"), ("Komárom", 3, "VARIETY_KOMAROM"), 
+                                                                ("Baja", 3, "VARIETY_BAJA"), ("Szekszárd", 3, "VARIETY_SZEKSZARD"),	("Gyula", 3, "VARIETY_GYULA"), ("Cegléd", 2, "VARIETY_CEGLED"), ("Kaposvár", 2, "VARIETY_KAPOSVAR"), ("Tatabánya", 2, "VARIETY_TATABANYA"),	
+                                                                ("Érd", 2, "VARIETY_ERD"), ("Nagykanizsa", 2, "VARIETY_NAGYKANIZSA"), ("Hódmezövásárhely", 2, "VARIETY_HODMEZOVASARHELY"), ("Salgótarján", 2, "VARIETY_SALGOTARJAN"), ("Vác", 2, "VARIETY_VAC"), ("Pápa", 2, "-1"), 
+                                                                ("Csongrád", 2, "-1"), ("Csanád", 2, "-1"), ("Szentes", 2, "-1"), ("Orosháza", 2, "-1"), ("Bonyhád", 1, "-1"), ("Kiskunfélegyháza", 1, "VARIETY_KISKUNFELEGYHAZA"), ("Hajdúböszörmény", 1, "-1"), ("Ózd", 1, "-1"), 
+                                                                ("Gyöngyös", 1, "-1"), ("Nyírbátor", 1, "-1"), ("Gödöllö", 1, "VARIETY_GODOLLO"), ("Dunakeszi", 1, "-1"), ("Ajka", 1, "-1"), ("Mosonmagyaróvár", 1, "VARIETY_MOSONMAGYAROVAR"), ("Kiskunhalas", 1, "VARIETY_KISKUNHALLAS")],
 # Inca
 'LEADER_ANDRES_SANTA_CRUZ'	: [("Lima", 9, "-1"), ("Tacna", 10, "-1"), ("La Paz", 9, "VARIETY_LAPAZ"), ("Tumbes", 7, "-1"), ("Moyobamba", 7, "-1"), ("Piura", 7, "-1"), ("Chiclayo", 7, "-1"), ("Cajamarca", 7, "-1"), ("Trujillo", 7, "-1"), 
-								("Huaras", 7, "-1"), ("Huanuco", 7, "-1"), ("Cerro de Pasco", 7, "-1"), ("Callao", 7, "-1"), ("Huancayo", 8, "-1"), ("Cuzco", 8, "-1"), ("Arequipa", 8, "-1"), ("Arica", 7, "-1"), ("Oruro", 7, "-1"), ("Cochabamba", 8, "-1"), 
-								("Santa Cruz", 8, "-1"), ("Potosi", 8, "-1"), ("Sucre", 8, "-1"), ("Iquique", 7, "-1"), ("Leticia", 8, "VARIETY_LETICIA"), ("Ayacucho", 8, "-1"), ("Puno", 8, "-1"), ("Tocopilla", 6, "-1"), ("Pisagua", 6, "-1"), 
-								("Moquegua", 5, "-1"), ("Ilo", 5, "-1"), ("Yungay", 5, "-1"), ("Ingavi", 5, "-1"), ("Yanacocha", 5, "-1"), ("Paucarpata", 5, "-1"), ("Socabaya", 5, "-1"), ("Cobija", 5, "-1")],
+                                     ("Huaras", 7, "-1"), ("Huanuco", 7, "-1"), ("Cerro de Pasco", 7, "-1"), ("Callao", 7, "-1"), ("Huancayo", 8, "-1"), ("Cuzco", 8, "-1"), ("Arequipa", 8, "-1"), ("Arica", 7, "-1"), ("Oruro", 7, "-1"), ("Cochabamba", 8, "-1"), 
+                                                                ("Santa Cruz", 8, "-1"), ("Potosi", 8, "-1"), ("Sucre", 8, "-1"), ("Iquique", 7, "-1"), ("Leticia", 8, "VARIETY_LETICIA"), ("Ayacucho", 8, "-1"), ("Puno", 8, "-1"), ("Tocopilla", 6, "-1"), ("Pisagua", 6, "-1"), 
+                                                                ("Moquegua", 5, "-1"), ("Ilo", 5, "-1"), ("Yungay", 5, "-1"), ("Ingavi", 5, "-1"), ("Yanacocha", 5, "-1"), ("Paucarpata", 5, "-1"), ("Socabaya", 5, "-1"), ("Cobija", 5, "-1")],
 'LEADER_HUAYNA_CAPAC'		: [("Cuzco", 9, "-1"), ("Quito", 8, "-1"), ("Huanuco Pampa", 7, "-1"), ("Tiwanaku", 7, "-1"), ("Chan Chan", 7, "-1"), ("Pachacamac", 7, "-1"), ("Cajamarca", 7, "-1"), ("Ollantaytambo", 7, "-1"), ("Choquequirao", 6, "-1"), 
-								("Tumebamba", 6, "-1"), ("Pisac", 6, "-1"), ("Llactapata", 6, "-1"), ("Sacsayhuaman", 6, "-1"), ("Ingapirca", 6, "-1"), ("Chuquiago", 6, "VARIETY_LAPAZ"), ("Copiapo", 6, "-1"), ("Vilcashuaman", 5, "-1"), 
-								("Hatun Xauxa", 5, "VARIETY_JAUJA"), ("Paria", 5, "-1"), ("Tumbes", 5, "-1"), ("Inkawasi", 5, "-1"), ("Tilcara", 5, "-1"), ("Puka Tampu", 4, "-1"), ("Cochabamba", 4, "-1"), ("Locumba", 4, "-1"), ("Lupaqa", 4, "-1"), 
-								("Moquegua", 4, "-1"), ("Tarata", 4, "-1"), ("Arica", 4, "-1"), ("Camana", 4, "-1"), ("Andahuayla", 4, "-1"), ("Ica", 4, "-1"), ("Vilcas", 4, "-1"), ("Yanahuara", 4, "-1"), ("Paucartambo", 4, "-1"), ("Cajatambo", 4, "-1"), 
-								("Kuelap", 4, "-1"), ("Huancabamba", 4, "-1"), ("Pacasmayo", 4, "-1"), ("Winay Wayna", 4, "-1")], 
+                                        ("Tumebamba", 6, "-1"), ("Pisac", 6, "-1"), ("Llactapata", 6, "-1"), ("Sacsayhuaman", 6, "-1"), ("Ingapirca", 6, "-1"), ("Chuquiago", 6, "VARIETY_LAPAZ"), ("Copiapo", 6, "-1"), ("Vilcashuaman", 5, "-1"), 
+                                                                ("Hatun Xauxa", 5, "VARIETY_JAUJA"), ("Paria", 5, "-1"), ("Tumbes", 5, "-1"), ("Inkawasi", 5, "-1"), ("Tilcara", 5, "-1"), ("Puka Tampu", 4, "-1"), ("Cochabamba", 4, "-1"), ("Locumba", 4, "-1"), ("Lupaqa", 4, "-1"), 
+                                                                ("Moquegua", 4, "-1"), ("Tarata", 4, "-1"), ("Arica", 4, "-1"), ("Camana", 4, "-1"), ("Andahuayla", 4, "-1"), ("Ica", 4, "-1"), ("Vilcas", 4, "-1"), ("Yanahuara", 4, "-1"), ("Paucartambo", 4, "-1"), ("Cajatambo", 4, "-1"), 
+                                                                ("Kuelap", 4, "-1"), ("Huancabamba", 4, "-1"), ("Pacasmayo", 4, "-1"), ("Winay Wayna", 4, "-1")], 
 'LEADER_INCAROCA'			: [("Cuzco", 9, "-1"), ("Quito", 8, "-1"), ("Huanuco Pampa", 7, "-1"), ("Tiwanaku", 7, "-1"), ("Chan Chan", 7, "-1"), ("Pachacamac", 7, "-1"), ("Cajamarca", 7, "-1"), ("Ollantaytambo", 7, "-1"), ("Choquequirao", 6, "-1"), 
-								("Tumebamba", 6, "-1"), ("Pisac", 6, "-1"), ("Llactapata", 6, "-1"), ("Sacsayhuaman", 6, "-1"), ("Ingapirca", 6, "-1"), ("Chuquiago", 6, "VARIETY_LAPAZ"), ("Copiapo", 6, "-1"), ("Vilcashuaman", 5, "-1"), 
-								("Hatun Xauxa", 5, "VARIETY_JAUJA"), ("Paria", 5, "-1"), ("Tumbes", 5, "-1"), ("Inkawasi", 5, "-1"), ("Tilcara", 5, "-1"), ("Puka Tampu", 4, "-1"), ("Cochabamba", 4, "-1"), ("Locumba", 4, "-1"), ("Lupaqa", 4, "-1"), 
-								("Moquegua", 4, "-1"), ("Tarata", 4, "-1"), ("Arica", 4, "-1"), ("Camana", 4, "-1"), ("Andahuayla", 4, "-1"), ("Ica", 4, "-1"), ("Vilcas", 4, "-1"), ("Yanahuara", 4, "-1"), ("Paucartambo", 4, "-1"), ("Cajatambo", 4, "-1"), 
-								("Kuelap", 4, "-1"), ("Huancabamba", 4, "-1"), ("Pacasmayo", 4, "-1"), ("Winay Wayna", 4, "-1")], 
+                                            ("Tumebamba", 6, "-1"), ("Pisac", 6, "-1"), ("Llactapata", 6, "-1"), ("Sacsayhuaman", 6, "-1"), ("Ingapirca", 6, "-1"), ("Chuquiago", 6, "VARIETY_LAPAZ"), ("Copiapo", 6, "-1"), ("Vilcashuaman", 5, "-1"), 
+                                                                ("Hatun Xauxa", 5, "VARIETY_JAUJA"), ("Paria", 5, "-1"), ("Tumbes", 5, "-1"), ("Inkawasi", 5, "-1"), ("Tilcara", 5, "-1"), ("Puka Tampu", 4, "-1"), ("Cochabamba", 4, "-1"), ("Locumba", 4, "-1"), ("Lupaqa", 4, "-1"), 
+                                                                ("Moquegua", 4, "-1"), ("Tarata", 4, "-1"), ("Arica", 4, "-1"), ("Camana", 4, "-1"), ("Andahuayla", 4, "-1"), ("Ica", 4, "-1"), ("Vilcas", 4, "-1"), ("Yanahuara", 4, "-1"), ("Paucartambo", 4, "-1"), ("Cajatambo", 4, "-1"), 
+                                                                ("Kuelap", 4, "-1"), ("Huancabamba", 4, "-1"), ("Pacasmayo", 4, "-1"), ("Winay Wayna", 4, "-1")], 
 'LEADER_PACHACUTI'			: [("Cuzco", 9, "-1"), ("Quito", 8, "-1"), ("Huanuco Pampa", 7, "-1"), ("Tiwanaku", 7, "-1"), ("Chan Chan", 7, "-1"), ("Pachacamac", 7, "-1"), ("Cajamarca", 7, "-1"), ("Ollantaytambo", 7, "-1"), ("Choquequirao", 6, "-1"), 
-								("Tumebamba", 6, "-1"), ("Pisac", 6, "-1"), ("Llactapata", 6, "-1"), ("Sacsayhuaman", 6, "-1"), ("Ingapirca", 6, "-1"), ("Chuquiago", 6, "VARIETY_LAPAZ"), ("Copiapo", 6, "-1"), ("Vilcashuaman", 5, "-1"), 
-								("Hatun Xauxa", 5, "VARIETY_JAUJA"), ("Paria", 5, "-1"), ("Tumbes", 5, "-1"), ("Inkawasi", 5, "-1"), ("Tilcara", 5, "-1"), ("Puka Tampu", 4, "-1"), ("Cochabamba", 4, "-1"), ("Locumba", 4, "-1"), ("Lupaqa", 4, "-1"), 
-								("Moquegua", 4, "-1"), ("Tarata", 4, "-1"), ("Arica", 4, "-1"), ("Camana", 4, "-1"), ("Andahuayla", 4, "-1"), ("Ica", 4, "-1"), ("Vilcas", 4, "-1"), ("Yanahuara", 4, "-1"), ("Paucartambo", 4, "-1"), ("Cajatambo", 4, "-1"), 
-								("Kuelap", 4, "-1"), ("Huancabamba", 4, "-1"), ("Pacasmayo", 4, "-1"), ("Winay Wayna", 4, "-1")],
+                                             ("Tumebamba", 6, "-1"), ("Pisac", 6, "-1"), ("Llactapata", 6, "-1"), ("Sacsayhuaman", 6, "-1"), ("Ingapirca", 6, "-1"), ("Chuquiago", 6, "VARIETY_LAPAZ"), ("Copiapo", 6, "-1"), ("Vilcashuaman", 5, "-1"), 
+                                                                ("Hatun Xauxa", 5, "VARIETY_JAUJA"), ("Paria", 5, "-1"), ("Tumbes", 5, "-1"), ("Inkawasi", 5, "-1"), ("Tilcara", 5, "-1"), ("Puka Tampu", 4, "-1"), ("Cochabamba", 4, "-1"), ("Locumba", 4, "-1"), ("Lupaqa", 4, "-1"), 
+                                                                ("Moquegua", 4, "-1"), ("Tarata", 4, "-1"), ("Arica", 4, "-1"), ("Camana", 4, "-1"), ("Andahuayla", 4, "-1"), ("Ica", 4, "-1"), ("Vilcas", 4, "-1"), ("Yanahuara", 4, "-1"), ("Paucartambo", 4, "-1"), ("Cajatambo", 4, "-1"), 
+                                                                ("Kuelap", 4, "-1"), ("Huancabamba", 4, "-1"), ("Pacasmayo", 4, "-1"), ("Winay Wayna", 4, "-1")],
 'LEADER_TUPAC_AMARU_II'		: [("Cuzco", 9, "-1"), ("Lima", 8, "-1"), ("Santiago", 8, "-1"), ("Potosi", 8, "-1"), ("Ayacucho", 7, "-1"), ("Arequipa", 7, "-1"), ("Chuquiago", 7, "VARIETY_LAPAZ"), ("Sucre", 7, "-1"), ("Santa Cruz", 7, "-1"), 
-								("Valdivia", 7, "-1"), ("Guayaquil", 6, "-1"), ("Piura", 6, "-1"), ("Quito", 6, "-1"), ("Chiclayo", 6, "-1"), ("Trujillo", 6, "-1"), ("Callao", 6, "-1"), ("Huancayo", 6, "-1"), ("Ica", 6, "-1"), ("Tacna", 6, "-1"), 
-								("Arica", 6, "-1"), ("Huancavelica", 6, "-1"), ("Loja", 5, "-1"), ("Zamora", 5, "-1"), ("Payta", 5, "-1"), ("Tarma", 5, "-1"), ("Pisco", 5, "-1"), ("Corocoro", 5, "-1"), ("Tinta", 5, "-1"), ("Oruro", 5, "-1"), 
-								("Chiapa", 5, "-1"), ("Catamarca", 5, "-1"), ("Pichincha", 5, "-1"), ("Pasto", 5, "-1"), ("Lancagua", 5, "-1"), ("Castrovirreyna", 5, "-1"), ("Chuquisaca", 5, "-1")],
+                                          ("Valdivia", 7, "-1"), ("Guayaquil", 6, "-1"), ("Piura", 6, "-1"), ("Quito", 6, "-1"), ("Chiclayo", 6, "-1"), ("Trujillo", 6, "-1"), ("Callao", 6, "-1"), ("Huancayo", 6, "-1"), ("Ica", 6, "-1"), ("Tacna", 6, "-1"), 
+                                                                ("Arica", 6, "-1"), ("Huancavelica", 6, "-1"), ("Loja", 5, "-1"), ("Zamora", 5, "-1"), ("Payta", 5, "-1"), ("Tarma", 5, "-1"), ("Pisco", 5, "-1"), ("Corocoro", 5, "-1"), ("Tinta", 5, "-1"), ("Oruro", 5, "-1"), 
+                                                                ("Chiapa", 5, "-1"), ("Catamarca", 5, "-1"), ("Pichincha", 5, "-1"), ("Pasto", 5, "-1"), ("Lancagua", 5, "-1"), ("Castrovirreyna", 5, "-1"), ("Chuquisaca", 5, "-1")],
 'LEADER_TUPACINCA'			: [("Cuzco", 9, "-1"), ("Quito", 8, "-1"), ("Huanuco Pampa", 7, "-1"), ("Tiwanaku", 7, "-1"), ("Chan Chan", 7, "-1"), ("Pachacamac", 7, "-1"), ("Cajamarca", 7, "-1"), ("Ollantaytambo", 7, "-1"), ("Choquequirao", 6, "-1"), 
-								("Tumebamba", 6, "-1"), ("Pisac", 6, "-1"), ("Llactapata", 6, "-1"), ("Sacsayhuaman", 6, "-1"), ("Ingapirca", 6, "-1"), ("Chuquiago", 6, "VARIETY_LAPAZ"), ("Copiapo", 6, "-1"), ("Vilcashuaman", 5, "-1"), 
-								("Hatun Xauxa", 5, "VARIETY_JAUJA"), ("Paria", 5, "-1"), ("Tumbes", 5, "-1"), ("Inkawasi", 5, "-1"), ("Tilcara", 5, "-1"), ("Puka Tampu", 4, "-1"), ("Cochabamba", 4, "-1"), ("Locumba", 4, "-1"), ("Lupaqa", 4, "-1"), 
-								("Moquegua", 4, "-1"), ("Tarata", 4, "-1"), ("Arica", 4, "-1"), ("Camana", 4, "-1"), ("Andahuayla", 4, "-1"), ("Ica", 4, "-1"), ("Vilcas", 4, "-1"), ("Yanahuara", 4, "-1"), ("Paucartambo", 4, "-1"), ("Cajatambo", 4, "-1"), 
-								("Kuelap", 4, "-1"), ("Huancabamba", 4, "-1"), ("Pacasmayo", 4, "-1"), ("Winay Wayna", 4, "-1")],
+                                             ("Tumebamba", 6, "-1"), ("Pisac", 6, "-1"), ("Llactapata", 6, "-1"), ("Sacsayhuaman", 6, "-1"), ("Ingapirca", 6, "-1"), ("Chuquiago", 6, "VARIETY_LAPAZ"), ("Copiapo", 6, "-1"), ("Vilcashuaman", 5, "-1"), 
+                                                                ("Hatun Xauxa", 5, "VARIETY_JAUJA"), ("Paria", 5, "-1"), ("Tumbes", 5, "-1"), ("Inkawasi", 5, "-1"), ("Tilcara", 5, "-1"), ("Puka Tampu", 4, "-1"), ("Cochabamba", 4, "-1"), ("Locumba", 4, "-1"), ("Lupaqa", 4, "-1"), 
+                                                                ("Moquegua", 4, "-1"), ("Tarata", 4, "-1"), ("Arica", 4, "-1"), ("Camana", 4, "-1"), ("Andahuayla", 4, "-1"), ("Ica", 4, "-1"), ("Vilcas", 4, "-1"), ("Yanahuara", 4, "-1"), ("Paucartambo", 4, "-1"), ("Cajatambo", 4, "-1"), 
+                                                                ("Kuelap", 4, "-1"), ("Huancabamba", 4, "-1"), ("Pacasmayo", 4, "-1"), ("Winay Wayna", 4, "-1")],
 # India
 'LEADER_ASOKA'				: [("Pataliputra", 10, "-1"), ("Suvarnagiri", 9, "-1"), ("Taxila", 9, "VARIETY_KUSHANS"), ("Toshali", 9, "-1"), ("Ujjain", 9, "-1"), ("Patala", 8, "VARIETY_MOHENJO-DARO"), 
-								("Mathura", 8, "-1"), ("Tamralipta", 8, "-1"), ("Kapilavastu", 8, "-1"), ("Sarnath", 8, "-1"), ("Sanchi", 8, "-1"), ("Bodh Gaya", 8, "-1"), ("Kandahar", 7, "-1"), ("Sibipura", 7, "-1"), ("Indraprastha", 7, "-1"), 
-								("Vidisha", 7, "-1"), ("Shravasti", 7, "-1"), ("Mahishmati", 7, "-1"), ("Junagadh", 7, "-1"), ("Bhragukutchh", 7, "VARIETY_BARYGAZA"), ("Vallabhipura", 7, "-1"), ("Kosambi", 7, "-1"), ("Pundranagara", 6, "-1"), 
-								("Rampurva", 6, "-1"), ("Lauriya", 6, "-1"), ("Lumbini", 6, "-1"), ("Ranigat", 6, "-1"), ("Meerut", 6, "-1"), ("Prayaga", 6, "VARIETY_ALLAHABAD"), ("Amaravathi", 6, "-1"), ("Nigliva", 6, "-1"), ("Girinagara", 6, "-1"), 
-								("Supparaka", 6, "-1"), ("Samapa", 7, "-1"), ("Sisupalgarh", 6, "-1"), ("Rajapura", 6, "-1"), ("Dantapura", 6, "-1")], 
+                                                 ("Mathura", 8, "-1"), ("Tamralipta", 8, "-1"), ("Kapilavastu", 8, "-1"), ("Sarnath", 8, "-1"), ("Sanchi", 8, "-1"), ("Bodh Gaya", 8, "-1"), ("Kandahar", 7, "-1"), ("Sibipura", 7, "-1"), ("Indraprastha", 7, "-1"), 
+                                                                ("Vidisha", 7, "-1"), ("Shravasti", 7, "-1"), ("Mahishmati", 7, "-1"), ("Junagadh", 7, "-1"), ("Bhragukutchh", 7, "VARIETY_BARYGAZA"), ("Vallabhipura", 7, "-1"), ("Kosambi", 7, "-1"), ("Pundranagara", 6, "-1"), 
+                                                                ("Rampurva", 6, "-1"), ("Lauriya", 6, "-1"), ("Lumbini", 6, "-1"), ("Ranigat", 6, "-1"), ("Meerut", 6, "-1"), ("Prayaga", 6, "VARIETY_ALLAHABAD"), ("Amaravathi", 6, "-1"), ("Nigliva", 6, "-1"), ("Girinagara", 6, "-1"), 
+                                                                ("Supparaka", 6, "-1"), ("Samapa", 7, "-1"), ("Sisupalgarh", 6, "-1"), ("Rajapura", 6, "-1"), ("Dantapura", 6, "-1")], 
 'LEADER_CHANDRAGUPTA'		: [("Ayodhya", 9, "-1"),("Pataliputra", 10, "-1"), ("Vallabhi", 7, "-1"), ("Sakala", 7, "VARIETY_SIALKOT"), ("Bhragukutchh", 7, "VARIETY_BARYGAZA"), ("Ujjain", 9, "-1"), ("Patala", 7, "VARIETY_MOHENJO-DARO"), 
-								("Mathura", 9, "-1"), ("Tamralipta", 8, "-1"), ("Kapilavastu", 7, "-1"), ("Sarnath", 7, "-1"), ("Sanchi", 7, "-1"), ("Bodh Gaya", 7, "-1"), ("Airikina", 7, "-1"), ("Kannauj", 7, "-1"), ("Indraprastha", 7, "-1"), 
-								("Vidisha", 8, "-1"), ("Kushinagar", 7, "-1"), ("Vaishali", 7, "-1"), ("Junagadh", 7, "-1"), ("Rajgriha", 7, "-1"), ("Vallabhipura", 7, "-1"), ("Kosambi", 7, "-1"), ("Nalanda", 6, "-1"), ("Mehrauli", 6, "VARIETY_DELHI"), 
-								("Ajanta", 6, "-1"), ("Bakshali", 6, "-1"), ("Ranigat", 6, "-1"), ("Meerut", 6, "-1"), ("Prayaga", 9, "VARIETY_ALLAHABAD"), ("Amaravathi", 6, "-1"), ("Nigliva", 6, "-1"), ("Deogarh", 6, "-1"), ("Durjanpur", 6, "-1"), 
-								("Samapa", 7, "-1"), ("Ahichchhatra", 6, "-1"), ("Bharhut", 6, "-1"), ("Dashpura", 6, "-1")],  
+                                        ("Mathura", 9, "-1"), ("Tamralipta", 8, "-1"), ("Kapilavastu", 7, "-1"), ("Sarnath", 7, "-1"), ("Sanchi", 7, "-1"), ("Bodh Gaya", 7, "-1"), ("Airikina", 7, "-1"), ("Kannauj", 7, "-1"), ("Indraprastha", 7, "-1"), 
+                                                                ("Vidisha", 8, "-1"), ("Kushinagar", 7, "-1"), ("Vaishali", 7, "-1"), ("Junagadh", 7, "-1"), ("Rajgriha", 7, "-1"), ("Vallabhipura", 7, "-1"), ("Kosambi", 7, "-1"), ("Nalanda", 6, "-1"), ("Mehrauli", 6, "VARIETY_DELHI"), 
+                                                                ("Ajanta", 6, "-1"), ("Bakshali", 6, "-1"), ("Ranigat", 6, "-1"), ("Meerut", 6, "-1"), ("Prayaga", 9, "VARIETY_ALLAHABAD"), ("Amaravathi", 6, "-1"), ("Nigliva", 6, "-1"), ("Deogarh", 6, "-1"), ("Durjanpur", 6, "-1"), 
+                                                                ("Samapa", 7, "-1"), ("Ahichchhatra", 6, "-1"), ("Bharhut", 6, "-1"), ("Dashpura", 6, "-1")],  
 'LEADER_CHANDRAGUPTA_MAURYA': [("Pataliputra", 10, "-1"), ("Indraprastha", 9, "-1"), ("Taxila", 9, "VARIETY_KUSHANS"), ("Ujjain", 9, "-1"), ("Patala", 8, "VARIETY_MOHENJO-DARO"), ("Mathura", 8, "-1"), ("Tamralipta", 8, "-1"), 
-								("Kapilavastu", 8, "-1"), ("Sarnath", 8, "-1"), ("Pratishthanpura", 8, "-1"), ("Bodh Gaya", 8, "-1"), ("Kandahar", 7, "-1"), ("Sibipura", 7, "-1"), ("Indraprastha", 7, "-1"), ("Vidisha", 7, "-1"), ("Shravasti", 7, "-1"), 
-								("Mahishmati", 7, "-1"), ("Junagadh", 7, "-1"), ("Bhragukutchh", 7, "VARIETY_BARYGAZA"), ("Vallabhipura", 7, "-1"), ("Kosambi", 7, "-1"), ("Pundranagara", 6, "-1"), ("Rampurva", 6, "-1"), ("Lauriya", 6, "-1"), 
-								("Lumbini", 6, "-1"), ("Ranigat", 6, "-1"), ("Meerut", 6, "-1"), ("Prayaga", 6, "VARIETY_ALLAHABAD"), ("Amaravathi", 6, "-1"), ("Nigliva", 6, "-1"), ("Girinagara", 6, "-1"), ("Supparaka", 6, "-1")],
+                               ("Kapilavastu", 8, "-1"), ("Sarnath", 8, "-1"), ("Pratishthanpura", 8, "-1"), ("Bodh Gaya", 8, "-1"), ("Kandahar", 7, "-1"), ("Sibipura", 7, "-1"), ("Indraprastha", 7, "-1"), ("Vidisha", 7, "-1"), ("Shravasti", 7, "-1"), 
+                                                                ("Mahishmati", 7, "-1"), ("Junagadh", 7, "-1"), ("Bhragukutchh", 7, "VARIETY_BARYGAZA"), ("Vallabhipura", 7, "-1"), ("Kosambi", 7, "-1"), ("Pundranagara", 6, "-1"), ("Rampurva", 6, "-1"), ("Lauriya", 6, "-1"), 
+                                                                ("Lumbini", 6, "-1"), ("Ranigat", 6, "-1"), ("Meerut", 6, "-1"), ("Prayaga", 6, "VARIETY_ALLAHABAD"), ("Amaravathi", 6, "-1"), ("Nigliva", 6, "-1"), ("Girinagara", 6, "-1"), ("Supparaka", 6, "-1")],
 'LEADER_GANDHI'				: [("Delhi", 10, "VARIETY_DELHI"), ("Calcutta", 9, "-1"), ("Bombay", 8, "-1"), ("Madras", 8, "-1"), ("Hyderabad", 8, "VARIETY_HYDERABAD"), ("Ahmadabad", 7, "-1"), ("Bangalore", 7, "-1"), ("Pune", 7, "VARIETY_PUNE"), 
-								("Kanpur", 7, "VARIETY_KANPUR"), ("Lucknow", 6, "-1"), ("Nagpur", 6, "-1"), ("Agra", 6, "-1"), ("Madurai", 6, "-1"), ("Varanasi", 6, "VARIETY_BENARES"), ("Amritsar", 6, "-1"), ("Allahabad", 6, "VARIETY_ALLAHABAD"), 
-								("Indore", 6, "-1"), ("Jaipur", 5, "-1"), ("Tiruchirappalli", 5, "-1"), ("Coimbatore", 5, "-1"), ("Patna", 5, "-1"), ("Solapur", 5, "-1"), ("Jabalpur", 5, "-1"), ("Srinagar", 4, "-1"), ("Gwalior", 4, "-1"), ("Mysore", 4, "-1"), 
-								("Surat", 4, "-1"), ("Meerut", 4, "-1"), ("Jamshedpur", 4, "-1"), ("Bareilly", 4, "-1"), ("Vadodara", 4, "-1"), ("Salem", 3, "-1"), ("Ajmer", 3, "VARIETY_AJMER"), ("Hubli-Dharwad", 3, "-1"), ("Thiruvananthapuram", 3, "-1"), 
-								("Jodhpur", 3, "-1"), ("Jalandhar", 3, "-1")],  
+                                                  ("Kanpur", 7, "VARIETY_KANPUR"), ("Lucknow", 6, "-1"), ("Nagpur", 6, "-1"), ("Agra", 6, "-1"), ("Madurai", 6, "-1"), ("Varanasi", 6, "VARIETY_BENARES"), ("Amritsar", 6, "-1"), ("Allahabad", 6, "VARIETY_ALLAHABAD"), 
+                                                                ("Indore", 6, "-1"), ("Jaipur", 5, "-1"), ("Tiruchirappalli", 5, "-1"), ("Coimbatore", 5, "-1"), ("Patna", 5, "-1"), ("Solapur", 5, "-1"), ("Jabalpur", 5, "-1"), ("Srinagar", 4, "-1"), ("Gwalior", 4, "-1"), ("Mysore", 4, "-1"), 
+                                                                ("Surat", 4, "-1"), ("Meerut", 4, "-1"), ("Jamshedpur", 4, "-1"), ("Bareilly", 4, "-1"), ("Vadodara", 4, "-1"), ("Salem", 3, "-1"), ("Ajmer", 3, "VARIETY_AJMER"), ("Hubli-Dharwad", 3, "-1"), ("Thiruvananthapuram", 3, "-1"), 
+                                                                ("Jodhpur", 3, "-1"), ("Jalandhar", 3, "-1")],  
 'LEADER_PRITHVIRAJ_CHAUHAN'	: [("Ajayameru", 10, "VARIETY_AJMER"), ("Indraprastha", 9, "-1"), ("Kannauj", 9, "-1"), ("Prayaga", 9, "VARIETY_ALLAHABAD"), ("Benares", 9, "-1"), ("Qila Rai Pithora", 8, "VARIETY_DELHI"), 
-								("Panipat", 8, "-1"), ("Jodhpur", 8, "-1"), ("Gwalior", 8, "-1"), ("Gudapura", 7, "-1"), ("Mahoba", 7, "-1"), ("Kalinjar", 7, "-1"), ("Lodhruva", 7, "-1"), ("Tabarhindah", 7, "-1"), ("Tarain", 7, "-1"), 
-								("Phalodi", 6, "-1"), ("Madanpur", 6, "-1"), ("Udaipur", 6, "-1"), ("Visalpur", 6, "-1"), ("Barla", 6, "-1"), ("Hansi", 5, "-1"), ("Mandore", 5, "-1"), ("Mandalgarh", 5, "-1"), ("Topra", 5, "-1"), 
-								("Shakambhari", 5, "-1"), ("Pushkar", 5, "-1"), ("Narapura", 5, "-1"), ("Ranthambore", 5, "-1"), ("Bisalpur", 5, "-1"), ("Khimsar", 4, "-1"), ("Kuchaman", 4, "-1"), ("Makrana", 4, "-1"), ("Rupangarh", 4, "-1"), 
-								("Kishangar", 4, "-1"), ("Govindgarh", 4, "-1"), ("Merta", 4, "-1"), ("Dugaur", 4, "-1")], 
+                                      ("Panipat", 8, "-1"), ("Jodhpur", 8, "-1"), ("Gwalior", 8, "-1"), ("Gudapura", 7, "-1"), ("Mahoba", 7, "-1"), ("Kalinjar", 7, "-1"), ("Lodhruva", 7, "-1"), ("Tabarhindah", 7, "-1"), ("Tarain", 7, "-1"), 
+                                                                ("Phalodi", 6, "-1"), ("Madanpur", 6, "-1"), ("Udaipur", 6, "-1"), ("Visalpur", 6, "-1"), ("Barla", 6, "-1"), ("Hansi", 5, "-1"), ("Mandore", 5, "-1"), ("Mandalgarh", 5, "-1"), ("Topra", 5, "-1"), 
+                                                                ("Shakambhari", 5, "-1"), ("Pushkar", 5, "-1"), ("Narapura", 5, "-1"), ("Ranthambore", 5, "-1"), ("Bisalpur", 5, "-1"), ("Khimsar", 4, "-1"), ("Kuchaman", 4, "-1"), ("Makrana", 4, "-1"), ("Rupangarh", 4, "-1"), 
+                                                                ("Kishangar", 4, "-1"), ("Govindgarh", 4, "-1"), ("Merta", 4, "-1"), ("Dugaur", 4, "-1")], 
 'LEADER_SHIVAJI'			: [("Raigad", 10, "-1"), ("Kolhapur", 9, "-1"), ("Bijapur", 9, "-1"), ("Satara", 9, "-1"), ("Pune", 9, "-1"), ("Bellary", 8, "-1"), ("Bangalore", 8, "-1"), ("Vellore", 8, "-1"), ("Arni", 8, "-1"), ("Jinji", 8, "-1"), 
-								("Tanjore", 8, "-1"), ("Vengurla", 7, "-1"), ("Malvan", 7, "-1"), ("Vijaydurg", 7, "-1"), ("Rajapur", 7, "-1"), ("Javli", 7, "-1"), ("Sinhgarh", 7, "-1"), ("Wai", 7, "-1"), ("Rajmachi", 7, "-1"), ("Junnar", 7, "-1"), 
-								("Kalyan", 7, "-1"), ("Chandur", 7, "-1"), ("Nagpur", 6, "-1"), ("Ujjain", 6, "-1"), ("Saranpur", 6, "-1"), ("Gwalior", 6, "-1"), ("Jodhpur", 6, "-1"), ("Panipat", 6, "-1"), ("Shahjahanabad", 6, "VARIETY_DELHI"), 
-								("Cuttack", 6, "-1"), ("Aurangabad", 6, "-1"), ("Agra", 6, "-1"), ("Ajmer", 6, "-1"), ("Ganjam", 6, "-1"), ("Mathura", 6, "-1"), ("Surat", 6, "-1"), ("Baroda", 6, "-1")], 
+                                           ("Tanjore", 8, "-1"), ("Vengurla", 7, "-1"), ("Malvan", 7, "-1"), ("Vijaydurg", 7, "-1"), ("Rajapur", 7, "-1"), ("Javli", 7, "-1"), ("Sinhgarh", 7, "-1"), ("Wai", 7, "-1"), ("Rajmachi", 7, "-1"), ("Junnar", 7, "-1"), 
+                                                                ("Kalyan", 7, "-1"), ("Chandur", 7, "-1"), ("Nagpur", 6, "-1"), ("Ujjain", 6, "-1"), ("Saranpur", 6, "-1"), ("Gwalior", 6, "-1"), ("Jodhpur", 6, "-1"), ("Panipat", 6, "-1"), ("Shahjahanabad", 6, "VARIETY_DELHI"), 
+                                                                ("Cuttack", 6, "-1"), ("Aurangabad", 6, "-1"), ("Agra", 6, "-1"), ("Ajmer", 6, "-1"), ("Ganjam", 6, "-1"), ("Mathura", 6, "-1"), ("Surat", 6, "-1"), ("Baroda", 6, "-1")], 
 # Japan
 'LEADER_TOKUGAWA'			: [("Edo", 10, "VARIETY_TOKYO"), ("Kyoto", 9, "VARIETY_KYOTO"), ("Osaka", 8, "-1"), ("Kanazawa", 8, "-1"), ("Nagoya", 7, "-1"), ("Sakai", 7, "-1"), ("Sendai", 7, "-1"), ("Hakata", 7, "-1"), ("Fukuoka", 7, "-1"), 
-								("Kagoshima", 7, "-1"), ("Fukui", 7, "-1"), ("Hikone", 6, "-1"), ("Nagasaki", 6, "-1"), ("Yonezawa", 6, "-1"), ("Nara", 6, "-1"), ("Tottori", 6, "-1"), ("Yamada", 6, "-1"), ("Okayama", 5, "-1"), ("Wakamatsu", 5, "-1"), 
-								("Kofu", 5, "-1"), ("Yamagata", 5, "-1"), ("Matsuyama", 5, "-1"), ("Kuwana", 5, "-1"), ("Otsu", 5, "-1"), ("Ogaki", 5, "-1"), ("Takada", 5, "-1"), ("Himeji", 5, "-1"), ("Tsuruga", 5, "-1"), ("Hyogo", 5, "-1"), ("Kobe", 5, "-1"), 
-								("Kochi", 5, "-1"), ("Kubota", 4, "-1"), ("Matsue", 4, "-1"), ("Kumamoto", 4, "-1"), ("Morioka", 4, "-1"), ("Fushimi", 4, "-1"), ("Okazaki", 7, "-1"), ("Sekigahara", 7, "-1"), ("Sunpu", 6, "-1"), ("Nagashino", 6, "-1")],
+                                            ("Kagoshima", 7, "-1"), ("Fukui", 7, "-1"), ("Hikone", 6, "-1"), ("Nagasaki", 6, "-1"), ("Yonezawa", 6, "-1"), ("Nara", 6, "-1"), ("Tottori", 6, "-1"), ("Yamada", 6, "-1"), ("Okayama", 5, "-1"), ("Wakamatsu", 5, "-1"), 
+                                                                ("Kofu", 5, "-1"), ("Yamagata", 5, "-1"), ("Matsuyama", 5, "-1"), ("Kuwana", 5, "-1"), ("Otsu", 5, "-1"), ("Ogaki", 5, "-1"), ("Takada", 5, "-1"), ("Himeji", 5, "-1"), ("Tsuruga", 5, "-1"), ("Hyogo", 5, "-1"), ("Kobe", 5, "-1"), 
+                                                                ("Kochi", 5, "-1"), ("Kubota", 4, "-1"), ("Matsue", 4, "-1"), ("Kumamoto", 4, "-1"), ("Morioka", 4, "-1"), ("Fushimi", 4, "-1"), ("Okazaki", 7, "-1"), ("Sekigahara", 7, "-1"), ("Sunpu", 6, "-1"), ("Nagashino", 6, "-1")],
 'LEADER_HIDEYOSHI'			: [("Edo", 10, "VARIETY_TOKYO"), ("Kyoto", 9, "VARIETY_KYOTO"), ("Osaka", 8, "-1"), ("Kanazawa", 8, "-1"), ("Nagoya", 7, "-1"), ("Sakai", 7, "-1"), ("Sendai", 7, "-1"), ("Hakata", 7, "-1"), ("Fukuoka", 7, "-1"), 
-								("Kagoshima", 7, "-1"), ("Fukui", 7, "-1"), ("Hikone", 6, "-1"), ("Nagasaki", 6, "-1"), ("Yonezawa", 6, "-1"), ("Nara", 6, "-1"), ("Tottori", 6, "-1"), ("Yamada", 6, "-1"), ("Okayama", 5, "-1"), ("Wakamatsu", 5, "-1"), 
-								("Kofu", 5, "-1"), ("Yamagata", 5, "-1"), ("Matsuyama", 5, "-1"), ("Kuwana", 5, "-1"), ("Otsu", 5, "-1"), ("Ogaki", 5, "-1"), ("Takada", 5, "-1"), ("Himeji", 5, "-1"), ("Tsuruga", 5, "-1"), ("Hyogo", 5, "-1"), ("Kobe", 5, "-1"), 
-								("Kochi", 5, "-1"), ("Kubota", 4, "-1"), ("Matsue", 4, "-1"), ("Kumamoto", 4, "-1"), ("Morioka", 4, "-1"), ("Fushimi", 4, "-1"), ("Momoyama", 7, "-1"), ("Okehazama", 7, "-1"), ("Inabayama", 6, "-1"), ("Yamazaki", 6, "-1")],
+                                             ("Kagoshima", 7, "-1"), ("Fukui", 7, "-1"), ("Hikone", 6, "-1"), ("Nagasaki", 6, "-1"), ("Yonezawa", 6, "-1"), ("Nara", 6, "-1"), ("Tottori", 6, "-1"), ("Yamada", 6, "-1"), ("Okayama", 5, "-1"), ("Wakamatsu", 5, "-1"), 
+                                                                ("Kofu", 5, "-1"), ("Yamagata", 5, "-1"), ("Matsuyama", 5, "-1"), ("Kuwana", 5, "-1"), ("Otsu", 5, "-1"), ("Ogaki", 5, "-1"), ("Takada", 5, "-1"), ("Himeji", 5, "-1"), ("Tsuruga", 5, "-1"), ("Hyogo", 5, "-1"), ("Kobe", 5, "-1"), 
+                                                                ("Kochi", 5, "-1"), ("Kubota", 4, "-1"), ("Matsue", 4, "-1"), ("Kumamoto", 4, "-1"), ("Morioka", 4, "-1"), ("Fushimi", 4, "-1"), ("Momoyama", 7, "-1"), ("Okehazama", 7, "-1"), ("Inabayama", 6, "-1"), ("Yamazaki", 6, "-1")],
 'LEADER_MUTSUHITO'			: [("Tokyo", 10, "VARIETY_TOKYO"), ("Osaka", 9, "-1"), ("Saikyo", 8, "VARIETY_KYOTO"), ("Nagoya", 7, "-1"), ("Kobe", 7, "-1"), ("Yokohama", 7, "-1"), ("Kanazawa", 6, "-1"), ("Sendai", 6, "-1"), ("Hiroshima", 6, "-1"), 
-								("Tokushima", 6, "-1"), ("Toyama", 5, "-1"), ("Kagoshima", 5, "-1"), ("Wakayama", 5, "-1"), ("Nagasaki", 5, "-1"), ("Fukuoka", 5, "-1"), ("Hakodate", 5, "-1"), ("Kumamoto", 5, "-1"), ("Okayama", 4, "-1"), ("Sakai", 4, "-1"), 
-								("Niigata", 4, "-1"), ("Fukui", 4, "-1"), ("Naha", 4, "-1"), ("Shizuoka", 3, "-1"), ("Matsue", 3, "-1"), ("Matsuyama", 3, "-1"), ("Kochi", 3, "-1"), ("Takamatsu", 3, "-1"), ("Morioka", 3, "-1"), ("Kofu", 3, "-1"), 
-								("Utsunomiya", 3, "-1"), ("Hirosaki", 3, "-1"), ("Otsu", 2, "-1"), ("Akamaseki", 2, "-1"), ("Yonezawa", 2, "-1"), ("Akita", 2, "-1"), ("Matsumoto", 2, "-1")],
+                                             ("Tokushima", 6, "-1"), ("Toyama", 5, "-1"), ("Kagoshima", 5, "-1"), ("Wakayama", 5, "-1"), ("Nagasaki", 5, "-1"), ("Fukuoka", 5, "-1"), ("Hakodate", 5, "-1"), ("Kumamoto", 5, "-1"), ("Okayama", 4, "-1"), ("Sakai", 4, "-1"), 
+                                                                ("Niigata", 4, "-1"), ("Fukui", 4, "-1"), ("Naha", 4, "-1"), ("Shizuoka", 3, "-1"), ("Matsue", 3, "-1"), ("Matsuyama", 3, "-1"), ("Kochi", 3, "-1"), ("Takamatsu", 3, "-1"), ("Morioka", 3, "-1"), ("Kofu", 3, "-1"), 
+                                                                ("Utsunomiya", 3, "-1"), ("Hirosaki", 3, "-1"), ("Otsu", 2, "-1"), ("Akamaseki", 2, "-1"), ("Yonezawa", 2, "-1"), ("Akita", 2, "-1"), ("Matsumoto", 2, "-1")],
 'LEADER_ODA_NOBUNAGA'		: [("Edo", 10, "VARIETY_TOKYO"), ("Kyoto", 9, "VARIETY_KYOTO"), ("Osaka", 8, "-1"), ("Kanazawa", 8, "-1"), ("Nagoya", 7, "-1"), ("Sakai", 7, "-1"), ("Sendai", 7, "-1"), ("Hakata", 7, "-1"), ("Fukuoka", 7, "-1"), 
-								("Kagoshima", 7, "-1"), ("Fukui", 7, "-1"), ("Hikone", 6, "-1"), ("Nagasaki", 6, "-1"), ("Yonezawa", 6, "-1"), ("Nara", 6, "-1"), ("Tottori", 6, "-1"), ("Yamada", 6, "-1"), ("Okayama", 5, "-1"), ("Wakamatsu", 5, "-1"), 
-								("Kofu", 5, "-1"), ("Yamagata", 5, "-1"), ("Matsuyama", 5, "-1"), ("Kuwana", 5, "-1"), ("Otsu", 5, "-1"), ("Ogaki", 5, "-1"), ("Takada", 5, "-1"), ("Himeji", 5, "-1"), ("Tsuruga", 5, "-1"), ("Hyogo", 5, "-1"), ("Kobe", 5, "-1"), 
-								("Kochi", 5, "-1"), ("Kubota", 4, "-1"), ("Matsue", 4, "-1"), ("Kumamoto", 4, "-1"), ("Morioka", 4, "-1"), ("Fushimi", 4, "-1"), ("Okehazama", 7, "-1"), ("Azuchi", 7, "-1"), ("Gifu", 6, "-1"), ("Nagashino", 6, "-1")],
+                                        ("Kagoshima", 7, "-1"), ("Fukui", 7, "-1"), ("Hikone", 6, "-1"), ("Nagasaki", 6, "-1"), ("Yonezawa", 6, "-1"), ("Nara", 6, "-1"), ("Tottori", 6, "-1"), ("Yamada", 6, "-1"), ("Okayama", 5, "-1"), ("Wakamatsu", 5, "-1"), 
+                                                                ("Kofu", 5, "-1"), ("Yamagata", 5, "-1"), ("Matsuyama", 5, "-1"), ("Kuwana", 5, "-1"), ("Otsu", 5, "-1"), ("Ogaki", 5, "-1"), ("Takada", 5, "-1"), ("Himeji", 5, "-1"), ("Tsuruga", 5, "-1"), ("Hyogo", 5, "-1"), ("Kobe", 5, "-1"), 
+                                                                ("Kochi", 5, "-1"), ("Kubota", 4, "-1"), ("Matsue", 4, "-1"), ("Kumamoto", 4, "-1"), ("Morioka", 4, "-1"), ("Fushimi", 4, "-1"), ("Okehazama", 7, "-1"), ("Azuchi", 7, "-1"), ("Gifu", 6, "-1"), ("Nagashino", 6, "-1")],
 'LEADER_HIROHITO'			: [("Tokyo", 10, "VARIETY_TOKYO"), ("Yokohama", 9, "-1"), ("Osaka", 8, "-1"), ("Nagoya", 8, "-1"), ("Sapporo", 7, "VARIETY_AINU"), ("Kobe", 7, "-1"), ("Kyoto", 7, "VARIETY_KYOTO"), ("Fukuoka", 7, "-1"), ("Kawasaki", 7, "-1"), ("Saitama", 7, "-1"), 
-								("Hiroshima", 7, "-1"), ("Sendai", 7, "-1"), ("Kitakyushu", 6, "-1"), ("Chiba", 6, "-1"), ("Sakai", 6, "-1"), ("Niigata", 6, "-1"), ("Hamamatsu", 6, "-1"), ("Shizuoka", 6, "-1"), ("Sagamihara", 6, "-1"), ("Okayama", 6, "-1"), 
-								("Kumamoto", 5, "-1"), ("Kagoshima", 5, "-1"), ("Funabashi", 5, "-1"), ("Hachioji", 5, "-1"), ("Kawaguchi", 5, "-1"), ("Himeji", 5, "-1"), ("Matsuyama", 5, "-1"), ("Higashiosaka", 5, "-1"), ("Utsunomiya", 5, "-1"), 
-								("Matsudo", 4, "-1"), ("Nishinomiya", 4, "-1"), ("Kurashiki", 4, "-1"), ("Ichikawa", 4, "-1"), ("Oita", 4, "-1"), ("Fukuyama", 4, "-1"), ("Amagasaki", 4, "-1"), ("Kanazawa", 4, "-1"), ("Nagasaki", 4, "-1")],
+                                            ("Hiroshima", 7, "-1"), ("Sendai", 7, "-1"), ("Kitakyushu", 6, "-1"), ("Chiba", 6, "-1"), ("Sakai", 6, "-1"), ("Niigata", 6, "-1"), ("Hamamatsu", 6, "-1"), ("Shizuoka", 6, "-1"), ("Sagamihara", 6, "-1"), ("Okayama", 6, "-1"), 
+                                                                ("Kumamoto", 5, "-1"), ("Kagoshima", 5, "-1"), ("Funabashi", 5, "-1"), ("Hachioji", 5, "-1"), ("Kawaguchi", 5, "-1"), ("Himeji", 5, "-1"), ("Matsuyama", 5, "-1"), ("Higashiosaka", 5, "-1"), ("Utsunomiya", 5, "-1"), 
+                                                                ("Matsudo", 4, "-1"), ("Nishinomiya", 4, "-1"), ("Kurashiki", 4, "-1"), ("Ichikawa", 4, "-1"), ("Oita", 4, "-1"), ("Fukuyama", 4, "-1"), ("Amagasaki", 4, "-1"), ("Kanazawa", 4, "-1"), ("Nagasaki", 4, "-1")],
 'LEADER_MINAMOTO_NO_YORITOMO': [("Kamakura", 10, "-1"), ("Heian-Kyo", 9, "VARIETY_KYOTO"), ("Osaka", 8, "-1"), ("Nara", 8, "-1"), ("Edo", 8, "VARIETY_TOKYO"), ("Matsue", 8, "-1"), ("Sendai", 8, "-1"), ("Hakata", 8, "-1"), ("Hiraizumi", 7, "-1"), 
-								("Hyogo", 7, "-1"), ("Kiso", 7, "-1"), ("Daifuzu", 7, "-1"), ("Dazaifu", 6, "-1"), ("Yashima", 6, "-1"), ("Uji", 6, "-1"), ("Shinohara", 6, "-1"), ("Kurikara", 6, "-1"), ("Yokotogawara", 6, "-1"), ("Fujigawa", 6, "-1"), 
-								("Dan-no-Ura", 6, "-1"), ("Mizushima", 5, "-1"), ("Sunomata", 5, "-1"), ("Ishibayshiyama", 5, "-1"), ("Enryaku-ji", 5, "-1"), ("Hiroshima", 5, "-1"), ("Ichi-no-Tane", 5, "-1"), ("Fukuhara", 5, "-1"), ("Kojima", 5, "-1"), 
-								("Awazu", 5, "-1"), ("Hiuchi", 4, "-1"), ("Muroyama", 4, "-1"), ("Atsuta", 4, "-1"), ("Kitakata", 4, "-1"), ("Ueda", 4, "-1"), ("Tenri", 4, "-1"), ("Ikaruga", 4, "-1")],
+                                ("Hyogo", 7, "-1"), ("Kiso", 7, "-1"), ("Daifuzu", 7, "-1"), ("Dazaifu", 6, "-1"), ("Yashima", 6, "-1"), ("Uji", 6, "-1"), ("Shinohara", 6, "-1"), ("Kurikara", 6, "-1"), ("Yokotogawara", 6, "-1"), ("Fujigawa", 6, "-1"), 
+                                                                ("Dan-no-Ura", 6, "-1"), ("Mizushima", 5, "-1"), ("Sunomata", 5, "-1"), ("Ishibayshiyama", 5, "-1"), ("Enryaku-ji", 5, "-1"), ("Hiroshima", 5, "-1"), ("Ichi-no-Tane", 5, "-1"), ("Fukuhara", 5, "-1"), ("Kojima", 5, "-1"), 
+                                                                ("Awazu", 5, "-1"), ("Hiuchi", 4, "-1"), ("Muroyama", 4, "-1"), ("Atsuta", 4, "-1"), ("Kitakata", 4, "-1"), ("Ueda", 4, "-1"), ("Tenri", 4, "-1"), ("Ikaruga", 4, "-1")],
 # Korea
 'LEADER_GOJONG'				: [("Hanseong", 10, "VARIETY_SEOUL"), ("Pyongyang", 9, "VARIETY_PYONGYANG"), ("Anju", 9, "VARIETY_ANJU"), ("Pusan", 9, "VARIETY_PUSAN"), ("Kwangju", 8, "VARIETY_KWANGJU"), ("Pohang", 8, "VARIETY_POHANG"), 
-								("Chemulpo", 8, "VARIETY_INCHEON"), ("Taejon", 8, "-1"), ("Taegu", 7, "VARIETY_TAEGU"), ("Wonsan", 7, "VARIETY_WONSAN"), ("Sariwon", 7, "-1"), ("Chongjin", 7, "VARIETY_CHONGJIN"), ("Cheju", 6, "VARIETY_CHEJU"), 
-								("Hamhung", 6, "VARIETY_HAMHUNG"), ("Kaesong", 6, "VARIETY_KAESONG"), ("Wonju", 6, "-1"), ("Haeju", 6, "VARIETY_HAEJU"), ("Songjin", 6, "VARIETY_SONGJIN"), ("Kangnung", 6, "VARIETY_KANGNUNG"), ("Asan", 5, "VARIETY_ASAN"), 
-								("Gunsan", 5, "-1"), ("Andong", 5, "VARIETY_ANDONG"), ("Mokpo", 5, "VARIETY_MOKPO"), ("Masan", 5, "-1"), ("Wiju", 5, "VARIETY_WIJU"), ("Yongampo", 5, "VARIETY_YONGAMPO"), ("Chongju", 5, "-1"), ("Kilju", 5, "VARIETY_KILJU"), 
-								("Song-Chin", 5, "-1"), ("Namp'o", 5, "-1"), ("Cheonan", 5, "-1"), ("Kanggye", 5, "-1"), ("Hungnam", 5, "-1"), ("Gongju", 5, "-1"), ("Jeonju", 5, "VARIETY_JEONJU"), ("Namwon", 5, "-1")],
+                                                  ("Chemulpo", 8, "VARIETY_INCHEON"), ("Taejon", 8, "-1"), ("Taegu", 7, "VARIETY_TAEGU"), ("Wonsan", 7, "VARIETY_WONSAN"), ("Sariwon", 7, "-1"), ("Chongjin", 7, "VARIETY_CHONGJIN"), ("Cheju", 6, "VARIETY_CHEJU"), 
+                                                                ("Hamhung", 6, "VARIETY_HAMHUNG"), ("Kaesong", 6, "VARIETY_KAESONG"), ("Wonju", 6, "-1"), ("Haeju", 6, "VARIETY_HAEJU"), ("Songjin", 6, "VARIETY_SONGJIN"), ("Kangnung", 6, "VARIETY_KANGNUNG"), ("Asan", 5, "VARIETY_ASAN"), 
+                                                                ("Gunsan", 5, "-1"), ("Andong", 5, "VARIETY_ANDONG"), ("Mokpo", 5, "VARIETY_MOKPO"), ("Masan", 5, "-1"), ("Wiju", 5, "VARIETY_WIJU"), ("Yongampo", 5, "VARIETY_YONGAMPO"), ("Chongju", 5, "-1"), ("Kilju", 5, "VARIETY_KILJU"), 
+                                                                ("Song-Chin", 5, "-1"), ("Namp'o", 5, "-1"), ("Cheonan", 5, "-1"), ("Kanggye", 5, "-1"), ("Hungnam", 5, "-1"), ("Gongju", 5, "-1"), ("Jeonju", 5, "VARIETY_JEONJU"), ("Namwon", 5, "-1")],
 'LEADER_SEJONG'				: [("Hanseong", 10, "VARIETY_SEOUL"), ("Gyeongju", 9, "VARIETY_GYEONGJU"), ("Jinju", 8, "VARIETY_JINJU"), ("Jeonju", 8, "VARIETY_JEONJU"), ("Sangju", 8, "VARIETY_SANGJU"), ("Pyongyang", 7, "VARIETY_PYONGYANG"), 
-								("Suwon", 7, "VARIETY_SUWON"), ("Chungju", 7, "VARIETY_CHUNGJU"), ("Naju", 7, "-1"), ("Cheongju", 7, "VARIETY_CHEONGJU"), ("Ganggye", 6, "VARIETY_GANGGYE"), ("Haeju", 6, "VARIETY_HAEJU"), ("Nyongbyon ", 6, "-1"), ("Kwangju", 6, "VARIETY_KWANGJU"), 
-								("Hamhung", 6, "VARIETY_HAMHUNG"), ("Wonju", 6, "-1"), ("Taegu", 6, "VARIETY_TAEGU"), ("Gongju", 6, "-1"), ("Cheju", 6, "VARIETY_CHEJU"), ("Kangnung", 6, "VARIETY_KANGNUNG"), ("Pusan", 5, "VARIETY_PUSAN"), 
-								("Mokpo", 5, "VARIETY_MOKPO"), ("Chemulpo", 5, "VARIETY_INCHEON"), ("Wonsan", 5, "VARIETY_WONSAN"), ("Kaesong", 5, "VARIETY_KAESONG"), ("Songjin", 5, "VARIETY_SONGJIN"), ("Asan", 5, "VARIETY_ASAN"), ("Anju", 5, "VARIETY_ANJU"),
-								("Gunsan", 5, "-1"), ("Andong", 5, "VARIETY_ANDONG"), ("Masan", 5, "-1"), ("Wiju", 5, "VARIETY_WIJU"), ("Kilju", 5, "VARIETY_KILJU"), ("Song-Chin", 5, "-1"), ("Daemado", 5, "VARIETY_TSUSHIMA"), ("Cheonan", 5, "-1")],
+                                                  ("Suwon", 7, "VARIETY_SUWON"), ("Chungju", 7, "VARIETY_CHUNGJU"), ("Naju", 7, "-1"), ("Cheongju", 7, "VARIETY_CHEONGJU"), ("Ganggye", 6, "VARIETY_GANGGYE"), ("Haeju", 6, "VARIETY_HAEJU"), ("Nyongbyon ", 6, "-1"), ("Kwangju", 6, "VARIETY_KWANGJU"), 
+                                                                ("Hamhung", 6, "VARIETY_HAMHUNG"), ("Wonju", 6, "-1"), ("Taegu", 6, "VARIETY_TAEGU"), ("Gongju", 6, "-1"), ("Cheju", 6, "VARIETY_CHEJU"), ("Kangnung", 6, "VARIETY_KANGNUNG"), ("Pusan", 5, "VARIETY_PUSAN"), 
+                                                                ("Mokpo", 5, "VARIETY_MOKPO"), ("Chemulpo", 5, "VARIETY_INCHEON"), ("Wonsan", 5, "VARIETY_WONSAN"), ("Kaesong", 5, "VARIETY_KAESONG"), ("Songjin", 5, "VARIETY_SONGJIN"), ("Asan", 5, "VARIETY_ASAN"), ("Anju", 5, "VARIETY_ANJU"),
+                                                                ("Gunsan", 5, "-1"), ("Andong", 5, "VARIETY_ANDONG"), ("Masan", 5, "-1"), ("Wiju", 5, "VARIETY_WIJU"), ("Kilju", 5, "VARIETY_KILJU"), ("Song-Chin", 5, "-1"), ("Daemado", 5, "VARIETY_TSUSHIMA"), ("Cheonan", 5, "-1")],
 'LEADER_SEONGJONG_JOSEON'	: [("Hanseong", 10, "VARIETY_SEOUL"), ("Gyeongju", 9, "VARIETY_GYEONGJU"), ("Jinju", 8, "VARIETY_JINJU"), ("Jeonju", 8, "VARIETY_JEONJU"), ("Sangju", 8, "VARIETY_SANGJU"), ("Pyongyang", 7, "VARIETY_PYONGYANG"), 
-								("Suwon", 7, "VARIETY_SUWON"), ("Chungju", 7, "VARIETY_CHUNGJU"), ("Naju", 7, "-1"), ("Cheongju", 7, "VARIETY_CHEONGJU"), ("Ganggye", 6, "VARIETY_GANGGYE"), ("Haeju", 6, "VARIETY_HAEJU"), ("Nyongbyon ", 6, "-1"), ("Kwangju", 6, "VARIETY_KWANGJU"), 
-								("Hamhung", 6, "VARIETY_HAMHUNG"), ("Wonju", 6, "-1"), ("Taegu", 6, "VARIETY_TAEGU"), ("Gongju", 6, "-1"), ("Cheju", 6, "VARIETY_CHEJU"), ("Kangnung", 6, "VARIETY_KANGNUNG"), ("Pusan", 5, "VARIETY_PUSAN"), 
-								("Mokpo", 5, "VARIETY_MOKPO"), ("Chemulpo", 5, "VARIETY_INCHEON"), ("Wonsan", 5, "VARIETY_WONSAN"), ("Kaesong", 5, "VARIETY_KAESONG"), ("Songjin", 5, "VARIETY_SONGJIN"), ("Asan", 5, "VARIETY_ASAN"), ("Anju", 5, "VARIETY_ANJU"),
-								("Gunsan", 5, "-1"), ("Andong", 5, "VARIETY_ANDONG"), ("Masan", 5, "-1"), ("Wiju", 5, "VARIETY_WIJU"), ("Kilju", 5, "VARIETY_KILJU"), ("Song-Chin", 5, "-1"), ("Daemado", 5, "VARIETY_TSUSHIMA"), ("Cheonan", 5, "-1")],
+                                    ("Suwon", 7, "VARIETY_SUWON"), ("Chungju", 7, "VARIETY_CHUNGJU"), ("Naju", 7, "-1"), ("Cheongju", 7, "VARIETY_CHEONGJU"), ("Ganggye", 6, "VARIETY_GANGGYE"), ("Haeju", 6, "VARIETY_HAEJU"), ("Nyongbyon ", 6, "-1"), ("Kwangju", 6, "VARIETY_KWANGJU"), 
+                                                                ("Hamhung", 6, "VARIETY_HAMHUNG"), ("Wonju", 6, "-1"), ("Taegu", 6, "VARIETY_TAEGU"), ("Gongju", 6, "-1"), ("Cheju", 6, "VARIETY_CHEJU"), ("Kangnung", 6, "VARIETY_KANGNUNG"), ("Pusan", 5, "VARIETY_PUSAN"), 
+                                                                ("Mokpo", 5, "VARIETY_MOKPO"), ("Chemulpo", 5, "VARIETY_INCHEON"), ("Wonsan", 5, "VARIETY_WONSAN"), ("Kaesong", 5, "VARIETY_KAESONG"), ("Songjin", 5, "VARIETY_SONGJIN"), ("Asan", 5, "VARIETY_ASAN"), ("Anju", 5, "VARIETY_ANJU"),
+                                                                ("Gunsan", 5, "-1"), ("Andong", 5, "VARIETY_ANDONG"), ("Masan", 5, "-1"), ("Wiju", 5, "VARIETY_WIJU"), ("Kilju", 5, "VARIETY_KILJU"), ("Song-Chin", 5, "-1"), ("Daemado", 5, "VARIETY_TSUSHIMA"), ("Cheonan", 5, "-1")],
 'LEADER_TAEJO_WANGKON'		: [("Gaegyeong", 10, "VARIETY_KAESONG"), ("Seogyeong", 9, "VARIETY_PYONGYANG"), ("Namgyeong", 9, "VARIETY_SEOUL"), ("Donggyeong", 9, "VARIETY_GYEONGJU"), ("Dongju", 6, "-1"),
-								("Haeju", 6, "VARIETY_HAEJU"), ("Hwaju", 6, "-1"), ("Anju", 6, "VARIETY_ANJU"), ("Chungju", 6, "VARIETY_CHUNGJU"), ("Cheongju", 6, "VARIETY_CHEONGJU"), ("Gwiju", 6, "-1"), 
-								("Cheolju", 6, "-1"), ("Uiju", 6, "-1"), ("Gongju", 6, "-1"), ("Jeonju", 6, "VARIETY_JEONJU"), ("Naju", 6, "-1"), ("Daeju", 6, "-1"), ("Pusan", 5, "VARIETY_PUSAN"), 
-								("Mokpo", 5, "VARIETY_MOKPO"), ("Chemulpo", 5, "VARIETY_INCHEON"), ("Wonsan", 5, "VARIETY_WONSAN"), ("Songjin", 5, "VARIETY_SONGJIN"), ("Asan", 5, "VARIETY_ASAN"), 
-								("Gunsan", 5, "-1"), ("Andong", 5, "VARIETY_ANDONG"), ("Masan", 5, "-1"), ("Wiju", 5, "VARIETY_WIJU"), ("Kilju", 5, "VARIETY_KILJU"), ("Song-Chin", 5, "-1"), 
-								("Daemado", 5, "VARIETY_TSUSHIMA"), ("Cheonan", 5, "-1") ],
+                                         ("Haeju", 6, "VARIETY_HAEJU"), ("Hwaju", 6, "-1"), ("Anju", 6, "VARIETY_ANJU"), ("Chungju", 6, "VARIETY_CHUNGJU"), ("Cheongju", 6, "VARIETY_CHEONGJU"), ("Gwiju", 6, "-1"), 
+                                                                ("Cheolju", 6, "-1"), ("Uiju", 6, "-1"), ("Gongju", 6, "-1"), ("Jeonju", 6, "VARIETY_JEONJU"), ("Naju", 6, "-1"), ("Daeju", 6, "-1"), ("Pusan", 5, "VARIETY_PUSAN"), 
+                                                                ("Mokpo", 5, "VARIETY_MOKPO"), ("Chemulpo", 5, "VARIETY_INCHEON"), ("Wonsan", 5, "VARIETY_WONSAN"), ("Songjin", 5, "VARIETY_SONGJIN"), ("Asan", 5, "VARIETY_ASAN"), 
+                                                                ("Gunsan", 5, "-1"), ("Andong", 5, "VARIETY_ANDONG"), ("Masan", 5, "-1"), ("Wiju", 5, "VARIETY_WIJU"), ("Kilju", 5, "VARIETY_KILJU"), ("Song-Chin", 5, "-1"), 
+                                                                ("Daemado", 5, "VARIETY_TSUSHIMA"), ("Cheonan", 5, "-1") ],
 'LEADER_SEONDEOK'			: [("Geumseong", 10, "VARIETY_GYEONGJU"), ("Gochang", 9, "VARIETY_ANDONG"), ("Sangju", 9, "VARIETY_SANGJU"), ("Yeomhae", 9, "-1"), ("Siljik", 8, "-1"), ("Wonju", 8, "-1"), ("Yeomhae", 8, "-1"), ("Pusan", 8, "VARIETY_PUSAN"), 
-								("Tamna", 7, "VARIETY_CHEJU"), ("Geumgwan", 7, "-1"), ("Kangnung", 7, "VARIETY_KANGNUNG"), ("Yangsan", 7, "VARIETY_YANGSAN"), ("Taegu", 7, "VARIETY_TAEGU"), ("Bihwa", 6, "-1"), ("Geun-gi", 6, "-1"), ("Nanmirimidong", 6, "-1"), 
-								("Gunmi", 6, "-1"), ("Yeodam", 6, "-1"), ("Horo", 6, "-1"), ("Juseon", 6, "-1"), ("Mayeon", 6, "-1"), ("U-yu", 6, "-1"), ("Ara", 5, "-1"), ("Goryeong", 5, "-1"), ("Seongsan", 5, "-1"), ("Gimhae", 5, "VARIETY_GIMHAE"), 
-								("Eumjipbeol", 4, "-1"), ("Siljikgok", 4, "-1"), ("Apdok", 4, "-1"), ("Biji", 4, "-1"), ("Changnyeong", 4, "-1"), ("Chopal", 4, "-1"), ("Dabeol", 4, "-1"), ("Gimcheon", 4, "-1"), ("Uiseong", 4, "-1"), ("Yeongcheon", 4, "-1")],
+                                            ("Tamna", 7, "VARIETY_CHEJU"), ("Geumgwan", 7, "-1"), ("Kangnung", 7, "VARIETY_KANGNUNG"), ("Yangsan", 7, "VARIETY_YANGSAN"), ("Taegu", 7, "VARIETY_TAEGU"), ("Bihwa", 6, "-1"), ("Geun-gi", 6, "-1"), ("Nanmirimidong", 6, "-1"), 
+                                                                ("Gunmi", 6, "-1"), ("Yeodam", 6, "-1"), ("Horo", 6, "-1"), ("Juseon", 6, "-1"), ("Mayeon", 6, "-1"), ("U-yu", 6, "-1"), ("Ara", 5, "-1"), ("Goryeong", 5, "-1"), ("Seongsan", 5, "-1"), ("Gimhae", 5, "VARIETY_GIMHAE"), 
+                                                                ("Eumjipbeol", 4, "-1"), ("Siljikgok", 4, "-1"), ("Apdok", 4, "-1"), ("Biji", 4, "-1"), ("Changnyeong", 4, "-1"), ("Chopal", 4, "-1"), ("Dabeol", 4, "-1"), ("Gimcheon", 4, "-1"), ("Uiseong", 4, "-1"), ("Yeongcheon", 4, "-1")],
 'LEADER_SYNGMAN_RHEE'		: [("Seoul", 10, "VARIETY_SEOUL"), ("Pusan", 9, "VARIETY_PUSAN"), ("Taegu", 8, "VARIETY_TAEGU"), ("Incheon", 7, "VARIETY_INCHEON"), ("Kwangju", 7, "VARIETY_KWANGJU"), ("Taejon", 7, "-1"), ("Jeonju", 7, "VARIETY_JEONJU"), 
-								("Changwon", 6, "-1"), ("Seongnam", 6, "-1"), ("Cheongju", 6, "VARIETY_CHEONGJU"), ("Suwon", 6, "VARIETY_SUWON"), ("Yongin", 5, "-1"), ("Cheju", 5, "VARIETY_CHEJU"), ("Ulsan", 5, "-1"), ("Goyang", 5, "-1"), ("Uijeongbu", 5, "-1"), 
-								("Gwangmyeong", 5, "-1"), ("Bucheon", 5, "-1"), ("Cheonan", 4, "-1"), ("Pohang", 4, "VARIETY_POHANG"), ("Gimhae", 4, "VARIETY_GIMHAE"), ("Gumi", 4, "-1"), ("Ansan", 4, "-1"), ("Anyang", 4, "-1"), ("Siheung", 4, "-1"), 
-								("Iksan", 3, "-1"), ("Pyeongtaek", 3, "-1"), ("Gyeongju", 3, "VARIETY_GYEONGJU"), ("Gunsan", 3, "-1"), ("Suncheon", 3, "-1"), ("Mokpo", 3, "VARIETY_MOKPO"), ("Wonju", 3, "-1"), ("Gunpo", 3, "-1"), ("Chuncheon", 3, "-1"), 
-								("Namyangyu", 3, "-1"), ("Kangnung", 3, "VARIETY_KANGNUNG")],
+                                        ("Changwon", 6, "-1"), ("Seongnam", 6, "-1"), ("Cheongju", 6, "VARIETY_CHEONGJU"), ("Suwon", 6, "VARIETY_SUWON"), ("Yongin", 5, "-1"), ("Cheju", 5, "VARIETY_CHEJU"), ("Ulsan", 5, "-1"), ("Goyang", 5, "-1"), ("Uijeongbu", 5, "-1"), 
+                                                                ("Gwangmyeong", 5, "-1"), ("Bucheon", 5, "-1"), ("Cheonan", 4, "-1"), ("Pohang", 4, "VARIETY_POHANG"), ("Gimhae", 4, "VARIETY_GIMHAE"), ("Gumi", 4, "-1"), ("Ansan", 4, "-1"), ("Anyang", 4, "-1"), ("Siheung", 4, "-1"), 
+                                                                ("Iksan", 3, "-1"), ("Pyeongtaek", 3, "-1"), ("Gyeongju", 3, "VARIETY_GYEONGJU"), ("Gunsan", 3, "-1"), ("Suncheon", 3, "-1"), ("Mokpo", 3, "VARIETY_MOKPO"), ("Wonju", 3, "-1"), ("Gunpo", 3, "-1"), ("Chuncheon", 3, "-1"), 
+                                                                ("Namyangyu", 3, "-1"), ("Kangnung", 3, "VARIETY_KANGNUNG")],
 # Mali
 'LEADER_ABU_BAKR_II'		: [("Timbuktu", 9, "-1"), ("Koumbi Saleh", 9, "-1"), ("Djenne", 9, "-1"), ("Gao", 9, "-1"), ("Niani", 10, "-1"), ("Oualata", 8, "-1"), ("Takedda", 8, "-1"), ("Gao", 8, "-1"), ("Bamako", 7, "-1"), ("Segou", 7, "-1"), 
-								("Kangaba", 7, "-1"), ("Tadmekka", 7, "-1"), ("Taghaza", 7, "-1"), ("Silla", 7, "-1"), ("Tura", 6, "-1"), ("Muli", 6, "-1"), ("Diaghan", 6, "-1"), ("Kansala", 6, "-1"), ("Kirina", 6, "-1"), ("Kaniaga", 6, "-1"), 
-								("Mboul", 5, "-1"), ("Gabu", 5, "-1"), ("Timbo", 5, "-1"), ("Siguiri", 5, "-1"), ("Macina", 5, "-1"), ("Kumasi", 5, "-1"), ("Lulama", 5, "-1"), ("Kurussa", 5, "-1"), ("San", 4, "-1"), ("Sutuco", 4, "-1"), ("Tengrela", 4, "-1"), 
-								("Dia", 4, "-1"), ("Gaoua", 4, "-1"), ("Arwan", 4, "-1"), ("Gadiaro", 4, "-1"), ("Nioro", 4, "-1")],
+                                       ("Kangaba", 7, "-1"), ("Tadmekka", 7, "-1"), ("Taghaza", 7, "-1"), ("Silla", 7, "-1"), ("Tura", 6, "-1"), ("Muli", 6, "-1"), ("Diaghan", 6, "-1"), ("Kansala", 6, "-1"), ("Kirina", 6, "-1"), ("Kaniaga", 6, "-1"), 
+                                                                ("Mboul", 5, "-1"), ("Gabu", 5, "-1"), ("Timbo", 5, "-1"), ("Siguiri", 5, "-1"), ("Macina", 5, "-1"), ("Kumasi", 5, "-1"), ("Lulama", 5, "-1"), ("Kurussa", 5, "-1"), ("San", 4, "-1"), ("Sutuco", 4, "-1"), ("Tengrela", 4, "-1"), 
+                                                                ("Dia", 4, "-1"), ("Gaoua", 4, "-1"), ("Arwan", 4, "-1"), ("Gadiaro", 4, "-1"), ("Nioro", 4, "-1")],
 'LEADER_MANSA_MUSA'			: [("Timbuktu", 9, "-1"), ("Koumbi Saleh", 9, "-1"), ("Djenne", 9, "-1"), ("Gao", 9, "-1"), ("Niani", 10, "-1"), ("Oualata", 8, "-1"), ("Takedda", 8, "-1"), ("Gao", 8, "-1"), ("Bamako", 7, "-1"), ("Segou", 7, "-1"), 
-								("Kangaba", 7, "-1"), ("Tadmekka", 7, "-1"), ("Taghaza", 7, "-1"), ("Silla", 7, "-1"), ("Tura", 6, "-1"), ("Muli", 6, "-1"), ("Diaghan", 6, "-1"), ("Kansala", 6, "-1"), ("Kirina", 6, "-1"), ("Kaniaga", 6, "-1"), 
-								("Mboul", 5, "-1"), ("Gabu", 5, "-1"), ("Timbo", 5, "-1"), ("Siguiri", 5, "-1"), ("Macina", 5, "-1"), ("Kumasi", 5, "-1"), ("Lulama", 5, "-1"), ("Kurussa", 5, "-1"), ("San", 4, "-1"), ("Sutuco", 4, "-1"), ("Tengrela", 4, "-1"), 
-								("Dia", 4, "-1"), ("Gaoua", 4, "-1"), ("Arwan", 4, "-1"), ("Gadiaro", 4, "-1"), ("Nioro", 4, "-1")],
+                                              ("Kangaba", 7, "-1"), ("Tadmekka", 7, "-1"), ("Taghaza", 7, "-1"), ("Silla", 7, "-1"), ("Tura", 6, "-1"), ("Muli", 6, "-1"), ("Diaghan", 6, "-1"), ("Kansala", 6, "-1"), ("Kirina", 6, "-1"), ("Kaniaga", 6, "-1"), 
+                                                                ("Mboul", 5, "-1"), ("Gabu", 5, "-1"), ("Timbo", 5, "-1"), ("Siguiri", 5, "-1"), ("Macina", 5, "-1"), ("Kumasi", 5, "-1"), ("Lulama", 5, "-1"), ("Kurussa", 5, "-1"), ("San", 4, "-1"), ("Sutuco", 4, "-1"), ("Tengrela", 4, "-1"), 
+                                                                ("Dia", 4, "-1"), ("Gaoua", 4, "-1"), ("Arwan", 4, "-1"), ("Gadiaro", 4, "-1"), ("Nioro", 4, "-1")],
 'LEADER_SUNDIATA_KEITA'		: [("Timbuktu", 9, "-1"), ("Koumbi Saleh", 9, "-1"), ("Djenne", 9, "-1"), ("Gao", 9, "-1"), ("Niani", 10, "-1"), ("Oualata", 8, "-1"), ("Takedda", 8, "-1"), ("Gao", 8, "-1"), ("Bamako", 7, "-1"), ("Segou", 7, "-1"), 
-								("Kangaba", 7, "-1"), ("Tadmekka", 7, "-1"), ("Taghaza", 7, "-1"), ("Silla", 7, "-1"), ("Tura", 6, "-1"), ("Muli", 6, "-1"), ("Diaghan", 6, "-1"), ("Kansala", 6, "-1"), ("Kirina", 6, "-1"), ("Kaniaga", 6, "-1"), 
-								("Mboul", 5, "-1"), ("Gabu", 5, "-1"), ("Timbo", 5, "-1"), ("Siguiri", 5, "-1"), ("Macina", 5, "-1"), ("Kumasi", 5, "-1"), ("Lulama", 5, "-1"), ("Kurussa", 5, "-1"), ("San", 4, "-1"), ("Sutuco", 4, "-1"), ("Tengrela", 4, "-1"), 
-								("Dia", 4, "-1"), ("Gaoua", 4, "-1"), ("Arwan", 4, "-1"), ("Gadiaro", 4, "-1"), ("Nioro", 4, "-1")],
+                                          ("Kangaba", 7, "-1"), ("Tadmekka", 7, "-1"), ("Taghaza", 7, "-1"), ("Silla", 7, "-1"), ("Tura", 6, "-1"), ("Muli", 6, "-1"), ("Diaghan", 6, "-1"), ("Kansala", 6, "-1"), ("Kirina", 6, "-1"), ("Kaniaga", 6, "-1"), 
+                                                                ("Mboul", 5, "-1"), ("Gabu", 5, "-1"), ("Timbo", 5, "-1"), ("Siguiri", 5, "-1"), ("Macina", 5, "-1"), ("Kumasi", 5, "-1"), ("Lulama", 5, "-1"), ("Kurussa", 5, "-1"), ("San", 4, "-1"), ("Sutuco", 4, "-1"), ("Tengrela", 4, "-1"), 
+                                                                ("Dia", 4, "-1"), ("Gaoua", 4, "-1"), ("Arwan", 4, "-1"), ("Gadiaro", 4, "-1"), ("Nioro", 4, "-1")],
 'LEADER_ASKIA'				: [("Timbuktu", 9, "-1"), ("Koumbi Saleh", 8, "-1"), ("Djenne", 9, "-1"), ("Gao", 9, "-1"), ("Niani", 8, "-1"), ("Oualata", 8, "-1"), ("Takedda", 8, "-1"), ("Gao", 10, "-1"), ("Bamako", 7, "-1"), ("Segou", 7, "-1"), 
-								("Kangaba", 7, "-1"), ("Tadmekka", 7, "-1"), ("Taghaza", 9, "-1"), ("Silla", 7, "-1"), ("Tura", 6, "-1"), ("Muli", 6, "-1"), ("Diaghan", 6, "-1"), ("Kansala", 6, "-1"), ("Kirina", 6, "-1"), ("Kaniaga", 6, "-1"), 
-								("Mboul", 5, "-1"), ("Gabu", 5, "-1"), ("Timbo", 5, "-1"), ("Siguiri", 5, "-1"), ("Macina", 5, "-1"), ("Kumasi", 5, "-1"), ("Lulama", 5, "-1"), ("Kurussa", 5, "-1"), ("San", 4, "-1"), ("Sutuco", 4, "-1"), ("Tengrela", 4, "-1"), 
-								("Dia", 4, "-1"), ("Gaoua", 4, "-1"), ("Arwan", 4, "-1"), ("Gadiaro", 4, "-1"), ("Agadez", 8, "-1")],
+                                                 ("Kangaba", 7, "-1"), ("Tadmekka", 7, "-1"), ("Taghaza", 9, "-1"), ("Silla", 7, "-1"), ("Tura", 6, "-1"), ("Muli", 6, "-1"), ("Diaghan", 6, "-1"), ("Kansala", 6, "-1"), ("Kirina", 6, "-1"), ("Kaniaga", 6, "-1"), 
+                                                                ("Mboul", 5, "-1"), ("Gabu", 5, "-1"), ("Timbo", 5, "-1"), ("Siguiri", 5, "-1"), ("Macina", 5, "-1"), ("Kumasi", 5, "-1"), ("Lulama", 5, "-1"), ("Kurussa", 5, "-1"), ("San", 4, "-1"), ("Sutuco", 4, "-1"), ("Tengrela", 4, "-1"), 
+                                                                ("Dia", 4, "-1"), ("Gaoua", 4, "-1"), ("Arwan", 4, "-1"), ("Gadiaro", 4, "-1"), ("Agadez", 8, "-1")],
 'LEADER_EL_HADJ_UMAR_TALL'	: [("Segou", 10, "-1"), ("Timbuktu", 9, "-1"), ("Nioro", 8, "-1"), ("Dinguiraye", 8, "-1"), ("Djenne", 8, "-1"), ("Hamdullahi", 8, "-1"), ("Bandiagara", 8, "-1"), ("Douentza", 7, "-1"), ("Tayawal", 7, "-1"), ("Mopti", 7, "-1"), 
-								("Sansanding", 7, "-1"), ("Nyamina", 7, "-1"), ("Oitala", 7, "-1"), ("Bamako", 7, "-1"), ("Mourdiah", 7, "-1"), ("Ouossebougou", 7, "-1"), ("Diara", 7, "-1"), ("Kremis", 7, "-1"), ("Sabene", 6, "-1"), ("Mourgoula", 6, "-1"), 
-								("Kita", 6, "-1"), ("Tamba", 6, "-1"), ("Koundian", 6, "-1"), ("Kouniakary", 6, "-1"), ("Bakel", 5, "-1"), ("Matam", 5, "-1"), ("Orefonde", 5, "-1"), ("Ndioum", 5, "-1"), ("Podor", 5, "-1"), ("Medine", 5, "-1"), 
-								("Saboucire", 5, "-1"), ("Sofara", 5, "-1"), ("Kala", 5, "-1"), ("Lere", 5, "-1"), ("Djibo", 5, "-1"), ("Mekoye", 5, "-1")],	
+                                     ("Sansanding", 7, "-1"), ("Nyamina", 7, "-1"), ("Oitala", 7, "-1"), ("Bamako", 7, "-1"), ("Mourdiah", 7, "-1"), ("Ouossebougou", 7, "-1"), ("Diara", 7, "-1"), ("Kremis", 7, "-1"), ("Sabene", 6, "-1"), ("Mourgoula", 6, "-1"), 
+                                                                ("Kita", 6, "-1"), ("Tamba", 6, "-1"), ("Koundian", 6, "-1"), ("Kouniakary", 6, "-1"), ("Bakel", 5, "-1"), ("Matam", 5, "-1"), ("Orefonde", 5, "-1"), ("Ndioum", 5, "-1"), ("Podor", 5, "-1"), ("Medine", 5, "-1"), 
+                                                                ("Saboucire", 5, "-1"), ("Sofara", 5, "-1"), ("Kala", 5, "-1"), ("Lere", 5, "-1"), ("Djibo", 5, "-1"), ("Mekoye", 5, "-1")],	
 # Maya
 'LEADER_FRANCISCO_MORAZAN'	: [("San Salvador", 10, "-1"), ("Guatemala City", 9, "-1"), ("Tegucigalpa", 9, "-1"), ("León", 9, "-1"), ("San Jose", 9, "-1"), ("Quetzaltenango", 9, "-1"), ("Managua", 8, "-1"), ("San Miguel", 8, "-1"), ("Comayagua", 8, "-1"), 
-								("San Pedro Sula", 7, "-1"), ("La Ceiba", 7, "-1"), ("Barrios", 7, "-1"), ("Bluefields", 7, "-1"), ("Lempira", 6, "-1"), ("Sayaxche", 6, "-1"), ("Rivas", 6, "-1"), ("Liberia", 6, "-1"), ("Limon", 6, "-1"), 
-								("Matagalpa", 6, "-1"), ("Yoro", 6, "-1"), ("Trujillo", 6, "-1"), ("Cartago", 6, "-1"), ("San Juan Sacatepequez", 6, "-1"), ("Chiquimulilla", 6, "-1"), ("El Realejo", 6, "-1"), ("Sonsonate", 6, "-1"), ("Omoa", 5, "-1"), 
-								("Acoyapa", 5, "-1"), ("Santiago Atitlan", 5, "-1"), ("Tipitapa", 5, "-1"), ("Flores", 5, "-1"), ("Jinotepe", 5, "-1"), ("Santa Ana", 5, "-1"), ("Boaco", 5, "-1"), ("Comolapa", 5, "-1"), ("Gracias", 5, "-1")],
+                                     ("San Pedro Sula", 7, "-1"), ("La Ceiba", 7, "-1"), ("Barrios", 7, "-1"), ("Bluefields", 7, "-1"), ("Lempira", 6, "-1"), ("Sayaxche", 6, "-1"), ("Rivas", 6, "-1"), ("Liberia", 6, "-1"), ("Limon", 6, "-1"), 
+                                                                ("Matagalpa", 6, "-1"), ("Yoro", 6, "-1"), ("Trujillo", 6, "-1"), ("Cartago", 6, "-1"), ("San Juan Sacatepequez", 6, "-1"), ("Chiquimulilla", 6, "-1"), ("El Realejo", 6, "-1"), ("Sonsonate", 6, "-1"), ("Omoa", 5, "-1"), 
+                                                                ("Acoyapa", 5, "-1"), ("Santiago Atitlan", 5, "-1"), ("Tipitapa", 5, "-1"), ("Flores", 5, "-1"), ("Jinotepe", 5, "-1"), ("Santa Ana", 5, "-1"), ("Boaco", 5, "-1"), ("Comolapa", 5, "-1"), ("Gracias", 5, "-1")],
 'LEADER_KAK_TILIW'			: [("Quirigua", 10, "-1"), ("Tikal", 9, "-1"), ("Calakmul", 9, "-1"), ("Uuc Yabnal", 8, "-1"), ("Copan", 8, "-1"), ("Oxhuitza", 8, "-1"), ("Uaxactun", 8, "-1"), ("Dzibanche", 7, "-1"), ("Coba", 7, "-1"), ("Seibal", 7, "-1"), 
-								("Palenque", 8, "-1"), ("Yaxchilan", 7, "-1"), ("Uxmal", 7, "-1"), ("Cancuen", 7, "-1"), ("Kaminaljuyu", 7, "-1"), ("Yaxchilan", 6, "-1"), ("Yokib", 6, "-1"), ("Altun Ha", 6, "-1"), ("Izamal", 6, "-1"), ("Cozumel", 6, "-1"), 
-								("Oxkintok", 6, "-1"), ("Becan", 6, "-1"), ("Nakbe", 5, "-1"), ("Cival", 5, "-1"), ("Lamanai", 5, "-1"), ("Takalik Abaj", 5, "-1"), ("Holmul", 7, "-1"), ("Waka", 5, "-1"), ("Lubaantun", 5, "-1"), ("Bonampak", 5, "-1"), 
-								("Tonina", 5, "-1"), ("Tazumal", 5, "-1"), ("Comalcalco", 5, "-1"), ("Nim Li Punit", 5, "-1"), ("Ekbalam", 5, "-1"), ("Xunantunich", 5, "-1")],	
+                                             ("Palenque", 8, "-1"), ("Yaxchilan", 7, "-1"), ("Uxmal", 7, "-1"), ("Cancuen", 7, "-1"), ("Kaminaljuyu", 7, "-1"), ("Yaxchilan", 6, "-1"), ("Yokib", 6, "-1"), ("Altun Ha", 6, "-1"), ("Izamal", 6, "-1"), ("Cozumel", 6, "-1"), 
+                                                                ("Oxkintok", 6, "-1"), ("Becan", 6, "-1"), ("Nakbe", 5, "-1"), ("Cival", 5, "-1"), ("Lamanai", 5, "-1"), ("Takalik Abaj", 5, "-1"), ("Holmul", 7, "-1"), ("Waka", 5, "-1"), ("Lubaantun", 5, "-1"), ("Bonampak", 5, "-1"), 
+                                                                ("Tonina", 5, "-1"), ("Tazumal", 5, "-1"), ("Comalcalco", 5, "-1"), ("Nim Li Punit", 5, "-1"), ("Ekbalam", 5, "-1"), ("Xunantunich", 5, "-1")],	
 'LEADER_LADY_XOC'			: [("Quirigua", 7, "-1"), ("Tikal", 9, "-1"), ("Calakmul", 9, "-1"), ("Uuc Yabnal", 8, "-1"), ("Copan", 8, "-1"), ("Oxhuitza", 8, "-1"), ("Uaxactun", 8, "-1"), ("Dzibanche", 7, "-1"), ("Coba", 7, "-1"), ("Seibal", 7, "-1"), 
-								("Palenque", 8, "-1"), ("Yaxchilan", 10, "-1"), ("Uxmal", 7, "-1"), ("Cancuen", 7, "-1"), ("Kaminaljuyu", 7, "-1"), ("Yaxchilan", 6, "-1"), ("Yokib", 6, "-1"), ("Altun Ha", 6, "-1"), ("Izamal", 6, "-1"), ("Cozumel", 6, "-1"), 
-								("Oxkintok", 6, "-1"), ("Becan", 6, "-1"), ("Nakbe", 5, "-1"), ("Cival", 5, "-1"), ("Lamanai", 5, "-1"), ("Takalik Abaj", 5, "-1"), ("Holmul", 7, "-1"), ("Waka", 5, "-1"), ("Lubaantun", 5, "-1"), ("Bonampak", 5, "-1"), 
-								("Tonina", 5, "-1"), ("Tazumal", 5, "-1"), ("Comalcalco", 5, "-1"), ("Nim Li Punit", 5, "-1"), ("Ekbalam", 5, "-1"), ("Xunantunich", 5, "-1")],	
+                                            ("Palenque", 8, "-1"), ("Yaxchilan", 10, "-1"), ("Uxmal", 7, "-1"), ("Cancuen", 7, "-1"), ("Kaminaljuyu", 7, "-1"), ("Yaxchilan", 6, "-1"), ("Yokib", 6, "-1"), ("Altun Ha", 6, "-1"), ("Izamal", 6, "-1"), ("Cozumel", 6, "-1"), 
+                                                                ("Oxkintok", 6, "-1"), ("Becan", 6, "-1"), ("Nakbe", 5, "-1"), ("Cival", 5, "-1"), ("Lamanai", 5, "-1"), ("Takalik Abaj", 5, "-1"), ("Holmul", 7, "-1"), ("Waka", 5, "-1"), ("Lubaantun", 5, "-1"), ("Bonampak", 5, "-1"), 
+                                                                ("Tonina", 5, "-1"), ("Tazumal", 5, "-1"), ("Comalcalco", 5, "-1"), ("Nim Li Punit", 5, "-1"), ("Ekbalam", 5, "-1"), ("Xunantunich", 5, "-1")],	
 'LEADER_PACAL'				: [("Quirigua", 7, "-1"), ("Tikal", 9, "-1"), ("Calakmul", 9, "-1"), ("Uuc Yabnal", 8, "-1"), ("Copan", 8, "-1"), ("Oxhuitza", 8, "-1"), ("Uaxactun", 8, "-1"), ("Dzibanche", 7, "-1"), ("Coba", 7, "-1"), ("Seibal", 7, "-1"), 
-								("Palenque", 10, "-1"), ("Yaxchilan", 7, "-1"), ("Uxmal", 7, "-1"), ("Cancuen", 7, "-1"), ("Kaminaljuyu", 7, "-1"), ("Yaxchilan", 6, "-1"), ("Yokib", 6, "-1"), ("Altun Ha", 6, "-1"), ("Izamal", 6, "-1"), ("Cozumel", 6, "-1"), 
-								("Oxkintok", 6, "-1"), ("Becan", 6, "-1"), ("Nakbe", 5, "-1"), ("Cival", 5, "-1"), ("Lamanai", 5, "-1"), ("Takalik Abaj", 5, "-1"), ("Holmul", 7, "-1"), ("Waka", 5, "-1"), ("Lubaantun", 5, "-1"), ("Bonampak", 5, "-1"), 
-								("Tonina", 5, "-1"), ("Tazumal", 5, "-1"), ("Comalcalco", 5, "-1"), ("Nim Li Punit", 5, "-1"), ("Ekbalam", 5, "-1"), ("Xunantunich", 5, "-1")],	
+                                                 ("Palenque", 10, "-1"), ("Yaxchilan", 7, "-1"), ("Uxmal", 7, "-1"), ("Cancuen", 7, "-1"), ("Kaminaljuyu", 7, "-1"), ("Yaxchilan", 6, "-1"), ("Yokib", 6, "-1"), ("Altun Ha", 6, "-1"), ("Izamal", 6, "-1"), ("Cozumel", 6, "-1"), 
+                                                                ("Oxkintok", 6, "-1"), ("Becan", 6, "-1"), ("Nakbe", 5, "-1"), ("Cival", 5, "-1"), ("Lamanai", 5, "-1"), ("Takalik Abaj", 5, "-1"), ("Holmul", 7, "-1"), ("Waka", 5, "-1"), ("Lubaantun", 5, "-1"), ("Bonampak", 5, "-1"), 
+                                                                ("Tonina", 5, "-1"), ("Tazumal", 5, "-1"), ("Comalcalco", 5, "-1"), ("Nim Li Punit", 5, "-1"), ("Ekbalam", 5, "-1"), ("Xunantunich", 5, "-1")],	
 'LEADER_SPEARTHROWER_OWL'	: [("Quirigua", 7, "-1"), ("Tikal", 10, "-1"), ("Calakmul", 9, "-1"), ("Uuc Yabnal", 8, "-1"), ("Copan", 8, "-1"), ("Oxhuitza", 8, "-1"), ("Uaxactun", 8, "-1"), ("Dzibanche", 7, "-1"), ("Coba", 7, "-1"), ("Seibal", 7, "-1"), 
-								("Palenque", 8, "-1"), ("Yaxchilan", 7, "-1"), ("Uxmal", 7, "-1"), ("Cancuen", 7, "-1"), ("Kaminaljuyu", 7, "-1"), ("Yaxchilan", 6, "-1"), ("Yokib", 6, "-1"), ("Altun Ha", 6, "-1"), ("Izamal", 6, "-1"), ("Cozumel", 6, "-1"), 
-								("Oxkintok", 6, "-1"), ("Becan", 6, "-1"), ("Nakbe", 5, "-1"), ("Cival", 5, "-1"), ("Lamanai", 5, "-1"), ("Takalik Abaj", 5, "-1"), ("Holmul", 7, "-1"), ("Waka", 5, "-1"), ("Lubaantun", 5, "-1"), ("Bonampak", 5, "-1"), 
-								("Tonina", 5, "-1"), ("Tazumal", 5, "-1"), ("Comalcalco", 5, "-1"), ("Nim Li Punit", 5, "-1"), ("Ekbalam", 5, "-1"), ("Xunantunich", 5, "-1")],		
+                                    ("Palenque", 8, "-1"), ("Yaxchilan", 7, "-1"), ("Uxmal", 7, "-1"), ("Cancuen", 7, "-1"), ("Kaminaljuyu", 7, "-1"), ("Yaxchilan", 6, "-1"), ("Yokib", 6, "-1"), ("Altun Ha", 6, "-1"), ("Izamal", 6, "-1"), ("Cozumel", 6, "-1"), 
+                                                                ("Oxkintok", 6, "-1"), ("Becan", 6, "-1"), ("Nakbe", 5, "-1"), ("Cival", 5, "-1"), ("Lamanai", 5, "-1"), ("Takalik Abaj", 5, "-1"), ("Holmul", 7, "-1"), ("Waka", 5, "-1"), ("Lubaantun", 5, "-1"), ("Bonampak", 5, "-1"), 
+                                                                ("Tonina", 5, "-1"), ("Tazumal", 5, "-1"), ("Comalcalco", 5, "-1"), ("Nim Li Punit", 5, "-1"), ("Ekbalam", 5, "-1"), ("Xunantunich", 5, "-1")],		
 # Mongols
 'LEADER_GENGHIS_KHAN'		: [("Karakorum", 8, "-1"), ("Khanbaliq", 9, "VARIETY_BEIJING"), ("Dulun-Boldaq", 9, "-1"), ("Samarkand", 9, "VARIETY_SAMARKAND"), ("Sarai", 9, "VARIETY_VOLGOGRAD"), ("Avarga", 10, "-1"), ("Datong", 8, "-1"), 
-								("Bukhara", 8, "-1"), ("Ningxia", 8, "-1"), ("Otrar", 7, "-1"), ("Maragheh", 7, "-1"), ("Yarkand ", 7, "-1"), ("Merv", 7, "VARIETY_MERV"), ("Nishapur", 7, "-1"), ("Bolghar", 7, "-1"), 
-								("Rey", 7, "VARIETY_REY"), ("Kabul", 6, "-1"), ("Dunhuang", 6, "-1"), ("Shangdu", 6, "-1"), ("Xiangyang", 6, "-1"), ("Balasagun", 6, "-1"), ("Kashgar", 6, "VARIETY_KASHGAR"), ("Luoyang", 6, "VARIETY_ZHOU"), 
-								("Balkh", 6, "VARIETY_BALKH"), ("Quinsai", 6, "VARIETY_HANGZHOU"), ("Jand", 5, "-1"), ("Ghazni", 5, "-1"), ("Tus", 5, "VARIETY_TUS"), ("Urgench", 5, "VARIETY_URGENCH"), ("Qomul", 5, "VARIETY_HAMI"), ("Ordu-Baliq", 5, "-1"), 
-								("Zaranj", 5, "-1"), ("Beshbalik", 5, "-1"), ("Turfan", 5, "VARIETY_HSUNGNU"), ("Taiyuan", 5, "VARIETY_TAIYUAN"), ("Huining", 5, "-1")],
+                                        ("Bukhara", 8, "-1"), ("Ningxia", 8, "-1"), ("Otrar", 7, "-1"), ("Maragheh", 7, "-1"), ("Yarkand ", 7, "-1"), ("Merv", 7, "VARIETY_MERV"), ("Nishapur", 7, "-1"), ("Bolghar", 7, "-1"), 
+                                                                ("Rey", 7, "VARIETY_REY"), ("Kabul", 6, "-1"), ("Dunhuang", 6, "-1"), ("Shangdu", 6, "-1"), ("Xiangyang", 6, "-1"), ("Balasagun", 6, "-1"), ("Kashgar", 6, "VARIETY_KASHGAR"), ("Luoyang", 6, "VARIETY_ZHOU"), 
+                                                                ("Balkh", 6, "VARIETY_BALKH"), ("Quinsai", 6, "VARIETY_HANGZHOU"), ("Jand", 5, "-1"), ("Ghazni", 5, "-1"), ("Tus", 5, "VARIETY_TUS"), ("Urgench", 5, "VARIETY_URGENCH"), ("Qomul", 5, "VARIETY_HAMI"), ("Ordu-Baliq", 5, "-1"), 
+                                                                ("Zaranj", 5, "-1"), ("Beshbalik", 5, "-1"), ("Turfan", 5, "VARIETY_HSUNGNU"), ("Taiyuan", 5, "VARIETY_TAIYUAN"), ("Huining", 5, "-1")],
 'LEADER_KHORLOOGIIN'		: [("Ulanbaatar", 10, "VARIETY_ULANBAATAR"), ("Nalaikh", 9, "-1"), ("Sukhbaatar", 9, "-1"), ("Choibalsan", 8, "VARIETY_BAYAN"), ("Ulaangom", 8, "-1"), ("Moron", 8, "-1"), ("Tsetserleg", 8, "-1"), ("Altay", 7, "-1"), 
-								("Uliastay", 7, "-1"), ("Buyant Uhaa", 7, "-1"), ("Altanbulag", 7, "-1"), ("Baruun-Urt", 7, "-1"), ("Zuunmod", 7, "-1"), ("Khovd", 6, "-1"), ("Mandalgovi", 6, "-1"), ("Ondorkhaan", 6, "-1"), 
-								("Bayankhongor", 6, "-1"), ("Dalanzadgad", 6, "-1"), ("Olgii", 5, "-1"), ("Bulgan", 5, "-1"), ("Arvaikheer", 5, "-1"), ("Dzuunharaa", 5, "-1"), ("Zamyn-Uud", 5, "-1"), ("Choir", 5, "-1"), ("Sainshand", 5, "-1"), 
-								("Kharkhorin", 5, "-1"), ("Sharyngol", 5, "-1"), ("Tarialan", 4, "-1"), ("Galt", 4, "-1"), ("Uyanga", 4, "-1"), ("Mandal", 4, "-1"), ("Nogoonnuur", 4, "-1"), ("Batsumber", 4, "-1"), ("Erdenemandal", 4, "-1"), 
-								("Galuut", 4, "-1"), ("Tosontsengel", 4, "-1")],
+                                       ("Uliastay", 7, "-1"), ("Buyant Uhaa", 7, "-1"), ("Altanbulag", 7, "-1"), ("Baruun-Urt", 7, "-1"), ("Zuunmod", 7, "-1"), ("Khovd", 6, "-1"), ("Mandalgovi", 6, "-1"), ("Ondorkhaan", 6, "-1"), 
+                                                                ("Bayankhongor", 6, "-1"), ("Dalanzadgad", 6, "-1"), ("Olgii", 5, "-1"), ("Bulgan", 5, "-1"), ("Arvaikheer", 5, "-1"), ("Dzuunharaa", 5, "-1"), ("Zamyn-Uud", 5, "-1"), ("Choir", 5, "-1"), ("Sainshand", 5, "-1"), 
+                                                                ("Kharkhorin", 5, "-1"), ("Sharyngol", 5, "-1"), ("Tarialan", 4, "-1"), ("Galt", 4, "-1"), ("Uyanga", 4, "-1"), ("Mandal", 4, "-1"), ("Nogoonnuur", 4, "-1"), ("Batsumber", 4, "-1"), ("Erdenemandal", 4, "-1"), 
+                                                                ("Galuut", 4, "-1"), ("Tosontsengel", 4, "-1")],
 'LEADER_KUBLAI_KHAN'		: [("Khanbaliq", 10, "VARIETY_BEIJING"), ("Xanadu", 9, "-1"), ("Liaoyang", 8, "-1"), ("Bianliang", 8, "VARIETY_KAIFENG"), ("Quinsai", 8, "VARIETY_HANGZHOU"), ("Canton", 8, "VARIETY_GUANGZHOU"), ("Fuzhou", 7, "VARIETY_FUZHOU"), 
-								("Ganzhou", 7, "-1"), ("Wuchang", 7, "-1"), ("Longxing", 7, "-1"), ("Karakorum", 7, "-1"), ("Fengyuan", 7, "VARIETY_XIAN"), ("Chengdu", 7, "VARIETY_CHENGDU"), ("Kunming", 7, "VARIETY_KUNMING"), ("Dali", 7, "-1"), 
-								("Kaesong", 7, "VARIETY_KAESONG"), ("Daning", 6, "-1"), ("Dunhuang", 6, "-1"), ("Suzhou", 6, "-1"), ("Ningxia", 6, "-1"), ("Zhending", 6, "-1"), ("Qingjiang", 6, "-1"), ("Changzhou", 6, "-1"), ("Luzhou", 6, "-1"), 
-								("Tingzhou", 6, "-1"), ("Ji'an", 6, "-1"), ("Jingjiang", 6, "-1"), ("Hengzhou", 6, "-1"), ("Changde", 6, "-1"), ("Zhongxing", 6, "VARIETY_AACHEN"), ("Tengchong", 6, "-1"), ("Yangzhou", 5, "VARIETY_YANGZHOU"), 
-								("Qomul", 5, "VARIETY_HAMI"), ("Lhasa", 5, "-1"), ("Yizhou", 5, "-1"), ("Tenduc", 5, "-1")],
+                                       ("Ganzhou", 7, "-1"), ("Wuchang", 7, "-1"), ("Longxing", 7, "-1"), ("Karakorum", 7, "-1"), ("Fengyuan", 7, "VARIETY_XIAN"), ("Chengdu", 7, "VARIETY_CHENGDU"), ("Kunming", 7, "VARIETY_KUNMING"), ("Dali", 7, "-1"), 
+                                                                ("Kaesong", 7, "VARIETY_KAESONG"), ("Daning", 6, "-1"), ("Dunhuang", 6, "-1"), ("Suzhou", 6, "-1"), ("Ningxia", 6, "-1"), ("Zhending", 6, "-1"), ("Qingjiang", 6, "-1"), ("Changzhou", 6, "-1"), ("Luzhou", 6, "-1"), 
+                                                                ("Tingzhou", 6, "-1"), ("Ji'an", 6, "-1"), ("Jingjiang", 6, "-1"), ("Hengzhou", 6, "-1"), ("Changde", 6, "-1"), ("Zhongxing", 6, "VARIETY_AACHEN"), ("Tengchong", 6, "-1"), ("Yangzhou", 5, "VARIETY_YANGZHOU"), 
+                                                                ("Qomul", 5, "VARIETY_HAMI"), ("Lhasa", 5, "-1"), ("Yizhou", 5, "-1"), ("Tenduc", 5, "-1")],
 'LEADER_MANDUKHAI_KHATUN'	: [("Khuree", 10, "VARIETY_ULANBAATAR"), ("Hohhot", 9, "-1"), ("Karakorum", 9, "-1"), ("Ordos", 8, "-1"), ("Khiagt", 8, "VARIETY_KYAKHTA"), ("Ereen", 8, "-1"), ("Kobdo", 8, "-1"), ("Boduna", 8, "-1"), ("Tsetserleg", 7, "-1"), 
-								("Xilinhot", 7, "-1"), ("Bayanhot", 7, "-1"), ("Uliastay", 7, "-1"), ("Qiqihar", 7, "-1"), ("Otog", 6, "-1"), ("Setsen", 6, "-1"), ("Mandalgovi", 6, "-1"), ("Sainshand", 6, "-1"), ("Ondorkhaan", 6, "-1"), 
-								("Bayan Tumen", 6, "VARIETY_BAYAN"), ("Sartu", 6, "-1"), ("Ulankhad", 6, "VARIETY_ULANKHAD"), ("Khaluun Gol", 6, "VARIETY_CHENGDE"), ("Ulanqab", 6, "-1"), ("Bayisingtu ", 6, "-1"), ("Ulaangom", 5, "-1"), ("Balikul", 5, "-1"), 
-								("Dalainhob", 5, "-1"), ("Chuguchak", 5, "-1"), ("Urzhar", 5, "-1"), ("Moron", 5, "-1"), ("Dorbiljin", 5, "-1"), ("Buteha", 5, "-1"), ("Hulunbuir", 5, "-1"), ("Urumqi", 4, "VARIETY_URUMQI"), ("Erhuu", 4, "VARIETY_BURYAT"), 
-								("Kalgan", 4, "-1")],
+                                    ("Xilinhot", 7, "-1"), ("Bayanhot", 7, "-1"), ("Uliastay", 7, "-1"), ("Qiqihar", 7, "-1"), ("Otog", 6, "-1"), ("Setsen", 6, "-1"), ("Mandalgovi", 6, "-1"), ("Sainshand", 6, "-1"), ("Ondorkhaan", 6, "-1"), 
+                                                                ("Bayan Tumen", 6, "VARIETY_BAYAN"), ("Sartu", 6, "-1"), ("Ulankhad", 6, "VARIETY_ULANKHAD"), ("Khaluun Gol", 6, "VARIETY_CHENGDE"), ("Ulanqab", 6, "-1"), ("Bayisingtu ", 6, "-1"), ("Ulaangom", 5, "-1"), ("Balikul", 5, "-1"), 
+                                                                ("Dalainhob", 5, "-1"), ("Chuguchak", 5, "-1"), ("Urzhar", 5, "-1"), ("Moron", 5, "-1"), ("Dorbiljin", 5, "-1"), ("Buteha", 5, "-1"), ("Hulunbuir", 5, "-1"), ("Urumqi", 4, "VARIETY_URUMQI"), ("Erhuu", 4, "VARIETY_BURYAT"), 
+                                                                ("Kalgan", 4, "-1")],
 'LEADER_OGEDEI_KHAN'		: [("Karakorum", 10, "-1"), ("Khanbaliq", 9, "VARIETY_BEIJING"), ("Tabriz", 9, "-1"), ("Samarkand", 9, "VARIETY_SAMARKAND"), ("Sarai", 9, "VARIETY_VOLGOGRAD"), ("Avarga", 8, "-1"), ("Herat", 8, "VARIETY_HERAT"), 
-								("Bukhara", 8, "-1"), ("Ningxia", 8, "-1"), ("Otrar", 7, "-1"), ("Maragheh", 7, "-1"), ("Baghdad", 7, "VARIETY_BAGHDAD"), ("Canton", 7, "VARIETY_GUANGZHOU"), ("Konya", 7, "VARIETY_KONYA"), ("Bolghar", 7, "-1"), 
-								("Kiev", 7, "VARIETY_KIEV"), ("Kabul", 6, "-1"), ("Dunhuang", 6, "-1"), ("Shangdu", 6, "-1"), ("Xiangyang", 6, "-1"), ("Balasagun", 6, "-1"), ("Kashgar", 6, "VARIETY_KASHGAR"), ("Luoyang", 6, "VARIETY_ZHOU"), 
-								("Nanking", 6, "VARIETY_NANJING"), ("Quinsai", 6, "VARIETY_HANGZHOU"), ("Jand", 5, "-1"), ("Ghazni", 5, "-1"), ("Tus", 5, "VARIETY_TUS"), ("Urgench", 5, "VARIETY_URGENCH"), ("Tbilisi", 5, "VARIETY_TBILISI"), ("Erzincan", 5, "VARIETY_ERZINCAN"), 
-								("Mosul", 5, "VARIETY_ASSYRIAN"), ("Hamadan", 5, "VARIETY_HAMADAN"), ("Bianliang", 5, "VARIETY_KAIFENG"), ("Kaiping", 5, "-1"), ("Kaesong", 5, "VARIETY_KAESONG")],
+                                       ("Bukhara", 8, "-1"), ("Ningxia", 8, "-1"), ("Otrar", 7, "-1"), ("Maragheh", 7, "-1"), ("Baghdad", 7, "VARIETY_BAGHDAD"), ("Canton", 7, "VARIETY_GUANGZHOU"), ("Konya", 7, "VARIETY_KONYA"), ("Bolghar", 7, "-1"), 
+                                                                ("Kiev", 7, "VARIETY_KIEV"), ("Kabul", 6, "-1"), ("Dunhuang", 6, "-1"), ("Shangdu", 6, "-1"), ("Xiangyang", 6, "-1"), ("Balasagun", 6, "-1"), ("Kashgar", 6, "VARIETY_KASHGAR"), ("Luoyang", 6, "VARIETY_ZHOU"), 
+                                                                ("Nanking", 6, "VARIETY_NANJING"), ("Quinsai", 6, "VARIETY_HANGZHOU"), ("Jand", 5, "-1"), ("Ghazni", 5, "-1"), ("Tus", 5, "VARIETY_TUS"), ("Urgench", 5, "VARIETY_URGENCH"), ("Tbilisi", 5, "VARIETY_TBILISI"), ("Erzincan", 5, "VARIETY_ERZINCAN"), 
+                                                                ("Mosul", 5, "VARIETY_ASSYRIAN"), ("Hamadan", 5, "VARIETY_HAMADAN"), ("Bianliang", 5, "VARIETY_KAIFENG"), ("Kaiping", 5, "-1"), ("Kaesong", 5, "VARIETY_KAESONG")],
 'LEADER_PELJIDIIN_GENDEN'	: [("Ulanbaatar", 10, "VARIETY_ULANBAATAR"), ("Nalaikh", 9, "-1"), ("Sukhbaatar", 9, "-1"), ("Bayan Tumen", 8, "VARIETY_BAYAN"), ("Ulaangom", 8, "-1"), ("Moron", 8, "-1"), ("Tsetserleg", 8, "-1"),	
-								("Altay", 7, "-1"), ("Uliastay", 7, "-1"), ("Buyant Uhaa", 7, "-1"), ("Altanbulag", 7, "-1"), ("Baruun-Urt", 7, "-1"), ("Zuunmod", 7, "-1"), ("Khovd", 6, "-1"), ("Mandalgovi", 6, "-1"), ("Ondorkhaan", 6, "-1"), 
-								("Bayankhongor", 6, "-1"), ("Dalanzadgad", 6, "-1"), ("Olgii", 5, "-1"), ("Bulgan", 5, "-1"), ("Arvaikheer", 5, "-1"), ("Dzuunharaa", 5, "-1"), ("Zamyn-Uud", 5, "-1"), ("Choir", 5, "-1"), ("Sainshand", 5, "-1"), 
-								("Kharkhorin", 5, "-1"), ("Sharyngol", 5, "-1"), ("Tarialan", 4, "-1"), ("Galt", 4, "-1"), ("Uyanga", 4, "-1"), ("Mandal", 4, "-1"), ("Nogoonnuur", 4, "-1"), ("Batsumber", 4, "-1"), ("Erdenemandal", 4, "-1"), 
-								("Galuut", 4, "-1"), ("Tosontsengel", 4, "-1")],	
+                                    ("Altay", 7, "-1"), ("Uliastay", 7, "-1"), ("Buyant Uhaa", 7, "-1"), ("Altanbulag", 7, "-1"), ("Baruun-Urt", 7, "-1"), ("Zuunmod", 7, "-1"), ("Khovd", 6, "-1"), ("Mandalgovi", 6, "-1"), ("Ondorkhaan", 6, "-1"), 
+                                                                ("Bayankhongor", 6, "-1"), ("Dalanzadgad", 6, "-1"), ("Olgii", 5, "-1"), ("Bulgan", 5, "-1"), ("Arvaikheer", 5, "-1"), ("Dzuunharaa", 5, "-1"), ("Zamyn-Uud", 5, "-1"), ("Choir", 5, "-1"), ("Sainshand", 5, "-1"), 
+                                                                ("Kharkhorin", 5, "-1"), ("Sharyngol", 5, "-1"), ("Tarialan", 4, "-1"), ("Galt", 4, "-1"), ("Uyanga", 4, "-1"), ("Mandal", 4, "-1"), ("Nogoonnuur", 4, "-1"), ("Batsumber", 4, "-1"), ("Erdenemandal", 4, "-1"), 
+                                                                ("Galuut", 4, "-1"), ("Tosontsengel", 4, "-1")],	
 # Nguni
 'LEADER_CETSHWAYO'			: [("Ulundi", 10, "-1"), ("uMgungundlovu", 9, "VARIETY_PIETERMARITZBURG"), ("Nobamba", 8, "-1"), ("Bulawayo", 8, "-1"), ("KwaDukuza", 7, "VARIETY_STANGER"), ("Nongoma", 7, "-1"), ("oNdini", 7, "-1"), ("Nodwengu", 7, "-1"), 
-								("Ndondakusuka", 7, "-1"), ("Babanango", 7, "-1"), ("Hlobane", 7, "-1"), ("eThekwini", 7, "VARIETY_DURBAN"), ("Eziqwaqweni", 7, "-1"), ("Kambula", 6, "-1"), ("Isiphezi", 6, "-1"), ("Mtunzini", 6, "-1"), 
-								("Matubatuba", 6, "-1"), ("Mhlahlandlela", 6, "-1"), ("Umtata", 6, "-1"), ("Lobamba", 6, "-1"), ("KwaHlomendlini", 5, "-1"), ("Mlambongwenya", 5, "-1"), ("eMangweni", 5, "-1"), ("Masotsheni", 5, "-1"), ("Hlatikulu", 5, "-1"), 
-								("Empangeni", 5, "-1"), ("uPhongolo", 5, "-1"), ("Tugela", 5, "-1"), ("KwaMashu", 5, "-1"), ("Ingwavuma", 5, "-1"), ("Hluhluwe", 5, "-1"), ("Amanzimtoti", 4, "-1"), ("Mkuze", 4, "-1"), ("Jozini", 4, "-1"), ("Ixopo", 4, "-1"), 
-								("Hlabisa", 4, "-1")],	
+                                             ("Ndondakusuka", 7, "-1"), ("Babanango", 7, "-1"), ("Hlobane", 7, "-1"), ("eThekwini", 7, "VARIETY_DURBAN"), ("Eziqwaqweni", 7, "-1"), ("Kambula", 6, "-1"), ("Isiphezi", 6, "-1"), ("Mtunzini", 6, "-1"), 
+                                                                ("Matubatuba", 6, "-1"), ("Mhlahlandlela", 6, "-1"), ("Umtata", 6, "-1"), ("Lobamba", 6, "-1"), ("KwaHlomendlini", 5, "-1"), ("Mlambongwenya", 5, "-1"), ("eMangweni", 5, "-1"), ("Masotsheni", 5, "-1"), ("Hlatikulu", 5, "-1"), 
+                                                                ("Empangeni", 5, "-1"), ("uPhongolo", 5, "-1"), ("Tugela", 5, "-1"), ("KwaMashu", 5, "-1"), ("Ingwavuma", 5, "-1"), ("Hluhluwe", 5, "-1"), ("Amanzimtoti", 4, "-1"), ("Mkuze", 4, "-1"), ("Jozini", 4, "-1"), ("Ixopo", 4, "-1"), 
+                                                                ("Hlabisa", 4, "-1")],	
 'LEADER_DINGANE'			: [("Ulundi", 9, "-1"), ("uMgungundlovu", 10, "VARIETY_PIETERMARITZBURG"), ("Nobamba", 8, "-1"), ("Bulawayo", 8, "-1"), ("KwaDukuza", 7, "VARIETY_STANGER"), ("Nongoma", 7, "-1"), ("oNdini", 7, "-1"), ("Nodwengu", 7, "-1"), 
-								("Ndondakusuka", 7, "-1"), ("Babanango", 7, "-1"), ("Hlobane", 7, "-1"), ("eThekwini", 7, "VARIETY_DURBAN"), ("Eziqwaqweni", 7, "-1"), ("Kambula", 6, "-1"), ("Isiphezi", 6, "-1"), ("Mtunzini", 6, "-1"), 
-								("Matubatuba", 6, "-1"), ("Mhlahlandlela", 6, "-1"), ("Umtata", 6, "-1"), ("Lobamba", 6, "-1"), ("KwaHlomendlini", 5, "-1"), ("Mlambongwenya", 5, "-1"), ("eMangweni", 5, "-1"), ("Masotsheni", 5, "-1"), ("Hlatikulu", 5, "-1"), 
-								("Empangeni", 5, "-1"), ("uPhongolo", 5, "-1"), ("Tugela", 5, "-1"), ("KwaMashu", 5, "-1"), ("Ingwavuma", 5, "-1"), ("Hluhluwe", 5, "-1"), ("Amanzimtoti", 4, "-1"), ("Mkuze", 4, "-1"), ("Jozini", 4, "-1"), ("Ixopo", 4, "-1"), 
-								("Hlabisa", 4, "-1")],
+                                           ("Ndondakusuka", 7, "-1"), ("Babanango", 7, "-1"), ("Hlobane", 7, "-1"), ("eThekwini", 7, "VARIETY_DURBAN"), ("Eziqwaqweni", 7, "-1"), ("Kambula", 6, "-1"), ("Isiphezi", 6, "-1"), ("Mtunzini", 6, "-1"), 
+                                                                ("Matubatuba", 6, "-1"), ("Mhlahlandlela", 6, "-1"), ("Umtata", 6, "-1"), ("Lobamba", 6, "-1"), ("KwaHlomendlini", 5, "-1"), ("Mlambongwenya", 5, "-1"), ("eMangweni", 5, "-1"), ("Masotsheni", 5, "-1"), ("Hlatikulu", 5, "-1"), 
+                                                                ("Empangeni", 5, "-1"), ("uPhongolo", 5, "-1"), ("Tugela", 5, "-1"), ("KwaMashu", 5, "-1"), ("Ingwavuma", 5, "-1"), ("Hluhluwe", 5, "-1"), ("Amanzimtoti", 4, "-1"), ("Mkuze", 4, "-1"), ("Jozini", 4, "-1"), ("Ixopo", 4, "-1"), 
+                                                                ("Hlabisa", 4, "-1")],
 'LEADER_MOSHOESHOE_I'		: [("Thaba Bosiu", 10, "-1"), ("Maseru", 9, "-1"), ("Teyateyaneng", 8, "-1"), ("Mafeteng", 8, "-1"), ("Hlotse", 7, "-1"), ("Mohale's Hoek", 7, "-1"), ("Maputsoe", 7, "-1"), ("Qacha's Nek", 7, "-1"), ("Quthing", 6, "-1"), 
-								("Peka", 6, "-1"), ("Butha-Buthe", 6, "-1"), ("Roma", 6, "-1"), ("Mokhotlong", 6, "-1"), ("Thaba-Tseka", 6, "-1"), ("Malumeng", 5, "-1"), ("Phamong", 5, "-1"), ("Semonkong", 5, "-1"), ("Nyakosoba", 5, "-1"), 
-								("Mapoteng", 5, "-1"), ("Pitseng", 5, "-1"), ("Kao", 5, "-1"), ("Mphorosane", 5, "-1"), ("Seshote", 5, "-1"), ("Sehonghong", 5, "-1"), ("Khomo-Phatsoa", 4, "-1"), ("Mount Moorosi", 4, "-1"), ("Old Hoek", 4, "-1"), 
-								("Rafolatsane", 4, "-1"), ("Makheka", 4, "-1"), ("Makhunoane", 4, "-1"), ("Moyeni", 4, "-1"), ("Mazenod", 4, "-1"), ("Qaba", 4, "-1"), ("Katse", 4, "-1"), ("Oxbow", 4, "-1"), ("Morija", 4, "-1")],
+                                        ("Peka", 6, "-1"), ("Butha-Buthe", 6, "-1"), ("Roma", 6, "-1"), ("Mokhotlong", 6, "-1"), ("Thaba-Tseka", 6, "-1"), ("Malumeng", 5, "-1"), ("Phamong", 5, "-1"), ("Semonkong", 5, "-1"), ("Nyakosoba", 5, "-1"), 
+                                                                ("Mapoteng", 5, "-1"), ("Pitseng", 5, "-1"), ("Kao", 5, "-1"), ("Mphorosane", 5, "-1"), ("Seshote", 5, "-1"), ("Sehonghong", 5, "-1"), ("Khomo-Phatsoa", 4, "-1"), ("Mount Moorosi", 4, "-1"), ("Old Hoek", 4, "-1"), 
+                                                                ("Rafolatsane", 4, "-1"), ("Makheka", 4, "-1"), ("Makhunoane", 4, "-1"), ("Moyeni", 4, "-1"), ("Mazenod", 4, "-1"), ("Qaba", 4, "-1"), ("Katse", 4, "-1"), ("Oxbow", 4, "-1"), ("Morija", 4, "-1")],
 'LEADER_NELSON_MANDELA'		: [("Johannesburg", 9, "-1"), ("Cape Town", 10, "-1"), ("Durban", 8, "VARIETY_DURBAN"), ("Germiston", 8, "-1"), ("Pretoria", 8, "-1"), ("Port Elizabeth", 7, "-1"), ("East London", 7, "-1"), ("Polokwane", 7, "-1"), 
-								("Bloemfontein", 7, "-1"), ("Vanderbijlpark", 7, "-1"), ("Nelspruit", 7, "-1"), ("Pietermaritzburg", 7, "VARIETY_PIETERMARITZBURG"), ("Rustenburg", 7, "-1"), ("Bushbuckridge", 7, "-1"), ("Brits", 7, "-1"), 
-								("Thohoyandou", 6, "-1"), ("Apel", 6, "-1"), ("Mthatha", 6, "-1"), ("eMalahleni", 6, "-1"), ("Welkom", 6, "-1"), ("Klerksdorp", 6, "-1"), ("Louis Trichardt", 6, "-1"), ("Tzaneen", 6, "-1"), ("Malalane", 6, "-1"), 
-								("Richards Bay", 6, "-1"), ("Krugersdorp", 5, "-1"), ("Ladysmith", 5, "-1"), ("Phuthaditjhaba", 5, "-1"), ("Port Shepstone", 5, "-1"), ("Malamulele", 5, "-1"), ("Secunda", 5, "-1"), ("eMpumalanga", 5, "-1"), 
-								("Mokopane", 5, "-1"), ("Bizana", 5, "-1"), ("Mahikeng", 5, "-1"), ("Libode", 5, "-1")],
+                                          ("Bloemfontein", 7, "-1"), ("Vanderbijlpark", 7, "-1"), ("Nelspruit", 7, "-1"), ("Pietermaritzburg", 7, "VARIETY_PIETERMARITZBURG"), ("Rustenburg", 7, "-1"), ("Bushbuckridge", 7, "-1"), ("Brits", 7, "-1"), 
+                                                                ("Thohoyandou", 6, "-1"), ("Apel", 6, "-1"), ("Mthatha", 6, "-1"), ("eMalahleni", 6, "-1"), ("Welkom", 6, "-1"), ("Klerksdorp", 6, "-1"), ("Louis Trichardt", 6, "-1"), ("Tzaneen", 6, "-1"), ("Malalane", 6, "-1"), 
+                                                                ("Richards Bay", 6, "-1"), ("Krugersdorp", 5, "-1"), ("Ladysmith", 5, "-1"), ("Phuthaditjhaba", 5, "-1"), ("Port Shepstone", 5, "-1"), ("Malamulele", 5, "-1"), ("Secunda", 5, "-1"), ("eMpumalanga", 5, "-1"), 
+                                                                ("Mokopane", 5, "-1"), ("Bizana", 5, "-1"), ("Mahikeng", 5, "-1"), ("Libode", 5, "-1")],
 'LEADER_NYATSIMBA'			: [("Great Zimbabwe", 10, "-1"), ("Khami", 9, "-1"), ("Mapungubwe", 8, "-1"), ("Zvongombe", 8, "-1"), ("Danangombe", 7, "-1"), ("Bumbusi", 7, "-1"), ("Naletale", 7, "-1"), ("Ziwa", 7, "-1"), ("Leopard's Kopje", 7, "-1"), 
-								("Chibuene", 7, "-1"), ("Manyikeni", 7, "-1"), ("Toutswemogala", 7, "-1"), ("Ingombe Ilede", 7, "-1"), ("Harare", 6, "-1"), ("Bulawayo", 6, "-1"), ("Chitungwiza", 6, "-1"), ("Mutare", 6, "-1"), ("Kwekwe", 6, "-1"), 
-								("Kadoma", 6, "-1"), ("Masvingo", 6, "-1"), ("Zvishavane", 5, "-1"), ("Gweru", 6, "-1"), ("Chinhoyi", 5, "-1"), ("Marondera", 4, "-1"), ("Chegutu", 4, "-1"), ("Bindura", 4, "-1"), ("Shurugwi", 4, "-1"), ("Kariba", 4, "-1"), 
-								("Chiredzi", 4, "-1"), ("Karoi", 3, "-1"), ("Rusape", 3, "-1"), ("Hwange", 3, "-1"), ("Chipinge", 3, "-1"), ("Gokwe", 3, "-1"), ("Ruwa", 3, "-1"), ("Gwai", 3, "-1")],								
+                                             ("Chibuene", 7, "-1"), ("Manyikeni", 7, "-1"), ("Toutswemogala", 7, "-1"), ("Ingombe Ilede", 7, "-1"), ("Harare", 6, "-1"), ("Bulawayo", 6, "-1"), ("Chitungwiza", 6, "-1"), ("Mutare", 6, "-1"), ("Kwekwe", 6, "-1"), 
+                                                                ("Kadoma", 6, "-1"), ("Masvingo", 6, "-1"), ("Zvishavane", 5, "-1"), ("Gweru", 6, "-1"), ("Chinhoyi", 5, "-1"), ("Marondera", 4, "-1"), ("Chegutu", 4, "-1"), ("Bindura", 4, "-1"), ("Shurugwi", 4, "-1"), ("Kariba", 4, "-1"), 
+                                                                ("Chiredzi", 4, "-1"), ("Karoi", 3, "-1"), ("Rusape", 3, "-1"), ("Hwange", 3, "-1"), ("Chipinge", 3, "-1"), ("Gokwe", 3, "-1"), ("Ruwa", 3, "-1"), ("Gwai", 3, "-1")],								
 'LEADER_SHAKA'				: [("Ulundi", 9, "-1"), ("uMgungundlovu", 9, "VARIETY_PIETERMARITZBURG"), ("Nobamba", 8, "-1"), ("Bulawayo", 10, "-1"), ("KwaDukuza", 7, "VARIETY_STANGER"), ("Nongoma", 7, "-1"), ("oNdini", 7, "-1"), ("Nodwengu", 7, "-1"), 
-								("Ndondakusuka", 7, "-1"), ("Babanango", 7, "-1"), ("Hlobane", 7, "-1"), ("eThekwini", 7, "VARIETY_DURBAN"), ("Eziqwaqweni", 7, "-1"), ("Kambula", 6, "-1"), ("Isiphezi", 6, "-1"), ("Mtunzini", 6, "-1"), 
-								("Matubatuba", 6, "-1"), ("Mhlahlandlela", 6, "-1"), ("Umtata", 6, "-1"), ("Lobamba", 6, "-1"), ("KwaHlomendlini", 5, "-1"), ("Mlambongwenya", 5, "-1"), ("eMangweni", 5, "-1"), ("Masotsheni", 5, "-1"), ("Hlatikulu", 5, "-1"), 
-								("Empangeni", 5, "-1"), ("uPhongolo", 5, "-1"), ("Tugela", 5, "-1"), ("KwaMashu", 5, "-1"), ("Ingwavuma", 5, "-1"), ("Hluhluwe", 5, "-1"), ("Amanzimtoti", 4, "-1"), ("Mkuze", 4, "-1"), ("Jozini", 4, "-1"), ("Ixopo", 4, "-1"), 
-								("Hlabisa", 4, "-1")],	
+                                                 ("Ndondakusuka", 7, "-1"), ("Babanango", 7, "-1"), ("Hlobane", 7, "-1"), ("eThekwini", 7, "VARIETY_DURBAN"), ("Eziqwaqweni", 7, "-1"), ("Kambula", 6, "-1"), ("Isiphezi", 6, "-1"), ("Mtunzini", 6, "-1"), 
+                                                                ("Matubatuba", 6, "-1"), ("Mhlahlandlela", 6, "-1"), ("Umtata", 6, "-1"), ("Lobamba", 6, "-1"), ("KwaHlomendlini", 5, "-1"), ("Mlambongwenya", 5, "-1"), ("eMangweni", 5, "-1"), ("Masotsheni", 5, "-1"), ("Hlatikulu", 5, "-1"), 
+                                                                ("Empangeni", 5, "-1"), ("uPhongolo", 5, "-1"), ("Tugela", 5, "-1"), ("KwaMashu", 5, "-1"), ("Ingwavuma", 5, "-1"), ("Hluhluwe", 5, "-1"), ("Amanzimtoti", 4, "-1"), ("Mkuze", 4, "-1"), ("Jozini", 4, "-1"), ("Ixopo", 4, "-1"), 
+                                                                ("Hlabisa", 4, "-1")],	
 # Persia
 'LEADER_ABBAS'				: [("Isfahan", 10, "VARIETY_ISFAHAN"), ("Tabriz", 9, "-1"), ("Shiraz", 9, "VARIETY_SHIRAZ"), ("Mashhad", 8, "-1"), ("Kandahar", 8, "VARIETY_KANDAHAR"), ("Tehran", 7, "VARIETY_TEHRAN"), ("Bandar Abbas", 7, "VARIETY_HORMUZ"), 
-								("Qom", 7, "VARIETY_QOM"), ("Herat", 7, "VARIETY_HERAT"), ("Baghdad", 7, "VARIETY_BAGHDAD"), ("Maragheh", 7, "-1"), ("Karbala", 7, "-1"), ("Kerman", 6, "-1"), ("Yazd", 6, "VARIETY_YAZD"), ("Nishapur", 6, "-1"), 
-								("Qazvin", 6, "-1"), ("Shamakhi", 6, "-1"), ("Darband", 6, "VARIETY_DERBENT"), ("Tiflis", 6, "VARIETY_TBILISI"), ("Resht", 6, "-1"), ("Kermanshah", 6, "-1"), ("Hamadan", 6, "VARIETY_HAMADAN"), ("Baku", 6, "-1"), 
-								("Bushehr", 6, "VARIETY_BUSHEHR"), ("Iravan", 5, "VARIETY_YEREVAN"), ("Basra", 5, "VARIETY_BASRA"), ("Merv", 5, "VARIETY_MERV"), ("Zaranj", 5, "-1"), ("Ahvaz", 5, "-1"), ("Ardabil", 5, "VARIETY_ARDABIL"), ("Soltaniyeh", 5, "-1"), 
-								("Kashan", 5, "-1"), ("Damghan", 5, "-1"), ("Shushtar", 5, "-1"), ("Shahpur", 5, "-1")],
+                                                 ("Qom", 7, "VARIETY_QOM"), ("Herat", 7, "VARIETY_HERAT"), ("Baghdad", 7, "VARIETY_BAGHDAD"), ("Maragheh", 7, "-1"), ("Karbala", 7, "-1"), ("Kerman", 6, "-1"), ("Yazd", 6, "VARIETY_YAZD"), ("Nishapur", 6, "-1"), 
+                                                                ("Qazvin", 6, "-1"), ("Shamakhi", 6, "-1"), ("Darband", 6, "VARIETY_DERBENT"), ("Tiflis", 6, "VARIETY_TBILISI"), ("Resht", 6, "-1"), ("Kermanshah", 6, "-1"), ("Hamadan", 6, "VARIETY_HAMADAN"), ("Baku", 6, "-1"), 
+                                                                ("Bushehr", 6, "VARIETY_BUSHEHR"), ("Iravan", 5, "VARIETY_YEREVAN"), ("Basra", 5, "VARIETY_BASRA"), ("Merv", 5, "VARIETY_MERV"), ("Zaranj", 5, "-1"), ("Ahvaz", 5, "-1"), ("Ardabil", 5, "VARIETY_ARDABIL"), ("Soltaniyeh", 5, "-1"), 
+                                                                ("Kashan", 5, "-1"), ("Damghan", 5, "-1"), ("Shushtar", 5, "-1"), ("Shahpur", 5, "-1")],
 'LEADER_CYRUS'				: [("Parsa", 10, "VARIETY_PERSEPOLIS"), ("Pasargadae", 9, "-1"), ("Ecbatana", 9, "VARIETY_HAMADAN"), ("Babylon", 9, "VARIETY_BAGHDAD"), ("Susa", 8, "VARIETY_SHUSH"), ("Bactra", 8, "VARIETY_BALKH"), ("Damascus", 8, "VARIETY_DAMASCUS"), ("Anshan", 8, "-1"), 
-								("Jerusalem", 8, "VARIETY_JERUSALEM"), ("Sardis", 8, "-1"), ("Saddarvazeh", 7, "VARIETY_HECATOMPYLOS"), ("Gabae", 7, "VARIETY_ISFAHAN"), ("Arbaira", 7, "VARIETY_ARBELA"), ("Nineveh", 7, "VARIETY_ASSYRIAN"), 
-								("Tadmor", 6, "VARIETY_PALMYRA"), ("Tyre", 6, "VARIETY_PHEONICIAN"), ("Ephesos", 6, "VARIETY_EFES"), ("Halikarnassos", 6, "VARIETY_BODRUM"), ("Assur", 6, "-1"), ("Sidon", 6, "-1"), ("Hormirzad", 6, "VARIETY_HORMUZ"), 
-								("Artacoana", 5, "-1"), ("Thospia", 5, "VARIETY_VAN"), ("Karmana", 5, "VARIETY_JIROFT"), ("Gabala", 5, "VARIETY_QABALA"), ("Tarsus", 5, "VARIETY_TARSUS"), ("Pura", 5, "-1"), ("Zadracarta", 5, "-1"), ("Margu", 5, "VARIETY_MERV"), 
-								("Gordion", 5, "VARIETY_GORDIUM"), ("Halab", 4, "VARIETY_ALEPPO"), ("Trebizond", 4, "VARIETY_TREBIZOND"), ("Opis", 4, "-1"), ("Zranka", 4, "-1"), ("Xanthos", 4, "-1"), ("Damascus", 4, "VARIETY_DAMASCUS"), ("Thapsacus", 4, "VARIETY_EUROPOS"), ("Rhages", 4, "VARIETY_RAY"), ("Mazaca", 4, "VARIETY_HITTITE"), ("Ganzak", 4, "-1")],	
+                                                 ("Jerusalem", 8, "VARIETY_JERUSALEM"), ("Sardis", 8, "-1"), ("Saddarvazeh", 7, "VARIETY_HECATOMPYLOS"), ("Gabae", 7, "VARIETY_ISFAHAN"), ("Arbaira", 7, "VARIETY_ARBELA"), ("Nineveh", 7, "VARIETY_ASSYRIAN"), 
+                                                                ("Tadmor", 6, "VARIETY_PALMYRA"), ("Tyre", 6, "VARIETY_PHEONICIAN"), ("Ephesos", 6, "VARIETY_EFES"), ("Halikarnassos", 6, "VARIETY_BODRUM"), ("Assur", 6, "-1"), ("Sidon", 6, "-1"), ("Hormirzad", 6, "VARIETY_HORMUZ"), 
+                                                                ("Artacoana", 5, "-1"), ("Thospia", 5, "VARIETY_VAN"), ("Karmana", 5, "VARIETY_JIROFT"), ("Gabala", 5, "VARIETY_QABALA"), ("Tarsus", 5, "VARIETY_TARSUS"), ("Pura", 5, "-1"), ("Zadracarta", 5, "-1"), ("Margu", 5, "VARIETY_MERV"), 
+                                                                ("Gordion", 5, "VARIETY_GORDIUM"), ("Halab", 4, "VARIETY_ALEPPO"), ("Trebizond", 4, "VARIETY_TREBIZOND"), ("Opis", 4, "-1"), ("Zranka", 4, "-1"), ("Xanthos", 4, "-1"), ("Damascus", 4, "VARIETY_DAMASCUS"), ("Thapsacus", 4, "VARIETY_EUROPOS"), ("Rhages", 4, "VARIETY_RAY"), ("Mazaca", 4, "VARIETY_HITTITE"), ("Ganzak", 4, "-1")],	
 'LEADER_DARIUS'				: [("Parsa", 10, "VARIETY_PERSEPOLIS"), ("Pasargadae", 9, "-1"), ("Ecbatana", 9, "VARIETY_HAMADAN"), ("Babylon", 9, "VARIETY_BAGHDAD"), ("Susa", 8, "VARIETY_SHUSH"), ("Bactra", 8, "VARIETY_BALKH"), ("Damascus", 8, "VARIETY_DAMASCUS"), 
-								("Jerusalem", 8, "VARIETY_JERUSALEM"), ("Sardis", 8, "-1"), ("Saddarvazeh", 7, "VARIETY_HECATOMPYLOS"), ("Gabae", 7, "VARIETY_ISFAHAN"), ("Arbaira", 7, "VARIETY_ARBELA"), ("Nineveh", 7, "VARIETY_ASSYRIAN"), 
-								("Tadmor", 6, "VARIETY_PALMYRA"), ("Tyre", 6, "VARIETY_PHEONICIAN"), ("Ephesos", 6, "VARIETY_EFES"), ("Halikarnassos", 6, "VARIETY_BODRUM"), ("Assur", 6, "-1"), ("Sidon", 6, "-1"), ("Hormirzad", 6, "VARIETY_HORMUZ"), 
-								("Artacoana", 5, "-1"), ("Thospia", 5, "VARIETY_VAN"), ("Karmana", 5, "VARIETY_JIROFT"), ("Gabala", 5, "VARIETY_QABALA"), ("Tarsus", 5, "VARIETY_TARSUS"), ("Pura", 5, "-1"), ("Zadracarta", 5, "-1"), ("Margu", 5, "VARIETY_MERV"), 
-								("Gordion", 5, "VARIETY_GORDIUM"), ("Halab", 4, "VARIETY_ALEPPO"), ("Trebizond", 4, "VARIETY_TREBIZOND"), ("Opis", 4, "-1"), ("Zranka", 4, "-1"), ("Xanthos", 4, "-1"), ("Damascus", 4, "VARIETY_DAMASCUS"), ("Thapsacus", 4, "VARIETY_EUROPOS"), ("Rhages", 4, "VARIETY_RAY"), ("Ganzak", 4, "-1"), 
-								("Memphis", 7, "VARIETY_MEMPHIS"), ("Thebes", 6, "VARIETY_THEBES"), ("Sais", 5, "VARIETY_SAIS"), ("Gaza", 4, "VARIETY_GAZA"), ("Cyrene", 4, "VARIETY_CYRENAICA"), ("Mazaca", 4, "VARIETY_HITTITE")],	
+                                                  ("Jerusalem", 8, "VARIETY_JERUSALEM"), ("Sardis", 8, "-1"), ("Saddarvazeh", 7, "VARIETY_HECATOMPYLOS"), ("Gabae", 7, "VARIETY_ISFAHAN"), ("Arbaira", 7, "VARIETY_ARBELA"), ("Nineveh", 7, "VARIETY_ASSYRIAN"), 
+                                                                ("Tadmor", 6, "VARIETY_PALMYRA"), ("Tyre", 6, "VARIETY_PHEONICIAN"), ("Ephesos", 6, "VARIETY_EFES"), ("Halikarnassos", 6, "VARIETY_BODRUM"), ("Assur", 6, "-1"), ("Sidon", 6, "-1"), ("Hormirzad", 6, "VARIETY_HORMUZ"), 
+                                                                ("Artacoana", 5, "-1"), ("Thospia", 5, "VARIETY_VAN"), ("Karmana", 5, "VARIETY_JIROFT"), ("Gabala", 5, "VARIETY_QABALA"), ("Tarsus", 5, "VARIETY_TARSUS"), ("Pura", 5, "-1"), ("Zadracarta", 5, "-1"), ("Margu", 5, "VARIETY_MERV"), 
+                                                                ("Gordion", 5, "VARIETY_GORDIUM"), ("Halab", 4, "VARIETY_ALEPPO"), ("Trebizond", 4, "VARIETY_TREBIZOND"), ("Opis", 4, "-1"), ("Zranka", 4, "-1"), ("Xanthos", 4, "-1"), ("Damascus", 4, "VARIETY_DAMASCUS"), ("Thapsacus", 4, "VARIETY_EUROPOS"), ("Rhages", 4, "VARIETY_RAY"), ("Ganzak", 4, "-1"), 
+                                                                ("Memphis", 7, "VARIETY_MEMPHIS"), ("Thebes", 6, "VARIETY_THEBES"), ("Sais", 5, "VARIETY_SAIS"), ("Gaza", 4, "VARIETY_GAZA"), ("Cyrene", 4, "VARIETY_CYRENAICA"), ("Mazaca", 4, "VARIETY_HITTITE")],	
 'LEADER_NADER'				: [("Isfahan", 9, "VARIETY_ISFAHAN"), ("Tabriz", 9, "-1"), ("Shiraz", 8, "VARIETY_SHIRAZ"), ("Mashhad", 10, "-1"), ("Kandahar", 8, "VARIETY_KANDAHAR"), ("Tehran", 7, "VARIETY_TEHRAN"), ("Bandar Abbas", 6, "VARIETY_HORMUZ"), 
-								("Qom", 7, "VARIETY_QOM"), ("Herat", 7, "VARIETY_HERAT"), ("Baghdad", 7, "VARIETY_BAGHDAD"), ("Maragheh", 7, "-1"), ("Samarkand", 8, "VARIETY_SAMARKAND"), ("Karbala", 7, "-1"), ("Kerman", 6, "-1"), ("Yazd", 6, "VARIETY_YAZD"), 
-								("Nishapur", 6, "-1"), ("Qazvin", 6, "-1"), ("Shamakhi", 6, "-1"), ("Darband", 6, "VARIETY_DERBENT"), ("Tiflis", 6, "VARIETY_TBILISI"), ("Resht", 6, "-1"), ("Kermanshah", 6, "-1"), ("Hamadan", 6, "VARIETY_HAMADAN"), 
-								("Baku", 6, "-1"), ("Bushehr", 7, "VARIETY_BUSHEHR"), ("Iravan", 5, "VARIETY_YEREVAN"), ("Basra", 5, "VARIETY_BASRA"), ("Merv", 6, "VARIETY_MERV"), ("Zaranj", 5, "-1"), ("Ahvaz", 5, "-1"), ("Ardabil", 5, "VARIETY_ARDABIL"), 
-								("Soltaniyeh", 5, "-1"), ("Kashan", 5, "-1"), ("Damghan", 5, "-1"), ("Shushtar", 5, "-1"), ("Shahpur", 5, "-1"), ("Bukhara", 7, "-1"), ("Mosul", 7, "VARIETY_ASSYRIAN"), ("Kabul", 6, "-1"), ("Balkh", 5, "VARIETY_BALKH")],	
+                                                 ("Qom", 7, "VARIETY_QOM"), ("Herat", 7, "VARIETY_HERAT"), ("Baghdad", 7, "VARIETY_BAGHDAD"), ("Maragheh", 7, "-1"), ("Samarkand", 8, "VARIETY_SAMARKAND"), ("Karbala", 7, "-1"), ("Kerman", 6, "-1"), ("Yazd", 6, "VARIETY_YAZD"), 
+                                                                ("Nishapur", 6, "-1"), ("Qazvin", 6, "-1"), ("Shamakhi", 6, "-1"), ("Darband", 6, "VARIETY_DERBENT"), ("Tiflis", 6, "VARIETY_TBILISI"), ("Resht", 6, "-1"), ("Kermanshah", 6, "-1"), ("Hamadan", 6, "VARIETY_HAMADAN"), 
+                                                                ("Baku", 6, "-1"), ("Bushehr", 7, "VARIETY_BUSHEHR"), ("Iravan", 5, "VARIETY_YEREVAN"), ("Basra", 5, "VARIETY_BASRA"), ("Merv", 6, "VARIETY_MERV"), ("Zaranj", 5, "-1"), ("Ahvaz", 5, "-1"), ("Ardabil", 5, "VARIETY_ARDABIL"), 
+                                                                ("Soltaniyeh", 5, "-1"), ("Kashan", 5, "-1"), ("Damghan", 5, "-1"), ("Shushtar", 5, "-1"), ("Shahpur", 5, "-1"), ("Bukhara", 7, "-1"), ("Mosul", 7, "VARIETY_ASSYRIAN"), ("Kabul", 6, "-1"), ("Balkh", 5, "VARIETY_BALKH")],	
 'LEADER_REZA_SHAH'			: [("Tehran", 10, "VARIETY_TEHRAN"), ("Tabriz", 9, "-1"), ("Isfahan", 8, "-1"), ("Mashhad", 8, "-1"), ("Shiraz", 7, "-1"), ("Kermanshah", 7, "-1"), ("Resht", 7, "-1"),	("Hamadan", 7, "VARIETY_HAMADAN"), ("Ahvaz", 7, "-1"), 
-								("Qom", 7, "VARIETY_QOM"), ("Ardabil", 6, "VARIETY_ARDABIL"), ("Qazvin", 6, "-1"), ("Arak", 6, "-1"), ("Kerman", 6, "-1"), ("Yazd", 6, "VARIETY_YAZD"), ("Rezaiyeh", 6, "VARIETY_URMIA"), ("Zanjan", 5, "-1"), 
-								("Sanandaj", 5, "-1"), ("Khorramabad", 5, "-1"), ("Sari", 4, "-1"), ("Gorgan", 4, "-1"), ("Bandar Abbas", 4, "VARIETY_HORMUZ"), ("Zahedan", 4, "-1"), ("Karaj", 3, "-1"), ("Qal‘eh Hasan", 3, "-1"), ("Eslamshahr", 3, "-1"), 
-								("Kashan", 3, "-1"), ("Babol", 3, "-1"), ("Golestan", 3, "-1"), ("Malard", 3, "-1"), ("Dezful", 3, "-1"), ("Borujerd", 3, "-1"), ("Homayunshahr", 3, "-1"), ("Abadan", 3, "-1"), ("Varamin", 3, "-1"), ("Sabzevar", 3, "-1")],	
+                                             ("Qom", 7, "VARIETY_QOM"), ("Ardabil", 6, "VARIETY_ARDABIL"), ("Qazvin", 6, "-1"), ("Arak", 6, "-1"), ("Kerman", 6, "-1"), ("Yazd", 6, "VARIETY_YAZD"), ("Rezaiyeh", 6, "VARIETY_URMIA"), ("Zanjan", 5, "-1"), 
+                                                                ("Sanandaj", 5, "-1"), ("Khorramabad", 5, "-1"), ("Sari", 4, "-1"), ("Gorgan", 4, "-1"), ("Bandar Abbas", 4, "VARIETY_HORMUZ"), ("Zahedan", 4, "-1"), ("Karaj", 3, "-1"), ("Qal‘eh Hasan", 3, "-1"), ("Eslamshahr", 3, "-1"), 
+                                                                ("Kashan", 3, "-1"), ("Babol", 3, "-1"), ("Golestan", 3, "-1"), ("Malard", 3, "-1"), ("Dezful", 3, "-1"), ("Borujerd", 3, "-1"), ("Homayunshahr", 3, "-1"), ("Abadan", 3, "-1"), ("Varamin", 3, "-1"), ("Sabzevar", 3, "-1")],	
 'LEADER_SELEUCUS_NICATOR'	: [("Seleukeia", 10, "VARIETY_BAGHDAD"), ("Antioch", 9, "VARIETY_ANTIOCH"), ("Persepolis", 9, "VARIETY_PERSEPOLIS"), ("Ecbatana", 8, "VARIETY_HAMADAN"), ("Bactra", 8, "VARIETY_BALKH"), ("Dura Europos", 8, "-1"), 
-								("Susa", 8, "VARIETY_SHUSH"), ("Seleukeia Trachea", 7, "VARIETY_SELEUKEIA"), ("Alexandria Ariana", 7, "VARIETY_HERAT"), ("Harmozeia", 7, "VARIETY_HORMUZ"), ("Hierousalem", 7, "VARIETY_JERUSALEM"), ("Damascus", 7, "VARIETY_DAMASCUS"), 
-								("Hecatompylos", 7, "VARIETY_HECATOMPYLOS"), ("Rhagae", 6, "VARIETY_REY"), ("Arbela", 6, "VARIETY_ARBELA"), ("Antiochia Mygdonia", 6, "VARIETY_NISIBIS"), ("Edessa", 6, "VARIETY_EDESSA"), ("Tarsus", 6, "VARIETY_TARSUS"), ("Sardis", 6, "-1"), 
-								("Laodikeia", 6, "VARIETY_LATAKIA"), ("Carrhae", 6, "VARIETY_CARRHAE"), ("Charax Spasinu", 6, "VARIETY_BASRA"), ("Gabae", 6, "VARIETY_ISFAHAN"), ("Damghan", 6, "-1"), ("Antiochia Margiana", 6, "VARIETY_MERV"), 
-								("Alexandria Arachosia", 5, "VARIETY_KANDAHAR"), ("Patala", 5, "VARIETY_MOHENJO-DARO"), ("Palmyra", 5, "VARIETY_PALMYRA"), ("Tyros", 5, "VARIETY_PHEONICIAN"), ("Mopsuestia", 5, "VARIETY_MSIS"), 
-								("Nikephorion ", 5, "VARIETY_RAKKA"), ("Emesa", 5, "VARIETY_HOMS"), ("Ephesos", 5, "VARIETY_EFES"), ("Perga", 5, "-1"), ("Zadracarta", 5, "-1"), ("Orchoe", 5, "-1")],		
+                                    ("Susa", 8, "VARIETY_SHUSH"), ("Seleukeia Trachea", 7, "VARIETY_SELEUKEIA"), ("Alexandria Ariana", 7, "VARIETY_HERAT"), ("Harmozeia", 7, "VARIETY_HORMUZ"), ("Hierousalem", 7, "VARIETY_JERUSALEM"), ("Damascus", 7, "VARIETY_DAMASCUS"), 
+                                                                ("Hecatompylos", 7, "VARIETY_HECATOMPYLOS"), ("Rhagae", 6, "VARIETY_REY"), ("Arbela", 6, "VARIETY_ARBELA"), ("Antiochia Mygdonia", 6, "VARIETY_NISIBIS"), ("Edessa", 6, "VARIETY_EDESSA"), ("Tarsus", 6, "VARIETY_TARSUS"), ("Sardis", 6, "-1"), 
+                                                                ("Laodikeia", 6, "VARIETY_LATAKIA"), ("Carrhae", 6, "VARIETY_CARRHAE"), ("Charax Spasinu", 6, "VARIETY_BASRA"), ("Gabae", 6, "VARIETY_ISFAHAN"), ("Damghan", 6, "-1"), ("Antiochia Margiana", 6, "VARIETY_MERV"), 
+                                                                ("Alexandria Arachosia", 5, "VARIETY_KANDAHAR"), ("Patala", 5, "VARIETY_MOHENJO-DARO"), ("Palmyra", 5, "VARIETY_PALMYRA"), ("Tyros", 5, "VARIETY_PHEONICIAN"), ("Mopsuestia", 5, "VARIETY_MSIS"), 
+                                                                ("Nikephorion ", 5, "VARIETY_RAKKA"), ("Emesa", 5, "VARIETY_HOMS"), ("Ephesos", 5, "VARIETY_EFES"), ("Perga", 5, "-1"), ("Zadracarta", 5, "-1"), ("Orchoe", 5, "-1")],		
 # Poland
 'LEADER_BOLESLAW_I'			: [("Gniezno", 10, "VARIETY_GNIEZNO"), ("Wroclaw", 9, "VARIETY_WROCLAW"), ("Krakow", 9, "VARIETY_KRAKOW"), ("Plock", 8, "VARIETY_PLOCK"), ("Poznan", 8, "VARIETY_POZNAN"), ("Czerwien", 8, "-1"), ("Przemysl", 8, "VARIETY_PRZEMYSL"), 
-								("Budziszyn", 8, "VARIETY_BAUTZEN"), ("Opole", 7, "VARIETY_OPOLE"), ("Wislica", 7, "-1"), ("Kruszwica", 7, "VARIETY_KRUSZWICA"), ("Santok", 7, "VARIETY_SANTOK"), ("Lubusz", 7, "VARIETY_LEBUS"), ("Gdansk", 6, "VARIETY_DANZIG"), 
-								("Ujscie", 6, "VARIETY_UJSCIE"), ("Czersk", 6, "VARIETY_CZERSK"), ("Leczyca", 6, "VARIETY_LECZYCA"), ("Kalisz", 6, "VARIETY_KALISZ"), ("Glogow", 6, "VARIETY_GLOGOW"), ("Cieszyn", 6, "VARIETY_CIESZYN"), 
-								("Olomuniec", 6, "VARIETY_OLOMOUC"), ("Nitra", 6, "VARIETY_NITRA"), ("Stargard", 5, "-1"), ("Chelmno", 5, "VARIETY_CHELMNO"), ("Naklo", 5, "VARIETY_NAKLO"), ("Grzebsk", 5, "-1"), ("Wizna", 5, "-1"), ("Swieck", 5, "-1"), 
-								("Pultusk", 5, "VARIETY_PULTUSK"), ("Sieradz", 5, "VARIETY_SIERADZ"), ("Bytom", 5, "VARIETY_BYTOM"), ("Wieliczka", 5, "VARIETY_WIELICZKA"), ("Zwolen", 5, "VARIETY_ZWOLEN"), ("Brno", 5, "VARIETY_BRNO"), 
-								("Legnica", 5, "VARIETY_LEGNICA"), ("Lublin", 5, "VARIETY_LUBLIN")],	
+                                              ("Budziszyn", 8, "VARIETY_BAUTZEN"), ("Opole", 7, "VARIETY_OPOLE"), ("Wislica", 7, "-1"), ("Kruszwica", 7, "VARIETY_KRUSZWICA"), ("Santok", 7, "VARIETY_SANTOK"), ("Lubusz", 7, "VARIETY_LEBUS"), ("Gdansk", 6, "VARIETY_DANZIG"), 
+                                                                ("Ujscie", 6, "VARIETY_UJSCIE"), ("Czersk", 6, "VARIETY_CZERSK"), ("Leczyca", 6, "VARIETY_LECZYCA"), ("Kalisz", 6, "VARIETY_KALISZ"), ("Glogow", 6, "VARIETY_GLOGOW"), ("Cieszyn", 6, "VARIETY_CIESZYN"), 
+                                                                ("Olomuniec", 6, "VARIETY_OLOMOUC"), ("Nitra", 6, "VARIETY_NITRA"), ("Stargard", 5, "-1"), ("Chelmno", 5, "VARIETY_CHELMNO"), ("Naklo", 5, "VARIETY_NAKLO"), ("Grzebsk", 5, "-1"), ("Wizna", 5, "-1"), ("Swieck", 5, "-1"), 
+                                                                ("Pultusk", 5, "VARIETY_PULTUSK"), ("Sieradz", 5, "VARIETY_SIERADZ"), ("Bytom", 5, "VARIETY_BYTOM"), ("Wieliczka", 5, "VARIETY_WIELICZKA"), ("Zwolen", 5, "VARIETY_ZWOLEN"), ("Brno", 5, "VARIETY_BRNO"), 
+                                                                ("Legnica", 5, "VARIETY_LEGNICA"), ("Lublin", 5, "VARIETY_LUBLIN")],	
 'LEADER_CASIMIR'			: [("Krakow", 10, "VARIETY_KRAKOW"), ("Poznan", 9, "VARIETY_POZNAN"), ("Sandomierz", 9, "VARIETY_SANDOMIERZ"), ("Lublin", 9, "VARIETY_LUBLIN"), ("Plock", 8, "VARIETY_PLOCK"), ("Warszawa", 8, "VARIETY_WARSAW"), 
-								("Chelm", 8, "VARIETY_CHELM"), ("Lwow", 8, "VARIETY_LVIV"), ("Kamieniec Podolski", 8, "VARIETY_KAMIANETS"), ("Radom", 7, "VARIETY_RADOM"), ("Halicz", 7, "VARIETY_HALYCH"), ("Miedzyrzecz", 7, "VARIETY_MIDEZYRZECZ"), 
-								("Walcz", 7, "VARIETY_WALCZ"), ("Naklo", 7, "VARIETY_NAKLO"), ("Gniezno", 7, "VARIETY_GNIEZNO"), ("Brzesc", 7, "VARIETY_BREST"), ("Wizna", 7, "-1"), ("Leczyca", 7, "VARIETY_LECZYCA"), ("Kalisz", 7, "VARIETY_KALISZ"), 
-								("Sieradz", 7, "VARIETY_SIERADZ"), ("Wislica", 7, "-1"), ("Przemysl", 7, "VARIETY_PRZEMYSL"), ("Belz", 7, "-1"), ("Wlodzimierz", 7, "VARIETY_LODOMERIA"), ("Krzemieniec", 7, "VARIETY_KREMENETS"), ("Czersk", 6, "VARIETY_CZERSK"), 
-								("Wielun", 6, "VARIETY_WIELUN"), ("Sochaczew", 6, "-1"), ("Zakroczym", 6, "-1"), ("Inowroclaw", 6, "VARIETY_INOWROCLAW"), ("Wieliczka", 5, "VARIETY_WIELICZKA"), ("Tarnow", 5, "VARIETY_TARNOW"), ("Pultusk", 5, "VARIETY_PULTUSK"), 
-								("Mogilno", 5, "-1"), ("Santok", 5, "VARIETY_SANTOK"), ("Piotrkow", 5, "VARIETY_PIOTRKOW")],
+                                           ("Chelm", 8, "VARIETY_CHELM"), ("Lwow", 8, "VARIETY_LVIV"), ("Kamieniec Podolski", 8, "VARIETY_KAMIANETS"), ("Radom", 7, "VARIETY_RADOM"), ("Halicz", 7, "VARIETY_HALYCH"), ("Miedzyrzecz", 7, "VARIETY_MIDEZYRZECZ"), 
+                                                                ("Walcz", 7, "VARIETY_WALCZ"), ("Naklo", 7, "VARIETY_NAKLO"), ("Gniezno", 7, "VARIETY_GNIEZNO"), ("Brzesc", 7, "VARIETY_BREST"), ("Wizna", 7, "-1"), ("Leczyca", 7, "VARIETY_LECZYCA"), ("Kalisz", 7, "VARIETY_KALISZ"), 
+                                                                ("Sieradz", 7, "VARIETY_SIERADZ"), ("Wislica", 7, "-1"), ("Przemysl", 7, "VARIETY_PRZEMYSL"), ("Belz", 7, "-1"), ("Wlodzimierz", 7, "VARIETY_LODOMERIA"), ("Krzemieniec", 7, "VARIETY_KREMENETS"), ("Czersk", 6, "VARIETY_CZERSK"), 
+                                                                ("Wielun", 6, "VARIETY_WIELUN"), ("Sochaczew", 6, "-1"), ("Zakroczym", 6, "-1"), ("Inowroclaw", 6, "VARIETY_INOWROCLAW"), ("Wieliczka", 5, "VARIETY_WIELICZKA"), ("Tarnow", 5, "VARIETY_TARNOW"), ("Pultusk", 5, "VARIETY_PULTUSK"), 
+                                                                ("Mogilno", 5, "-1"), ("Santok", 5, "VARIETY_SANTOK"), ("Piotrkow", 5, "VARIETY_PIOTRKOW")],
 'LEADER_JADWIGA'			: [("Krakow", 10, "VARIETY_KRAKOW"), ("Poznan", 9, "VARIETY_POZNAN"), ("Sandomierz", 9, "VARIETY_SANDOMIERZ"), ("Lublin", 9, "VARIETY_LUBLIN"), ("Plock", 8, "VARIETY_PLOCK"), ("Warszawa", 8, "VARIETY_WARSAW"), 
-								("Chelm", 8, "VARIETY_CHELM"), ("Lwow", 8, "VARIETY_LVIV"), ("Kamieniec Podolski", 8, "VARIETY_KAMIANETS"), ("Radom", 7, "VARIETY_RADOM"), ("Halicz", 7, "VARIETY_HALYCH"), ("Miedzyrzecz", 7, "VARIETY_MIDEZYRZECZ"), 
-								("Walcz", 7, "VARIETY_WALCZ"), ("Naklo", 7, "VARIETY_NAKLO"), ("Gniezno", 7, "VARIETY_GNIEZNO"), ("Brzesc", 7, "VARIETY_BREST"), ("Wizna", 7, "-1"), ("Leczyca", 7, "VARIETY_LECZYCA"), ("Kalisz", 7, "VARIETY_KALISZ"), 
-								("Sieradz", 7, "VARIETY_SIERADZ"), ("Wislica", 7, "-1"), ("Przemysl", 7, "VARIETY_PRZEMYSL"), ("Belz", 7, "-1"), ("Wlodzimierz", 7, "VARIETY_LODOMERIA"), ("Krzemieniec", 7, "VARIETY_KREMENETS"), ("Czersk", 6, "VARIETY_CZERSK"), 
-								("Wielun", 6, "VARIETY_WIELUN"), ("Sochaczew", 6, "-1"), ("Zakroczym", 6, "-1"), ("Inowroclaw", 6, "VARIETY_INOWROCLAW"), ("Wieliczka", 5, "VARIETY_WIELICZKA"), ("Tarnow", 5, "VARIETY_TARNOW"), ("Pultusk", 5, "VARIETY_PULTUSK"), 
-								("Mogilno", 5, "-1"), ("Santok", 5, "VARIETY_SANTOK"), ("Piotrkow", 5, "VARIETY_PIOTRKOW")],
+                                           ("Chelm", 8, "VARIETY_CHELM"), ("Lwow", 8, "VARIETY_LVIV"), ("Kamieniec Podolski", 8, "VARIETY_KAMIANETS"), ("Radom", 7, "VARIETY_RADOM"), ("Halicz", 7, "VARIETY_HALYCH"), ("Miedzyrzecz", 7, "VARIETY_MIDEZYRZECZ"), 
+                                                                ("Walcz", 7, "VARIETY_WALCZ"), ("Naklo", 7, "VARIETY_NAKLO"), ("Gniezno", 7, "VARIETY_GNIEZNO"), ("Brzesc", 7, "VARIETY_BREST"), ("Wizna", 7, "-1"), ("Leczyca", 7, "VARIETY_LECZYCA"), ("Kalisz", 7, "VARIETY_KALISZ"), 
+                                                                ("Sieradz", 7, "VARIETY_SIERADZ"), ("Wislica", 7, "-1"), ("Przemysl", 7, "VARIETY_PRZEMYSL"), ("Belz", 7, "-1"), ("Wlodzimierz", 7, "VARIETY_LODOMERIA"), ("Krzemieniec", 7, "VARIETY_KREMENETS"), ("Czersk", 6, "VARIETY_CZERSK"), 
+                                                                ("Wielun", 6, "VARIETY_WIELUN"), ("Sochaczew", 6, "-1"), ("Zakroczym", 6, "-1"), ("Inowroclaw", 6, "VARIETY_INOWROCLAW"), ("Wieliczka", 5, "VARIETY_WIELICZKA"), ("Tarnow", 5, "VARIETY_TARNOW"), ("Pultusk", 5, "VARIETY_PULTUSK"), 
+                                                                ("Mogilno", 5, "-1"), ("Santok", 5, "VARIETY_SANTOK"), ("Piotrkow", 5, "VARIETY_PIOTRKOW")],
 'LEADER_JOHN_SOBIESKI'		: [("Warszawa", 10, "VARIETY_WARSAW"), ("Krakow", 9, "VARIETY_KRAKOW"), ("Wilno", 9, "VARIETY_VILNIUS"), ("Gdansk", 8, "VARIETY_DANZIG"), ("Poznan", 8, "VARIETY_POZNAN"), ("Lublin", 8, "VARIETY_LUBLIN"), 
-								("Elblag", 7, "VARIETY_ELBLAG"), ("Torun", 7, "VARIETY_TORUN"), ("Bydgoszcz", 7, "VARIETY_BYDGOSZCZ"), ("Lwow", 7, "VARIETY_LVIV"), ("Mitawa", 6, "VARIETY_JELGAVA"), ("Dzwinsk", 6, "VARIETY_DAUGAVPILS"), 
-								("Kowno", 6, "VARIETY_KAUNAS"), ("Witebsk", 6, "VARIETY_VITEBSK"), ("Minsk", 6, "VARIETY_MINSK"), ("Bobrujsk", 5, "-1"), ("Mohylew", 5, "VARIETY_MOGILEV"), ("Nowogrodek", 5, "VARIETY_NOVOGRUDOK"), 
-								("Grodno", 6, "VARIETY_GRODNO"), ("Suwalki", 6, "VARIETY_SUWALKI"), ("Zytomierz", 5, "VARIETY_ZHYTOMYR"), ("Kamieniec Podolski", 6, "VARIETY_KAMIANETS"), ("Kielce", 5, "-1"), ("Radom", 6, "VARIETY_RADOM"), 
-								("Siedlce", 5, "-1"), ("Plock", 6, "VARIETY_PLOCK"), ("Kalisz", 6, "VARIETY_KALISZ"), ("Sroda", 5, "VARIETY_SRODA"), ("Chelmno", 6, "VARIETY_CHELMNO"), ("Wornie", 4, "VARIETY_VARNIAI"), ("Troki", 4, "VARIETY_TRAKAI"), 
-								("Inowroclaw", 4, "VARIETY_INOWROCLAW"), ("Brzesc", 4, "VARIETY_BREST"), ("Sieradz", 4, "VARIETY_SIERADZ"), ("Belz", 4, "-1"), ("Leczyca", 4, "VARIETY_LECZYCA")],		
+                                         ("Elblag", 7, "VARIETY_ELBLAG"), ("Torun", 7, "VARIETY_TORUN"), ("Bydgoszcz", 7, "VARIETY_BYDGOSZCZ"), ("Lwow", 7, "VARIETY_LVIV"), ("Mitawa", 6, "VARIETY_JELGAVA"), ("Dzwinsk", 6, "VARIETY_DAUGAVPILS"), 
+                                                                ("Kowno", 6, "VARIETY_KAUNAS"), ("Witebsk", 6, "VARIETY_VITEBSK"), ("Minsk", 6, "VARIETY_MINSK"), ("Bobrujsk", 5, "-1"), ("Mohylew", 5, "VARIETY_MOGILEV"), ("Nowogrodek", 5, "VARIETY_NOVOGRUDOK"), 
+                                                                ("Grodno", 6, "VARIETY_GRODNO"), ("Suwalki", 6, "VARIETY_SUWALKI"), ("Zytomierz", 5, "VARIETY_ZHYTOMYR"), ("Kamieniec Podolski", 6, "VARIETY_KAMIANETS"), ("Kielce", 5, "-1"), ("Radom", 6, "VARIETY_RADOM"), 
+                                                                ("Siedlce", 5, "-1"), ("Plock", 6, "VARIETY_PLOCK"), ("Kalisz", 6, "VARIETY_KALISZ"), ("Sroda", 5, "VARIETY_SRODA"), ("Chelmno", 6, "VARIETY_CHELMNO"), ("Wornie", 4, "VARIETY_VARNIAI"), ("Troki", 4, "VARIETY_TRAKAI"), 
+                                                                ("Inowroclaw", 4, "VARIETY_INOWROCLAW"), ("Brzesc", 4, "VARIETY_BREST"), ("Sieradz", 4, "VARIETY_SIERADZ"), ("Belz", 4, "-1"), ("Leczyca", 4, "VARIETY_LECZYCA")],		
 'LEADER_JOSEPH_PILSUDSKI'	: [("Warszawa", 10, "VARIETY_WARSAW"), ("Lodz", 9, "VARIETY_LODZ"), ("Krakow", 8, "VARIETY_KRAKOW"), ("Poznan", 8, "VARIETY_POZNAN"), ("Lwow", 8, "VARIETY_LVIV"), ("Wilno", 8, "VARIETY_VILNIUS"), ("Katowice", 7, "VARIETY_KATOWICE"), 
-								("Bydgoszcz", 7, "VARIETY_BYDGOSZCZ"), ("Czestochowa", 7, "VARIETY_CZESTOCHOWA"), ("Sosnowiec", 7, "VARIETY_SOSNOWIEC"), ("Lublin", 7, "VARIETY_LUBLIN"), ("Gdynia", 7, "VARIETY_GDYNIA"), ("Chorzow", 7, "VARIETY_CHORZOW"), 
-								("Bialystok", 7, "-1"), ("Kalisz", 6, "VARIETY_KALISZ"), ("Radom", 6, "VARIETY_RADOM"), ("Torun", 6, "VARIETY_TORUN"), ("Stanislawow", 6, "VARIETY_IVANOFRANKIVSK"), ("Kielce", 6, "-1"), ("Wloclawek", 6, "VARIETY_WLOCLAWEK"), 
-								("Grudziadz", 6, "VARIETY_GRUDZIADZ"), ("Brzesc", 6, "VARIETY_BREST"), ("Piotrkow", 6, "VARIETY_PIOTRKOW"), ("Przemysl", 6, "VARIETY_PRZEMYSL"), ("Grodno", 5, "VARIETY_GRODNO"), ("Bedzin", 5, "VARIETY_BEDZIN"), 
-								("Pabianice", 5, "-1"), ("Tarnow", 5, "VARIETY_TARNOW"), ("Boryslaw", 5, "VARIETY_BORYSLAV"), ("Rowno", 5, "VARIETY_RIVNE"), ("Tomaszow", 5, "-1"), ("Dabrowa Gornicza", 5, "-1"), ("Siedlce", 5, "-1"), 
-								("Tarnopol", 5, "VARIETY_TERNOPIL"), ("Luck", 5, "VARIETY_LUTSK"), ("Plock", 5, "VARIETY_PLOCK")],
+                                    ("Bydgoszcz", 7, "VARIETY_BYDGOSZCZ"), ("Czestochowa", 7, "VARIETY_CZESTOCHOWA"), ("Sosnowiec", 7, "VARIETY_SOSNOWIEC"), ("Lublin", 7, "VARIETY_LUBLIN"), ("Gdynia", 7, "VARIETY_GDYNIA"), ("Chorzow", 7, "VARIETY_CHORZOW"), 
+                                                                ("Bialystok", 7, "-1"), ("Kalisz", 6, "VARIETY_KALISZ"), ("Radom", 6, "VARIETY_RADOM"), ("Torun", 6, "VARIETY_TORUN"), ("Stanislawow", 6, "VARIETY_IVANOFRANKIVSK"), ("Kielce", 6, "-1"), ("Wloclawek", 6, "VARIETY_WLOCLAWEK"), 
+                                                                ("Grudziadz", 6, "VARIETY_GRUDZIADZ"), ("Brzesc", 6, "VARIETY_BREST"), ("Piotrkow", 6, "VARIETY_PIOTRKOW"), ("Przemysl", 6, "VARIETY_PRZEMYSL"), ("Grodno", 5, "VARIETY_GRODNO"), ("Bedzin", 5, "VARIETY_BEDZIN"), 
+                                                                ("Pabianice", 5, "-1"), ("Tarnow", 5, "VARIETY_TARNOW"), ("Boryslaw", 5, "VARIETY_BORYSLAV"), ("Rowno", 5, "VARIETY_RIVNE"), ("Tomaszow", 5, "-1"), ("Dabrowa Gornicza", 5, "-1"), ("Siedlce", 5, "-1"), 
+                                                                ("Tarnopol", 5, "VARIETY_TERNOPIL"), ("Luck", 5, "VARIETY_LUTSK"), ("Plock", 5, "VARIETY_PLOCK")],
 'LEADER_STEFEN_BATHORY'		: [("Warszawa", 10, "VARIETY_WARSAW"), ("Krakow", 9, "VARIETY_KRAKOW"), ("Wilno", 9, "VARIETY_VILNIUS"), ("Gdansk", 8, "VARIETY_DANZIG"), ("Poznan", 8, "VARIETY_POZNAN"), ("Lublin", 8, "VARIETY_LUBLIN"), 
-								("Elblag", 7, "VARIETY_ELBLAG"), ("Torun", 7, "VARIETY_TORUN"), ("Bydgoszcz", 7, "VARIETY_BYDGOSZCZ"), ("Lwow", 7, "VARIETY_LVIV"), ("Mitawa", 6, "VARIETY_JELGAVA"), ("Dzwinsk", 6, "VARIETY_DAUGAVPILS"), 
-								("Kowno", 6, "VARIETY_KAUNAS"), ("Witebsk", 6, "VARIETY_VITEBSK"), ("Minsk", 6, "VARIETY_MINSK"), ("Bobrujsk", 5, "-1"), ("Mohylew", 5, "VARIETY_MOGILEV"), ("Nowogrodek", 5, "VARIETY_NOVOGRUDOK"), 
-								("Grodno", 6, "VARIETY_GRODNO"), ("Suwalki", 6, "VARIETY_SUWALKI"), ("Zytomierz", 5, "VARIETY_ZHYTOMYR"), ("Kamieniec Podolski", 6, "VARIETY_KAMIANETS"), ("Kielce", 5, "-1"), ("Radom", 6, "VARIETY_RADOM"), 
-								("Siedlce", 5, "-1"), ("Plock", 6, "VARIETY_PLOCK"), ("Kalisz", 6, "VARIETY_KALISZ"), ("Sroda", 5, "VARIETY_SRODA"), ("Chelmno", 6, "VARIETY_CHELMNO"), ("Wornie", 4, "VARIETY_VARNIAI"), ("Troki", 4, "VARIETY_TRAKAI"), 
-								("Inowroclaw", 4, "VARIETY_INOWROCLAW"), ("Brzesc", 4, "VARIETY_BREST"), ("Sieradz", 4, "VARIETY_SIERADZ"), ("Belz", 4, "-1"), ("Leczyca", 4, "VARIETY_LECZYCA"), ("Kijow", 8, "VARIETY_KIEV"), ("Ryga", 7, "VARIETY_RIGA"), 
-								("Krolewiec", 7, "VARIETY_KONIGSBERG"), ("Polock", 6, "VARIETY_POLOTSK"), ("Dorpat", 6, "VARIETY_TARTU"), ("Mscislaw", 5, "VARIETY_MSTISLAW")],	
+                                          ("Elblag", 7, "VARIETY_ELBLAG"), ("Torun", 7, "VARIETY_TORUN"), ("Bydgoszcz", 7, "VARIETY_BYDGOSZCZ"), ("Lwow", 7, "VARIETY_LVIV"), ("Mitawa", 6, "VARIETY_JELGAVA"), ("Dzwinsk", 6, "VARIETY_DAUGAVPILS"), 
+                                                                ("Kowno", 6, "VARIETY_KAUNAS"), ("Witebsk", 6, "VARIETY_VITEBSK"), ("Minsk", 6, "VARIETY_MINSK"), ("Bobrujsk", 5, "-1"), ("Mohylew", 5, "VARIETY_MOGILEV"), ("Nowogrodek", 5, "VARIETY_NOVOGRUDOK"), 
+                                                                ("Grodno", 6, "VARIETY_GRODNO"), ("Suwalki", 6, "VARIETY_SUWALKI"), ("Zytomierz", 5, "VARIETY_ZHYTOMYR"), ("Kamieniec Podolski", 6, "VARIETY_KAMIANETS"), ("Kielce", 5, "-1"), ("Radom", 6, "VARIETY_RADOM"), 
+                                                                ("Siedlce", 5, "-1"), ("Plock", 6, "VARIETY_PLOCK"), ("Kalisz", 6, "VARIETY_KALISZ"), ("Sroda", 5, "VARIETY_SRODA"), ("Chelmno", 6, "VARIETY_CHELMNO"), ("Wornie", 4, "VARIETY_VARNIAI"), ("Troki", 4, "VARIETY_TRAKAI"), 
+                                                                ("Inowroclaw", 4, "VARIETY_INOWROCLAW"), ("Brzesc", 4, "VARIETY_BREST"), ("Sieradz", 4, "VARIETY_SIERADZ"), ("Belz", 4, "-1"), ("Leczyca", 4, "VARIETY_LECZYCA"), ("Kijow", 8, "VARIETY_KIEV"), ("Ryga", 7, "VARIETY_RIGA"), 
+                                                                ("Krolewiec", 7, "VARIETY_KONIGSBERG"), ("Polock", 6, "VARIETY_POLOTSK"), ("Dorpat", 6, "VARIETY_TARTU"), ("Mscislaw", 5, "VARIETY_MSTISLAW")],	
 # Rome								
 'LEADER_AUGUSTUS'			: [("Rome", 10, "VARIETY_ROME"), ("Alexandria", 9, "VARIETY_ALEXANDRIA"), ("Antioch", 8, "VARIETY_ANTIOCH"), ("Smyrna", 8, "VARIETY_SMYRNA"), ("Capua", 7, "-1"), ("Gades", 7, "VARIETY_CADIZ"), ("Ephesus", 7, "VARIETY_EFES"), 
-								("Carthage", 7, "VARIETY_CARTHAGE"), ("Corinth", 7, "-1"), ("Apamea", 6, "-1"), ("Ancyra", 6, "VARIETY_ANKARA"), ("Nicomedia", 6, "VARIETY_IZMIT"), ("Oxyrhynchus", 6, "VARIETY_BAHNASA"), ("Memphis", 6, "VARIETY_MEMPHIS"), 
-								("Damascus", 6, "VARIETY_DAMASCUS"), ("Bostra", 6, "VARIETY_BOSRA"), ("Pisa", 6, "-1"), ("Catania", 6, "VARIETY_CATANIA"), ("Neapolis", 6, "VARIETY_NAPLES"), ("Athens", 5, "VARIETY_ATHENS"), ("Tarraco", 5, "VARIETY_TARRAGONA"), 
-								("Cyzicus", 5, "VARIETY_CYZICUS"), ("Hermopolis", 5, "VARIETY_HERMOPOLIS"), ("Pergamum", 5, "VARIETY_PERGAMON"), ("Mytilene", 5, "-1"), ("Arsinoe", 5, "VARIETY_FAIYUM"), ("Cordova", 5, "VARIETY_CORDOBA"), 
-								("Cirta", 5, "VARIETY_NUMIDIAN"), ("Hadrumetum", 5, "VARIETY_SOUSSE"), ("Rusicade", 5, "VARIETY_SKIKDA"), ("Tyre", 5, "VARIETY_PHEONICIAN"), ("Bononia", 5, "VARIETY_BOLOGNA"), ("Nicaea", 4, "VARIETY_NICAEA"), ("Sicca", 4, "-1"), 
-								("Emerita Augusta", 4, "VARIETY_MERIDA"), ("Miletus", 4, "VARIETY_MILETUS"), ("Mediolanum", 8, "VARIETY_MILAN"), ("Ariminum", 7, "VARIETY_RIMINI"), ("Tarentum", 7, "VARIETY_TARANTO"), ("Arretium", 6, "VARIETY_AREZZO"), 
-								("Ancona", 6, "-1"), ("Ravenna", 5, "-1"), ("Aquileia", 5, "VARIETY_AQUILEIA"), ("Panormus", 4, "VARIETY_PALERMO"), ("Cremona", 4, "-1"), ("Narbo", 7, "VARIETY_NARBONNE"), ("Thessalonica", 6, "VARIETY_THESSALONIKI"), 
-								("Lugdunum", 5, "VARIETY_BURGUNDIAN"), ("Gortyn", 4, "-1")],
+                                            ("Carthage", 7, "VARIETY_CARTHAGE"), ("Corinth", 7, "-1"), ("Apamea", 6, "-1"), ("Ancyra", 6, "VARIETY_ANKARA"), ("Nicomedia", 6, "VARIETY_IZMIT"), ("Oxyrhynchus", 6, "VARIETY_BAHNASA"), ("Memphis", 6, "VARIETY_MEMPHIS"), 
+                                                                ("Damascus", 6, "VARIETY_DAMASCUS"), ("Bostra", 6, "VARIETY_BOSRA"), ("Pisa", 6, "-1"), ("Catania", 6, "VARIETY_CATANIA"), ("Neapolis", 6, "VARIETY_NAPLES"), ("Athens", 5, "VARIETY_ATHENS"), ("Tarraco", 5, "VARIETY_TARRAGONA"), 
+                                                                ("Cyzicus", 5, "VARIETY_CYZICUS"), ("Hermopolis", 5, "VARIETY_HERMOPOLIS"), ("Pergamum", 5, "VARIETY_PERGAMON"), ("Mytilene", 5, "-1"), ("Arsinoe", 5, "VARIETY_FAIYUM"), ("Cordova", 5, "VARIETY_CORDOBA"), 
+                                                                ("Cirta", 5, "VARIETY_NUMIDIAN"), ("Hadrumetum", 5, "VARIETY_SOUSSE"), ("Rusicade", 5, "VARIETY_SKIKDA"), ("Tyre", 5, "VARIETY_PHEONICIAN"), ("Bononia", 5, "VARIETY_BOLOGNA"), ("Nicaea", 4, "VARIETY_NICAEA"), ("Sicca", 4, "-1"), 
+                                                                ("Emerita Augusta", 4, "VARIETY_MERIDA"), ("Miletus", 4, "VARIETY_MILETUS"), ("Mediolanum", 8, "VARIETY_MILAN"), ("Ariminum", 7, "VARIETY_RIMINI"), ("Tarentum", 7, "VARIETY_TARANTO"), ("Arretium", 6, "VARIETY_AREZZO"), 
+                                                                ("Ancona", 6, "-1"), ("Ravenna", 5, "-1"), ("Aquileia", 5, "VARIETY_AQUILEIA"), ("Panormus", 4, "VARIETY_PALERMO"), ("Cremona", 4, "-1"), ("Narbo", 7, "VARIETY_NARBONNE"), ("Thessalonica", 6, "VARIETY_THESSALONIKI"), 
+                                                                ("Lugdunum", 5, "VARIETY_BURGUNDIAN"), ("Gortyn", 4, "-1")],
 'LEADER_BENITO_MUSSOLINI'	: [("Roma", 10, "VARIETY_ROME"), ("Milano", 9, "VARIETY_MILAN"), ("Napoli", 8, "VARIETY_NAPLES"), ("Genova", 8, "VARIETY_LIGURIAN"), ("Torino", 8, "VARIETY_TURIN"), ("Palermo", 7, "VARIETY_PALERMO"), 
-								("Firenze", 7, "VARIETY_FLORENCE"), ("Bologna", 7, "VARIETY_BOLOGNA"), ("Venezia", 7, "VARIETY_VENICE"), ("Trieste", 7, "VARIETY_TRIEST"), ("Catania", 7, "VARIETY_CATANIA"), ("Bari", 6, "VARIETY_BARI"), 
-								("Messina", 6, "VARIETY_MESSINA"), ("Verona", 6, "-1"), ("Padova", 6, "VARIETY_PADUA"), ("Livorno", 6, "-1"), ("Brescia", 6, "VARIETY_BRESCIA"), ("Reggio di Calabria", 6, "VARIETY_REGGIO"), ("Ferrara", 6, "-1"), 
-								("Taranto", 6, "VARIETY_TARANTO"), ("Cagliari", 6, "VARIETY_CAGLIARI"), ("La Spezia", 6, "-1"), ("Modena", 5, "VARIETY_MODENA"), ("Reggio Emilia", 5, "VARIETY_AUGSBURG"), ("Ancona", 5, "-1"), ("Bergamo", 5, "VARIETY_BERGAMO"), 
-								("Perugia", 5, "-1"), ("Lucca", 5, "-1"), ("Ravenna", 5, "-1"), ("Alessandria", 5, "-1"), ("Torre Annunziata", 5, "-1"), ("Pisa", 5, "-1"), ("Pistoia", 5, "-1"), ("Parma", 5, "-1"), ("Prato", 5, "-1"), ("Vicenza", 5, "-1")],
+                                    ("Firenze", 7, "VARIETY_FLORENCE"), ("Bologna", 7, "VARIETY_BOLOGNA"), ("Venezia", 7, "VARIETY_VENICE"), ("Trieste", 7, "VARIETY_TRIEST"), ("Catania", 7, "VARIETY_CATANIA"), ("Bari", 6, "VARIETY_BARI"), 
+                                                                ("Messina", 6, "VARIETY_MESSINA"), ("Verona", 6, "-1"), ("Padova", 6, "VARIETY_PADUA"), ("Livorno", 6, "-1"), ("Brescia", 6, "VARIETY_BRESCIA"), ("Reggio di Calabria", 6, "VARIETY_REGGIO"), ("Ferrara", 6, "-1"), 
+                                                                ("Taranto", 6, "VARIETY_TARANTO"), ("Cagliari", 6, "VARIETY_CAGLIARI"), ("La Spezia", 6, "-1"), ("Modena", 5, "VARIETY_MODENA"), ("Reggio Emilia", 5, "VARIETY_AUGSBURG"), ("Ancona", 5, "-1"), ("Bergamo", 5, "VARIETY_BERGAMO"), 
+                                                                ("Perugia", 5, "-1"), ("Lucca", 5, "-1"), ("Ravenna", 5, "-1"), ("Alessandria", 5, "-1"), ("Torre Annunziata", 5, "-1"), ("Pisa", 5, "-1"), ("Pistoia", 5, "-1"), ("Parma", 5, "-1"), ("Prato", 5, "-1"), ("Vicenza", 5, "-1")],
 'LEADER_DIOCLETIAN'			: [("Rome", 10, "VARIETY_ROME"), ("Augusta Treverorum", 9, "VARIETY_TRIER"), ("Mediolanum", 9, "VARIETY_MILAN"), ("Sirmium", 9, "VARIETY_GEPID"), ("Nicomedia", 9, "VARIETY_IZMIT"), ("Arelate", 8, "VARIETY_ARLES"), 
-								("Ulpia Serdica", 8, "VARIETY_BULGAR"), ("Thessalonica", 8, "VARIETY_THESSALONIKI"), ("Antioch", 8, "VARIETY_ANTIOCH"), ("Burdigala", 7, "VARIETY_BORDEAUX"), ("Emerita Augusta", 7, "VARIETY_MERIDA"), 
-								("Camulodunum", 7, "VARIETY_COLCHESTER"), ("Carthage", 7, "VARIETY_CARTHAGE"), ("Philippopolis", 7, "VARIETY_THRACIAN"), ("Ephesus", 7, "VARIETY_EFES"), ("Amaseia", 7, "VARIETY_AMASIA"), ("Alexandria", 7, "VARIETY_ALEXANDRIA"), 
-								("Durocortorum", 6, "VARIETY_REIMS"), ("Lugdunum", 6, "VARIETY_BURGUNDIAN"), ("Colonia Agrippina", 6, "VARIETY_COLOGNE"), ("Octodurum", 5, "VARIETY_MARTIGNY"), ("Vesontio", 5, "VARIETY_BESANCON"), 
-								("Ebrodunum", 5, "VARIETY_EMBRUN"), ("Elusa", 5, "VARIETY_EAUSE"), ("Narbo", 6, "VARIETY_NARBONNE"), ("Cordova", 5, "VARIETY_CORDOBA"), ("Tarraco", 6, "VARIETY_TARRAGONA"), ("Tingis", 6, "VARIETY_TANGIER"), 
-								("Londinium", 6, "VARIETY_LONDON"), ("Isca Augusta", 5, "VARIETY_CARDIFF"), ("Eboracum", 5, "VARIETY_YORK"), ("Neapolis", 6, "VARIETY_NAPLES"), ("Canusium", 5, "VARIETY_CANOSSA"), ("Mutina", 5, "VARIETY_MODENA"), 
-								("Augusta Vindelicorum", 5, "VARIETY_AUGSBURG"), ("Hadrumetum", 5, "VARIETY_SOUSSE"), ("Setifis", 5, "VARIETY_SETIF"), ("Cirta", 5, "VARIETY_NUMIDIAN"), ("Salona", 5, "VARIETY_SOLIN"), ("Virunum", 5, "-1"), 
-								("Savaria", 5, "VARIETY_SZOMBATHELY"), ("Sopianae", 5, "VARIETY_PECS"), ("Ratiaria", 5, "-1"), ("Scodra", 5, "VARIETY_ILLYRIA"), ("Corinth", 5, "VARIETY_CORINTH"), ("Hadrianopolis", 5, "VARIETY_EDIRNE"), 
-								("Perga", 5, "-1"), ("Caesarea", 5, "VARIETY_HITTITE"), ("Ancyra", 5, "VARIETY_ANKARA"), ("Bostra", 5, "VARIETY_BOSRA"), ("Caesarea Maritima", 5, "-1"), ("Tarsus", 6, "VARIETY_TARSUS"), ("Pelusium", 5, "VARIETY_PELUSIUM"), 
-								("Oxyrhynchus", 6, "VARIETY_BAHNASA")],	
+                                              ("Ulpia Serdica", 8, "VARIETY_BULGAR"), ("Thessalonica", 8, "VARIETY_THESSALONIKI"), ("Antioch", 8, "VARIETY_ANTIOCH"), ("Burdigala", 7, "VARIETY_BORDEAUX"), ("Emerita Augusta", 7, "VARIETY_MERIDA"), 
+                                                                ("Camulodunum", 7, "VARIETY_COLCHESTER"), ("Carthage", 7, "VARIETY_CARTHAGE"), ("Philippopolis", 7, "VARIETY_THRACIAN"), ("Ephesus", 7, "VARIETY_EFES"), ("Amaseia", 7, "VARIETY_AMASIA"), ("Alexandria", 7, "VARIETY_ALEXANDRIA"), 
+                                                                ("Durocortorum", 6, "VARIETY_REIMS"), ("Lugdunum", 6, "VARIETY_BURGUNDIAN"), ("Colonia Agrippina", 6, "VARIETY_COLOGNE"), ("Octodurum", 5, "VARIETY_MARTIGNY"), ("Vesontio", 5, "VARIETY_BESANCON"), 
+                                                                ("Ebrodunum", 5, "VARIETY_EMBRUN"), ("Elusa", 5, "VARIETY_EAUSE"), ("Narbo", 6, "VARIETY_NARBONNE"), ("Cordova", 5, "VARIETY_CORDOBA"), ("Tarraco", 6, "VARIETY_TARRAGONA"), ("Tingis", 6, "VARIETY_TANGIER"), 
+                                                                ("Londinium", 6, "VARIETY_LONDON"), ("Isca Augusta", 5, "VARIETY_CARDIFF"), ("Eboracum", 5, "VARIETY_YORK"), ("Neapolis", 6, "VARIETY_NAPLES"), ("Canusium", 5, "VARIETY_CANOSSA"), ("Mutina", 5, "VARIETY_MODENA"), 
+                                                                ("Augusta Vindelicorum", 5, "VARIETY_AUGSBURG"), ("Hadrumetum", 5, "VARIETY_SOUSSE"), ("Setifis", 5, "VARIETY_SETIF"), ("Cirta", 5, "VARIETY_NUMIDIAN"), ("Salona", 5, "VARIETY_SOLIN"), ("Virunum", 5, "-1"), 
+                                                                ("Savaria", 5, "VARIETY_SZOMBATHELY"), ("Sopianae", 5, "VARIETY_PECS"), ("Ratiaria", 5, "-1"), ("Scodra", 5, "VARIETY_ILLYRIA"), ("Corinth", 5, "VARIETY_CORINTH"), ("Hadrianopolis", 5, "VARIETY_EDIRNE"), 
+                                                                ("Perga", 5, "-1"), ("Caesarea", 5, "VARIETY_HITTITE"), ("Ancyra", 5, "VARIETY_ANKARA"), ("Bostra", 5, "VARIETY_BOSRA"), ("Caesarea Maritima", 5, "-1"), ("Tarsus", 6, "VARIETY_TARSUS"), ("Pelusium", 5, "VARIETY_PELUSIUM"), 
+                                                                ("Oxyrhynchus", 6, "VARIETY_BAHNASA")],	
 'LEADER_JULIUS_CAESAR'		: [("Rome", 10, "VARIETY_ROME"), ("Antioch", 8, "VARIETY_ANTIOCH"), ("Smyrna", 8, "VARIETY_SMYRNA"), ("Capua", 7, "-1"), ("Gades", 7, "VARIETY_CADIZ"), ("Ephesus", 7, "VARIETY_EFES"), ("Carthage", 7, "VARIETY_CARTHAGE"), ("Corinth", 7, "VARIETY_CORINTH"), 
-								("Apamea", 6, "-1"), ("Nicomedia", 6, "VARIETY_IZMIT"), ("Damascus", 6, "VARIETY_DAMASCUS"), ("Bostra", 6, "VARIETY_BOSRA"), ("Pisa", 6, "-1"), ("Catania", 6, "VARIETY_CATANIA"), ("Neapolis", 6, "VARIETY_NAPLES"), 
-								("Athens", 5, "VARIETY_ATHENS"), ("Tarraco", 5, "VARIETY_TARRAGONA"), ("Cyzicus", 5, "VARIETY_CYZICUS"), ("Pergamum", 5, "VARIETY_PERGAMON"), ("Mytilene", 5, "-1"), ("Cordova", 5, "VARIETY_CORDOBA"), 
-								("Cirta", 5, "VARIETY_NUMIDIAN"), ("Hadrumetum", 5, "VARIETY_SOUSSE"), ("Rusicade", 5, "VARIETY_SKIKDA"), ("Tyre", 5, "VARIETY_PHEONICIAN"), ("Bononia", 5, "VARIETY_BOLOGNA"), ("Nicaea", 4, "VARIETY_NICAEA"), ("Sicca", 4, "-1"), 
-								("Emerita Augusta", 4, "VARIETY_MERIDA"), ("Miletus", 4, "VARIETY_MILETUS"), ("Mediolanum", 8, "VARIETY_MILAN"), ("Ariminum", 7, "VARIETY_RIMINI"), ("Tarentum", 7, "VARIETY_TARANTO"), ("Arretium", 6, "VARIETY_AREZZO"), 
-								("Ancona", 6, "-1"), ("Ravenna", 5, "-1"), ("Aquileia", 5, "VARIETY_AQUILEIA"), ("Panormus", 4, "VARIETY_PALERMO"), ("Cremona", 4, "-1"), ("Narbo", 7, "VARIETY_NARBONNE"), ("Thessalonica", 6, "VARIETY_THESSALONIKI"), 
-								("Lugdunum", 5, "VARIETY_BURGUNDIAN"), ("Gortyn", 4, "-1"), ("Spalatum", 7, "VARIETY_SPLIT")],
+                                         ("Apamea", 6, "-1"), ("Nicomedia", 6, "VARIETY_IZMIT"), ("Damascus", 6, "VARIETY_DAMASCUS"), ("Bostra", 6, "VARIETY_BOSRA"), ("Pisa", 6, "-1"), ("Catania", 6, "VARIETY_CATANIA"), ("Neapolis", 6, "VARIETY_NAPLES"), 
+                                                                ("Athens", 5, "VARIETY_ATHENS"), ("Tarraco", 5, "VARIETY_TARRAGONA"), ("Cyzicus", 5, "VARIETY_CYZICUS"), ("Pergamum", 5, "VARIETY_PERGAMON"), ("Mytilene", 5, "-1"), ("Cordova", 5, "VARIETY_CORDOBA"), 
+                                                                ("Cirta", 5, "VARIETY_NUMIDIAN"), ("Hadrumetum", 5, "VARIETY_SOUSSE"), ("Rusicade", 5, "VARIETY_SKIKDA"), ("Tyre", 5, "VARIETY_PHEONICIAN"), ("Bononia", 5, "VARIETY_BOLOGNA"), ("Nicaea", 4, "VARIETY_NICAEA"), ("Sicca", 4, "-1"), 
+                                                                ("Emerita Augusta", 4, "VARIETY_MERIDA"), ("Miletus", 4, "VARIETY_MILETUS"), ("Mediolanum", 8, "VARIETY_MILAN"), ("Ariminum", 7, "VARIETY_RIMINI"), ("Tarentum", 7, "VARIETY_TARANTO"), ("Arretium", 6, "VARIETY_AREZZO"), 
+                                                                ("Ancona", 6, "-1"), ("Ravenna", 5, "-1"), ("Aquileia", 5, "VARIETY_AQUILEIA"), ("Panormus", 4, "VARIETY_PALERMO"), ("Cremona", 4, "-1"), ("Narbo", 7, "VARIETY_NARBONNE"), ("Thessalonica", 6, "VARIETY_THESSALONIKI"), 
+                                                                ("Lugdunum", 5, "VARIETY_BURGUNDIAN"), ("Gortyn", 4, "-1"), ("Spalatum", 7, "VARIETY_SPLIT")],
 'LEADER_JUSTINIAN'			: [("Constantinople", 10, "VARIETY_CONSTANTINOPLE"), ("Rome", 9, "VARIETY_ROME"), ("Alexandria", 8, "VARIETY_ALEXANDRIA"), ("Antioch", 8, "VARIETY_ANTIOCH"), ("Ravenna", 8, "-1"), ("Carthage", 8, "VARIETY_CARTHAGE"), 
-								("Athens", 7, "VARIETY_ATHENS"), ("Damascus", 7, "VARIETY_DAMASCUS"), ("Jerusalem", 7, "VARIETY_JERUSALEM"), ("Cordova", 7, "VARIETY_CORDOBA"), ("Syracusae", 7, "VARIETY_SYRACUSE"), ("Tarentum", 7, "VARIETY_TARANTO"), 
-								("Justinopolis", 7, "VARIETY_EDESSA"), ("Cyrene", 7, "VARIETY_CYRENAICA"), ("Mediolanum", 7, "VARIETY_MILAN"), ("Iconium", 7, "VARIETY_KONYA"),	("Neapolis", 6, "VARIETY_NAPLES"), ("Thessalonica", 6, "VARIETY_THESSALONIKI"), 
-								("Ancyra", 6, "VARIETY_ANKARA"), ("Trapezus", 6, "VARIETY_TREBIZOND"), ("Chersonesus", 6, "VARIETY_SCYTHIAN"), ("Spalatum", 6, "VARIETY_SPLIT"), ("Hadrianopolis", 5, "VARIETY_EDIRNE"), ("Ulpia Serdica", 5, "VARIETY_BULGAR"), 
-								("Nicomedia", 5, "VARIETY_IZMIT"), ("Nicaea", 5, "VARIETY_NICAEA"), ("Sirmium", 5, "VARIETY_GEPID"), ("Tingis", 5, "VARIETY_TANGIER"), ("Palmyra", 5, "VARIETY_PALMYRA"), ("Caesarea", 5, "VARIETY_HITTITE"), ("Pisa", 5, "-1"), 
-								("Genova", 5, "VARIETY_LIGURIAN"), ("Oxyrhynchus", 5, "VARIETY_BAHNASA"), ("Tarsus", 5, "VARIETY_TARSUS"), ("Sinope", 5, "-1"), ("Ephesus", 5, "VARIETY_EFES")],
+                                             ("Athens", 7, "VARIETY_ATHENS"), ("Damascus", 7, "VARIETY_DAMASCUS"), ("Jerusalem", 7, "VARIETY_JERUSALEM"), ("Cordova", 7, "VARIETY_CORDOBA"), ("Syracusae", 7, "VARIETY_SYRACUSE"), ("Tarentum", 7, "VARIETY_TARANTO"), 
+                                                                ("Justinopolis", 7, "VARIETY_EDESSA"), ("Cyrene", 7, "VARIETY_CYRENAICA"), ("Mediolanum", 7, "VARIETY_MILAN"), ("Iconium", 7, "VARIETY_KONYA"),	("Neapolis", 6, "VARIETY_NAPLES"), ("Thessalonica", 6, "VARIETY_THESSALONIKI"), 
+                                                                ("Ancyra", 6, "VARIETY_ANKARA"), ("Trapezus", 6, "VARIETY_TREBIZOND"), ("Chersonesus", 6, "VARIETY_SCYTHIAN"), ("Spalatum", 6, "VARIETY_SPLIT"), ("Hadrianopolis", 5, "VARIETY_EDIRNE"), ("Ulpia Serdica", 5, "VARIETY_BULGAR"), 
+                                                                ("Nicomedia", 5, "VARIETY_IZMIT"), ("Nicaea", 5, "VARIETY_NICAEA"), ("Sirmium", 5, "VARIETY_GEPID"), ("Tingis", 5, "VARIETY_TANGIER"), ("Palmyra", 5, "VARIETY_PALMYRA"), ("Caesarea", 5, "VARIETY_HITTITE"), ("Pisa", 5, "-1"), 
+                                                                ("Genova", 5, "VARIETY_LIGURIAN"), ("Oxyrhynchus", 5, "VARIETY_BAHNASA"), ("Tarsus", 5, "VARIETY_TARSUS"), ("Sinope", 5, "-1"), ("Ephesus", 5, "VARIETY_EFES")],
 'LEADER_MARCUS_AURELIUS'	: [("Rome", 10, "VARIETY_ROME"), ("Alexandria", 9, "VARIETY_ALEXANDRIA"), ("Antioch", 8, "VARIETY_ANTIOCH"), ("Smyrna", 8, "VARIETY_SMYRNA"), ("Capua", 7, "-1"), ("Gades", 7, "VARIETY_CADIZ"), ("Ephesus", 7, "VARIETY_EFES"), 
-								("Carthage", 7, "VARIETY_CARTHAGE"), ("Corinth", 7, "VARIETY_CORINTH"), ("Apamea", 6, "-1"), ("Ancyra", 6, "VARIETY_ANKARA"), ("Nicomedia", 6, "VARIETY_IZMIT"), ("Oxyrhynchus", 6, "VARIETY_BAHNASA"), ("Memphis", 6, "VARIETY_MEMPHIS"), 
-								("Damascus", 6, "VARIETY_DAMASCUS"), ("Bostra", 6, "VARIETY_BOSRA"), ("Pisa", 6, "-1"), ("Catania", 6, "VARIETY_CATANIA"), ("Neapolis", 6, "VARIETY_NAPLES"), ("Athens", 5, "VARIETY_ATHENS"), ("Tarraco", 5, "VARIETY_TARRAGONA"), 
-								("Cyzicus", 5, "VARIETY_CYZICUS"), ("Hermopolis", 5, "VARIETY_HERMOPOLIS"), ("Pergamum", 5, "VARIETY_PERGAMON"), ("Mytilene", 5, "-1"), ("Arsinoe", 5, "VARIETY_FAIYUM"), ("Cordova", 5, "VARIETY_CORDOBA"), 
-								("Cirta", 5, "VARIETY_NUMIDIAN"), ("Hadrumetum", 5, "VARIETY_SOUSSE"), ("Rusicade", 5, "VARIETY_SKIKDA"), ("Tyre", 5, "VARIETY_PHEONICIAN"), ("Bononia", 5, "VARIETY_BOLOGNA"), ("Nicaea", 4, "VARIETY_NICAEA"), ("Sicca", 4, "-1"), 
-								("Emerita Augusta", 4, "VARIETY_MERIDA"), ("Miletus", 4, "VARIETY_MILETUS"), ("Mediolanum", 8, "VARIETY_MILAN"), ("Ariminum", 7, "VARIETY_RIMINI"), ("Tarentum", 7, "VARIETY_TARANTO"), ("Arretium", 6, "VARIETY_AREZZO"), 
-								("Ancona", 6, "-1"), ("Ravenna", 5, "-1"), ("Aquileia", 5, "VARIETY_AQUILEIA"), ("Panormus", 4, "VARIETY_PALERMO"), ("Cremona", 4, "-1"), ("Narbo", 7, "VARIETY_NARBONNE"), ("Thessalonica", 6, "VARIETY_THESSALONIKI"), 
-								("Lugdunum", 5, "VARIETY_BURGUNDIAN"), ("Gortyn", 4, "-1"), ("Camulodunum", 7, "VARIETY_COLCHESTER"), ("Colonia Agrippina", 7, "VARIETY_COLOGNE"), ("Londinium", 5, "VARIETY_LONDON"), ("Edessa", 7, "VARIETY_EDESSA"), 
-								("Tingis", 6, "VARIETY_TANGIER"), ("Artaxata", 6, "VARIETY_ARTASHAT"), ("Mogontiacum", 6, "VARIETY_MAINZ")],
+                                   ("Carthage", 7, "VARIETY_CARTHAGE"), ("Corinth", 7, "VARIETY_CORINTH"), ("Apamea", 6, "-1"), ("Ancyra", 6, "VARIETY_ANKARA"), ("Nicomedia", 6, "VARIETY_IZMIT"), ("Oxyrhynchus", 6, "VARIETY_BAHNASA"), ("Memphis", 6, "VARIETY_MEMPHIS"), 
+                                                                ("Damascus", 6, "VARIETY_DAMASCUS"), ("Bostra", 6, "VARIETY_BOSRA"), ("Pisa", 6, "-1"), ("Catania", 6, "VARIETY_CATANIA"), ("Neapolis", 6, "VARIETY_NAPLES"), ("Athens", 5, "VARIETY_ATHENS"), ("Tarraco", 5, "VARIETY_TARRAGONA"), 
+                                                                ("Cyzicus", 5, "VARIETY_CYZICUS"), ("Hermopolis", 5, "VARIETY_HERMOPOLIS"), ("Pergamum", 5, "VARIETY_PERGAMON"), ("Mytilene", 5, "-1"), ("Arsinoe", 5, "VARIETY_FAIYUM"), ("Cordova", 5, "VARIETY_CORDOBA"), 
+                                                                ("Cirta", 5, "VARIETY_NUMIDIAN"), ("Hadrumetum", 5, "VARIETY_SOUSSE"), ("Rusicade", 5, "VARIETY_SKIKDA"), ("Tyre", 5, "VARIETY_PHEONICIAN"), ("Bononia", 5, "VARIETY_BOLOGNA"), ("Nicaea", 4, "VARIETY_NICAEA"), ("Sicca", 4, "-1"), 
+                                                                ("Emerita Augusta", 4, "VARIETY_MERIDA"), ("Miletus", 4, "VARIETY_MILETUS"), ("Mediolanum", 8, "VARIETY_MILAN"), ("Ariminum", 7, "VARIETY_RIMINI"), ("Tarentum", 7, "VARIETY_TARANTO"), ("Arretium", 6, "VARIETY_AREZZO"), 
+                                                                ("Ancona", 6, "-1"), ("Ravenna", 5, "-1"), ("Aquileia", 5, "VARIETY_AQUILEIA"), ("Panormus", 4, "VARIETY_PALERMO"), ("Cremona", 4, "-1"), ("Narbo", 7, "VARIETY_NARBONNE"), ("Thessalonica", 6, "VARIETY_THESSALONIKI"), 
+                                                                ("Lugdunum", 5, "VARIETY_BURGUNDIAN"), ("Gortyn", 4, "-1"), ("Camulodunum", 7, "VARIETY_COLCHESTER"), ("Colonia Agrippina", 7, "VARIETY_COLOGNE"), ("Londinium", 5, "VARIETY_LONDON"), ("Edessa", 7, "VARIETY_EDESSA"), 
+                                                                ("Tingis", 6, "VARIETY_TANGIER"), ("Artaxata", 6, "VARIETY_ARTASHAT"), ("Mogontiacum", 6, "VARIETY_MAINZ")],
 'LEADER_POPE_ALEXANDER_BORGIA'	: [("Roma", 10, "VARIETY_ROME"), ("Bologna", 9, "VARIETY_BOLOGNA"), ("Urbino", 8, "-1"), ("Benevento", 8, "-1"), ("Avignon", 8, "VARIETY_AVIGNON"), ("Forli", 7, "-1"), ("Ancona", 7, "-1"), ("Perugia", 7, "-1"), 
-								("Foligno", 7, "-1"), ("Terni", 7, "-1"), ("Rimini", 7, "VARIETY_RIMINI"), ("Assisi", 7, "-1"), ("Cesena", 7, "-1"), ("Camerino", 6, "-1"), ("Orvieto", 6, "VARIETY_ESTRUSCAN"), ("Viterbo", 6, "-1"), 
-								("Ostia", 6, "-1"), ("Tivoli", 6, "-1"), ("Frosinone", 5, "-1"), ("Ascoli", 5, "-1"), ("Macerata", 5, "-1"), ("Pesaro", 5, "-1"), ("Anagni", 4, "-1"), ("Farfa", 4, "-1"), ("Sutri", 4, "-1"), ("Rieti", 4, "-1"), 
-								("Narni", 4, "-1"), ("Todi", 4, "-1"), ("Nursia", 4, "-1"), ("Ascoli", 4, "-1"), ("Fermo", 4, "-1"), ("Gubbio", 4, "-1"), ("Recanati", 4, "-1"), ("Osimo", 4, "-1"), ("Fano", 4, "-1"), ("Faenza", 4, "-1")],
+                                         ("Foligno", 7, "-1"), ("Terni", 7, "-1"), ("Rimini", 7, "VARIETY_RIMINI"), ("Assisi", 7, "-1"), ("Cesena", 7, "-1"), ("Camerino", 6, "-1"), ("Orvieto", 6, "VARIETY_ESTRUSCAN"), ("Viterbo", 6, "-1"), 
+                                                                ("Ostia", 6, "-1"), ("Tivoli", 6, "-1"), ("Frosinone", 5, "-1"), ("Ascoli", 5, "-1"), ("Macerata", 5, "-1"), ("Pesaro", 5, "-1"), ("Anagni", 4, "-1"), ("Farfa", 4, "-1"), ("Sutri", 4, "-1"), ("Rieti", 4, "-1"), 
+                                                                ("Narni", 4, "-1"), ("Todi", 4, "-1"), ("Nursia", 4, "-1"), ("Ascoli", 4, "-1"), ("Fermo", 4, "-1"), ("Gubbio", 4, "-1"), ("Recanati", 4, "-1"), ("Osimo", 4, "-1"), ("Fano", 4, "-1"), ("Faenza", 4, "-1")],
 'LEADER_TRAJAN'				: [("Rome", 10, "VARIETY_ROME"), ("Alexandria", 9, "VARIETY_ALEXANDRIA"), ("Antioch", 8, "VARIETY_ANTIOCH"), ("Smyrna", 8, "VARIETY_SMYRNA"), ("Capua", 7, "-1"), ("Gades", 7, "VARIETY_CADIZ"), ("Ephesus", 7, "VARIETY_EFES"), 
-								("Carthage", 7, "VARIETY_CARTHAGE"), ("Corinth", 7, "VARIETY_CORINTH"), ("Apamea", 6, "-1"), ("Ancyra", 6, "VARIETY_ANKARA"), ("Nicomedia", 6, "VARIETY_IZMIT"), ("Oxyrhynchus", 6, "VARIETY_BAHNASA"), ("Memphis", 6, "VARIETY_MEMPHIS"), 
-								("Damascus", 6, "VARIETY_DAMASCUS"), ("Bostra", 6, "VARIETY_BOSRA"), ("Pisa", 6, "-1"), ("Catania", 6, "VARIETY_CATANIA"), ("Neapolis", 6, "VARIETY_NAPLES"), ("Athens", 5, "VARIETY_ATHENS"), ("Tarraco", 5, "VARIETY_TARRAGONA"), 
-								("Cyzicus", 5, "VARIETY_CYZICUS"), ("Hermopolis", 5, "VARIETY_HERMOPOLIS"), ("Pergamum", 5, "VARIETY_PERGAMON"), ("Mytilene", 5, "-1"), ("Arsinoe", 5, "VARIETY_FAIYUM"), ("Cordova", 5, "VARIETY_CORDOBA"), 
-								("Cirta", 5, "VARIETY_NUMIDIAN"), ("Hadrumetum", 5, "VARIETY_SOUSSE"), ("Rusicade", 5, "VARIETY_SKIKDA"), ("Tyre", 5, "VARIETY_PHEONICIAN"), ("Bononia", 5, "VARIETY_BOLOGNA"), ("Nicaea", 4, "VARIETY_NICAEA"), ("Sicca", 4, "-1"), 
-								("Emerita Augusta", 4, "VARIETY_MERIDA"), ("Miletus", 4, "VARIETY_MILETUS"), ("Mediolanum", 8, "VARIETY_MILAN"), ("Ariminum", 7, "VARIETY_RIMINI"), ("Tarentum", 7, "VARIETY_TARANTO"), ("Arretium", 6, "VARIETY_AREZZO"), 
-								("Ancona", 6, "-1"), ("Ravenna", 5, "-1"), ("Aquileia", 5, "VARIETY_AQUILEIA"), ("Panormus", 4, "VARIETY_PALERMO"), ("Cremona", 4, "-1"), ("Narbo", 7, "VARIETY_NARBONNE"), ("Thessalonica", 6, "VARIETY_THESSALONIKI"), 
-								("Lugdunum", 5, "VARIETY_BURGUNDIAN"), ("Gortyn", 4, "-1"), ("Camulodunum", 7, "VARIETY_COLCHESTER"), ("Colonia Agrippina", 7, "VARIETY_COLOGNE"), ("Londinium", 5, "VARIETY_LONDON"), ("Edessa", 7, "VARIETY_EDESSA"), 
-								("Tingis", 6, "VARIETY_TANGIER"), ("Artaxata", 6, "VARIETY_ARTASHAT"), ("Mogontiacum", 6, "VARIETY_MAINZ")],								
+                                                  ("Carthage", 7, "VARIETY_CARTHAGE"), ("Corinth", 7, "VARIETY_CORINTH"), ("Apamea", 6, "-1"), ("Ancyra", 6, "VARIETY_ANKARA"), ("Nicomedia", 6, "VARIETY_IZMIT"), ("Oxyrhynchus", 6, "VARIETY_BAHNASA"), ("Memphis", 6, "VARIETY_MEMPHIS"), 
+                                                                ("Damascus", 6, "VARIETY_DAMASCUS"), ("Bostra", 6, "VARIETY_BOSRA"), ("Pisa", 6, "-1"), ("Catania", 6, "VARIETY_CATANIA"), ("Neapolis", 6, "VARIETY_NAPLES"), ("Athens", 5, "VARIETY_ATHENS"), ("Tarraco", 5, "VARIETY_TARRAGONA"), 
+                                                                ("Cyzicus", 5, "VARIETY_CYZICUS"), ("Hermopolis", 5, "VARIETY_HERMOPOLIS"), ("Pergamum", 5, "VARIETY_PERGAMON"), ("Mytilene", 5, "-1"), ("Arsinoe", 5, "VARIETY_FAIYUM"), ("Cordova", 5, "VARIETY_CORDOBA"), 
+                                                                ("Cirta", 5, "VARIETY_NUMIDIAN"), ("Hadrumetum", 5, "VARIETY_SOUSSE"), ("Rusicade", 5, "VARIETY_SKIKDA"), ("Tyre", 5, "VARIETY_PHEONICIAN"), ("Bononia", 5, "VARIETY_BOLOGNA"), ("Nicaea", 4, "VARIETY_NICAEA"), ("Sicca", 4, "-1"), 
+                                                                ("Emerita Augusta", 4, "VARIETY_MERIDA"), ("Miletus", 4, "VARIETY_MILETUS"), ("Mediolanum", 8, "VARIETY_MILAN"), ("Ariminum", 7, "VARIETY_RIMINI"), ("Tarentum", 7, "VARIETY_TARANTO"), ("Arretium", 6, "VARIETY_AREZZO"), 
+                                                                ("Ancona", 6, "-1"), ("Ravenna", 5, "-1"), ("Aquileia", 5, "VARIETY_AQUILEIA"), ("Panormus", 4, "VARIETY_PALERMO"), ("Cremona", 4, "-1"), ("Narbo", 7, "VARIETY_NARBONNE"), ("Thessalonica", 6, "VARIETY_THESSALONIKI"), 
+                                                                ("Lugdunum", 5, "VARIETY_BURGUNDIAN"), ("Gortyn", 4, "-1"), ("Camulodunum", 7, "VARIETY_COLCHESTER"), ("Colonia Agrippina", 7, "VARIETY_COLOGNE"), ("Londinium", 5, "VARIETY_LONDON"), ("Edessa", 7, "VARIETY_EDESSA"), 
+                                                                ("Tingis", 6, "VARIETY_TANGIER"), ("Artaxata", 6, "VARIETY_ARTASHAT"), ("Mogontiacum", 6, "VARIETY_MAINZ")],								
 # Russia
 'LEADER_ALEXANDERII'		: [("St. Petersburg", 9, "VARIETY_PETROGRAD"), ("Moscow", 8, "VARIETY_MOSCOW"), ("Warsaw", 7, "VARIETY_WARSAW"), ("Odessa", 6, "-1"), ("Lodz", 6, "VARIETY_LODZ"), ("Kiev", 6, "VARIETY_KIEV"), 
-								("Riga", 6, "VARIETY_RIGA"), ("Kharkov", 5, "VARIETY_KHARKIV"), ("Vilna", 5, "VARIETY_VILNIUS"), ("Tiflis", 5, "VARIETY_TBILISI"), ("Saratov", 5, "-1"), ("Kazan", 5, "VARIETY_KAZAN"), ("Rostov", 5, "VARIETY_ROSTOV"), 
-								("Tula", 5, "-1"), ("Astrakhan", 5, "-1"), ("Yekaterinoslav", 4, "-1"), ("Baku", 4, "-1"), ("Kishinev", 3, "VARIETY_CHISINAU"), ("Helsinki", 3, "VARIETY_HELSINKI"), ("Nikolaev", 3, "VARIETY_MYKOLAIV"), 
-								("Minsk", 3, "VARIETY_MINSK"), ("Nizhny Novgorod", 3, "VARIETY_NNOVGOROD"), ("Samara", 3, "VARIETY_SAMARA"), ("Orenburg", 2, "-1"), ("Yaroslavl", 2, "VARIETY_YAROSLAVL"), 
-								("Dvinsk", 2, "VARIETY_DAUGAVPILS"), ("Vitebsk", 2, "VARIETY_VITEBSK"), ("Reval", 2, "VARIETY_TALLINN"), ("Libava", 2, "VARIETY_LIEPAJA"), ("Yekaterinodar", 2, "VARIETY_ARMAVIR"), 
-								("Tsaritsyn", 2, "VARIETY_VOLGOGRAD"), ("Kherson", 1, "-1"), ("Orel", 1, "-1"), ("Kovno", 1, "VARIETY_KAUNAS"), ("Sevastopol", 1, "VARIETY_SCYTHIAN")],
+                                       ("Riga", 6, "VARIETY_RIGA"), ("Kharkov", 5, "VARIETY_KHARKIV"), ("Vilna", 5, "VARIETY_VILNIUS"), ("Tiflis", 5, "VARIETY_TBILISI"), ("Saratov", 5, "-1"), ("Kazan", 5, "VARIETY_KAZAN"), ("Rostov", 5, "VARIETY_ROSTOV"), 
+                                                                ("Tula", 5, "-1"), ("Astrakhan", 5, "-1"), ("Yekaterinoslav", 4, "-1"), ("Baku", 4, "-1"), ("Kishinev", 3, "VARIETY_CHISINAU"), ("Helsinki", 3, "VARIETY_HELSINKI"), ("Nikolaev", 3, "VARIETY_MYKOLAIV"), 
+                                                                ("Minsk", 3, "VARIETY_MINSK"), ("Nizhny Novgorod", 3, "VARIETY_NNOVGOROD"), ("Samara", 3, "VARIETY_SAMARA"), ("Orenburg", 2, "-1"), ("Yaroslavl", 2, "VARIETY_YAROSLAVL"), 
+                                                                ("Dvinsk", 2, "VARIETY_DAUGAVPILS"), ("Vitebsk", 2, "VARIETY_VITEBSK"), ("Reval", 2, "VARIETY_TALLINN"), ("Libava", 2, "VARIETY_LIEPAJA"), ("Yekaterinodar", 2, "VARIETY_ARMAVIR"), 
+                                                                ("Tsaritsyn", 2, "VARIETY_VOLGOGRAD"), ("Kherson", 1, "-1"), ("Orel", 1, "-1"), ("Kovno", 1, "VARIETY_KAUNAS"), ("Sevastopol", 1, "VARIETY_SCYTHIAN")],
 'LEADER_ALEXIS_I'			: [("Moscow", 9, "VARIETY_MOSCOW"), ("Smolensk", 8, "VARIETY_SMOLENSK"), ("Pereyaslavl", 8, "VARIETY_CUMANIA"), ("Vladimir", 8, "VARIETY_VLADIMIR"), ("Rostov", 8, "VARIETY_ROSTOV"), ("Tver", 8, "VARIETY_TVER"), 
-								("Kostroma", 8, "-1"), ("Kholmogory", 7, "-1"), ("Novgorod", 7, "VARIETY_NOVGOROD"), ("Pskov", 6, "VARIETY_PSKOV"), ("Chernigov", 7, "VARIETY_CHERNIGOV"), ("Kaluga", 7, "-1"), ("Vologda", 7, "-1"), ("Tula", 7, "-1"), 
-								("Galich", 6, "-1"), ("Murom", 6, "VARIETY_MUROM"), ("Suzdal", 6, "-1"), ("Rzhev", 5, "-1"), ("Vyzama", 5, "-1"), ("Kolomna", 5, "VARIETY_KOLOMNA"), ("Samara", 4, "VARIETY_SAMARA"), 
-								("Kazan", 4, "VARIETY_KAZAN"), ("Astrakhan", 4, "-1"), ("Arkhangelsk", 4, "-1"), ("Ufa", 4, "-1"), ("Tobolsk", 3, "VARIETY_SIBIR"), ("Solikamsk", 3, "-1"), ("Berezov", 3, "-1"), ("Tyumen", 3, "VARIETY_TYUMEN"), 
-								("Kursk", 2, "VARIETY_KURSK"), ("Putivl", 2, "-1"), ("Velikiye Luki", 2, "-1"), ("Voronezh", 2, "-1"), ("Saratov", 2, "-1"), ("Belgorod", 2, "VARIETY_BELGOROD"), ("Torzhok", 2, "-1")],
+                                            ("Kostroma", 8, "-1"), ("Kholmogory", 7, "-1"), ("Novgorod", 7, "VARIETY_NOVGOROD"), ("Pskov", 6, "VARIETY_PSKOV"), ("Chernigov", 7, "VARIETY_CHERNIGOV"), ("Kaluga", 7, "-1"), ("Vologda", 7, "-1"), ("Tula", 7, "-1"), 
+                                                                ("Galich", 6, "-1"), ("Murom", 6, "VARIETY_MUROM"), ("Suzdal", 6, "-1"), ("Rzhev", 5, "-1"), ("Vyzama", 5, "-1"), ("Kolomna", 5, "VARIETY_KOLOMNA"), ("Samara", 4, "VARIETY_SAMARA"), 
+                                                                ("Kazan", 4, "VARIETY_KAZAN"), ("Astrakhan", 4, "-1"), ("Arkhangelsk", 4, "-1"), ("Ufa", 4, "-1"), ("Tobolsk", 3, "VARIETY_SIBIR"), ("Solikamsk", 3, "-1"), ("Berezov", 3, "-1"), ("Tyumen", 3, "VARIETY_TYUMEN"), 
+                                                                ("Kursk", 2, "VARIETY_KURSK"), ("Putivl", 2, "-1"), ("Velikiye Luki", 2, "-1"), ("Voronezh", 2, "-1"), ("Saratov", 2, "-1"), ("Belgorod", 2, "VARIETY_BELGOROD"), ("Torzhok", 2, "-1")],
 'LEADER_CATHERINE'			: [("St. Petersburg", 9, "VARIETY_PETROGRAD"), ("Moscow", 8, "VARIETY_MOSCOW"), ("Vilna", 7, "VARIETY_VILNIUS"), ("Kazan", 7, "VARIETY_KAZAN"), ("Tula", 7, "-1"), ("Astrakhan", 6, "-1"), 
-								("Riga", 6, "VARIETY_RIGA"), ("Saratov", 6, "-1"), ("Orel", 6, "-1"), ("Yaroslavl", 6, "VARIETY_YAROSLAVL"), ("Kursk", 6, "VARIETY_KURSK"), ("Kiev", 6, "VARIETY_KIEV"), ("Kaluga", 6, "-1"), ("Voronezh", 6, "-1"), 
-								("Reval", 5, "VARIETY_TALLINN"), ("Tver", 5, "VARIETY_TVER"), ("Vitebsk", 5, "VARIETY_VITEBSK"), ("Tambov", 5, "VARIETY_TAMBOV"), ("Penza", 5, "VARIETY_PENZA"), ("Nizhny Novgorod", 5, "VARIETY_NNOVGOROD"), 
-								("Yekaterinburg", 4, "VARIETY_SVERDLOVSK"), ("Tobolsk", 4, "VARIETY_SIBIR"), ("Tomsk", 4, "-1"), ("Orenburg", 4, "-1"), ("Kherson", 3, "-1"), ("Tsaritsyn", 3, "VARIETY_VOLGOGRAD"), 
-								("Arkhangelsk", 3, "-1"), ("Kovno", 3, "VARIETY_KAUNAS"), ("Omsk", 2, "VARIETY_OMSK"), ("Irkutsk", 2, "-1"), ("Minsk", 2, "VARIETY_MINSK"), ("Berezov", 1, "-1"), ("Okhotsk", 1, "-1"), ("Odessa", 1, "-1"), 
-								("Smolensk", 1, "VARIETY_SMOLENSK")],
+                                             ("Riga", 6, "VARIETY_RIGA"), ("Saratov", 6, "-1"), ("Orel", 6, "-1"), ("Yaroslavl", 6, "VARIETY_YAROSLAVL"), ("Kursk", 6, "VARIETY_KURSK"), ("Kiev", 6, "VARIETY_KIEV"), ("Kaluga", 6, "-1"), ("Voronezh", 6, "-1"), 
+                                                                ("Reval", 5, "VARIETY_TALLINN"), ("Tver", 5, "VARIETY_TVER"), ("Vitebsk", 5, "VARIETY_VITEBSK"), ("Tambov", 5, "VARIETY_TAMBOV"), ("Penza", 5, "VARIETY_PENZA"), ("Nizhny Novgorod", 5, "VARIETY_NNOVGOROD"), 
+                                                                ("Yekaterinburg", 4, "VARIETY_SVERDLOVSK"), ("Tobolsk", 4, "VARIETY_SIBIR"), ("Tomsk", 4, "-1"), ("Orenburg", 4, "-1"), ("Kherson", 3, "-1"), ("Tsaritsyn", 3, "VARIETY_VOLGOGRAD"), 
+                                                                ("Arkhangelsk", 3, "-1"), ("Kovno", 3, "VARIETY_KAUNAS"), ("Omsk", 2, "VARIETY_OMSK"), ("Irkutsk", 2, "-1"), ("Minsk", 2, "VARIETY_MINSK"), ("Berezov", 1, "-1"), ("Okhotsk", 1, "-1"), ("Odessa", 1, "-1"), 
+                                                                ("Smolensk", 1, "VARIETY_SMOLENSK")],
 'LEADER_IVAN_III'			: [("Moscow", 9, "VARIETY_MOSCOW"), ("Novgorod", 8, "VARIETY_NOVGOROD"), ("Pskov", 7, "VARIETY_PSKOV"), ("Vladimir", 7, "VARIETY_VLADIMIR"), ("Rostov", 7, "VARIETY_ROSTOV"), ("Tver", 7, "VARIETY_TVER"), 
-								("Yaroslavl", 7, "VARIETY_YAROSLAVL"), ("Kostroma", 6, "-1"), ("Nizhny Novgorod", 6, "VARIETY_NNOVGOROD"), ("Chernigov", 6, "VARIETY_CHERNIGOV"), ("Bryansk", 6, "-1"), ("Starodub", 6, "-1"), 
-								("Novgorod-Seversky", 6, "-1"), ("Tula", 5, "-1"), ("Kolomna", 5, "VARIETY_KOLOMNA"), ("Murom", 5, "VARIETY_MUROM"), ("Vyatka", 5, "-1"), ("Ustyug", 5, "VARIETY_USTYUG"), ("Vyzama", 5, "-1"), 
-								("Kolomna", 5, "VARIETY_KOLOMNA"), ("Beloozero", 4, "-1"), ("Mozhaysk", 4, "-1"), ("Zvenigorod", 4, "-1"), ("Olonets", 4, "-1"), ("Serpukhov", 4, "-1"), ("Staraya Russa", 3, "-1"), 
-								("Ivangorod", 3, "-1"), ("Galich", 3, "-1"), ("Kargopol", 3, "-1"), ("Velikiye Luki", 2, "-1"), ("Dorogobuzh", 2, "-1"), ("Koporye", 2, "-1"), ("Pronsk", 2, "-1"), ("Arzamas", 2, "-1"), 
-								("Odoev", 2, "-1"), ("Torzhok", 2, "-1")],
+                                            ("Yaroslavl", 7, "VARIETY_YAROSLAVL"), ("Kostroma", 6, "-1"), ("Nizhny Novgorod", 6, "VARIETY_NNOVGOROD"), ("Chernigov", 6, "VARIETY_CHERNIGOV"), ("Bryansk", 6, "-1"), ("Starodub", 6, "-1"), 
+                                                                ("Novgorod-Seversky", 6, "-1"), ("Tula", 5, "-1"), ("Kolomna", 5, "VARIETY_KOLOMNA"), ("Murom", 5, "VARIETY_MUROM"), ("Vyatka", 5, "-1"), ("Ustyug", 5, "VARIETY_USTYUG"), ("Vyzama", 5, "-1"), 
+                                                                ("Kolomna", 5, "VARIETY_KOLOMNA"), ("Beloozero", 4, "-1"), ("Mozhaysk", 4, "-1"), ("Zvenigorod", 4, "-1"), ("Olonets", 4, "-1"), ("Serpukhov", 4, "-1"), ("Staraya Russa", 3, "-1"), 
+                                                                ("Ivangorod", 3, "-1"), ("Galich", 3, "-1"), ("Kargopol", 3, "-1"), ("Velikiye Luki", 2, "-1"), ("Dorogobuzh", 2, "-1"), ("Koporye", 2, "-1"), ("Pronsk", 2, "-1"), ("Arzamas", 2, "-1"), 
+                                                                ("Odoev", 2, "-1"), ("Torzhok", 2, "-1")],
 'LEADER_LENIN'				: [("Moscow", 9, "VARIETY_MOSCOW"), ("Petrograd", 8, "VARIETY_PETROGRAD"), ("Rostov", 7, "VARIETY_ROSTOV"), ("Saratov", 7, "-1"), ("Nizhniy Novgorod", 7, "VARIETY_NNOVGOROD"), 
-								("Kazan", 7, "VARIETY_KAZAN"), ("Astrakhan", 7, "-1"), ("Samara", 7, "VARIETY_SAMARA"), ("Krasnodar", 7, "VARIETY_ARMAVIR"), ("Omsk", 7, "VARIETY_OMSK"), ("Tula", 6, "-1"), ("Tsaritsyn", 6, "VARIETY_VOLGOGRAD"), 
-								("Yekaterinburg", 6, "VARIETY_SVERDLOVSK"), ("Orenburg", 5, "-1"), ("Novonikolaevsk", 5, "VARIETY_NOVOSIBIRSK"), ("Voronezh", 5, "-1"), ("Yaroslavl", 5, "VARIETY_YAROSLAVL"), ("Ivanovo-Voznesensk", 5, "-1"), 
-								("Tver", 4, "VARIETY_TVER"), ("Vladivostok", 4, "-1"), ("Tashkent", 7, "-1"), ("Samarkand", 4, "-1"), ("Kiev", 7, "VARIETY_KIEV"), ("Baku", 7, "-1"), ("Odessa", 7, "-1"), ("Kharkov", 7, "VARIETY_KHARKIV"), 
-								("Tiflis", 6, "-1"), ("Dnepropetrovsk", 6, "-1"), ("Minsk", 6, "VARIETY_MINSK"), ("Yuzovka", 4, "VARIETY_DONETSK"), ("Nikolaev", 4, "VARIETY_MYKOLAIV")],
+                                                 ("Kazan", 7, "VARIETY_KAZAN"), ("Astrakhan", 7, "-1"), ("Samara", 7, "VARIETY_SAMARA"), ("Krasnodar", 7, "VARIETY_ARMAVIR"), ("Omsk", 7, "VARIETY_OMSK"), ("Tula", 6, "-1"), ("Tsaritsyn", 6, "VARIETY_VOLGOGRAD"), 
+                                                                ("Yekaterinburg", 6, "VARIETY_SVERDLOVSK"), ("Orenburg", 5, "-1"), ("Novonikolaevsk", 5, "VARIETY_NOVOSIBIRSK"), ("Voronezh", 5, "-1"), ("Yaroslavl", 5, "VARIETY_YAROSLAVL"), ("Ivanovo-Voznesensk", 5, "-1"), 
+                                                                ("Tver", 4, "VARIETY_TVER"), ("Vladivostok", 4, "-1"), ("Tashkent", 7, "-1"), ("Samarkand", 4, "-1"), ("Kiev", 7, "VARIETY_KIEV"), ("Baku", 7, "-1"), ("Odessa", 7, "-1"), ("Kharkov", 7, "VARIETY_KHARKIV"), 
+                                                                ("Tiflis", 6, "-1"), ("Dnepropetrovsk", 6, "-1"), ("Minsk", 6, "VARIETY_MINSK"), ("Yuzovka", 4, "VARIETY_DONETSK"), ("Nikolaev", 4, "VARIETY_MYKOLAIV")],
 'LEADER_PETER'				: [("St. Petersburg", 9, "VARIETY_PETROGRAD"), ("Moscow", 8, "VARIETY_MOSCOW"), ("Chernigov", 6, "VARIETY_CHERNIGOV"), ("Kazan", 7, "VARIETY_KAZAN"), ("Tula", 7, "-1"), ("Astrakhan", 6, "-1"), ("Riga", 6, "VARIETY_RIGA"), 
-								("Saratov", 6, "-1"), ("Orel", 6, "-1"), ("Yaroslavl", 6, "VARIETY_YAROSLAVL"), ("Kursk", 6, "VARIETY_KURSK"), ("Kiev", 6, "VARIETY_KIEV"), ("Kaluga", 6, "-1"), ("Voronezh", 7, "-1"), 
-								("Reval", 5, "VARIETY_TALLINN"), ("Tver", 5, "VARIETY_TVER"), ("Vitebsk", 5, "VARIETY_VITEBSK"), ("Tambov", 5, "VARIETY_TAMBOV"), ("Narva", 5, "-1"), ("Nizhny Novgorod", 7, "VARIETY_NNOVGOROD"), 
-								("Tobolsk", 4, "VARIETY_SIBIR"), ("Simbirsk", 4, "-1"), ("Poltava", 4, "-1"), ("Kronshtadt", 3, "-1"), ("Tsaritsyn", 3, "VARIETY_VOLGOGRAD"), ("Arkhangelsk", 6, "-1"), ("Cherkassk", 3, "-1"), 
-								("Omsk", 2, "VARIETY_OMSK"), ("Ufa", 2, "-1"), ("Minsk", 2, "VARIETY_MINSK"), ("Berezov", 1, "-1"), ("Okhotsk", 1, "-1"), ("Azov", 1, "VARIETY_AZOV"), ("Smolensk", 1, "VARIETY_SMOLENSK")],
+                                                 ("Saratov", 6, "-1"), ("Orel", 6, "-1"), ("Yaroslavl", 6, "VARIETY_YAROSLAVL"), ("Kursk", 6, "VARIETY_KURSK"), ("Kiev", 6, "VARIETY_KIEV"), ("Kaluga", 6, "-1"), ("Voronezh", 7, "-1"), 
+                                                                ("Reval", 5, "VARIETY_TALLINN"), ("Tver", 5, "VARIETY_TVER"), ("Vitebsk", 5, "VARIETY_VITEBSK"), ("Tambov", 5, "VARIETY_TAMBOV"), ("Narva", 5, "-1"), ("Nizhny Novgorod", 7, "VARIETY_NNOVGOROD"), 
+                                                                ("Tobolsk", 4, "VARIETY_SIBIR"), ("Simbirsk", 4, "-1"), ("Poltava", 4, "-1"), ("Kronshtadt", 3, "-1"), ("Tsaritsyn", 3, "VARIETY_VOLGOGRAD"), ("Arkhangelsk", 6, "-1"), ("Cherkassk", 3, "-1"), 
+                                                                ("Omsk", 2, "VARIETY_OMSK"), ("Ufa", 2, "-1"), ("Minsk", 2, "VARIETY_MINSK"), ("Berezov", 1, "-1"), ("Okhotsk", 1, "-1"), ("Azov", 1, "VARIETY_AZOV"), ("Smolensk", 1, "VARIETY_SMOLENSK")],
 'LEADER_STALIN'				: [("Moscow", 9, "VARIETY_MOSCOW"), ("Kiev", 8, "VARIETY_KIEV"), ("Leningrad", 8, "VARIETY_PETROGRAD"), ("Kharkov", 7, "VARIETY_KHARKIV"), ("Tashkent", 7, "-1"), ("Gorky", 7, "VARIETY_NNOVGOROD"), 
-								("Novosibirsk", 7, "VARIETY_NOVOSIBIRSK"), ("Kuybyshev", 6, "VARIETY_SAMARA"), ("Stalino", 6, "VARIETY_DONETSK"), ("Tbilisi", 6, "VARIETY_TBILISI"), ("Sverdlovsk", 6, "VARIETY_SVERDLOVSK"), ("Odessa", 6, "-1"), 
-								("Dnepropetrovsk", 6, "-1"), ("Chelyabinsk", 6, "VARIETY_CHELYABINSK"), ("Baku", 6, "-1"), ("Kazan", 6, "VARIETY_KAZAN"), ("Perm", 5, "VARIETY_PERM"), ("Rostov-na-Donu", 5, "-1"), ("Stalingrad", 5, "VARIETY_VOLGOGRAD"), 
-								("Saratov", 5, "-1"), ("Riga", 5, "VARIETY_RIGA"), ("Omsk", 4, "VARIETY_OMSK"), ("Minsk", 4, "VARIETY_MINSK"), ("Yerevan", 4, "VARIETY_YEREVAN"), ("Alma-Ata", 3, "VARIETY_KHAZAK"), ("Ufa", 3, "-1"), 
-								("Voronezh", 3, "-1"), ("Zaporozhye", 3, "VARIETY_SICH"), ("Lvov", 3, "-1"), ("Krasnoyarsk", 3, "VARIETY_KRASNOYARSK"), ("Karaganda", 2, "-1"), ("Krivoy Rog", 2, "-1"), ("Yaroslavl", 2, "VARIETY_YAROSLAVL"), ("Stalinsk", 2, "VARIETY_NOVOKUZNETSK"), ("Makeevka", 2, "-1"), ("Irkutsk", 2, "-1")],
+                                                  ("Novosibirsk", 7, "VARIETY_NOVOSIBIRSK"), ("Kuybyshev", 6, "VARIETY_SAMARA"), ("Stalino", 6, "VARIETY_DONETSK"), ("Tbilisi", 6, "VARIETY_TBILISI"), ("Sverdlovsk", 6, "VARIETY_SVERDLOVSK"), ("Odessa", 6, "-1"), 
+                                                                ("Dnepropetrovsk", 6, "-1"), ("Chelyabinsk", 6, "VARIETY_CHELYABINSK"), ("Baku", 6, "-1"), ("Kazan", 6, "VARIETY_KAZAN"), ("Perm", 5, "VARIETY_PERM"), ("Rostov-na-Donu", 5, "-1"), ("Stalingrad", 5, "VARIETY_VOLGOGRAD"), 
+                                                                ("Saratov", 5, "-1"), ("Riga", 5, "VARIETY_RIGA"), ("Omsk", 4, "VARIETY_OMSK"), ("Minsk", 4, "VARIETY_MINSK"), ("Yerevan", 4, "VARIETY_YEREVAN"), ("Alma-Ata", 3, "VARIETY_KHAZAK"), ("Ufa", 3, "-1"), 
+                                                                ("Voronezh", 3, "-1"), ("Zaporozhye", 3, "VARIETY_SICH"), ("Lvov", 3, "-1"), ("Krasnoyarsk", 3, "VARIETY_KRASNOYARSK"), ("Karaganda", 2, "-1"), ("Krivoy Rog", 2, "-1"), ("Yaroslavl", 2, "VARIETY_YAROSLAVL"), ("Stalinsk", 2, "VARIETY_NOVOKUZNETSK"), ("Makeevka", 2, "-1"), ("Irkutsk", 2, "-1")],
 # South China
 'LEADER_CHIANG_KAI_SHEK'	: [("Shanghai", 9, "-1"), ("Xi'an", 7, "VARIETY_XIAN"), ("Taiyuan", 7, "VARIETY_TAIYUAN"), ("Beiping", 9, "VARIETY_BEIJING"), ("Tianjin", 9, "-1"), ("Shenyang", 9, "-1"), 
-								("Chongqing", 9, "VARIETY_CHONGQING"), ("Wuhan", 8, "-1"), ("Nanjing", 10, "VARIETY_NANJING"), ("Chengdu", 8, "VARIETY_CHENGDU"), ("Haerbin", 8, "-1"), ("Guangzhou", 8, "VARIETY_GUANGZHOU"), 
-								("Changchun", 8, "-1"), ("Dalian", 8, "VARIETY_DALIAN"), ("Ji'nan", 7, "-1"), ("Hangzhou", 8, "VARIETY_HANGZHOU"), ("Lanzhou", 6, "-1"), ("Qingdao", 8, "-1"), ("Fushun", 8, "-1"), ("Anshan", 7, "-1"), ("Benxi", 6, "-1"),
-								("Taipei", 7, "-1"), ("Xuzhou", 6, "-1"), ("Changsha", 7, "VARIETY_CHANGSHA"), ("Kunming", 6, "VARIETY_KUNMING"), ("Hegang", 7, "-1"), ("Tainan", 6, "-1"), ("Qiqihaer", 6, "-1"), ("Tangshan", 7, "-1"), 
-								("Nanchang", 6, "-1"), ("Wuxi", 6, "-1"), ("Jilin", 6, "-1"), ("Yichun", 6, "-1"), ("Suzhou", 7, "-1"), ("Fuzhou", 6, "VARIETY_FUZHOU")],
+                                   ("Chongqing", 9, "VARIETY_CHONGQING"), ("Wuhan", 8, "-1"), ("Nanjing", 10, "VARIETY_NANJING"), ("Chengdu", 8, "VARIETY_CHENGDU"), ("Haerbin", 8, "-1"), ("Guangzhou", 8, "VARIETY_GUANGZHOU"), 
+                                                                ("Changchun", 8, "-1"), ("Dalian", 8, "VARIETY_DALIAN"), ("Ji'nan", 7, "-1"), ("Hangzhou", 8, "VARIETY_HANGZHOU"), ("Lanzhou", 6, "-1"), ("Qingdao", 8, "-1"), ("Fushun", 8, "-1"), ("Anshan", 7, "-1"), ("Benxi", 6, "-1"),
+                                                                ("Taipei", 7, "-1"), ("Xuzhou", 6, "-1"), ("Changsha", 7, "VARIETY_CHANGSHA"), ("Kunming", 6, "VARIETY_KUNMING"), ("Hegang", 7, "-1"), ("Tainan", 6, "-1"), ("Qiqihaer", 6, "-1"), ("Tangshan", 7, "-1"), 
+                                                                ("Nanchang", 6, "-1"), ("Wuxi", 6, "-1"), ("Jilin", 6, "-1"), ("Yichun", 6, "-1"), ("Suzhou", 7, "-1"), ("Fuzhou", 6, "VARIETY_FUZHOU")],
 'LEADER_MING_YONGLE'		: [("Luoyang", 7, "VARIETY_ZHOU"), ("Chang'an", 9, "VARIETY_XIAN"), ("Taiyuan", 6, "VARIETY_TAIYUAN"), ("Beijing", 10, "VARIETY_BEIJING"), ("Hangzhou", 8, "VARIETY_HANGZHOU"), 
-								("Guangzhou", 8, "VARIETY_GUANGZHOU"), ("Chongqing", 8, "VARIETY_CHONGQING"), ("Chengdu", 7, "VARIETY_CHENGDU"), ("Yingtian", 9, "VARIETY_NANJING"), ("Fuzhou", 7, "VARIETY_FUZHOU"), ("Changsha", 7, "VARIETY_CHANGSHA"), 
-								("Kaifeng", 7, "VARIETY_KAIFENG"), ("Jinan", 6, "-1"), ("Wuchang", 6, "-1"), ("Nanchang", 6, "-1"), ("Guilin", 6, "-1"), ("Guiyang", 6, "-1"), ("Yunnan-Fu", 6, "VARIETY_KUNMING"), ("Ningyuan", 5, "-1"), 
-								("Jianzhou", 5, "-1"), ("Guangyang", 5, "-1"), ("Haizhou", 5, "-1"), ("Yangzhou", 7, "VARIETY_YANGZHOU"), ("Kaizhou", 5, "-1"), ("Yulin", 5, "-1"), ("Ningxia", 5, "-1"), ("Liangzhou", 5, "-1"),
-								("Yongchang", 5, "-1"), ("Ganzhou", 5, "-1"), ("Xining", 5, "VARIETY_XINING"), ("Yuesui", 5, "-1"), ("Huichuan", 5, "-1"), ("Yongning", 5, "-1")],
+                                       ("Guangzhou", 8, "VARIETY_GUANGZHOU"), ("Chongqing", 8, "VARIETY_CHONGQING"), ("Chengdu", 7, "VARIETY_CHENGDU"), ("Yingtian", 9, "VARIETY_NANJING"), ("Fuzhou", 7, "VARIETY_FUZHOU"), ("Changsha", 7, "VARIETY_CHANGSHA"), 
+                                                                ("Kaifeng", 7, "VARIETY_KAIFENG"), ("Jinan", 6, "-1"), ("Wuchang", 6, "-1"), ("Nanchang", 6, "-1"), ("Guilin", 6, "-1"), ("Guiyang", 6, "-1"), ("Yunnan-Fu", 6, "VARIETY_KUNMING"), ("Ningyuan", 5, "-1"), 
+                                                                ("Jianzhou", 5, "-1"), ("Guangyang", 5, "-1"), ("Haizhou", 5, "-1"), ("Yangzhou", 7, "VARIETY_YANGZHOU"), ("Kaizhou", 5, "-1"), ("Yulin", 5, "-1"), ("Ningxia", 5, "-1"), ("Liangzhou", 5, "-1"),
+                                                                ("Yongchang", 5, "-1"), ("Ganzhou", 5, "-1"), ("Xining", 5, "VARIETY_XINING"), ("Yuesui", 5, "-1"), ("Huichuan", 5, "-1"), ("Yongning", 5, "-1")],
 'LEADER_SUN_YAT_SEN'		: [("Shanghai", 9, "-1"), ("Xi'an", 7, "VARIETY_XIAN"), ("Taiyuan", 7, "VARIETY_TAIYUAN"), ("Beiping", 9, "VARIETY_BEIJING"), ("Tianjin", 9, "-1"), ("Shenyang", 9, "-1"), 
-								("Chongqing", 9, "VARIETY_CHONGQING"), ("Wuhan", 8, "-1"), ("Nanjing", 10, "VARIETY_NANJING"), ("Chengdu", 8, "VARIETY_CHENGDU"), ("Haerbin", 8, "-1"), ("Guangzhou", 8, "VARIETY_GUANGZHOU"), 
-								("Changchun", 8, "-1"), ("Dalian", 8, "VARIETY_DALIAN"), ("Ji'nan", 7, "-1"), ("Hangzhou", 8, "VARIETY_HANGZHOU"), ("Lanzhou", 6, "-1"), ("Qingdao", 8, "-1"), ("Fushun", 8, "-1"), ("Anshan", 7, "-1"), ("Benxi", 6, "-1"),
-								("Taipei", 7, "-1"), ("Xuzhou", 6, "-1"), ("Changsha", 7, "VARIETY_CHANGSHA"), ("Kunming", 6, "VARIETY_KUNMING"), ("Hegang", 7, "-1"), ("Tainan", 6, "-1"), ("Qiqihaer", 6, "-1"), ("Tangshan", 7, "-1"), 
-								("Nanchang", 6, "-1"), ("Wuxi", 6, "-1"), ("Jilin", 6, "-1"), ("Yichun", 6, "-1"), ("Suzhou", 7, "-1"), ("Fuzhou", 6, "VARIETY_FUZHOU")],  
+                                       ("Chongqing", 9, "VARIETY_CHONGQING"), ("Wuhan", 8, "-1"), ("Nanjing", 10, "VARIETY_NANJING"), ("Chengdu", 8, "VARIETY_CHENGDU"), ("Haerbin", 8, "-1"), ("Guangzhou", 8, "VARIETY_GUANGZHOU"), 
+                                                                ("Changchun", 8, "-1"), ("Dalian", 8, "VARIETY_DALIAN"), ("Ji'nan", 7, "-1"), ("Hangzhou", 8, "VARIETY_HANGZHOU"), ("Lanzhou", 6, "-1"), ("Qingdao", 8, "-1"), ("Fushun", 8, "-1"), ("Anshan", 7, "-1"), ("Benxi", 6, "-1"),
+                                                                ("Taipei", 7, "-1"), ("Xuzhou", 6, "-1"), ("Changsha", 7, "VARIETY_CHANGSHA"), ("Kunming", 6, "VARIETY_KUNMING"), ("Hegang", 7, "-1"), ("Tainan", 6, "-1"), ("Qiqihaer", 6, "-1"), ("Tangshan", 7, "-1"), 
+                                                                ("Nanchang", 6, "-1"), ("Wuxi", 6, "-1"), ("Jilin", 6, "-1"), ("Yichun", 6, "-1"), ("Suzhou", 7, "-1"), ("Fuzhou", 6, "VARIETY_FUZHOU")],  
 'LEADER_SONG_HUIZONG'		: [("Dongjing", 10, "VARIETY_KAIFENG"), ("Chengdu", 9, "VARIETY_CHENGDU"), ("Jinan", 9, "-1"), ("Chang'an", 8, "VARIETY_XIAN"), ("Xijing", 8, "VARIETY_ZHOU"), ("Jiangning", 8, "VARIETY_NANJING"), 
-								("Yangzhou", 8, "VARIETY_YANGZHOU"), ("Gong", 8, "VARIETY_CHONGQING"), ("Changsha", 8, "VARIETY_CHANGSHA"), ("Fuzhou", 8, "VARIETY_FUZHOU"), ("Guangzhou", 8, "VARIETY_GUANGZHOU"), ("Zhongdu", 8, "VARIETY_BEIJING"), 
-								("Tongchuan", 7, "-1"), ("Xingyuan", 7, "-1"), ("Kui", 7, "-1"), ("Jiangling", 7, "-1"), ("Xiangyang", 7, "-1"), ("Lu", 7, "-1"), ("Yang", 7, "-1"), ("Hangzhou", 7, "VARIETY_HANGZHOU"), ("Shaoxing", 7, "-1"), 
-								("Tan", 7, "-1"), ("Hong", 7, "-1"), ("Fu", 7, "-1"), ("Jingning", 7, "-1"), ("Guang", 7, "-1"), ("Taiyuan", 6, "VARIETY_TAIYUAN"), ("Zhending", 6, "-1"), ("Daming", 6, "-1"), 
-								("Chenliu", 6, "-1"), ("Zhending", 6, "-1"), ("Jingzhao", 6, "-1"), ("Qing", 6, "-1"), ("Zi", 6, "-1")],
+                                        ("Yangzhou", 8, "VARIETY_YANGZHOU"), ("Gong", 8, "VARIETY_CHONGQING"), ("Changsha", 8, "VARIETY_CHANGSHA"), ("Fuzhou", 8, "VARIETY_FUZHOU"), ("Guangzhou", 8, "VARIETY_GUANGZHOU"), ("Zhongdu", 8, "VARIETY_BEIJING"), 
+                                                                ("Tongchuan", 7, "-1"), ("Xingyuan", 7, "-1"), ("Kui", 7, "-1"), ("Jiangling", 7, "-1"), ("Xiangyang", 7, "-1"), ("Lu", 7, "-1"), ("Yang", 7, "-1"), ("Hangzhou", 7, "VARIETY_HANGZHOU"), ("Shaoxing", 7, "-1"), 
+                                                                ("Tan", 7, "-1"), ("Hong", 7, "-1"), ("Fu", 7, "-1"), ("Jingning", 7, "-1"), ("Guang", 7, "-1"), ("Taiyuan", 6, "VARIETY_TAIYUAN"), ("Zhending", 6, "-1"), ("Daming", 6, "-1"), 
+                                                                ("Chenliu", 6, "-1"), ("Zhending", 6, "-1"), ("Jingzhao", 6, "-1"), ("Qing", 6, "-1"), ("Zi", 6, "-1")],
 'LEADER_SUN_QUAN'			: [("Jianye", 10, "VARIETY_NANJING"), ("Jiangling", 9, "-1"), ("Panyu", 9, "-1"), ("Longbian", 9, "-1"), ("Wuchang", 8, "-1"), ("Nanhai", 8, "-1"), ("Wu", 7, "-1"), ("Qichun", 5, "-1"),
-								("Shanyin", 7, "-1"), ("Nanchang", 7, "-1"), ("Wan", 5, "-1"), ("Gaochang", 7, "-1"), ("Poyang", 6, "-1"), ("Shixin", 6, "-1"), ("Nancheng", 7, "-1"), ("Zhang'an", 6, "-1"),  
-								("Jian'an", 6, "-1"), ("Wucheng", 6, "-1"), ("Changshan", 6, "-1"), ("Piling", 5, "-1"), ("Yudu", 6, "-1"), ("Linyuan", 7, "-1"), ("Quanling", 7, "-1"), ("Chen", 6, "-1"), ("Linxiang", 7, "-1"), 
-								("Wuchang", 6, "-1"), ("Ancheng", 6, "-1"), ("Pengze", 5, "-1"), ("Yidao", 5, "-1"), ("Linhe", 6, "-1"), ("Xiangnan", 7, "-1"), ("Ling", 6, "-1"), ("Zhuwu", 6, "-1"), ("Luzhong", 5, "-1"),
-								("Zhaoling", 5, "-1"), ("Shi'an", 6, "-1"), ("Qujiang", 6, "-1"), ("Guangxin", 7, "-1"), ("Bushan", 6, "-1"), ("Siping", 5, "-1"), ("Guanghua", 6, "-1"), ("Wu'an", 6, "-1"), ("Anguang", 5, "-1")],
+                                            ("Shanyin", 7, "-1"), ("Nanchang", 7, "-1"), ("Wan", 5, "-1"), ("Gaochang", 7, "-1"), ("Poyang", 6, "-1"), ("Shixin", 6, "-1"), ("Nancheng", 7, "-1"), ("Zhang'an", 6, "-1"),  
+                                                                ("Jian'an", 6, "-1"), ("Wucheng", 6, "-1"), ("Changshan", 6, "-1"), ("Piling", 5, "-1"), ("Yudu", 6, "-1"), ("Linyuan", 7, "-1"), ("Quanling", 7, "-1"), ("Chen", 6, "-1"), ("Linxiang", 7, "-1"), 
+                                                                ("Wuchang", 6, "-1"), ("Ancheng", 6, "-1"), ("Pengze", 5, "-1"), ("Yidao", 5, "-1"), ("Linhe", 6, "-1"), ("Xiangnan", 7, "-1"), ("Ling", 6, "-1"), ("Zhuwu", 6, "-1"), ("Luzhong", 5, "-1"),
+                                                                ("Zhaoling", 5, "-1"), ("Shi'an", 6, "-1"), ("Qujiang", 6, "-1"), ("Guangxin", 7, "-1"), ("Bushan", 6, "-1"), ("Siping", 5, "-1"), ("Guanghua", 6, "-1"), ("Wu'an", 6, "-1"), ("Anguang", 5, "-1")],
 'LEADER_XIAO_OF_QIN'		: [("Xianyang", 10, "VARIETY_XIAN"), ("Yingdu", 9, "-1"), ("Shu", 9, "-1"), ("Ba", 9, "-1"), ("Longxi", 8, "-1"), ("Nangzheng", 8, "-1"), ("Yong", 8, "-1"), ("Youzhi", 7, "-1"), ("Quren", 7, "-1"),
- 								("Kongtongshi", 7, "-1"), ("Jiangshi", 7, "-1"), ("Zhu", 7, "-1"), ("Quanqiu", 7, "-1"), ("Qian", 7, "-1"), ("Pingyang", 7, "-1"), ("Yueyang", 7, "-1"), ("Ping", 6, "-1"), ("Yanying", 6, "-1"),
-								("Danyang", 6, "-1"), ("Xinzheng", 6, "-1"), ("Jinyang", 6, "-1"), ("Handan", 6, "-1"), ("Diangxiang", 6, "-1"), ("Wuyuan", 6, "-1"), ("Qufu", 6, "-1"), ("Shangqiu", 6, "-1"), 
-								("Daliang", 6, "-1"), ("Chen", 6, "-1"), ("Juyang", 6, "-1"), ("Shouchun", 6, "-1"), ("Puyang", 6, "-1"), ("Pengli", 6, "-1"), ("Shanggu", 6, "-1"), ("Ji", 6, "-1"), ("Linzi", 6, "-1"), 
-								("Wu", 6, "-1"), ("Guangling", 6, "-1"), ("Nanhai", 6, "-1"), ("Guiyang", 6, "-1"), ("Lingling", 6, "-1"), ("Zichuan", 6, "-1"), ("Youbeiping", 6, "-1"), ("Xiangping", 6, "-1")], 
+                                       ("Kongtongshi", 7, "-1"), ("Jiangshi", 7, "-1"), ("Zhu", 7, "-1"), ("Quanqiu", 7, "-1"), ("Qian", 7, "-1"), ("Pingyang", 7, "-1"), ("Yueyang", 7, "-1"), ("Ping", 6, "-1"), ("Yanying", 6, "-1"),
+                                                                 ("Danyang", 6, "-1"), ("Xinzheng", 6, "-1"), ("Jinyang", 6, "-1"), ("Handan", 6, "-1"), ("Diangxiang", 6, "-1"), ("Wuyuan", 6, "-1"), ("Qufu", 6, "-1"), ("Shangqiu", 6, "-1"), 
+                                                                ("Daliang", 6, "-1"), ("Chen", 6, "-1"), ("Juyang", 6, "-1"), ("Shouchun", 6, "-1"), ("Puyang", 6, "-1"), ("Pengli", 6, "-1"), ("Shanggu", 6, "-1"), ("Ji", 6, "-1"), ("Linzi", 6, "-1"), 
+                                                                ("Wu", 6, "-1"), ("Guangling", 6, "-1"), ("Nanhai", 6, "-1"), ("Guiyang", 6, "-1"), ("Lingling", 6, "-1"), ("Zichuan", 6, "-1"), ("Youbeiping", 6, "-1"), ("Xiangping", 6, "-1")], 
 # Spain
 'LEADER_ALARIC_II'			: [("Tolosa", 10, "VARIETY_VISIGOTH"), ("Toletum", 9, "VARIETY_TOLEDO"), ("Arvernis", 8, "VARIETY_CLERMONT"), ("Tarraco", 8, "VARIETY_TARRAGONA"), ("Arelate", 8, "VARIETY_ARLES"), ("Hispalis", 7, "VARIETY_SEVILLE"), 
-								("Carthago Nova", 7, "VARIETY_CARTAGENA"), ("Barcino", 7, "VARIETY_BARCELONA"), ("Nemausus", 7, "VARIETY_NIMES"), ("Massalia", 7, "VARIETY_MARSEILLE"), ("Emerita", 6, "VARIETY_MERIDA"), ("Ulishbona", 6, "VARIETY_LISBON"), 
-								("Gades", 6, "VARIETY_CADIZ"), ("Caesaraugusta", 6, "VARIETY_ZARAGOZA"), ("Burdigala", 6, "VARIETY_BORDEAUX"), ("Condevincum", 6, "VARIETY_NANTES"), ("Cordova", 5, "VARIETY_CORDOBA"), ("Gerunda", 5, "VARIETY_GERONA"), 
-								("Agathe Tyche", 5, "VARIETY_AGDE"), ("Augustoritum", 5, "VARIETY_LIMOGES"), ("Turonum", 5, "VARIETY_TOURS"), ("Malaca", 5, "VARIETY_MALAGA"), ("Narbo", 5, "VARIETY_NARBONNE"), ("Bracara", 5, "VARIETY_BRAGA"), 
-								("Lucus", 5, "VARIETY_LUGO"), ("Italica", 4, "-1"), ("Ileoscan", 4, "VARIETY_HUESCA"), ("Uxama", 4, "VARIETY_OSMA"), ("Salmantica", 4, "VARIETY_SALAMANCA"), ("Conimbriga", 4, "VARIETY_COIMBRA"), 
-								("Vareia", 4, "VARIETY_LOGRONO"), ("Asturica", 4, "VARIETY_ASTORGA"), ("Valentia", 4, "VARIETY_VALENCIA"), ("Legio", 4, "VARIETY_LEON"), ("Pictavis", 4, "VARIETY_POITIERS"), ("Dertosa", 4, "VARIETY_TORTOSA")],
+                                             ("Carthago Nova", 7, "VARIETY_CARTAGENA"), ("Barcino", 7, "VARIETY_BARCELONA"), ("Nemausus", 7, "VARIETY_NIMES"), ("Massalia", 7, "VARIETY_MARSEILLE"), ("Emerita", 6, "VARIETY_MERIDA"), ("Ulishbona", 6, "VARIETY_LISBON"), 
+                                                                ("Gades", 6, "VARIETY_CADIZ"), ("Caesaraugusta", 6, "VARIETY_ZARAGOZA"), ("Burdigala", 6, "VARIETY_BORDEAUX"), ("Condevincum", 6, "VARIETY_NANTES"), ("Cordova", 5, "VARIETY_CORDOBA"), ("Gerunda", 5, "VARIETY_GERONA"), 
+                                                                ("Agathe Tyche", 5, "VARIETY_AGDE"), ("Augustoritum", 5, "VARIETY_LIMOGES"), ("Turonum", 5, "VARIETY_TOURS"), ("Malaca", 5, "VARIETY_MALAGA"), ("Narbo", 5, "VARIETY_NARBONNE"), ("Bracara", 5, "VARIETY_BRAGA"), 
+                                                                ("Lucus", 5, "VARIETY_LUGO"), ("Italica", 4, "-1"), ("Ileoscan", 4, "VARIETY_HUESCA"), ("Uxama", 4, "VARIETY_OSMA"), ("Salmantica", 4, "VARIETY_SALAMANCA"), ("Conimbriga", 4, "VARIETY_COIMBRA"), 
+                                                                ("Vareia", 4, "VARIETY_LOGRONO"), ("Asturica", 4, "VARIETY_ASTORGA"), ("Valentia", 4, "VARIETY_VALENCIA"), ("Legio", 4, "VARIETY_LEON"), ("Pictavis", 4, "VARIETY_POITIERS"), ("Dertosa", 4, "VARIETY_TORTOSA")],
 'LEADER_ALFONSO_X'			: [("Toledo", 10, "VARIETY_TOLEDO"), ("Seville", 9, "VARIETY_SEVILLE"), ("Burgos", 9, "VARIETY_BURGOS"), ("Valladolid", 8, "VARIETY_VALLADOLID"), ("Leon", 8, "VARIETY_LEON"), ("Cordoba", 7, "VARIETY_CORDOBA"), 
-								("Santiago de Compostela", 7, "VARIETY_SANTIAGO"), ("La Corunha", 7, "-1"), ("Oviedo", 7, "-1"), ("Gijon", 7, "-1"), ("Santander", 7, "-1"), ("Palencia", 7, "VARIETY_PALENCIA"), ("Zamora", 7, "VARIETY_ZAMORA"), 
-								("Salamanca", 7, "VARIETY_SALAMANCA"), ("Segovia", 7, "VARIETY_SEGOVIA"), ("Cuenca", 7, "VARIETY_CUENCA"), ("Merida", 7, "VARIETY_MERIDA"), ("Badajoz", 7, "VARIETY_BADAJOZ"), ("Huelva", 7, "VARIETY_HUELVA"), ("Laredo", 6, "-1"), 
-								("Astorga", 6, "VARIETY_ASTORGA"), ("Najera", 6, "VARIETY_NAJERA"), ("Soria", 6, "-1"), ("Almazan", 6, "-1"), ("Medinaceli", 6, "VARIETY_MEDINACELI"), ("Guadalajara", 6, "VARIETY_GUADALAJARA"), 
-								("Trujillo", 6, "VARIETY_TRUJILLO"), ("Ciudad Real", 6, "-1"), ("Calatrava", 6, "-1"), ("Murcia", 6, "VARIETY_MURCIA"), ("Cartagena", 6, "VARIETY_CARTAGENA"), ("Cadiz", 6, "VARIETY_CADIZ"), ("Jaen", 6, "VARIETY_JAEN"), 
-								("Lorca", 5, "VARIETY_LORCA"), ("Almansa", 5, "-1"), ("Ubeda", 5, "VARIETY_UBEDA")],
+                                             ("Santiago de Compostela", 7, "VARIETY_SANTIAGO"), ("La Corunha", 7, "-1"), ("Oviedo", 7, "-1"), ("Gijon", 7, "-1"), ("Santander", 7, "-1"), ("Palencia", 7, "VARIETY_PALENCIA"), ("Zamora", 7, "VARIETY_ZAMORA"), 
+                                                                ("Salamanca", 7, "VARIETY_SALAMANCA"), ("Segovia", 7, "VARIETY_SEGOVIA"), ("Cuenca", 7, "VARIETY_CUENCA"), ("Merida", 7, "VARIETY_MERIDA"), ("Badajoz", 7, "VARIETY_BADAJOZ"), ("Huelva", 7, "VARIETY_HUELVA"), ("Laredo", 6, "-1"), 
+                                                                ("Astorga", 6, "VARIETY_ASTORGA"), ("Najera", 6, "VARIETY_NAJERA"), ("Soria", 6, "-1"), ("Almazan", 6, "-1"), ("Medinaceli", 6, "VARIETY_MEDINACELI"), ("Guadalajara", 6, "VARIETY_GUADALAJARA"), 
+                                                                ("Trujillo", 6, "VARIETY_TRUJILLO"), ("Ciudad Real", 6, "-1"), ("Calatrava", 6, "-1"), ("Murcia", 6, "VARIETY_MURCIA"), ("Cartagena", 6, "VARIETY_CARTAGENA"), ("Cadiz", 6, "VARIETY_CADIZ"), ("Jaen", 6, "VARIETY_JAEN"), 
+                                                                ("Lorca", 5, "VARIETY_LORCA"), ("Almansa", 5, "-1"), ("Ubeda", 5, "VARIETY_UBEDA")],
 'LEADER_CARLOS'				: [("Toledo", 10, "VARIETY_TOLEDO"), ("Salamanca", 9, "VARIETY_SALAMANCA"), ("Seville", 9, "VARIETY_SEVILLE"), ("Madrid", 8, "VARIETY_MADRID"), ("Zaragoza", 8, "VARIETY_ZARAGOZA"), ("Granada", 7, "VARIETY_GRANADA"), 
-								("Barcelona", 7, "VARIETY_BARCELONA"), ("Cartagena", 7, "VARIETY_CARTAGENA"), ("Napoles", 7, "VARIETY_NAPLES"), ("Oviedo", 7, "-1"), ("Leon", 7, "VARIETY_LEON"), ("Burgos", 7, "VARIETY_BURGOS"), 
-								("Tarragona", 7, "VARIETY_TARRAGONA"), ("Cadiz", 7, "VARIETY_CADIZ"), ("Badajoz", 7, "VARIETY_BADAJOZ"), ("Perpinya", 7, "VARIETY_PERPIGNAN"), ("Santander", 6, "-1"), ("Cuenca", 6, "VARIETY_CUENCA"), 
-								("Valencia", 6, "VARIETY_VALENCIA"), ("Palermo", 6, "VARIETY_PALERMO"), ("Valladolid", 6, "VARIETY_VALLADOLID"), ("Cordoba", 6, "VARIETY_CORDOBA"), ("Messina", 6, "VARIETY_MESSINA"), ("Ciudad Real", 6, "-1"), 
-								("La Corunha", 6, "-1"), ("Teruel", 6, "VARIETY_TERUEL"), ("Jaen", 6, "VARIETY_JAEN"), ("Gerona", 6, "VARIETY_GERONA"), ("Syracuse", 5, "VARIETY_SYRACUSE"), ("Bari", 5, "VARIETY_BARI"), ("Alicante", 5, "VARIETY_ALICANTE"), 
-								("Tarrega", 5, "-1"), ("Aguila", 5, "VARIETY_AQUILA"), ("Huesca", 5, "VARIETY_HUESCA"), ("Pamplona", 5, "VARIETY_PAMPLONA"), ("Caceres", 5, "VARIETY_CACERES"), ("Almeria", 5, "VARIETY_ALMERIA"), 
-								("Gibraltar", 5, "VARIETY_GIBRALTAR"), ("Bilbao", 5, "VARIETY_BILBAO"), ("Milan", 7, "VARIETY_MILAN"), ("Bruselas", 7, "VARIETY_BRUSSELS"), ("Amberes", 7, "VARIETY_ANTWERP"), ("Novara", 6, "VARIETY_NOVARA"), 
-								("Siena", 6, "-1"), ("Amsterdam", 6, "-1"), ("Breda", 6, "-1"), ("Cremona", 5, "-1"), ("Cremona", 5, "-1"), ("Arras", 5, "VARIETY_ARRAS"), ("Namur", 5, "-1"), ("Ghent", 5, "VARIETY_GHENT")],
+                                                  ("Barcelona", 7, "VARIETY_BARCELONA"), ("Cartagena", 7, "VARIETY_CARTAGENA"), ("Napoles", 7, "VARIETY_NAPLES"), ("Oviedo", 7, "-1"), ("Leon", 7, "VARIETY_LEON"), ("Burgos", 7, "VARIETY_BURGOS"), 
+                                                                ("Tarragona", 7, "VARIETY_TARRAGONA"), ("Cadiz", 7, "VARIETY_CADIZ"), ("Badajoz", 7, "VARIETY_BADAJOZ"), ("Perpinya", 7, "VARIETY_PERPIGNAN"), ("Santander", 6, "-1"), ("Cuenca", 6, "VARIETY_CUENCA"), 
+                                                                ("Valencia", 6, "VARIETY_VALENCIA"), ("Palermo", 6, "VARIETY_PALERMO"), ("Valladolid", 6, "VARIETY_VALLADOLID"), ("Cordoba", 6, "VARIETY_CORDOBA"), ("Messina", 6, "VARIETY_MESSINA"), ("Ciudad Real", 6, "-1"), 
+                                                                ("La Corunha", 6, "-1"), ("Teruel", 6, "VARIETY_TERUEL"), ("Jaen", 6, "VARIETY_JAEN"), ("Gerona", 6, "VARIETY_GERONA"), ("Syracuse", 5, "VARIETY_SYRACUSE"), ("Bari", 5, "VARIETY_BARI"), ("Alicante", 5, "VARIETY_ALICANTE"), 
+                                                                ("Tarrega", 5, "-1"), ("Aguila", 5, "VARIETY_AQUILA"), ("Huesca", 5, "VARIETY_HUESCA"), ("Pamplona", 5, "VARIETY_PAMPLONA"), ("Caceres", 5, "VARIETY_CACERES"), ("Almeria", 5, "VARIETY_ALMERIA"), 
+                                                                ("Gibraltar", 5, "VARIETY_GIBRALTAR"), ("Bilbao", 5, "VARIETY_BILBAO"), ("Milan", 7, "VARIETY_MILAN"), ("Bruselas", 7, "VARIETY_BRUSSELS"), ("Amberes", 7, "VARIETY_ANTWERP"), ("Novara", 6, "VARIETY_NOVARA"), 
+                                                                ("Siena", 6, "-1"), ("Amsterdam", 6, "-1"), ("Breda", 6, "-1"), ("Cremona", 5, "-1"), ("Cremona", 5, "-1"), ("Arras", 5, "VARIETY_ARRAS"), ("Namur", 5, "-1"), ("Ghent", 5, "VARIETY_GHENT")],
 'LEADER_CHARLES_III_SPAIN'	: [("Toledo", 8, "VARIETY_TOLEDO"), ("Salamanca", 9, "VARIETY_SALAMANCA"), ("Seville", 9, "VARIETY_SEVILLE"), ("Madrid", 10, "VARIETY_MADRID"), ("Zaragoza", 8, "VARIETY_ZARAGOZA"), ("Granada", 7, "VARIETY_GRANADA"), 
-								("Barcelona", 7, "VARIETY_BARCELONA"), ("Cartagena", 7, "VARIETY_CARTAGENA"), ("Guadalajara", 7, "VARIETY_GUADALAJARA"), ("Oviedo", 7, "-1"), ("Leon", 7, "VARIETY_LEON"), ("Burgos", 7, "VARIETY_BURGOS"), 
-								("Tarragona", 7, "VARIETY_TARRAGONA"), ("Cadiz", 7, "VARIETY_CADIZ"), ("Badajoz", 7, "VARIETY_BADAJOZ"), ("Palma", 7, "VARIETY_MAJORCA"), ("Santander", 6, "-1"), ("Cuenca", 6, "VARIETY_CUENCA"), 
-								("Valencia", 6, "VARIETY_VALENCIA"), ("Malaga", 6, "VARIETY_MALAGA"), ("Valladolid", 6, "VARIETY_VALLADOLID"), ("Cordoba", 6, "VARIETY_CORDOBA"), ("Tortosa", 6, "VARIETY_TORTOSA"), ("Ciudad Real", 6, "-1"), 
-								("La Corunha", 6, "-1"), ("Teruel", 6, "VARIETY_TERUEL"), ("Jaen", 6, "VARIETY_JAEN"), ("Gerona", 6, "VARIETY_GERONA"), ("Lleida", 5, "VARIETY_LLEIDA"), ("Ciudad Rodrigo", 5, "VARIETY_RODRIGO"), 
-								("Alicante", 5, "VARIETY_ALICANTE"), ("Tarrega", 5, "-1"), ("Alcantara", 5, "VARIETY_ALCANTARA"), ("Huesca", 5, "VARIETY_HUESCA"), ("Pamplona", 5, "VARIETY_PAMPLONA"), ("Caceres", 5, "VARIETY_CACERES"), 
-								("Almeria", 5, "VARIETY_ALMERIA"), ("Gibraltar", 5, "VARIETY_GIBRALTAR"), ("Bilbao", 5, "VARIETY_BILBAO")],
+                                     ("Barcelona", 7, "VARIETY_BARCELONA"), ("Cartagena", 7, "VARIETY_CARTAGENA"), ("Guadalajara", 7, "VARIETY_GUADALAJARA"), ("Oviedo", 7, "-1"), ("Leon", 7, "VARIETY_LEON"), ("Burgos", 7, "VARIETY_BURGOS"), 
+                                                                ("Tarragona", 7, "VARIETY_TARRAGONA"), ("Cadiz", 7, "VARIETY_CADIZ"), ("Badajoz", 7, "VARIETY_BADAJOZ"), ("Palma", 7, "VARIETY_MAJORCA"), ("Santander", 6, "-1"), ("Cuenca", 6, "VARIETY_CUENCA"), 
+                                                                ("Valencia", 6, "VARIETY_VALENCIA"), ("Malaga", 6, "VARIETY_MALAGA"), ("Valladolid", 6, "VARIETY_VALLADOLID"), ("Cordoba", 6, "VARIETY_CORDOBA"), ("Tortosa", 6, "VARIETY_TORTOSA"), ("Ciudad Real", 6, "-1"), 
+                                                                ("La Corunha", 6, "-1"), ("Teruel", 6, "VARIETY_TERUEL"), ("Jaen", 6, "VARIETY_JAEN"), ("Gerona", 6, "VARIETY_GERONA"), ("Lleida", 5, "VARIETY_LLEIDA"), ("Ciudad Rodrigo", 5, "VARIETY_RODRIGO"), 
+                                                                ("Alicante", 5, "VARIETY_ALICANTE"), ("Tarrega", 5, "-1"), ("Alcantara", 5, "VARIETY_ALCANTARA"), ("Huesca", 5, "VARIETY_HUESCA"), ("Pamplona", 5, "VARIETY_PAMPLONA"), ("Caceres", 5, "VARIETY_CACERES"), 
+                                                                ("Almeria", 5, "VARIETY_ALMERIA"), ("Gibraltar", 5, "VARIETY_GIBRALTAR"), ("Bilbao", 5, "VARIETY_BILBAO")],
 'LEADER_FRANCO'				: [("Madrid", 10, "VARIETY_MADRID"), ("Barcelona", 9, "VARIETY_BARCELONA"), ("Valencia", 8, "VARIETY_VALENCIA"), ("Seville", 8, "VARIETY_SEVILLE"), ("Zaragoza", 8, "VARIETY_ZARAGOZA"), ("Bilbao", 8, "VARIETY_BILBAO"), 
-								("Malaga", 8, "VARIETY_MALAGA"), ("Las Palmas", 7, "-1"), ("Murcia", 7, "VARIETY_MURCIA"), ("L'Hospitalet de Llobregat", 7, "-1"), ("Valladolid", 7, "VARIETY_VALLADOLID"), ("Cordoba", 7, "VARIETY_CORDOBA"), 
-								("Palma", 7, "VARIETY_MAJORCA"), ("Vigo", 6, "-1"), ("A Coruna", 6, "-1"), ("Granada", 6, "VARIETY_GRANADA"), ("Gijon", 6, "-1"), ("Alicante", 6, "VARIETY_ALICANTE"), ("Badalona", 6, "VARIETY_BADALONA"), 
-								("San Sebastian", 6, "VARIETY_SANSEBASTIAN"), ("Sabadell", 6, "VARIETY_SABADELL"), ("Oviedo", 6, "-1"), ("Jerez", 5, "VARIETY_JEREZ"), ("Santander", 5, "-1"), ("Pamplona", 5, "VARIETY_PAMPLONA"), 
-								("Cartagena", 5, "VARIETY_CARTAGENA"), ("Santa Cruz", 5, "-1"), ("Terrassa", 5, "VARIETY_TERRASSA"), ("Cadiz", 5, "VARIETY_CADIZ"), ("Vitoria-Gasteiz", 5, "VARIETY_VITORIA"), ("Elx", 4, "VARIETY_ELX"), 
-								("Salamanca", 4, "VARIETY_SALAMANCA"), ("Burgos", 4, "VARIETY_BURGOS"), ("Almeria", 4, "VARIETY_ALMERIA"), ("Leon", 4, "VARIETY_LEON"), ("Badajoz", 4, "VARIETY_BADAJOZ")],
+                                                  ("Malaga", 8, "VARIETY_MALAGA"), ("Las Palmas", 7, "-1"), ("Murcia", 7, "VARIETY_MURCIA"), ("L'Hospitalet de Llobregat", 7, "-1"), ("Valladolid", 7, "VARIETY_VALLADOLID"), ("Cordoba", 7, "VARIETY_CORDOBA"), 
+                                                                ("Palma", 7, "VARIETY_MAJORCA"), ("Vigo", 6, "-1"), ("A Coruna", 6, "-1"), ("Granada", 6, "VARIETY_GRANADA"), ("Gijon", 6, "-1"), ("Alicante", 6, "VARIETY_ALICANTE"), ("Badalona", 6, "VARIETY_BADALONA"), 
+                                                                ("San Sebastian", 6, "VARIETY_SANSEBASTIAN"), ("Sabadell", 6, "VARIETY_SABADELL"), ("Oviedo", 6, "-1"), ("Jerez", 5, "VARIETY_JEREZ"), ("Santander", 5, "-1"), ("Pamplona", 5, "VARIETY_PAMPLONA"), 
+                                                                ("Cartagena", 5, "VARIETY_CARTAGENA"), ("Santa Cruz", 5, "-1"), ("Terrassa", 5, "VARIETY_TERRASSA"), ("Cadiz", 5, "VARIETY_CADIZ"), ("Vitoria-Gasteiz", 5, "VARIETY_VITORIA"), ("Elx", 4, "VARIETY_ELX"), 
+                                                                ("Salamanca", 4, "VARIETY_SALAMANCA"), ("Burgos", 4, "VARIETY_BURGOS"), ("Almeria", 4, "VARIETY_ALMERIA"), ("Leon", 4, "VARIETY_LEON"), ("Badajoz", 4, "VARIETY_BADAJOZ")],
 'LEADER_ISABELLA'			: [("Toledo", 10, "VARIETY_TOLEDO"), ("Salamanca", 9, "VARIETY_SALAMANCA"), ("Seville", 9, "VARIETY_SEVILLE"), ("Madrid", 8, "VARIETY_MADRID"), ("Zaragoza", 8, "VARIETY_ZARAGOZA"), ("Granada", 7, "VARIETY_GRANADA"), 
-								("Barcelona", 7, "VARIETY_BARCELONA"), ("Cartagena", 7, "VARIETY_CARTAGENA"), ("Napoles", 7, "VARIETY_NAPLES"), ("Oviedo", 7, "-1"), ("Leon", 7, "VARIETY_LEON"), ("Burgos", 7, "VARIETY_BURGOS"), 
-								("Tarragona", 7, "VARIETY_TARRAGONA"), ("Cadiz", 7, "VARIETY_CADIZ"), ("Badajoz", 7, "VARIETY_BADAJOZ"), ("Perpinya", 7, "VARIETY_PERPIGNAN"), ("Santander", 6, "-1"), ("Cuenca", 6, "VARIETY_CUENCA"), 
-								("Valencia", 6, "VARIETY_VALENCIA"), ("Palermo", 6, "VARIETY_PALERMO"), ("Valladolid", 6, "VARIETY_VALLADOLID"), ("Cordoba", 6, "VARIETY_CORDOBA"), ("Messina", 6, "VARIETY_MESSINA"), ("Ciudad Real", 6, "-1"), 
-								("La Corunha", 6, "-1"), ("Teruel", 6, "VARIETY_TERUEL"), ("Jaen", 6, "VARIETY_JAEN"), ("Gerona", 6, "VARIETY_GERONA"), ("Syracuse", 5, "VARIETY_SYRACUSE"), ("Bari", 5, "VARIETY_BARI"), ("Alicante", 5, "VARIETY_ALICANTE"), 
-								("Tarrega", 5, "-1"), ("Aguila", 5, "VARIETY_AQUILA"), ("Huesca", 5, "VARIETY_HUESCA"), ("Pamplona", 5, "VARIETY_PAMPLONA"), ("Caceres", 5, "VARIETY_CACERES"), ("Almeria", 5, "VARIETY_ALMERIA"), 
-								("Gibraltar", 5, "VARIETY_GIBRALTAR"), ("Bilbao", 5, "VARIETY_BILBAO")],
+                                            ("Barcelona", 7, "VARIETY_BARCELONA"), ("Cartagena", 7, "VARIETY_CARTAGENA"), ("Napoles", 7, "VARIETY_NAPLES"), ("Oviedo", 7, "-1"), ("Leon", 7, "VARIETY_LEON"), ("Burgos", 7, "VARIETY_BURGOS"), 
+                                                                ("Tarragona", 7, "VARIETY_TARRAGONA"), ("Cadiz", 7, "VARIETY_CADIZ"), ("Badajoz", 7, "VARIETY_BADAJOZ"), ("Perpinya", 7, "VARIETY_PERPIGNAN"), ("Santander", 6, "-1"), ("Cuenca", 6, "VARIETY_CUENCA"), 
+                                                                ("Valencia", 6, "VARIETY_VALENCIA"), ("Palermo", 6, "VARIETY_PALERMO"), ("Valladolid", 6, "VARIETY_VALLADOLID"), ("Cordoba", 6, "VARIETY_CORDOBA"), ("Messina", 6, "VARIETY_MESSINA"), ("Ciudad Real", 6, "-1"), 
+                                                                ("La Corunha", 6, "-1"), ("Teruel", 6, "VARIETY_TERUEL"), ("Jaen", 6, "VARIETY_JAEN"), ("Gerona", 6, "VARIETY_GERONA"), ("Syracuse", 5, "VARIETY_SYRACUSE"), ("Bari", 5, "VARIETY_BARI"), ("Alicante", 5, "VARIETY_ALICANTE"), 
+                                                                ("Tarrega", 5, "-1"), ("Aguila", 5, "VARIETY_AQUILA"), ("Huesca", 5, "VARIETY_HUESCA"), ("Pamplona", 5, "VARIETY_PAMPLONA"), ("Caceres", 5, "VARIETY_CACERES"), ("Almeria", 5, "VARIETY_ALMERIA"), 
+                                                                ("Gibraltar", 5, "VARIETY_GIBRALTAR"), ("Bilbao", 5, "VARIETY_BILBAO")],
 # Transoxiana
 'LEADER_DURRANI'			: [("Kandahar", 10, "VARIETY_KANDAHAR"), ("Kabul", 9, "-1"), ("Herat", 9, "VARIETY_HERAT"), ("Mashhad", 9, "-1"), ("Peshawar", 8, "-1"), ("Karachi", 8, "VARIETY_MOHENJO-DARO"), ("Bahawalpur", 7, "-1"), ("Sistan", 7, "-1"), 
-								("Balkh", 7, "VARIETY_BALKH"), ("Nishapur", 7, "-1"), ("Quetta", 7, "-1"), ("Gujranwala", 7, "-1"), ("Bikaner", 7, "-1"), ("Amritsar", 6, "-1"), ("Panipat", 6, "-1"), ("Lahore", 6, "-1"),	("Zaranj", 6, "-1"), 
-								("Ghazni", 6, "VARIETY_GHAZNI"), ("Mazar-i-Sharif", 6, "-1"), ("Farah", 6, "-1"), ("Maymana", 6, "-1"), ("Kunduz", 6, "-1"), ("Jalalabad", 6, "VARIETY_JALALABAD"), ("Multan", 6, "VARIETY_HARAPPAN"), ("Kalat", 6, "-1"), 
-								("Bela", 5, "VARIETY_BELA"), ("Kharan", 5, "-1"), ("Sibi", 5, "-1"), ("Loralai", 5, "-1"), ("Girishk", 5, "-1"), ("Muqur", 5, "-1"), ("Sialkot", 5, "VARIETY_SIALKOT"), ("Srinagar", 5, "-1"), ("Chitral", 5, "-1"), 
-								("Jhelum", 5, "-1"), ("Sabzevar", 5, "-1")],
+                                           ("Balkh", 7, "VARIETY_BALKH"), ("Nishapur", 7, "-1"), ("Quetta", 7, "-1"), ("Gujranwala", 7, "-1"), ("Bikaner", 7, "-1"), ("Amritsar", 6, "-1"), ("Panipat", 6, "-1"), ("Lahore", 6, "-1"),	("Zaranj", 6, "-1"), 
+                                                                ("Ghazni", 6, "VARIETY_GHAZNI"), ("Mazar-i-Sharif", 6, "-1"), ("Farah", 6, "-1"), ("Maymana", 6, "-1"), ("Kunduz", 6, "-1"), ("Jalalabad", 6, "VARIETY_JALALABAD"), ("Multan", 6, "VARIETY_HARAPPAN"), ("Kalat", 6, "-1"), 
+                                                                ("Bela", 5, "VARIETY_BELA"), ("Kharan", 5, "-1"), ("Sibi", 5, "-1"), ("Loralai", 5, "-1"), ("Girishk", 5, "-1"), ("Muqur", 5, "-1"), ("Sialkot", 5, "VARIETY_SIALKOT"), ("Srinagar", 5, "-1"), ("Chitral", 5, "-1"), 
+                                                                ("Jhelum", 5, "-1"), ("Sabzevar", 5, "-1")],
 'LEADER_DEMETRIUS_OF_BACTRIA'	: [("Bactra", 10, "VARIETY_BALKH"), ("Maracanda", 9, "VARIETY_SAMARKAND"), ("Taxila", 8, "VARIETY_KUSHANS"), ("Demetrias", 8, "-1"), ("Ujjain", 7, "-1"), ("Pataliputra", 7, "-1"), ("Barygaza", 7, "VARIETY_BARYGAZA"), 
-								("Alexandria Margiana", 7, "VARIETY_MARGIANA"), ("Hecatompylos", 7, "VARIETY_HECATOMPYLOS"), ("Alexandria Eschate", 7, "VARIETY_KHUJAND"), ("Alexandria on the Oxus", 7, "VARIETY_KHANOUM"), 
-								("Alexandria Arachosia", 7, "VARIETY_KANDAHAR"), ("Sagala", 7, "VARIETY_SIALKOT"), ("Mathura", 6, "-1"), ("Eucratideia", 6, "-1"), ("Alexandria on the Indus", 6, "VARIETY_UCH"), 
-								("Saketa", 6, "-1"), ("Dalverzin Tepe", 6, "-1"), ("Takhti-Sangin", 6, "-1"), ("Saksanokhur", 6, "-1"), ("Surkh Kotal", 6, "-1"), ("Drapsaka", 6, "-1"), ("Tillya Tepe", 6, "-1"), ("Peucela", 6, "-1"), 
-								("Sirkap", 6, "-1"), ("Kapisi", 5, "-1"), ("Pura", 5, "-1"), ("Emshi Tepe", 5, "-1"), ("Sheberghan", 5, "-1"), ("Kilif", 5, "-1"), ("Kampyr Tepe", 5, "-1"), ("Kobadian", 5, "-1"), ("Aornos", 4, "-1"), 
-								("Gandaris", 4, "-1"), ("Biyt", 4, "-1"), ("Pharsana", 4, "-1"), ("Chorochoad", 4, "-1")],
+                                        ("Alexandria Margiana", 7, "VARIETY_MARGIANA"), ("Hecatompylos", 7, "VARIETY_HECATOMPYLOS"), ("Alexandria Eschate", 7, "VARIETY_KHUJAND"), ("Alexandria on the Oxus", 7, "VARIETY_KHANOUM"), 
+                                                                ("Alexandria Arachosia", 7, "VARIETY_KANDAHAR"), ("Sagala", 7, "VARIETY_SIALKOT"), ("Mathura", 6, "-1"), ("Eucratideia", 6, "-1"), ("Alexandria on the Indus", 6, "VARIETY_UCH"), 
+                                                                ("Saketa", 6, "-1"), ("Dalverzin Tepe", 6, "-1"), ("Takhti-Sangin", 6, "-1"), ("Saksanokhur", 6, "-1"), ("Surkh Kotal", 6, "-1"), ("Drapsaka", 6, "-1"), ("Tillya Tepe", 6, "-1"), ("Peucela", 6, "-1"), 
+                                                                ("Sirkap", 6, "-1"), ("Kapisi", 5, "-1"), ("Pura", 5, "-1"), ("Emshi Tepe", 5, "-1"), ("Sheberghan", 5, "-1"), ("Kilif", 5, "-1"), ("Kampyr Tepe", 5, "-1"), ("Kobadian", 5, "-1"), ("Aornos", 4, "-1"), 
+                                                                ("Gandaris", 4, "-1"), ("Biyt", 4, "-1"), ("Pharsana", 4, "-1"), ("Chorochoad", 4, "-1")],
 'LEADER_ISMAIL_SAMANI'		: [("Bukhara", 10, "-1"), ("Samarkand", 9, "VARIETY_SAMARKAND"), ("Nishapur", 8, "-1"), ("Herat", 8, "VARIETY_HERAT"), ("Balkh", 8, "VARIETY_BALKH"), ("Chach", 7, "VARIETY_TASHKENT"), ("Fergana", 7, "VARIETY_FERGANA"), 
-								("Kerman", 7, "-1"), ("Nishapur", 7, "-1"), ("Tus", 7, "VARIETY_TUS"), ("Merv", 7, "VARIETY_MERV"), ("Gurganj", 7, "VARIETY_URGENCH"), ("Kath", 7, "-1"), ("Kabul", 7, "-1"), ("Sarakhs", 6, "-1"), ("Ghazni", 6, "VARIETY_GHAZNI"), 
-								("Farava", 6, "-1"), ("Isfijab", 6, "VARIETY_SAYRAM"), ("Bost", 6, "-1"), ("Binkath", 6, "-1"), ("Sistan", 6, "-1"), ("Isfahan", 6, "VARIETY_ISFAHAN"), ("Zaranj", 6, "-1"), ("Chardzhou", 6, "-1"), ("Qazvin", 6, "-1"), 
-								("Sabzevar", 6, "-1"), ("Tunkath", 5, "-1"), ("Bunjikath", 5, "-1"), ("Talas", 5, "-1"), ("Rey", 5, "VARIETY_REY"), ("Sari", 5, "-1"), ("Mashhad", 5, "-1"), ("Bamiyan", 5, "-1"), ("Khujand", 5, "VARIETY_KHUJAND"), 
-								("Kunduz", 5, "-1"), ("Kesh", 5, "VARIETY_SHAHRISABZ")],
+                                         ("Kerman", 7, "-1"), ("Nishapur", 7, "-1"), ("Tus", 7, "VARIETY_TUS"), ("Merv", 7, "VARIETY_MERV"), ("Gurganj", 7, "VARIETY_URGENCH"), ("Kath", 7, "-1"), ("Kabul", 7, "-1"), ("Sarakhs", 6, "-1"), ("Ghazni", 6, "VARIETY_GHAZNI"), 
+                                                                ("Farava", 6, "-1"), ("Isfijab", 6, "VARIETY_SAYRAM"), ("Bost", 6, "-1"), ("Binkath", 6, "-1"), ("Sistan", 6, "-1"), ("Isfahan", 6, "VARIETY_ISFAHAN"), ("Zaranj", 6, "-1"), ("Chardzhou", 6, "-1"), ("Qazvin", 6, "-1"), 
+                                                                ("Sabzevar", 6, "-1"), ("Tunkath", 5, "-1"), ("Bunjikath", 5, "-1"), ("Talas", 5, "-1"), ("Rey", 5, "VARIETY_REY"), ("Sari", 5, "-1"), ("Mashhad", 5, "-1"), ("Bamiyan", 5, "-1"), ("Khujand", 5, "VARIETY_KHUJAND"), 
+                                                                ("Kunduz", 5, "-1"), ("Kesh", 5, "VARIETY_SHAHRISABZ")],
 'LEADER_MITHRIDATES_I_PARTHIA'	: [("Mithradatkirt", 10, "VARIETY_NISA"), ("Merv", 8, "VARIETY_MERV"), ("Bactra", 8, "VARIETY_BALKH"), ("Persepolis", 8, "VARIETY_PERSEPOLIS"), ("Seleukia", 7, "VARIETY_BAGHDAD"), ("Ecbatana", 9, "VARIETY_HAMADAN"), 
-								("Susa", 7, "VARIETY_SHUSH"), ("Apamea", 7, "-1"), ("Hecatompylos", 7, "VARIETY_HECATOMPYLOS"), ("Areia", 7, "VARIETY_HERAT"), ("Gabae", 7, "VARIETY_ISFAHAN"), ("Arshak", 9, "VARIETY_REY"), ("Farah", 6, "-1"), 
-								("Sigal", 6, "-1"), ("Arachote", 6, "-1"), ("Alexandria Arachosia", 6, "VARIETY_KANDAHAR"), ("Urmia", 6, "VARIETY_URMIA"), ("Hatra", 6, "-1"), ("Epardus", 6, "-1"), ("Artemita", 6, "-1"), ("Kangavar", 6, "-1"), 
-								("Nineveh", 6, "VARIETY_ASSYRIAN"), ("Saramana", 6, "-1"), ("Syrinx", 6, "-1"), ("Tambrax", 6, "-1"), ("Traxiane", 6, "-1"), ("Zabdicene", 5, "-1"), ("Uruk", 5, "-1"), ("Praaspa", 5, "-1"), ("Nisaia", 5, "-1"), 
-								("Carrhae", 5, "VARIETY_CARRHAE"), ("Borsippa", 5, "-1"), ("Arbela", 5, "VARIETY_ARBELA"), ("Bam", 5, "-1"), ("Dara", 5, "-1")],
+                                         ("Susa", 7, "VARIETY_SHUSH"), ("Apamea", 7, "-1"), ("Hecatompylos", 7, "VARIETY_HECATOMPYLOS"), ("Areia", 7, "VARIETY_HERAT"), ("Gabae", 7, "VARIETY_ISFAHAN"), ("Arshak", 9, "VARIETY_REY"), ("Farah", 6, "-1"), 
+                                                                ("Sigal", 6, "-1"), ("Arachote", 6, "-1"), ("Alexandria Arachosia", 6, "VARIETY_KANDAHAR"), ("Urmia", 6, "VARIETY_URMIA"), ("Hatra", 6, "-1"), ("Epardus", 6, "-1"), ("Artemita", 6, "-1"), ("Kangavar", 6, "-1"), 
+                                                                ("Nineveh", 6, "VARIETY_ASSYRIAN"), ("Saramana", 6, "-1"), ("Syrinx", 6, "-1"), ("Tambrax", 6, "-1"), ("Traxiane", 6, "-1"), ("Zabdicene", 5, "-1"), ("Uruk", 5, "-1"), ("Praaspa", 5, "-1"), ("Nisaia", 5, "-1"), 
+                                                                ("Carrhae", 5, "VARIETY_CARRHAE"), ("Borsippa", 5, "-1"), ("Arbela", 5, "VARIETY_ARBELA"), ("Bam", 5, "-1"), ("Dara", 5, "-1")],
 'LEADER_TIMUR'				: [("Samarkand", 10, "VARIETY_SAMARKAND"), ("Herat", 9, "VARIETY_HERAT"), ("Baghdad", 9, "VARIETY_BAGHDAD"), ("Nishapur", 8, "-1"), ("Isfahan", 8, "VARIETY_ISFAHAN"), ("Tabriz", 7, "-1"), ("Hormuz", 7, "VARIETY_HORMUZ"), 
-								("Balkh", 7, "VARIETY_BALKH"), ("Bukhara", 7, "-1"), ("Ghazni", 7, "VARIETY_GHAZNI"), ("Merv", 7, "VARIETY_MERV"), ("Tus", 7, "VARIETY_TUS"), ("Shahrisabz", 7, "VARIETY_SHAHRISABZ"), ("Kashgar", 6, "VARIETY_KASHGAR"), ("Urgench", 6, "VARIETY_URGENCH"), ("Peshawar", 6, "-1"), ("Lahore", 6, "-1"), ("Multan", 6, "VARIETY_HARAPPAN"), ("Zaranj", 6, "-1"), ("Kerman", 6, "-1"), ("Shiraz", 6, "VARIETY_SHIRAZ"), ("Hamadan", 6, "VARIETY_HAMADAN"), 
-								("Tiflis", 6, "VARIETY_TBILISI"), ("Mosul", 6, "VARIETY_ASSYRIAN"), ("Rey", 6, "VARIETY_REY"), ("Mashhad", 5, "-1"), ("Tehran", 5, "VARIETY_TEHRAN"), ("Maragheh", 5, "-1"), ("Resht", 5, "-1"), ("Qazvin", 5, "-1"), 
-								("Taloqan", 5, "-1"), ("Fergana", 5, "VARIETY_FERGANA"), ("Mazar-i-Sharif", 5, "-1"), ("Gorgan", 5, "VARIETY_GORGAN"), ("Damghan", 5, "-1"), ("Khiva", 5, "-1")],
+                                                 ("Balkh", 7, "VARIETY_BALKH"), ("Bukhara", 7, "-1"), ("Ghazni", 7, "VARIETY_GHAZNI"), ("Merv", 7, "VARIETY_MERV"), ("Tus", 7, "VARIETY_TUS"), ("Shahrisabz", 7, "VARIETY_SHAHRISABZ"), ("Kashgar", 6, "VARIETY_KASHGAR"), ("Urgench", 6, "VARIETY_URGENCH"), ("Peshawar", 6, "-1"), ("Lahore", 6, "-1"), ("Multan", 6, "VARIETY_HARAPPAN"), ("Zaranj", 6, "-1"), ("Kerman", 6, "-1"), ("Shiraz", 6, "VARIETY_SHIRAZ"), ("Hamadan", 6, "VARIETY_HAMADAN"), 
+                                                                ("Tiflis", 6, "VARIETY_TBILISI"), ("Mosul", 6, "VARIETY_ASSYRIAN"), ("Rey", 6, "VARIETY_REY"), ("Mashhad", 5, "-1"), ("Tehran", 5, "VARIETY_TEHRAN"), ("Maragheh", 5, "-1"), ("Resht", 5, "-1"), ("Qazvin", 5, "-1"), 
+                                                                ("Taloqan", 5, "-1"), ("Fergana", 5, "VARIETY_FERGANA"), ("Mazar-i-Sharif", 5, "-1"), ("Gorgan", 5, "VARIETY_GORGAN"), ("Damghan", 5, "-1"), ("Khiva", 5, "-1")],
 'LEADER_ULUGHBEG'			: [("Samarkand", 10, "VARIETY_SAMARKAND"), ("Bukhara", 9, "-1"), ("Herat", 8, "VARIETY_HERAT"), ("Urgench", 8, "VARIETY_URGENCH"), ("Kokand", 8, "-1"), ("Chach", 7, "VARIETY_TASHKENT"), ("Khiva", 7, "-1"), ("Mashhad", 7, "-1"), 
-								("Hormuz", 7, "VARIETY_HORMUZ"), ("Balkh", 7, "VARIETY_BALKH"), ("Merv", 7, "VARIETY_MERV"), ("Maymana", 7, "-1"), ("Ahangaran", 7, "-1"), ("Shahrisabz", 6, "VARIETY_SHAHRISABZ"), ("Kulob", 6, "-1"), ("Charjuy", 6, "-1"), 
-								("Khujand", 6, "VARIETY_KHUJAND"), ("Birjand", 6, "-1"), ("Bamyan", 6, "-1"), ("Sarakhs", 5, "-1"), ("Kunduz", 5, "-1"), ("Termez", 5, "-1"), ("Qarshi", 5, "-1"), ("Ferah", 5, "-1"), ("Chimkent", 4, "-1"), ("Tabas", 4, "-1"), 
-								("Ghuriyan", 4, "-1"), ("Kyzyl Suu", 4, "-1"), ("Konjikala", 4, "-1"), ("Gurganj", 4, "VARIETY_URGENCH"), ("Geok Tepe", 4, "-1"), ("Nisa", 4, "-1"), ("Jask", 4, "-1"), ("Bam", 4, "-1"), ("Tun", 4, "-1"), ("Munjan", 4, "-1")],
+                                            ("Hormuz", 7, "VARIETY_HORMUZ"), ("Balkh", 7, "VARIETY_BALKH"), ("Merv", 7, "VARIETY_MERV"), ("Maymana", 7, "-1"), ("Ahangaran", 7, "-1"), ("Shahrisabz", 6, "VARIETY_SHAHRISABZ"), ("Kulob", 6, "-1"), ("Charjuy", 6, "-1"), 
+                                                                ("Khujand", 6, "VARIETY_KHUJAND"), ("Birjand", 6, "-1"), ("Bamyan", 6, "-1"), ("Sarakhs", 5, "-1"), ("Kunduz", 5, "-1"), ("Termez", 5, "-1"), ("Qarshi", 5, "-1"), ("Ferah", 5, "-1"), ("Chimkent", 4, "-1"), ("Tabas", 4, "-1"), 
+                                                                ("Ghuriyan", 4, "-1"), ("Kyzyl Suu", 4, "-1"), ("Konjikala", 4, "-1"), ("Gurganj", 4, "VARIETY_URGENCH"), ("Geok Tepe", 4, "-1"), ("Nisa", 4, "-1"), ("Jask", 4, "-1"), ("Bam", 4, "-1"), ("Tun", 4, "-1"), ("Munjan", 4, "-1")],
 # Turkey
 'LEADER_ALP_ARSLAN'			: [("Isfahan", 10, "VARIETY_ISFAHAN"), ("Hamadan", 9, "VARIETY_HAMADAN"), ("Merv", 9, "VARIETY_MERV"), ("Konya", 8, "VARIETY_KONYA"), ("Malazgirt", 8, "VARIETY_MANZIKERT"), ("Baghdad", 8, "VARIETY_BAGHDAD"), 
-								("Sam", 7, "VARIETY_DAMASCUS"), ("Kudus", 7, "VARIETY_JERUSALEM"), ("Mecca", 7, "-1"), ("Angora", 7, "VARIETY_ANKARA"), ("Siraz", 6, "VARIETY_SHIRAZ"), ("Herat", 6, "VARIETY_HERAT"), ("Medina", 6, "-1"), 
-								("Tiflis", 6, "VARIETY_TBILISI"), ("Iznik", 6, "VARIETY_NICAEA"), ("Tabriz", 6, "-1"), ("Haleb", 8, "VARIETY_ALEPPO"), ("Antakya", 6, "VARIETY_ANTIOCH"), ("Izmir", 6, "VARIETY_SMYRNA"), ("Nishapur", 6, "-1"), 
-								("Mosul", 6, "VARIETY_ASSYRIAN"), ("Hudavendigar", 5, "VARIETY_BURSA"), ("Izmit", 5, "VARIETY_IZMIT"), ("Muscat", 5, "-1"), ("Siraf", 5, "-1"), ("Basra", 5, "VARIETY_BASRA"), ("Antalya", 4, "VARIETY_ANTALYA"), 
-								("Kastamonu", 4, "VARIETY_TIMONION"), ("Jeddah", 4, "-1"), ("Malatya", 4, "VARIETY_MALATYA"), ("Sivas", 4, "VARIETY_SEBASTIA"), ("Kars", 4, "-1"), ("Beirut", 4, "VARIETY_BEIRUT"), ("Balkh", 4, "VARIETY_BALKH"), 
-								("Efes", 4, "VARIETY_EFES"), ("Erzurum", 4, "VARIETY_KARIN")],
+                                              ("Sam", 7, "VARIETY_DAMASCUS"), ("Kudus", 7, "VARIETY_JERUSALEM"), ("Mecca", 7, "-1"), ("Angora", 7, "VARIETY_ANKARA"), ("Siraz", 6, "VARIETY_SHIRAZ"), ("Herat", 6, "VARIETY_HERAT"), ("Medina", 6, "-1"), 
+                                                                ("Tiflis", 6, "VARIETY_TBILISI"), ("Iznik", 6, "VARIETY_NICAEA"), ("Tabriz", 6, "-1"), ("Haleb", 8, "VARIETY_ALEPPO"), ("Antakya", 6, "VARIETY_ANTIOCH"), ("Izmir", 6, "VARIETY_SMYRNA"), ("Nishapur", 6, "-1"), 
+                                                                ("Mosul", 6, "VARIETY_ASSYRIAN"), ("Hudavendigar", 5, "VARIETY_BURSA"), ("Izmit", 5, "VARIETY_IZMIT"), ("Muscat", 5, "-1"), ("Siraf", 5, "-1"), ("Basra", 5, "VARIETY_BASRA"), ("Antalya", 4, "VARIETY_ANTALYA"), 
+                                                                ("Kastamonu", 4, "VARIETY_TIMONION"), ("Jeddah", 4, "-1"), ("Malatya", 4, "VARIETY_MALATYA"), ("Sivas", 4, "VARIETY_SEBASTIA"), ("Kars", 4, "-1"), ("Beirut", 4, "VARIETY_BEIRUT"), ("Balkh", 4, "VARIETY_BALKH"), 
+                                                                ("Efes", 4, "VARIETY_EFES"), ("Erzurum", 4, "VARIETY_KARIN")],
 'LEADER_BILGE_KHAGAN'		: [("Otuken", 10, "VARIETY_GHUZZ"), ("Hami", 9, "VARIETY_HAMI"), ("Bai Baliq", 9, "-1"), ("Turfan", 8, "VARIETY_HSUNGNU"), ("Semerkant", 8, "VARIETY_SAMARKAND"), ("Kashgar", 8, "VARIETY_KASHGAR"), ("Bukhara", 8, "-1"), ("Suyab", 8, "-1"), 
-								("Otrar", 7, "-1"), ("Cent", 7, "-1"), ("Kahta", 7, "-1"), ("Barkul", 7, "-1"), ("Kucha", 7, "-1"), ("Almalik", 6, "-1"), ("Aksu", 6, "-1"), ("Yarkand", 6, "-1"), ("Hotan", 6, "-1"), ("Talas", 6, "-1"), 
-								("Balkh", 6, "VARIETY_BALKH"), ("Konjikala", 6, "-1"), ("Karasahr", 6, "-1"), ("Beshbalik", 6, "-1"), ("Chach", 6, "VARIETY_TASHKENT"), ("Maymurg", 5, "-1"), ("Kabudan", 5, "-1"), ("Ishtikhon", 5, "-1"), 
-								("Nakhshab", 5, "-1"), ("Paikand", 5, "-1"), ("Dingxiang", 5, "-1"), ("Khocho", 5, "-1"), ("Zhangye", 5, "-1"), ("Itil", 5, "VARIETY_ITIL"), ("Espijab", 4, "-1"), ("Khujand", 4, "VARIETY_KHUJAND"), ("Kath", 4, "-1"), 
-								("Termez", 4, "-1")],
+                                        ("Otrar", 7, "-1"), ("Cent", 7, "-1"), ("Kahta", 7, "-1"), ("Barkul", 7, "-1"), ("Kucha", 7, "-1"), ("Almalik", 6, "-1"), ("Aksu", 6, "-1"), ("Yarkand", 6, "-1"), ("Hotan", 6, "-1"), ("Talas", 6, "-1"), 
+                                                                ("Balkh", 6, "VARIETY_BALKH"), ("Konjikala", 6, "-1"), ("Karasahr", 6, "-1"), ("Beshbalik", 6, "-1"), ("Chach", 6, "VARIETY_TASHKENT"), ("Maymurg", 5, "-1"), ("Kabudan", 5, "-1"), ("Ishtikhon", 5, "-1"), 
+                                                                ("Nakhshab", 5, "-1"), ("Paikand", 5, "-1"), ("Dingxiang", 5, "-1"), ("Khocho", 5, "-1"), ("Zhangye", 5, "-1"), ("Itil", 5, "VARIETY_ITIL"), ("Espijab", 4, "-1"), ("Khujand", 4, "VARIETY_KHUJAND"), ("Kath", 4, "-1"), 
+                                                                ("Termez", 4, "-1")],
 'LEADER_MAHMUD_II'			: [("Kostantiniyye", 10, "VARIETY_CONSTANTINOPLE"), ("Edirne", 9, "VARIETY_EDIRNE"), ("Izmir", 9, "VARIETY_SMYRNA"), ("Iznik", 8, "VARIETY_NICAEA"), ("Selanik", 8, "VARIETY_THESSALONIKI"), ("Baghdad", 8, "VARIETY_BAGHDAD"), 
-								("Haleb", 8, "VARIETY_ALEPPO"), ("Hudavendigar", 7, "VARIETY_BURSA"), ("Iskenderiye", 7, "VARIETY_ALEXANDRIA"), ("Kahire", 7, "VARIETY_CAIRO"), ("Konya", 7, "VARIETY_KONYA"), ("Trabzon", 7, "VARIETY_TREBIZOND"), 
-								("Antakya", 7, "VARIETY_ANTIOCH"), ("Beirut", 6, "VARIETY_BEIRUT"), ("Izmit", 6, "VARIETY_IZMIT"), ("Sofia", 5, "VARIETY_BULGAR"), ("Sivas", 5, "VARIETY_SEBASTIA"), ("Antep", 5, "VARIETY_AINTAB"), 
-								("Erzurum", 5, "VARIETY_KARIN"), ("Kudus", 5, "VARIETY_JERUSALEM"), ("Dumyat", 5, "VARIETY_DAMIETTA"), ("Samsun", 5, "VARIETY_AMISOS"), ("Tunis", 5, "-1"), ("Marsa ibn Ghazi", 4, "VARIETY_BENGHAZI"), 
-								("Trablusgarp", 5, "VARIETY_TRIPOLI"), ("Lefkosa", 4, "VARIETY_NICOSIA"), ("Kars", 4, "-1"), ("Aden", 4, "-1"), ("Tirana", 4, "-1"), ("Van", 4, "VARIETY_VAN"), ("Bender", 4, "-1"), ("Suez", 4, "VARIETY_SUEZ"), 
-								("Sinope", 4, "-1"), ("Angora", 4, "VARIETY_ANKARA"), ("Nis", 4, "VARIETY_NIS"), ("Mecca", 4, "-1")],
+                                             ("Haleb", 8, "VARIETY_ALEPPO"), ("Hudavendigar", 7, "VARIETY_BURSA"), ("Iskenderiye", 7, "VARIETY_ALEXANDRIA"), ("Kahire", 7, "VARIETY_CAIRO"), ("Konya", 7, "VARIETY_KONYA"), ("Trabzon", 7, "VARIETY_TREBIZOND"), 
+                                                                ("Antakya", 7, "VARIETY_ANTIOCH"), ("Beirut", 6, "VARIETY_BEIRUT"), ("Izmit", 6, "VARIETY_IZMIT"), ("Sofia", 5, "VARIETY_BULGAR"), ("Sivas", 5, "VARIETY_SEBASTIA"), ("Antep", 5, "VARIETY_AINTAB"), 
+                                                                ("Erzurum", 5, "VARIETY_KARIN"), ("Kudus", 5, "VARIETY_JERUSALEM"), ("Dumyat", 5, "VARIETY_DAMIETTA"), ("Samsun", 5, "VARIETY_AMISOS"), ("Tunis", 5, "-1"), ("Marsa ibn Ghazi", 4, "VARIETY_BENGHAZI"), 
+                                                                ("Trablusgarp", 5, "VARIETY_TRIPOLI"), ("Lefkosa", 4, "VARIETY_NICOSIA"), ("Kars", 4, "-1"), ("Aden", 4, "-1"), ("Tirana", 4, "-1"), ("Van", 4, "VARIETY_VAN"), ("Bender", 4, "-1"), ("Suez", 4, "VARIETY_SUEZ"), 
+                                                                ("Sinope", 4, "-1"), ("Angora", 4, "VARIETY_ANKARA"), ("Nis", 4, "VARIETY_NIS"), ("Mecca", 4, "-1")],
 'LEADER_MEHMED'				: [("Kostantiniyye", 10, "VARIETY_CONSTANTINOPLE"), ("Hudavendigar", 9, "VARIETY_BURSA"), ("Edirne", 9, "VARIETY_EDIRNE"), ("Izmir", 9, "VARIETY_SMYRNA"), ("Iznik", 8, "VARIETY_NICAEA"), ("Selanik", 8, "VARIETY_THESSALONIKI"), 
-								("Izmit", 8, "VARIETY_IZMIT"), ("Atina", 7, "VARIETY_ATHENS"), ("Konya", 7, "VARIETY_KONYA"), ("Trabzon", 7, "VARIETY_TREBIZOND"), ("Azaq", 7, "VARIETY_AZOV"), ("Uskup", 6, "VARIETY_SKOPJE"), ("Samsun", 6, "VARIETY_AMISOS"), 
-								("Sivas", 6, "VARIETY_SEBASTIA"), ("Iskodra", 6, "VARIETY_ILLYRIA"), ("Yanya", 6, "VARIETY_IOANNINA"), ("Kefe", 6, "VARIETY_KAFFA"), ("Antalya", 6, "VARIETY_ANTALYA"), ("Guzelhisar", 6, "VARIETY_AYDIN"), 
-								("Silifke", 6, "VARIETY_SELEUKEIA"), ("Avlonya", 5, "VARIETY_VLORE"), ("Angora", 5, "VARIETY_ANKARA"), ("Silistre", 5, "VARIETY_SILISTRA"), ("Vidin", 5, "VARIETY_VIDIN"), ("Gelibolu", 5, "VARIETY_GALLIPOLI"), 
-								("Nis", 5, "VARIETY_NIS"), ("Eskisehir", 5, "VARIETY_DORYLAEON"), ("Sofia", 5, "VARIETY_BULGAR"), ("Kastamonu", 5, "VARIETY_TIMONION"), ("Varna", 5, "-1"), ("Saraybosna", 4, "VARIETY_SARAJEVO"), 
-								("Mostar", 4, "-1"), ("Kostence", 4, "VARIETY_CONSTANTA"), ("Filibe", 4, "VARIETY_THRACIAN"), ("Monastir", 4, "-1"), ("Karaman", 4, "VARIETY_LARANDA")],
+                                                  ("Izmit", 8, "VARIETY_IZMIT"), ("Atina", 7, "VARIETY_ATHENS"), ("Konya", 7, "VARIETY_KONYA"), ("Trabzon", 7, "VARIETY_TREBIZOND"), ("Azaq", 7, "VARIETY_AZOV"), ("Uskup", 6, "VARIETY_SKOPJE"), ("Samsun", 6, "VARIETY_AMISOS"), 
+                                                                ("Sivas", 6, "VARIETY_SEBASTIA"), ("Iskodra", 6, "VARIETY_ILLYRIA"), ("Yanya", 6, "VARIETY_IOANNINA"), ("Kefe", 6, "VARIETY_KAFFA"), ("Antalya", 6, "VARIETY_ANTALYA"), ("Guzelhisar", 6, "VARIETY_AYDIN"), 
+                                                                ("Silifke", 6, "VARIETY_SELEUKEIA"), ("Avlonya", 5, "VARIETY_VLORE"), ("Angora", 5, "VARIETY_ANKARA"), ("Silistre", 5, "VARIETY_SILISTRA"), ("Vidin", 5, "VARIETY_VIDIN"), ("Gelibolu", 5, "VARIETY_GALLIPOLI"), 
+                                                                ("Nis", 5, "VARIETY_NIS"), ("Eskisehir", 5, "VARIETY_DORYLAEON"), ("Sofia", 5, "VARIETY_BULGAR"), ("Kastamonu", 5, "VARIETY_TIMONION"), ("Varna", 5, "-1"), ("Saraybosna", 4, "VARIETY_SARAJEVO"), 
+                                                                ("Mostar", 4, "-1"), ("Kostence", 4, "VARIETY_CONSTANTA"), ("Filibe", 4, "VARIETY_THRACIAN"), ("Monastir", 4, "-1"), ("Karaman", 4, "VARIETY_LARANDA")],
 'LEADER_MUSTAFA_KEMAL_ATATURK'	: [("Ankara", 10, "VARIETY_ANKARA"), ("Istanbul", 9, "VARIETY_CONSTANTINOPLE"), ("Izmir", 8, "VARIETY_SMYRNA"), ("Adana", 7, "-1"), ("Bursa", 7, "VARIETY_BURSA"), ("Konya", 7, "VARIETY_KONYA"), ("Gaziantep", 7, "VARIETY_AINTAB"), 
-								("Eskisehir", 6, "VARIETY_DORYLAEON"), ("Kayseri", 6, "VARIETY_HITTITE"), ("Edirne", 6, "VARIETY_EDIRNE"), ("Sivas", 6, "VARIETY_SEBASTIA"), ("Diyarbakir", 6, "VARIETY_AMIDA"), ("Samsun", 7, "VARIETY_AMISOS"), 
-								("Erzurum", 6, "VARIETY_KARIN"), ("Urfa", 6, "VARIETY_EDESSA"), ("Manisa", 6, "VARIETY_MAGNESIA"), ("Trabzon", 5, "VARIETY_TREBIZOND"), ("Marash", 5, "VARIETY_GERMANICIA"), ("Antakya", 5, "VARIETY_ANTIOCH"), 
-								("Malatya", 5, "VARIETY_MALATYA"), ("Silifke", 5, "VARIETY_SELEUKEIA"), ("Balikesir", 5, "VARIETY_BALIKESIR"), ("Kalan", 5, "-1"), ("Kirklareli", 5, "VARIETY_KIRKLARELI"), ("Tarsus", 4, "VARIETY_TARSUS"), 
-								("Adapazari", 4, "VARIETY_ARGILION"), ("Kilis", 4, "-1"), ("Elazig", 4, "VARIETY_CHARPETE"), ("Mardin", 4, "VARIETY_MARIDA"), ("Tokat", 4, "VARIETY_EVDOKIA"), ("Antalya", 4, "VARIETY_ANTALYA"), 
-								("Turgutlu", 4, "-1"), ("Akhisar", 4, "VARIETY_THYATIRA"), ("Kirikkale", 4, "-1"), ("Zonguldak", 4, "-1"), ("Tire", 4, "VARIETY_TYRRHA")],
+                                         ("Eskisehir", 6, "VARIETY_DORYLAEON"), ("Kayseri", 6, "VARIETY_HITTITE"), ("Edirne", 6, "VARIETY_EDIRNE"), ("Sivas", 6, "VARIETY_SEBASTIA"), ("Diyarbakir", 6, "VARIETY_AMIDA"), ("Samsun", 7, "VARIETY_AMISOS"), 
+                                                                ("Erzurum", 6, "VARIETY_KARIN"), ("Urfa", 6, "VARIETY_EDESSA"), ("Manisa", 6, "VARIETY_MAGNESIA"), ("Trabzon", 5, "VARIETY_TREBIZOND"), ("Marash", 5, "VARIETY_GERMANICIA"), ("Antakya", 5, "VARIETY_ANTIOCH"), 
+                                                                ("Malatya", 5, "VARIETY_MALATYA"), ("Silifke", 5, "VARIETY_SELEUKEIA"), ("Balikesir", 5, "VARIETY_BALIKESIR"), ("Kalan", 5, "-1"), ("Kirklareli", 5, "VARIETY_KIRKLARELI"), ("Tarsus", 4, "VARIETY_TARSUS"), 
+                                                                ("Adapazari", 4, "VARIETY_ARGILION"), ("Kilis", 4, "-1"), ("Elazig", 4, "VARIETY_CHARPETE"), ("Mardin", 4, "VARIETY_MARIDA"), ("Tokat", 4, "VARIETY_EVDOKIA"), ("Antalya", 4, "VARIETY_ANTALYA"), 
+                                                                ("Turgutlu", 4, "-1"), ("Akhisar", 4, "VARIETY_THYATIRA"), ("Kirikkale", 4, "-1"), ("Zonguldak", 4, "-1"), ("Tire", 4, "VARIETY_TYRRHA")],
 'LEADER_SULEIMAN'			: [("Kostantiniyye", 10, "VARIETY_CONSTANTINOPLE"), ("Hudavendigar", 9, "VARIETY_BURSA"), ("Edirne", 9, "VARIETY_EDIRNE"), ("Iznik", 8, "VARIETY_NICAEA"), ("Selanik", 8, "VARIETY_THESSALONIKI"), ("Baghdad", 8, "VARIETY_BAGHDAD"), 
-								("Izmir", 8, "VARIETY_SMYRNA"), ("Iskenderiye", 7, "VARIETY_ALEXANDRIA"), ("Kahire", 7, "VARIETY_CAIRO"), ("Konya", 7, "VARIETY_KONYA"), ("Trabzon", 7, "VARIETY_TREBIZOND"), ("Antakya", 7, "VARIETY_ANTIOCH"), 
-								("Izmit", 6, "VARIETY_IZMIT"), ("Haleb", 6, "VARIETY_ALEPPO"), ("Buda", 6, "VARIETY_BUDA"), ("Azaq", 5, "VARIETY_AZOV"), ("Sivas", 5, "VARIETY_SEBASTIA"), ("Antep", 5, "VARIETY_AINTAB"), ("Erzurum", 5, "VARIETY_KARIN"), 
-								("Kudus", 5, "VARIETY_JERUSALEM"), ("Dumyat", 5, "VARIETY_DAMIETTA"), ("Samsun", 5, "VARIETY_AMISOS"), ("Cezayir", 5, "VARIETY_ALGIERS"), ("Tunis", 5, "-1"), ("Trablusgarp", 5, "VARIETY_TRIPOLI"), ("Atina", 5, "VARIETY_ATHENS"), 
-								("Mohac", 5, "VARIETY_MOHACS"), ("Marsa ibn Ghazi", 4, "VARIETY_BENGHAZI"), ("Sam", 4, "VARIETY_DAMASCUS"), ("Kefe", 4, "VARIETY_KAFFA"), ("Angora", 4, "VARIETY_ANKARA"), ("Aden", 4, "-1"), ("Uskup", 4, "VARIETY_SKOPJE"), 
-								("Van", 4, "VARIETY_VAN"), ("Kars", 4, "-1"), ("Akkerman", 4, "VARIETY_AKKERMAN"), ("Sofia", 4, "VARIETY_BULGAR")], 
+                                            ("Izmir", 8, "VARIETY_SMYRNA"), ("Iskenderiye", 7, "VARIETY_ALEXANDRIA"), ("Kahire", 7, "VARIETY_CAIRO"), ("Konya", 7, "VARIETY_KONYA"), ("Trabzon", 7, "VARIETY_TREBIZOND"), ("Antakya", 7, "VARIETY_ANTIOCH"), 
+                                                                ("Izmit", 6, "VARIETY_IZMIT"), ("Haleb", 6, "VARIETY_ALEPPO"), ("Buda", 6, "VARIETY_BUDA"), ("Azaq", 5, "VARIETY_AZOV"), ("Sivas", 5, "VARIETY_SEBASTIA"), ("Antep", 5, "VARIETY_AINTAB"), ("Erzurum", 5, "VARIETY_KARIN"), 
+                                                                ("Kudus", 5, "VARIETY_JERUSALEM"), ("Dumyat", 5, "VARIETY_DAMIETTA"), ("Samsun", 5, "VARIETY_AMISOS"), ("Cezayir", 5, "VARIETY_ALGIERS"), ("Tunis", 5, "-1"), ("Trablusgarp", 5, "VARIETY_TRIPOLI"), ("Atina", 5, "VARIETY_ATHENS"), 
+                                                                ("Mohac", 5, "VARIETY_MOHACS"), ("Marsa ibn Ghazi", 4, "VARIETY_BENGHAZI"), ("Sam", 4, "VARIETY_DAMASCUS"), ("Kefe", 4, "VARIETY_KAFFA"), ("Angora", 4, "VARIETY_ANKARA"), ("Aden", 4, "-1"), ("Uskup", 4, "VARIETY_SKOPJE"), 
+                                                                ("Van", 4, "VARIETY_VAN"), ("Kars", 4, "-1"), ("Akkerman", 4, "VARIETY_AKKERMAN"), ("Sofia", 4, "VARIETY_BULGAR")], 
 # Scandinavia
 'LEADER_CHARLES_XIV_JOHN'	: [("Stockholm", 9, "VARIETY_STOCKHOLM"), ("Oslo", 8, "VARIETY_OSLO"), ("Goteborg", 8, "VARIETY_GOTH"), ("Bergen", 8, "-1"), ("Norrkoping", 7, "VARIETY_NORRKOPING"), ("Karlskrona", 7, "VARIETY_KARLSKRONA"), 
-								("Malmo", 7, "VARIETY_MALMO"), ("Gavle", 7, "VARIETY_GAVLE"), ("Uppsala", 6, "-1"), ("Lund", 6, "-1"), ("Kalmar", 6, "VARIETY_KALMAR"), ("Jonkoping", 6, "VARIETY_JONKOPING"), ("Kristianstad", 6, "-1"), 
-								("Tromso", 6, "VARIETY_TROMSO"), ("Ystad", 5, "VARIETY_YSTAD"), ("Karlshamn", 5, "-1"), ("Linkoping", 5, "VARIETY_LINKOPING"), ("Falun", 5, "-1"), ("Visby", 5, "-1"), ("Vastervik", 5, "-1"), ("Hammerfest", 5, "-1"), 
-								("Stavanger", 5, "-1"), ("Landskrona", 5, "VARIETY_LANDSKRONA"), ("Uddevalla", 5, "-1")],
+                                    ("Malmo", 7, "VARIETY_MALMO"), ("Gavle", 7, "VARIETY_GAVLE"), ("Uppsala", 6, "-1"), ("Lund", 6, "-1"), ("Kalmar", 6, "VARIETY_KALMAR"), ("Jonkoping", 6, "VARIETY_JONKOPING"), ("Kristianstad", 6, "-1"), 
+                                                                ("Tromso", 6, "VARIETY_TROMSO"), ("Ystad", 5, "VARIETY_YSTAD"), ("Karlshamn", 5, "-1"), ("Linkoping", 5, "VARIETY_LINKOPING"), ("Falun", 5, "-1"), ("Visby", 5, "-1"), ("Vastervik", 5, "-1"), ("Hammerfest", 5, "-1"), 
+                                                                ("Stavanger", 5, "-1"), ("Landskrona", 5, "VARIETY_LANDSKRONA"), ("Uddevalla", 5, "-1")],
 'LEADER_CHRISTIAN_IV'		: [("Copenhagen", 9, "VARIETY_COPENHAGEN"), ("Christiania", 7, "VARIETY_OSLO"), ("Helsingborg", 8, "-1"), ("Bergen", 8, "-1"), ("Aarhus", 8, "VARIETY_JUTE"), ("Altona", 7, "-1"), ("Malmo", 8, "VARIETY_MALMO"), ("Odense", 7, "-1"), 
-								("Roskilde", 7, "-1"), ("Aalborg", 7, "-1"), ("Viborg", 7, "-1"), ("Lund", 6, "-1"), ("Ribe", 6, "-1"), ("Ystad", 6, "VARIETY_YSTAD"), ("Plon", 6, "-1"), ("Trondheim", 6, "VARIETY_TRONDHEIM"), ("Vejle", 6, "-1"), 
-								("Landskrona", 6, "VARIETY_LANDSKRONA"), ("Kolding", 6, "-1"), ("Fredrikstad", 5, "-1"), ("Tonsberg", 5, "-1"), ("Stavanger", 5, "-1"), ("Lykstad", 5, "VARIETY_GLUCKSTADT"), ("Kristianstad", 5, "-1"), ("Halmstad", 5, "-1"), 
-								("Kongelf", 5, "-1"), ("Arensburg", 5, "-1"), ("Randers", 5, "-1"), ("Hjorring", 5, "-1"), ("Reykjavik", 5, "-1"), ("Frederiksort", 4, "-1"), ("Christianopel", 4, "-1"), ("Kongsberg", 4, "-1"), ("Roros", 4, "-1")],
+                                        ("Roskilde", 7, "-1"), ("Aalborg", 7, "-1"), ("Viborg", 7, "-1"), ("Lund", 6, "-1"), ("Ribe", 6, "-1"), ("Ystad", 6, "VARIETY_YSTAD"), ("Plon", 6, "-1"), ("Trondheim", 6, "VARIETY_TRONDHEIM"), ("Vejle", 6, "-1"), 
+                                                                ("Landskrona", 6, "VARIETY_LANDSKRONA"), ("Kolding", 6, "-1"), ("Fredrikstad", 5, "-1"), ("Tonsberg", 5, "-1"), ("Stavanger", 5, "-1"), ("Lykstad", 5, "VARIETY_GLUCKSTADT"), ("Kristianstad", 5, "-1"), ("Halmstad", 5, "-1"), 
+                                                                ("Kongelf", 5, "-1"), ("Arensburg", 5, "-1"), ("Randers", 5, "-1"), ("Hjorring", 5, "-1"), ("Reykjavik", 5, "-1"), ("Frederiksort", 4, "-1"), ("Christianopel", 4, "-1"), ("Kongsberg", 4, "-1"), ("Roros", 4, "-1")],
 'LEADER_GUSTAV_ADOLF_II'	: [("Stockholm", 9, "VARIETY_STOCKHOLM"), ("Malmo", 8, "VARIETY_MALMO"), ("Reval", 8, "VARIETY_TALLINN"), ("Abo", 8, "VARIETY_TURKU"), ("Riga", 8, "VARIETY_RIGA"), ("Nykoping", 7, "VARIETY_NYKOPING"), 
-								("Norrkoping", 7, "VARIETY_NORRKOPING"), ("Uppsala", 7, "-1"), ("Visby", 7, "-1"), ("Gavle", 6, "VARIETY_GAVLE"), ("Arboga", 6, "-1"), ("Kalmar", 6, "VARIETY_KALMAR"), ("Goteborg", 6, "VARIETY_GOTH"), 
-								("Ystad", 6, "VARIETY_YSTAD"), ("Dorpat", 6, "VARIETY_TARTU"), ("Helsingfors", 5, "VARIETY_HELSINKI"), ("Soderkoping", 5, "-1"), ("Jonkoping", 5, "VARIETY_JONKOPING"), ("Lund", 5, "-1"), ("Vadstena", 5, "-1"), 
-								("Linkoping", 5, "VARIETY_LINKOPING"), ("Viborg", 5, "VARIETY_VYBORG"), ("Landskrona", 4, "VARIETY_LANDSKRONA"), ("Vasteras", 4, "VARIETY_VASTERAS"), ("Vaxjo", 4, "VARIETY_VAXJO"), ("Helsingborg", 4, "-1"), 
-								("Raumo", 4, "VARIETY_RAUMO"), ("Falun", 4, "-1"), ("Umea", 4, "-1"), ("Sundsvall", 3, "-1"), ("Lulea", 3, "-1"), ("Uleaborg", 3, "VARIETY_OULU"), ("Wasa", 3, "VARIETY_VAASA")],	
+                                   ("Norrkoping", 7, "VARIETY_NORRKOPING"), ("Uppsala", 7, "-1"), ("Visby", 7, "-1"), ("Gavle", 6, "VARIETY_GAVLE"), ("Arboga", 6, "-1"), ("Kalmar", 6, "VARIETY_KALMAR"), ("Goteborg", 6, "VARIETY_GOTH"), 
+                                                                ("Ystad", 6, "VARIETY_YSTAD"), ("Dorpat", 6, "VARIETY_TARTU"), ("Helsingfors", 5, "VARIETY_HELSINKI"), ("Soderkoping", 5, "-1"), ("Jonkoping", 5, "VARIETY_JONKOPING"), ("Lund", 5, "-1"), ("Vadstena", 5, "-1"), 
+                                                                ("Linkoping", 5, "VARIETY_LINKOPING"), ("Viborg", 5, "VARIETY_VYBORG"), ("Landskrona", 4, "VARIETY_LANDSKRONA"), ("Vasteras", 4, "VARIETY_VASTERAS"), ("Vaxjo", 4, "VARIETY_VAXJO"), ("Helsingborg", 4, "-1"), 
+                                                                ("Raumo", 4, "VARIETY_RAUMO"), ("Falun", 4, "-1"), ("Umea", 4, "-1"), ("Sundsvall", 3, "-1"), ("Lulea", 3, "-1"), ("Uleaborg", 3, "VARIETY_OULU"), ("Wasa", 3, "VARIETY_VAASA")],	
 'LEADER_GUSTAV_VASA'		: [("Stockholm", 9, "VARIETY_STOCKHOLM"), ("Uppsala", 8, "-1"), ("Kalmar", 8, "VARIETY_KALMAR"), ("Vasteras", 8, "VARIETY_VASTERAS"), ("Arboga", 8, "-1"), ("Abo", 8, "VARIETY_TURKU"), ("Skara", 7, "-1"), 
-								("Linkoping", 7, "VARIETY_LINKOPING"), ("Jonkoping", 7, "VARIETY_JONKOPING"), ("Vadstena", 7, "-1"), ("Soderkoping", 7, "-1"), ("Lodose", 7, "-1"), ("Strangnas", 7, "-1"), ("Viborg", 7, "VARIETY_VYBORG"), 
-								("Orebro", 6, "VARIETY_OREBRO"), ("Norrkoping", 6, "VARIETY_NORRKOPING"), ("Torshalla", 6, "-1"), ("Nykoping", 6, "VARIETY_NYKOPING"), ("Sodertalje", 6, "-1"), ("Vastervik", 6, "-1"), ("Vaxjo", 6, "VARIETY_VAXJO"), 
-								("Lidkoping", 6, "-1"), ("Mora", 5, "-1"), ("Trosa", 5, "-1"), ("Gavle", 5, "VARIETY_GAVLE"), ("Hedemora", 5, "-1"), ("Koping", 5, "-1"), ("Helsingfors", 5, "VARIETY_HELSINKI"), ("Sigtuna", 5, "-1"), 
-								("Tavastehus", 5, "VARIETY_TAVASTEHUS"), ("Vaxholm", 5, "-1")],	
+                                       ("Linkoping", 7, "VARIETY_LINKOPING"), ("Jonkoping", 7, "VARIETY_JONKOPING"), ("Vadstena", 7, "-1"), ("Soderkoping", 7, "-1"), ("Lodose", 7, "-1"), ("Strangnas", 7, "-1"), ("Viborg", 7, "VARIETY_VYBORG"), 
+                                                                ("Orebro", 6, "VARIETY_OREBRO"), ("Norrkoping", 6, "VARIETY_NORRKOPING"), ("Torshalla", 6, "-1"), ("Nykoping", 6, "VARIETY_NYKOPING"), ("Sodertalje", 6, "-1"), ("Vastervik", 6, "-1"), ("Vaxjo", 6, "VARIETY_VAXJO"), 
+                                                                ("Lidkoping", 6, "-1"), ("Mora", 5, "-1"), ("Trosa", 5, "-1"), ("Gavle", 5, "VARIETY_GAVLE"), ("Hedemora", 5, "-1"), ("Koping", 5, "-1"), ("Helsingfors", 5, "VARIETY_HELSINKI"), ("Sigtuna", 5, "-1"), 
+                                                                ("Tavastehus", 5, "VARIETY_TAVASTEHUS"), ("Vaxholm", 5, "-1")],	
 'LEADER_PER_ALBIN_HANSSON'	: [("Stockholm", 9, "VARIETY_STOCKHOLM"), ("Goteborg", 8, "VARIETY_GOTH"), ("Malmo", 8, "VARIETY_MALMO"), ("Norrkoping", 7, "VARIETY_NORRKOPING"), ("Helsingborg", 7, "-1"), ("Orebro", 7, "VARIETY_OREBRO"), ("Boras", 7, "-1"), 
-								("Eskilstuna", 6, "-1"), ("Gavle", 6, "VARIETY_GAVLE"), ("Vasteras", 6, "VARIETY_VASTERAS"), ("Uppsala", 6, "-1"), ("Linkoping", 6, "VARIETY_LINKOPING"), ("Jonkoping", 6, "VARIETY_JONKOPING"), ("Kiruna", 6, "-1"), 
-								("Karlstad", 5, "-1"), ("Karlskrona", 5, "-1"), ("Sundsvall", 5, "-1"), ("Trollhattan", 5, "-1"), ("Molndal", 5, "-1"), ("Uddevalla", 5, "-1"), ("Ostersund", 5, "VARIETY_LAPPLAND"), ("Kristianstad", 5, "-1"), 
-								("Sodertalje", 5, "-1"), ("Trelleborg", 5, "-1")], 
+                                     ("Eskilstuna", 6, "-1"), ("Gavle", 6, "VARIETY_GAVLE"), ("Vasteras", 6, "VARIETY_VASTERAS"), ("Uppsala", 6, "-1"), ("Linkoping", 6, "VARIETY_LINKOPING"), ("Jonkoping", 6, "VARIETY_JONKOPING"), ("Kiruna", 6, "-1"), 
+                                                                ("Karlstad", 5, "-1"), ("Karlskrona", 5, "-1"), ("Sundsvall", 5, "-1"), ("Trollhattan", 5, "-1"), ("Molndal", 5, "-1"), ("Uddevalla", 5, "-1"), ("Ostersund", 5, "VARIETY_LAPPLAND"), ("Kristianstad", 5, "-1"), 
+                                                                ("Sodertalje", 5, "-1"), ("Trelleborg", 5, "-1")], 
 'LEADER_RAGNAR' 			: [("Hedeby", 9, "-1"), ("Ribe", 9, "-1"), ("Birka", 9, "-1"), ("Kaupang", 9, "-1"), ("Aarhus", 8, "VARIETY_JUTE"), ("Jelling", 8, "-1"), ("Uppsala", 8, "-1"), ("Sigtuna", 8, "-1"), ("Viborg", 8, "VARIETY_VYBORG"), 
-								("Aalborg", 8, "-1"), ("Visby", 7, "-1"), ("Nidaros", 7, "VARIETY_TRONDHEIM"), ("Odense", 7, "-1"), ("Kalmar", 7, "VARIETY_KALMAR"), ("Roskilde", 7, "-1"), ("Uppakra", 7, "-1"), ("Lodose", 7, "-1"), ("Jarlshof", 6, "-1"), 
-								("Jorvik", 6, "VARIETY_YORK"), ("Truso", 6, "-1"), ("Dyflin", 6, "VARIETY_DUBLIN"), ("Aldeigjuborg", 5, "VARIETY_LADOGA"), ("Lejre", 5, "-1"), ("Holmgard", 5, "VARIETY_NOVGOROD"), ("Kopingsvik", 5, "-1"), 
-								("Hanstholm", 5, "-1"), ("Kinsarvik", 5, "-1"), ("Limerick", 5, "-1"), ("Thurso", 5, "-1")],
+                                           ("Aalborg", 8, "-1"), ("Visby", 7, "-1"), ("Nidaros", 7, "VARIETY_TRONDHEIM"), ("Odense", 7, "-1"), ("Kalmar", 7, "VARIETY_KALMAR"), ("Roskilde", 7, "-1"), ("Uppakra", 7, "-1"), ("Lodose", 7, "-1"), ("Jarlshof", 6, "-1"), 
+                                                                ("Jorvik", 6, "VARIETY_YORK"), ("Truso", 6, "-1"), ("Dyflin", 6, "VARIETY_DUBLIN"), ("Aldeigjuborg", 5, "VARIETY_LADOGA"), ("Lejre", 5, "-1"), ("Holmgard", 5, "VARIETY_NOVGOROD"), ("Kopingsvik", 5, "-1"), 
+                                                                ("Hanstholm", 5, "-1"), ("Kinsarvik", 5, "-1"), ("Limerick", 5, "-1"), ("Thurso", 5, "-1")],
 # Austria
 'LEADER_MARIA_THERESA'		: [("Vienna", 10, "VARIETY_WIEN"), ("Prague", 9, "VARIETY_PRAGUE"), ("Graz", 9, "VARIETY_GRAZ"), ("Budapest", 8, "VARIETY_BUDA"), ("Innsbruck", 8, "VARIETY_INNSBRUCK"), ("Klagenfurt", 8, "VARIETY_KLAGENFURT"), 
-								("Salzburg", 8, "VARIETY_SALZBURG"), ("Linz", 8, "VARIETY_LINZ"), ("Pressburg", 8, "VARIETY_POZSONY"), ("Mailand", 8, "VARIETY_MILAN"), ("Triest", 7, "VARIETY_TRIEST"), ("Laibach", 7, "VARIETY_LAIBACH"), ("Agram", 7, "VARIETY_ZAGREB"), 
-								("Brunn", 7, "VARIETY_BRNO"), ("Bregenz", 6, "VARIETY_BREGENZ"), ("Troppau", 6, "VARIETY_TROPPAU"), ("Lemberg", 6, "VARIETY_LVIV"), ("Weissenburg", 6, "VARIETY_ALBAIULIA"), ("Temeswar", 6, "VARIETY_TIMISOARA"), ("Split", 6, "VARIETY_SPLIT")], 
+                                         ("Salzburg", 8, "VARIETY_SALZBURG"), ("Linz", 8, "VARIETY_LINZ"), ("Pressburg", 8, "VARIETY_POZSONY"), ("Mailand", 8, "VARIETY_MILAN"), ("Triest", 7, "VARIETY_TRIEST"), ("Laibach", 7, "VARIETY_LAIBACH"), ("Agram", 7, "VARIETY_ZAGREB"), 
+                                                                ("Brunn", 7, "VARIETY_BRNO"), ("Bregenz", 6, "VARIETY_BREGENZ"), ("Troppau", 6, "VARIETY_TROPPAU"), ("Lemberg", 6, "VARIETY_LVIV"), ("Weissenburg", 6, "VARIETY_ALBAIULIA"), ("Temeswar", 6, "VARIETY_TIMISOARA"), ("Split", 6, "VARIETY_SPLIT")], 
 'LEADER_LEOPOLD_VI'			: [("Vienna", 10, "VARIETY_WIEN"), ("Prague", 9, "VARIETY_PRAGUE"), ("Graz", 9, "VARIETY_GRAZ"), ("Budapest", 8, "VARIETY_BUDA"), ("Innsbruck", 8, "VARIETY_INNSBRUCK"), ("Klagenfurt", 8, "VARIETY_KLAGENFURT"), 
-								("Salzburg", 8, "VARIETY_SALZBURG"), ("Linz", 8, "VARIETY_LINZ"), ("Pressburg", 8, "VARIETY_POZSONY"), ("Mailand", 8, "VARIETY_MILAN"), ("Triest", 7, "VARIETY_TRIEST"), ("Laibach", 7, "VARIETY_LAIBACH"), ("Agram", 7, "VARIETY_ZAGREB"), 
-								("Brunn", 7, "VARIETY_BRNO"), ("Bregenz", 6, "VARIETY_BREGENZ"), ("Troppau", 6, "VARIETY_TROPPAU"), ("Lemberg", 6, "VARIETY_LVIV"), ("Weissenburg", 6, "VARIETY_ALBAIULIA"), ("Temeswar", 6, "VARIETY_TIMISOARA"), ("Split", 6, "VARIETY_SPLIT")], 
+                                              ("Salzburg", 8, "VARIETY_SALZBURG"), ("Linz", 8, "VARIETY_LINZ"), ("Pressburg", 8, "VARIETY_POZSONY"), ("Mailand", 8, "VARIETY_MILAN"), ("Triest", 7, "VARIETY_TRIEST"), ("Laibach", 7, "VARIETY_LAIBACH"), ("Agram", 7, "VARIETY_ZAGREB"), 
+                                                                ("Brunn", 7, "VARIETY_BRNO"), ("Bregenz", 6, "VARIETY_BREGENZ"), ("Troppau", 6, "VARIETY_TROPPAU"), ("Lemberg", 6, "VARIETY_LVIV"), ("Weissenburg", 6, "VARIETY_ALBAIULIA"), ("Temeswar", 6, "VARIETY_TIMISOARA"), ("Split", 6, "VARIETY_SPLIT")], 
 'LEADER_FERDINAND_III'		: [("Vienna", 10, "VARIETY_WIEN"), ("Prague", 9, "VARIETY_PRAGUE"), ("Graz", 9, "VARIETY_GRAZ"), ("Budapest", 8, "VARIETY_BUDA"), ("Innsbruck", 8, "VARIETY_INNSBRUCK"), ("Klagenfurt", 8, "VARIETY_KLAGENFURT"), 
-								("Salzburg", 8, "VARIETY_SALZBURG"), ("Linz", 8, "VARIETY_LINZ"), ("Pressburg", 8, "VARIETY_POZSONY"), ("Mailand", 8, "VARIETY_MILAN"), ("Triest", 7, "VARIETY_TRIEST"), ("Laibach", 7, "VARIETY_LAIBACH"), ("Agram", 7, "VARIETY_ZAGREB"), 
-								("Brunn", 7, "VARIETY_BRNO"), ("Bregenz", 6, "VARIETY_BREGENZ"), ("Troppau", 6, "VARIETY_TROPPAU"), ("Lemberg", 6, "VARIETY_LVIV"), ("Weissenburg", 6, "VARIETY_ALBAIULIA"), ("Temeswar", 6, "VARIETY_TIMISOARA"), ("Split", 6, "VARIETY_SPLIT")], 
+                                         ("Salzburg", 8, "VARIETY_SALZBURG"), ("Linz", 8, "VARIETY_LINZ"), ("Pressburg", 8, "VARIETY_POZSONY"), ("Mailand", 8, "VARIETY_MILAN"), ("Triest", 7, "VARIETY_TRIEST"), ("Laibach", 7, "VARIETY_LAIBACH"), ("Agram", 7, "VARIETY_ZAGREB"), 
+                                                                ("Brunn", 7, "VARIETY_BRNO"), ("Bregenz", 6, "VARIETY_BREGENZ"), ("Troppau", 6, "VARIETY_TROPPAU"), ("Lemberg", 6, "VARIETY_LVIV"), ("Weissenburg", 6, "VARIETY_ALBAIULIA"), ("Temeswar", 6, "VARIETY_TIMISOARA"), ("Split", 6, "VARIETY_SPLIT")], 
 # Babylon
 'LEADER_HAMMURABI'			: [("Babylon", 10, "VARIETY_BAGHDAD"), ("Kish", 9, "-1"), ("Sippar", 9, "-1"), ("Nippur", 8, "-1"), ("Isin", 8, "-1"), ("Uruk", 8, "-1"), ("Larsa", 8, "-1"), ("Ur", 8, "-1"), ("Eridu", 8, "-1"), ("Lagash", 8, "-1"), 
-								("Malgium", 7, "-1"), ("Eshnunna", 7, "-1"), ("Rapiqum", 7, "-1"), ("Mari", 7, "-1"), ("Adab", 6, "-1"), ("Mashkan-Shapir", 6, "-1"), ("Girsu", 6, "-1"), ("Zabalam", 6, "-1"), ("Borsippa", 6, "-1"), ("Dilbat", 6, "-1"), 
-								("Marad", 6, "-1"), ("Mankisum", 6, "-1"), ("Hit", 6, "-1"), ("Harradum", 6, "-1"), ("Terqa", 6, "-1"), ("Tuttul", 5, "-1"), ("Assur", 5, "-1"), ("Ekallatum", 5, "-1"), ("Nineveh", 5, "VARIETY_ASSYRIAN"), 
-								("Qattara", 5, "-1"), ("Karana", 5, "-1"), ("Kurda", 5, "-1"), ("Andarig", 5, "-1"), ("Shekhna", 5, "-1"), ("Emar", 4, "-1"), ("Karkemish", 4, "-1"), ("Der", 4, "-1")], 
+                                             ("Malgium", 7, "-1"), ("Eshnunna", 7, "-1"), ("Rapiqum", 7, "-1"), ("Mari", 7, "-1"), ("Adab", 6, "-1"), ("Mashkan-Shapir", 6, "-1"), ("Girsu", 6, "-1"), ("Zabalam", 6, "-1"), ("Borsippa", 6, "-1"), ("Dilbat", 6, "-1"), 
+                                                                ("Marad", 6, "-1"), ("Mankisum", 6, "-1"), ("Hit", 6, "-1"), ("Harradum", 6, "-1"), ("Terqa", 6, "-1"), ("Tuttul", 5, "-1"), ("Assur", 5, "-1"), ("Ekallatum", 5, "-1"), ("Nineveh", 5, "VARIETY_ASSYRIAN"), 
+                                                                ("Qattara", 5, "-1"), ("Karana", 5, "-1"), ("Kurda", 5, "-1"), ("Andarig", 5, "-1"), ("Shekhna", 5, "-1"), ("Emar", 4, "-1"), ("Karkemish", 4, "-1"), ("Der", 4, "-1")], 
 # Finland
 'LEADER_MANNERHEIM'			: [("Helsinki", 10, "VARIETY_HELSINKI"), ("Viipuri", 9, "VARIETY_VYBORG"), ("Turku", 9, "VARIETY_TURKU"), ("Tampere", 9, "VARIETY_TAMPERE"), ("Vaasa", 8, "VARIETY_VAASA"), ("Oulu", 8, "VARIETY_OULU"), ("Lahti", 8, "-1"), 
-								("Kuopio", 8, "-1"), ("Jyväskylä", 8, "-1"), ("Rovaniemi", 8, "-1"), ("Kotka", 7, "-1"), ("Pori", 7, "VARIETY_PORI"), ("Kemi", 7, "-1"), ("Lappeenranta", 7, "VARIETY_LAPPEENRANTA"), ("Hameenlinna", 7, "VARIETY_TAVASTEHUS"), 
-								("Riihimäki", 7, "-1"), ("Sortavala", 7, "VARIETY_SORTAVALA"), ("Varkaus", 6, "-1"), ("Mikkeli", 6, "VARIETY_MIKKELI"), ("Nokia", 6, "-1"), ("Pietarsaari", 6, "VARIETY_PIETASAARI"), ("Kokkola", 6, "VARIETY_KOKKOLA"), 
-								("Käkisalmi", 6, "VARIETY_KEXHOLM"), ("Petsamo", 6, "VARIETY_SAMI"), ("Imatra", 5, "-1"), ("Espoo", 5, "-1"), ("Pielisjärvi", 5, "-1"), ("Karhula", 5, "-1"), ("Kuusankoski", 5, "-1"), ("Vantaa", 5, "-1"), ("Porvoo", 5, "-1"), 
-								("Kauhajoki", 5, "-1"), ("Pielavesi", 5, "-1")], 
+                                              ("Kuopio", 8, "-1"), ("Jyväskylä", 8, "-1"), ("Rovaniemi", 8, "-1"), ("Kotka", 7, "-1"), ("Pori", 7, "VARIETY_PORI"), ("Kemi", 7, "-1"), ("Lappeenranta", 7, "VARIETY_LAPPEENRANTA"), ("Hameenlinna", 7, "VARIETY_TAVASTEHUS"), 
+                                                                ("Riihimäki", 7, "-1"), ("Sortavala", 7, "VARIETY_SORTAVALA"), ("Varkaus", 6, "-1"), ("Mikkeli", 6, "VARIETY_MIKKELI"), ("Nokia", 6, "-1"), ("Pietarsaari", 6, "VARIETY_PIETASAARI"), ("Kokkola", 6, "VARIETY_KOKKOLA"), 
+                                                                ("Käkisalmi", 6, "VARIETY_KEXHOLM"), ("Petsamo", 6, "VARIETY_SAMI"), ("Imatra", 5, "-1"), ("Espoo", 5, "-1"), ("Pielisjärvi", 5, "-1"), ("Karhula", 5, "-1"), ("Kuusankoski", 5, "-1"), ("Vantaa", 5, "-1"), ("Porvoo", 5, "-1"), 
+                                                                ("Kauhajoki", 5, "-1"), ("Pielavesi", 5, "-1")], 
 # Gran Colombia
 'LEADER_SANTA_ANNA'			: [("Bogota", 10, "VARIETY_BOGOTA"), ("Quito", 9, "-1"), ("Caracas", 9, "VARIETY_CARACAS"), ("Barinas", 8, "VARIETY_BARINAS"), ("Angostura", 8, "VARIETY_ANGOSTURA"), ("Maracaibo", 8, "-1"), ("Tunja", 8, "-1"), 
-								("Popayan", 8, "-1"), ("Panama", 8, "VARIETY_PANAMA"), ("Cartagena", 8, "-1"), ("Cuenca", 8, "-1"), ("Guyaquil", 8, "-1"), ("Medellin", 7, "-1"), ("Cali", 7, "-1"), ("Buenaventura", 7, "-1"), 
-								("Merida", 7, "-1"), ("Barquisimeto", 7, "-1"), ("Barranquilla", 7, "-1"), ("Santa Marta", 7, "-1"), ("Valencia", 7, "-1"), ("Cumana", 7, "-1"), ("Ciudad Guayana", 7, "-1"), ("Maturin", 7, "-1")], 								
+                                              ("Popayan", 8, "-1"), ("Panama", 8, "VARIETY_PANAMA"), ("Cartagena", 8, "-1"), ("Cuenca", 8, "-1"), ("Guyaquil", 8, "-1"), ("Medellin", 7, "-1"), ("Cali", 7, "-1"), ("Buenaventura", 7, "-1"), 
+                                                                ("Merida", 7, "-1"), ("Barquisimeto", 7, "-1"), ("Barranquilla", 7, "-1"), ("Santa Marta", 7, "-1"), ("Valencia", 7, "-1"), ("Cumana", 7, "-1"), ("Ciudad Guayana", 7, "-1"), ("Maturin", 7, "-1")], 								
 # Mughals
 'LEADER_AKBAR'				: [("Delhi", 10, "VARIETY_DELHI"), ("Agra", 9, "-1"), ("Panipat", 9, "-1"), ("Lahore", 8, "-1"), ("Benares", 8, "-1"), ("Surat", 8, "-1"), ("Ayodhya", 8, "-1"), ("Patna", 8, "-1"), ("Peshawar", 8, "-1"), ("Lucknow", 7, "-1"), 
-								("Plassey", 7, "-1"), ("Multan", 6, "VARIETY_HARAPPAN"), ("Amritsar", 6, "-1"), ("Mankot", 6, "-1"), ("Jalandhar", 6, "-1"), ("Sirhind", 6, "-1"), ("Sambhal", 6, "-1"), ("Narwaul", 6, "-1"), ("Bikaner", 6, "-1"), 
-								("Ajmer", 6, "-1"), ("Amber", 6, "-1"), ("Ranthambor", 6, "-1"), ("Gwalior", 6, "-1"), ("Jaunpur", 6, "-1"), ("Chausa", 6, "-1"), ("Kalinjar", 6, "-1"), ("Chitor", 6, "-1"), ("Jaisalmer", 5, "-1"), 
-								("Allahabad", 6, "VARIETY_ALLAHABAD"), ("Navanagar", 5, "-1"), ("Baroda", 5, "-1"), ("Ahmadabad", 5, "-1"), ("Asirgarh", 5, "-1"), ("Burhanpur", 5, "-1"), ("Daulatabad", 5, "-1"), ("Chittagong", 5, "-1"), 
-								("Thatta", 5, "VARIETY_MOHENJO-DARO")], 
+                                                 ("Plassey", 7, "-1"), ("Multan", 6, "VARIETY_HARAPPAN"), ("Amritsar", 6, "-1"), ("Mankot", 6, "-1"), ("Jalandhar", 6, "-1"), ("Sirhind", 6, "-1"), ("Sambhal", 6, "-1"), ("Narwaul", 6, "-1"), ("Bikaner", 6, "-1"), 
+                                                                ("Ajmer", 6, "-1"), ("Amber", 6, "-1"), ("Ranthambor", 6, "-1"), ("Gwalior", 6, "-1"), ("Jaunpur", 6, "-1"), ("Chausa", 6, "-1"), ("Kalinjar", 6, "-1"), ("Chitor", 6, "-1"), ("Jaisalmer", 5, "-1"), 
+                                                                ("Allahabad", 6, "VARIETY_ALLAHABAD"), ("Navanagar", 5, "-1"), ("Baroda", 5, "-1"), ("Ahmadabad", 5, "-1"), ("Asirgarh", 5, "-1"), ("Burhanpur", 5, "-1"), ("Daulatabad", 5, "-1"), ("Chittagong", 5, "-1"), 
+                                                                ("Thatta", 5, "VARIETY_MOHENJO-DARO")], 
 'LEADER_JAHANGIR'			: [("Delhi", 10, "VARIETY_DELHI"), ("Agra", 9, "-1"), ("Panipat", 9, "-1"), ("Lahore", 8, "-1"), ("Benares", 8, "-1"), ("Surat", 8, "-1"), ("Ayodhya", 8, "-1"), ("Patna", 8, "-1"), ("Peshawar", 8, "-1"), ("Lucknow", 7, "-1"), 
-								("Plassey", 7, "-1"), ("Multan", 6, "VARIETY_HARAPPAN"), ("Amritsar", 6, "-1"), ("Mankot", 6, "-1"), ("Jalandhar", 6, "-1"), ("Sirhind", 6, "-1"), ("Sambhal", 6, "-1"), ("Narwaul", 6, "-1"), ("Bikaner", 6, "-1"), 
-								("Ajmer", 6, "-1"), ("Amber", 6, "-1"), ("Ranthambor", 6, "-1"), ("Gwalior", 6, "-1"), ("Jaunpur", 6, "-1"), ("Chausa", 6, "-1"), ("Kalinjar", 6, "-1"), ("Chitor", 6, "-1"), ("Jaisalmer", 5, "-1"), 
-								("Allahabad", 6, "VARIETY_ALLAHABAD"), ("Navanagar", 5, "-1"), ("Baroda", 5, "-1"), ("Ahmadabad", 5, "-1"), ("Asirgarh", 5, "-1"), ("Burhanpur", 5, "-1"), ("Daulatabad", 5, "-1"), ("Chittagong", 5, "-1"), 
-								("Thatta", 5, "VARIETY_MOHENJO-DARO")],
+                                            ("Plassey", 7, "-1"), ("Multan", 6, "VARIETY_HARAPPAN"), ("Amritsar", 6, "-1"), ("Mankot", 6, "-1"), ("Jalandhar", 6, "-1"), ("Sirhind", 6, "-1"), ("Sambhal", 6, "-1"), ("Narwaul", 6, "-1"), ("Bikaner", 6, "-1"), 
+                                                                ("Ajmer", 6, "-1"), ("Amber", 6, "-1"), ("Ranthambor", 6, "-1"), ("Gwalior", 6, "-1"), ("Jaunpur", 6, "-1"), ("Chausa", 6, "-1"), ("Kalinjar", 6, "-1"), ("Chitor", 6, "-1"), ("Jaisalmer", 5, "-1"), 
+                                                                ("Allahabad", 6, "VARIETY_ALLAHABAD"), ("Navanagar", 5, "-1"), ("Baroda", 5, "-1"), ("Ahmadabad", 5, "-1"), ("Asirgarh", 5, "-1"), ("Burhanpur", 5, "-1"), ("Daulatabad", 5, "-1"), ("Chittagong", 5, "-1"), 
+                                                                ("Thatta", 5, "VARIETY_MOHENJO-DARO")],
 # Portugal
 'LEADER_JOAO'				: [("Lisboa", 10, "VARIETY_LISBON"), ("Coimbra", 9, "VARIETY_COIMBRA"), ("Porto", 9, "VARIETY_PORTO"), ("Braga", 8, "VARIETY_BRAGA"), ("Faro", 8, "VARIETY_FARO"), ("Braganca", 8, "VARIETY_BRAGANCA"), ("Beja", 8, "-1"), 
-								("Evora", 8, "VARIETY_EVORA"), ("Lagos", 8, "VARIETY_LAGOS"), ("Santarem", 7, "VARIETY_SANTAREM"), ("Viseu", 7, "-1"), ("Aviz", 7, "-1"), ("Silves", 7, "VARIETY_SILVES"), ("Tavira", 7, "-1"), ("Sagres", 7, "-1"), 
-								("Sintra", 6, "-1"), ("Castelo Branco", 6, "-1"), ("Guimaraes", 6, "-1"), ("Mertola", 6, "-1"), ("Torres Vedras", 6, "-1"), ("Lourinha", 6, "-1"), ("Leiria", 6, "-1"), ("Tomar", 6, "-1"), ("Idanha", 6, "-1"), ("Lamego", 6, "-1")], 
+                                                ("Evora", 8, "VARIETY_EVORA"), ("Lagos", 8, "VARIETY_LAGOS"), ("Santarem", 7, "VARIETY_SANTAREM"), ("Viseu", 7, "-1"), ("Aviz", 7, "-1"), ("Silves", 7, "VARIETY_SILVES"), ("Tavira", 7, "-1"), ("Sagres", 7, "-1"), 
+                                                                ("Sintra", 6, "-1"), ("Castelo Branco", 6, "-1"), ("Guimaraes", 6, "-1"), ("Mertola", 6, "-1"), ("Torres Vedras", 6, "-1"), ("Lourinha", 6, "-1"), ("Leiria", 6, "-1"), ("Tomar", 6, "-1"), ("Idanha", 6, "-1"), ("Lamego", 6, "-1")], 
 # Ukraine
 'LEADER_BOHDAN_KHMELNYTSKY'	: [("Kyiv", 10, "VARIETY_KIEV"), ("Zaporizhian Sich", 9, "VARIETY_SICH"), ("Chernihiv", 8, "-1"), ("Bratslav", 8, "VARIETY_BRATSLAV"), ("Chyhyryn", 8, "VARIETY_CHYHYRYN"), ("Kamianets-Podilskyi", 8, "VARIETY_KAMIANETS"), 
-								("Poltava", 7, "-1"), ("Myrhorod", 7, "VARIETY_MYRHOROD"), ("Uman", 7, "-1"), ("Kropyvno", 7, "-1"), ("Pereiaslav", 7, "VARIETY_CUMANIA"), ("Nizhyn", 7, "VARIETY_NIZHYN"), ("Bila Tserkva", 7, "VARIETY_BILA"), 
-								("Kaniv", 7, "VARIETY_KANIV"), ("Kalnyk", 7, "-1"), ("Cherkasy", 7, "VARIETY_CHERKASY"), ("Starodub", 6, "-1"), ("Ovruch", 6, "VARIETY_OVRUCH"), ("Vinnytsia", 6, "VARIETY_VINNYTSIA"), ("Korsun", 6, "-1"), 
-								("Pavoloch", 6, "-1"), ("Konotop", 6, "-1"), ("Hadyach", 6, "-1"), ("Lubny", 6, "-1"), ("Kodak", 6, "-1"), ("Pryluky", 5, "-1"), ("Oster", 5, "-1"), ("Lyubech", 5, "-1"), ("Radomyshl", 5, "-1"), ("Zhytomyr", 5, "-1"), 
-								("Tulchyn", 5, "-1"), ("Lysianka", 5, "-1"), ("Hlukhiv", 5, "-1"), ("Chernobyl", 5, "-1"), ("Novhorod-Siverskyi", 5, "-1"), ("Subotiv", 5, "-1"), ("Pohrebyshche", 5, "-1")], 
+                                      ("Poltava", 7, "-1"), ("Myrhorod", 7, "VARIETY_MYRHOROD"), ("Uman", 7, "-1"), ("Kropyvno", 7, "-1"), ("Pereiaslav", 7, "VARIETY_CUMANIA"), ("Nizhyn", 7, "VARIETY_NIZHYN"), ("Bila Tserkva", 7, "VARIETY_BILA"), 
+                                                                ("Kaniv", 7, "VARIETY_KANIV"), ("Kalnyk", 7, "-1"), ("Cherkasy", 7, "VARIETY_CHERKASY"), ("Starodub", 6, "-1"), ("Ovruch", 6, "VARIETY_OVRUCH"), ("Vinnytsia", 6, "VARIETY_VINNYTSIA"), ("Korsun", 6, "-1"), 
+                                                                ("Pavoloch", 6, "-1"), ("Konotop", 6, "-1"), ("Hadyach", 6, "-1"), ("Lubny", 6, "-1"), ("Kodak", 6, "-1"), ("Pryluky", 5, "-1"), ("Oster", 5, "-1"), ("Lyubech", 5, "-1"), ("Radomyshl", 5, "-1"), ("Zhytomyr", 5, "-1"), 
+                                                                ("Tulchyn", 5, "-1"), ("Lysianka", 5, "-1"), ("Hlukhiv", 5, "-1"), ("Chernobyl", 5, "-1"), ("Novhorod-Siverskyi", 5, "-1"), ("Subotiv", 5, "-1"), ("Pohrebyshche", 5, "-1")], 
 # Brazil
 'LEADER_DOM_PEDRO'			: [("Rio de Janeiro", 10, "-1"), ("Salvador", 9, "-1"), ("Recife", 9, "-1"), ("Belem", 8, "-1"), ("Conselheiro Lafaiete", 8, "-1"), ("Santa Barbara d'Oeste", 7, "-1"), ("Niteroi", 7, "-1"), ("Porto Alegre", 7, "-1"), ("Itabira", 7, "-1"), 
-								("Fortaleza", 7, "-1"), ("Cuiaba", 6, "-1"), ("Sao Luis", 6, "-1"), ("Sao Paulo", 6, "-1"), ("Manaus", 5, "-1"), ("Maceio", 5, "-1"), ("Florianopolis", 5, "-1"), ("Joao Pessoa", 5, "-1"), ("Teresina", 5, "-1"), ("Ouro Preto", 5, "-1")],	
+                                             ("Fortaleza", 7, "-1"), ("Cuiaba", 6, "-1"), ("Sao Luis", 6, "-1"), ("Sao Paulo", 6, "-1"), ("Manaus", 5, "-1"), ("Maceio", 5, "-1"), ("Florianopolis", 5, "-1"), ("Joao Pessoa", 5, "-1"), ("Teresina", 5, "-1"), ("Ouro Preto", 5, "-1")],	
 # Israel
 'LEADER_DAVID'				: [("Jerusalem", 10, "VARIETY_JERUSALEM"), ("Samaria", 9, "VARIETY_SAMARIA"), ("Hebron", 8, "VARIETY_HEBRON"), ("Beersheba", 8, "VARIETY_BEERSHEBA"), ("Shechem", 8, "VARIETY_NABLUS"), ("Jerash", 8, "VARIETY_JERASH"), ("Jaffa", 8, "-1"), 
-								("Bethel", 8, "-1"), ("Jericho", 8, "-1"), ("Elath", 7, "VARIETY_AQABA"), ("Kadesh", 7, "-1"), ("Megiddo", 7, "-1"), ("Kir-Moab", 7, "-1"), ("Mahanaim", 7, "-1"), ("Shiloh", 7, "-1"), ("Beit She'an", 7, "-1"), 
-								("Ramoth", 7, "-1"), ("Dan", 7, "-1"), ("Bethlehem", 6, "-1"), ("Kinneret", 6, "-1"), ("Iion", 6, "-1"), ("Cedes", 6, "-1"), ("Hazor", 6, "-1"), ("Cammat", 6, "-1"), ("Taanach", 6, "-1"), ("Tirza", 6, "-1"), ("Samir", 6, "-1"), 
-								("Siquem", 6, "-1"), ("Piraton", 6, "-1"), ("Betel", 6, "-1"), ("Gabaon", 6, "-1"), ("Gezer", 6, "-1"), ("Gilgal", 6, "-1"), ("Ekron", 6, "-1"), ("Jarmut", 6, "-1"), ("Debir", 6, "-1"), ("Arad", 6, "-1")], 		
+                                                 ("Bethel", 8, "-1"), ("Jericho", 8, "-1"), ("Elath", 7, "VARIETY_AQABA"), ("Kadesh", 7, "-1"), ("Megiddo", 7, "-1"), ("Kir-Moab", 7, "-1"), ("Mahanaim", 7, "-1"), ("Shiloh", 7, "-1"), ("Beit She'an", 7, "-1"), 
+                                                                ("Ramoth", 7, "-1"), ("Dan", 7, "-1"), ("Bethlehem", 6, "-1"), ("Kinneret", 6, "-1"), ("Iion", 6, "-1"), ("Cedes", 6, "-1"), ("Hazor", 6, "-1"), ("Cammat", 6, "-1"), ("Taanach", 6, "-1"), ("Tirza", 6, "-1"), ("Samir", 6, "-1"), 
+                                                                ("Siquem", 6, "-1"), ("Piraton", 6, "-1"), ("Betel", 6, "-1"), ("Gabaon", 6, "-1"), ("Gezer", 6, "-1"), ("Gilgal", 6, "-1"), ("Ekron", 6, "-1"), ("Jarmut", 6, "-1"), ("Debir", 6, "-1"), ("Arad", 6, "-1")], 		
 # Khmer
 'LEADER_SURYAVARMAN'		: [("Angkor", 10, "-1"), ("Isanapura", 9, "-1"), ("Mahendraparvata", 8, "-1"), ("Indrapura", 8, "-1"), ("Vyadhapura", 8, "-1"), ("Krong Chaktomuk", 7, "-1"), ("Longvek", 7, "-1"), ("Angkor Borei", 6, "-1"), ("Phnom Da", 6, "-1"), 
-								("Banteay Prey Nokor", 6, "-1"), ("Shrestapura", 6, "-1"), ("Lingapura", 6, "-1"), ("Preah Khan", 6, "-1"), ("Banteay Chhmar", 6, "-1"), ("Hariharalaya", 6, "-1")],	
+                                       ("Banteay Prey Nokor", 6, "-1"), ("Shrestapura", 6, "-1"), ("Lingapura", 6, "-1"), ("Preah Khan", 6, "-1"), ("Banteay Chhmar", 6, "-1"), ("Hariharalaya", 6, "-1")],	
 # Lithuania
 'LEADER_DANIEL_OF_HALYCH'	: [("Vilnius", 10, "VARIETY_VILNIUS"), ("Kaunas", 9, "VARIETY_KAUNAS"), ("Kernave", 9, "VARIETY_KERNAVE"), ("Trakai", 9, "VARIETY_TRAKAI"), ("Medininkai", 8, "VARIETY_MEDININKAI"), ("Lida", 8, "-1"), ("Kreva", 8, "VARIETY_KREVA"), 
-								("Medvegalis", 8, "-1"), ("Siauliai", 8, "-1"), ("Gardinas", 7, "VARIETY_GRODNO"), ("Naugardukas", 7, "-1"), ("Polockas", 7, "VARIETY_POLOTSK"), ("Vitebskas", 7, "VARIETY_VITEBSK"), ("Minskas", 7, "VARIETY_MINSK"), ("Brasta", 7, "VARIETY_BREST")],		
+                                    ("Medvegalis", 8, "-1"), ("Siauliai", 8, "-1"), ("Gardinas", 7, "VARIETY_GRODNO"), ("Naugardukas", 7, "-1"), ("Polockas", 7, "VARIETY_POLOTSK"), ("Vitebskas", 7, "VARIETY_VITEBSK"), ("Minskas", 7, "VARIETY_MINSK"), ("Brasta", 7, "VARIETY_BREST")],		
 # Netherlands
 'LEADER_JOHAN_DE_WITT'		: [("Den Haag", 10, "VARIETY_HAGUE"), ("Geldern", 9, "VARIETY_GELDERN"), ("Middelburg", 9, "VARIETY_MIDDELBURG"), ("Utrecht", 9, "VARIETY_UTRECHT"), ("Leeuwarden", 9, "VARIETY_LEEUWARDEN"), ("Groningen", 9, "VARIETY_GRONINGEN"), ("Haarlem", 8, "-1"), 
-								("Zwolle", 8, "-1"), ("Assen", 8, "-1"), ("Arnhem", 8, "VARIETY_ARNHEM"), ("Amsterdam", 8, "-1"), ("Delft", 8, "-1"), ("Maastricht", 7, "VARIETY_MAASTRICHT"), ("Breda", 7, "-1"), ("Den Bosch", 7, "VARIETY_BOSCH"), ("Leiden", 6, "VARIETY_LEIDEN"), ("Rotterdam", 6, "-1"), 
-								("Nijmegen", 7, "VARIETY_NIJMEGEN"), ("Deventer", 7, "-1")],
+                                         ("Zwolle", 8, "-1"), ("Assen", 8, "-1"), ("Arnhem", 8, "VARIETY_ARNHEM"), ("Amsterdam", 8, "-1"), ("Delft", 8, "-1"), ("Maastricht", 7, "VARIETY_MAASTRICHT"), ("Breda", 7, "-1"), ("Den Bosch", 7, "VARIETY_BOSCH"), ("Leiden", 6, "VARIETY_LEIDEN"), ("Rotterdam", 6, "-1"), 
+                                                                ("Nijmegen", 7, "VARIETY_NIJMEGEN"), ("Deventer", 7, "-1")],
 'LEADER_WILLEM_VAN_ORANJE'	: [("Den Haag", 10, "VARIETY_HAGUE"), ("Geldern", 9, "VARIETY_GELDERN"), ("Middelburg", 9, "VARIETY_MIDDELBURG"), ("Utrecht", 9, "VARIETY_UTRECHT"), ("Leeuwarden", 9, "VARIETY_LEEUWARDEN"), ("Groningen", 9, "VARIETY_GRONINGEN"), ("Haarlem", 8, "-1"), 
-								("Zwolle", 8, "-1"), ("Assen", 8, "-1"), ("Arnhem", 8, "VARIETY_ARNHEM"), ("Amsterdam", 8, "-1"), ("Delft", 8, "-1"), ("Maastricht", 7, "VARIETY_MAASTRICHT"), ("Breda", 7, "-1"), ("Den Bosch", 7, "VARIETY_BOSCH"), ("Leiden", 6, "VARIETY_LEIDEN"), ("Rotterdam", 6, "-1"), 
-								("Nijmegen", 7, "VARIETY_NIJMEGEN"), ("Deventer", 7, "-1")],									
+                                     ("Zwolle", 8, "-1"), ("Assen", 8, "-1"), ("Arnhem", 8, "VARIETY_ARNHEM"), ("Amsterdam", 8, "-1"), ("Delft", 8, "-1"), ("Maastricht", 7, "VARIETY_MAASTRICHT"), ("Breda", 7, "-1"), ("Den Bosch", 7, "VARIETY_BOSCH"), ("Leiden", 6, "VARIETY_LEIDEN"), ("Rotterdam", 6, "-1"), 
+                                                                ("Nijmegen", 7, "VARIETY_NIJMEGEN"), ("Deventer", 7, "-1")],									
 # Nubia
 'LEADER_TAHARQA'			: [("Medewi", 10, "VARIETY_MEROE"), ("Napata", 9, "-1"), ("Kerma", 8, "-1"), ("Semna", 8, "-1"), ("Nuri", 8, "-1"), ("Soleb", 7, "-1"), ("Jebel Barkal", 7, "-1"), 	("El-Kurru", 6, "-1"), ("Dongola", 6, "VARIETY_NUBIAN"), 
-								("Kawa", 6, "-1"), ("Faras", 6, "-1"), ("Naqa", 6, "-1"), ("Karanog", 6, "-1"), ("Wad ban Naqa", 6, "-1"), ("Korosko", 6, "-1")],
+                                           ("Kawa", 6, "-1"), ("Faras", 6, "-1"), ("Naqa", 6, "-1"), ("Karanog", 6, "-1"), ("Wad ban Naqa", 6, "-1"), ("Korosko", 6, "-1")],
 # Tatar
 'LEADER_OZ_BEG_KHAN'		: [("Sarai-Berke", 10, "VARIETY_VOLGOGRAD"), ("Sarai-Batu", 9, "VARIETY_ITIL"), ("Bolgar", 9, "VARIETY_KAZAN"), ("Azaq", 8, "VARIETY_AZOV"), ("Kaffa", 8, "VARIETY_KAFFA"), ("Urgench", 8, "VARIETY_URGENCH"), ("Akkerman", 7, "VARIETY_AKKERMAN"), 	
-								("Ukek", 7, "-1"), ("Qirim", 7, "-1"), ("Chimgi-Tura", 7, "-1"), ("Bilyar", 7, "-1"), ("Mokhshi", 7, "-1"), ("Derbent", 7, "VARIETY_DERBENT"), ("Bashkort", 7, "VARIETY_UFA"), ("Majar", 7, "-1"), ("Saray-Juk", 7, "-1"), ("Sighnaq", 7, "-1"), 
-								("Juketau", 7, "-1"), ("Kyrk-Or", 7, "-1")],									
+                                       ("Ukek", 7, "-1"), ("Qirim", 7, "-1"), ("Chimgi-Tura", 7, "-1"), ("Bilyar", 7, "-1"), ("Mokhshi", 7, "-1"), ("Derbent", 7, "VARIETY_DERBENT"), ("Bashkort", 7, "VARIETY_UFA"), ("Majar", 7, "-1"), ("Saray-Juk", 7, "-1"), ("Sighnaq", 7, "-1"), 
+                                                                ("Juketau", 7, "-1"), ("Kyrk-Or", 7, "-1")],									
 # Taiwan
 'LEADER_KOXINGA'			: [("Malolos", 10, "-1"), ("Manila", 9, "-1"), ("Angeles", 8, "-1"), ("San Isidro", 8, "-1"), ("Cabanatuan", 8, "-1"), ("Bamban", 8, "-1"), ("Tarlac", 8, "-1"), ("Bayombong", 8, "-1"), ("Bayambang", 8, "-1"), 
-								("Lubuagan", 8, "-1"), ("Palanan", 8, "-1"), ("Iloilo", 7, "-1"), ("Cebu", 7, "-1"), ("Legazpi", 6, "-1"), ("Malobon", 6, "-1"), ("Cavite", 6, "-1"), ("Naga", 6, "-1"), ("Dagupan", 6, "-1"), ("Batangas", 8, "-1")],	
+                                           ("Lubuagan", 8, "-1"), ("Palanan", 8, "-1"), ("Iloilo", 7, "-1"), ("Cebu", 7, "-1"), ("Legazpi", 6, "-1"), ("Malobon", 6, "-1"), ("Cavite", 6, "-1"), ("Naga", 6, "-1"), ("Dagupan", 6, "-1"), ("Batangas", 8, "-1")],	
 # Texas
 'LEADER_SAM_HOUSTON'		: [("Austin", 10, "-1"), ("Galveston", 9, "-1"), ("San Antonio", 9, "VARIETY_SANANTONIO"), ("Houston", 8, "-1"), ("Marshall", 8, "-1"), ("New Braunfels", 8, "-1"), ("Victoria", 7, "-1"), 	("Fredericksburg", 7, "-1"), ("Corpus Christi", 7, "-1"), 
-								("Nacogdoches", 6, "-1"), ("Castroville", 6, "-1"), ("Eagle Pass", 6, "-1"), ("Indianola", 6, "-1"), ("Richmond", 6, "-1"), ("Rusk", 6, "-1")],	
+                                       ("Nacogdoches", 6, "-1"), ("Castroville", 6, "-1"), ("Eagle Pass", 6, "-1"), ("Indianola", 6, "-1"), ("Richmond", 6, "-1"), ("Rusk", 6, "-1")],	
 # Venice
 'LEADER_ENRICO_DANDOLO'		: [("Venice", 10, "VARIETY_VENICE"), ("Verona", 9, "-1"), ("Vicenza", 9, "-1"), ("Parenzo", 8, "-1"), ("Zara", 8, "VARIETY_ZARA"), ("Spalato", 8, "VARIETY_SPLIT"), ("Durazzo", 8, "VARIETY_DURRES"), ("Candia", 7, "VARIETY_HERAKLION"), 
-								("Negroponte", 7, "VARIETY_NEGROPONTE"), ("Aquilea", 6, "VARIETY_AQUILEIA"), ("Nicosia", 6, "VARIETY_NICOSIA"), ("Brescia", 6, "VARIETY_BRESCIA"), ("Padua", 6, "VARIETY_PADUA"), ("Scutari", 6, "VARIETY_ILLYRIA"), ("Corfu", 6, "VARIETY_CORFU")],													
+                                          ("Negroponte", 7, "VARIETY_NEGROPONTE"), ("Aquilea", 6, "VARIETY_AQUILEIA"), ("Nicosia", 6, "VARIETY_NICOSIA"), ("Brescia", 6, "VARIETY_BRESCIA"), ("Padua", 6, "VARIETY_PADUA"), ("Scutari", 6, "VARIETY_ILLYRIA"), ("Corfu", 6, "VARIETY_CORFU")],													
 # Barbarians
 'LEADER_BARBARIAN'			: [("Ainu", 1, "VARIETY_AINU"), ("Anasazi", 1, "VARIETY_ANASAZI"), ("Alemanni", 1, "VARIETY_ALEMANNI"), ("Angle", 1, "VARIETY_ANGLE"), ("Apache", 1, "VARIETY_APACHE"), ("Aryan", 1, "VARIETY_ARYAN"), 
-								("Assyrian", 1, "VARIETY_ASSYRIAN"), ("Avar", 1, "VARIETY_AVAR"), ("Hurrian", 1, "VARIETY_ALEPPO"), ("Bactrian", 1, "VARIETY_BALKH"), ("Bantu", 1, "VARIETY_BANTU"), ("Bulgar", 1, "VARIETY_BULGAR"), 
-								("Burgundian", 1, "VARIETY_BURGUNDIAN"), ("Chehalis", 1, "VARIETY_CHEHALIS"), ("Cherokee", 1, "VARIETY_CHEROKEE"), ("Chinook", 1, "VARIETY_CHINOOK"), ("Cimmerian", 1, "VARIETY_CIMMERIAN"), 
-								("Circassian", 1, "VARIETY_CIRCASSIAN"), ("Cuman", 1, "VARIETY_CUMAN"), ("Estruscan", 1, "VARIETY_ESTRUSCAN"), ("Gaul", 1, "VARIETY_GAUL"), ("Sirmium", 1, "VARIETY_GEPID"), ("Ghuzz", 1, "VARIETY_GHUZZ"), 
-								("Goth", 1, "VARIETY_GOTH"), ("Parthian", 1, "VARIETY_HAMADAN"), ("Harappan", 1, "VARIETY_HARAPPAN"), ("Hittite", 1, "VARIETY_HITTITE"), ("Hsung-Nu", 1, "VARIETY_HSUNGNU"), ("Hun", 1, "VARIETY_HUN"), 
-								("Illinois", 1, "VARIETY_ILLINOIS"), ("Jute", 1, "VARIETY_JUTE"), ("Kassite", 1, "VARIETY_KASSITE'"), ("Khazak", 1, "VARIETY_KHAZAK"), ("Khoisan", 1, "VARIETY_KHOISAN"), ("Kushans", 1, "VARIETY_KUSHANS"), 
-								("Ligurian", 1, "VARIETY_LIGURIAN"), ("Magyar", 1, "VARIETY_BUDA"), ("Minoan", 1, "VARIETY_MINOAN"), ("Mycenian", 1, "VARIETY_MYCENIAN"), ("Navajo", 1, "VARIETY_NAVAJO"), ("Nubian", 1, "VARIETY_NUBIAN"), 
-								("Numidian", 1, "VARIETY_NUMIDIAN"), ("Olmec", 1, "VARIETY_OLMEC"), ("Phoenician", 1, "VARIETY_PHEONICIAN"), ("Phrygian", 1, "VARIETY_PHRYGIAN"), ("Polynesian", 1, "VARIETY_POLYNESIAN"), ("Alan", 1, "VARIETY_POZSONY"), 
-								("Sakae", 1, "VARIETY_SAKAE"), ("Sarmatian", 1, "VARIETY_SARMATIAN"), ("Saxon", 1, "VARIETY_SAXON"), ("Scythian", 1, "VARIETY_SCYTHIAN"), ("Shangian", 1, "VARIETY_SHANGIAN"), ("Tartar", 1, "VARIETY_VOLGOGRAD"), 
-								("Thracian", 1, "VARIETY_THRACIAN"), ("Libyan", 1, "VARIETY_TRIPOLI"), ("Vandal", 1, "VARIETY_VANDAL"), ("Visigoth", 1, "VARIETY_VISIGOTH"), ("Yayoi", 1, "VARIETY_YAYOI"), ("Yue-Chi", 1, "VARIETY_YUECHI"), 
-								("Zapotec", 1, "VARIETY_ZAPOTEC"), ("Zhou", 1, "VARIETY_ZHOU"), ("Khitan", 1, "VARIETY_KHITAN"), ("Buryat", 1, "VARIETY_BURYAT")],
+                                             ("Assyrian", 1, "VARIETY_ASSYRIAN"), ("Avar", 1, "VARIETY_AVAR"), ("Hurrian", 1, "VARIETY_ALEPPO"), ("Bactrian", 1, "VARIETY_BALKH"), ("Bantu", 1, "VARIETY_BANTU"), ("Bulgar", 1, "VARIETY_BULGAR"), 
+                                                                ("Burgundian", 1, "VARIETY_BURGUNDIAN"), ("Chehalis", 1, "VARIETY_CHEHALIS"), ("Cherokee", 1, "VARIETY_CHEROKEE"), ("Chinook", 1, "VARIETY_CHINOOK"), ("Cimmerian", 1, "VARIETY_CIMMERIAN"), 
+                                                                ("Circassian", 1, "VARIETY_CIRCASSIAN"), ("Cuman", 1, "VARIETY_CUMAN"), ("Estruscan", 1, "VARIETY_ESTRUSCAN"), ("Gaul", 1, "VARIETY_GAUL"), ("Sirmium", 1, "VARIETY_GEPID"), ("Ghuzz", 1, "VARIETY_GHUZZ"), 
+                                                                ("Goth", 1, "VARIETY_GOTH"), ("Parthian", 1, "VARIETY_HAMADAN"), ("Harappan", 1, "VARIETY_HARAPPAN"), ("Hittite", 1, "VARIETY_HITTITE"), ("Hsung-Nu", 1, "VARIETY_HSUNGNU"), ("Hun", 1, "VARIETY_HUN"), 
+                                                                ("Illinois", 1, "VARIETY_ILLINOIS"), ("Jute", 1, "VARIETY_JUTE"), ("Kassite", 1, "VARIETY_KASSITE'"), ("Khazak", 1, "VARIETY_KHAZAK"), ("Khoisan", 1, "VARIETY_KHOISAN"), ("Kushans", 1, "VARIETY_KUSHANS"), 
+                                                                ("Ligurian", 1, "VARIETY_LIGURIAN"), ("Magyar", 1, "VARIETY_BUDA"), ("Minoan", 1, "VARIETY_MINOAN"), ("Mycenian", 1, "VARIETY_MYCENIAN"), ("Navajo", 1, "VARIETY_NAVAJO"), ("Nubian", 1, "VARIETY_NUBIAN"), 
+                                                                ("Numidian", 1, "VARIETY_NUMIDIAN"), ("Olmec", 1, "VARIETY_OLMEC"), ("Phoenician", 1, "VARIETY_PHEONICIAN"), ("Phrygian", 1, "VARIETY_PHRYGIAN"), ("Polynesian", 1, "VARIETY_POLYNESIAN"), ("Alan", 1, "VARIETY_POZSONY"), 
+                                                                ("Sakae", 1, "VARIETY_SAKAE"), ("Sarmatian", 1, "VARIETY_SARMATIAN"), ("Saxon", 1, "VARIETY_SAXON"), ("Scythian", 1, "VARIETY_SCYTHIAN"), ("Shangian", 1, "VARIETY_SHANGIAN"), ("Tartar", 1, "VARIETY_VOLGOGRAD"), 
+                                                                ("Thracian", 1, "VARIETY_THRACIAN"), ("Libyan", 1, "VARIETY_TRIPOLI"), ("Vandal", 1, "VARIETY_VANDAL"), ("Visigoth", 1, "VARIETY_VISIGOTH"), ("Yayoi", 1, "VARIETY_YAYOI"), ("Yue-Chi", 1, "VARIETY_YUECHI"), 
+                                                                ("Zapotec", 1, "VARIETY_ZAPOTEC"), ("Zhou", 1, "VARIETY_ZHOU"), ("Khitan", 1, "VARIETY_KHITAN"), ("Buryat", 1, "VARIETY_BURYAT")],
 }
 
 dVarietyNames = {
@@ -2344,132 +2344,132 @@ dVarietyNames = {
 
 
 def selectCityName(argsList):
-	'Selects a city name from the name-priority list of the given leader'
-	SelectionList = []
-	iHighestPriority = 0
-	iPlayer = argsList[0]
+    'Selects a city name from the name-priority list of the given leader'
+    SelectionList = []
+    iHighestPriority = 0
+    iPlayer = argsList[0]
 
-	# There is an issue that this is get called not only on city founding, but on acquiring a city too (conquest, flip, diplomatic)
-	# Thus whenever a leader with a city list in the dictionary acquires a city, it takes out the next possible city from the list unnecessarily
-	# As a solution we pass this function here whenever there was already a city on the plot
-	## what about city renaming manually?
+    # There is an issue that this is get called not only on city founding, but on acquiring a city too (conquest, flip, diplomatic)
+    # Thus whenever a leader with a city list in the dictionary acquires a city, it takes out the next possible city from the list unnecessarily
+    # As a solution we pass this function here whenever there was already a city on the plot
+    ## what about city renaming manually?
 #	if
 #		return ""
 
-	# I think leader identification shouldn't be based on the leader's name, as it might cause issues if it has accents or when using different language for the mod
-	# Could go for leader IDs, but that's hard to get from the huge XML file, and also hard to adapt after a change as it's directly based on the order there
-	# So I decided to use the path of the art: it doesn't have any language issues, just a copy-paste from the latest CIV4ArtDefines_Leaderhead.xml file, and if there is a change it only affects the given leader
-	pPlayer = gc.getPlayer(iPlayer)
-	pLeader = gc.getLeaderHeadInfo( pPlayer.getLeaderType() )
-	LeaderPath = pLeader.getLeaderHead()
-	print ("LeaderPath", LeaderPath)
+    # I think leader identification shouldn't be based on the leader's name, as it might cause issues if it has accents or when using different language for the mod
+    # Could go for leader IDs, but that's hard to get from the huge XML file, and also hard to adapt after a change as it's directly based on the order there
+    # So I decided to use the path of the art: it doesn't have any language issues, just a copy-paste from the latest CIV4ArtDefines_Leaderhead.xml file, and if there is a change it only affects the given leader
+    pPlayer = gc.getPlayer(iPlayer)
+    pLeader = gc.getLeaderHeadInfo( pPlayer.getLeaderType() )
+    LeaderPath = pLeader.getLeaderHead()
+    print ("LeaderPath", LeaderPath)
 
-	# Much easier this way after all
-	LeaderType = gc.getLeaderHeadInfo(pPlayer.getLeaderType()).getType()
-	print ("DCN LeaderType", LeaderType)
-	
-	# checks if the leader has any entries in the pool
-	if (LeaderType in dLeaderCities.keys()):
-		# choose which is the highest available priority among the available cities
-		for tCity in dLeaderCities[LeaderType]:
-			sCityName, iPriority, sVariety = tCity
-			#print ("sCityName", sCityName)
-			sCityName = unicode(sCityName, 'utf-8')
-			#print ("sCityName", sCityName)
-			if isCityNameValid(sCityName):
-				if (iPriority > iHighestPriority):
-					iHighestPriority = iPriority
-		# add all available cities from the highest priority to the selection list
-		for tCity in dLeaderCities[LeaderType]:
-			sCityName, iPriority, sVariety = tCity
-			sCityName = unicode(sCityName, 'utf-8')
-			if (iPriority == iHighestPriority):
-				if isCityNameValid(sCityName):
-					SelectionList.append(sCityName)
-					print ("sCityName", sCityName)
+    # Much easier this way after all
+    LeaderType = gc.getLeaderHeadInfo(pPlayer.getLeaderType()).getType()
+    print ("DCN LeaderType", LeaderType)
 
-	# aborts if no cities are available for the leader, so the vanilla naming method will be used
-	if len(SelectionList) == 0:
-		print "DCN: No eligible cities found for " + LeaderType + ". Standard city naming system used."
-		return ""
+    # checks if the leader has any entries in the pool
+    if (LeaderType in dLeaderCities.keys()):
+        # choose which is the highest available priority among the available cities
+        for tCity in dLeaderCities[LeaderType]:
+            sCityName, iPriority, sVariety = tCity
+            #print ("sCityName", sCityName)
+            sCityName = unicode(sCityName, 'utf-8')
+            #print ("sCityName", sCityName)
+            if isCityNameValid(sCityName):
+                if (iPriority > iHighestPriority):
+                    iHighestPriority = iPriority
+        # add all available cities from the highest priority to the selection list
+        for tCity in dLeaderCities[LeaderType]:
+            sCityName, iPriority, sVariety = tCity
+            sCityName = unicode(sCityName, 'utf-8')
+            if (iPriority == iHighestPriority):
+                if isCityNameValid(sCityName):
+                    SelectionList.append(sCityName)
+                    print ("sCityName", sCityName)
 
-	# otherwise choose a random city from the selection list
-	else:
-		rand = CyGame().getSorenRandNum(len(SelectionList), "City Name Selection")
-		sChosenCityName = SelectionList[rand]
+    # aborts if no cities are available for the leader, so the vanilla naming method will be used
+    if len(SelectionList) == 0:
+        print "DCN: No eligible cities found for " + LeaderType + ". Standard city naming system used."
+        return ""
 
-		# check if the chosen name is in a variety list
-		for tCity in dLeaderCities[LeaderType]:
-			sCityName, iPriority, sVariety = tCity
-			sCityName = unicode(sCityName, 'utf-8')
-			if (sCityName == sChosenCityName):
-				# if there are variety names, add all of them to the used list in StoredData
-				if (sVariety != -1):
-					if (sVariety in dVarietyNames.keys()):
-						for tVarietyName in dVarietyNames[sVariety]:
-							sName, sCiv = tVarietyName
-							sName = unicode(sName, 'utf-8')
-							# into the StoredData you go
-							addCityToUsedList(sName)
-				# if we already found and checked a city name, no need to continue the loop
-				break
+    # otherwise choose a random city from the selection list
+    else:
+        rand = CyGame().getSorenRandNum(len(SelectionList), "City Name Selection")
+        sChosenCityName = SelectionList[rand]
 
-		# update the used city name list in the StoredData with the main name
-		addCityToUsedList(sChosenCityName)
-		#print ("lUsedCityNames",lUsedCityNames)
+        # check if the chosen name is in a variety list
+        for tCity in dLeaderCities[LeaderType]:
+            sCityName, iPriority, sVariety = tCity
+            sCityName = unicode(sCityName, 'utf-8')
+            if (sCityName == sChosenCityName):
+                # if there are variety names, add all of them to the used list in StoredData
+                if (sVariety != -1):
+                    if (sVariety in dVarietyNames.keys()):
+                        for tVarietyName in dVarietyNames[sVariety]:
+                            sName, sCiv = tVarietyName
+                            sName = unicode(sName, 'utf-8')
+                            # into the StoredData you go
+                            addCityToUsedList(sName)
+                # if we already found and checked a city name, no need to continue the loop
+                break
 
-		# final output name
-		sChosenCityName = getOutputEncoding(sChosenCityName)
+        # update the used city name list in the StoredData with the main name
+        addCityToUsedList(sChosenCityName)
+        #print ("lUsedCityNames",lUsedCityNames)
 
-		print ""
-		print "DYNAMIC CITY NAMES"
-		print "Priority: " + str(iHighestPriority)
-		print "Candidates: " + str(SelectionList)
-		print sChosenCityName + " founded by " + LeaderType
-		print unicode(sChosenCityName, 'utf-8')
+        # final output name
+        sChosenCityName = getOutputEncoding(sChosenCityName)
 
-		return unicode(sChosenCityName, 'utf-8')
+        print ("")
+        print ("DYNAMIC CITY NAMES")
+        print ("Priority: " + str(iHighestPriority))
+        print ("Candidates: " + str(SelectionList))
+        print (sChosenCityName + " founded by " + LeaderType)
+        print (unicode(sChosenCityName, 'utf-8'))
+
+        return unicode(sChosenCityName, 'utf-8')
 
 
 def renameVarietyCity(pCity, iNewOwner):
-	'Renames city to a variety name when owner changes'
-	oldname = pCity.getName()
-	#print ("oldname", oldname)
-	newname = ""
-	NewOwnerCivName = gc.getCivilizationInfo(gc.getPlayer(iNewOwner).getCivilizationType()).getType()
-	NewOwnerLeaderName = gc.getLeaderHeadInfo(gc.getPlayer(iNewOwner).getLeaderType()).getType()
-	#print ("NewOwnerCivName", NewOwnerCivName)
-	#print ("NewOwnerLeaderName", NewOwnerLeaderName)
+    'Renames city to a variety name when owner changes'
+    oldname = pCity.getName()
+    #print ("oldname", oldname)
+    newname = ""
+    NewOwnerCivName = gc.getCivilizationInfo(gc.getPlayer(iNewOwner).getCivilizationType()).getType()
+    NewOwnerLeaderName = gc.getLeaderHeadInfo(gc.getPlayer(iNewOwner).getLeaderType()).getType()
+    #print ("NewOwnerCivName", NewOwnerCivName)
+    #print ("NewOwnerLeaderName", NewOwnerLeaderName)
 #	bCheckedVariety = False
 
-	# first we check if the chosen name is in any of the cities' variety lists for the given leader
-	# this is much quicker than the other loop below, so we will probably save some time when most leader lists are ready
-	for tLeader in dLeaderCities.keys():
-		if tLeader == NewOwnerLeaderName:
-			for tCity in dLeaderCities[tLeader]:
-				sCityName, iPriority, sVariety = tCity
-				sCityName = unicode(sCityName, 'utf-8')
-				# if there are variety names, check if it has the original name on it
-				if (sVariety != -1):
-					if (sVariety in dVarietyNames.keys()):
-						for tVarietyName in dVarietyNames[sVariety]:
-							sName, sKey = tVarietyName
-							sName = unicode(sName, 'utf-8')
-							if sName == oldname:
-								# if the given variety list has an entry for the original city name, add the actually looped city name from the leader's list
-								newname = sCityName
-								# instead of breaking this small loop, we add all the variety names to the used name list here - needed somewhere, as the city might have been founded with the vanilla method
-								for tVarietyName in dVarietyNames[sVariety]:
-									sName, sKey = tVarietyName
-									sName = unicode(sName, 'utf-8')
-									addCityToUsedList(sName)
-								# no need to continue if we already found a fitting variety name
-								break
-				# if we already found a name, break the city loop
-				if (newname != ""):
-					break
-			# if we already checked the correct leader, no need to continue
-			break
+    # first we check if the chosen name is in any of the cities' variety lists for the given leader
+    # this is much quicker than the other loop below, so we will probably save some time when most leader lists are ready
+    for tLeader in dLeaderCities.keys():
+        if tLeader == NewOwnerLeaderName:
+            for tCity in dLeaderCities[tLeader]:
+                sCityName, iPriority, sVariety = tCity
+                sCityName = unicode(sCityName, 'utf-8')
+                # if there are variety names, check if it has the original name on it
+                if (sVariety != -1):
+                    if (sVariety in dVarietyNames.keys()):
+                        for tVarietyName in dVarietyNames[sVariety]:
+                            sName, sKey = tVarietyName
+                            sName = unicode(sName, 'utf-8')
+                            if sName == oldname:
+                                # if the given variety list has an entry for the original city name, add the actually looped city name from the leader's list
+                                newname = sCityName
+                                # instead of breaking this small loop, we add all the variety names to the used name list here - needed somewhere, as the city might have been founded with the vanilla method
+                                for tVarietyName in dVarietyNames[sVariety]:
+                                    sName, sKey = tVarietyName
+                                    sName = unicode(sName, 'utf-8')
+                                    addCityToUsedList(sName)
+                                # no need to continue if we already found a fitting variety name
+                                break
+                # if we already found a name, break the city loop
+                if (newname != ""):
+                    break
+            # if we already checked the correct leader, no need to continue
+            break
 
 #	for tLeader in dLeaderCities.keys():
 #		for tCity in dLeaderCities[tLeader]:
@@ -2510,187 +2510,187 @@ def renameVarietyCity(pCity, iNewOwner):
 #		if bCheckedVariety:
 #			break
 
-	# if we didn't find a good name, run through all the variety lists separately
-	# needed, because we can have city names only on the variety lists (so they are only renames for a given leader, he/she cannot found the city)
-	if (newname == ""):
-		for sVariety in dVarietyNames.keys():
-			for tVarietyName in dVarietyNames[sVariety]:
-				sName, sKey = tVarietyName
-				sName = unicode(sName, 'utf-8')
-				# if one of the names in a variety list is the current name of the city
-				if sName == oldname:
-					# first check for a fitting leader
-					for tVarietyNameOk in dVarietyNames[sVariety]:
-						sName, sKey = tVarietyNameOk
-						sName = unicode(sName, 'utf-8')
-						if (NewOwnerLeaderName == sKey):
-							newname = sName
-						# instead of breaking this small loop, we add all the variety names to the used name list here - needed somewhere, as the city might have been founded with the vanilla method
-						addCityToUsedList(sName)
-					# if no leader available, then check for a fitting civ
-					if (newname == ""):
-						for tVarietyNameOk in dVarietyNames[sVariety]:
-							sName, sKey = tVarietyNameOk
-							sName = unicode(sName, 'utf-8')
-							if (NewOwnerCivName == sKey):
-								newname = sName
-								break
-					# if it does not have a special name associated to neither the given leader nor the civ, use the default name
-					if (newname == ""):
-						for tVarietyNameOk in dVarietyNames[sVariety]:
-							sName, sKey = tVarietyNameOk
-							sName = unicode(sName, 'utf-8')
-							if (sKey == 'DEFAULT'):
-								newname = sName
-								break
-					# if we already checked a name, break the loop of the variety name
-					break
-			# if we already found a name, break the main variety loop
-			if (newname != ""):
-				break
+    # if we didn't find a good name, run through all the variety lists separately
+    # needed, because we can have city names only on the variety lists (so they are only renames for a given leader, he/she cannot found the city)
+    if (newname == ""):
+        for sVariety in dVarietyNames.keys():
+            for tVarietyName in dVarietyNames[sVariety]:
+                sName, sKey = tVarietyName
+                sName = unicode(sName, 'utf-8')
+                # if one of the names in a variety list is the current name of the city
+                if sName == oldname:
+                    # first check for a fitting leader
+                    for tVarietyNameOk in dVarietyNames[sVariety]:
+                        sName, sKey = tVarietyNameOk
+                        sName = unicode(sName, 'utf-8')
+                        if (NewOwnerLeaderName == sKey):
+                            newname = sName
+                        # instead of breaking this small loop, we add all the variety names to the used name list here - needed somewhere, as the city might have been founded with the vanilla method
+                        addCityToUsedList(sName)
+                    # if no leader available, then check for a fitting civ
+                    if (newname == ""):
+                        for tVarietyNameOk in dVarietyNames[sVariety]:
+                            sName, sKey = tVarietyNameOk
+                            sName = unicode(sName, 'utf-8')
+                            if (NewOwnerCivName == sKey):
+                                newname = sName
+                                break
+                    # if it does not have a special name associated to neither the given leader nor the civ, use the default name
+                    if (newname == ""):
+                        for tVarietyNameOk in dVarietyNames[sVariety]:
+                            sName, sKey = tVarietyNameOk
+                            sName = unicode(sName, 'utf-8')
+                            if (sKey == 'DEFAULT'):
+                                newname = sName
+                                break
+                    # if we already checked a name, break the loop of the variety name
+                    break
+            # if we already found a name, break the main variety loop
+            if (newname != ""):
+                break
 
-	# add the old name to the used name list as well - just in case, maybe it was founded with the vanilla method
-	addCityToUsedList(oldname)
-	#print ("lUsedCityNames",lUsedCityNames)
+    # add the old name to the used name list as well - just in case, maybe it was founded with the vanilla method
+    addCityToUsedList(oldname)
+    #print ("lUsedCityNames",lUsedCityNames)
 
-	# if there is an actual variety name for the leader/civ, add that one
-	if newname != "" and oldname != newname:
-		pCity.setName(newname, False)
-		print "DCN: " + oldname + " was renamed to " + newname
-		# interface message for the human player
-		for iPlayer in range (gc.getMAX_PLAYERS()):
-			pPlayer = gc.getPlayer(iPlayer)
-			if pPlayer.isAlive() and pPlayer.isHuman():
-				if pCity.isRevealed(pPlayer.getTeam(), False):
-					CyInterface().addMessage(iPlayer, False, 15, CyTranslator().getText('TXT_KEY_MESSAGE_CITY_RENAMED', (oldname, newname)), '', 0, '', gc.getInfoTypeForString('COLOR_WHITE'), -1, -1, False, False)
+    # if there is an actual variety name for the leader/civ, add that one
+    if newname != "" and oldname != newname:
+        pCity.setName(newname, False)
+        print ("DCN: " + oldname + " was renamed to " + newname)
+        # interface message for the human player
+        for iPlayer in range (gc.getMAX_PLAYERS()):
+            pPlayer = gc.getPlayer(iPlayer)
+            if pPlayer.isAlive() and pPlayer.isHuman():
+                if pCity.isRevealed(pPlayer.getTeam(), False):
+                    CyInterface().addMessage(iPlayer, False, 15, CyTranslator().getText('TXT_KEY_MESSAGE_CITY_RENAMED', (oldname, newname)), '', 0, '', gc.getInfoTypeForString('COLOR_WHITE'), -1, -1, False, False)
 
 
 def addCityToUsedList(sBannedName):
-	'Adds the given city name to the list of used city names if not already on it'
-	bIsOnList = False
-	lCurrentList = sd.getUsedCityNames()
-	print ("DCN: lCurrentList", lCurrentList)
+    'Adds the given city name to the list of used city names if not already on it'
+    bIsOnList = False
+    lCurrentList = sd.getUsedCityNames()
+    print ("DCN: lCurrentList", lCurrentList)
 
-	# checks if it's already on the list
-	for sName in lCurrentList:
-		if (sBannedName == sName):
-			bIsOnList = True
-			break
+    # checks if it's already on the list
+    for sName in lCurrentList:
+        if (sBannedName == sName):
+            bIsOnList = True
+            break
 
-	# adds if it's not
-	if not bIsOnList:
-		lUsedCityNames = sd.getUsedCityNames()
-		lUsedCityNames.append(sBannedName)
-		sd.setUsedCityNames(lUsedCityNames)
-		print ("DCN: new name on lUsedCityNames", sBannedName)
-	else:
-		print ("DCN: name was already on lUsedCityNames", sBannedName)
+    # adds if it's not
+    if not bIsOnList:
+        lUsedCityNames = sd.getUsedCityNames()
+        lUsedCityNames.append(sBannedName)
+        sd.setUsedCityNames(lUsedCityNames)
+        print ("DCN: new name on lUsedCityNames", sBannedName)
+    else:
+        print ("DCN: name was already on lUsedCityNames", sBannedName)
 
-	lUsedCityNames = sd.getUsedCityNames()
-	print ("DCN: lUsedCityNames", lUsedCityNames)
+    lUsedCityNames = sd.getUsedCityNames()
+    print ("DCN: lUsedCityNames", lUsedCityNames)
 
 
 def isCityNameValid(sCityName):
-	'Checks if the potential name is used for any civ'
-	'Needed because some of the city names might have been set with the vanilla naming method, or might have been manually renamed to a name on one of the lists'
-	bCityNameValid = True
-	for iPlayer in range(gc.getMAX_PLAYERS()):
-		pPlayer = gc.getPlayer(iPlayer)
-		if pPlayer.isAlive():
-			apCityList = PyPlayer(pPlayer.getID()).getCityList()
-			for pLoopCity in apCityList:
-				pCity = pLoopCity.GetCy()
-				sLoopCityName = pCity.getName()
-				#print ("sLoopCityName", sLoopCityName)
-				if (sLoopCityName == sCityName):
-					bCityNameValid = False
-					break
-		if not bCityNameValid:
-			break
-	'Checks if the potential name was already used before, from any of the leader-specific lists'
-	if bCityNameValid:
-		for sUsedCityName in sd.getUsedCityNames():
-			#print ("sUsedCityName", sUsedCityName)
-			if (sUsedCityName == sCityName):
-				bCityNameValid = False
-				#print ("sUsedCityName", sUsedCityName)
-				break
-	#print ("bCityNameValid", bCityNameValid)
-	return bCityNameValid
+    'Checks if the potential name is used for any civ'
+    'Needed because some of the city names might have been set with the vanilla naming method, or might have been manually renamed to a name on one of the lists'
+    bCityNameValid = True
+    for iPlayer in range(gc.getMAX_PLAYERS()):
+        pPlayer = gc.getPlayer(iPlayer)
+        if pPlayer.isAlive():
+            apCityList = PyPlayer(pPlayer.getID()).getCityList()
+            for pLoopCity in apCityList:
+                pCity = pLoopCity.GetCy()
+                sLoopCityName = pCity.getName()
+                #print ("sLoopCityName", sLoopCityName)
+                if (sLoopCityName == sCityName):
+                    bCityNameValid = False
+                    break
+        if not bCityNameValid:
+            break
+    'Checks if the potential name was already used before, from any of the leader-specific lists'
+    if bCityNameValid:
+        for sUsedCityName in sd.getUsedCityNames():
+            #print ("sUsedCityName", sUsedCityName)
+            if (sUsedCityName == sCityName):
+                bCityNameValid = False
+                #print ("sUsedCityName", sUsedCityName)
+                break
+    #print ("bCityNameValid", bCityNameValid)
+    return bCityNameValid
 
 
 def removeNewCityName(cityName):
-	'The new name is effectively removed from all leader-specific lists when a city is renamed'
-	sNewName = cityName
-	#print ("sNewName: ", sNewName)
-	bCheckedVariety = False
+    'The new name is effectively removed from all leader-specific lists when a city is renamed'
+    sNewName = cityName
+    #print ("sNewName: ", sNewName)
+    bCheckedVariety = False
 
-	# check if the chosen name is in a variety list
-	for tLeader in dLeaderCities.keys():
-		for tCity in dLeaderCities[tLeader]:
-			sCityName, iPriority, sVariety = tCity
-			#print sCityName
-			sCityName = unicode(sCityName, 'utf-8')
-			if (sCityName == sNewName):
-				# if there are variety names, add all of them to the used list in StoredData
-				if (sVariety != -1):
-					if (sVariety in dVarietyNames.keys()):
-						for tVarietyName in dVarietyNames[sVariety]:
-							sName, sCiv = tVarietyName
-							sName = unicode(sName, 'utf-8')
-							# into the StoredData you go
-							addCityToUsedList(sName)
-				# if we already found and checked a city name, no need to continue the loop
-				bCheckedVariety = True
-				break
-		# if we already found and checked a city name, no need to continue the loop
-		if bCheckedVariety:
-			break
+    # check if the chosen name is in a variety list
+    for tLeader in dLeaderCities.keys():
+        for tCity in dLeaderCities[tLeader]:
+            sCityName, iPriority, sVariety = tCity
+            #print sCityName
+            sCityName = unicode(sCityName, 'utf-8')
+            if (sCityName == sNewName):
+                # if there are variety names, add all of them to the used list in StoredData
+                if (sVariety != -1):
+                    if (sVariety in dVarietyNames.keys()):
+                        for tVarietyName in dVarietyNames[sVariety]:
+                            sName, sCiv = tVarietyName
+                            sName = unicode(sName, 'utf-8')
+                            # into the StoredData you go
+                            addCityToUsedList(sName)
+                # if we already found and checked a city name, no need to continue the loop
+                bCheckedVariety = True
+                break
+        # if we already found and checked a city name, no need to continue the loop
+        if bCheckedVariety:
+            break
 
-	# add the main new name to the used name list in the StoredData, in case there are no variety names
-	addCityToUsedList(sNewName)
-	#print ("lUsedCityNames: ", lUsedCityNames)
+    # add the main new name to the used name list in the StoredData, in case there are no variety names
+    addCityToUsedList(sNewName)
+    #print ("lUsedCityNames: ", lUsedCityNames)
 
 
 def removeCityName(szCityName):
-	'Checks all leader lists, removes the chosen city name from all of them'
-	'We look through all leader lists, to avoid all potential issues with renames'
-	for key, info in dLeaderCities.iteritems():
-		info = [item for item in info if item[0].decode('utf-8') != szCityName]
-		print info
-		dLeaderCities[key] = info
-	print dLeaderCities
+    'Checks all leader lists, removes the chosen city name from all of them'
+    'We look through all leader lists, to avoid all potential issues with renames'
+    for key, info in dLeaderCities.iteritems():
+        info = [item for item in info if item[0].decode('utf-8') != szCityName]
+        print info
+        dLeaderCities[key] = info
+    print dLeaderCities
 
 
 def getOutputEncoding(string):
-	'Encodes string correctly for console output'
-	if type(string) == str:
-		return string
-	else:
-		return string.encode('utf-8')
+    'Encodes string correctly for console output'
+    if type(string) == str:
+        return string
+    else:
+        return string.encode('utf-8')
 
 
 def onGameStart():
-	'Add the name of the initally placed cities into the used city name list'
-	for iX in range(gc.getMap().getGridWidth()):
-		for iY in range(gc.getMap().getGridHeight()):
-			pPlot = gc.getMap().plot(iX, iY)
-			if pPlot.isCity():
-				sCityName = pPlot.getPlotCity().getName()
-				addCityToUsedList(sCityName)
-				# check if the name is in a variety list
-				for sVariety in dVarietyNames.keys():
-					for tVarietyName in dVarietyNames[sVariety]:
-						sName, sCiv = tVarietyName
-						sName = unicode(sName, 'utf-8')
-						# if we have the name on a variety list, add all the names there to the used list
-						if sName == sCityName:
-							for tVarietyNameOk in dVarietyNames[sVariety]:
-								sName, sCiv = tVarietyNameOk
-								sName = unicode(sName, 'utf-8')
-								# into the StoredData you go
-								addCityToUsedList(sName)
-							# no need to loop the variety list multiple times if there are more entries with this name
-							break
+    'Add the name of the initally placed cities into the used city name list'
+    for iX in range(gc.getMap().getGridWidth()):
+        for iY in range(gc.getMap().getGridHeight()):
+            pPlot = gc.getMap().plot(iX, iY)
+            if pPlot.isCity():
+                sCityName = pPlot.getPlotCity().getName()
+                addCityToUsedList(sCityName)
+                # check if the name is in a variety list
+                for sVariety in dVarietyNames.keys():
+                    for tVarietyName in dVarietyNames[sVariety]:
+                        sName, sCiv = tVarietyName
+                        sName = unicode(sName, 'utf-8')
+                        # if we have the name on a variety list, add all the names there to the used list
+                        if sName == sCityName:
+                            for tVarietyNameOk in dVarietyNames[sVariety]:
+                                sName, sCiv = tVarietyNameOk
+                                sName = unicode(sName, 'utf-8')
+                                # into the StoredData you go
+                                addCityToUsedList(sName)
+                            # no need to loop the variety list multiple times if there are more entries with this name
+                            break
 
 

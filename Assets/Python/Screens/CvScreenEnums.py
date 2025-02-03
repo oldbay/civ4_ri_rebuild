@@ -1,9 +1,9 @@
-## Sid Meier's Civilization 4
-## Copyright Firaxis Games 2005
+# Sid Meier's Civilization 4
+# Copyright Firaxis Games 2005
 
 # Enum for screens...
 
-from CvPythonExtensions import CivilopediaPageTypes
+#from CvPythonExtensions import CivilopediaPageTypes
 
 DOMESTIC_ADVISOR = 0
 REWARD_SCREEN = 1
