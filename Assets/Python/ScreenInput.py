@@ -1,8 +1,10 @@
-## Sid Meier's Civilization 4
-## Copyright Firaxis Games 2005
+# Sid Meier's Civilization 4
+# Copyright Firaxis Games 2005
+
 import CvUtil
 
 from CvPythonExtensions import *
+from CvPythonEngine import *
 
 
 # Class to decipher and make screen input easy to read...
@@ -10,8 +12,8 @@ class ScreenInput:
 
 	# Init call...
 	# MOD - START - Improved Screen Input
-	#def __init__ (self, argsList):
-	def __init__ (self, argsList, bKeydown):
+	# def __init__ (self, argsList):
+	def __init__(self, argsList, bKeydown):
 	# MOD - END - Improved Screen Input
 		self.eNotifyCode = argsList[0]
 		self.iData = argsList[1]
@@ -33,97 +35,97 @@ class ScreenInput:
 		# MOD - END - Improved Screen Input
 
 	# NotifyCode
-	def getNotifyCode (self):
+	def getNotifyCode(self):
 		return self.eNotifyCode
 
 	# Data
-	def getData (self):
+	def getData(self):
 		return self.iData
 
 	# Flags
-	def getFlags (self):
+	def getFlags(self):
 		return self.uiFlags
 
 	# Item ID
-	def getID (self):
+	def getID(self):
 		return self.iItemID
 
 	# Python File
-	def getPythonFile (self):
+	def getPythonFile(self):
 		return self.ePythonFileEnum
 
 	# Function Name...
-	def getFunctionName (self):
+	def getFunctionName(self):
 		return self.szFunctionName
 
 	# Shift Key Down
-	def isShiftKeyDown (self):
+	def isShiftKeyDown(self):
 		return self.bShift
 
 	# Ctrl Key Down
-	def isCtrlKeyDown (self):
+	def isCtrlKeyDown(self):
 		return self.bCtrl
 
 	# Alt Key Down
-	def isAltKeyDown (self):
+	def isAltKeyDown(self):
 		return self.bAlt
 
 	# X location of the mouse cursor
-	def getMouseX (self):
+	def getMouseX(self):
 		return self.iMouseX
 
 	# Y location of the mouse cursor
-	def getMouseY (self):
+	def getMouseY(self):
 		return self.iMouseY
 
 	# WidgetType
-	def getButtonType (self):
+	def getButtonType(self):
 		return self.iButtonType
 
 	# Widget Data 1
-	def getData1 (self):
+	def getData1(self):
 		return self.iData1
 
 	# Widget Data 2
-	def getData2 (self):
+	def getData2(self):
 		return self.iData2
 
 	# Widget Option
-	def getOption (self):
+	def getOption(self):
 		return self.bOption
-	
+
 	# MOD - START - Improved Screen Input
-	def isKeydown (self):
+	def isKeydown(self):
 		return self.bKeydown
-	
-	def getVisibleCharacter (self):
+
+	def getVisibleCharacter(self):
 		key = int(self.iData)
 		if (key >= int(InputTypes.KB_A) and key <= int(InputTypes.KB_Z)):
 			letterOffset = key - int(InputTypes.KB_A)
 			if (self.bShift):
-				return unichr(65 + letterOffset)
+				return chr(65 + letterOffset)
 			else:
-				return unichr(97 + letterOffset)
+				return chr(97 + letterOffset)
 		elif (key == int(InputTypes.KB_SPACE)):
 			return u" "
 		elif (key >= int(InputTypes.KB_0) and key <= int(InputTypes.KB_9)):
 			numberOffset = key - int(InputTypes.KB_0)
-			return unichr(48 + numberOffset)
+			return chr(48 + numberOffset)
 		return u""
-	
-	def modifyString (self, szContent):
+
+	def modifyString(self, szContent):
 		character = self.getVisibleCharacter()
 		if (len(character) > 0):
 			if (szContent):
 				return szContent + character
 			else:
 				return character
-		
+
 		key = int(self.iData)
 		if (key == int(InputTypes.KB_BACKSPACE)):
 			return szContent[:-1]
-		
+
 		return szContent
-		
+
 	# MOD - END - Improved Screen Input
 

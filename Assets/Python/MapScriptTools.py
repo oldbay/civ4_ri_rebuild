@@ -10,6 +10,8 @@
 # Check mapscripttools_changelog.txt for a detailed log of all changes between different MapScriptTools versions
 
 from CvPythonExtensions import *
+from CvPythonEngine import * 
+
 import CvMapGeneratorUtil
 import CvUtil
 import inspect

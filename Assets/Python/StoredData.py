@@ -4,10 +4,11 @@
 
 from CvPythonExtensions import *
 import CvUtil
-import cPickle as pickle
+import pickle
 
 # globals
 gc = CyGlobalContext()
+
 
 class StoredData:
 
@@ -18,28 +19,29 @@ class StoredData:
 		'Loads and unpickles script data'
 		#self.scriptDict = pickle.loads(gc.getGame().getScriptData())
 		self.scriptDict.update(pickle.loads(gc.getPlayer(0).getScriptData()))
-		print ("AR scriptdata on load", self.scriptDict)
+		print("AR scriptdata on load", self.scriptDict)
 
 	def save(self):
 		'Pickles and saves script data'
-		#gc.getGame().setScriptData(pickle.dumps(self.scriptDict))
+		# gc.getGame().setScriptData(pickle.dumps(self.scriptDict))
 		gc.getPlayer(0).setScriptData(pickle.dumps(self.scriptDict))
-		print ("AR scriptdata on save", self.scriptDict)
+		print("AR scriptdata on save", self.scriptDict)
 
 	def setup(self):
 		'Initialise the global script data dictionary for usage'
 		self.scriptDict = {
 			'lUsedCityNames': [],
-			}
+                }
 
-	### All read/write functions go here so that pickling is only done on load & preSave
+	# All read/write functions go here so that pickling is only done on load & preSave
 
 	# from DynamicCityNaming.py
-	def setUsedCityNames( self, lNewList ):
+	def setUsedCityNames(self, lNewList):
 		self.scriptDict['lUsedCityNames'] = lNewList
 
-	def getUsedCityNames( self ):
+	def getUsedCityNames(self):
 		return self.scriptDict['lUsedCityNames']
 
-### All modules import the following single instance, not the class
+
+# All modules import the following single instance, not the class
 sd = StoredData()

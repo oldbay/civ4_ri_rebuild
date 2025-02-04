@@ -1,27 +1,32 @@
-## Sid Meier's Civilization 4
-## Copyright Firaxis Games 2005
+# Sid Meier's Civilization 4
+# Copyright Firaxis Games 2005
 ##
-## Implementaion of miscellaneous game functions
+# Implementaion of miscellaneous game functions
 
 import CvUtil
+
 from CvPythonExtensions import *
+from CvPythonEngine import *
+
 import CvEventInterface
 import Consts as con
 
 ## Revolutions ##
-import Revolutions
+from Components import Revolutions
 ## Revolutions ##
 
 # globals
 gc = CyGlobalContext()
 
+
 class CvGameUtils:
 	"Miscellaneous game functions"
-	def __init__(self): 
+
+	def __init__(self):
 		pass
-	
+
 	def isVictoryTest(self):
-		if ( gc.getGame().getElapsedGameTurns() > 10 ):
+		if (gc.getGame().getElapsedGameTurns() > 10):
 			return True
 		else:
 			return False
@@ -40,88 +45,88 @@ class CvGameUtils:
 
 	def createBarbarianCities(self):
 		return False
-		
+
 	def createBarbarianUnits(self):
 		return False
-		
-	def skipResearchPopup(self,argsList):
+
+	def skipResearchPopup(self, argsList):
 		ePlayer = argsList[0]
 		return False
-		
-	def showTechChooserButton(self,argsList):
+
+	def showTechChooserButton(self, argsList):
 		ePlayer = argsList[0]
 		return True
 
-	def getFirstRecommendedTech(self,argsList):
+	def getFirstRecommendedTech(self, argsList):
 		ePlayer = argsList[0]
 		return TechTypes.NO_TECH
 
-	def getSecondRecommendedTech(self,argsList):
+	def getSecondRecommendedTech(self, argsList):
 		ePlayer = argsList[0]
 		eFirstTech = argsList[1]
 		return TechTypes.NO_TECH
-	
-	def canRazeCity(self,argsList):
+
+	def canRazeCity(self, argsList):
 		iRazingPlayer, pCity = argsList
 		return True
-	
-	def canDeclareWar(self,argsList):
+
+	def canDeclareWar(self, argsList):
 		iAttackingTeam, iDefendingTeam = argsList
 		return True
-	
-	def skipProductionPopup(self,argsList):
+
+	def skipProductionPopup(self, argsList):
 		pCity = argsList[0]
 		return False
-		
-	def showExamineCityButton(self,argsList):
+
+	def showExamineCityButton(self, argsList):
 		pCity = argsList[0]
 		return True
 
-	def getRecommendedUnit(self,argsList):
+	def getRecommendedUnit(self, argsList):
 		pCity = argsList[0]
 		return UnitTypes.NO_UNIT
 
-	def getRecommendedBuilding(self,argsList):
+	def getRecommendedBuilding(self, argsList):
 		pCity = argsList[0]
 		return BuildingTypes.NO_BUILDING
 
 	def updateColoredPlots(self):
 		return False
 
-	def isActionRecommended(self,argsList):
+	def isActionRecommended(self, argsList):
 		pUnit = argsList[0]
 		iAction = argsList[1]
 		return False
 
-	def unitCannotMoveInto(self,argsList):
-		ePlayer = argsList[0]		
+	def unitCannotMoveInto(self, argsList):
+		ePlayer = argsList[0]
 		iUnitId = argsList[1]
 		iPlotX = argsList[2]
 		iPlotY = argsList[3]
 		return False
 
-	def cannotHandleAction(self,argsList):
+	def cannotHandleAction(self, argsList):
 		pPlot = argsList[0]
 		iAction = argsList[1]
 		bTestVisible = argsList[2]
 		return False
 
-	def canBuild(self,argsList):
+	def canBuild(self, argsList):
 		iX, iY, iBuild, iPlayer = argsList
-		return -1	# Returning -1 means ignore; 0 means Build cannot be performed; 1 or greater means it can
+		return -1  # Returning -1 means ignore; 0 means Build cannot be performed; 1 or greater means it can
 
-	def cannotFoundCity(self,argsList):
+	def cannotFoundCity(self, argsList):
 		iPlayer, iPlotX, iPlotY = argsList
 		return False
 
-	def cannotSelectionListMove(self,argsList):
+	def cannotSelectionListMove(self, argsList):
 		pPlot = argsList[0]
 		bAlt = argsList[1]
 		bShift = argsList[2]
 		bCtrl = argsList[3]
 		return False
 
-	def cannotSelectionListGameNetMessage(self,argsList):
+	def cannotSelectionListGameNetMessage(self, argsList):
 		eMessage = argsList[0]
 		iData2 = argsList[1]
 		iData3 = argsList[2]
@@ -131,33 +136,33 @@ class CvGameUtils:
 		bShift = argsList[6]
 		return False
 
-	def cannotDoControl(self,argsList):
+	def cannotDoControl(self, argsList):
 		eControl = argsList[0]
 		return False
 
-	def canResearch(self,argsList):
+	def canResearch(self, argsList):
 		ePlayer = argsList[0]
 		eTech = argsList[1]
 		bTrade = argsList[2]
 		return False
 
-	def cannotResearch(self,argsList):
+	def cannotResearch(self, argsList):
 		ePlayer = argsList[0]
 		eTech = argsList[1]
 		bTrade = argsList[2]
 		return False
 
-	def canDoCivic(self,argsList):
+	def canDoCivic(self, argsList):
 		ePlayer = argsList[0]
 		eCivic = argsList[1]
 		return False
 
-	def cannotDoCivic(self,argsList):
+	def cannotDoCivic(self, argsList):
 		ePlayer = argsList[0]
 		eCivic = argsList[1]
 		return False
-		
-	def canTrain(self,argsList):
+
+	def canTrain(self, argsList):
 		pCity = argsList[0]
 		eUnit = argsList[1]
 		bContinue = argsList[2]
@@ -166,7 +171,7 @@ class CvGameUtils:
 		bIgnoreUpgrades = argsList[5]
 		return False
 
-	def cannotTrain(self,argsList):
+	def cannotTrain(self, argsList):
 		pCity = argsList[0]
 		eUnit = argsList[1]
 		bContinue = argsList[2]
@@ -175,7 +180,7 @@ class CvGameUtils:
 		bIgnoreUpgrades = argsList[5]
 		return False
 
-	def canConstruct(self,argsList):
+	def canConstruct(self, argsList):
 		pCity = argsList[0]
 		eBuilding = argsList[1]
 		bContinue = argsList[2]
@@ -183,7 +188,7 @@ class CvGameUtils:
 		bIgnoreCost = argsList[4]
 		return False
 
-	def cannotConstruct(self,argsList):
+	def cannotConstruct(self, argsList):
 		pCity = argsList[0]
 		eBuilding = argsList[1]
 		bContinue = argsList[2]
@@ -191,64 +196,64 @@ class CvGameUtils:
 		bIgnoreCost = argsList[4]
 		return False
 
-	def canCreate(self,argsList):
+	def canCreate(self, argsList):
 		pCity = argsList[0]
 		eProject = argsList[1]
 		bContinue = argsList[2]
 		bTestVisible = argsList[3]
 		return False
 
-	def cannotCreate(self,argsList):
+	def cannotCreate(self, argsList):
 		pCity = argsList[0]
 		eProject = argsList[1]
 		bContinue = argsList[2]
 		bTestVisible = argsList[3]
 		return False
 
-	def canMaintain(self,argsList):
+	def canMaintain(self, argsList):
 		pCity = argsList[0]
 		eProcess = argsList[1]
 		bContinue = argsList[2]
 		return False
 
-	def cannotMaintain(self,argsList):
+	def cannotMaintain(self, argsList):
 		pCity = argsList[0]
 		eProcess = argsList[1]
 		bContinue = argsList[2]
 		return False
 
-	def AI_chooseTech(self,argsList):
+	def AI_chooseTech(self, argsList):
 		ePlayer = argsList[0]
 		bFree = argsList[1]
 		return TechTypes.NO_TECH
 
-	def AI_chooseProduction(self,argsList):
+	def AI_chooseProduction(self, argsList):
 		pCity = argsList[0]
 		return False
 
-	def AI_unitUpdate(self,argsList):
+	def AI_unitUpdate(self, argsList):
 		pUnit = argsList[0]
 		return False
 
-	def AI_doWar(self,argsList):
+	def AI_doWar(self, argsList):
 		eTeam = argsList[0]
 		return False
 
-	def AI_doDiplo(self,argsList):
+	def AI_doDiplo(self, argsList):
 		ePlayer = argsList[0]
 		return False
 
-	def calculateScore(self,argsList):
+	def calculateScore(self, argsList):
 		ePlayer = argsList[0]
 		bFinal = argsList[1]
 		bVictory = argsList[2]
-		
+
 		iPopulationScore = CvUtil.getScoreComponent(gc.getPlayer(ePlayer).getPopScore(), gc.getGame().getInitPopulation(), gc.getGame().getMaxPopulation(), gc.getDefineINT("SCORE_POPULATION_FACTOR"), True, bFinal, bVictory)
 		iLandScore = CvUtil.getScoreComponent(gc.getPlayer(ePlayer).getLandScore(), gc.getGame().getInitLand(), gc.getGame().getMaxLand(), gc.getDefineINT("SCORE_LAND_FACTOR"), True, bFinal, bVictory)
 		iTechScore = CvUtil.getScoreComponent(gc.getPlayer(ePlayer).getTechScore(), gc.getGame().getInitTech(), gc.getGame().getMaxTech(), gc.getDefineINT("SCORE_TECH_FACTOR"), True, bFinal, bVictory)
 		iWondersScore = CvUtil.getScoreComponent(gc.getPlayer(ePlayer).getWondersScore(), gc.getGame().getInitWonders(), gc.getGame().getMaxWonders(), gc.getDefineINT("SCORE_WONDER_FACTOR"), False, bFinal, bVictory)
 		# MOD - START - Handicap Score Modifier
-		#return int(iPopulationScore + iLandScore + iWondersScore + iTechScore)
+		# return int(iPopulationScore + iLandScore + iWondersScore + iTechScore)
 
 		iModifier = gc.getPlayer(ePlayer).getHandicapScoreModifier()
 
@@ -262,87 +267,87 @@ class CvGameUtils:
 	def doHolyCity(self):
 		return False
 
-	def doHolyCityTech(self,argsList):
+	def doHolyCityTech(self, argsList):
 		eTeam = argsList[0]
 		ePlayer = argsList[1]
 		eTech = argsList[2]
 		bFirst = argsList[3]
 		return False
 
-	def doGold(self,argsList):
+	def doGold(self, argsList):
 		ePlayer = argsList[0]
 		return False
 
-	def doResearch(self,argsList):
+	def doResearch(self, argsList):
 		ePlayer = argsList[0]
 		return False
 
-	def doGoody(self,argsList):
+	def doGoody(self, argsList):
 		ePlayer = argsList[0]
 		pPlot = argsList[1]
 		pUnit = argsList[2]
 		return False
 
-	def doGrowth(self,argsList):
+	def doGrowth(self, argsList):
 		pCity = argsList[0]
 		return False
 
-	def doProduction(self,argsList):
+	def doProduction(self, argsList):
 		pCity = argsList[0]
 		return False
 
-	def doCulture(self,argsList):
+	def doCulture(self, argsList):
 		pCity = argsList[0]
 		return False
 
-	def doPlotCulture(self,argsList):
+	def doPlotCulture(self, argsList):
 		pCity = argsList[0]
 		bUpdate = argsList[1]
 		ePlayer = argsList[2]
 		iCultureRate = argsList[3]
 		return False
 
-	def doReligion(self,argsList):
+	def doReligion(self, argsList):
 		pCity = argsList[0]
 		return False
 
-	def cannotSpreadReligion(self,argsList):
+	def cannotSpreadReligion(self, argsList):
 		iOwner, iUnitID, iReligion, iX, iY = argsList[0]
 		return False
 
-	def doGreatPeople(self,argsList):
+	def doGreatPeople(self, argsList):
 		pCity = argsList[0]
 		return False
 
-	def doMeltdown(self,argsList):
+	def doMeltdown(self, argsList):
 		pCity = argsList[0]
 		return False
-	
-	def doReviveActivePlayer(self,argsList):
+
+	def doReviveActivePlayer(self, argsList):
 		"allows you to perform an action after an AIAutoPlay"
 		iPlayer = argsList[0]
 		return False
-	
+
 	def doPillageGold(self, argsList):
 		"controls the gold result of pillaging"
 		pPlot = argsList[0]
 		pUnit = argsList[1]
-		
+
 		iPillageGold = 0
 		iPillageGold = CyGame().getSorenRandNum(gc.getImprovementInfo(pPlot.getImprovementType()).getPillageGold(), "Pillage Gold 1")
 		iPillageGold += CyGame().getSorenRandNum(gc.getImprovementInfo(pPlot.getImprovementType()).getPillageGold(), "Pillage Gold 2")
 
 		iPillageGold += (pUnit.getPillageChange() * iPillageGold) / 100
-		
+
 		return iPillageGold
-	
+
 	def doCityCaptureGold(self, argsList):
 		"controls the gold result of capturing a city"
-		
+
 		pOldCity = argsList[0]
-		
+
 		iCaptureGold = 0
-		
+
 		iCaptureGold += gc.getDefineINT("BASE_CAPTURE_GOLD")
 		iCaptureGold += (pOldCity.getPopulation() * gc.getDefineINT("CAPTURE_GOLD_PER_POPULATION"))
 		iCaptureGold += CyGame().getSorenRandNum(gc.getDefineINT("CAPTURE_GOLD_RAND1"), "Capture Gold 1")
@@ -351,75 +356,75 @@ class CvGameUtils:
 		if (gc.getDefineINT("CAPTURE_GOLD_MAX_TURNS") > 0):
 			iCaptureGold *= cyIntRange((CyGame().getGameTurn() - pOldCity.getGameTurnAcquired()), 0, gc.getDefineINT("CAPTURE_GOLD_MAX_TURNS"))
 			iCaptureGold /= gc.getDefineINT("CAPTURE_GOLD_MAX_TURNS")
-		
+
 		return iCaptureGold
-	
-	def citiesDestroyFeatures(self,argsList):
-		iX, iY= argsList
+
+	def citiesDestroyFeatures(self, argsList):
+		iX, iY = argsList
 		return True
-		
-	def canFoundCitiesOnWater(self,argsList):
-		iX, iY= argsList
+
+	def canFoundCitiesOnWater(self, argsList):
+		iX, iY = argsList
 		return False
-		
-	def doCombat(self,argsList):
+
+	def doCombat(self, argsList):
 		pSelectionGroup, pDestPlot = argsList
 		return False
 
 	def getConscriptUnitType(self, argsList):
 		iPlayer = argsList[0]
-		iConscriptUnitType = -1 #return this with the value of the UNIT TYPE you want to be conscripted, -1 uses default system
-		
+		iConscriptUnitType = -1  # return this with the value of the UNIT TYPE you want to be conscripted, -1 uses default system
+
 		return iConscriptUnitType
 
 	def getCityFoundValue(self, argsList):
 		iPlayer, iPlotX, iPlotY = argsList
-		iFoundValue = -1 # Any value besides -1 will be used
-		
+		iFoundValue = -1  # Any value besides -1 will be used
+
 		return iFoundValue
-		
+
 	def canPickPlot(self, argsList):
 		pPlot = argsList[0]
 		return true
-		
+
 	def getUnitCostMod(self, argsList):
 		iPlayer, iUnit = argsList
-		iCostMod = -1 # Any value > 0 will be used
-		
+		iCostMod = -1  # Any value > 0 will be used
+
 		return iCostMod
 
 	def getBuildingCostMod(self, argsList):
 		iPlayer, iCityID, iBuilding = argsList
 		pPlayer = gc.getPlayer(iPlayer)
 		pCity = pPlayer.getCity(iCityID)
-		
-		iCostMod = -1 # Any value > 0 will be used
 
-		## MOD - START - Wonder production cost modifier
-		## possible place to set various building cost modifiers: this is a vanilla Firaxis python callback, only need to enable the USE_GET_BUILDING_COST_MOD_CALLBACK for it
-		## maybe it's still better to do it directly through the .dll, with proper XML tags
-		#if pPlayer.isCivic(con.iPastoralNomadism):
+		iCostMod = -1  # Any value > 0 will be used
+
+		# MOD - START - Wonder production cost modifier
+		# possible place to set various building cost modifiers: this is a vanilla Firaxis python callback, only need to enable the USE_GET_BUILDING_COST_MOD_CALLBACK for it
+		# maybe it's still better to do it directly through the .dll, with proper XML tags
+		# if pPlayer.isCivic(con.iPastoralNomadism):
 		#	BuildingInfo = gc.getBuildingInfo(iBuilding)
 		#	if isWorldWonderClass(BuildingInfo.getBuildingClassType()) or isNationalWonderClass(BuildingInfo.getBuildingClassType()):
 		#	#if isLimitedWonderClass(BuildingInfo.getBuildingClassType()):
 		#		iCostMod = 150 # iCostMod is % of the original production cost
-		## MOD - END - Wonder production cost modifier
+		# MOD - END - Wonder production cost modifier
 
 		return iCostMod
 
 	def canUpgradeAnywhere(self, argsList):
 		pUnit = argsList
-		
+
 		bCanUpgradeAnywhere = 0
-		
+
 		return bCanUpgradeAnywhere
-		
+
 	def getWidgetHelp(self, argsList):
 		eWidgetType, iData1, iData2, bOption = argsList
 ## Platy WorldBuilder ##
 		if eWidgetType == WidgetTypes.WIDGET_PYTHON:
 			if iData1 == 1027:
-				return CyTranslator().getText("TXT_KEY_WB_PLOT_DATA",())
+				return CyTranslator().getText("TXT_KEY_WB_PLOT_DATA", ())
 			elif iData1 == 1028:
 				return gc.getGameOptionInfo(iData2).getHelp()
 			elif iData1 == 1029:
@@ -453,61 +458,61 @@ class CvGameUtils:
 					sText += "\n" + CyTranslator().getText("[ICON_BULLET]", ()) + "onPlotRevealed"
 					return sText
 				elif iData2 == 1:
-					return CyTranslator().getText("TXT_KEY_WB_PLAYER_DATA",())
+					return CyTranslator().getText("TXT_KEY_WB_PLAYER_DATA", ())
 				elif iData2 == 2:
-					return CyTranslator().getText("TXT_KEY_WB_TEAM_DATA",())
+					return CyTranslator().getText("TXT_KEY_WB_TEAM_DATA", ())
 				elif iData2 == 3:
-					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_TECH",())
+					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_TECH", ())
 				elif iData2 == 4:
-					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_PROJECT",())
+					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_PROJECT", ())
 				elif iData2 == 5:
 					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_UNIT", ()) + " + " + CyTranslator().getText("TXT_KEY_CONCEPT_CITIES", ())
 				elif iData2 == 6:
-					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_PROMOTION",())
+					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_PROMOTION", ())
 				elif iData2 == 7:
-					return CyTranslator().getText("TXT_KEY_WB_CITY_DATA2",())
+					return CyTranslator().getText("TXT_KEY_WB_CITY_DATA2", ())
 				elif iData2 == 8:
-					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_BUILDING",())
+					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_BUILDING", ())
 				elif iData2 == 9:
 					return "Platy Builder\nVersion: 4.17b"
 				elif iData2 == 10:
-					return CyTranslator().getText("TXT_KEY_CONCEPT_EVENTS",())
+					return CyTranslator().getText("TXT_KEY_CONCEPT_EVENTS", ())
 				elif iData2 == 11:
-					return CyTranslator().getText("TXT_KEY_WB_RIVER_PLACEMENT",())
+					return CyTranslator().getText("TXT_KEY_WB_RIVER_PLACEMENT", ())
 				elif iData2 == 12:
-					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_IMPROVEMENT",())
+					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_IMPROVEMENT", ())
 				elif iData2 == 13:
-					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_BONUS",())
+					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_BONUS", ())
 				elif iData2 == 14:
-					return CyTranslator().getText("TXT_KEY_WB_PLOT_TYPE",())
+					return CyTranslator().getText("TXT_KEY_WB_PLOT_TYPE", ())
 				elif iData2 == 15:
-					return CyTranslator().getText("TXT_KEY_CONCEPT_TERRAIN",())
+					return CyTranslator().getText("TXT_KEY_CONCEPT_TERRAIN", ())
 				elif iData2 == 16:
-					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_ROUTE",())
+					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_ROUTE", ())
 				elif iData2 == 17:
-					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_FEATURE",())
+					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_FEATURE", ())
 				elif iData2 == 18:
-					return CyTranslator().getText("TXT_KEY_MISSION_BUILD_CITY",())
+					return CyTranslator().getText("TXT_KEY_MISSION_BUILD_CITY", ())
 				elif iData2 == 19:
-					return CyTranslator().getText("TXT_KEY_WB_ADD_BUILDINGS",())
+					return CyTranslator().getText("TXT_KEY_WB_ADD_BUILDINGS", ())
 				elif iData2 == 20:
-					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_RELIGION",())
+					return CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_RELIGION", ())
 				elif iData2 == 21:
-					return CyTranslator().getText("TXT_KEY_CONCEPT_CORPORATIONS",())
+					return CyTranslator().getText("TXT_KEY_CONCEPT_CORPORATIONS", ())
 				elif iData2 == 22:
-					return CyTranslator().getText("TXT_KEY_ESPIONAGE_CULTURE",())
+					return CyTranslator().getText("TXT_KEY_ESPIONAGE_CULTURE", ())
 				elif iData2 == 23:
-					return CyTranslator().getText("TXT_KEY_PITBOSS_GAME_OPTIONS",())
+					return CyTranslator().getText("TXT_KEY_PITBOSS_GAME_OPTIONS", ())
 				elif iData2 == 24:
-					return CyTranslator().getText("TXT_KEY_WB_SENSIBILITY",())
+					return CyTranslator().getText("TXT_KEY_WB_SENSIBILITY", ())
 				elif iData2 == 27:
-					return CyTranslator().getText("TXT_KEY_WB_ADD_UNITS",())
+					return CyTranslator().getText("TXT_KEY_WB_ADD_UNITS", ())
 				elif iData2 == 28:
-					return CyTranslator().getText("TXT_KEY_WB_TERRITORY",())
+					return CyTranslator().getText("TXT_KEY_WB_TERRITORY", ())
 				elif iData2 == 29:
-					return CyTranslator().getText("TXT_KEY_WB_ERASE_ALL_PLOTS",())
+					return CyTranslator().getText("TXT_KEY_WB_ERASE_ALL_PLOTS", ())
 				elif iData2 == 30:
-					return CyTranslator().getText("TXT_KEY_WB_REPEATABLE",())
+					return CyTranslator().getText("TXT_KEY_WB_REPEATABLE", ())
 				elif iData2 == 31:
 					return CyTranslator().getText("TXT_KEY_PEDIA_HIDE_INACTIVE", ())
 				elif iData2 == 32:
@@ -517,26 +522,27 @@ class CvGameUtils:
 				elif iData2 == 34:
 					return CyTranslator().getText("TXT_KEY_CONCEPT_TRADE", ())
 			elif iData1 > 1029 and iData1 < 1040:
-				if iData1 %2:
+				if iData1 % 2:
 					return "-"
 				return "+"
 			elif iData1 == 1041:
-				return CyTranslator().getText("TXT_KEY_WB_KILL",())
+				return CyTranslator().getText("TXT_KEY_WB_KILL", ())
 			elif iData1 == 1042:
-				return CyTranslator().getText("TXT_KEY_MISSION_SKIP",())
+				return CyTranslator().getText("TXT_KEY_MISSION_SKIP", ())
 			elif iData1 == 1043:
 				if iData2 == 0:
-					return CyTranslator().getText("TXT_KEY_WB_DONE",())
+					return CyTranslator().getText("TXT_KEY_WB_DONE", ())
 				elif iData2 == 1:
-					return CyTranslator().getText("TXT_KEY_WB_FORTIFY",())
+					return CyTranslator().getText("TXT_KEY_WB_FORTIFY", ())
 				elif iData2 == 2:
-					return CyTranslator().getText("TXT_KEY_WB_WAIT",())
+					return CyTranslator().getText("TXT_KEY_WB_WAIT", ())
 ## Revolutions ##
 			elif iData1 > 5999 and iData1 < 6100:
 				iPlayer = iData1 - 6000
 				pRevPlayer = gc.getPlayer(iPlayer)
 				pCity = gc.getPlayer(iPlayer).getCity(iData2)
-				if pCity.isNone(): return ""
+				if pCity.isNone():
+					return ""
 				iGlobalModifier = pRevPlayer.getRevModifier()
 				sText = CyTranslator().getText("[ICON_UNHAPPY]", ()) + ": " + str(Revolutions.Revolutions().getRevHappy(pCity)) + "\n"
 				sText += CyTranslator().getText("[ICON_UNHEALTHY]", ()) + ": " + str(Revolutions.Revolutions().getRevHealth(pCity)) + "\n"
@@ -547,15 +553,15 @@ class CvGameUtils:
 				sText += CyTranslator().getText("[ICON_ANGRYPOP]", ()) + ": " + str(Revolutions.Revolutions().getRevPopulation(pCity)) + "\n"
 				sText += CyTranslator().getText("[ICON_ESPIONAGE]", ()) + ": " + str(Revolutions.Revolutions().getRevEspionage(pCity)) + "\n"
 				sText += CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_CIVIC", ()) + ": " + str(Revolutions.Revolutions().getRevCivics(pCity, iPlayer)) + "\n"
-				sText += CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_BUILDING", ()) + u" %c" %(CyGame().getSymbolID(FontSymbols.SEPARATISM_POS_CHAR)) + ": " + str(Revolutions.Revolutions().getRevBuildingsPositive(pCity)) + "\n"
-				sText += CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_BUILDING", ()) + u" %c" %(CyGame().getSymbolID(FontSymbols.SEPARATISM_NEG_CHAR)) + ": " + str(Revolutions.Revolutions().getRevBuildingsNegative(pCity)) + "\n"
-				sText += CyTranslator().getText("TXT_KEY_REVOLUTION_TOTAL", ()) + u" %c" %(CyGame().getSymbolID(FontSymbols.SEPARATISM_POS_CHAR)) + ": " + str(Revolutions.Revolutions().getRevPositives(pCity, iPlayer)) + "\n"
-				sText += CyTranslator().getText("TXT_KEY_REVOLUTION_TOTAL", ()) + u" %c" %(CyGame().getSymbolID(FontSymbols.SEPARATISM_NEG_CHAR)) + ": " + str(Revolutions.Revolutions().getRevNegatives(pCity, iPlayer, iGlobalModifier)) + "\n"
+				sText += CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_BUILDING", ()) + u" %c" % (CyGame().getSymbolID(FontSymbols.SEPARATISM_POS_CHAR)) + ": " + str(Revolutions.Revolutions().getRevBuildingsPositive(pCity)) + "\n"
+				sText += CyTranslator().getText("TXT_KEY_PEDIA_CATEGORY_BUILDING", ()) + u" %c" % (CyGame().getSymbolID(FontSymbols.SEPARATISM_NEG_CHAR)) + ": " + str(Revolutions.Revolutions().getRevBuildingsNegative(pCity)) + "\n"
+				sText += CyTranslator().getText("TXT_KEY_REVOLUTION_TOTAL", ()) + u" %c" % (CyGame().getSymbolID(FontSymbols.SEPARATISM_POS_CHAR)) + ": " + str(Revolutions.Revolutions().getRevPositives(pCity, iPlayer)) + "\n"
+				sText += CyTranslator().getText("TXT_KEY_REVOLUTION_TOTAL", ()) + u" %c" % (CyGame().getSymbolID(FontSymbols.SEPARATISM_NEG_CHAR)) + ": " + str(Revolutions.Revolutions().getRevNegatives(pCity, iPlayer, iGlobalModifier)) + "\n"
 				sText += CyTranslator().getText("Modifiers", ()) + ": " + str(iGlobalModifier) + str("%")
 				return sText
 			elif iData1 == 7474:
-				return CyTranslator().getText("TXT_KEY_REVOLUTION_WATCH",())
-## Revolutions ##	
+				return CyTranslator().getText("TXT_KEY_REVOLUTION_WATCH", ())
+## Revolutions ##
 			elif iData1 == 6785:
 				return CyGameTextMgr().getProjectHelp(iData2, False, CyCity())
 			elif iData1 == 6787:
@@ -569,7 +575,8 @@ class CvGameUtils:
 				iPlayer = iData1 - 7200
 				pPlayer = gc.getPlayer(iPlayer)
 				pCity = pPlayer.getCity(iData2)
-				if CyGame().GetWorldBuilderMode(): return pCity.getName()
+				if CyGame().GetWorldBuilderMode():
+					return pCity.getName()
 ## Tech Widget Text##
 			elif iData1 == 7871:
 				return CyGameTextMgr().getTechHelp(iData2, False, False, False, False, -1)
@@ -585,7 +592,7 @@ class CvGameUtils:
 				if iData2 >= 0:
 					iFeature = iData2 % 10000
 				else:
-					iFeature = -1;
+					iFeature = -1
 				return CyGameTextMgr().getFeatureHelp(iFeature, False)
 ## Terrain Widget Text##
 			elif iData1 == 7875:
@@ -597,7 +604,7 @@ class CvGameUtils:
 ## Improvement Widget Text##
 			elif iData1 == 7877:
 				# MOD - START - Improved Civilopedia
-				#return CyGameTextMgr().getImprovementHelp(iData2, False)
+				# return CyGameTextMgr().getImprovementHelp(iData2, False)
 				return CyGameTextMgr().getImprovementHelp(iData2, False, False)
 				# MOD - END - Improved Civilopedia
 ## Bonus Widget Text##
@@ -626,26 +633,26 @@ class CvGameUtils:
 				else:
 					sText += "\n" + CyTranslator().getText("TXT_KEY_CIVICS_SCREEN_NO_UPKEEP", ())
 				return sText
-## Platy WorldBuilder ##		
+## Platy WorldBuilder ##
 		return u""
-		
+
 	def getUpgradePriceOverride(self, argsList):
 		iPlayer, iUnitID, iUnitTypeUpgrade = argsList
-		
-		return -1	# Any value 0 or above will be used
-	
+
+		return -1  # Any value 0 or above will be used
+
 	def getExperienceNeeded(self, argsList):
 		# use this function to set how much experience a unit needs
 		iLevel, iOwner = argsList
-		
+
 		iExperienceNeeded = 0
 
-		# regular epic game experience		
+		# regular epic game experience
 		iExperienceNeeded = iLevel * iLevel + 1
 
 		iModifier = gc.getPlayer(iOwner).getLevelExperienceModifier()
 		if (0 != iModifier):
 			iExperienceNeeded += (iExperienceNeeded * iModifier + 99) / 100   # ROUND UP
-			
+
 		return iExperienceNeeded
-		
+

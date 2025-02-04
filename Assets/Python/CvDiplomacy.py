@@ -556,7 +556,10 @@ class CvDiplomacy:
             DiplomacyTextInfo = gc.getDiplomacyInfo(eComment)
             if (not DiplomacyTextInfo):
                 print("%s IS AN INVALID DIPLOCOMMENT" % (eComment,))
-                CvUtil.pyAssert(True, "CvDiplomacy.getDiplomacyComment: %s does not have a DiplomacyTextInfo" % (eComment,))
+                CvUtil.pyAssert(
+                    True,
+                    "CvDiplomacy.getDiplomacyComment: %s does not have a DiplomacyTextInfo" % (eComment,)
+                )
                 return szFailString % (eComment,)
 
             szString = self.filterUserResponse(DiplomacyTextInfo)

@@ -21,6 +21,7 @@ __version__ = "$Revision: 1.4 $"
 # $Source: /usr/local/cvsroot/Civ4lerts/src/main/python/CvCustomEventManager.py,v $
 
 import CvEventManager
+
 # --------- Better BTS AI mod (1/2) -------------
 from Development import AIAutoPlay
 from Development import ChangePlayer
@@ -66,7 +67,7 @@ class CvCustomEventManager(CvEventManager.CvEventManager, object):
     def __init__(self, *args, **kwargs):
         super(CvCustomEventManager, self).__init__(*args, **kwargs)
         # map the initial EventHandlerMap values into the new data structure
-        for eventType, eventHandler in self.EventHandlerMap.iteritems():
+        for eventType, eventHandler in self.EventHandlerMap.items():
             self.setEventHandler(eventType, eventHandler)
         # --> INSERT EVENT HANDLER INITIALIZATION HERE <--
 
@@ -148,7 +149,7 @@ class CvCustomEventManager(CvEventManager.CvEventManager, object):
         }.get(eventType, self._handleDefaultEvent)(eventType, argsList[1:])
 
     def _handleDefaultEvent(self, eventType, argsList):
-        if self.EventHandlerMap.has_key(eventType):
+        if eventType in self.EventHandlerMap:
             for eventHandler in self.EventHandlerMap[eventType]:
                 # the last 6 arguments are for internal use by handleEvent
                 eventHandler(argsList[:len(argsList) - 6])
@@ -161,7 +162,7 @@ class CvCustomEventManager(CvEventManager.CvEventManager, object):
         subsequent handlers are invoked.
 
         """
-        if self.EventHandlerMap.has_key(eventType):
+        if eventType in self.EventHandlerMap:
             for eventHandler in self.EventHandlerMap[eventType]:
                 # the last 6 arguments are for internal use by handleEvent
                 result = eventHandler(argsList[:len(argsList) - 6])
@@ -176,7 +177,7 @@ class CvCustomEventManager(CvEventManager.CvEventManager, object):
 
         """
         result = ""
-        if self.EventHandlerMap.has_key(eventType):
+        if eventType in self.EventHandlerMap:
             for eventHandler in self.EventHandlerMap[eventType]:
                 # the last 6 arguments are for internal use by handleEvent
                 result = result + eventHandler(argsList[:len(argsList) - 6])

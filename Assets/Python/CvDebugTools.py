@@ -11,6 +11,7 @@ from pyHelper import Popup as PyPopup
 #from Screens import CvScreenEnums
 
 from CvPythonExtensions import *
+from CvPythonEngine import *
 
 PyPlayer = PyHelpers.PyPlayer
 PyGame = PyHelpers.PyGame
@@ -61,7 +62,9 @@ class CvDebugTools:
     def initEffectViewer(self, argsList):
         px, py = argsList
         pPlot = CyMap().plot(px, py)
-        popup = PyPopup.PyPopup(CvUtil.PopupTypeEffectViewer, EventContextTypes.EVENTCONTEXT_SELF)
+        popup = PyPopup.PyPopup(
+            CvUtil.PopupTypeEffectViewer, EventContextTypes.EVENTCONTEXT_SELF
+        )
         popup.setSize(550, 300)
         popup.setUserData((px, py))
         popup.setHeaderString("Python Debug Tools: Object Placer")
@@ -99,7 +102,9 @@ class CvDebugTools:
         'initUnitPicker - for placing units & cities'
         px, py = argsList
         pPlot = CyMap().plot(px, py)
-        popup = PyPopup.PyPopup(CvUtil.EventPlaceObject, EventContextTypes.EVENTCONTEXT_ALL)
+        popup = PyPopup.PyPopup(
+            CvUtil.EventPlaceObject, EventContextTypes.EVENTCONTEXT_ALL
+        )
         popup.setSize(400, 600)
         popup.setPosition(600, 25)
         popup.setUserData((px, py))
@@ -195,7 +200,9 @@ class CvDebugTools:
     ############################
     def cheatTechs(self):
         'Cheat techs and gold to the players'
-        popup = PyPopup.PyPopup(CvUtil.EventAwardTechsAndGold, EventContextTypes.EVENTCONTEXT_ALL)
+        popup = PyPopup.PyPopup(
+            CvUtil.EventAwardTechsAndGold, EventContextTypes.EVENTCONTEXT_ALL
+        )
         popup.setHeaderString("Tech & Gold Cheat!")
         popup.createPullDown()
         popup.addPullDownString("All", gc.getMAX_CIV_PLAYERS())
@@ -209,7 +216,7 @@ class CvDebugTools:
         for i in range(gc.getNumEraInfos()):
             popup.addButton(gc.getEraInfo(i).getDescription())
 
-        popup.launch(true, PopupStates.POPUPSTATE_IMMEDIATE)
+        popup.launch(True, PopupStates.POPUPSTATE_IMMEDIATE)
 
     def applyTechCheat(self, argsList):
         'Apply Tech Cheat'
@@ -257,10 +264,10 @@ class CvDebugTools:
         if g_bDebugMode == 0:
             return
         for i in range(gc.getMAX_PLAYERS()):
-            (unit, iter) = gc.getPlayer(i).firstUnit(false)
+            (unit, iter) = gc.getPlayer(i).firstUnit(False)
             while (unit):
                 unit.setMoves(0)
-                (unit, iter) = gc.getPlayer(i).nextUnit(iter, false)
+                (unit, iter) = gc.getPlayer(i).nextUnit(iter, False)
 
     def allUnits(self):
         self.putOneOfEveryUnit()
@@ -289,7 +296,10 @@ class CvDebugTools:
         if (iNUnits < map.getGridWidth() * map.getGridHeight()):
             for x in range(map.getGridWidth()):
                 for y in range((iNUnits / map.getGridWidth()) + 1):
-                    player.initUnit((x + y * map.getGridWidth()) % iNUnits, x, y, UnitAITypes.NO_UNITAI, DirectionTypes.NO_DIRECTION)
+                    player.initUnit(
+                        (x + y * map.getGridWidth()) % iNUnits,
+                        x, y, UnitAITypes.NO_UNITAI, DirectionTypes.NO_DIRECTION,
+                    )
 
     def wonderMovie(self):
         'ShowWonder Movie'
@@ -308,9 +318,11 @@ class CvDebugTools:
             if (len(szArtDef) > 0):
                 szMovieFile = CyArtFileMgr().getMovieArtInfo(szArtDef).getPath()
             if (szMovieFile != None and len(szMovieFile) > 0):
-                popup.addPullDownString(gc.getProjectInfo(i).getDescription(), gc.getNumBuildingInfos() + i)
+                popup.addPullDownString(
+                    gc.getProjectInfo(i).getDescription(), gc.getNumBuildingInfos() + i
+                )
 
-        popup.launch(true, PopupStates.POPUPSTATE_IMMEDIATE)
+        popup.launch(True, PopupStates.POPUPSTATE_IMMEDIATE)
 
     def applyWonderMovie(self, argsList):
         'Apply Wonder Movie'

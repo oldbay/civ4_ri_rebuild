@@ -10,6 +10,7 @@ import sys
 
 # For Civ game code access
 from CvPythonExtensions import *
+from CvPythonEngine import *
 
 # For exception handling
 SHOWEXCEPTIONS = 1
@@ -141,7 +142,8 @@ class RedirectDebug:
         self.m_PythonMgr = CyPythonMgr()
 
     def write(self, stuff):
-        # if str is non unicode and contains encoded unicode data, supply the right encoder to encode it into a unicode object
+        # if str is non unicode and contains encoded unicode data,
+        # supply the right encoder to encode it into a unicode object
         if (isinstance(stuff, unicode)):
             self.m_PythonMgr.debugMsgWide(stuff)
         else:
@@ -155,7 +157,8 @@ class RedirectError:
         self.m_PythonMgr = CyPythonMgr()
 
     def write(self, stuff):
-        # if str is non unicode and contains encoded unicode data, supply the right encoder to encode it into a unicode object
+        # if str is non unicode and contains encoded unicode data,
+        # supply the right encoder to encode it into a unicode object
         if (isinstance(stuff, unicode)):
             self.m_PythonMgr.errorMsgWide(stuff)
         else:
@@ -271,7 +274,7 @@ def getIcon(iconEntry):						# returns Font Icons
     global FontIconMap
 
     iconEntry = iconEntry.lower()
-    if (FontIconMap.has_key(iconEntry)):
+    if iconEntry in FontIconMap:
         return FontIconMap.get(iconEntry)
     else:
         return (u"%c" % (191,))
@@ -464,7 +467,7 @@ def initDynamicFontIcons():
 def addIconToMap(infoChar, desc):
     global FontIconMap
     desc = convertToStr(desc)
-    print "%s - %s" % (infoChar(), desc)
+    print("%s - %s" % (infoChar(), desc))
     uc = infoChar()
     if (uc >= 0):
         FontIconMap[desc] = u"%c" % (uc,)
