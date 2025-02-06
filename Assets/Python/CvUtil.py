@@ -10,7 +10,6 @@ import sys
 
 # For Civ game code access
 from CvPythonExtensions import *
-from CvPythonEngine import *
 
 # For exception handling
 SHOWEXCEPTIONS = 1

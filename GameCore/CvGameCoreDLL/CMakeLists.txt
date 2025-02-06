@@ -157,7 +157,8 @@ set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 #set(PROJECT_NAME CvGameCoreDLL)
 
 # name for python module
-set(PROJECT_NAME CvPythonExtensions)
+#set(PROJECT_NAME CvPythonExtensions)
+set(PROJECT_NAME CvGameCoreDLL)
 
 ################################################################################
 #options suported by the cmake builder

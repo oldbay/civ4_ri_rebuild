@@ -1,3 +1,5 @@
+*.pyc
+*.bak
 
 GameCore/CvGameCoreDLL/x64/Debug
 !GameCore/CvGameCoreDLL/x64/Debug/.lock
