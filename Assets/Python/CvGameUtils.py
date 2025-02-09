@@ -8,7 +8,7 @@ import CvUtil
 from CvPythonExtensions import *
 from CvPythonEngine import *
 
-import CvEventInterface
+from EntryPoints import CvEventInterface
 import Consts as con
 
 ## Revolutions ##
@@ -248,10 +248,42 @@ class CvGameUtils:
 		bFinal = argsList[1]
 		bVictory = argsList[2]
 
-		iPopulationScore = CvUtil.getScoreComponent(gc.getPlayer(ePlayer).getPopScore(), gc.getGame().getInitPopulation(), gc.getGame().getMaxPopulation(), gc.getDefineINT("SCORE_POPULATION_FACTOR"), True, bFinal, bVictory)
-		iLandScore = CvUtil.getScoreComponent(gc.getPlayer(ePlayer).getLandScore(), gc.getGame().getInitLand(), gc.getGame().getMaxLand(), gc.getDefineINT("SCORE_LAND_FACTOR"), True, bFinal, bVictory)
-		iTechScore = CvUtil.getScoreComponent(gc.getPlayer(ePlayer).getTechScore(), gc.getGame().getInitTech(), gc.getGame().getMaxTech(), gc.getDefineINT("SCORE_TECH_FACTOR"), True, bFinal, bVictory)
-		iWondersScore = CvUtil.getScoreComponent(gc.getPlayer(ePlayer).getWondersScore(), gc.getGame().getInitWonders(), gc.getGame().getMaxWonders(), gc.getDefineINT("SCORE_WONDER_FACTOR"), False, bFinal, bVictory)
+		iPopulationScore = CvUtil.getScoreComponent(
+			gc.getPlayer(ePlayer).getPopScore(),
+			gc.getGame().getInitPopulation(),
+			gc.getGame().getMaxPopulation(),
+			gc.getDefineINT("SCORE_POPULATION_FACTOR"),
+			True,
+			bFinal,
+			bVictory
+		)
+		iLandScore = CvUtil.getScoreComponent(
+			gc.getPlayer(ePlayer).getLandScore(),
+			gc.getGame().getInitLand(),
+			gc.getGame().getMaxLand(),
+			gc.getDefineINT("SCORE_LAND_FACTOR"),
+			True,
+			bFinal,
+			bVictory
+		)
+		iTechScore = CvUtil.getScoreComponent(
+			gc.getPlayer(ePlayer).getTechScore(),
+			gc.getGame().getInitTech(),
+			gc.getGame().getMaxTech(),
+			gc.getDefineINT("SCORE_TECH_FACTOR"),
+			True,
+			bFinal,
+			bVictory
+		)
+		iWondersScore = CvUtil.getScoreComponent(
+			gc.getPlayer(ePlayer).getWondersScore(),
+			gc.getGame().getInitWonders(),
+			gc.getGame().getMaxWonders(),
+			gc.getDefineINT("SCORE_WONDER_FACTOR"),
+			False,
+			bFinal,
+			bVictory
+		)
 		# MOD - START - Handicap Score Modifier
 		# return int(iPopulationScore + iLandScore + iWondersScore + iTechScore)
 

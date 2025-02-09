@@ -2068,7 +2068,7 @@ class PyInfo:
             for i in range(numTerrain):
                 if self.info.checkTerrain(i):
                     featureTerrainList.append()
-            return featureTerrainLIst
+            return featureTerrainList
 
         def getFoodYieldChange(self):
             return self.info.getYieldChange(YieldTypes.YIELD_FOOD)
